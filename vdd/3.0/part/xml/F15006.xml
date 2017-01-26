@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15006" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un avocat peut-il exiger de l'argent d'un bénéficiaire d'aide juridictionnelle ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Oui, mais seulement si l'argent gagné grâce au procès a entraîné une trop forte hausse de vos ressources.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-10-19</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15006</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006491248&amp;cidTexte=LEGITEXT000006077779, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006078419</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N279</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N279">Acteurs de la justice</Niveau>
+<Niveau ID="F15006" type="Fiche Question-réponse">Un avocat peut-il exiger de l'argent d'un bénéficiaire d'aide juridictionnelle ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N279">
+<Titre>Acteurs de la justice</Titre>
+<Fiche ID="F2176">Magistrats et greffiers</Fiche>
+<Fiche ID="F2158">Huissier de justice</Fiche>
+<Fiche ID="F2153">Avocat</Fiche>
+<Fiche ID="F2164">Notaire</Fiche>
+<Fiche ID="F1540">Juré d'assises</Fiche>
+<Fiche ID="F1822">Médiateur civil</Fiche>
+<Fiche ID="F1739">Médiateur pénal</Fiche>
+<Fiche ID="F1736">Conciliateur de justice</Fiche>
+<Fiche ID="F2161">Expert judiciaire</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, même si vous êtes bénéficiaire de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle totale ou partielle</LienInterne>, votre avocat peut vous réclamer des honoraires supplémentaires, <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers"/> si les 4 conditions suivantes sont toutes réunies :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>il y a eu une décision de justice définitive dans l'affaire vous concernant, c'est-à-dire qu'aucun recours n'a été exercé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous avez gagné une somme importante grâce aux <LienInterne LienPublication="F1422" type="Fiche d'information" audience="Particuliers">dommages-intérêts</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>cette somme vous fait dépasser les plafonds requis pour toucher l'aide juridictionnelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et le bureau d'aide juridictionnelle vous a déjà <LienInterne LienPublication="F1475" type="Fiche Question-réponse" audience="Particuliers">retiré l'aide accordée</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de litige sur les honoraires, vous pouvez saisir <LienInterne LienPublication="F14724" type="Fiche Question-réponse" audience="Particuliers">le conseil de l'ordre des avocats</LienInterne>.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>il ne faut pas confondre ces honoraires supplémentaires avec <LienInterne LienPublication="F932" type="Fiche Question-réponse" audience="Particuliers">l'honoraire de résultat</LienInterne> qui n'est dû que si vous avez conclu une convention préalablement avec votre avocat.</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006491248&amp;cidTexte=LEGITEXT000006077779" ID="R45464">
+<Titre>Loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique : article 36</Titre>
+<Complement>Conditions pour demander des frais supplémentaires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006078419" ID="R38018">
+<Titre>Décret n°91-1266 du 19 décembre 1991 relatif à l'aide juridique</Titre>
+</Reference>
+<QuestionReponse ID="F1475" audience="Particuliers">L'aide juridictionnelle peut-elle être retirée ?</QuestionReponse>
+<QuestionReponse ID="F14724" audience="Particuliers">Comment régler un litige avec un avocat ?</QuestionReponse>
+<QuestionReponse ID="F15018" audience="Particuliers">Combien coûte un avocat ?</QuestionReponse>
+<QuestionReponse ID="F932" audience="Particuliers">Un avocat peut-il prendre un pourcentage sur l'argent gagné grâce à un procès ?</QuestionReponse>
+</Publication>

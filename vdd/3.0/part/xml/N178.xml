@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N178" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Allocation chômage d'aide au retour à l'emploi (ARE)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>L'allocation d'aide au retour à l'emploi (ARE) est un revenu de remplacement versé par Pôle emploi, sous certaines conditions, aux personnes inscrites comme demandeurs d'emploi et involontairement privés d'emploi.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-21</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N178</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N178" type="Dossier">Allocation chômage d'aide au retour à l'emploi (ARE)</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N461">Chômage</SousThemePere>
+<Fiche ID="F14860">Conditions d'attribution et démarche</Fiche>
+<Fiche ID="F1447">Montant</Fiche>
+<Fiche ID="F1776">Durée du versement</Fiche>
+<Fiche ID="F1465">Cumul avec des revenus d'activité</Fiche>
+<Introduction>
+<Texte><Paragraphe>L'allocation d'aide au retour à l'emploi (ARE) est un revenu de remplacement versé par Pôle emploi, sous certaines conditions, aux personnes inscrites comme demandeurs d'emploi et involontairement privés d'emploi.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N19775" audience="Particuliers">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N20382" audience="Particuliers">
+<Titre>Allocation de solidarité spécifique (ASS) et autres minima sociaux</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F33845" audience="Particuliers">
+<Titre>Aide à la recherche d'un premier emploi (Arpe)</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20839" type="Centre de contact">
+<Titre>Pôle emploi pour les demandeurs d'emploi - 3949</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone : services automatisés pour actualiser votre situation, signaler un changement de situation, vous informer d'un paiement, ...</Paragraphe>
+</Titre>
+								<Paragraphe>39 49</Paragraphe>
+								<Paragraphe>7 jours/7, 24 heures/24 </Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>
+			Depuis un fixe : appel gratuit pour les appels vers les services automatisés si votre opérateur gère la modulation tarifaire, sinon <Valeur>0,112 €</Valeur> TTC par appel</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>Depuis un mobile : décompte du forfait ou hors forfait selon les opérateurs.</Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone : mise en relation avec un conseiller pour vous inscrire, vous renseigner, modifier un rendez-vous</Paragraphe>
+</Titre>
+								<Paragraphe>39 49</Paragraphe>
+								<Paragraphe>Service accessible aux horaires fixés par chaque agence Pôle emploi.</Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>
+			
+      Depuis un fixe : appel à <Valeur>0,112 €</Valeur> TTC</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>Depuis un mobile : décompte du forfait ou hors forfait selon les opérateurs</Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Accès via le <LienExterne URL="https://www.pole-emploi.fr/faq/">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R194" type="Local personnalisé sur SP">
+<Titre>Pôle emploi</Titre>
+<PivotLocal>pole_emploi</PivotLocal>
+<RessourceWeb URL="http://www.pole-emploi.fr/informations/votre-pole-emploi-@/votre_pole_emploi/" commentaireLien="Pôle emploi - réseau local"/>
+<Source ID="R30668">Pôle emploi</Source>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R46261" URL="http://www.pole-emploi.fr/candidat/le-montant-de-votre-allocation-@/article.jspz?id=60579" audience="Particuliers">
+<Titre>Le montant de votre allocation d'aide au retour à l'emploi (ARE)</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R46262" URL="http://www.unedic.org/actualite/les-regles-d-indemnisation-mayotte-changent-le-1er-mai-2016-8213" audience="Particuliers">
+<Titre>Indemnisation du chômage à Mayotte</Titre>
+<Source ID="R33435">Unédic</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F12386" audience="Particuliers">Comment est indemnisé un agent public en cas de chômage ?</QuestionReponse>
+<QuestionReponse ID="F31592" audience="Particuliers">Comment sont remboursées les allocations chômage ou solidarité perçues à tort ?</QuestionReponse>
+<QuestionReponse ID="F15293" audience="Particuliers">L'époux d'un demandeur d'emploi décédé bénéficie-t-il d'un capital décès ?</QuestionReponse>
+<QuestionReponse ID="F2064" audience="Particuliers">Comment est calculé le salaire journalier de référence ?</QuestionReponse>
+<QuestionReponse ID="F31197" audience="Particuliers">Les allocations chômage peuvent-elles être réduites ou supprimées ?</QuestionReponse>
+<QuestionReponse ID="F33775" audience="Particuliers">Retour en France : quel droit aux allocations chômage ?</QuestionReponse>
+</Publication>

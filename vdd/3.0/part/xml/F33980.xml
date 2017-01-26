@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33980" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un réfugié doit-il faire une demande d'acceptation préalable à l'université ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Non, le candidat, qu'il soit apatride, réfugié ou bénéficiaire de la protection subsidiaire, est dispensé de la procédure de DAP à l'université.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-17</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33980</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027864420&amp;cidTexte=LEGITEXT000006071191</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N58</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N58">Inscription dans l'enseignement supérieur</Niveau>
+<Niveau ID="F33980" type="Fiche Question-réponse">Un réfugié doit-il faire une demande d'acceptation préalable à l'université ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N58">
+<Titre>Inscription dans l'enseignement supérieur</Titre>
+<Fiche ID="F2861">Première inscription dans l'enseignement supérieur</Fiche>
+<Fiche ID="F2865">Coût des études</Fiche>
+<Fiche ID="F2326">Étudiant en situation de handicap</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Non. Le candidat, qu'il soit <LienInterne LienPublication="F15402" type="Fiche Question-réponse" audience="Particuliers">apatride</LienInterne>, <LienInterne LienPublication="N106" type="Dossier" audience="Particuliers">réfugié</LienInterne> ou bénéficiaire de la <LienInterne LienPublication="F2689" type="Fiche d'information" audience="Particuliers">protection subsidiaire</LienInterne> par l'<LienInterne LienPublication="R31591" type="Acronyme">Ofpra</LienInterne>, est dispensé </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de <LienInterne LienPublication="F2864" type="Fiche d'information" audience="Particuliers">la procédure de demande d'acceptation préalable (DAP) à l'université</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de la vérification du niveau linguistique.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le récépissé de demande de régime de protection ne permet pas de bénéficier de la dispense, il faut présenter le justificatif d'attribution de régime de protection, c'est-à-dire le document définitif.</Paragraphe>
+<Paragraphe>De plus, la gestion de la candidature en 1<Exposant>ère</Exposant> année de licence ou de <LienInterne LienPublication="F23489" type="Fiche avec liens externes" audience="Particuliers">la 1ère année commune aux études de santé (PACES)</LienInterne> se fait hors <LienInterne LienPublication="F23476" type="Fiche d'information" audience="Particuliers">admission post bac</LienInterne>. </Paragraphe>
+<Paragraphe>La candidature doit se faire directement auprès de l'établissement qui est libre ou non de la retenir sur la base de ses propres critères. </Paragraphe>
+<Paragraphe>Par conséquent, dans la pratique, les universités vérifient que le candidat est titulaire d'un diplôme ouvrant l'accès à l'enseignement supérieur dans le pays où il a été obtenu et que son niveau de compréhension de la langue française est compatible avec la formation envisagée.</Paragraphe>
+<OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N106" audience="Particuliers">
+<Titre>Demande d'asile</Titre>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F2689" audience="Particuliers">
+<Titre>Protection subsidiaire : titre de séjour, document de voyage et accompagnement</Titre>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2864" audience="Particuliers">
+<Titre>Étudiant étranger : demande d'admission préalable à l'université</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F23476" audience="Particuliers">
+<Titre>Procédure Admission Post Bac (APB) </Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F23489" audience="Particuliers">
+<Titre>Enseignement supérieur : formations et diplômes de la santé</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027864420&amp;cidTexte=LEGITEXT000006071191" ID="R11203">
+<Titre>Code de l'éducation : articles D612-11 à D612-18</Titre>
+</Reference>
+<Abreviation ID="R31591" type="Acronyme">
+<Titre>Ofpra</Titre>
+<Texte>
+<Paragraphe>Office français de protection des réfugiés et apatrides</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F15402" audience="Particuliers">Dans quels cas est-on reconnu apatride ?</QuestionReponse>
+</Publication>

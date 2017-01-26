@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N379" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Retraite d'un agent de la fonction publique (titulaire et non titulaire)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Cette page détaille, à titre d'information, les principales règles de la retraite des agents titulaires et contractuels des 3 fonctions publiques.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-06</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N379</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N379" type="Dossier">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20166">Retraite</SousThemePere>
+<SousDossier ID="N379-1">
+<Titre>Avant la retraite</Titre><Fiche ID="F13890">Droit à l'information du futur retraité</Fiche>
+<Fiche ID="F1049">Rachat des années d'études</Fiche>
+</SousDossier>
+<SousDossier ID="N379-2">
+<Titre>Âge de départ à la retraite</Titre><Fiche ID="F2786">Âge minimum de départ à la retraite du fonctionnaire</Fiche>
+<Fiche ID="F594">Âge minimum de départ à la retraite du contractuel</Fiche>
+<Fiche ID="F12395">Limite d'âge</Fiche>
+</SousDossier>
+<SousDossier ID="N379-3">
+<Titre>Départ à la retraite anticipé</Titre><Fiche ID="F13946">Carrière longue</Fiche>
+<Fiche ID="F14060">Handicap</Fiche>
+<Fiche ID="F20659">Fonctionnaire parent d'un enfant handicapé</Fiche>
+</SousDossier>
+<SousDossier ID="N379-4">
+<Titre>Retraite à taux plein</Titre><Fiche ID="F1781">Taux plein du fonctionnaire</Fiche>
+<Fiche ID="F2081">Taux plein du contractuel</Fiche>
+</SousDossier>
+<SousDossier ID="N379-5">
+<Titre>Pension de retraite de base</Titre><Fiche ID="F21142">Calcul de la pension</Fiche>
+<Fiche ID="F13736">Services pris en compte</Fiche>
+<Fiche ID="F2095">Rétablissement au régime général</Fiche>
+<Fiche ID="F16494">Majoration de la pension</Fiche>
+<Fiche ID="F20349">Décote</Fiche>
+<Fiche ID="F13300">Minimum garanti</Fiche>
+<Fiche ID="F12402">Cumul emploi - retraite de base</Fiche>
+</SousDossier>
+<SousDossier ID="N379-6">
+<Titre>Pension de retraite complémentaire</Titre><Fiche ID="F12387">Retraite complémentaire des fonctionnaires (RAFP)</Fiche>
+<Fiche ID="F12390">Retraite complémentaire des agents non titulaires (Ircantec)</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Les informations disponibles à partir de cette page détaillent les principales règles concernant la retraite des fonctionnaires civils et contractuels des 3 fonctions publiques.  Ces éléments sont présentés à titre d'information, et ne suffisent pas à estimer la date de votre départ à la retraite, ni le montant de votre future pension. Pour tout information concernant votre cas personnel, adressez-vous à votre administration ou directement à votre caisse de retraite.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N381" audience="Particuliers">
+<Titre>Retraite des salariés du secteur privé</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R46083" URL="https://www.info-retraite.fr/portail-services/#/" type="Téléservice">
+<Titre>Mon compte retraite</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R3038" URL="http://www.marel.fr/" type="Simulateur">
+<Titre>Estimation du montant de la pension de retraite (salarié, fonctionnaire, travailleur indépendant)</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20786" URL="https://www.lassuranceretraite.fr/portail-services-ihm/index.html#/authentifier" type="Téléservice">
+<Titre>Consultation du relevé de situation individuelle</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37077" URL="https://retraitesdeletat.gouv.fr/actif/ma-carriere/mon-information-retraite#le-releve-de-situation-individuelle" type="Téléservice">
+<Titre>Demande d'un relevé de situation individuelle (fonctionnaires de l'État, magistrats et militaires)</Titre>
+<Source ID="R30647">Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1410" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12230.do" numerocerfa="12230*14" type="Formulaire">
+<Titre>Demande de pension de retraite d'un fonctionnaire de l'État ou d'un militaire et demande de retraite additionnelle</Titre>
+<Source ID="R30647">Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="14903*12">
+<Titre>Demande de retraite d'un fonctionnaire de l'État ou d'un magistrat</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14903.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31547" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14903.do" numerocerfa="14903*12" type="Formulaire">
+<Titre>Demande de retraite d'un fonctionnaire de l'État ou d'un magistrat</Titre>
+<Source ID="R30647">Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="12230*14">
+<Titre>Demande de pension de retraite d'un fonctionnaire de l'État ou d'un militaire et demande de retraite additionnelle</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12230.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1388" URL="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/Guides%20et%20formulaires/demande-retraite-personnelle.pdf" numerocerfa="10916*08" autrenumero="S 5135g" type="Formulaire">
+<Titre>Demande de retraite personnelle - régime général de la Sécurité sociale, régime agricole (MSA), régime social des indépendants (RSI), régime des cultes (Cavimac)</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1349" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13581.do" format="application/force-download" poids="938.7 KB" numerocerfa="13581*02" type="Téléservice">
+<Titre>Demande de majoration de pension pour enfant - Fonctionnaire d'État, magistrat ou militaire retraité</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R249" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13966.do" format="application/pdf" poids="135.7 KB" numerocerfa="13966*01" type="Formulaire">
+<Titre>Demande de retraite personnelle (personnels de la RATP)</Titre>
+<Source ID="R30866">Caisse de retraite du personnel de la RATP</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2128" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13965.do" numerocerfa="13965*01" type="Formulaire">
+<Titre>Demande de majoration de pension de retraite pour enfants (personnels de la RATP)</Titre>
+<Source ID="R30866">Caisse de retraite du personnel de la RATP</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19719" URL="https://sl2.cdc.retraites.fr/sl2EIhm/web/connexion?avi=false" type="Téléservice">
+<Titre>Caisse des dépôts retraite en ligne</Titre>
+<Source ID="R30677">Caisse des dépôts et consignations (CDC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2027" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11851.do" numerocerfa="11851*02" type="Formulaire">
+<Titre>Certificat de vie pour une personne domiciliée à l'étranger</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41812" URL="http://www.info-retraite.fr" commentaireLien="Info retraite : site commun aux organismes de retraite obligatoire" audience="Particuliers">
+<Titre>Site info-retraite.fr</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41800" URL="https://retraitesdeletat.gouv.fr/" commentaireLien="Le site du régime des retraites des fonctionnaires de l'Etat, des magistrats et des militaires" audience="Particuliers">
+<Titre>Site des retraites des fonctionnaires de l'État</Titre>
+<Source ID="R30647">Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41797" URL="http://www.cnracl.fr" commentaireLien="Site de la Caisse nationale de retraite des agents des collectivités locales" audience="Particuliers">
+<Titre>Site de la CNRACL</Titre>
+<Source ID="R30623">Caisse nationale de retraite des agents des collectivités locales (CNRACL)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41802" URL="http://www.rafp.fr" commentaireLien="Site de la caisse de retraite complémentaire obligatoire des fonctionnaires (retraite additionnelle de la fonction publique)" audience="Particuliers">
+<Titre>Site du RAFP</Titre>
+<Source ID="R30687">Établissement de retraite additionnelle de la fonction publique (ERAFP)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41799" URL="http://www.ircantec.fr" audience="Particuliers">
+<Titre>Site de l'Ircantec</Titre>
+<Source ID="R30645">Institution de retraite complémentaire - agents non titulaires de l'État et des collectivités (Ircantec)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2504" audience="Particuliers">Comment connaître sa caisse de retraite ?</QuestionReponse>
+<QuestionReponse ID="F12389" audience="Particuliers">Qu'est-ce qu'une retraite de base et qu'est-ce qu'une retraite complémentaire ?</QuestionReponse>
+<QuestionReponse ID="F2102" audience="Particuliers">Qu'est-ce qu'un emploi de catégorie active ou sédentaire ?</QuestionReponse>
+<QuestionReponse ID="F31541" audience="Particuliers">Quelle démarche doit suivre un agent public pour demander sa retraite ?</QuestionReponse>
+<QuestionReponse ID="F623" audience="Particuliers">Agent contractuel puis titularisé : quels sont les droits pour la retraite ?</QuestionReponse>
+<QuestionReponse ID="F2766" audience="Particuliers">Un fonctionnaire ayant 3 enfants peut-il encore partir en retraite anticipée ?</QuestionReponse>
+<QuestionReponse ID="F31207" audience="Particuliers">Quelles sont les cotisations retraite d'un fonctionnaire en détachement ?</QuestionReponse>
+<QuestionReponse ID="F12811" audience="Particuliers">Comment est versée la pension de retraite de base d'un fonctionnaire ?</QuestionReponse>
+<QuestionReponse ID="F18217" audience="Particuliers">Un fonctionnaire peut-il partir en retraite anticipée pour raisons de santé ?</QuestionReponse>
+<QuestionReponse ID="F33679" audience="Particuliers">Retraite dans le public et le privé : quelle majoration pour enfants appliquer ?</QuestionReponse>
+<QuestionReponse ID="F2114" audience="Particuliers">Peut-on encore bénéficier de la cessation progressive d'activité (CPA) ?</QuestionReponse>
+<CommentFaireSi ID="F17904">Je prépare ma retraite</CommentFaireSi>
+</Publication>

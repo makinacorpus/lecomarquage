@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19005" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Dossier de déclaration préalable de formation à la gestion associative</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Dossier de déclaration préalable de formation à la gestion associative - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-09</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19005</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N22150">Bénévoles, volontaires et salariés d'une association</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19005" type="Formulaire">Dossier de déclaration préalable de formation à la gestion associative</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Texte><Paragraphe>Permet à une association d'être habilitée à délivrer des certificats de formation à la gestion associative (CFGA), au terme des formations qu'elle organise à l'attention des bénévoles.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.associations.gouv.fr/IMG/pdf/Modele_dossier_CFGA.pdf" format="application/pdf" poids="54.3 KB">
+<Source>Ministère en charge de la vie associative</Source>
+</LienWeb>
+<FicheLiee ID="F21885" audience="Associations" type="Fiche d'information">
+<Titre>Formation des bénévoles d'une association</Titre>
+<Dossier ID="N22150">Bénévoles, volontaires et salariés d'une association</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

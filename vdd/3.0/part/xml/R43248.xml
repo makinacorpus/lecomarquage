@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R43248" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Registre des français à l'étranger - Inscription consulaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe, Papiers - Citoyenneté</dc:subject>
+<dc:description>Service accessible avec un compte personnel service-public.fr Uniquement pour une première inscription</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-21</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R43248</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R43248" type="Téléservice">Registre des français à l'étranger - Inscription consulaire</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Service accessible avec un compte personnel service-public.fr</Paragraphe>
+<Paragraphe>Uniquement pour une première inscription</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Attention>
+<Titre>Attention</Titre><Paragraphe>Si vous avez déjà été inscrit dans ce consulat ou un autre, il convient de faire une démarche <LienInterne LienPublication="R43249" type="Téléservice" audience="Particuliers">d'actualisation</LienInterne> ou de <LienInterne LienPublication="R43250" type="Téléservice" audience="Particuliers">renouvellement</LienInterne>
+</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="https://psl.service-public.fr/mademarche/INSRegistreFR/demarche?action=INSCRIPTION">
+<Source>Ministère en charge des affaires étrangères</Source>
+</LienWeb>
+<FicheLiee ID="F33307" audience="Particuliers" type="Fiche d'information">
+<Titre>Inscription consulaire au registre des Français établis hors de France</Titre>
+<Dossier ID="N120">Vivre à l'étranger</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1372" audience="Particuliers" type="Fiche d'information">
+<Titre>Inscription sur les listes électorales : déménagement</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1961" audience="Particuliers" type="Fiche d'information">
+<Titre>Listes électorales : inscription d'office à 18 ans</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1367" audience="Particuliers" type="Fiche d'information">
+<Titre>Listes électorales : nouvelle inscription</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16904" audience="Particuliers" type="Fiche d'information">
+<Titre>Vote d'un Français domicilié à l'étranger</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

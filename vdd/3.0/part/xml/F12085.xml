@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12085" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Famille d'accueil et accueillant familial : quelles différences ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>L'accueillant familial et la famille d'accueil constituent 2 modes d'accueil familiaux différents. L'accueillant familial accueille des personnes âgées ou handicapées adultes alors que la famille d'accueil concerne des mineurs et de jeunes majeurs.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-02-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12085</dc:identifier>
+<dc:source>http://www.legifrance.com/affichCode.do?idSectionTA=LEGISCTA000006157646&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157648&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31172</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31172">Accueil familial</Niveau>
+<Niveau ID="F12085" type="Fiche Question-réponse">Famille d'accueil et accueillant familial : quelles différences ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20271">Hébergement</SousThemePere><DossierPere ID="N31172">
+<Titre>Accueil familial</Titre>
+<Fiche ID="F15240">Personne âgée et/ou handicapée</Fiche>
+<Fiche ID="F1260">Jeune en difficultés</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'accueillant familial et la famille d'accueil constituent 2 modes d'accueil familiaux différents. L'accueillant familial accueille des personnes âgées ou handicapées adultes alors que la famille d'accueil concerne des mineurs et de jeunes majeurs.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Accueillant familial</Paragraphe>
+</Titre><Paragraphe>
+<LienInterne LienPublication="N31172" type="Dossier" audience="Particuliers">L'accueillant familial</LienInterne> (personne seule ou couple) accueille à son domicile, moyennant rémunération, des personnes âgées ou handicapées adultes. Outre l'hébergement, il prend en charge les repas, le ménage, les courses et les activités de la personne accueillie.</Paragraphe>
+<Paragraphe>L'accueillant familial  doit être titulaire d'un agrément délivré par le président du conseil général de son département.</Paragraphe>
+<Paragraphe>Il ne doit pas y avoir de lien de parenté entre la personne accueillie et l'accueillant familial.</Paragraphe>
+<Paragraphe>Deux dispositifs existent : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Accueil familial direct dans lequel la personne accueillie rémunère directement l'accueillant familial</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Accueil familial salarié dans lequel l'accueillant familial est salarié d'un organisme employeur (certains organismes mettent à disposition les logements adaptés à cette forme d'accueil).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Un <LienExterne URL="http://www.social-sante.gouv.fr/documentation-publications,49/ouvrages-pratiques-chartes,1348/handicap,1688/guide-de-l-accueil-familial-pour,15584.html">guide de l'accueil familial pour les personnes âgées et les personnes handicapées</LienExterne>
+
+ explique le dispositif et son fonctionnement.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Famille d'accueil</Paragraphe>
+</Titre><Paragraphe>L'assistant familial est une personne qui, moyennant rémunération, accueille à son domicile, de façon permanente, des enfants et des jeunes majeurs de moins de 21 ans. </Paragraphe>
+<Paragraphe>L'assistant familial  constitue, avec les personnes résidant à son domicile, une famille d'accueil.</Paragraphe>
+<Paragraphe>L'accueil concerne des jeunes faisant l'objet de mesures  de protection de l'enfance ou d'une prise en charge médico-sociale ou thérapeutique.</Paragraphe>
+<Paragraphe>L'assistant familial doit être titulaire d'un <LienInterne LienPublication="F1260" type="Fiche d'information" audience="Particuliers">agrément</LienInterne> délivré par le président du conseil général de son département.</Paragraphe>
+<Paragraphe>L’assistant familial est salarié de la personne morale qui lui confie le jeune.
+		
+			Cette personne morale employeur peut être une personne de droit public (Département, hôpital) ou une personne de droit privé (placement familial associatif, établissement privé de santé).</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F15240" audience="Particuliers">
+<Titre>Accueil d'une personne âgée et/ou handicapée (accueillant familial)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1260" audience="Particuliers">
+<Titre>Famille d'accueil (assistant familial)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<Complement>Pour s'informer sur les dispositifs de l'accueillant familial et de l'assistant familial</Complement>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.com/affichCode.do?idSectionTA=LEGISCTA000006157646&amp;cidTexte=LEGITEXT000006074069" ID="R36649">
+<Titre>Code de l'action sociale et des familles : articles L421-1 à L421-18</Titre>
+<Complement>Famille d'accueil (assistant familial)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157648&amp;cidTexte=LEGITEXT000006074069" ID="R36650">
+<Titre>Code de l'action sociale et des familles : articles L441-1 à L441-4</Titre>
+<Complement>Accueillant familial</Complement>
+</Reference>
+
+
+</Publication>

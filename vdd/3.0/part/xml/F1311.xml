@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1311" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Logement du secteur privé : révision du loyer en cours de bail</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le loyer peut être révisé une fois par an si une clause inscrite dans le bail le prévoit. La date de révision est alors celle indiquée dans le bail. À défaut, il faut tenir compte de la date de la signature du bail. Si le bail ne prévoit pas de clause de révision, le montant du loyer reste le même durant toute la durée du bail.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-12</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1311</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028778231&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028777184&amp;cidTexte=LEGITEXT000006069108</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N337</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N337">Location immobilière : loyer</Niveau>
+<Niveau ID="F1311" type="Fiche d'information">Logement du secteur privé : révision du loyer en cours de bail</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N337">
+<Titre>Location immobilière : loyer</Titre><SousDossier ID="N337-1">
+<Titre>Loyer d'un logement privé</Titre>
+<Fiche ID="F1310">Fixation et paiement</Fiche>
+<Fiche ID="F1311">Révision annuelle</Fiche>
+<Fiche ID="F1312">Réévaluation d'un loyer sous-évalué</Fiche>
+<Fiche ID="F33066">Réévaluation d'un loyer sur-évalué (action en diminution de loyer)</Fiche>
+<Fiche ID="F13723">Indice de référence des loyers (IRL)</Fiche>
+</SousDossier>
+<SousDossier ID="N337-2">
+<Titre>Loyer d'un logement social</Titre>
+<Fiche ID="F1317">Détermination du loyer</Fiche>
+<Fiche ID="F21051">Supplément de loyer de solidarité (SLS)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Loyer d'un logement privé</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le loyer peut être révisé une fois par an si une clause inscrite dans le bail le prévoit. La date de révision est alors celle indiquée dans le bail. À défaut, il faut tenir compte de la date de la signature du bail. Si le bail ne prévoit pas de clause de révision, le montant du loyer reste le même durant toute la durée du bail.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Indice de référence des loyers (IRL)</Paragraphe>
+</Titre><Paragraphe>
+<LienInterne LienPublication="F13723" type="Fiche d'information" audience="Particuliers">L'IRL</LienInterne> sert de base pour la révision des loyers. Il fixe les plafonds des augmentations annuelles des loyers que peuvent exiger les propriétaires de leurs locataires.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le <LienInterne LienPublication="F17709" type="Fiche Question-réponse" audience="Particuliers">loyer d'un logement soumis au  régime de la loi de 48</LienInterne> est réévalué chaque année selon des règles spécifiques et la  <LienInterne LienPublication="F2541" type="Fiche Question-réponse" audience="Particuliers">révision annuelle d'un logement conventionné est plafonnée</LienInterne>. </Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Règle de calcul</Paragraphe>
+</Titre><Paragraphe>Pour réviser le montant du loyer, il faut prendre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le montant du loyer hors charge avant l'augmentation (L),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la nouvelle valeur de <LienInterne LienPublication="F13723" type="Fiche d'information" audience="Particuliers">l'indice de référence des loyers</LienInterne> (N) correspondant au trimestre de référence prévu dans le contrat. Si le bail ne le précise pas, c'est le trimestre du dernier indice de référence des loyers connu lors de la signature du contrat de location,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et l'indice de référence des loyers du même trimestre de l'année précédente (P).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le calcul consiste ensuite à effectuer l'opération suivante : (L x N) / P = nouveau loyer</Paragraphe>
+<Paragraphe>En cas d'erreur, le locataire peut contester l'augmentation fixée par son bailleur.</Paragraphe><ServiceEnLigne ID="R31939" URL="" type="Modèle de document">
+<Titre>Contester une révision de loyer en cours de bail</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de saisir son bailleur pour contester une augmentation de loyer </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Variable>Nom, prénom et coordonnées du locataire</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Madame/Monsieur</Variable>
+</Paragraphe>
+<Paragraphe>Vous souhaitez augmenter mon loyer de la somme de <Variable>augmentation du loyer</Variable> en raison de la révision annuelle.</Paragraphe>
+<Paragraphe>Je tiens à vous préciser que le bail stipule, qu'à chaque anniversaire du contrat, la hausse de loyer ne peut excéder la variation de l'indice de référence des loyers (IRL) de l'Insee pour <Variable>période de référence indiquée sur le bail</Variable>. Cette variation étant de <Variable>variation de l'IRL</Variable> mon nouveau loyer devrait donc être de <Variable>montant recalculé</Variable>.</Paragraphe>
+<Paragraphe>Cordialement.</Paragraphe>
+<Paragraphe>signature</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Majoration exceptionnelle en cours de bail</Paragraphe>
+</Titre><Paragraphe>Exceptionnellement, le loyer peut être majoré en cours de bail en cas de <LienIntra LienID="R45485" type="Définition de glossaire">travaux d'amélioration</LienIntra> exécutés aux frais du bailleur.</Paragraphe>
+<Paragraphe>Cette majoration de loyer pour travaux est possible : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si une clause le prévoit au sein du contrat de location,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>par avenant intégré au contrat en cours de bail. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La majoration de loyer est applicable après l'achèvement des travaux.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Révision rétroactive</Paragraphe>
+</Titre><Paragraphe>Le bailleur perd la possibilité de réviser le loyer s'il n'en fait pas la demande au locataire dans l'année suivant la date de révision.</Paragraphe>
+<Paragraphe>S'il fait sa demande dans les temps, la révision prend effet à compter de sa demande.</Paragraphe>
+
+</Chapitre>
+</Texte>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028778231&amp;cidTexte=LEGITEXT000006069108" ID="R36687">
+<Titre>Loi n°89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs : article 17-1</Titre>
+<Complement>Modalités de l'augmentation annuelle</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028777184&amp;cidTexte=LEGITEXT000006069108" ID="R36625">
+<Titre>Loi n°89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs : article 7-1</Titre>
+<Complement>Augmentation non rétroactive</Complement>
+</Reference>
+<ServiceEnLigne ID="R31939" URL="" type="Modèle de document">
+<Titre>Contester une révision de loyer en cours de bail</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2977" URL="https://www.anil.org/outils/outils-de-calcul/revision-de-loyer/" type="Simulateur">
+<Titre>Calculer la révision de son loyer</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R42788" URL="https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques/2008/nouvel-irl-revision-annuelle-des-loyers/" audience="Particuliers">
+<Titre>Révision annuelle des loyers</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R45485">
+<Titre>Notion de "travaux d'amélioration" dans les parties communes ou privatives</Titre>
+<Texte>
+				<Paragraphe>Travaux apportant une valeur ajoutée au logement loué : équipement ou service nouveau ou de qualité supérieure à l'existant, réduction de dépenses d'entretien et d'exploitation, sécurisation de l'immeuble et de ses occupants. Exemple : pose de parquet, installation d'une cuisine équipée, installation d'un digicode, installation d'un ascenseur...</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F479" audience="Particuliers">Quel est le délai de prescription d'une dette locative (charges et loyer) ?</QuestionReponse>
+<QuestionReponse ID="F1314" audience="Particuliers">En quoi consiste l'encadrement des loyers ?</QuestionReponse>
+<QuestionReponse ID="F31301" audience="Particuliers">Quelles sont les voies de recours dans un litige locatif ?</QuestionReponse>
+
+</Publication>

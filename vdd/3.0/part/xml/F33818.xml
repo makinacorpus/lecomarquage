@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33818" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles précautions prendre avant l'achat d'un terrain isolé ? </dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Avant de s'engager sur l'achat d'un terrain isolé, le futur acquéreur doit s'assurer que le terrain est constructible au regard des règles d'urbanisme</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33818</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N312</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N312">Achat d'un terrain</Niveau>
+<Niveau ID="F33818" type="Fiche Question-réponse">Quelles précautions prendre avant l'achat d'un terrain isolé ? </Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N312">
+<Titre>Achat d'un terrain</Titre><SousDossier ID="N312-1">
+<Titre>Achat d'un terrain isolé</Titre>
+<Fiche ID="F2057">Promesse de vente</Fiche>
+<Fiche ID="F258">Acte de vente</Fiche>
+</SousDossier>
+<SousDossier ID="N312-2">
+<Titre>Achat d'un terrain situé dans un lotissement</Titre>
+<Fiche ID="F16455">Promesse de vente</Fiche>
+<Fiche ID="F12702">Acte de vente</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Avant de s'engager sur l'achat d'un <LienInterne LienPublication="F2073" type="Fiche Question-réponse" audience="Particuliers">terrain isolé</LienInterne>, le futur acquéreur doit s'assurer que le terrain  <MiseEnEvidence>est constructible</MiseEnEvidence> au regard des règles d'urbanisme, c'est-à-dire qu'il est apte à recevoir une construction, notamment en ce qui concerne les caractéristiques du sous-sol. </Paragraphe>
+<Paragraphe>Le futur acquéreur peut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vérifier cette caractéristique en demandant à la mairie un <LienInterne LienPublication="F1633" type="Fiche d'information" audience="Particuliers">certificat d'urbanisme opérationnel</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou recourir à un spécialiste pour faire réaliser une étude précise du sol.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le futur acquéreur doit également vérifier que le terrain <MiseEnEvidence>est viabilisé</MiseEnEvidence> c'est-à-dire qu'il est raccordé (ou raccordable) aux voiries et réseaux divers (eau potable, électricité, téléphone...). En effet, en l'absence de réseau public de collecte des eaux usées ou d'impossibilité de raccordement, l'acquéreur devra supporter les frais d'une <LienInterne LienPublication="F447" type="Fiche Question-réponse" audience="Particuliers">installation d'assainissement non collectif</LienInterne>.</Paragraphe>
+<Paragraphe>Il est également recommandé de consulter le plan local d'urbanisme (Plu), le plan d'occupation des sols (Pos) ou, à défaut, la carte communale. Ces documents donnent des informations sur les futurs projets d'aménagement locaux et apportent des précisions sur les règles de construction et délimitations des zones à risques naturels ou technologiques.</Paragraphe>
+<Paragraphe>L'ensemble de ces documents peut être consulté auprès du service d'urbanisme de la commune où se situe le terrain.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34254" type="Local personnalisable">
+<Titre>Paris - Direction de l'urbanisme</Titre>
+<PivotLocal>paris_mairie_urbanisme</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/services-et-infos-pratiques/urbanisme-et-architecture/demandes-d-autorisations/demarches-2094#vos-contacts_1"/>
+<Source ID="R30894">Ville de Paris</Source>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si le terrain est vendu comme un terrain <Expression>à bâtir</Expression>, le vendeur s'engage obligatoirement à vendre un terrain constructible. </Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N312" audience="Particuliers">
+<Titre>Achat d'un terrain</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<QuestionReponse ID="F2073" audience="Particuliers">Quelle différence entre un terrain isolé et un terrain dans un lotissement ?</QuestionReponse>
+<QuestionReponse ID="F2484" audience="Particuliers">Quelles règles s'appliquent avant la vente d'un terrain dans un lotissement ?</QuestionReponse>
+<CommentFaireSi ID="F15913">J'achète un logement</CommentFaireSi>
+
+</Publication>

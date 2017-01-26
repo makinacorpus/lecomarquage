@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F607" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Accueil en crèche</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les crèches (collectives, familiales, parentales, d'entreprise) accueillent les enfants dans leurs locaux, sous certaines conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-21</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F607</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196366&amp;cidTexte=LEGITEXT000006072665</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N137</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N137">Garde d'enfants en bas âge</Niveau>
+<Niveau ID="F607" type="Fiche d'information">Accueil en crèche</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N137">
+<Titre>Garde d'enfants en bas âge</Titre>
+<Fiche ID="F2642">Assistante maternelle</Fiche>
+<Fiche ID="F607">Crèche</Fiche>
+<Fiche ID="F853">Halte-garderie</Fiche>
+<Fiche ID="F21370">Jardin d'enfants</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les crèches accueillent les enfants dans leurs locaux, sous certaines conditions (âge de l'enfant, demande préalable d'inscription...). Les enfants sont sous la responsabilité de professionnels qualifiés. Il existe différents types d'établissements : les crèches collectives, familiales, parentales, d'entreprise.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Quelles sont les différentes catégories de crèche ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Crèche collective</Paragraphe>
+</Titre><Paragraphe>La crèche collective peut généralement accueillir jusqu'à 60 enfants. </Paragraphe>
+<Paragraphe>Elle est gérée par une collectivité territoriale (commune, services du département...) ou par un gestionnaire privé (par exemple, une association). </Paragraphe>
+<Paragraphe>La crèche est placée sous le contrôle et la surveillance du service départemental de la protection maternelle et infantile (PMI). </Paragraphe>
+<Paragraphe>Les enfants sont pris en charge par un personnel qualifié (par exemple, auxiliaires puéricultrices, éducateurs de jeunes enfants).</Paragraphe>
+<Paragraphe>Les horaires correspondent souvent aux horaires de bureau.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la mini-crèche a les mêmes caractéristiques qu'une crèche collective, mais accueille moins d'enfants (généralement jusqu'à 10).</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Crèche familiale</Paragraphe>
+</Titre><Paragraphe>La crèche familiale emploie des  <LienInterne LienPublication="F2642" type="Fiche d'information" audience="Particuliers">assistantes maternelles agréées</LienInterne> qui accueillent à leur domicile 1 à 4 enfants. </Paragraphe>
+<Paragraphe>Une ou 2 fois par semaine, les assistantes maternelles et les enfants se retrouvent dans les locaux de la crèche familiale pour favoriser la socialisation des enfants et leur éveil.</Paragraphe>
+<Paragraphe>Les assistantes maternelles font l'objet d'un encadrement et d'un accompagnement professionnel assuré par le personnel de la crèche (puéricultrice, médecin...).</Paragraphe>
+<Paragraphe>Elle est gérée par une collectivité territoriale (commune, services du département...) ou par un gestionnaire privé (par exemple, une association). La crèche est placée sous le contrôle et la surveillance de la protection maternelle et infantile (PMI). </Paragraphe>
+<Paragraphe>Dans une crèche familiale, les parents ne sont pas les employeurs de l'assistant maternel. </Paragraphe>
+<Paragraphe>Ce mode d'accueil a l'avantage de décharger les parents de toutes les formalités administratives qu'ils ont à effectuer pour l'emploi direct d'un assistant maternel.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Crèche parentale</Paragraphe>
+</Titre><Paragraphe>La crèche parentale peut généralement accueillir jusqu'à 25 enfants. </Paragraphe>
+<Paragraphe>La crèche parentale est créée et gérée par les parents eux-mêmes, sous le contrôle de la protection maternelle et infantile (PMI). </Paragraphe>
+<Paragraphe>Les enfants sont pris en charge par les parents, mais aussi par un personnel qualifié (par exemple, auxiliaires puéricultrices, éducateurs de jeunes enfants).</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>pour créer une crèche parentale, il faut s'adresser à la caisse d'allocations familiales (Caf).</Paragraphe>
+</ANoter><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Crèche d'entreprise (ou inter-entreprises)</Paragraphe>
+</Titre><Paragraphe>La crèche d'entreprise accueille les enfants du personnel d'entreprises ou d'établissements publics (administrations, hôpitaux...). Elle peut aussi proposer des places aux familles du quartier.</Paragraphe>
+<Paragraphe>Elle peut généralement accueillir jusqu'à 60 enfants. </Paragraphe>
+<Paragraphe>Les enfants sont pris en charge par un personnel qualifié (par exemple, auxiliaires puéricultrices, éducateurs de jeunes enfants).</Paragraphe>
+<Paragraphe>La crèche est en général située à proximité de l'entreprise, parfois même dans ses locaux.</Paragraphe>
+<Paragraphe>Les horaires d'accueil sont flexibles pour répondre plus facilement aux contraintes professionnelles.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Enfants concernés</Paragraphe>
+</Titre><Paragraphe>Pour être admis en crèche, votre enfant doit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir entre  2 mois et 3 ans</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et être en règle au regard des <LienInterne LienPublication="F767" type="Fiche Question-réponse" audience="Particuliers">vaccinations obligatoires</LienInterne> (sauf contre-indication attestée par la présentation d'un certificat médical).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment se fait l'inscription ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Rechercher une crèche</Paragraphe>
+</Titre><Paragraphe>Pour rechercher une crèche, vous pouvez utiliser un téléservice.</Paragraphe><ServiceEnLigne ID="R45572" URL="http://www.mon-enfant.fr/web/guest/recherche-place/recherche-place-garde-enfant" type="Téléservice">
+<Titre>Rechercher une solution de garde d'enfant par localité</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pré-inscription avant la naissance de l'enfant</Paragraphe>
+</Titre><Paragraphe>Avant la naissance de votre enfant, il est recommandé de faire une pré-inscription dans plusieurs crèches au niveau de la commune et du département.</Paragraphe>
+<Paragraphe> Vous pouvez également prendre contact avec le responsable de l'établissement de votre choix dès la confirmation de la grossesse.</Paragraphe>
+<Paragraphe>Avant de faire la pré-inscription, il convient de se renseigner auprès :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du service petite enfance de la mairie, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des services du département,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou auprès du directeur de l'établissement de votre choix.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ce premier contact permet d'obtenir des informations sur l'inscription et la liste des pièces à fournir pour constituer le dossier.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>certaines crèches n'acceptent aucune pré-inscription avant le 6<Exposant>e</Exposant> mois de grossesse.</Paragraphe>
+</Attention>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût de l'accueil</Paragraphe>
+</Titre><Paragraphe>Vous versez à la crèche une participation financière qui varie en fonction de vos ressources et de votre situation familiale.</Paragraphe>
+<Paragraphe>Les frais de garde des enfants de moins de 6 ans font l'objet d'un <LienInterne LienPublication="F8" type="Fiche d'information" audience="Particuliers">crédit d'impôt</LienInterne>.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2642" audience="Particuliers">
+<Titre>Accueil d'un enfant par une assistante maternelle agréée</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F853" audience="Particuliers">
+<Titre>Accueil d'un enfant dans une halte-garderie</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F21370" audience="Particuliers">
+<Titre>Accueil en jardin d'enfants</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<Complement>Pour se renseigner au niveau départemental</Complement>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour se renseigner hors Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour se renseigner à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R2976" type="Local personnalisé sur SP">
+<Titre>Crèche</Titre>
+<Complement>Pour chercher une crèche</Complement>
+<PivotLocal>creche</PivotLocal>
+<RessourceWeb URL="http://www.mon-enfant.fr/web/guest/recherche-place/recherche-place-garde-geoloc"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196366&amp;cidTexte=LEGITEXT000006072665" ID="R38829">
+<Titre>Code de la santé publique : articles R2324-25 à R2324-32</Titre>
+<Complement>Fonctionnement des différentes catégories de crèche</Complement>
+</Reference>
+<ServiceEnLigne ID="R45572" URL="http://www.mon-enfant.fr/web/guest/recherche-place/recherche-place-garde-enfant" type="Téléservice">
+<Titre>Rechercher une solution de garde d'enfant par localité</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R17247" URL="http://travail-emploi.gouv.fr/IMG/pdf/Accueil_de_la_petite_enfance.pdf" audience="Particuliers" format="application/pdf" poids="0">
+<Titre>Guide pratique sur les modes d'accueil de la petite enfance</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41627" URL="http://www.mon-enfant.fr" audience="Particuliers">
+<Titre>Site d'information sur les différents modes de garde d'enfants</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F767" audience="Particuliers">Faut-il faire vacciner son enfant pour l'inscrire en collectivité ?</QuestionReponse>
+<CommentFaireSi ID="F16225">J'attends un enfant</CommentFaireSi>
+<CommentFaireSi ID="F601">J'ai besoin de faire garder mes enfants</CommentFaireSi>
+</Publication>

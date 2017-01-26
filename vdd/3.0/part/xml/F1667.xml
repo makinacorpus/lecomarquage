@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1667" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Doit-on se présenter en personne devant le conseil de prud'hommes (CPH) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le salarié n'est pas obligé de se présenter en personne devant le conseil de prud'hommes. Il peut être représenté par une personne habilitée.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1667</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177899&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018536076&amp;cidTexte=LEGITEXT000006072050, http://circulaires.legifrance.gouv.fr/pdf/2016/06/cir_41065.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N470</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N470">Conflits du travail dans le secteur privé</Niveau>
+<Niveau ID="F1667" type="Fiche Question-réponse">Doit-on se présenter en personne devant le conseil de prud'hommes (CPH) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19966">Relations individuelles et collectives de travail</SousThemePere><DossierPere ID="N470">
+<Titre>Conflits du travail dans le secteur privé</Titre>
+<Fiche ID="F117">Droit de grève</Fiche>
+<Fiche ID="F2234">Sanctions disciplinaires</Fiche>
+<Fiche ID="F2360">Saisine du conseil de prud'hommes (CPH)</Fiche>
+<Fiche ID="F1052">Déroulement d'une affaire aux prud'hommes</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Non, pas obligatoirement. Vous pouvez vous présenter en personne devant le <LienInterne LienPublication="F2360" type="Fiche d'information" audience="Particuliers">conseil de prud'hommes</LienInterne> (CPH) ou, en votre absence, être représenté par une personne habilitée. Si vous êtes présent le jour de votre convocation, vous pouvez aussi vous faire assister.</Paragraphe>
+<Paragraphe>Les personnes habilitées à vous assister ou représenter sont les suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un salarié appartenant à votre entreprise ou à la même branche d'activité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F33835" type="Fiche Question-réponse" audience="Particuliers">défenseur syndical</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la personne avec qui vous <LienIntra LienID="R42442" type="Définition de glossaire">vivez en couple</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre père, mère ou représentant légal (si vous êtes mineur),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un avocat.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Tout représentant doit justifier d'un pouvoir spécial (sauf s'il est avocat). Cet écrit  lui permet de concilier en votre nom et pour votre compte durant la phase de conciliation prévue durant la procédure prud'homale, et de prendre part aux mesures d'orientation.</Paragraphe>
+<Paragraphe>Si la personne habilitée est également conseiller prud'homal, elle ne peut pas vous assister ou représenter devant le conseil de prud'hommes auquel elle appartient.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>sauf motif légitime, lorsqu'une partie est absente à la séance de conciliation, et qu'elle n'est pas représentée, le CPH peut directement juger le litige. Il statue alors sur la base des éléments qui lui ont été communiqués.</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R15" type="Local personnalisé sur SP">
+<Titre>Conseil de prud'hommes</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>prudhommes</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-conseils-de-prudhommes-21779.html"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177899&amp;cidTexte=LEGITEXT000006072050" ID="R20266">
+<Titre>Code du travail : articles L1453-1 à L1453-9</Titre>
+<Complement>Assistance d'un mineur, personne habilitée à assister ou représenter une partie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018536076&amp;cidTexte=LEGITEXT000006072050" ID="R20002">
+<Titre>Code du travail : articles R1453-1 à R1453-5</Titre>
+<Complement>Droit de se défendre seul ou d'être assisté ou représenté, personne habilitée à assister ou représenter une partie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2016/06/cir_41065.pdf" ID="R2945">
+<Titre>Circulaire du 27 mai 2016 relative à la procédure prud'homale et au traitement judiciaire du contentieux du travail</Titre>
+</Reference>
+<Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

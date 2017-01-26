@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1154" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le procureur est-il tenu d'engager des poursuites à la suite d'une plainte ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Non. Dans certains cas, le procureur peut refuser de donner suite à une plainte. C'est ce qu'on appelle le classement sans suite. Il n'empêche pas la victime d'exercer elle-même des poursuites judiciaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-05-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1154</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000022469905&amp;idSectionTA=LEGISCTA000006167418&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F1154" type="Fiche Question-réponse">Le procureur est-il tenu d'engager des poursuites à la suite d'une plainte ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Non. Dans certains cas, le procureur peut refuser de donner suite à une plainte. C'est ce qu'on appelle le classement sans suite. Il n'empêche pas la victime d'exercer elle-même des poursuites judiciaires.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Cas de classement sans suite</Paragraphe>
+</Titre><Paragraphe>Le procureur peut refuser de donner suite à une plainte. C'est ce qu'on appelle un classement sans suite.</Paragraphe>
+<Paragraphe>Le classement sans suite peut avoir lieu pour différentes raisons :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les faits portés à sa connaissance ne peuvent recevoir de qualification. Il y a absence d'infraction ou l'infraction est insuffisamment caractérisée.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'auteur de l'infraction est demeuré inconnu (cas des procédures contre X), le plaignant se désintéresse de l'affaire et le préjudice ou le trouble sont minimes. C'est l'application du principe de l'opportunité des poursuites. Le procureur estime que l'affaire n'est pas assez grave pour y donner suite.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Effets du classement sans suite</Paragraphe>
+</Titre><Paragraphe>Le classement sans suite  n'a pas <LienIntra LienID="R31039" type="Définition de glossaire">l'autorité de la chose jugée</LienIntra>. Le procureur peut revenir à tout moment sur sa décision et engager des poursuites, sauf en cas de <LienInterne LienPublication="F31982" type="Fiche Question-réponse" audience="Particuliers">prescription</LienInterne> ou de décès de l'auteur des faits.</Paragraphe>
+<Paragraphe>Par ailleurs, le classement sans suite ne fait pas obstacle à l'exercice direct des poursuites par la victime. La victime peut en effet passer outre la décision du procureur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en portant <LienInterne LienPublication="F20798" type="Fiche d'information" audience="Particuliers">plainte avec constitution de partie civile</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou en saisissant elle-même le tribunal avec une <LienInterne LienPublication="F1455" type="Fiche d'information" audience="Particuliers">citation directe</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000022469905&amp;idSectionTA=LEGISCTA000006167418&amp;cidTexte=LEGITEXT000006071154" ID="R33087">
+<Titre>Code de procédure pénale : articles 39 à 44-1</Titre>
+<Complement>Pouvoirs du procureur</Complement>
+</Reference>
+<Definition ID="R31039">
+<Titre>Autorité de la chose jugée</Titre>
+<Texte>
+				<Paragraphe>Cas d'un jugement qui ne peut plus être remis en cause, en dehors des voies de recours prévues. Un jugement a, dès son prononcé, l'autorité de la chose jugée.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31290" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Logement social ou logement privé : quelles différences ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les différences entre un logement social et un logement privé tiennent principalement à leurs conditions d'accès, aux loyers pratiqués, à la durée du bail et aux cas de résiliation à l'initiative du bailleur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-09</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31290</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F31290" type="Fiche Question-réponse">Logement social ou logement privé : quelles différences ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les différences entre un logement social et un logement privé tiennent principalement à leurs conditions d'accès, aux loyers pratiqués, à la durée du bail et aux cas de résiliation à l'initiative du bailleur.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Principales différences entre un logement social et un logement privé</Titre>
+<Colonne largeur="32" type="header"/>
+<Colonne largeur="32" type="normal"/>
+<Colonne largeur="32" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Objet</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Logement social</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Logement classique</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Conditions d'attribution</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Les ressources ne doivent pas dépasser <LienInterne LienPublication="F869" type="Fiche d'information" audience="Particuliers">un certain plafond</LienInterne>.</Paragraphe>
+<Paragraphe> Certaines personnes sont prioritaires.</Paragraphe>
+<Paragraphe>Attribution par une commission spécifique.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Aucun critère. Le propriétaire choisit librement dès lors qu'il n'est pas dans une logique de <LienInterne LienPublication="F14750" type="Fiche d'information" audience="Particuliers">discrimination</LienInterne>.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Démarches</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Un <LienInterne LienPublication="F10007" type="Fiche d'information" audience="Particuliers">dossier unique</LienInterne> pour toutes les demandes dans un même département.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1169" type="Fiche d'information" audience="Particuliers">Un dossier</LienInterne> par logement. Des <LienInterne LienPublication="F375" type="Fiche d'information" audience="Particuliers">frais</LienInterne> peuvent être facturés en cas de recours à un agent immobilier.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Recours en cas de non-obtention du logement souhaité</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exercice du <LienInterne LienPublication="F18005" type="Fiche d'information" audience="Particuliers">droit au logement opposable</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Aucun, sauf si vous pouvez établir une <LienInterne LienPublication="F14750" type="Fiche d'information" audience="Particuliers">discrimination</LienInterne>.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Fixation du loyer</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Niveau de <LienInterne LienPublication="F1317" type="Fiche d'information" audience="Particuliers">loyer réglementaire</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Niveau de loyer <LienInterne LienPublication="F1310" type="Fiche d'information" audience="Particuliers">libre ou encadré selon les communes</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Révision du loyer</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>La révision du loyer est possible <LienInterne LienPublication="F1317" type="Fiche d'information" audience="Particuliers">chaque année</LienInterne> en fonction de l'indice de référence des loyers.</Paragraphe>
+<Paragraphe>L'application d'un <LienInterne LienPublication="F21051" type="Fiche d'information" audience="Particuliers">surloyer</LienInterne> s'effectue par ailleurs en cas d'augmentation substantielles des ressources du locataire. s</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>La révision du loyer est possible <LienInterne LienPublication="F1311" type="Fiche d'information" audience="Particuliers">chaque année</LienInterne> en fonction de l'indice de référence des loyers.</Paragraphe>
+<Paragraphe>En fin de bail, le loyer peut être <LienInterne LienPublication="F1312" type="Fiche d'information" audience="Particuliers">augmenté s'il est sous-évalué</LienInterne>, et <LienInterne LienPublication="F33066" type="Fiche d'information" audience="Particuliers">réduit s'il est sur-évalué</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Durée du bail</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Indéterminée (le locataire bénéficie d'un droit au maintien dans les lieux)</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F920" type="Fiche d'information" audience="Particuliers">3 ans</LienInterne> si c'est un logement vide,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 an si c'est un logement meublé (9 mois si le locataire est étudiant)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Fin du bail</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>En dehors d'une faute du locataire (impayés, troubles de voisinage) <LienInterne LienPublication="F2559" type="Fiche Question-réponse" audience="Particuliers">le bailleur peut résilier le bail</LienInterne> en cas de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dépassement du plafond de ressources,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>logement inoccupé ou insuffisamment occupé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou logement inadapté. (trop grand).</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>En dehors d'une faute du locataire (impayés, troubles de voisinage) le bailleur peut <LienInterne LienPublication="F929" type="Fiche d'information" audience="Particuliers">résilier le bail</LienInterne> en cas de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>reprise du logement pour y habiter ou y loger un proche,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vente du logement.</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Texte>
+</Publication>

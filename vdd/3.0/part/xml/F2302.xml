@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2302" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Cotisations salariales - Salarié du secteur privé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>En plus des cotisations sociales versées par l'employeur, le salarié est soumis au versement de cotisations salariales. Le taux et l'assiette de ces cotisations varient en fonction des cotisations (ou contributions) concernées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2302</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N474</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N474">Rémunération dans le secteur privé</Niveau>
+<Niveau ID="F2302" type="Fiche d'information">Cotisations salariales - Salarié du secteur privé</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19963">Rémunération</SousThemePere><DossierPere ID="N474">
+<Titre>Rémunération dans le secteur privé</Titre>
+<Fiche ID="F2301">Salaire, primes et avantages</Fiche>
+<Fiche ID="F2300">Salaire minimum de croissance (Smic)</Fiche>
+<Fiche ID="F2308">Paiement du salaire</Fiche>
+<Fiche ID="F559">Bulletin de paie</Fiche>
+<Fiche ID="F2302">Cotisations salariales</Fiche>
+<Fiche ID="F19846">Remboursement des frais de transport</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En plus des cotisations sociales versées par l'employeur, le salarié est soumis au versement de cotisations salariales. Le taux et l'assiette de ces cotisations  varient en fonction des cotisations (ou contributions) concernées.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Cotisations de sécurité sociale</Paragraphe>
+</Titre><Tableau>
+<Titre>Taux et assiette des cotisations sociales</Titre>
+<Colonne largeur="40" type="header"/>
+<Colonne largeur="40" type="normal"/>
+<Colonne largeur="14" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de cotisation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Assiette de cotisation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Assurance maladie, maternité, invalidité, décès</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant du salaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,75 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Assurance vieillesse (retraite du régime général)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant du salaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,40 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Assurance vieillesse (retraite du régime général)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant du salaire jusqu'à <Valeur>3 269 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,90 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contributions sociales (CSG/CRDS)</Paragraphe>
+</Titre><Tableau>
+<Titre>Taux et assiette des contributions sociales</Titre>
+<Colonne largeur="25" type="header"/>
+<Colonne largeur="44" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de contribution</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Assiette</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contribution sociale généralisée (CSG)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>98,25 % du salaire brut, dans la limite de <Valeur>156 912 €</Valeur> perçus en 2016</Paragraphe>
+<Paragraphe>100 %  au-delà de ce montant</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,5 %</Valeur>, dont 2,4 % non déductibles du revenu imposable</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contribution au remboursement de la dette sociale (CRDS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>98,25 % du salaire brut, dans la limite de <Valeur>156 912 €</Valeur>  perçus en 2016</Paragraphe>
+<Paragraphe>100 %  au-delà de ce montant</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur> non déductible du revenu imposable</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Cotisations de chômage</Paragraphe>
+</Titre><Tableau>
+<Titre>Taux et assiette des cotisations de chômage</Titre>
+<Colonne largeur="33" type="header"/>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="9" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de cotisation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Assiette</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Assurance chômage</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant du salaire jusqu'à <Valeur>13 076 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,4 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Agence pour l'emploi des cadres (Apec)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant du salaire jusqu'à <Valeur>13 076 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,024 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>depuis  juillet 2014, la rémunération d'un salarié de 65 ans ou plus est assujettie à une contribution spécifique solidarité. </Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Cotisations de retraite complémentaire</Paragraphe>
+</Titre><Tableau>
+<Titre>Taux et assiette des cotisations de retraite complémentaire</Titre>
+<Colonne largeur="11" type="normal"/>
+<Colonne largeur="18" type="normal"/>
+<Colonne largeur="18" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="17" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Emploi </Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>Type de cotisation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Assiette</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>Non cadre</Paragraphe>
+</Cellule>
+<Cellule fusionVerticale="2">
+<Paragraphe>  Arrco</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> Tranche 1</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>3 269 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3,10 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Tranche 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>3 269 €</Valeur> et <Valeur>9 807 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,10 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe> AGFF</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> Tranche 1</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>3 269 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,8 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Tranche 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>3 269 €</Valeur> et <Valeur>9 807 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,9 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="7">
+<Paragraphe>Cadre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Arrco</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tranche A</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>3 269 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3,10 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe> Agirc</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tranche B</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>3 269 €</Valeur> et <Valeur>13 076 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>7,80 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Tranche C</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>13 076 €</Valeur> et <Valeur>26 152 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Répartition employeur-salarié fixée par accord d'entreprise jusqu'à 20 %, et 0,29 % à la charge du salarié au-delà de 20 %.</Paragraphe>
+<Paragraphe>En l'absence d'accord : 7,80 % pour le salarié.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="3">
+<Paragraphe>AGFF</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tranche A</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant du salaire jusqu'à <Valeur>3 269 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,8 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Tranche B</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>3 269 €</Valeur> et <Valeur>13 076 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,9 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Tranche C</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>13 076 €</Valeur> et <Valeur>26 152 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,9 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Contribution exceptionnelle et temporaire (CET)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant du salaire jusqu'à <Valeur>26 152 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,13 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<Complement>Pour obtenir des précisions complémentaires</Complement>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R3040" type="Centre de contact">
+<Titre>Votre direction des ressources humaines (DRH)</Titre>
+<Complement>Pour tout renseignement complémentaire</Complement>
+</OuSAdresser>
+</Publication>

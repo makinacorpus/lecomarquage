@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33626" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment trouver son décret de naturalisation sur le site du Journal officiel ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Depuis le 1er janvier 2016, le Journal officiel (JO) ne paraît plus sous format papier. Il existe uniquement sous format électronique authentifié.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-12</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33626</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N111</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N111">Acquisition de la nationalité française</Niveau>
+<Niveau ID="F33626" type="Fiche Question-réponse">Comment trouver son décret de naturalisation sur le site du Journal officiel ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N111">
+<Titre>Acquisition de la nationalité française</Titre><SousDossier ID="N111-1">
+<Titre>Nationalité française par déclaration</Titre>
+<Fiche ID="F2726">Par mariage</Fiche>
+<Fiche ID="F33430">Par un ascendant de Français</Fiche>
+<Fiche ID="F33800">Par un frère ou une sœur de Français</Fiche>
+</SousDossier>
+<SousDossier ID="N111-2">
+<Titre>Nationalité française par naturalisation</Titre>
+<Fiche ID="F2213">Conditions</Fiche>
+<Fiche ID="F15832">Demande et réponse de l'administration</Fiche>
+</SousDossier>
+<SousDossier ID="N111-3">
+<Titre>Nationalité française d'un enfant</Titre>
+<Fiche ID="F295">Enfant né en France de parents étrangers</Fiche>
+<Fiche ID="F3070">Enfant adopté</Fiche>
+<Fiche ID="F31919">Enfant recueilli</Fiche>
+</SousDossier>
+<SousDossier ID="N111-4">
+<Titre>Réintégration dans la nationalité française</Titre>
+<Fiche ID="F3071">Par déclaration</Fiche>
+<Fiche ID="F2214">Par décret</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Depuis le 1<Exposant>er</Exposant> janvier 2016, le Journal officiel (JO) ne paraît plus sous format papier. Il existe uniquement sous format électronique authentifié. Si votre décret de naturalisation est paru depuis le 1<Exposant>er</Exposant> janvier 2016, vous devez le télécharger directement sur le site Légifrance.</Paragraphe>
+<Paragraphe>Vous devez connaître la date de signature de votre décret et la date de sa parution au Journal officiel.</Paragraphe>
+<Paragraphe>Ces informations vous ont été fournies sur la  notification de la décision favorable de l'administration. </Paragraphe>
+<ServiceEnLigne ID="R44285" URL="https://www.legifrance.gouv.fr/initRechTexte.do" type="Téléservice">
+<Titre>Chercher un texte de loi ou un décret</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+
+<Liste type="puce">
+<Item>
+<Paragraphe>choisissez la date de parution du JO vous concernant,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>allez tout en bas de la page qui s'affiche et cliquez sur <Citation>Naturalisations et réintégrations</Citation>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sélectionner votre décret,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>cliquez sur <Citation>Accès protégé</Citation> sur la nouvelle page qui s'affiche,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>résolvez le captcha (il s'agit d'un petit calcul simple qui permet de sécuriser l'accès à la page),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> cliquez sur <Citation>Extrait du Journal officiel électronique authentifié</Citation> pour télécharger le fichier pdf du JO électronique authentifié. Vous obtiendrez l'extrait souhaité.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>ce fichier pdf fait l'objet d'une signature électronique authentifiée. Aucune procédure supplémentaire n'est nécessaire pour lui donner une valeur juridique. Il vous suffit de l'imprimer. </Paragraphe>
+</ANoter>
+</Texte><ServiceEnLigne ID="R44285" URL="https://www.legifrance.gouv.fr/initRechTexte.do" type="Téléservice">
+<Titre>Chercher un texte de loi ou un décret</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+</Publication>

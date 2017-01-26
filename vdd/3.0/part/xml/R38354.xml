@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R38354" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Dossier de candidature au statut national Étudiant-Entrepreneur 2016-2017</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Dossier numérique de candidature pour un étudiant ou un jeune diplômé au statut national d'étudiant-entrepreneur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R38354</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N23482">Formations et diplômes de l'enseignement supérieur</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R38354" type="Formulaire">Dossier de candidature au statut national Étudiant-Entrepreneur 2016-2017</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Dossier numérique de candidature pour un étudiant ou un jeune diplômé au statut national d'étudiant-entrepreneur.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://media.etudiant.gouv.fr/file/Statut/01/0/candidature-snee-2016-17_ori_581010.pdf" format="application/pdf" poids="3.6 MB">
+<Source>Ministère en charge de l'éducation</Source>
+</LienWeb>
+<FicheLiee ID="F32313" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Qu'est-ce que le "statut national étudiant-entrepreneur" ?</Titre>
+<Dossier ID="N23482">Formations et diplômes de l'enseignement supérieur</Dossier>
+</FicheLiee><OuSAdresser ID="R45741" type="National">
+<Titre>Responsable des dossiers de candidature d'étudiant entrepreneur</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>etudiants.entrepreneurs@enseignementsup.gouv.fr</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R38357" type="Local personnalisable">
+<Titre>Pôle étudiants pour l'innovation, le transfert et l'entrepreneuriat (Pépite)</Titre>
+<PivotLocal>pepite</PivotLocal>
+<RessourceWeb URL="http://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-institutions-partenaires-des-poles-etudiants-pour-linnovation-le-transfer/?tab=map"/>
+</OuSAdresser>
+</ServiceComplementaire>

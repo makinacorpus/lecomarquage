@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32503" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Réparation d'un véhicule chez un professionnel</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Suite à une panne ou un accident, ou simplement pour modifier une pièce usée, vous pouvez faire appel à un professionnel pour effectuer des réparations sur votre véhicule. Celui-ci doit alors respecter certaines obligations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-01-13</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32503</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24253</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N24253">Véhicule</Niveau>
+<Niveau ID="F32503" type="Fiche avec liens externes">Réparation d'un véhicule chez un professionnel</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20154">Consommation</SousThemePere><DossierPere ID="N24253">
+<Titre>Véhicule</Titre>
+<Fiche ID="F24254">Achat chez un professionnel</Fiche>
+<Fiche ID="F24255">Location d'un véhicule</Fiche>
+<Fiche ID="F32503">Réparation d'un véhicule chez un professionnel</Fiche>
+<Fiche ID="F1707">Vendre ou donner son véhicule</Fiche>
+<Fiche ID="F24044">Auto-école</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Suite à une panne ou un accident, ou simplement pour modifier une pièce usée, vous pouvez faire appel à un professionnel pour effectuer des réparations sur votre véhicule. Celui-ci doit alors respecter certaines obligations.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.economie.gouv.fr/dgccrf/Vie-pratique/Fiches-pratiques/Vehicule-automobile-reparation">La réparation d'un véhicule par un professionnel</LienExterne>
+
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.economie.gouv.fr/files/directions_services/dgccrf/documentation/publications/depliants/reparation_vehicule.pdf" format="application/pdf" poids="83.5 KB">Réparation d'une voiture par un garagiste : éviter les litiges</LienExterne>
+
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</LienExterneCommente><VoirAussi important="non">
+<Dossier ID="N18131" audience="Particuliers">
+<Titre>Mesures antipollution</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N32" audience="Particuliers">
+<Titre>Assurance automobile (véhicule)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R31641" URL="http://www.conso.net/content/vous-demandez-au-garagiste-de-vous-remettre-les-pi%C3%A8ces-usag%C3%A9es-qu%E2%80%99il-remplac%C3%A9es" type="Modèle de document">
+<Titre>Demander au garagiste la remise des pièces usagées remplacées sur le véhicule</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31642" URL="http://www.conso.net/content/vous-demandez-par-%C3%A9crit-la-r%C3%A9paration-de-votre-voiture-en-panne" type="Modèle de document">
+<Titre>Demander la réparation de sa voiture en panne et une estimation écrite au garagiste</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24071" URL="http://www.conso.net/content/votre-v%C3%A9hicule-ne-fonctionne-pas-correctement-malgr%C3%A9-les-r%C3%A9parations-effectu%C3%A9es-par-le" type="Modèle de document">
+<Titre>Demander à un garagiste ayant mal effectué les réparations de les refaire</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24072" URL="http://www.conso.net/content/vous-refusez-de-payer-au-garagiste-des-r%C3%A9parations-qui-n%E2%80%99%C3%A9taient-pas-pr%C3%A9vues" type="Modèle de document">
+<Titre>Refuser de payer des réparations sur son véhicule qui n'étaient pas prévues</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+</Publication>

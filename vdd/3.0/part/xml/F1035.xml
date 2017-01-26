@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1035" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Passeport en urgence : passeport temporaire pour un mineur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Un passeport temporaire (valable seulement 1 an) peut être délivré en urgence pour des motifs d'ordre médicaux ou humanitaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-14</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1035</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000021630155&amp;idSectionTA=LEGISCTA000006179981&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022232359&amp;cidTexte=LEGITEXT000018763666, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020246797, http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N360">Passeport</Niveau>
+<Niveau ID="F1035" type="Fiche d'information">Passeport en urgence : passeport temporaire pour un mineur</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N360">
+<Titre>Passeport</Titre><SousDossier ID="N360-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F14929">Première demande</Fiche>
+<Fiche ID="F21091">Renouvellement</Fiche>
+<Fiche ID="F21246">Passeport perdu</Fiche>
+<Fiche ID="F21247">Passeport volé</Fiche>
+<Fiche ID="F1373">Passeport en urgence</Fiche>
+</SousDossier>
+<SousDossier ID="N360-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F14930">Première demande</Fiche>
+<Fiche ID="F21092">Renouvellement</Fiche>
+<Fiche ID="F21244">Passeport perdu</Fiche>
+<Fiche ID="F21245">Passeport volé</Fiche>
+<Fiche ID="F1035">Passeport en urgence</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Pour un mineur</SousDossierPere>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>En France</Titre>
+<Texte><Paragraphe>Un passeport temporaire peut être délivré en urgence pour des motifs d'ordre médicaux ou humanitaires. Les services préfectoraux décident de la délivrance en fonction de la situation. Ce passeport est valide seulement pendant 1 an.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Motif de l'urgence</Paragraphe>
+</Titre>
+<Paragraphe>Il est possible de demander un passeport pour un mineur quel que soit son âge (même un bébé), à condition qu'il soit de nationalité française.</Paragraphe>
+<Paragraphe>Pour bénéficier de cette délivrance en urgence, <MiseEnEvidence>l'enfant doit justifier</MiseEnEvidence> d'un déplacement urgent, notamment <MiseEnEvidence>pour des raisons humanitaires ou médicales</MiseEnEvidence> (maladie grave ou décès d'un membre de la famille par exemple).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre>
+<Paragraphe>la délivrance en urgence est accordée de manière exceptionnelle <MiseEnEvidence>et n'a pas de caractère automatique.</MiseEnEvidence>
+</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où faire la demande ?</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Dans certains  départements, la démarche peut se faire à la préfecture ou la sous-préfecture de votre choix.</Paragraphe>
+<Paragraphe>Dans d'autres départements, il est nécessaire de se rendre dans une mairie équipée pour délivrer les passeports. Cette mairie peut se charger de  l'ensemble de la démarche, ou seulement de la vérification du dossier. Dans ce dernier cas, il faudra ensuite se rendre en préfecture ou sous-préfecture.</Paragraphe>
+<Paragraphe>Il convient donc de contacter cette mairie pour savoir quelles sont les règles dans ce département.</Paragraphe>
+<OuSAdresser ID="R14970" type="Local personnalisable">
+<Titre>Mairie délivrant des passeports biométriques</Titre>
+<PivotLocal>mairie_passeport_bio</PivotLocal>
+<RessourceWeb URL="https://passeport.ants.gouv.fr/Services-associes/Ou-faire-une-demande-de-passeport"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R2215" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Site central de Gesvres</Titre>
+<PivotLocal>paris_ppp_gesvres</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Présence de l'enfant</Paragraphe>
+</Titre><Paragraphe>La présence du mineur lors du dépôt de la demande est indispensable  <MiseEnEvidence>uniquement</MiseEnEvidence> s'il est âgé de 12 ans ou plus.</Paragraphe>
+<Paragraphe>Il doit être accompagné par une personne exerçant l'autorité parentale (parent ou tuteur).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Les pièces à fournir dépendent des documents d'identité que possède déjà l'enfant.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si l'enfant a déjà un passeport</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Le passeport est valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Le passeport est périmé</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration inférieure à 2 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration entre 2 et 5 ans</Paragraphe>
+</Titre><Tableau>
+<Titre>Pièces à fournir</Titre>
+<Colonne largeur="41" type="normal"/>
+<Colonne largeur="43" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Le passeport est sécurisé (électronique ou biométrique)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Le passeport est d'un modèle plus ancien </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Timbres fiscaux : <Valeur>30 €</Valeur>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Timbres fiscaux : <Valeur>30 €</Valeur>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Carte d'identité récente (valide ou périmée depuis moins de 5 ans) ou un <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">acte de naissance</LienInterne> (extrait avec filiation ou copie intégrale) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original (sauf s'il est né dans une <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">ville concernée par la dématérialisation de l'état civil</LienExterne>
+
+)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si l'acte de naissance ne permet pas de prouver  la nationalité : un <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">justificatif de nationalité française</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration supérieure à 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité récente (valide ou périmée depuis moins de 5 ans) </Paragraphe>
+<Paragraphe>OU</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si l'enfant n'a pas de passeport</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'enfant a une carte d'identité</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>La carte d'identité est valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La carte est périmée depuis moins de 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La carte est périmée depuis plus de 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'enfant n'a pas de carte d'identité</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous souhaitez que l'enfant utilise un nom d'usage (double-nom) qui ne figure pas encore sur un titre d'identité d'autres documents peuvent être réclamés pour justifier <LienInterne LienPublication="F1343" type="Fiche d'information" audience="Particuliers">l'utilisation du nom de l'autre parent</LienInterne>.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>
+<Valeur>30 €</Valeur> en timbres fiscaux</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fabrication</Paragraphe>
+</Titre>
+<Paragraphe>Si la demande est acceptée, le passeport est, en général, fabriqué sur place le jour même.</Paragraphe>
+<Paragraphe>Si le passeport ne peut pas être fabriqué immédiatement, un récépissé est remis et devra être présenté lors du retrait.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait du passeport</Paragraphe>
+</Titre>
+<Paragraphe>Le passeport doit être retiré au lieu de dépôt du dossier.</Paragraphe>
+<Paragraphe>Le mineur et son responsable légal doivent se présenter ensemble au guichet. Le responsable doit signer le nouveau passeport sur place.</Paragraphe>
+<Paragraphe>L'ancien passeport doit être restitué. S'il comportait un visa, il peut être conservé pendant la durée de validité de ce visa.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Le  passeport est valable <MiseEnEvidence> 1 an</MiseEnEvidence>.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>À l'étranger</Titre>
+<Texte><Paragraphe>Un passeport temporaire peut être délivré en urgence pour des motifs d'ordre médicaux ou humanitaires. Les autorités décident de la délivrance en fonction de la situation. Ce passeport est valide seulement pendant 1 an.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Motif de l'urgence</Paragraphe>
+</Titre>
+<Paragraphe>Il est possible de demander un passeport pour un mineur quel que soit son âge (même un bébé), à condition qu'il soit de nationalité française.</Paragraphe>
+<Paragraphe>Pour bénéficier de cette délivrance en urgence, <MiseEnEvidence>l'enfant doit justifier</MiseEnEvidence> d'un déplacement urgent, notamment <MiseEnEvidence>pour des raisons humanitaires ou médicales</MiseEnEvidence> (maladie grave ou décès d'un membre de la famille par exemple).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre>
+<Paragraphe>la délivrance en urgence est accordée de manière exceptionnelle <MiseEnEvidence>et n'a pas de caractère automatique.</MiseEnEvidence>
+</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où faire la demande ?</Paragraphe>
+</Titre><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Présence de l'enfant</Paragraphe>
+</Titre><Paragraphe>La présence du mineur lors du dépôt de la demande est indispensable  <MiseEnEvidence>uniquement</MiseEnEvidence> s'il est âgé de 12 ans ou plus.</Paragraphe>
+<Paragraphe>Il doit être accompagné par une personne exerçant l'autorité parentale (parent ou tuteur).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Les pièces à fournir dépendent des documents d'identité que possède déjà l'enfant.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si l'enfant a déjà un passeport</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Le passeport est valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Le passeport est périmé</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration inférieure à 2 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration entre 2 et 5 ans</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="38" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Le passeport est sécurisé (électronique ou biométrique)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Le passeport est d'un modèle plus ancien </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Timbres fiscaux d'un montant de <Valeur>45 €</Valeur>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Timbres fiscaux d'un montant de <Valeur>45 €</Valeur>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Carte d'identité récente (valide ou périmée depuis moins de 5 ans) ou un <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">acte de naissance</LienInterne> (extrait avec filiation ou copie intégrale) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original (sauf s'il est né dans une <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">ville concernée par la dématérialisation de l'état civil</LienExterne>
+
+)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si l'acte de naissance ne permet pas de prouver  la nationalité : un <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">justificatif de nationalité française</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration supérieure à 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Ancien passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité récente (valide ou périmée depuis moins de 5 ans) </Paragraphe>
+<Paragraphe>OU</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si l'enfant n'a pas de passeport</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'enfant a une carte d'identité</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>La carte d'identité est valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La carte est périmée depuis moins de 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La carte est périmée depuis plus de 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité de l'enfant : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'enfant n'a pas de carte d'identité</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Pièce d'identité du représentant légal : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Timbre fiscal : <Valeur>30 €</Valeur>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Une photo d'identité <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Tout document justifiant l'urgence du déplacement (acte de décès, attestation d'hospitalisation...) : originaux + photocopies</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Formulaire cerfa n°12101*02 de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous souhaitez que l'enfant utilise un nom d'usage (double-nom) qui ne figure pas encore sur un titre d'identité d'autres documents peuvent être réclamés pour justifier <LienInterne LienPublication="F1343" type="Fiche d'information" audience="Particuliers">l'utilisation du nom de l'autre parent</LienInterne>.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>
+<Valeur>45 €</Valeur> en timbres fiscaux</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fabrication</Paragraphe>
+</Titre>
+<Paragraphe>Si la demande est acceptée, le passeport est, en général, fabriqué sur place le jour même.</Paragraphe>
+<Paragraphe>Si le passeport ne peut pas être fabriqué immédiatement, un récépissé est remis et devra être présenté lors du retrait.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait du passeport</Paragraphe>
+</Titre>
+<Paragraphe>Le passeport doit être retiré au lieu de dépôt du dossier.</Paragraphe>
+<Paragraphe>Le mineur et son responsable légal doivent se présenter ensemble au guichet. Le responsable doit signer le nouveau passeport sur place.</Paragraphe>
+<Paragraphe>Le passeport délivré est un passeport électronique. Il ne permet pas de voyager aux États-Unis sans visa.</Paragraphe>
+<Paragraphe>L'ancien passeport doit être restitué. S'il comportait un visa, il peut être conservé pendant la durée de validité de ce visa.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Le  passeport est valable <MiseEnEvidence> 1 an</MiseEnEvidence>.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000021630155&amp;idSectionTA=LEGISCTA000006179981&amp;cidTexte=LEGITEXT000006069577" ID="R551">
+<Titre>Code général des impôts : articles 953 à 955</Titre>
+<Complement>Montant du timbre fiscal</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022232359&amp;cidTexte=LEGITEXT000018763666" ID="R14934">
+<Titre>Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020246797" ID="R10971">
+<Titre>Arrêté du 5 février 2009 relatif aux photos d'identité produites pour une demande de passeport</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf" ID="R11425" format="application/pdf" poids="1.6 MB">
+<Titre>Circulaire du 1er mars 2010 relative à la simplification de la délivrance des cartes nationales d'identité et des passeports</Titre>
+</Reference>
+<ServiceEnLigne ID="R1223" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12101.do" numerocerfa="12101*02" type="Formulaire">
+<Titre>Demande de passeport pour un mineur</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<Definition ID="R43989">
+<Titre>Naissance à l'étranger (comedec)</Titre>
+<Texte>
+				<Paragraphe>à condition que l'acte de naissance soit enregistré au service central d'état civil de Nantes</Paragraphe>
+			</Texte>
+</Definition>
+
+
+
+
+
+
+</Publication>

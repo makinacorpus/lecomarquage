@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F172" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles règles faut-il respecter pour construire un puits dans son jardin ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Lorsque vous envisagez de construire un puits, vous devez respecter certaines obligations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F172</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022494734&amp;cidTexte=LEGITEXT000006070633, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019117611</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N319</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N319">Autorisations d'urbanisme</Niveau>
+<Niveau ID="F172" type="Fiche Question-réponse">Quelles règles faut-il respecter pour construire un puits dans son jardin ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N557">Urbanisme</SousThemePere><DossierPere ID="N319">
+<Titre>Autorisations d'urbanisme</Titre>
+<Fiche ID="F1633">Certificat d'urbanisme</Fiche>
+<Fiche ID="F17578">Déclaration préalable de travaux</Fiche>
+<Fiche ID="F1986">Permis de construire</Fiche>
+<Fiche ID="F17665">Permis d'aménager</Fiche>
+<Fiche ID="F19450">Permis modificatif (permis de construire ou d'aménager)</Fiche>
+<Fiche ID="F17669">Permis de démolir</Fiche>
+<Fiche ID="F2698">Transfert d'un permis de construire ou d'aménager</Fiche>
+<Fiche ID="F20567">Contestation d'une autorisation d'urbanisme</Fiche>
+<Fiche ID="F23263">Taxe d'aménagement</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Avant d'envisager la construction de votre puits, vous devez obligatoirement vous identifier et déclarer votre projet  auprès des exploitants de réseaux souterrains par le biais d'un téléservice.</Paragraphe><ServiceEnLigne ID="R23496" URL="https://www.reseaux-et-canalisations.ineris.fr" type="Téléservice">
+<Titre>Téléservice Réseaux et canalisations</Titre>
+<Source ID="R30672">Institut national de l'environnement industriel et des risques (Ineris)</Source>
+<Texte><Paragraphe>Afin de garantir la sécurité des chantiers effectués à proximité des ouvrages souterrains, aériens ou subaquatiques, les exploitants des réseaux doivent obligatoirement enregistrer et mettre à jour les zones d'implantation de leurs réseaux et ouvrages au moyen de ce téléservice, afin de les rendre identifiables.</Paragraphe>
+<Paragraphe>La consultation de ce guichet unique permettant d'effectuer les déclarations préalables de travaux (DT) et d'intention de commencement de travaux (DICT) est obligatoire pour les maîtres d'ouvrage et les exécutants des travaux.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Vous devez ensuite déclarer l'exécution de votre projet par le biais d'un formulaire.</Paragraphe><ServiceEnLigne ID="R20077" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13837.do" format="application/pdf" poids="985.7 KB" numerocerfa="13837*02" type="Formulaire">
+<Titre>Déclaration d'ouvrage : prélèvements, puits et forages à usage domestique</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de déclarer l'ouvrage de prélèvement d'eau souterraine à des fins domestiques.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Paragraphe> Ce formulaire doit être accompagné d'un extrait du <LienInterne LienPublication="F14226" type="Fiche Question-réponse" audience="Particuliers">cadastre</LienInterne> (ou d'un plan de localisation de l'ouvrage à l'échelle du 1/25000).</Paragraphe>
+<Paragraphe>L'ensemble des documents doit être envoyé à la mairie de préférence par lettre recommandée avec avis de réception.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+<Paragraphe>Une fois construit, vous devez faire intervenir un laboratoire agréé pour faire une analyse de votre eau. </Paragraphe><OuSAdresser ID="R2585" type="Local">
+<Titre>Laboratoires agréés pour le contrôle des eaux</Titre>
+<RessourceWeb URL="http://www.sante.gouv.fr/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux.html"/>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</OuSAdresser>
+
+<Paragraphe>La mairie fait également intervenir un agent communal pour effectuer un contrôle de votre installation.</Paragraphe>
+<Paragraphe>Ce contrôle porte essentiellement sur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les parties apparentes de l'ouvrage, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'usage qui est fait de l'eau, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et l'absence de connexion avec le réseau public.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N319" audience="Particuliers">
+<Titre>Autorisations d'urbanisme</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F31481" audience="Particuliers">
+<Titre>Récupération de l'eau de pluie</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022494734&amp;cidTexte=LEGITEXT000006070633" ID="R38510">
+<Titre>Code général des collectivités territoriales : article L2224-9</Titre>
+<Complement>Conditions</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019117611" ID="R20009">
+<Titre>Décret n°2008-652 du 2 juillet 2008 relatif à la déclaration des dispositifs de prélèvement, puits ou forages réalisés à des fins d'usage domestique de l'eau et à leur contrôle</Titre>
+</Reference>
+<ServiceEnLigne ID="R20077" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13837.do" format="application/pdf" poids="985.7 KB" numerocerfa="13837*02" type="Formulaire">
+<Titre>Déclaration d'ouvrage : prélèvements, puits et forages à usage domestique</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R23496" URL="https://www.reseaux-et-canalisations.ineris.fr" type="Téléservice">
+<Titre>Téléservice Réseaux et canalisations</Titre>
+<Source ID="R30672">Institut national de l'environnement industriel et des risques (Ineris)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F447" audience="Particuliers">Quelles sont les règles en matière d'assainissement des eaux usées ?</QuestionReponse>
+<QuestionReponse ID="F31482" audience="Particuliers">Peut-on boire ou cuisiner avec l'eau de pluie ?</QuestionReponse>
+
+</Publication>

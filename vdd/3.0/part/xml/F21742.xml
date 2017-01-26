@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21742" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles informations contient la carte Vitale ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>La carte Vitale contient les renseignements administratifs utiles à la prise en charge de vos soins. La carte Vitale 2, comportant une photo, peut héberger davantage d'informations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-12</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21742</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172510&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006747410&amp;idSectionTA=LEGISCTA000006186376&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000461627&amp;fastPos=1&amp;fastReqId=1733260077&amp;categorieLien=id, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000647622&amp;fastPos=1&amp;fastReqId=992164863&amp;categorieLien=id</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N418</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418">Assurance maladie : affiliation et remboursements des soins</Niveau>
+<Niveau ID="F21742" type="Fiche Question-réponse">Quelles informations contient la carte Vitale ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere><DossierPere ID="N418">
+<Titre>Assurance maladie : affiliation et remboursements des soins</Titre><SousDossier ID="N418-1">
+<Titre>Démarches d'affiliation</Titre>
+<Fiche ID="F34047">Protection universelle maladie (Puma)</Fiche>
+<Fiche ID="F675">Étudiant</Fiche>
+<Fiche ID="F16467">Premier emploi</Fiche>
+<Fiche ID="F23671">Agent public</Fiche>
+<Fiche ID="F674">Changement de situation professionnelle</Fiche>
+<Fiche ID="F737">Changement de situation personnelle</Fiche>
+<Fiche ID="F16620">Rattachement d'un enfant</Fiche>
+<Fiche ID="F16622">Rattachement d'un autre ayant-droit</Fiche>
+</SousDossier>
+<SousDossier ID="N418-2">
+<Titre>Conditions du remboursement des soins</Titre>
+<Fiche ID="F163">Parcours de soins coordonnés et médecin traitant</Fiche>
+<Fiche ID="F165">Ticket modérateur, forfait, franchises</Fiche>
+<Fiche ID="F265">Carte Vitale</Fiche>
+<Fiche ID="F33967">Ordonnance</Fiche>
+<Fiche ID="F11616">Feuille de soins</Fiche>
+<Fiche ID="F168">Accord (entente) préalable</Fiche>
+<Fiche ID="F167">Tiers payant</Fiche>
+</SousDossier>
+<SousDossier ID="N418-3">
+<Titre>Remboursement par type de dépense de santé</Titre>
+<Fiche ID="F1069">Consultation médicale</Fiche>
+<Fiche ID="F10874">Consultation médicale d'un enfant</Fiche>
+<Fiche ID="F200">Hospitalisation</Fiche>
+<Fiche ID="F21760">Médicaments</Fiche>
+<Fiche ID="F2951">Frais de transports</Fiche>
+<Fiche ID="F751">Cure thermale</Fiche>
+<Fiche ID="F33950">Lunettes et lentilles</Fiche>
+<Fiche ID="F33956">Soins dentaires</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La carte Vitale contient les renseignements administratifs utiles à la prise en charge de vos soins.   La  carte Vitale 2, comportant une photo, peut héberger davantage d'informations.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Carte sans photo</Titre>
+<Texte>
+<Chapitre><Paragraphe>La <LienInterne LienPublication="F265" type="Fiche d'information" audience="Particuliers">carte Vitale</LienInterne> contient les informations suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Votre identité et celle de vos <LienIntra LienID="R13146" type="Définition de glossaire">ayants-droit</LienIntra> de moins de 16 ans</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre numéro de sécurité sociale</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre <LienInterne LienPublication="F225" type="Fiche Question-réponse" audience="Particuliers">régime d'assurance maladie</LienInterne>  et <LienInterne LienPublication="F648" type="Fiche Question-réponse" audience="Particuliers">l'organisme auquel vous êtes rattaché</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Vos éventuels droits à la <LienInterne LienPublication="F10027" type="Fiche d'information" audience="Particuliers">couverture maladie universelle complémentaire (CMUC)</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Vos éventuels droits à l'exonération du <LienInterne LienPublication="F165" type="Fiche d'information" audience="Particuliers">ticket modérateur</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez consulter les informations enregistrées sur votre carte Vitale à partir des  guichets automatiques disponibles dans les organismes d'assurance maladie.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>ce n'est pas une carte de paiement.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Carte avec photo</Titre>
+<Texte>
+<Chapitre><Paragraphe>La  carte Vitale avec photo, appelée <Expression>carte Vitale 2</Expression>, contient les informations suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Votre identité et celle de vos <LienIntra LienID="R13146" type="Définition de glossaire">ayants-droit</LienIntra> de moins de 16 ans</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre numéro de sécurité sociale</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre <LienInterne LienPublication="F225" type="Fiche Question-réponse" audience="Particuliers">régime d'assurance maladie</LienInterne>  et <LienInterne LienPublication="F648" type="Fiche Question-réponse" audience="Particuliers">l'organisme auquel vous êtes rattaché</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Vos éventuels droits à la <LienInterne LienPublication="F10027" type="Fiche d'information" audience="Particuliers">couverture maladie universelle complémentaire (CMUC)</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Vos éventuels droits à l'exonération du <LienInterne LienPublication="F165" type="Fiche d'information" audience="Particuliers">ticket modérateur</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>et peut héberger les informations supplémentaires suivantes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Mention du <LienInterne LienPublication="F163" type="Fiche d'information" audience="Particuliers">médecin traitant déclaré</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Mention d'une éventuelle <LienInterne LienPublication="F20314" type="Fiche d'information" audience="Particuliers">mutuelle santé</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Personne à prévenir en cas de nécessité</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Accès aux soins dans l'Union européenne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Gestion des accidents du travail et des maladies professionnelles </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Mention indiquant que son titulaire a eu connaissance des informations sur le don d'organes</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez consulter les informations enregistrées sur votre carte Vitale à partir des guichets automatiques disponibles dans les organismes d'assurance maladie.</Paragraphe>
+<Paragraphe>Vous n'avez aucune démarche à faire pour recevoir une carte Vitale avec photo. Elle est diffusée progressivement aux personnes qui n'ont pas encore de carte Vitale et à celles qui n'en ont plus ou qui ont besoin de la remplacer (carte Vitale perdue, volée ou défectueuse).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce n'est pas une carte de paiement. </Paragraphe>
+</ASavoir>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R19040" type="Centre de contact">
+<Titre>Assurance maladie - 3646</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Le 36 46 vous permet d'obtenir des renseignements sur vos droits et démarches, de poser une question sur votre dossier, de signaler un changement de situation ou encore de consulter vos remboursements.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3646</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi. Attention : les horaires varient selon votre département. En règle générale, les horaires d'ouverture sont au minimum de 8h30 à 16h. </Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger : +33 (0) 811 70 36 46
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Connectez-vous sur votre
+      <LienExterne URL="http://www.ameli.fr/">compte ameli</LienExterne>
+,      puis sélectionnez l'onglet
+      <Citation>Vos demandes</Citation>
+      et cliquez sur
+      <Citation>Contactez-nous / Vos questions</Citation>
+		.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<Complement>Pour s'informer et effectuer les démarches (consultation du contenu de la carte Vitale par exemple)</Complement>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172510&amp;cidTexte=LEGITEXT000006073189" ID="R32715">
+<Titre>Code de la sécurité sociale : articles L161-28 à L161-36-2</Titre>
+<Complement>Contenu et fonctionnement de la carte Vitale (article L161-31)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006747410&amp;idSectionTA=LEGISCTA000006186376&amp;cidTexte=LEGITEXT000006073189" ID="R33297">
+<Titre>Code de la sécurité sociale : articles R161-33-1 à R161-33-10</Titre>
+<Complement>Contenu et fonctionnement de la carte Vitale</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000461627&amp;fastPos=1&amp;fastReqId=1733260077&amp;categorieLien=id" ID="R16786">
+<Titre>Arrêté du 14 mars 2007 relatif aux spécifications physiques et logiques de la carte d'assurance maladie et aux données contenues dans cette carte</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000647622&amp;fastPos=1&amp;fastReqId=992164863&amp;categorieLien=id" ID="R16785">
+<Titre>Arrêté du 14 mars 2007 relatif aux conditions d'émission et de gestion des cartes d'assurance maladie</Titre>
+</Reference>
+<ServiceEnLigne ID="R3049" URL="https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true" type="Téléservice">
+<Titre>Ameli en ligne</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R990" URL="http://www.ameli.fr/assures/soins-et-remboursements/comment-etre-rembourse/la-carte-vitale/la-carte-vitale-est-votre-carte-d-assure-social.php" audience="Particuliers">
+<Titre>Carte Vitale</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R13146">
+<Titre>Ayant droit (pour la Sécurité sociale)</Titre>
+<Texte>
+				<Paragraphe>Personne qui tient son droit à l'assurance maladie-maternité du fait de ses liens avec un assuré</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F10662" audience="Particuliers">Comment obtenir une attestation de droits (attestation Vitale) ?</QuestionReponse>
+<QuestionReponse ID="F33078" audience="Particuliers">Que signifie le numéro de sécurité sociale ?</QuestionReponse>
+</Publication>

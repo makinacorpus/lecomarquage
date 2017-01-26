@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42038" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Portail électronique des pays de l'Union européenne pour la transmission des demandes de remboursement de TVA</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Portail électronique des pays de l'Union européenne pour la transmission des demandes de remboursement de TVA - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-16</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42038</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13445">Taxe sur la valeur ajoutée (TVA)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42038" type="Téléservice">Portail électronique des pays de l'Union européenne pour la transmission des demandes de remboursement de TVA</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<LienWeb URL="http://www2.impots.gouv.fr/dresg/pas-etb-stable/portails_etats_membres.htm">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F31673" audience="Professionnels" type="Fiche d'information">
+<Titre>Remboursement de la TVA intracommunautaire</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

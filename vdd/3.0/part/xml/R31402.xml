@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31402" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Cotisation additionnelle due à la Caisse de garantie du logement locatif social</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Permet aux organismes d'habitations à loyer modéré (HLM) et aux sociétés d'économie mixte de déclarer le versement de leur cotisation à la Caisse de garantie du logement locatif social. Cette cotisation est versée au premier trimestre de chaque année.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-11</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31402</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31402" type="Formulaire">Cotisation additionnelle due à la Caisse de garantie du logement locatif social</Niveau>
+</FilDAriane>
+<NumeroCerfa>14049*08</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet aux organismes d'habitations à loyer modéré (HLM) et aux sociétés d'économie mixte de déclarer le versement de leur cotisation à la Caisse de garantie du logement locatif social. Cette cotisation est versée au premier trimestre de chaque année. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14049.do">
+<Source>Ministère en charge du logement</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R2871" audience="Particuliers" type="Formulaire">
+<Titre>Cotisation due à la Caisse de garantie du logement locatif social</Titre>
+</ServiceEnLigneAlternatif>
+</ServiceComplementaire>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N18775" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Séparation des parents</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Séparation des parents : Relations avec l'enfant, Pension alimentaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-25</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N18775</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N18775" type="Dossier">Séparation des parents</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere>
+<SousDossier ID="N18775-1">
+<Titre>Relations avec l'enfant</Titre><Fiche ID="F3133">Autorité parentale</Fiche>
+<Fiche ID="F18786">Droit de visite et d'hébergement</Fiche>
+<Fiche ID="F18785">Résidence de l'enfant</Fiche>
+<Fiche ID="F1774">Opposition et interdiction de sortie du territoire de l'enfant</Fiche>
+<Fiche ID="F1223">Relations de l'enfant avec sa famille ou ses proches</Fiche>
+</SousDossier>
+<SousDossier ID="N18775-2">
+<Titre>Pension alimentaire</Titre><Fiche ID="F991">Fixation et versement</Fiche>
+<Fiche ID="F2010">Réévaluation</Fiche>
+<Fiche ID="F21023">Révision</Fiche>
+</SousDossier><ServiceEnLigne ID="R45945" URL="https://www.service-public.fr/simulateur/calcul/pension-alimentaire" type="Simulateur">
+<Titre>Simulateur de calcul de pension alimentaire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15764" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11530.do" format="application/pdf" poids="193.5 KB" numerocerfa="11530*05" type="Formulaire">
+<Titre>Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R2908" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50720%2305&amp;cerfaFormulaire=11530*05" numerocerfa="50720#05">Notice de la demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2000" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12785.do" numerocerfa="12785*02" type="Formulaire">
+<Titre>Demande d'exercice conjoint de l'autorité parentale</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R2846" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51142&amp;cerfaFormulaire=12785" numerocerfa="51143#02">Notice de déclaration conjointe d'exercice en commun de l'autorité parentale</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37013" URL="http://www.interieur.gouv.fr/content/download/71417/521900/file/Formulaire%20OST%2015%20jours%20conflit%20parental%20-%20circulaire%2020-11-2012.xls" type="Formulaire">
+<Titre>Demande de mesure conservatoire d'opposition à la sortie du territoire d'un mineur (conflit parental)</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42402" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15454.do" numerocerfa="15454*01" type="Formulaire">
+<Titre>Requête en obligation alimentaire - Saisine du juge aux affaires familiales</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R42411" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52034%2301&amp;cerfaFormulaire=15454*01" numerocerfa="52034*01">Notice relative à la requête en obligation alimentaire</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R42344" URL="http://www.justice.gouv.fr/justice-civile-11861/mediation-familiale-un-autre-mode-de-reglement-des-conflits-19814.html" audience="Particuliers">
+<Titre>Médiation familiale : mode de règlement des conflits</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F11389" audience="Particuliers">Un parent séparé peut-il déménager librement ?</QuestionReponse>
+<QuestionReponse ID="F1329" audience="Particuliers">Comment bénéficier de la résidence alternée ?</QuestionReponse>
+<QuestionReponse ID="F1285" audience="Particuliers">Peut-on avoir un droit de visite sans exercer l'autorité parentale ?</QuestionReponse>
+<QuestionReponse ID="F10416" audience="Particuliers">Peut-on réviser la pension d'un débiteur si ses ressources augmentent ?</QuestionReponse>
+<QuestionReponse ID="F1249" audience="Particuliers">Que faire si la pension alimentaire n'est pas payée ?</QuestionReponse>
+<QuestionReponse ID="F10508" audience="Particuliers">Peut-on verser directement la pension alimentaire à son enfant devenu majeur ?</QuestionReponse>
+<QuestionReponse ID="F2236" audience="Particuliers">Pension alimentaire, prestation compensatoire : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F1728" audience="Particuliers">Qui peut percevoir une pension alimentaire ?</QuestionReponse>
+<QuestionReponse ID="F10435" audience="Particuliers">Doit-on encore verser une pension alimentaire à un enfant devenu majeur ?</QuestionReponse>
+
+</Publication>

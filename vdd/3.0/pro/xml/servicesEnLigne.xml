@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="servicesEnLigne" type="Liste - Service en ligne" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Services en ligne et formulaires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Services en ligne et formulaires : téléservices, formulaires, simulateurs, modèles de document</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-21</dc:date>
+<dc:type>Liste - Service en ligne</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>accueil</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+</FilDAriane>
+<Groupe type="Téléservice">
+<Titre>Téléservices</Titre><ServiceEnLigne ID="R19133" URL="http://www.net-entreprises.fr/html/regime-micro-social.htm" numerocerfa="13690*01" type="Téléservice">
+<Titre>Auto-entrepreneur : déclaration en ligne du chiffre d'affaires (régime micro-social simplifié)</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19859" URL="https://www.infogreffe.fr/societes/documents-officiels/demande-kbis.html" type="Téléservice">
+<Titre>Recherche sur les entreprises immatriculées au RCS</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17488" URL="http://www.guichet-entreprises.fr" type="Téléservice">
+<Titre>Guichet-entreprises : guichet unique pour la création d'entreprise</Titre>
+<Source ID="R30812">Service Guichet entreprises</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14578" URL="https://gestion.pole-emploi.fr/espaceemployeur/espaceemployeur/authentification/authentification" type="Téléservice">
+<Titre>Pôle emploi : services en ligne pour les employeurs</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14669" URL="http://ec.europa.eu/taxation_customs/vies/vieshome.do?selectedLanguage=fr" type="Téléservice">
+<Titre>Validation d'un numéro de TVA intracommunautaire (VIES)</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14530" URL="http://www.net-entreprises.fr/html/dpae.htm" numerocerfa="10563*05" type="Téléservice">
+<Titre>Déclaration préalable à l'embauche (DPAE) en ligne</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17834" URL="http://www.net-entreprises.fr/html/dsi.htm" numerocerfa="12158*05" type="Téléservice">
+<Titre>Déclaration sociale des professions indépendantes (DSI) en ligne</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17830" URL="http://www.net-entreprises.fr/html/dads.htm" numerocerfa="12920*01" type="Téléservice">
+<Titre>Déclaration automatisée des données sociales unifiée (DADS-U)</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14545" URL="https://www.e-ventail.fr/ss/Satellite/e-ventail.html" type="Téléservice">
+<Titre>Déclaration annuelle des données sociales (DADS) : saisie en ligne DADSNET</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17833" URL="http://www.net-entreprises.fr/html/c3s.htm" numerocerfa="11750*16" autrenumero="S2205g" type="Téléservice">
+<Titre>Déclaration de la C3S (Contribution sociale de solidarité des sociétés)</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1280" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Déclaration 2016 en ligne des revenus</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15923" URL="https://pro.douane.gouv.fr" type="Téléservice">
+<Titre>Pro.douane : toutes les procédures douanières</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Formulaire">
+<Titre>Formulaires</Titre><ServiceEnLigne ID="R17441" URL="https://www.rsi.fr/fileadmin/mediatheque/.Phototheque/Images_evenementielles/Dossiers_Zoom/DSI/DSI_declaration_revenus_N-1.pdf" format="application/pdf" poids="488.6 KB" numerocerfa="10020*20" autrenumero="S2223a" type="Formulaire">
+<Titre>Déclaration sociale des indépendants (DSI)</Titre>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15902" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11542.do" format="application/pdf" poids="240.9 KB" numerocerfa="11542*05" type="Formulaire">
+<Titre>Déclaration d'un restaurant ou d'un débit de boissons à consommer sur place ou à emporter</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source><NoticeLiee ID="R31511" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51703&amp;cerfaFormulaire=11542" numerocerfa="51703#01" format="application/pdf" poids="35.4 KB">Notice explicative pour la déclaration d'un débit de boissons ou d'un restaurant</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14665" URL="https://www.impots.gouv.fr/portail/node/9095" numerocerfa="11417*17" autrenumero="3517-S - CA 12" type="Formulaire">
+<Titre>Déclaration annuelle de régularisation de TVA - Régime simplifié</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17341" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11678.do" format="application/force-download" poids="716.9 KB" numerocerfa="11678*05" autrenumero="P2 CMB" type="Formulaire">
+<Titre>Déclaration de modification d'une entreprise - Personne physique (P2)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R15262" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50783&amp;cerfaFormulaire=11678" numerocerfa="50783#05" format="application/pdf" poids="554.9 KB">Notice pour la déclaration de modification d'entreprise par une personne physique</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11677*01">
+<Titre>Intercalaire P' - Suite de l'imprimé P2, P2 agricole, P4, P4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11677.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17542" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13905.do" format="application/force-download" poids="1.5 MB" numerocerfa="13905*04" autrenumero="P2 - P4 micro-entrepreneur" type="Formulaire">
+<Titre>Micro-entrepreneur : déclaration de modification ou de cessation d'activité (P2 - P4)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R444" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51480&amp;cerfaFormulaire=13905" numerocerfa="51480#03" format="application/pdf" poids="1.4 MB">Notice pour la déclaration de modification ou de cessation d'activité (P2 - P4)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14651" URL="https://www.impots.gouv.fr/portail/node/9139" numerocerfa="10144*21 et 12303*12" autrenumero="DAS2-T et DAS2-I" type="Formulaire">
+<Titre>Déclaration des honoraires ou commissions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R39692" URL="https://www.impots.gouv.fr/portail/node/8918" numerocerfa="15252*02" autrenumero="2069-RCI-SD" type="Formulaire">
+<Titre>Réductions et crédits d'impôt de l'exercice</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17342" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11682.do" format="application/force-download" poids="527.8 KB" numerocerfa="11682*03" autrenumero="M2" type="Formulaire">
+<Titre>Déclaration de modification d'une entreprise - Personne morale (M2)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R14212" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50785&amp;cerfaFormulaire=11682" numerocerfa="50785#03" format="application/pdf" poids="156.1 KB">Notice pour la déclaration de modification - Personne morale</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11681*02">
+<Titre>Intercalaire - Suite des imprimés M2, M2 agricole, M4, M4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11681.do" format="application/pdf" poids="138.8 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Simulateur">
+<Titre>Simulateurs</Titre><ServiceEnLigne ID="R40280" URL="/simulateur/calcul/gratification-stagiaire" commentaireLien="Calcul de la gratification d'un stagiaire" type="Simulateur">
+<Titre>Calcul de la gratification minimale d'un stagiaire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21853" URL="https://www.afecreation.fr/pid11436/calculatrice-de-charges-ae.html" commentaireLien="Charges de l'auto-entrepreneur" type="Simulateur">
+<Titre>Calcul des charges du micro-entrepreneur</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31771" URL="http://www.economie.gouv.fr/pacte-responsabilite/simulateur-cice" commentaireLien="Crédit d'impôt pour la compétitivité et l'emploi (CICE)" type="Simulateur">
+<Titre>Simulateur du crédit d'impôt pour la compétitivité et l'emploi (CICE)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19567" URL="http://www.rsi.fr//change-user/simulateur-de-cotisations-sociales.html" commentaireLien="Cotisations sociales des artisans et commerçants" type="Simulateur">
+<Titre>Simulation des cotisations sociales pour les artisans et commerçants</Titre>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36817" URL="http://sdpe.rsi.fr/c3s/declarationcalcul/calcul_norm/index.asp?annee=2014&amp;zerofirst=oui" type="Simulateur">
+<Titre>Simulateur de calcul de la C3S</Titre>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R209" URL="/simulateur/calcul/interets-moratoires" commentaireLien="Intérêts moratoires des marchés publics" type="Simulateur">
+<Titre>Simulateur de calcul des intérêts moratoires des marchés publics</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16148" URL="https://www.alternance.emploi.gouv.fr/portail_alternance/jcms/hl_5641" type="Simulateur">
+<Titre>Calcul du salaire minimum des personnes en apprentissage ou en contrat de professionnalisation</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32720" URL="https://www.telerc.travail.gouv.fr/RuptureConventionnellePortailPublic/jsp/site/Portal.jsp?page_id=14" commentaireLien="Indemnité de rupture conventionnelle" type="Simulateur">
+<Titre>Simulateur de calcul de l'indemnité de rupture conventionnelle</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Modèle de document">
+<Titre>Modèles de document</Titre><ServiceEnLigne ID="R1333" URL="http://www.lautoentrepreneur.fr/images/5_Facturier.pdf" format="application/pdf" poids="423.4 KB" type="Modèle de document">
+<Titre>Modèles de facture à adresser à un client professionnel et de notes justificatives pour une vente au détail à un particulier</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38960" URL="http://www.arfa-idf.asso.fr/Resources/Bordereau%20de%20resiliation%20amiable.pdf" format="application/pdf" poids="130.2 KB" type="Modèle de document">
+<Titre>Modèle de constatation de rupture amiable d'un contrat d'apprentissage</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38712" URL="" type="Modèle de document">
+<Titre>Demande d'attribution d'un numéro de TVA intracommunautaire à un assujetti non redevable</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37776" URL="http://www2.impots.gouv.fr/enregistrement/constitution_de_societe/4_constitution_societes.htm" type="Modèle de document">
+<Titre>Modèle d'acte de constitution de société</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18563" URL="http://www.lautoentrepreneur.fr/images/4_Achats-recettes.pdf" format="application/pdf" poids="409.9 KB" type="Modèle de document">
+<Titre>Modèle de livre chronologique des recettes et registre des achats</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37274" URL="http://www.correze.gouv.fr/content/download/6953/46553/file/bail_rural_type.pdf" format="application/pdf" poids="141.9 KB" type="Modèle de document">
+<Titre>Modèle de contrat de bail à ferme (bail rural)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38632" URL="" type="Modèle de document">
+<Titre>Modèle-type de déclaration de confidentialité des comptes annuels pour les micro-entreprises</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</ServiceEnLigne>
+</Groupe>
+</Publication>

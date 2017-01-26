@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21304" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Scolarisation au collège ou au lycée d'un enfant venant de l'étranger</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Le jeune nouvellement arrivé en France (français ou étranger), qui ne maîtrise pas suffisamment le français ou les apprentissages scolaires, est accueilli en unité pédagogique et en classe ordinaire. L'obligation de scolarisation s'applique, de la même manière, pour les élèves non-francophones nouvellement arrivés que pour les autres élèves. L’élève est d'abord évalué pour connaître les besoins de son parcours.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-25</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21304</dc:identifier>
+<dc:source>http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=61536</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31347</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N31347">Scolarité en France d'un enfant arrivant de l'étranger</Niveau>
+<Niveau ID="F21304" type="Fiche d'information">Scolarisation au collège ou au lycée d'un enfant venant de l'étranger</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N31347">
+<Titre>Scolarité en France d'un enfant arrivant de l'étranger</Titre>
+<Fiche ID="F1866">Scolariser en France son enfant arrivé de l'étranger - Primaire</Fiche>
+<Fiche ID="F21304">Scolariser en France son enfant arrivé de l'étranger - Collège ou lycée</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le jeune nouvellement arrivé en France (français ou étranger), qui ne maîtrise pas suffisamment le français ou les apprentissages scolaires, est accueilli en unité pédagogique et en classe ordinaire.
+			L'obligation de scolarisation s'applique, de la même manière, pour les élèves non-francophones nouvellement arrivés que pour les autres élèves. L’élève est d'abord évalué pour connaître les besoins de son parcours.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Inscription</Paragraphe>
+</Titre><Paragraphe>Vos démarches administratives varient selon que vous souhaitez inscrire votre enfant au sein de l'enseignement du 1<Exposant>er</Exposant> degré (écoles maternelles, écoles élémentaires et écoles primaires) ou du 2<Exposant>nd</Exposant> degré (collège et lycée). </Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Enseignement du 1er degré</Paragraphe>
+</Titre><Paragraphe>L'inscription administrative doit être faite par les parents (ou par le tuteur de l'enfant ou la personne qui en a la charge) <MiseEnEvidence>en mairie, puis auprès du directeur de l'établissement</MiseEnEvidence>. Le maire délivre le certificat d'inscription et le directeur de l'école procède à l'admission de l'enfant. L'enfant doit être présent sur le territoire au moment de son inscription à l'école ou dans un établissement.</Paragraphe>
+<Paragraphe>Les documents à fournir varient selon les académies. Avant toute inscription, renseignez-vous sur le type de pièces à fournir.</Paragraphe>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Enseignement du 2nd degré</Paragraphe>
+</Titre><Paragraphe>Vous devez inscrire votre enfant au sein du collège ou du lycée concerné. L'enfant doit être présent sur le territoire au moment de son inscription à l'école ou dans un établissement.</Paragraphe>
+<Paragraphe>Les documents à fournir varient selon les rectorats. Avant toute inscription, renseignez-vous sur le type de pièces à fournir. </Paragraphe>
+<OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Évaluation des acquis de l'élève à son arrivée</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Enseignement du 1er degré</Paragraphe>
+</Titre><Paragraphe>Lors de votre arrivée en France, mettez-vous en relation avec le Centre académique pour la scolarisation des enfants <LienIntra LienID="R40363" type="Définition de glossaire">allophones</LienIntra> nouvellement arrivés et des enfants issus de familles itinérantes et de voyageurs (Casnav) dont votre résidence principale dépend. </Paragraphe>
+<OuSAdresser ID="R45089" type="Local">
+<Titre>Centre académique pour la scolarisation (Casnav)</Titre>
+<RessourceWeb URL="http://cache.media.eduscol.education.fr/file/College/38/0/annuaire2_CASNAV_313380.pdf"/>
+</OuSAdresser>
+
+<Paragraphe>Un rendez-vous est fixé afin que l'élève et sa famille rencontrent un conseiller d'orientation psychologue. Cette personne analyse le parcours scolaire de l'élève et organise une évaluation pédagogique.</Paragraphe>
+<Paragraphe>L'équipe chargée de cette évaluation transmet ensuite les résultats aux enseignants chargés d'accueillir l'élève. Son affectation est aussitôt prononcée  par les services de l'académie qui tiennent compte :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du profil scolaire de l'élève établi lors de cette évaluation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et des possibilités d'accueil adaptées au niveau de l'élève, à une distance raisonnable de son domicile.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Enseignement du 2nd degré</Paragraphe>
+</Titre><Paragraphe>Lors de votre arrivée en France, mettez-vous en relation avec le Centre académique pour la scolarisation des enfants <LienIntra LienID="R40363" type="Définition de glossaire">allophones</LienIntra> nouvellement arrivés et des enfants issus de familles itinérantes et de voyageurs (Casnav) dont votre résidence principale dépend. </Paragraphe>
+<OuSAdresser ID="R45089" type="Local">
+<Titre>Centre académique pour la scolarisation (Casnav)</Titre>
+<RessourceWeb URL="http://cache.media.eduscol.education.fr/file/College/38/0/annuaire2_CASNAV_313380.pdf"/>
+</OuSAdresser>
+
+<Paragraphe>Un rendez-vous est fixé afin que l'élève et sa famille rencontrent un conseiller d'orientation psychologue. Cette personne analyse le parcours scolaire de l'élève et organise une évaluation pédagogique.</Paragraphe>
+<Paragraphe>L'équipe chargée de cette évaluation transmet ensuite les résultats aux enseignants chargés d'accueillir l'élève. Son affectation est aussitôt prononcée  par les services de l'académie qui tiennent compte :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du profil scolaire de l'élève établi lors de cette évaluation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et des possibilités d'accueil adaptées au niveau de l'élève, à une distance raisonnable de son domicile.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Scolarité de l'élève</Paragraphe>
+</Titre><Paragraphe>En fonction de son niveau, l'élève est dirigé  les services académiques :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vers une unité pédagogique pour élèves allophones arrivants (UPE2A) ayant été scolarisés dans leur pays d'origine,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vers une  unité pédagogique pour élèves allophones arrivants non scolarisés antérieurement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'élève, déjà scolarisé dans son pays d'origine, est inscrit  dans une classe ordinaire correspondant à son niveau scolaire, sans dépasser un écart d'âge de plus de 2 ans avec l'âge de référence de la classe.</Paragraphe>
+<Paragraphe>L'élève bénéficie d'une part importante de l'enseignement proposé en classe ordinaire et d'un emploi du temps individualisé. Son horaire scolaire  doit être identique aux autres élèves inscrits dans le même niveau.</Paragraphe>
+<Paragraphe>Dans les lieux où la dispersion des élèves ne permet pas leur regroupement en unité pédagogique, des enseignements spécifiques de français sont mis en place.</Paragraphe>
+<Paragraphe>L'élève, pas ou peu scolarisé dans son pays d'origine et en âge de fréquenter le collège, est accueilli à plein temps dans une UPE2A  pour apprendre le français. Il doit y  acquérir les <LienInterne LienPublication="F24484" type="Fiche d'information" audience="Particuliers">connaissances de base du cycle des approfondissements  de l'école élémentaire.</LienInterne> Il peut toutefois suivre les cours de classe ordinaire où la maîtrise du français écrit n'est pas indispensable (musique, sports, arts plastiques...).</Paragraphe>
+<Paragraphe>L'objectif est que l'élève nouvellement arrivé puisse intégrer, le plus rapidement, l'ensemble des cours en classe ordinaire (le plus souvent au bout d'un an).</Paragraphe>
+<Paragraphe>L'élève est évalué régulièrement, sans attendre la fin de l'année scolaire.</Paragraphe>
+<Paragraphe>L'élève bénéficiaire d'un enseignement en unité pédagogique peut continuer à recevoir un soutien sur plusieurs années  pour compléter sa formation en français.</Paragraphe>
+<Paragraphe>Les enfants les plus âgés ou les moins biens scolarisés dans leurs pays d'origine sont aidés et orientés dans la définition d'un projet de formation adapté.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le jeune de plus de 16 ans, <LienInterne LienPublication="F1898" type="Fiche d'information" audience="Particuliers">plus soumis à l'obligation scolaire</LienInterne>, peut être accueilli en lycée professionnel ou général et technologique et bénéficier d'un projet professionnel individualisé.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Diplôme d'études en langue française scolaire</Paragraphe>
+</Titre><Paragraphe>L'adolescent, âgé de 12 à 17 ans,  peut passer le <LienExterne URL="http://www.ciep.fr/delfdalf/index.php">diplôme d'études en langue française (Delf) junior ou scolaire</LienExterne>
+
+.</Paragraphe>
+<Paragraphe>Le Delf est une certification officielle du ministère de l'éducation nationale en français langue étrangère.
+		 Il est délivré par le Centre international d'études pédagogiques (CIEP) et est reconnu internationalement.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<Complement>Pour toute information et s'inscrire</Complement>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+<OuSAdresser ID="R24" type="Local personnalisé sur SP">
+<Titre>Direction des services départementaux de l'éducation nationale</Titre>
+<Complement>Pour toute information sur la scolarisation en unité pédagogique</Complement>
+<PivotLocal>inspection_academique</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-et-services-departementaux-de-l-education-nationale.html#Les_coordonnées%20des%20rectorats%20et%20des%20services%20départementaux%20de%20l%27éducation%20nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=61536" ID="R15088">
+<Titre>Circulaire du 2 octobre 2012 sur l'organisation de la scolarité des élèves allophones nouvellement arrivés en France</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R31250" URL="http://www.ciep.fr/delfdalf/index.php" audience="Particuliers">
+<Titre>Diplôme d'études en langue française (Delf) junior ou scolaire</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45090" URL="https://www.ac-paris.fr/portail/jcms/p1_1014931/accueil-inscription-et-scolarisation-des-eleves-allophones-nouvellement-arrives-de-l-etranger" audience="Particuliers">
+<Titre>Paris : accueil des élèves allophones nouvellement arrivés de l'étranger</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45091" URL="https://www.ac-paris.fr/portail/jcms/p1_921832/vous-venez-de-l-etranger-et-vous-emmenagez-a-paris?cid=p1_921216&amp;portal=p1_146885" audience="Particuliers">
+<Titre>Paris : enfant venant de l'étranger et inscription après la 3ème</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45092" URL="https://www.ac-paris.fr/portail/jcms/p1_1061318/bienvenue-dans-la-rubrique-college" audience="Particuliers">
+<Titre>Inscription au collège pour les enfants provenant de l'étranger</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<Definition ID="R40363">
+<Titre>Allophone</Titre>
+<Texte>
+				<Paragraphe>Personne qui parle une autre langue  que le français </Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1872" audience="Particuliers">Comment bénéficier des transports en commun scolaires ?</QuestionReponse>
+</Publication>

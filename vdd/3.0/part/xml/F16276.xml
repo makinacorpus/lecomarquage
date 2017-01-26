@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16276" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Succession : en quoi consiste le droit de retour légal des parents ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Succession : en quoi consiste le droit de retour légal des parents ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16276</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006431168&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N173</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N173">Héritage : ordre et droits des héritiers</Niveau>
+<Niveau ID="F16276" type="Fiche Question-réponse">Succession : en quoi consiste le droit de retour légal des parents ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20090">Succession</SousThemePere><DossierPere ID="N173">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Fiche ID="F1270">Défunt ayant eu des enfants</Fiche>
+<Fiche ID="F1632">Défunt sans enfant</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le droit de retour légal permet aux parents de reprendre les biens qu'ils ont donnés à leur enfant si celui-ci meurt sans <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra>. En effet, les parents ne sont pas des <LienIntra LienID="R12674" type="Définition de glossaire">héritiers réservataires</LienIntra>.</Paragraphe>
+<Paragraphe>En pratique, le parent donateur prévoit souvent dans l'acte de donation une <LienIntra LienID="R40784" type="Définition de glossaire">clause de retour conventionnel</LienIntra>. </Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N31162" audience="Particuliers">
+<Titre>Préparer sa succession : donation</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N173" audience="Particuliers">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N171" audience="Particuliers">
+<Titre>Règlement d'une succession</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006431168&amp;cidTexte=LEGITEXT000006070721" ID="R1389">
+<Titre>Code civil : article 738-2</Titre>
+</Reference>
+<Definition ID="R12674">
+<Titre>Héritier réservataire</Titre>
+<Texte>
+				<Paragraphe>Descendant, ou à défaut de descendant, le conjoint survivant, à qui la loi réserve une part d'héritage qui ne peut être diminuée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150544&amp;cidTexte=LEGITEXT000006070721" ID="R31562">
+<Titre>Code civil : articles 912 à 917</Titre>
+</Reference>
+</Definition>
+<Definition ID="R40784">
+<Titre>Droit de retour conventionnel</Titre>
+<Texte>
+				<Paragraphe>Clause insérée dans un acte de donation et permettant au donateur de reprendre le bien qu'il a donné dans le cas où le bénéficiaire mourrait avant lui</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006433777&amp;idSectionTA=LEGISCTA000006150545&amp;cidTexte=LEGITEXT000006070721" ID="R3062">
+<Titre>Code civil : articles 931 à 952</Titre>
+</Reference>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+<CommentFaireSi ID="F17649">J'organise ma succession</CommentFaireSi>
+</Publication>

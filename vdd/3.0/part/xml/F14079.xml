@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14079" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Voyage aux USA : quelles sont les formalités (passeport, visa...) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Vous pouvez vous rendre aux États-Unis sans visa si vous avez un passeport biométrique (délivré depuis 2009) ou électronique</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-13</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14079</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N360">Passeport</Niveau>
+<Niveau ID="F14079" type="Fiche Question-réponse">Voyage aux USA : quelles sont les formalités (passeport, visa...) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N360">
+<Titre>Passeport</Titre><SousDossier ID="N360-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F14929">Première demande</Fiche>
+<Fiche ID="F21091">Renouvellement</Fiche>
+<Fiche ID="F21246">Passeport perdu</Fiche>
+<Fiche ID="F21247">Passeport volé</Fiche>
+<Fiche ID="F1373">Passeport en urgence</Fiche>
+</SousDossier>
+<SousDossier ID="N360-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F14930">Première demande</Fiche>
+<Fiche ID="F21092">Renouvellement</Fiche>
+<Fiche ID="F21244">Passeport perdu</Fiche>
+<Fiche ID="F21245">Passeport volé</Fiche>
+<Fiche ID="F1035">Passeport en urgence</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Les formalités pour se rendre aux États-Unis dépendent du type de passeport que vous possédez.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Passeport classique</Paragraphe>
+</Titre><Paragraphe>Si votre passeport est électronique ou biométrique, vous n'avez pas besoin de visa sauf si vous vous êtes rendu dans <LienIntra LienID="R44553" type="Définition de glossaire">certains pays</LienIntra> depuis mars 2011.</Paragraphe>
+<Paragraphe>En revanche,  vous devez solliciter une autorisation électronique de voyage (Esta) avant le départ.</Paragraphe><ServiceEnLigne ID="R1211" URL="https://esta.cbp.dhs.gov/esta/application.html" type="Téléservice">
+<Titre>Demande d'une autorisation de voyage aux États-Unis (Esta)</Titre>
+<Source ID="R30733">Department of Homeland Security</Source>
+<Introduction>
+<Texte><Paragraphe>Se munir de son passeport ainsi que d'une carte bancaire.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Paragraphe>La délivrance de cette autorisation coûte <Valeur>14 $</Valeur>.</Paragraphe>
+<Paragraphe>L'autorisation de voyage est  valable 2 ans  et permet de  se rendre aux États-Unis à plusieurs reprises  sans avoir à solliciter une nouvelle autorisation. Si votre  passeport expire avant ce délai, l'autorisation n'est valable que jusqu'à sa  date d'expiration.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre>
+						<Paragraphe>si vous arrivez aux États-Unis par la route  (via le Canada ou le Mexique), l'Esta n'est pas exigée. Vous devrez remplir un formulaire I-94 à l'arrivée et payer un droit de <Valeur>6 $</Valeur>.</Paragraphe>
+					</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Passeport en urgence</Paragraphe>
+</Titre><Paragraphe>Vous avez besoin d'un  visa quel que soit le type de  voyage (touristique, professionnel ou  simple transit sur le sol américain)</Paragraphe>
+<Paragraphe>Pour l'obtenir, vous <LienExterne URL="https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/">faire la demande auprès de l'ambassade des États-Unis</LienExterne>
+
+.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><ServiceEnLigne ID="R1211" URL="https://esta.cbp.dhs.gov/esta/application.html" type="Téléservice">
+<Titre>Demande d'une autorisation de voyage aux États-Unis (Esta)</Titre>
+<Source ID="R30733">Department of Homeland Security</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R11667" URL="https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/" audience="Particuliers">
+<Titre>Procédure de demande de visa - Séjour temporaire aux États-Unis</Titre>
+<Source ID="R30810">Ambassade des États-Unis d'Amérique</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2914" URL="https://ais.usvisa-info.com/fr-fr/niv/information/faqs" audience="Particuliers">
+<Titre>Questions-Réponses sur le visa de séjour temporaire aux États-Unis</Titre>
+<Source ID="R30810">Ambassade des États-Unis d'Amérique</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R40526" URL="http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/etats-unis-12311/" audience="Particuliers">
+<Titre>Conditions d'entrée et de séjour aux États-Unis</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R24053" URL="http://www.parafe.gouv.fr/" audience="Particuliers">
+<Titre>Parafe : passage rapide des frontières</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<Definition ID="R44553">
+<Titre>USA-Visa obligatoire si voyage dans certains pays</Titre>
+<Texte>
+				<Paragraphe>Iran, Irak,  Libye, Somalie, Soudan, Syrie ou Yémen</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F11603" audience="Particuliers">Comment savoir quel est le modèle de mon passeport ?</QuestionReponse>
+<QuestionReponse ID="F1709" audience="Particuliers">Peut-on obtenir un passeport gratuitement ?</QuestionReponse>
+
+</Publication>

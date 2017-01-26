@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N515" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quitter la fonction publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Quitter la fonction publique : Licenciement, Indemnité de départ volontaire, Autres motifs de départ</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-11-20</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N515</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Agent de la fonction publique</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N515" type="Dossier">Quitter la fonction publique</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere>
+<SousDossier ID="N515-1">
+<Titre>Licenciement</Titre><Fiche ID="F514">Fonctionnaire</Fiche>
+<Fiche ID="F515">Contractuel</Fiche>
+</SousDossier>
+<SousDossier ID="N515-2">
+<Titre>Indemnité de départ volontaire</Titre><Fiche ID="F19693">Fonction publique d'État</Fiche>
+<Fiche ID="F2062">Fonction publique territoriale</Fiche>
+<Fiche ID="F560">Fonction publique hospitalière</Fiche>
+</SousDossier>
+<SousDossier ID="N515-3">
+<Titre>Autres motifs de départ</Titre><Fiche ID="F513">Démission</Fiche>
+<Fiche ID="F494">Congé spécial</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N549" audience="Particuliers">
+<Titre>Chômage</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R32097" URL="" type="Modèle de document">
+<Titre>Lettre de démission de la fonction publique</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F32395" audience="Particuliers">L'administration peut-elle modifier le contrat d'un agent contractuel ?</QuestionReponse>
+<QuestionReponse ID="F32397" audience="Particuliers">L'administration doit-elle reclasser l'agent contractuel licencié ?</QuestionReponse>
+<QuestionReponse ID="F1605" audience="Particuliers">Un contractuel en fin de CDD a-t-il droit aux allocations chômage ?</QuestionReponse>
+<QuestionReponse ID="F1606" audience="Particuliers">Un contractuel de la fonction publique a-t-il droit à la prime de précarité ?</QuestionReponse>
+<QuestionReponse ID="F31094" audience="Particuliers">La rupture conventionnelle s'applique-t-elle dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F13322" audience="Particuliers">Qu'est-ce que l'abandon de poste dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F21102" audience="Particuliers">Un agent contractuel doit-il demander sa réintégration après un long congé ?</QuestionReponse>
+<QuestionReponse ID="F31219" audience="Particuliers">Un agent public peut-il aller travailler dans le privé ?</QuestionReponse>
+</Publication>

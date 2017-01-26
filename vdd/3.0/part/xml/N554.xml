@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N554" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Pêche</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Pêche</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-02-24</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N554</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19809</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N554" type="Dossier">Pêche</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N19969">Chasse et pêche</SousThemePere>
+<Fiche ID="F2117">Pêche en eau douce</Fiche>
+<Fiche ID="F2118">Pêche en mer</Fiche><ServiceEnLigne ID="R32309" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14935.do" format="application/pdf" poids="28.7 KB" numerocerfa="14935*02" type="Formulaire">
+<Titre>Demande d'autorisation de pêche de loisir de l'espadon de la Méditerranée</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32312" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14938.do" numerocerfa="14938*04" type="Formulaire">
+<Titre>Demande de débarquement de thon rouge dans le cadre d'une pêche de loisir</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36975" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15100.do" numerocerfa="15100*03" type="Formulaire">
+<Titre>Demande d'autorisation de pêche de loisir du thon rouge</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+</Publication>

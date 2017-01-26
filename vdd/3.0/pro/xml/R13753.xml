@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R13753" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de création d'une entreprise agricole - Personne morale (M0 agricole)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Permet la constitution d'une société commerciale ou civile ou d'une association (y compris GAEC), exerçant à titre principale une activité agricole. Peut être également utilisé pour une société constituée sans exercice de l'activité ou pour l'ouverture du premier établissement en France d'une société commerciale agricole ayant son siège à l'étranger.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-21</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R13753</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R13753" type="Formulaire">Déclaration de création d'une entreprise agricole - Personne morale (M0 agricole)</Niveau>
+</FilDAriane>
+<NumeroCerfa>11927*02</NumeroCerfa>
+<AutreNumero>MO / M0 agricole</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Permet la constitution d'une société commerciale ou civile ou d'une association (y compris GAEC), exerçant à titre principale une activité agricole. Peut être également utilisé pour une société constituée sans exercice de l'activité ou pour l'ouverture du premier établissement en France d'une société commerciale agricole ayant son siège à l'étranger.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11927.do" format="application/force-download" poids="346.0 KB">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb><NoticeLiee ID="R18891" URL="https://www.impots.gouv.fr/portail/formulaire/974-sd/guide-pratique-fiscal-declarations-p0-m0-f-p1-ac0-g0-et-p-eirl-creation" numerocerfa="50812#15 - 974A">Notice d'information fiscale des créateurs d'exploitations agricoles</NoticeLiee>
+<NoticeLiee ID="R680" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11927&amp;cerfaNotice=50877" numerocerfa="50877#02">Notice pour la création d'une entreprise agricole (M0 agricole)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="14117*01">
+<Titre>Intercalaire - suite de l'imprimé M0 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14117.do" format="application/force-download" poids="150.4 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="14116*02">
+<Titre>Déclaration de création d'une entreprise agricole - Complément pour les sociétés de forme commerciale (M0 agricole)</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14116.do" format="application/force-download" poids="526.2 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11925*03 - NSM agricole">
+<Titre>Volet social - Membre de société relevant du régime des non-salariés agricoles</Titre>
+<Texte><Paragraphe>Pour une demande d'affiliation ou une modification d'affiliation.</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11925.do" format="application/force-download" poids="214.2 KB"/>
+</ServiceEnLigneAnnexe><OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

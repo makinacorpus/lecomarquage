@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1673" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que devient la vente si le prêt immobilier est refusé ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>En achetant un bien immobilier, vous signez une promesse de vente qui doit indiquer si le bien est acquis par un prêt immobilier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1673</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032225898&amp;cidTexte=LEGITEXT000006069565</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20373</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="F1673" type="Fiche Question-réponse">Que devient la vente si le prêt immobilier est refusé ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere><DossierPere ID="N20373">
+<Titre>Crédit immobilier</Titre><SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre>
+<Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre>
+<Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Si vous achetez un bien immobilier, vous devrez signer une promesse de vente ou un compromis en y indiquant que le bien sera financé ou non avec un prêt immobilier. </Paragraphe>
+<Paragraphe>Si vous sollicitez un crédit et que celui-ci vous est refusé, les conséquences sur la vente dépendront de cette précision. </Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si la promesse indique que le bien sera financé par un prêt</Paragraphe>
+</Titre><Paragraphe>Si la promesse de vente précise que le bien sera financé, même en partie, par un ou plusieurs prêts, vous disposez d'au moins un mois pour obtenir ce  prêt. En pratique, vous disposez d'un délai de 2 à 3 mois.</Paragraphe>
+<Paragraphe>Si vous ne parvenez pas à obtenir ce prêt ou que celui-ci vous est refusé, vous pouvez renoncer à la promesse ou à l'acte de vente sans aucun frais.</Paragraphe>
+<Paragraphe>Le vendeur devra vous rembourser toutes les sommes versées, sans retenues ni indemnités, immédiatement. À partir du 15<Exposant>e</Exposant> jour <LienIntra LienID="R1092" type="Définition de glossaire">calendaire</LienIntra> (après la demande de remboursement), les sommes produiront des intérêts correspondant au  <LienInterne LienPublication="F20688" type="Fiche Question-réponse" audience="Particuliers">taux légal</LienInterne> majoré de moitié.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si la promesse de vente ne l'indique pas</Paragraphe>
+</Titre><Paragraphe>Vous pouvez indiquer sur la promesse que le bien sera payé sans obtention d'un prêt. Vous devrez cependant indiquer de votre main être informé que si vous demandez un prêt vous ne pourrez pas renoncer à la promesse d'achat.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ces dispositions ne s'appliquent pas dans le cas d'une <LienIntra LienID="R1130" type="Définition de glossaire">vente par adjudication</LienIntra>.</Paragraphe>
+</ASavoir>
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032225898&amp;cidTexte=LEGITEXT000006069565" ID="R19520">
+<Titre>Code de la consommation : articles L313-40 à L313-45</Titre>
+<Complement>Le contrat immobilier</Complement>
+</Reference>
+<Definition ID="R1130">
+<Titre>Adjudication</Titre>
+<Texte>
+				<Paragraphe>Vente d'un bien mobilier ou immobilier aux enchères publiques</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1092">
+<Titre>Jour calendaire</Titre>
+<Texte>
+				<Paragraphe>Correspond à la totalité des jours du calendrier de l'année civile, du 1<Exposant>er</Exposant> janvier au 31 décembre, y compris les jours fériés
+		ou chômés. </Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1701" audience="Particuliers">Que devient le prêt immobilier quand la vente est annulée ?</QuestionReponse>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+</Publication>

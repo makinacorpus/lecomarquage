@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R41213" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de paiement de la dotation jeune agriculteur (DJA) - deuxième acompte</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Concerne uniquement les dossiers DJA déposés à partir du 1 exposant er janvier 2015.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-10</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R41213</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16153">Financement de la création ou reprise d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R41213" type="Formulaire">Demande de paiement de la dotation jeune agriculteur (DJA) - deuxième acompte</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>15322*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Concerne uniquement les dossiers DJA déposés à partir du 1<Exposant>er</Exposant> janvier 2015.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15322.do" format="application/pdf" poids="142.9 KB">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb><NoticeLiee ID="R41212" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51973&amp;cerfaFormulaire=15321" numerocerfa="51973#01">Notice d'information pour le paiement de la DJA</NoticeLiee>
+
+<FicheLiee ID="F22366" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Aide à l'installation des jeunes agriculteurs</Titre>
+<Dossier ID="N16153">Financement de la création ou reprise d'entreprise</Dossier>
+</FicheLiee><OuSAdresser ID="R16" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge des territoires (DDT ou DDTM)</Titre>
+<PivotLocal>ddt</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=DDT+ou+DDTM&amp;where="/>
+</OuSAdresser>
+</ServiceComplementaire>

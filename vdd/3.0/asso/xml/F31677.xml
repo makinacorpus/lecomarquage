@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31677" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment une association peut-elle accéder au Fonds social européen (FSE) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Financement et fiscalité d'une association</dc:subject>
+<dc:description>Une association peut demander l'accès au FSE en contactant la Direccte.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31677</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029045381</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N21960</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31405">Financement et fiscalité d'une association</Niveau>
+<Niveau ID="N21960">Collecte de fonds par une association</Niveau>
+<Niveau ID="F31677" type="Fiche Question-réponse">Comment une association peut-elle accéder au Fonds social européen (FSE) ?</Niveau>
+</FilDAriane>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+</Theme><DossierPere ID="N21960">
+<Titre>Collecte de fonds par une association</Titre>
+<Fiche ID="F3175">Cotisations</Fiche>
+<Fiche ID="F2722">Dons, donations et legs</Fiche>
+<Fiche ID="F3180">Subventions</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>L'accès au FSE est réservé à une association : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>employant des salariés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>menant des actions d'une certaine envergure,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ayant des actions déjà partiellement financées par les pouvoirs publics locaux ou nationaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ayant un projet relatif à la cohésion et à la justice sociales (c'est-à-dire à l'<Expression>inclusion sociale</Expression>, selon une terminologie souvent employée),</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Sur le plan technique, le projet associatif doit répondre au <LienExterne URL="http://www.fse.gouv.fr/IMG/pdf/Synthese_du_Programme_operationnel_National_FSE_2014-2020.pdf" format="application/pdf" poids="1.8 MB">programme opérationnel FSE 2014-2020</LienExterne>
+
+ et s'intégrer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit au dispositif "compétitivité régionale et Emploi" pour les actions en métropole,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit au  dispositif "convergences" pour les <LienExterne URL="http://www.fse.gouv.fr/qu-est-ce-que-le-fse/en-savoir-plus-sur-les-programmes/le-fse-dans-les-dom/">actions outre-mer</LienExterne>
+
+.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les demandes de subvention se font  après consultation de la direction régionale des entreprises, de la concurrence, de la consommation, de l'emploi et du travail (Direccte).</Paragraphe>
+<BlocCas type="modalite" affichage="onglet">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R1329" URL="https://ma-demarche-fse.fr/demat/servlet/login.html" type="Téléservice">
+<Titre>Ma démarche Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+<Texte><Paragraphe>Permet aux associations recevant des subventions du FSE de transmettre aux autorités de l'Union européenne concernées les bilans et les pièces justificatives qui rendent compte du bon usage des crédits consommés.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>pour une demande de subvention du FSE, utilisez <LienInterne LienPublication="R33645" type="Formulaire" audience="Associations">le formulaire concerné</LienInterne>.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R33645" URL="http://www.fse.gouv.fr/IMG/Demande%20de%20subvention.doc" format="application/msword" poids="686.5 KB" type="Formulaire">
+<Titre>Demande de subvention auprès du Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R33647" URL="http://www.fse.gouv.fr/IMG/pdf/Guide_du_Candidat.pdf" format="application/pdf" poids="3.0 MB">Guide du candidat à un financement du Fonds social européen</NoticeLiee>
+</ServiceEnLigne>
+
+<ServiceEnLigne ID="R33648" URL="http://www.fse.gouv.fr/IMG/Indicateurs%20et%20plan%20de%20financement.xls" format="application/vnd.ms-excel" poids="565.0 KB" type="Formulaire">
+<Titre>Annexes à la demande de subvention auprès du Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R33647" URL="http://www.fse.gouv.fr/IMG/pdf/Guide_du_Candidat.pdf" format="application/pdf" poids="3.0 MB">Guide du candidat à un financement du Fonds social européen</NoticeLiee>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>il existe des formations gratuites pour les salariés des associations chargés du dossier de demande et de suivi de subvention FSE.</Paragraphe>
+</ASavoir><Paragraphe>Si la subvention est accordée, une <LienInterne LienPublication="R33646" type="Formulaire" audience="Associations">convention bilatérale</LienInterne> est signée.</Paragraphe>
+<Paragraphe>L'association rend ensuite compte de l'utilisation des fonds et de l'évaluation de ses actions par internet.</Paragraphe>
+<ServiceEnLigne ID="R1329" URL="https://ma-demarche-fse.fr/demat/servlet/login.html" type="Téléservice">
+<Titre>Ma démarche Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+<Texte><Paragraphe>Permet aux associations recevant des subventions du FSE de transmettre aux autorités de l'Union européenne concernées les bilans et les pièces justificatives qui rendent compte du bon usage des crédits consommés.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>pour une demande de subvention du FSE, utilisez <LienInterne LienPublication="R33645" type="Formulaire" audience="Associations">le formulaire concerné</LienInterne>.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+
+</Texte><OuSAdresser ID="R1248" type="Local personnalisable">
+<Titre>Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Direccte) - Pôles T (Travail) et 3E (Entreprises, emploi, économie)</Titre>
+<Complement>Pour s'informer et effectuer les démarches</Complement>
+<PivotLocal>direccte_ut_travail</PivotLocal>
+<RessourceWeb URL="http://direccte.gouv.fr/Organisation-d-une-Direccte.html"/>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029045381" ID="R33716">
+<Titre>Décret n°2014-580 du 3 juin 2014 relatif à la gestion de tout ou partie des fonds européens pour la période 2014-2020</Titre>
+</Reference>
+<ServiceEnLigne ID="R33645" URL="http://www.fse.gouv.fr/IMG/Demande%20de%20subvention.doc" format="application/msword" poids="686.5 KB" type="Formulaire">
+<Titre>Demande de subvention auprès du Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R33647" URL="http://www.fse.gouv.fr/IMG/pdf/Guide_du_Candidat.pdf" format="application/pdf" poids="3.0 MB">Guide du candidat à un financement du Fonds social européen</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33648" URL="http://www.fse.gouv.fr/IMG/Indicateurs%20et%20plan%20de%20financement.xls" format="application/vnd.ms-excel" poids="565.0 KB" type="Formulaire">
+<Titre>Annexes à la demande de subvention auprès du Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R33647" URL="http://www.fse.gouv.fr/IMG/pdf/Guide_du_Candidat.pdf" format="application/pdf" poids="3.0 MB">Guide du candidat à un financement du Fonds social européen</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33646" URL="http://www.fse.gouv.fr/IMG/pdf/modele_de_convention_bilaterale_FSE-2.pdf" format="application/pdf" poids="422.2 KB" type="Formulaire">
+<Titre>Modèle de convention bilatérale d'accès au Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R33647" URL="http://www.fse.gouv.fr/IMG/pdf/Guide_du_Candidat.pdf" format="application/pdf" poids="3.0 MB">Guide du candidat à un financement du Fonds social européen</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1329" URL="https://ma-demarche-fse.fr/demat/servlet/login.html" type="Téléservice">
+<Titre>Ma démarche Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R33644" URL="http://www.fse.gouv.fr/IMG/pdf/Synthese_du_Programme_operationnel_National_FSE_2014-2020.pdf" audience="Associations" format="application/pdf" poids="1.8 MB">
+<Titre>Programme opérationnel national du fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R33744" URL="http://www.fse.gouv.fr/qu-est-ce-que-le-fse/en-savoir-plus-sur-les-programmes/le-fse-dans-les-dom/" audience="Associations">
+<Titre>Le FSE dans les départements d'outre-mer (Dom)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+</Publication>

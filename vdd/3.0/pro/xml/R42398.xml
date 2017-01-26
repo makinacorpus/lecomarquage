@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42398" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Mini-guichet unique en matière de TVA sur les services fournis par voie électronique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Mini-guichet unique en matière de TVA sur les services fournis par voie électronique - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-27</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42398</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13445">Taxe sur la valeur ajoutée (TVA)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42398" type="Téléservice">Mini-guichet unique en matière de TVA sur les services fournis par voie électronique</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<LienWeb URL="http://www2.impots.gouv.fr/e_service_pro/tva_miniguichet/moss_en.html">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F33340" audience="Professionnels" type="Fiche d'information">
+<Titre>TVA applicable aux échanges européens</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1632" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Règles en matière d'héritage : défunt n'ayant pas eu d'enfants</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Quand le défunt n'a pas eu d'enfants, et qu'il n'a pas fait de testament, le règlement de sa succession diffère selon s'il était marié ou pas.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-20</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1632</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006430946&amp;idSectionTA=LEGISCTA000006150138&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006430967&amp;idSectionTA=LEGISCTA000006165515&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006431069&amp;idSectionTA=LEGISCTA000006165516&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165517&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150536&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N173</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N173">Héritage : ordre et droits des héritiers</Niveau>
+<Niveau ID="F1632" type="Fiche d'information">Règles en matière d'héritage : défunt n'ayant pas eu d'enfants</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20090">Succession</SousThemePere><DossierPere ID="N173">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Fiche ID="F1270">Défunt ayant eu des enfants</Fiche>
+<Fiche ID="F1632">Défunt sans enfant</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Quand le défunt n'a pas eu d'enfants, et qu'il n'a pas fait de testament, le règlement de sa succession diffère selon s'il était marié ou pas.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Défunt marié</Titre>
+<Texte><Paragraphe>La succession d'une personne mariée et sans enfants, lorsqu'elle n'a pas fait de testament, diffère selon qu'elle avait des frères et sœurs.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Le défunt avait des frères et sœurs</Paragraphe>
+</Titre><Paragraphe>L'époux survivant hérite :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la moitié de la succession si les 2 parents du défunt sont encore en vie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des 3/4 de la succession si un seul des 2 parents du défunt est en vie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de l'intégralité de la succession si les 2 parents sont morts (mais les frères et sœurs ont un droit sur  la moitié des biens de  famille, dans certaines conditions).</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les parents ont un <LienInterne LienPublication="F16276" type="Fiche Question-réponse" audience="Particuliers">droit de retour</LienInterne>, c'est-à-dire le droit de reprendre une partie des biens qu'ils avaient donnés à leurs enfants.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Le défunt n'avait pas de frère et sœur, mais laisse des ascendants</Paragraphe>
+</Titre><Paragraphe>L'époux survivant hérite :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de l'intégralité de la succession si les 2 parents du défunt sont morts (les grands-parents du défunt n'ont rien),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des 3/4 de la succession si un seul des 2 parents du défunt est en vie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la moitié de la succession si les 2 parents du défunt sont encore en vie.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les parents ont un <LienInterne LienPublication="F16276" type="Fiche Question-réponse" audience="Particuliers">droit de retour</LienInterne>, c'est-à-dire le droit de reprendre une partie des biens qu'ils avaient donnés à leurs enfants.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Le défunt ne laisse que des oncles, tantes, cousins et cousines</Paragraphe>
+</Titre><Paragraphe>L'époux survivant hérite de l'intégralité de la succession.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Défunt non marié</Titre>
+<Texte><Paragraphe>La succession d'une personne non mariée et sans enfants, lorsqu'elle n'a pas fait de testament, diffère selon qu'elle avait des frères et sœurs ou pas.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Le défunt avait des frères et sœurs</Paragraphe>
+</Titre><Paragraphe>La succession d'une personne non mariée et sans <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra> va à ses frères et sœurs et à ses <LienIntra LienID="R34101" type="Définition de glossaire">parents</LienIntra>.</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Si les 2 parents du défunt sont morts avant lui, ses frères et sœurs héritent de l'intégralité de la succession, à parts égales.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si ses 2 parents sont encore en vie, chacun d'eux reçoit un quart de la succession, les frères et sœurs se partagent l'autre moitié.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Lorsqu'un seul parent est encore en vie, il hérite d'un quart et les frères et sœurs des trois-quarts.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les demi-frères et demi-sœurs ont les mêmes droits que les frères et sœurs.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les parents ont un <LienInterne LienPublication="F16276" type="Fiche Question-réponse" audience="Particuliers">droit de retour</LienInterne>, c'est-à-dire le droit de reprendre une partie des biens qu'ils avaient donnés à leurs enfants.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Le défunt n'avait pas de frère et sœur, mais laisse des ascendants</Paragraphe>
+</Titre><Paragraphe>La succession d'une personne non mariée, sans frères et sœurs et sans <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra> va à  ses <LienIntra LienID="R12668" type="Définition de glossaire">ascendants</LienIntra>.</Paragraphe>
+<Paragraphe>Dans le cas le plus simple où le défunt laisse ses 2 <LienIntra LienID="R34101" type="Définition de glossaire">parents</LienIntra>, sa succession est partagée par moitié entre eux.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Le défunt ne laisse que des oncles, tantes, cousins et cousines</Paragraphe>
+</Titre><Paragraphe>La succession d'une personne non mariée, sans <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra>, ni frères et sœurs, ni neveux ou nièces, ni <LienIntra LienID="R12668" type="Définition de glossaire">ascendants</LienIntra> va à ses oncles, tantes, cousins et cousines (c'est-à-dire ses <LienIntra LienID="R12669" type="Définition de glossaire">collatéraux</LienIntra> ordinaires).</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Dossier ID="N171" audience="Particuliers">
+<Titre>Règlement d'une succession</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N16265" audience="Particuliers">
+<Titre>Préparer sa succession : testament</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31162" audience="Particuliers">
+<Titre>Préparer sa succession : donation</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006430946&amp;idSectionTA=LEGISCTA000006150138&amp;cidTexte=LEGITEXT000006070721" ID="R490">
+<Titre>Code civil : article 733</Titre>
+<Complement>Droits des parents en l'absence d'époux(se) successible</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006430967&amp;idSectionTA=LEGISCTA000006165515&amp;cidTexte=LEGITEXT000006070721" ID="R491">
+<Titre>Code civil : articles 734 à 740</Titre>
+<Complement>Ordre des héritiers</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006431069&amp;idSectionTA=LEGISCTA000006165516&amp;cidTexte=LEGITEXT000006070721" ID="R514">
+<Titre>Code civil : articles 751 à 755</Titre>
+<Complement>Représentation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165517&amp;cidTexte=LEGITEXT000006070721" ID="R506">
+<Titre>Code civil : articles 756 à 758-6</Titre>
+<Complement>Droits de l'époux successible (article 757)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150536&amp;cidTexte=LEGITEXT000006070721" ID="R34121">
+<Titre>Code civil : articles 804 à 808</Titre>
+<Complement>Renonciation à la succession (article 805)</Complement>
+</Reference>
+<Definition ID="R34101">
+<Titre>Parent</Titre>
+<Texte>
+				<Paragraphe>C'est celui qui est indiqué comme tel dans l'acte de naissance de l'enfant</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12668">
+<Titre>Ascendant</Titre>
+<Texte>
+				<Paragraphe>Parents, grands-parents et arrière-grands-parents d'une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12669">
+<Titre>Collatéral</Titre>
+<Texte>
+				<Paragraphe>Frères, sœurs d'une personne et enfants de ces derniers (collatéraux privilégiés) ainsi qu'oncles, tantes, cousins, cousines (collatéraux ordinaires)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F2529" audience="Particuliers">Quelles sont les règles pour hériter ?</QuestionReponse>
+<QuestionReponse ID="F2128" audience="Particuliers">Héritage : qu'est-ce que la règle de la représentation ?</QuestionReponse>
+<QuestionReponse ID="F16276" audience="Particuliers">Succession : en quoi consiste le droit de retour légal des parents ?</QuestionReponse>
+<QuestionReponse ID="F322" audience="Particuliers">L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?</QuestionReponse>
+<QuestionReponse ID="F2132" audience="Particuliers">L'époux survivant peut-il demander la transformation de l'usufruit en rente ?</QuestionReponse>
+</Publication>

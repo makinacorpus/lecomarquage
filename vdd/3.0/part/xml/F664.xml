@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F664" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment obtenir des informations sur la qualité de l'eau ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les informations relatives à la qualité de l'eau sont diffusées notamment par le biais de votre facture d'eau, auprès de votre mairie ou sur internet.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F664</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?&amp;idSectionTA=LEGISCTA000006190964&amp;cidTexte=LEGITEXT000006072665, http://www.legifrance.gouv.fr/affichTexte.do;?cidTexte=LEGITEXT000005621424</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23557</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23557">Aides au paiement des factures : eau, téléphone, électricité, gaz</Niveau>
+<Niveau ID="F664" type="Fiche Question-réponse">Comment obtenir des informations sur la qualité de l'eau ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N305">Aides financières pour le logement</SousThemePere><DossierPere ID="N23557">
+<Titre>Aides au paiement des factures : eau, téléphone, électricité, gaz</Titre>
+<Fiche ID="F1557">Facture d'eau</Fiche>
+<Fiche ID="F1337">Facture de téléphone</Fiche>
+<Fiche ID="F10580">Facture d'électricité</Fiche>
+<Fiche ID="F19206">Facture de gaz</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les informations relatives à la qualité de l'eau sont diffusées notamment par le biais de votre facture d'eau, auprès de votre mairie ou sur internet.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Sur votre facture d'eau</Paragraphe>
+</Titre><Paragraphe>Vous pouvez obtenir des informations sur la qualité de l'eau dans votre ville en consultant votre facture d'eau. </Paragraphe>
+<Paragraphe>Une note de synthèse annuelle vous est également communiquée dans une fiche jointe à votre facture d'eau. Si vous habitez un immeuble en copropriété, adressez-vous à votre <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic de copropriété</LienInterne> qui est destinataire de la facture et donc de ces informations.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En mairie</Paragraphe>
+</Titre><Paragraphe>Votre marie doit afficher des données relatives à la qualité de l'eau distribuée ou seulement la synthèse commentée. </Paragraphe>
+<Paragraphe>De plus, chaque année, les mairies (si elles comportent plus de 3.500 habitants) établissent un rapport sur le prix et la qualité du service public d'eau potable (RPQS). Ce rapport est accompagné d'une note de synthèse annuelle de l'agence régionale de santé (ARS) publiée au <LienInterne LienPublication="F2513" type="Fiche Question-réponse" audience="Particuliers">recueil des actes administratifs</LienInterne> consultable en mairie.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sur internet</Paragraphe>
+</Titre><Paragraphe>Vous pouvez obtenir des informations sur la qualité de l'eau dans votre ville en consultant le site Internet du ministère en charge de la santé.</Paragraphe><ServiceEnLigne ID="R11461" URL="http://social-sante.gouv.fr/sante-et-environnement/eaux/article/qualite-de-l-eau-potable" type="Téléservice">
+<Titre>Consultez les résultats de qualité de l'eau potable de votre commune</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1557" audience="Particuliers">
+<Titre>Aides financières pour le paiement des factures d'eau</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?&amp;idSectionTA=LEGISCTA000006190964&amp;cidTexte=LEGITEXT000006072665" ID="R2048">
+<Titre>Code de la santé publique : articles D1321-103 à D1321-105</Titre>
+<Complement>Information de la mairie sur la qualité de l'eau</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do;?cidTexte=LEGITEXT000005621424" ID="R380">
+<Titre>Arrêté du 10 juillet 1996 relatif aux factures de distribution de l'eau et de collecte et de traitement des eaux usées</Titre>
+</Reference>
+<ServiceEnLigne ID="R11461" URL="http://social-sante.gouv.fr/sante-et-environnement/eaux/article/qualite-de-l-eau-potable" type="Téléservice">
+<Titre>Consultez les résultats de qualité de l'eau potable de votre commune</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R38675" URL="http://www.sante.gouv.fr/eau-du-robinet.html" audience="Particuliers">
+<Titre>Information sur la qualité dans votre ville</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F389" audience="Particuliers">Que faire en cas d'augmentation anormale de sa facture d'eau ?</QuestionReponse>
+<QuestionReponse ID="F20762" audience="Particuliers">Médiateur de l'eau : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F2513" audience="Particuliers">Comment consulter les actes des collectivités territoriales ?</QuestionReponse>
+
+</Publication>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R11026" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Service de télépaiement des amendes</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice, Transports, Secteurs d'activité</dc:subject>
+<dc:description>Service de télépaiement des amendes - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-22</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R11026</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N19470">Automobile-Moto</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R11026" type="Téléservice">Service de télépaiement des amendes</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Permet de régler les amendes issues du système de contrôle automatisé (radar) ainsi que toutes les amendes dont la référence télépaiement est présente sur le talon de paiement. </Paragraphe>
+<Paragraphe>Saisir le numéro d'amende et la clé. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>seuls les paiements d'un montant inférieur à <Valeur>1500 €</Valeur> sont acceptés.
+</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="https://www.amendes.gouv.fr/portail/index.jsp">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F18509" audience="Particuliers" type="Fiche d'information">
+<Titre>Amende forfaitaire</Titre>
+<Dossier ID="N18918">Infractions routières</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32803" audience="Particuliers" type="Fiche d'information">
+<Titre>Amendes</Titre>
+<Dossier ID="N275">Condamnations et peines</Dossier>
+</FicheLiee>
+<Dossier ID="N18918">
+<Titre>Infractions routières</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N19470">
+<Titre>Automobile-Moto</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10830" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance habitation : en cas d'achat ou de vente d'un logement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le contrat d'assurance, lorsqu'il existe au jour de la vente, est automatiquement transféré du vendeur à l'acheteur en même temps que la propriété du bien assuré. Ce principe de continuité du contrat évite que l'habitation ne soit plus assurée, même pendant une courte période.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-13</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10830</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157222&amp;cidTexte=LEGITEXT000006073984</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N44</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N44">Assurance habitation</Niveau>
+<Niveau ID="F10830" type="Fiche d'information">Assurance habitation : en cas d'achat ou de vente d'un logement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20263">Assurance</SousThemePere><DossierPere ID="N44">
+<Titre>Assurance habitation</Titre><SousDossier ID="N44-1">
+<Titre>Vie du contrat</Titre>
+<Fiche ID="F2591">Souscription d'un contrat</Fiche>
+<Fiche ID="F2598">Tarifs, cotisations et durée du contrat</Fiche>
+<Fiche ID="F2594">Modification du contrat</Fiche>
+<Fiche ID="F19083">Résiliation du contrat</Fiche>
+<Fiche ID="F3050">Recours et litiges</Fiche>
+</SousDossier>
+<SousDossier ID="N44-2">
+<Titre>Assurance du locataire</Titre>
+<Fiche ID="F1349">Assurance de base</Fiche>
+<Fiche ID="F1350">Assurances complémentaires</Fiche>
+<Fiche ID="F21478">Assurance et colocation</Fiche>
+<Fiche ID="F10827">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-3">
+<Titre>Assurance du propriétaire</Titre>
+<Fiche ID="F2023">Assurance du logement</Fiche>
+<Fiche ID="F2027">Assurance et copropriété</Fiche>
+<Fiche ID="F10830">En cas de vente ou d'achat du logement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-4">
+<Titre>Sinistre</Titre>
+<Fiche ID="F2029">Sinistre courant</Fiche>
+<Fiche ID="F2028">Cambriolage</Fiche>
+<Fiche ID="F1352">Assurance et dégât des eaux</Fiche>
+<Fiche ID="F21532">Incendie ou explosion</Fiche>
+<Fiche ID="F3076">Catastrophes naturelles</Fiche>
+<Fiche ID="F3078">Catastrophes technologiques</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Assurance du propriétaire</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le contrat d'assurance, lorsqu'il existe au jour de la vente, est automatiquement transféré du vendeur à l'acheteur en même temps que la propriété du bien assuré. Ce principe de continuité du contrat évite que l'habitation ne soit plus assurée, même pendant une courte période.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Vous vendez votre logement</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Quelles démarches réaliser ?</Paragraphe>
+</Titre><Paragraphe>Si votre logement est assuré et que vous le vendez ; vous devez prévenir votre assureur de cette vente  (ou de son <LienIntra LienID="R10832" type="Définition de glossaire">aliénation</LienIntra> ), par lettre recommandée.</Paragraphe>
+<Paragraphe>Si vous ne le faites pas, vous devrez continuer à payer les primes pour le logement.</Paragraphe>
+<Paragraphe>Vous devez  demander à votre assureur soit la <LienInterne LienPublication="F19083" type="Fiche d'information" audience="Particuliers">résiliation de votre contrat</LienInterne>, soit son transfert vers le nouvel acquéreur.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Résiliation par l'assureur</Paragraphe>
+</Titre><Paragraphe>L'assureur peut résilier le contrat dans les 3 mois qui suivent le jour où l'acquéreur a demandé le transfert de la police à son nom.</Paragraphe>
+<Paragraphe>Passé ce délai, il perd le droit de résiliation.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Vous achetez votre logement</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Quelles démarches réaliser ?</Paragraphe>
+</Titre><Paragraphe>En tant qu''acquéreur, vous devez vérifier si le bien est assuré au jour du transfert de propriété.</Paragraphe>
+<Paragraphe>Vous pourrez alors :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit poursuivre le contrat souscrit par le vendeur,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit résilier immédiatement le contrat de l' <LienIntra LienID="R10833" type="Définition de glossaire">immeuble</LienIntra> assuré en adressant une lettre à l'assureur du vendeur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit <LienInterne LienPublication="F2023" type="Fiche d'information" audience="Particuliers">prendre une nouvelle assurance</LienInterne> si le bien n'était pas assuré.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En règle générale, l'acte de vente du bien immobilier vous informe  de cette transmission du contrat d'assurance et de la possibilité que vous avez de le résilier.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous souscrivez un nouveau contrat d'assurance habitation, vous devez cependant  résilier personnellement l'ancien contrat si le vendeur a choisi le transfert du contrat.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Résiliation par l'assureur</Paragraphe>
+</Titre><Paragraphe>L'assureur peut résilier le contrat dans les 3 mois qui suivent le jour où l'acquéreur a demandé le transfert de la police à son nom.</Paragraphe>
+<Paragraphe>Passé ce délai, il perd le droit de résiliation.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F19083" audience="Particuliers">
+<Titre>Résiliation du contrat d'assurance habitation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2594" audience="Particuliers">
+<Titre>Modification du contrat d'assurance habitation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R19751" type="Centre de contact">
+<Titre>Assurance Banque Épargne Info Service</Titre>
+<Complement>Pour des informations complémentaires</Complement><Texte>
+						
+								<Paragraphe>
+			Informations sur les démarches et les relations contractuelles dans le domaine de l'assurance, de la banque et de l'épargne
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			ABE Info Service
+		</Paragraphe>
+								<Paragraphe>
+			61 rue Taitbout
+		</Paragraphe>
+								<Paragraphe>
+			75436 Paris Cedex 09
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Via le <LienExterne URL="http://www.abe-infoservice.fr/abe-info-service/nous-contacter.html">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R2699" type="Centre de contact">
+<Titre>Votre assureur</Titre>
+<Complement>Pour des informations sur les contrats d'assurance</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157222&amp;cidTexte=LEGITEXT000006073984" ID="R712">
+<Titre>Code des assurances : articles L121-1 à L121-17</Titre>
+<Complement>Règles relatives aux assurances</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41789" URL="http://www.abe-infoservice.fr/assurance.html" audience="Particuliers">
+<Titre>Informations pratiques sur l'assurance</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R10833">
+<Titre>Bien immeuble</Titre>
+<Texte>
+				<Paragraphe>Bien ne pouvant être déplacé (un terrain ou un appartement par exemple) ou objet en faisant partie intégrante (la clôture du terrain par exemple)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10832">
+<Titre>Aliénation</Titre>
+<Texte>
+				<Paragraphe>Désigne le transfert de propriété d'un bien (ou d'un droit) à titre gracieux ou onéreux. Exemples : une donation, une vente.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

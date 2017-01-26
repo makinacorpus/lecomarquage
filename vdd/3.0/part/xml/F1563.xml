@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1563" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un étudiant peut-il prétendre à une aide au logement ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Oui, vous pouvez bénéficier d'une aide au logement (APL, ALS, ALF) versée par la caisse d'allocations familiales (Caf).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-31</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1563</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006743275&amp;cidTexte=LEGITEXT000006073189</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étudiant</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20360">Allocations logement</Niveau>
+<Niveau ID="F1563" type="Fiche Question-réponse">Un étudiant peut-il prétendre à une aide au logement ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N305">Aides financières pour le logement</SousThemePere><DossierPere ID="N20360">
+<Titre>Allocations logement</Titre>
+<Fiche ID="F12006">Aide personnalisée au logement (APL)</Fiche>
+<Fiche ID="F13132">Allocation de logement familiale (ALF)</Fiche>
+<Fiche ID="F1280">Allocation de logement sociale (ALS)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, un étudiant peut  bénéficier d'une aide au logement qu'il vive dans un logement privé ou social, en colocation ou sous-location ou en résidence universitaire.</Paragraphe>
+<Paragraphe>Le logement doit être <LienInterne LienPublication="F2042" type="Fiche d'information" audience="Particuliers">décent</LienInterne> avec un confort minimum (eau chaude, électricité, moyen de chauffage...) et conforme aux normes de santé, de sécurité et de superficie.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si le  propriétaire est un <LienIntra LienID="R12668" type="Définition de glossaire">ascendant</LienIntra>  de l'étudiant  ou de la personne avec laquelle il vit en couple, l'aide au logement ne peut pas être accordée.</Paragraphe>
+</Attention><Paragraphe>Selon la nature du logement et votre situation familiale, 3 types d'aides au logement peuvent vous être accordées :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1280" type="Fiche d'information" audience="Particuliers">l'allocation de logement à caractère social (ALS)</LienInterne> si vous êtes étudiant isolé ou en couple, sans personne à charge,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F13132" type="Fiche d'information" audience="Particuliers">l'allocation de logement à caractère familial (ALF)</LienInterne> si vous êtes étudiant isolé ou en couple avec personne à charge, en métropole ou dans les <LienIntra LienID="R41207" type="Définition de glossaire">Dom</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F12006" type="Fiche d'information" audience="Particuliers">l'aide personnalisée au logement (APL)</LienInterne> si vous êtes étudiant isolé ou en couple avec ou sans personne à charge, résidant dans un <LienIntra LienID="R18743" type="Définition de glossaire">logement conventionné</LienIntra> en métropole.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour savoir si vous pouvez percevoir une aide au logement, vous pouvez utiliser le simulateur de la Caf. </Paragraphe>
+<ServiceEnLigne ID="R2972" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement/" type="Simulateur">
+<Titre>Simulateur Caf - Allocations logement (éligibilité et montant)</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+
+<Paragraphe>La demande doit être faite sur le site internet de la Caf à partir d'un téléservice.</Paragraphe><ServiceEnLigne ID="R1332" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/aideaulogement/!ut/p/a1/lZJPc4IwEMU_Sw8cMYuohd5SKf9ShdZahYuDGjBTCE5ItR-_0bHTjlNxzG0zv_c2bzcoRXOU8mzHikyymmfloU4Hi4Hf8wybAPGI7QIOxhPSewQT4q4CEgXAhYPhqI8jw_PJBDx46loQ-BCbvv9uggUnfQvQpo-6V_QKuPL-GUrPWjixA4ENIbHtvuER4xyw3KGrgL7jjF8CldG8BsAJaBlSolLc_3EYRyZgLzYsEg4NgB6a8lpUah-Tg1cuqo8hz3K8OmwJJYIyziTLStZQce4VGdiG4PWZhO7ABJXvFq8QpUVZL48fIcF8aVoFSgXNqaCi8ynU9UbK7YMGGuz3-84qyzu50CBja9roVOrKY8dWtNGgVBc_lU65XrKCUw1oI1lFhb6rG30taiab_zpt6kai-W-HU8ZLa-3fNK9tNZ3OgQV6Ui1Gb3k1s6T1NcJ338DSuBM!/dl5/d5/L0lJSklKQ2dwUkEhIS9JRGpBQUF4QUFFUkNwcVlxLzRKaUdRb3dwTWhRalVvZyEvWjZfNkg0RzE5SzBLOFVUMjBBSU5SM1NPRTIwMDQvWjdfNkg0RzE5SzBLOFVUMjBBSU5SM1NPRTIwRzAvZnJta0NuYWZBY3Rpb24vcmVpbml0aWFsaXNlcg!!/" type="Téléservice">
+<Titre>Aide au logement étudiant : demande en ligne</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet d'effectuer sa demande d'aide au logement en ligne sur le site de la Caf.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous percevez une aide au logement, vous n'êtes plus considéré comme étant à charge de vos parents pour le calcul des prestations familiales. Ainsi, lorsque vos parents perçoivent ces prestations, vous devez choisir entre la situation d'allocataire et la qualité d'enfant à charge.</Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N20360" audience="Particuliers">
+<Titre>Allocations logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R33472" type="Centre de contact">
+<Titre>Aide au logement étudiant</Titre>
+<Complement>Pour obtenir un complément d'information</Complement>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source><Texte>
+						
+								<Paragraphe>Permet aux étudiants d'obtenir des informations sur les aides au logement</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 810 29 29 29</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006743275&amp;cidTexte=LEGITEXT000006073189" ID="R34260">
+<Titre>Code de la sécurité sociale : article L512-1</Titre>
+<Complement>Droit à une aide au logement</Complement>
+</Reference>
+<ServiceEnLigne ID="R1332" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/aideaulogement/!ut/p/a1/lZJPc4IwEMU_Sw8cMYuohd5SKf9ShdZahYuDGjBTCE5ItR-_0bHTjlNxzG0zv_c2bzcoRXOU8mzHikyymmfloU4Hi4Hf8wybAPGI7QIOxhPSewQT4q4CEgXAhYPhqI8jw_PJBDx46loQ-BCbvv9uggUnfQvQpo-6V_QKuPL-GUrPWjixA4ENIbHtvuER4xyw3KGrgL7jjF8CldG8BsAJaBlSolLc_3EYRyZgLzYsEg4NgB6a8lpUah-Tg1cuqo8hz3K8OmwJJYIyziTLStZQce4VGdiG4PWZhO7ABJXvFq8QpUVZL48fIcF8aVoFSgXNqaCi8ynU9UbK7YMGGuz3-84qyzu50CBja9roVOrKY8dWtNGgVBc_lU65XrKCUw1oI1lFhb6rG30taiab_zpt6kai-W-HU8ZLa-3fNK9tNZ3OgQV6Ui1Gb3k1s6T1NcJ338DSuBM!/dl5/d5/L0lJSklKQ2dwUkEhIS9JRGpBQUF4QUFFUkNwcVlxLzRKaUdRb3dwTWhRalVvZyEvWjZfNkg0RzE5SzBLOFVUMjBBSU5SM1NPRTIwMDQvWjdfNkg0RzE5SzBLOFVUMjBBSU5SM1NPRTIwRzAvZnJta0NuYWZBY3Rpb24vcmVpbml0aWFsaXNlcg!!/" type="Téléservice">
+<Titre>Aide au logement étudiant : demande en ligne</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2972" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement/" type="Simulateur">
+<Titre>Simulateur Caf - Allocations logement (éligibilité et montant)</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<Definition ID="R12668">
+<Titre>Ascendant</Titre>
+<Texte>
+				<Paragraphe>Parents, grands-parents et arrière-grands-parents d'une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R18743">
+<Titre>Logement conventionné</Titre>
+<Texte>
+				<Paragraphe>Logement qui a fait l'objet d'une convention entre l’État et le propriétaire du logement (ou l'organisme gestionnaire du logement) et qui ouvre droit à une aide au logement</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R41207">
+<Titre>Départements d'outre-mer (Dom)</Titre>
+<Texte>
+				<Paragraphe>Guadeloupe - Guyane - Martinique -Mayotte - La Réunion</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F16947" audience="Particuliers">Qu'est-ce qu'un enfant à charge pour les prestations familiales ?</QuestionReponse>
+<QuestionReponse ID="F33173" audience="Particuliers">Qu'est-ce que l'aide mobili-jeune ?</QuestionReponse>
+</Publication>

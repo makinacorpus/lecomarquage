@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F22790" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Taxe sur les surfaces commerciales (Tascom)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Les commerces exploitant une surface de vente au détail de plus de 400 m², et réalisant un chiffre d'affaires hors taxe à partir de 460 000 €, sont soumis à la taxe sur les surfaces commerciales (Tascom). La taxe est déductible du résultat fiscal de l'entreprise.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2017-01-02</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F22790</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020019671&amp;cidTexte=LEGITEXT000006068450, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000369208, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029168505, http://bofip.impots.gouv.fr/bofip/2861-PGP.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13442</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Commerçant</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="F22790" type="Fiche d'information">Taxe sur les surfaces commerciales (Tascom)</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13442">
+<Titre>Imposition des sociétés</Titre><SousDossier ID="N13442-1">
+<Titre>Impôt sur les sociétés (IS)</Titre>
+<Fiche ID="F23575">Entreprises concernées et taux d'imposition</Fiche>
+<Fiche ID="F23510">Déclaration et paiement</Fiche>
+<Fiche ID="F23628">Report de déficit</Fiche>
+<Fiche ID="F32166">Entreprises relevant de la Direction des grandes entreprises (DGE)</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-2">
+<Titre>Imposition des rémunérations</Titre>
+<Fiche ID="F33816">Rémunération des dirigeants de société</Fiche>
+<Fiche ID="F32963">Distribution de dividendes</Fiche>
+<Fiche ID="F32966">Rémunération des comptes courants d'associé</Fiche>
+<Fiche ID="F33162">Plus-values professionnelles</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-3">
+<Titre>Autres impositions des sociétés</Titre>
+<Fiche ID="F32042">Société civile de moyens (SCM)</Fiche>
+<Fiche ID="F22790">Taxe sur les surfaces commerciales (Tascom)</Fiche>
+<Fiche ID="F31607">Taxe sur la valeur vénale des immeubles</Fiche>
+<Fiche ID="F31973">Charges déductibles ou non du résultat fiscal d'une entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Autres impositions des sociétés</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les commerces exploitant une surface de vente au détail de plus de 400 m², et réalisant un chiffre d'affaires hors taxe à partir de <Valeur>460 000 €</Valeur>, sont soumis à la taxe sur les surfaces commerciales (Tascom). La taxe est déductible du résultat fiscal de l'entreprise.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Commerces concernés</Paragraphe>
+</Titre><Paragraphe>La taxe est due par les établissements commerciaux permanents, quels que soient les produits vendus au détail, situés en France (départements d'outre-mer compris), qui cumulent les caractéristiques suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>leur chiffre d'affaires annuel
+          (<LienInterne LienPublication="R24387" type="Sigle">CAHT</LienInterne> imposable de l'année précédente) est supérieur ou égal à <Valeur>460 000 €</Valeur> hors taxes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>leur surface de vente dépasse 400 m².</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La taxe ne s'applique pas aux établissements :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> ouverts avant 1960,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dont le chiffre d'affaires annuel est inférieur à <Valeur>460 000 €</Valeur>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dont la surface commerciale est inférieure à 400 m².</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Voir <LienInterne LienPublication="F31499" type="Fiche Question-réponse" audience="Professionnels">Quelle surface d'un commerce est-elle soumise à la Tascom ?</LienInterne>
+</Paragraphe>
+<Paragraphe>Si un établissement a des activités mixtes (prestation de service ou vente en gros par exemple), seul le chiffre d'affaires réalisé par les ventes au détail est pris en compte, à condition que les différentes activités fassent l'objet de comptes distincts.</Paragraphe>
+<Paragraphe>De même, si une vente au détail est réalisée dans le cadre d'une prestation de service (par exemple, une vente de pièces détachées accessoire à une réparation ou un service après vente, qui constituent des prestations de service), elle ne doit pas être incluse dans le calcul de la part taxable.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>si un établissement de commerce de gros réalise à titre accessoire des ventes au détail à des consommateurs pour un usage domestique, il s'agit alors de ventes au détail qui doivent être soumises à la taxe.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>Le montant de la taxe brute est déterminé par application, à la surface totale de vente au détail de l'établissement, d'un tarif qui varie en fonction du chiffre d'affaires annuel au m², de la superficie et de l'activité.</Paragraphe>
+<Paragraphe>Le montant du chiffre d'affaires global réalisé au cours de l'année par les ventes au détail doit être divisé par le nombre de m² de l'établissement.</Paragraphe>
+<Tableau>
+<Titre>Montant de la Tascom en fonction de la surface commerciale et du chiffre d'affaires (en euros par m²)</Titre>
+<Colonne largeur="45" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>CAHT  annuel par m²</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Commerce</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Station-service*</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>2 999 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5,74 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,32 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>3 000 €</Valeur> et <Valeur>12 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>[(CA au m² - 3000)  x 0,00315] + 5,74 €</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>[(CA au m² - 3000)  x 0,00304] + 8,32 €</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>À partir de <Valeur>12 001 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>34,12 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>35,70 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>* établissement de vente au détail de carburants (sauf s'il s'agit d'un  garage, dont l'activité principale est la vente ou la réparation de véhicules automobiles), sur un même site ou au sein d'un centre commercial.</Paragraphe><ServiceEnLigne ID="R21197" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Permet de calculer le montant de la taxe dû par les commerçants qui exploitent une surface de vente au détail de plus de 400 m² et réalisent un chiffre d’affaires hors taxe (CAHT) de plus de <Valeur>460 000 €</Valeur>.</Paragraphe>
+<Paragraphe>Il existe un autre simulateur de calcul en cas de <LienInterne LienPublication="R44029" type="Simulateur" audience="Professionnels">cessation définitive de l'activité dans l'année</LienInterne>.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44029" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1C.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom) en cas de cessation définitive de l'exploitation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Permet de calculer le montant de la taxe dû par les commerçants qui cessent leur activité de l'année.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Majoration ou réduction</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Majoration</Paragraphe>
+</Titre><Paragraphe>Le montant de la taxe est majoré de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>30 % pour les établissements de plus de 5 000 m², réalisant un chiffre d'affaires de plus de <Valeur>3 000 €</Valeur> par m²,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>50 % pour les établissements de plus de 2 500 m².</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Réduction</Paragraphe>
+</Titre><Paragraphe>Le montant de la taxe est réduit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de 30 % pour les commerces à titre principal de meubles, d'automobiles, de machinisme agricole et de matériaux de construction, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de 30 % pour les jardineries et pépiniéristes (commerces à titre principal de fleurs, de plantes, de graines, d'engrais) et les animaleries (commerces à titre principal d'animaux de compagnie et d'aliments pour ces animaux),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de 20 % pour les établissements, dont la surface est comprise entre 400 m² et 600 m², qui réalisent un chiffre d'affaires inférieur à <Valeur>3 800 €</Valeur> par m²,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'une franchise de <Valeur>1 500 €</Valeur> pour un établissement situé en <LienExterne URL="http://sig.ville.gouv.fr/Atlas">zone urbaine sensible (ZUS)</LienExterne>
+
+.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les 3 premières réductions de taxe sont cumulables.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Modulation</Paragraphe>
+</Titre>
+<Paragraphe>Le montant de la taxe peut être modulé, sur délibération préalable de la collectivité territoriale à qui est affectée la taxe (commune ou <LienInterne LienPublication="R31293" type="Sigle">EPCI</LienInterne>), en lui appliquant un coefficient multiplicateur compris entre 0,8 et 1,2.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration annuelle et paiement</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre><Paragraphe>Chaque année, les commerces dont la surface de vente est supérieure à 400 m² doivent déclarer <MiseEnEvidence>jusqu'au 15 juin</MiseEnEvidence> inclus (ou le <LienIntra LienID="R17509" type="Définition de glossaire">jour ouvré</LienIntra> qui le précède) au service des impôts des entreprises dont ils dépendent, les éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>montant du chiffre d'affaires hors taxe de l'année précédente,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>surface des locaux de vente au détail au 1er janvier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>secteur d'activité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>date initiale d'ouverture du magasin (par le premier exploitant).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les commerces soumis à une majoration de 50% du montant de la taxe doivent verser un acompte. Son montant représente la moitié de la taxe majorée et est imputable sur le montant de la taxe due l'année suivante. En cas de versement d'un montant supérieur, l’excédent est restitué.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Exemple :</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Un commerce avec une surface supérieure à 2500 m², soumis à la majoration de 50%, doit payer un acompte avant le 15 juin 2017, égal à la moitié de la taxe majorée due au titre de l'année 2016. Cet acompte s'impute sur le montant de la majoration due au titre de la taxe 2018, payée avant le 15 juin 2018.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Déclaration</Paragraphe>
+</Titre><Paragraphe>La déclaration doit être accompagnée du paiement de la taxe.</Paragraphe>
+<Paragraphe>Si la surface de vente est localisée sur  plusieurs communes, un cadre spécifique doit être complété pour permettre la répartition de la Tascom entre les différentes collectivités locales.</Paragraphe>
+<Paragraphe>Comme pour la <LienInterne LienPublication="R24379" type="Sigle">TVA</LienInterne>, le délai de prescription de la taxe est fixé à 3 ans : le droit de reprise peut être exercé jusqu'à la fin de la 3<Exposant>e</Exposant> année suivant celle au cours de laquelle la taxe est exigible.</Paragraphe><ServiceEnLigne ID="R17500" URL="https://www.impots.gouv.fr/portail/node/9086" numerocerfa="14001*07" autrenumero="3350-SD" type="Formulaire">
+<Titre>Déclaration pour la taxe sur les surfaces commerciales (Tascom)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>est supprimée la déclaration récapitulative n°3351 (cerfa n°14002*05), qui permettait à la tête de réseau de magasins sous enseigne commune d'indiquer les éléments de calcul de la taxe pour chaque établissement.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Ouverture, modifications ou fermeture en cours d'année</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Création</Paragraphe>
+</Titre><Paragraphe>Pour un commerce nouvellement créé (dont l'ouverture a eu lieu au cours de l'année précédente), le chiffre d'affaires de l'établissement pris en compte n'est pas rapporté au <LienIntra LienID="R35326" type="Définition de glossaire">prorata temporis</LienIntra> : il est annualisé.</Paragraphe>
+<Paragraphe>S'il est inférieur au seuil de <Valeur>460 000 €</Valeur>, l'établissement n'est pas imposable.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Changement d'exploitant</Paragraphe>
+</Titre><Paragraphe>La taxe est due par la personne qui exploite l'établissement au 1<Exposant>er</Exposant> janvier de l'année pour laquelle la taxe est exigible.</Paragraphe>
+<Paragraphe>En cas de changement d'exploitant au cours de l'année précédente, la taxe due  par le nouvel exploitant est calculée au <Expression>prorata temporis</Expression> du nombre de jours où il a exploité l'établissement durant l'année du changement et l'ancien exploitant reste redevable pour la période précédant la cession.</Paragraphe>
+<Paragraphe>En cas d'absorption ou de fusion d'entreprises, l'entreprise absorbante, ou la nouvelle entreprise résultant de la fusion, est redevable de la taxe due pour l'exploitation d'un établissement par l'entreprise absorbée ou fusionnée.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Changement de surface</Paragraphe>
+</Titre><Paragraphe>Si la surface de vente est modifiée en cours d'année, elle n'est pas pondérée <Expression>au prorata</Expression> :  la surface à retenir est celle existante au 31 décembre de l'année précédant l'année d'imposition.</Paragraphe>
+<Paragraphe>Par exemple, si la surface de vente est passée au mois d'octobre  de 500 m² à 900 m², l'établissement est taxé sur la surface existante au 31 décembre, soit 900 m².</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Cessation d'activité</Paragraphe>
+</Titre><Paragraphe>Lorsqu'une entreprise cesse son activité, elle est redevable de la taxe au prorata de la durée d'exploitation, soit jusqu'à la fermeture effective.</Paragraphe>
+<Paragraphe>Pour le calcul de la taxe due, le chiffre d'affaires réalisé est annualisé pour apprécier le seuil de <Valeur>460 000 €</Valeur> et déterminer le taux de la taxe.</Paragraphe>
+<Paragraphe>La taxe doit être déclarée et payée avant le 15 du 6<Exposant>e</Exposant> mois suivant la cessation d'activité (par exemple, avant le 15 septembre pour un commerce ayant cessé son activité le 31  mars).</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020019671&amp;cidTexte=LEGITEXT000006068450" ID="R22791">
+<Titre>Loi n°72-657 du 13 juillet 1972 instituant la Tascom : article 3</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000369208" ID="R12432">
+<Titre>Décret n°95-85 du 26 janvier 1995 relatif à la taxe sur les surfaces commerciales</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029168505" ID="R37448">
+<Titre>Arrêté du 17 juin 2014 complétant la liste des professions qui requièrent des surfaces anormalement élevées pour l'application de la réduction</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/2861-PGP.html" ID="R10149">
+<Titre>Bofip-Impôts n°BOI-TFP-TSC relatif à la taxe sur les surfaces commerciales</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</Reference>
+<ServiceEnLigne ID="R21197" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44029" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1C.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom) en cas de cessation définitive de l'exploitation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17500" URL="https://www.impots.gouv.fr/portail/node/9086" numerocerfa="14001*07" autrenumero="3350-SD" type="Formulaire">
+<Titre>Déclaration pour la taxe sur les surfaces commerciales (Tascom)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R1685" URL="http://sig.ville.gouv.fr/Atlas" audience="Professionnels">
+<Titre>Cartes des zones urbaines prioritaires (Zus, ZFU, PNRU, Cucs)</Titre>
+<Source ID="R30901">Ministère en charge de la ville</Source>
+</PourEnSavoirPlus>
+<Definition ID="R35326">
+<Titre>Prorata temporis</Titre>
+<Texte>
+				<Paragraphe>Expression latine signifiant en proportion du temps effectivement écoulé. Permet d'effectuer un calcul en tenant compte du temps réel.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17509">
+<Titre>Jour ouvré</Titre>
+<Texte>
+				<Paragraphe>Jour effectivement travaillé dans une entreprise ou une administration.
+		Le plus souvent, on compte 5 jours ouvrés par semaine (par exemple, du lundi au vendredi ou du mardi au samedi).</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R24379" type="Sigle">
+<Titre>TVA</Titre>
+<Texte>
+<Paragraphe>Taxe sur la valeur ajoutée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R31293" type="Sigle">
+<Titre>EPCI</Titre>
+<Texte>
+<Paragraphe>Établissement public de coopération intercommunale</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24387" type="Sigle">
+<Titre>CAHT</Titre>
+<Texte>
+<Paragraphe>Chiffre d'affaires hors taxe</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F31499" audience="Professionnels">Quelle surface d'un commerce est-elle soumise à la Tascom ?</QuestionReponse>
+</Publication>

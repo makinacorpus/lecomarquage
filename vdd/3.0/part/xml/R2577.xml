@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2577" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Offres d'emploi MRS (méthode de recrutement par simulation)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Offres de recrutement par simulation (MRS) proposées par Pôle Emploi</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-02-20</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2577</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N549">Chômage : démarches auprès de Pôle emploi</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2577" type="Téléservice">Offres d'emploi MRS (méthode de recrutement par simulation)</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Offres de recrutement par simulation (MRS) proposées par Pôle Emploi</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www2.pole-emploi.fr/espacecandidat/nicola/mrs/InitialiserListeRegionOffreMRS.do">
+<Source>Pôle emploi</Source>
+</LienWeb>
+<FicheLiee ID="F14926" audience="Particuliers" type="Fiche d'information">
+<Titre>Chômage : obligation de recherche d'emploi (PPAE)</Titre>
+<Dossier ID="N549">Chômage : démarches auprès de Pôle emploi</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

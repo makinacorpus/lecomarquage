@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R35386" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modèle de déclaration sur l'honneur d'engagement de travaux d'un logement ancien pour obtenir un PTZ</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Modèle de déclaration sur l'honneur d'engagement de travaux d'un logement ancien pour obtenir un PTZ - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-24</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R35386</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R35386" type="Modèle de document">Modèle de déclaration sur l'honneur d'engagement de travaux d'un logement ancien pour obtenir un PTZ</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Je soussigné,  [<Expression>Prénom Nom</Expression>], bénéficiant d'une aide de l’État à la constitution de l'apport personnel sous forme d'un prêt ne portant pas intérêt d'un montant de  [<Expression>montant du PTZ+</Expression>], contracté auprès de  [<Expression>Nom du prêteur</Expression>], en vue de financer  l'acquisition du logement suivant [<Expression>type de bien et localisation de l'immeuble financé</Expression>], atteste sur l'honneur que ce logement fera l'objet, dans les conditions fixées au III de l'article R. 31-10-2 du code de la construction et de l'habitation, de travaux d'amélioration d'un montant au moins égal à 25 % du coût total de l'opération. Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la création de surfaces habitables nouvelles ou de surfaces annexes, la modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des surfaces annexes ainsi que les travaux destinés à réaliser des économies d'énergie.</Paragraphe>
+<Paragraphe>Je reconnais avoir été informé que si les travaux ne sont pas réalisés ou ne respectent pas la condition précitée dans un délai de trois ans à compter de l'émission de l'offre de prêt, l'établissement de crédit sera en droit de procéder à la remise en cause de la totalité du montant ou des conditions de mon prêt sur le fondement des articles L. 31-10-7 et R. 31-10-7 du code de la construction et de l'habitation.</Paragraphe>
+<Paragraphe>Fait à [<Expression>lieu de la déclaration</Expression>] le [<Expression>date</Expression>]</Paragraphe>
+<Paragraphe>Signature du bénéficiaire du prêt</Paragraphe>
+<Paragraphe>Tableaux à joindre à la déclaration sur l'honneur</Paragraphe>
+<Tableau>
+<Titre>Renseignements concernant le logement objet du prêt</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Acquéreur(s)</Paragraphe>
+</Cellule>
+<Cellule/>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Adresse du logement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>N° d'appartement</Paragraphe>
+<Paragraphe>N° , Voie</Paragraphe>
+<Paragraphe>Code postal</Paragraphe>
+<Paragraphe>Ville</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Montant prévisionnel des travaux d'amélioration </Paragraphe>
+</Cellule>
+<Cellule/>
+</Rangée>
+</Tableau>
+<Paragraphe>Signature du bénéficiaire du prêt</Paragraphe>
+<Paragraphe>En application des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les informations recueillies dans ce document peuvent être transmises à l'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation. Le droit d'accès aux informations nominatives concernant le déclarant peut être exercé auprès de l'établissement de crédit et de l'organisme susmentionné.</Paragraphe>
+<Paragraphe>Rappel. - En cas de fausse déclaration, l'emprunteur s'expose, outre la restitution de l'avantage indûment perçu, à d'éventuelles sanctions pénales, notamment celles réprimant l'escroquerie (code pénal, art. 313-1).</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F10871" audience="Particuliers" type="Fiche d'information">
+<Titre>Prêt à taux zéro (PTZ)</Titre>
+<Dossier ID="N20373">Crédit immobilier</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

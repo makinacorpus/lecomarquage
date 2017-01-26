@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32326" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Perquisition</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>La perquisition permet à la police, à la gendarmerie ou à un magistrat de rechercher des preuves et des documents au domicile d'une personne. Elle est encadrée par des règles précises. Le mandat de perquisition n'existe pas en France.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-19</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32326</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024967362&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022470061&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020933016&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F32326" type="Fiche d'information">Perquisition</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Enquête</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La perquisition permet à la police, à la gendarmerie ou à un magistrat de rechercher des preuves et des documents au domicile d'une personne. Elle est encadrée par des règles précises. Le mandat de perquisition n'existe pas en France.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>La perquisition est la fouille d'un lieu en vue d'y trouver des preuves d'une <LienIntra LienID="R10272" type="Définition de glossaire">infraction</LienIntra>. Les preuves peuvent être des documents, des objets ou des fichiers informatiques.</Paragraphe>
+<Paragraphe>La perquisition ne concerne pas que les logements, mais tous les lieux privés. Elle peut se dérouler dans un garage ou dans les locaux d'une entreprise.</Paragraphe>
+<Paragraphe>La perquisition ne concerne pas que la personne officiellement suspectée : le domicile d'un témoin peut être perquisitionné. </Paragraphe>
+<Paragraphe>Elle est généralement menée par des policiers ou des gendarmes dirigés par un officier de police judiciaire (OPJ). L'officier de police judiciaire est une fonction permettant de diriger des enquêtes, il peut s'agir d'un policier ou un gendarme.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>la fouille d'une voiture (hors véhicules d'habitation comme un camping-car) n'est pas considérée comme une perquisition et relève <LienInterne LienPublication="F32041" type="Fiche d'information" audience="Particuliers">d'autres règles</LienInterne>.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Personnes protégées</Paragraphe>
+</Titre><Paragraphe>Dans certains cas, les perquisitions doivent être réalisées directement par un magistrat et non par la police ou la gendarmerie :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans le cabinet d'un avocat ou à son domicile. Le bâtonnier doit également être présent. Les saisies ne peuvent pas concerner des faits sans rapport avec l'enquête en cours ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le cabinet d'un médecin, d'un notaire ou d'un huissier. Le responsable de l'ordre concerné doit être présent ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans les locaux d'un média ou au domicile privé d'un journaliste. Les véhicules professionnels des journalistes bénéficient de la même protection. La perquisition ne peut pas avoir pour but l'identification d'une source.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contrôle par la justice</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Type d'enquête</Paragraphe>
+</Titre><Paragraphe>Le magistrat responsable d'une perquisition dépend du type d'enquête.</Paragraphe>
+<Paragraphe>Deux sont réalisées sous le contrôle du procureur : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'enquête de flagrance ou flagrant délit qui est  ouverte lorsqu'un crime ou un délit vient ou est en train de se produire. Elle peut durer jusqu'à 8 jours (renouvelable une fois) après l'infraction concernée ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'enquête préliminaire qui concerne toutes les autres infractions (suite à une plainte par exemple).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Une seule est réalisée sous le contrôle d'un juge d'instruction : <LienInterne LienPublication="F1456" type="Fiche d'information" audience="Particuliers">l'information judiciaire</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Autorisation d'un magistrat</Paragraphe>
+</Titre><Paragraphe>Le mandat de perquisition n'existe pas en France.</Paragraphe>
+<Paragraphe>C'est uniquement lors d'une information judiciaire que la police ou la gendarmerie doit avoir une autorisation écrite du juge pour perquisitionner. On parle d'une <Expression>commission rogatoire</Expression>. Elle peut évoquer </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la seule perquisition (<Expression>commission rogatoire spéciale</Expression>) </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou tous les actes en rapport avec une enquête précise (<Expression>commission rogatoire générale</Expression>).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Horaires</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Une perquisition doit commencer entre 6 heures et 21 heures. Une perquisition commencée avant 21 heures peut se finir après cette heure.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Criminalité organisée et terrorisme</Paragraphe>
+</Titre><Paragraphe>En cas d'infraction liée à la criminalité organisée (trafic de stupéfiants, vol à main armée...) ou au terrorisme, une perquisition peut débuter en dehors de ces horaires.</Paragraphe>
+<Paragraphe>La police et la gendarmerie doivent avoir une autorisation explicite et écrite :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du juge des libertés et de la détention, au cours d'une enquête préliminaire ou de flagrant délit,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou du juge d'instruction, via une commission rogatoire spéciale, au cours d'une information judiciaire.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Accord et présence de l'occupant</Paragraphe>
+</Titre><Paragraphe>L'occupant est celui qui habite ou travaille dans le lieu concerné. Par exemple, le locataire et non le propriétaire bailleur. Pour les locaux d'une entreprise, c'est le dirigeant qui est considéré comme occupant.</Paragraphe>
+<Tableau>
+<Titre>Droits de l'occupant</Titre>
+<Colonne largeur="25" type="header"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Rangée type="header">
+<Cellule/>
+<Cellule>
+<Paragraphe>Flagrant délit</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Enquête préliminaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Information judiciaire</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Accord de l'occupant</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Pas obligatoire.</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe> L'OPJ peut employer la force pour entrer.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Obligatoire.</MiseEnEvidence> </Paragraphe>
+<Paragraphe>L'accord doit être donné par écrit.</Paragraphe>
+<Paragraphe>Exception : pour les infractions punies de plus de 5 ans de prison, le juge des libertés et de la détention peut autoriser une perquisition sans l'accord de l'occupant.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Pas obligatoire.</MiseEnEvidence> </Paragraphe>
+<Paragraphe>L'OPJ peut employer la force pour rentrer.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Perquisition sans l'occupant</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Possible.</MiseEnEvidence> </Paragraphe>
+<Paragraphe>Si l'OPJ ne peut pas joindre l'occupant, il choisit lui-même 2 témoins majeurs (hors policiers ou gendarmes).</Paragraphe>
+<Paragraphe>Ces témoins peuvent être des voisins, des passants... Ils doivent accepter sous peine d'une amende de <Valeur>150 €</Valeur>.</Paragraphe>
+<Paragraphe>Si l'occupant est joignable, il peut désigner un représentant.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Impossible.</MiseEnEvidence>  </Paragraphe>
+<Paragraphe>L'occupant doit donner son accord écrit à la perquisition et donc être présent physiquement.</Paragraphe>
+<Paragraphe>Exception : si la perquisition se déroule sans l'accord de l'occupant et qu'il est absent, l'OPJ désigne 2 témoins  majeurs (hors policiers ou gendarmes).</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Possible</MiseEnEvidence> :</Paragraphe>
+<Paragraphe>- Si l'occupant est déjà mis en examen : il doit être présent ou désigner un représentant. Sinon, l'OPJ désigne 2 témoins.</Paragraphe>
+<Paragraphe>- Si l'occupant n'est pas mis en examen, il peut être présent. Sinon, l'OPJ désigne 2 membres majeurs de la famille présents sur place. S'il n'y a personne,  l'OPJ désigne 2 témoins  majeurs (hors policiers ou gendarmes).</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Saisies des preuves</Paragraphe>
+</Titre><Paragraphe>Les preuves saisies sont listées et placées sous scellés. </Paragraphe>
+<Paragraphe>Les données informatiques peuvent être </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>saisies directement à la source (saisie d'un disque dur) </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou copiés sur un support physique (une clé USB par exemple). </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est également possible d'accéder à des données se situant en dehors du lieu de la perquisition à l'aide d'un ordinateur se trouvant sur place. Par exemple, pour consulter des courriers électroniques, un compte client sur un site web ou des fichiers sur un serveur.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Présence d'un avocat</Paragraphe>
+</Titre><Paragraphe>Les personnes présentes peuvent être obligées de rester sur place le temps de la perquisition si elles sont susceptibles de fournir des renseignements sur les preuves saisies. Elles n'ont pas le droit à l'assistance d'un avocat.</Paragraphe>
+<Paragraphe>Et même si une personne est placée en <LienInterne LienPublication="F14837" type="Fiche d'information" audience="Particuliers">garde à vue</LienInterne> au début ou au cours des opérations, la perquisition peut se dérouler sans son avocat.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F32041" audience="Particuliers">
+<Titre>Contrôle de sécurité : fouille corporelle, vérification d'un sac, du véhicule...</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024967362&amp;cidTexte=LEGITEXT000006071154" ID="R38475">
+<Titre>Code de procédure pénale : articles 56 à 59</Titre>
+<Complement>Règles générales</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022470061&amp;cidTexte=LEGITEXT000006071154" ID="R38476">
+<Titre>Code de procédure pénale : article 76</Titre>
+<Complement>Accord de l'occupant lors d'une enquête préliminaire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020933016&amp;cidTexte=LEGITEXT000006071154" ID="R38477">
+<Titre>Code de procédure pénale : article 96</Titre>
+<Complement>Présence de l'occupant lors d'une information judiciaire</Complement>
+</Reference>
+<Definition ID="R10272">
+<Titre>Infraction</Titre>
+<Texte>
+				<Paragraphe>Acte interdit par la loi et passible de sanctions pénales</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F32124" audience="Particuliers">Qu'est-ce qu'une audition libre ?</QuestionReponse>
+<QuestionReponse ID="F2807" audience="Particuliers">Peut-on refuser une convocation par la police ou la gendarmerie ?</QuestionReponse>
+</Publication>

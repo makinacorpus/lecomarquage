@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R24394" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'autorisation d'un système de vidéosurveillance pour un établissement bancaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté, Secteurs d'activité</dc:subject>
+<dc:description>Demande d'autorisation d'un système de vidéosurveillance pour un établissement bancaire - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-26</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R24394</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N20053">Fichiers, libertés, protection de la vie privée</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R24394" type="Formulaire">Demande d'autorisation d'un système de vidéosurveillance pour un établissement bancaire</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14095*02</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14095.do" format="application/pdf" poids="263.0 KB">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb><NoticeLiee ID="R20468" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51336&amp;cerfaFormulaire=13806" numerocerfa="51336#02" format="application/pdf" poids="292.4 KB">Notice explicative pour une demande d'autorisation d'un système de vidéosurveillance</NoticeLiee>
+
+<FicheLiee ID="F2517" audience="Particuliers" type="Fiche d'information">
+<Titre>Vidéosurveillance de la voie publique et des lieux ouverts au public</Titre>
+<Dossier ID="N20053">Fichiers, libertés, protection de la vie privée</Dossier>
+</FicheLiee><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<Complement>Pour effectuer les démarches (hors Paris)</Complement>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<Complement>Pour effectuer les démarches (à Paris)</Complement>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+</ServiceComplementaire>

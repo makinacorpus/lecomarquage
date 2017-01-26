@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2421" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Retrait d'espèces</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Les retraits d'espèces pour les besoins de la vie quotidienne sont la plupart du temps effectués avec une carte à des distributeurs automatiques de billets. Les retraits présentant un caractère plus exceptionnel sont souvent réalisés à un guichet. Il est également possible de retirer de l'argent à l'étranger avec sa carte bancaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-12</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2421</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F2421" type="Fiche d'information">Retrait d'espèces</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Espèces</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les retraits d'espèces pour les besoins de la vie quotidienne sont la plupart du temps effectués avec une carte à des distributeurs automatiques de billets.
+		
+			Les retraits présentant un caractère plus exceptionnel sont souvent réalisés à un guichet. Il est également possible de retirer de l'argent à l'étranger avec sa carte bancaire.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Retrait en France au distributeur automatique</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Carte de retrait</Paragraphe>
+</Titre><Paragraphe>Une simple <LienInterne LienPublication="F24415" type="Fiche Question-réponse" audience="Particuliers">carte de retrait</LienInterne> permet de retirer de l'argent liquide uniquement dans les distributeurs appartenant à sa banque.</Paragraphe>
+<Paragraphe>Par mesure de sécurité, durant les opérations, le client est filmé et enregistré : les abords d'un distributeur automatique de billets font l'objet d'une <LienInterne LienPublication="F2517" type="Fiche d'information" audience="Particuliers">vidéoprotection</LienInterne> systématique.</Paragraphe>
+<Paragraphe>Si le client oublie de récupérer la carte ou les espèces, elles sont reprises et conservées par l'automate quelques secondes après être sorties. Le client devra s'adresser à l'agence gestionnaire de l'automate pour en reprendre possession.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Carte bancaire</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="F2420" type="Fiche d'information" audience="Particuliers">carte bancaire</LienInterne> fonctionne comme la carte de retrait, mais dans tout distributeur de tout réseau.</Paragraphe>
+<Paragraphe>Les retraits peuvent être plafonnés selon les termes de la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>.  La convention peut aussi prévoir des frais en cas de retrait dans des distributeurs d'une autre banque.</Paragraphe>
+<Paragraphe>En cas d'utilisation abusive des possibilités de <LienInterne LienPublication="F2424" type="Fiche d'information" audience="Particuliers">paiement par carte bancaire</LienInterne>, le retrait par distributeur automatique de billets peut être l'occasion pour la banque de confisquer la carte. Dans ce cas, la carte est conservée dans l'automate et les espèces ne sont pas délivrées.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les possibilités de retrait sont le plus souvent plafonnées selon les termes de la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte.</LienInterne> En cas de dépassement, le client ne peut retirer des espèces qu'au guichet.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait en France au guichet</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Formulaire de retrait</Paragraphe>
+</Titre><Paragraphe>Dans certaines agences bancaires, si vous y avez un compte bancaire ou d'épargne, vous pouvez retirer des espèces au guichet contre remise d'un formulaire. Ce dernier comporte les références du compte à débiter. Il doit être signé et accompagné d'une pièce d'identité.</Paragraphe>
+<Paragraphe>Cette possibilité de retrait peut être étendue à d'autres agences bancaires appartenant au même réseau que celle qui gère votre compte. Mais la présentation complémentaire d'une carte de retrait ou d'un moyen de paiement peut alors y être exigée.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mandat cash</Paragraphe>
+</Titre><Paragraphe>Si vous êtes bénéficiaire d'un <LienInterne LienPublication="F10006" type="Fiche d'information" audience="Particuliers">mandat cash</LienInterne>, vous pouvez retirer les espèces correspondant à son montant dans une agence du réseau utilisé par l'expéditeur du mandat.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Chèque non barré</Paragraphe>
+</Titre><Paragraphe>Si un <LienIntra LienID="R24187" type="Définition de glossaire">chèque non barré</LienIntra> vous a été remis, vous pouvez retirer les espèces correspondant à son montant en vous rendant dans l'agence de l'émetteur du chèque (ou dans une agence du même réseau).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Chèques de voyage</Paragraphe>
+</Titre><Paragraphe>Si vous avez acquis des <LienInterne LienPublication="F2404" type="Fiche Question-réponse" audience="Particuliers">chèques de voyage</LienInterne>, vous pouvez les transformer en espèces dans une agence bancaire ou un bureau de change les acceptant.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Carte bancaire</Paragraphe>
+</Titre><Paragraphe>Dans certaines agences bancaires, vous pouvez retirer au guichet des espèces sur présentation de votre carte bancaire, même si vous n'y avez pas de compte et même si elle n'appartient pas au même réseau que votre banque.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>dans tous les cas, pour des raisons de sécurité, si le montant du retrait est important, l'agence bancaire peut exiger d'être prévenue 1 ou 2 jours à l'avance.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>L'opération peut comporter des frais. Les tarifs dépendent de la  <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait à l'étranger</Paragraphe>
+</Titre><Paragraphe>Les retraits à l'étranger sont semblables aux retraits effectués en France.</Paragraphe>
+<Paragraphe>Les seules particularités concernent l'utilisation d'une carte bancaire :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pour fonctionner, la carte doit avoir le statut de carte internationale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>toute carte ne fonctionne pas nécessairement dans tout distributeur automatique de billets,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les distributeurs automatiques de billets peuvent proposer un choix entre plusieurs devises utilisables localement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le chèque non barré ne peut pas être un moyen de retirer des espèces à l'étranger.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'opération peut comporter des frais. Les tarifs dépendent de la  <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Definition ID="R24187">
+<Titre>Chèque non barré</Titre>
+<Texte>
+				<Paragraphe>Type de chèque pouvant être changé contre des espèces auprès de la banque de l'émetteur du chèque. Il peut aussi être transmis par le bénéficiaire initial à une autre personne, par endossement.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F24415" audience="Particuliers">Carte de retrait ou carte bancaire : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F31240" audience="Particuliers">Peut-on récupérer une carte bancaire restée dans le distributeur de billets ?</QuestionReponse>
+<QuestionReponse ID="F2404" audience="Particuliers">Comment payer à l'étranger ?</QuestionReponse>
+</Publication>

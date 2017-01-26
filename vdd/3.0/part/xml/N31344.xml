@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N31344" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Travaux</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Travaux : Formalités, Assurances et garanties</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-02</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N31344</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31344" type="Dossier">Travaux</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N557">Urbanisme</SousThemePere>
+<SousDossier ID="N31344-1">
+<Titre>Formalités</Titre><Fiche ID="F1988">Affichage de l'autorisation d'urbanisme sur le terrain</Fiche>
+<Fiche ID="F1992">Déclaration d'ouverture de chantier</Fiche>
+<Fiche ID="F1997">Déclaration d'achèvement des travaux</Fiche>
+</SousDossier>
+<SousDossier ID="N31344-2">
+<Titre>Assurances et garanties</Titre><Fiche ID="F2032">Assurance construction dommages-ouvrage</Fiche>
+<Fiche ID="F2958">Garanties après la réception des travaux</Fiche>
+<Fiche ID="F2034">Garantie décennale en assurance construction</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N319" audience="Particuliers">
+<Titre>Autorisations d'urbanisme</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R42956" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15479.do" numerocerfa="15479*01" type="Formulaire">
+<Titre>Demande de création d'aérodrome privé ou d'utilisation d'une aérosurface</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source><NoticeLiee ID="R2173" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52050&amp;cerfaFormulaire=15479" numerocerfa="52050#01">Notice de demande de création d'aérodrome privé ou d'utilisation d'aérosurface</NoticeLiee>
+</ServiceEnLigne>
+<QuestionReponse ID="F33813" audience="Particuliers">Que faire en cas de découverte en sous-sol ou sous la mer ?</QuestionReponse>
+<QuestionReponse ID="F33682" audience="Particuliers">Dans quels cas doit-on entreprendre des travaux d'isolation énergétique ? </QuestionReponse>
+<QuestionReponse ID="F2533" audience="Particuliers">Quel contrat doit-on passer avec un professionnel pour réaliser des travaux ?</QuestionReponse>
+
+</Publication>

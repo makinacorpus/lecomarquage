@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R21845" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'autorisation de pêche de l'anguille en eau douce</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs, Secteurs d'activité</dc:subject>
+<dc:description>Permet aux pêcheurs professionnels et amateurs aux engins et aux filets d'obtenir un permis de pêche d'anguille en eau douce. Demande à adresser 2 mois avant le début de chaque campagne de pêche à la direction départementale des territoires (et de la mer) compétente pour le secteur géographique pour lequel l’autorisation est demandée.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-16</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R21845</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N554">Pêche</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R21845" type="Formulaire">Demande d'autorisation de pêche de l'anguille en eau douce</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14346*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet aux pêcheurs professionnels et amateurs aux engins et aux filets d'obtenir un permis de pêche d'anguille en eau douce. Demande à adresser 2 mois avant le début de chaque campagne de pêche à la direction départementale des territoires (et de la mer) compétente pour le secteur géographique pour lequel l’autorisation est demandée.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14346.do">
+<Source>Ministère en charge de la mer et de la pêche</Source>
+</LienWeb>
+<FicheLiee ID="F2117" audience="Particuliers" type="Fiche d'information">
+<Titre>Pêche en eau douce</Titre>
+<Dossier ID="N554">Pêche</Dossier>
+</FicheLiee>
+<Dossier ID="N23662">
+<Titre>Obligations en matière d'agriculture</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

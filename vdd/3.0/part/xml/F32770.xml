@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32770" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelle scolarité pour un enfant précoce ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Aucune mesure scolaire particulière n'est prévue pour un enfant intellectuellement précoce si sa scolarité se déroule normalement. En revanche, si des difficultés comportementales ou d'apprentissage apparaissent, et que des examens font apparaître cette précocité, un parcours adapté peut alors être mis en place.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32770</dc:identifier>
+<dc:source>http://www.education.gouv.fr/cid49838/mene0900994c.html, http://www.education.gouv.fr/bo/2007/38/MENE0701646C.htm</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23493</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N23493">Obligation scolaire</Niveau>
+<Niveau ID="F32770" type="Fiche Question-réponse">Quelle scolarité pour un enfant précoce ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N23493">
+<Titre>Obligation scolaire</Titre>
+<Fiche ID="F1898">Instruction obligatoire</Fiche>
+<Fiche ID="F1899">Assiduité scolaire et absentéisme</Fiche>
+<Fiche ID="F23429">École à la maison</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Aucune mesure scolaire particulière n'est prévue pour un enfant intellectuellement précoce si sa scolarité se déroule normalement. En revanche, si des difficultés comportementales ou d'apprentissage apparaissent, et que des examens font apparaître cette précocité, un  parcours adapté peut alors être mis en place. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Ce parcours doit être construit par un dialogue entre la famille, l'équipe éducative et le psychologue scolaire.</Paragraphe>
+<Paragraphe>Il peut s'agir d'une  accélération du parcours scolaire (un saut de classe par exemple).</Paragraphe>
+<Paragraphe>Un <LienInterne LienPublication="F1441" type="Fiche Question-réponse" audience="Particuliers">programme personnalisé de réussite éducative (PPRE)</LienInterne> peut être mis en place si les difficultés de l'enfant sont importantes.</Paragraphe>
+<Paragraphe>Par ailleurs, certains collèges publics et privés sous contrat ont mis en œuvre des parcours scolaires adaptés à ces enfants.</Paragraphe>
+
+</Texte><OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/cid49838/mene0900994c.html" ID="R40068">
+<Titre>Circulaire n°2009-168 du 12 novembre 2009 relative au guide d'aide à la conception de modules de formation pour une prise en compte des élèves intellectuellement précoces</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/bo/2007/38/MENE0701646C.htm" ID="R40069">
+<Titre>Circulaire n°2007-158 du 17 octobre 2007 relative au parcours scolaire des élèves intellectuellement précoces ou manifestant des aptitudes particulières à l'école et au collège</Titre>
+</Reference>
+</Publication>

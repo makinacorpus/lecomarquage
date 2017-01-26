@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1270" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande en ligne de certificat de situation administrative (non gage et non opposition)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Transports</dc:subject>
+<dc:description>Permet d'obtenir un certificat de situation administrative (non gage et non opposition) pour vendre son véhicule.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-18</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1270</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1270" type="Téléservice">Demande en ligne de certificat de situation administrative (non gage et non opposition)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet d'obtenir un certificat de situation administrative (non gage et non opposition) pour vendre son véhicule.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://siv.interieur.gouv.fr/map-usg-ui/do/accueil_certificat">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F18167" audience="Particuliers" type="Fiche d'information">
+<Titre>Bonus écologique pour une camionnette peu polluante</Titre>
+<Dossier ID="N18131">Mesures antipollution</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1360" audience="Particuliers" type="Fiche d'information">
+<Titre>Certificat de situation administrative (non gage et non opposition)</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1707" audience="Particuliers" type="Fiche d'information">
+<Titre>Vendre ou donner son véhicule</Titre>
+<Dossier ID="N24253">Véhicule</Dossier>
+</FicheLiee>
+<Dossier ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

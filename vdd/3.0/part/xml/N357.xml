@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N357" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Copropriété en difficulté</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>En cas de fort taux d'impayés ou de graves difficultés pour assurer la conservation de l'immeuble, certaines procédures permettent de redresser la situation. La nature de ces procédure varie selon la gravité des difficultés rencontrées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-17</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N357</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068256, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006061423</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Locataire, Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N357" type="Dossier">Copropriété en difficulté</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere>
+<Fiche ID="F20388">Mesures préventives (retour à l'équilibre financier)</Fiche>
+<Fiche ID="F2643">Difficultés avérées (retour au fonctionnement normal de la copropriété)</Fiche>
+<Fiche ID="F32088">Graves difficultés (plan de sauvegarde)</Fiche>
+<Fiche ID="F2667">Difficultés irrémédiables (état de carence et expropriation)</Fiche>
+<Introduction>
+<Texte><Paragraphe>
+			En cas de fort taux d'impayés ou de graves difficultés pour assurer la conservation de l'immeuble, certaines procédures permettent de redresser la situation. La nature de ces procédure varie selon la gravité des difficultés rencontrées. </Paragraphe>
+</Texte>
+</Introduction><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068256" ID="R15198">
+<Titre>Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006061423" ID="R1785">
+<Titre>Décret n°67-223 du 17 mars 1967 fixant le statut de la copropriété des immeubles bâtis</Titre>
+</Reference>
+<ServiceEnLigne ID="R33746" URL="http://www.conso.net/content/vous-souhaitez-convoquer-une-assembl%C3%A9e-g%C3%A9n%C3%A9rale-car-le-syndic-n%E2%80%99-pas-satisfait-%C3%A0-ses" type="Modèle de document">
+<Titre>Demander à son syndic la convocation de l'assemblée générale des copropriétaires</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33750" URL="http://www.conso.net/content/vous-demandez-que-des-questions-compl%C3%A9mentaires-soient-ajout%C3%A9es-%C3%A0-l%E2%80%99ordre-du-jour-d%E2%80%99une" type="Modèle de document">
+<Titre>Demander l'inscription de questions complémentaires à l'ordre du jour de l'assemblée des copropriétaires</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33751" URL="http://www.conso.net/content/vous-demandez-l%E2%80%99%C3%A9chelonnement-du-paiement-des-travaux-d%E2%80%99am%C3%A9lioration-vot%C3%A9s-en-assembl%C3%A9e" type="Modèle de document">
+<Titre>Demander l'échelonnement du paiement des travaux d'amélioration votés en assemblée générale des copropriétaires</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33752" URL="http://www.conso.net/content/vous-ne-pouvez-%C3%AAtre-pr%C3%A9sente-%C3%A0-l%E2%80%99assembl%C3%A9e-g%C3%A9n%C3%A9rale-et-vous-souhaitez-vous-faire-repr%C3%A9senter" type="Modèle de document">
+<Titre>Mandater une personne pour se faire représenter en assemblée générale des copropriétaires</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2996" URL="https://www.anil.org/publications/publications-grand-public/serie-copropriete/" audience="Particuliers">
+<Titre>Guides sur la copropriété</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20097" URL="http://www.arcep.fr/fileadmin/reprise/dossiers/fibre/guide-fibre-immeubles-2011.pdf" audience="Particuliers">
+<Titre>Guide pratique sur l'installation de la fibre optique dans les immeubles</Titre>
+<Source ID="R30828">Autorité de régulation des communications électroniques et des postes (Arcep)</Source>
+</PourEnSavoirPlus>
+
+</Publication>

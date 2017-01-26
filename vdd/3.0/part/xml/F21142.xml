@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21142" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Retraite du fonctionnaire : calcul de la pension de retraite de base</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>La retraite du fonctionnaire est calculée en fonction du dernier traitement, de la durée des services retenus et de sa durée totale d'assurance.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-27</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21142</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006148893&amp;cidTexte=LEGITEXT000006070302, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028498258&amp;cidTexte=LEGITEXT000006070302, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164391&amp;cidTexte=LEGITEXT000006070302, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006148918&amp;cidTexte=LEGITEXT000006070302, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005753112, http://legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006696481&amp;cidTexte=LEGITEXT000006077122, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000439623&amp;categorieLien=cid</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N379</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Niveau>
+<Niveau ID="F21142" type="Fiche d'information">Retraite du fonctionnaire : calcul de la pension de retraite de base</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20166">Retraite</SousThemePere><DossierPere ID="N379">
+<Titre>Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Titre><SousDossier ID="N379-1">
+<Titre>Avant la retraite</Titre>
+<Fiche ID="F13890">Droit à l'information du futur retraité</Fiche>
+<Fiche ID="F1049">Rachat des années d'études</Fiche>
+</SousDossier>
+<SousDossier ID="N379-2">
+<Titre>Âge de départ à la retraite</Titre>
+<Fiche ID="F2786">Âge minimum de départ à la retraite du fonctionnaire</Fiche>
+<Fiche ID="F594">Âge minimum de départ à la retraite du contractuel</Fiche>
+<Fiche ID="F12395">Limite d'âge</Fiche>
+</SousDossier>
+<SousDossier ID="N379-3">
+<Titre>Départ à la retraite anticipé</Titre>
+<Fiche ID="F13946">Carrière longue</Fiche>
+<Fiche ID="F14060">Handicap</Fiche>
+<Fiche ID="F20659">Fonctionnaire parent d'un enfant handicapé</Fiche>
+</SousDossier>
+<SousDossier ID="N379-4">
+<Titre>Retraite à taux plein</Titre>
+<Fiche ID="F1781">Taux plein du fonctionnaire</Fiche>
+<Fiche ID="F2081">Taux plein du contractuel</Fiche>
+</SousDossier>
+<SousDossier ID="N379-5">
+<Titre>Pension de retraite de base</Titre>
+<Fiche ID="F21142">Calcul de la pension</Fiche>
+<Fiche ID="F13736">Services pris en compte</Fiche>
+<Fiche ID="F2095">Rétablissement au régime général</Fiche>
+<Fiche ID="F16494">Majoration de la pension</Fiche>
+<Fiche ID="F20349">Décote</Fiche>
+<Fiche ID="F13300">Minimum garanti</Fiche>
+<Fiche ID="F12402">Cumul emploi - retraite de base</Fiche>
+</SousDossier>
+<SousDossier ID="N379-6">
+<Titre>Pension de retraite complémentaire</Titre>
+<Fiche ID="F12387">Retraite complémentaire des fonctionnaires (RAFP)</Fiche>
+<Fiche ID="F12390">Retraite complémentaire des agents non titulaires (Ircantec)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Pension de retraite de base</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La pension de retraite du fonctionnaire est calculée en tenant compte du dernier traitement, de la durée des services retenus pour la liquidation de la pension et de la durée totale d'assurance vieillesse (tous régimes de retraite confondus, dans le public et le privé). La pension de l'agent contractuel est calculée dans les mêmes conditions que celles prévues pour le salarié.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Formule de calcul</Paragraphe>
+</Titre><Paragraphe>La pension de retraite à taux plein est calculée de la manière suivante :</Paragraphe>
+<Paragraphe>Traitement indiciaire brut x pourcentage de liquidation  x coefficient de minoration ou de majoration.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Traitement indiciaire pris en compte</Paragraphe>
+</Titre><Paragraphe>Le traitement indiciaire pris en compte pour le calcul est le dernier traitement indiciaire brut détenu depuis au moins 6 mois à la date de cessation de fonctions. Si la durée de 6 mois n'est pas atteinte, la pension est alors calculée en tenant compte de l'indice précédent.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pourcentage de liquidation</Paragraphe>
+</Titre><Paragraphe>Le pourcentage de liquidation dépend de la durée des services et bonifications admissibles pour le calcul de la pension.</Paragraphe>
+<Paragraphe>Vous bénéficiez du pourcentage maximum, fixé à <MiseEnEvidence>75%</MiseEnEvidence> du traitement indiciaire pris en compte, si vous justifiez d'un certain nombre de trimestres.</Paragraphe>
+<Paragraphe>Ce nombre de trimestres dépend de votre année de naissance, dans les conditions suivantes :</Paragraphe>
+
+						<Tableau>
+<Titre>Nombre de trimestres liquidables nécessaire pour bénéficier du pourcentage maximum de 75% en fonction de l'année de naissance</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+								<Cellule>
+									<Paragraphe>Année de naissance</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>Trimestres liquidables nécessaires pour bénéficier du pourcentage maximum de 75%</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1948 (ou avant)</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>160 (40 ans)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1949</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>161 (40 ans et 3 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1950</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>162 (40 ans et 6 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1951</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>163 (40 ans et 9 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1952</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>164 (41 ans)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1953</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>165 (41 ans et 3 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1954</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>165 (41 ans et 3 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1955</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>166 (41 ans et 6 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1956</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>166 (41 ans et 6 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1957</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>166 (41 ans et 6 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1958, 1959 ou 1960</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>167 (41 ans et 9 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1961, 1962 ou 1963</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>168 (42 ans)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1964, 1965 ou 1966</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>169 (42 ans et 3 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1967, 1968 ou 1969</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>170 (42 ans et 6 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1970, 1971 ou 1972</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>171 (42 ans et 9 mois)</Paragraphe>
+								</Cellule>
+							</Rangée>
+<Rangée type="normal">
+								<Cellule>
+									<Paragraphe>1973 et après</Paragraphe>
+								</Cellule>
+								<Cellule>
+									<Paragraphe>172 (43 ans)</Paragraphe>
+								</Cellule>
+							</Rangée>
+</Tableau>
+					
+<Paragraphe>Si sa durée d'assurance est inférieure, le pourcentage de la pension est réduit.</Paragraphe>
+<Paragraphe>Par exemple, un fonctionnaire né en 1954 doit justifier de 165 trimestres liquidables pour bénéficier du pourcentage maximum de 75%. S'il justifie d'une durée de services de 155 trimestres, le pourcentage de la pension est fixé à : (75/165) x 155 = 70,45%.</Paragraphe>
+<Paragraphe>Si vous bénéficiez de bonifications, le pourcentage ne peut pas dépasser 80%.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Trimestres pris en compte</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Trimestres liquidables</Paragraphe>
+</Titre><Paragraphe>Tous les <LienInterne LienPublication="F13736" type="Fiche d'information" audience="Particuliers">services accomplis en tant fonctionnaire</LienInterne> (titulaire et stagiaire) sont pris en compte pour déterminer vos droits à pension.
+      
+		
+			On parle alors de trimestres liquidables.</Paragraphe>
+<Paragraphe>Le calcul du nombre de trimestres liquidables dans la fonction publique varie selon que le service est accompli à temps plein ou à temps partiel.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Temps complet</Paragraphe>
+</Titre><Paragraphe>Toute période de service à temps plein est prise en compte intégralement.</Paragraphe>
+<Paragraphe>Pour le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à 45 jours est comptée pour un trimestre. La fraction de trimestre inférieure à 45 jours n'est pas prise en compte.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Temps partiel</Paragraphe>
+</Titre><Paragraphe>Toute période de travail effectuée à temps partiel est prise en compte proportionnellement à la durée de service effectuée par rapport à la durée prévue à temps plein.</Paragraphe>
+<Paragraphe>Par exemple, si un fonctionnaire a travaillé à 80% pendant 10 ans, le nombre de trimestres retenus sur cette période est de 32 (10 ans x 80% = 8 ans, soit 32 trimestres).</Paragraphe>
+<Paragraphe>Toutefois, vous pouvez surcotiser sur la base du traitement indiciaire à taux plein. Dans ce cas, le nombre de trimestres est augmenté, dans la limite de 4 trimestres (ou 8 trimestres si vous subissez une incapacité permanente d'au moins 80 %).</Paragraphe>
+<Paragraphe>Toute période de travail à temps partiel est automatiquement prise en compte comme une période de travail à temps plein, dans la limite de 3 ans, si elle est accordée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> pour élever un enfant de moins de 3 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou pour donner des soins à un enfant à charge atteint d'un handicap nécessitant la présence d'une tierce personne ou victime d'un accident ou d'une maladie grave.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à 45 jours est comptée pour un trimestre. La fraction de trimestre inférieure à 45 jours n'est pas prise en compte.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Bonifications</Paragraphe>
+</Titre><Paragraphe>Aux trimestres liquidables s'ajoutent, si vous y avez droit, des bonifications accordées, notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pour les services civils rendus hors d'Europe,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pour campagnes dans le cas de services militaires</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si  vous êtes parent d'un ou plusieurs enfants nés ou adoptés avant 2004 (bonification d'un an par enfant),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> si vous avez pris en charge des enfants avec lesquels vous n'avez pas de lien de filiation (enfant de votre conjoint issu d'une union précédente, par exemple) avant 2004, que vous les avez élevés pendant au moins 9 ans avant leur 21<Exposant>e</Exposant> anniversaire et à condition d'avoir interrompu ou réduit votre activité (bonification d'un an par enfant),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous avez accouché avant  2004 au cours de vos études, avant votre recrutement dans la fonction publique, dès lors que ce recrutement est intervenu dans les 2 ans après l'obtention du diplôme nécessaire pour se présenter au concours (bonification d'un an par enfant).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Tout enfant né ou adopté depuis le 1er janvier 2004 n'ouvre pas droit à bonification. Cependant, il est pris en compte dans la <LienInterne LienPublication="F13736" type="Fiche d'information" audience="Particuliers">durée des services</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Supplément au titre de la nouvelle bonification indiciaire (NBI)</Paragraphe>
+</Titre>
+<Paragraphe>Si vous avez perçu la NBI au cours de votre carrière, vous avez droit à un supplément de pension calculé en fonction de la durée de perception de ce complément de rémunération et du montant moyen annuellement perçu.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exemple de calcul du nombre de trimestres liquidables</Paragraphe>
+</Titre><Paragraphe>Si vous justifiez, par exemple, de 39 ans de services, dont 10 ans à temps partiel  sans surcotisation, et avez  1 enfant né avant le 1er janvier 2004 :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>au titre de la durée d'assurance, vous bénéficiez d'un droit à pension pour 39 ans de services (156 trimestres),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>mais votre  pension est calculée sur la base de 152 trimestres liquidables : 29 ans (116 trimestres) à temps plein + 10 ans à temps partiel comptant 8 ans (32 trimestres) + 4 trimestres de bonification pour enfant.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coefficient de minoration ou de majoration</Paragraphe>
+</Titre><Paragraphe>Le montant de votre pension peut faire l'objet d'un coefficient :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de minoration (<LienInterne LienPublication="F20349" type="Fiche d'information" audience="Particuliers">décote</LienInterne>) si vous n'avez pas atteint l'âge d'annulation de la décote et que le nombre total de trimestres que vous avez acquis, tous régimes confondus (dans le privé et dans le public), est inférieur à un nombre de trimestres qui varie en fonction de votre année de naissance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de majoration (<LienInterne LienPublication="F16494" type="Fiche d'information" audience="Particuliers">surcote</LienInterne>) si le nombre total de trimestres acquis, tous régimes confondus (dans le privé et dans le public), est supérieur à un nombre de trimestres qui varie en fonction de votre année de naissance.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ce nombre de trimestres varie dans les conditions suivantes :</Paragraphe>
+<Tableau>
+<Titre>Nombre de trimestres dans le privé et le public requis en fonction de l'année de naissance</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Année de naissance</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Nombre de trimestres requis </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1948 (ou avant)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>160 (40 ans)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1949</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>161 (40 ans et 3 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1950</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>162 (40 ans et 6 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1951</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>163 (40 ans et 9 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1952</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>164 (41 ans)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1953</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>165 (41 ans et 3 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1954</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>165 (41 ans et 3 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1955</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>166 (41 ans et 6 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1956</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>166 (41 ans et 6 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1957</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>166 (41 ans et 6 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1958, 1959 ou 1960</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>167 (41 ans et 9 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1961, 1962 ou 1963</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>168 (42 ans)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1964, 1965 ou 1966</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>169 (42 ans et 3 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1967, 1968 ou 1969</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>170 (42 ans et 6 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1970, 1971 ou 1972</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>171 (42 ans et 9 mois)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1973 et après</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>172 (43 ans)</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Revalorisation</Paragraphe>
+</Titre><Paragraphe>La pension versée au fonctionnaire retraité est revalorisée chaque année, le 1er octobre.</Paragraphe>
+<Paragraphe>La revalorisation du point d'indice du traitement des fonctionnaires n'a aucun impact sur le montant de la pension de retraite du fonctionnaire retraité.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006148893&amp;cidTexte=LEGITEXT000006070302" ID="R35724">
+<Titre>Code des pensions civiles et militaires de retraite : articles L11 à L12ter</Titre>
+<Complement>Trimestres liquidables (FPE)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028498258&amp;cidTexte=LEGITEXT000006070302" ID="R35725">
+<Titre>Code des pensions civiles et militaires de retraite : article L13</Titre>
+<Complement>Calcul du taux plein (FPE)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164391&amp;cidTexte=LEGITEXT000006070302" ID="R35726">
+<Titre>Code des pensions civiles et militaires de retraite : articles L15 et L16</Titre>
+<Complement>Traitement servant au calcul et revalorisation de la pension (FPE)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006148918&amp;cidTexte=LEGITEXT000006070302" ID="R35727">
+<Titre>Code des pensions civiles et militaires de retraite : articles R10 à R25-1</Titre>
+<Complement>Bonifications (FPE)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005753112" ID="R13435">
+<Titre>Décret n°2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la CNRACL</Titre>
+<Complement>Articles 13 à 17, 19, 28 (FPT et FPH)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006696481&amp;cidTexte=LEGITEXT000006077122" ID="R33095">
+<Titre>Loi n°91-73 du 18 janvier 1991 portant dispositions relatives à la santé publique et aux assurances sociales : article 27</Titre>
+<Complement>Nouvelle bonification indiciaire (NBI)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000439623&amp;categorieLien=cid" ID="R38307">
+<Titre>Décret n°2004-678 du 8 juillet 2004 fixant le taux de la cotisation appliquée au fonctionnaire à temps partiel souhaitant cotiser à la retraite sur la base du taux plein</Titre>
+</Reference>
+<ServiceEnLigne ID="R19690" URL="http://simuretraite.finances.gouv.fr/CalcCivile/" type="Simulateur">
+<Titre>Simulateur de calcul de la pension de retraite du fonctionnaire d'Etat</Titre>
+<Source ID="R30647">Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F12389" audience="Particuliers">Qu'est-ce qu'une retraite de base et qu'est-ce qu'une retraite complémentaire ?</QuestionReponse>
+<QuestionReponse ID="F10008" audience="Particuliers">Assuré polypensionné : quelles démarches effectuer pour demander sa retraite ?</QuestionReponse>
+<QuestionReponse ID="F2102" audience="Particuliers">Qu'est-ce qu'un emploi de catégorie active ou sédentaire ?</QuestionReponse>
+
+</Publication>

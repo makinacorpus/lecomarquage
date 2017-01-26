@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17834" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration sociale des professions indépendantes (DSI) en ligne</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation, Ressources humaines</dc:subject>
+<dc:description>Déclaration sociale des professions indépendantes (DSI) en ligne - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-01</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17834</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17834" type="Téléservice">Déclaration sociale des professions indépendantes (DSI) en ligne</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>12158*05</NumeroCerfa>
+<Texte><Paragraphe>Permet aux entrepreneurs individuels, artisans, industriels, commerçants, professionnels libéraux, dirigeants non salariés de société, de déclarer leur revenu servant de base au calcul de toutes les cotisations et contributions obligatoires (assurance maladie, assurance vieillesse, allocations familiales, CSG et CRDS). </Paragraphe>
+<Paragraphe>Service gratuit avec inscription préalable. </Paragraphe>
+<Paragraphe>Remplace la déclaration commune des revenus des professions indépendantes (DCR).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si votre revenu de l'année 2014 était supérieur à <Valeur>7 846 €</Valeur>, la déclaration doit être obligatoirement effectuée en ligne.</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="http://www.net-entreprises.fr/html/dsi.htm">
+<Source>Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</LienWeb>
+<FicheLiee ID="F23890" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisations et contributions sociales des commerçants, artisans et industriels</Titre>
+<Dossier ID="N10805">Régimes sociaux des travailleurs indépendants</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31233" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisations et contributions sociales des professions libérales</Titre>
+<Dossier ID="N10805">Régimes sociaux des travailleurs indépendants</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23744" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'une cessation d'activité</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

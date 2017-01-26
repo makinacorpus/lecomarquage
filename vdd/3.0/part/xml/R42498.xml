@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42498" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modèle de publication - Changement de nom pour motif légitime</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Modèle de publication - Changement de nom pour motif légitime - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-21</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42498</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N151">Nom et prénom</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42498" type="Modèle de document">Modèle de publication - Changement de nom pour motif légitime</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Changement total ou modification du nom</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Pour un majeur</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Résidant en France</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe> M. Mme Mlle [NOM (en lettres capitales)] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], demeurant [N°] [Rue] [Ville] [Code postal], dépose une requête auprès du garde des sceaux à l'effet de substituer à son nom patronymique celui de [...] , ou de [...] , ou de [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Femme mariée</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Mme [NOM (en lettres capitales)] [Prénom 1, Prénom 2] épouse [NOM (en lettres capitales)], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], demeurant [N°] [Rue] [Ville] [Code postal], dépose une requête auprès du garde des sceaux à l'effet de substituer à son nom patronymique celui de [...] , ou de [...] , ou de [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Majeurs et enfant(s) mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe> M. Mme Mlle [NOM (en lettres capitales)] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], demeurant [N°] [Rue] [Ville] [Code postal], agissant tant en son nom personnel qu'au nom de ses enfants mineurs [NOM (en lettres capitales)] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Pays], dépose une requête auprès du garde des sceaux à l'effet de substituer à son nom patronymique celui de [...] ou de [...] ou de [...].</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour un mineur</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Parent agissant au nom de son/ses enfant(s) mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M./Mme/Mlle [NOM (en lettres capitales)] [Prénom 1, Prénom 2], demeurant [N°] [Rue] [Ville] [Code postal], agissant au nom de son/ses enfant(s) mineur(s) [NOM (en lettres capitales)] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], dépose une requête auprès du garde des sceaux à l'effet de substituer au nom patronymique de ce(s) mineur(s) celui de [...] ou de [...] ou de [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Parents agissant au nom de leur(s) enfant(s) mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M. [NOM (en lettres capitales)] [Prénom 1, Prénom 2] et Mme [NOM (en lettres capitales)] épouse [NOM (en lettres capitales)] [Prénom 1, Prénom 2], demeurant [N°] [Rue] [Ville] [Code postal], agissant au nom de leur(s) enfant(s) mineur(s) [NOM (en lettres capitales)] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], dépose une requête auprès du garde des sceaux à l'effet de substituer au nom patronymique de ce(s) mineur(s) celui de [...] ou de [...] ou de [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Tuteur légal agissant au nom de l'enfant ou des enfants mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M. Mme Mlle [NOM (en lettres capitales)] [Prénom 1, Prénom 2], demeurant [N°] [Rue] [Ville] [Code postal], agissant en qualité de tuteur légal du/des mineur(s) [Nom (en lettres capitales)] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], dépose une requête auprès du garde des sceaux à l'effet de substituer au nom patronymique de ce(s) mineur(s) celui de [...] ou de [...] ou de [...].</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Ajout à son nom d'un autre nom ou d'une particule pour changement d'état civil (et non simple utilisation d'un double nom d'usage)</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Pour un majeur</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Résidant en France</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M. Mme Mlle [NOM (en lettres capitales] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], demeurant [N°] [Rue] [Ville] [Code postal], dépose une requête auprès du garde des sceaux à l'effet d'ajouter à son nom patronymique celui de [...] , afin de s'appeler à l'avenir [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Femme mariée</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Mme [NOM (en lettres capitales] [Prénom 1, Prénom 2], épouse [NOM (en lettres capitales] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], demeurant [N°] [Rue] [Ville] [Code postal], dépose une requête auprès du garde des sceaux à l'effet d'ajouter à son nom patronymique celui de [...] , afin de s'appeler à l'avenir [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Majeurs et enfant(s) mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M. Mme Mlle [NOM (en lettres capitales] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], demeurant [N°] [Rue] [Ville] [Code postal], agissant tant en son nom personnel qu'au nom de ses enfants mineurs [NOM (en lettres capitales] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], dépose une requête auprès du garde des sceaux à l'effet d'ajouter à son nom patronymique celui de [...] , afin de s'appeler à l'avenir [...].</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour un mineur</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Parent agissant au nom de son/ses enfant(s) mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M. Mme Mlle [NOM (en lettres capitales] [Prénom 1, Prénom 2], demeurant [N°] [Rue] [Ville] [Code postal], agissant au nom de son/ses enfant(s) mineur(s) [NOM (en lettres capitales] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], dépose une requête auprès du garde des sceaux à l'effet d'ajouter au nom patronymique de ce(s) mineur(s) celui de [...], afin de s'appeler à l'avenir [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Parents agissant au nom de leurs enfant(s) mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M. [NOM (en lettres capitales] [Prénom 1, Prénom 2] et Mme [NOM (en lettres capitales] [Prénom 1, Prénom 2], épouse [NOM (en lettres capitales] demeurant [N°] [Rue] [Ville] [Code postal], agissant au nom de leur(s) enfant(s) mineur(s) [NOM (en lettres capitales] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], dépose une requête auprès du garde des sceaux à l'effet d'ajouter au nom patronymique de ce(s) mineur(s) celui de [...], afin de s'appeler à l'avenir [...].</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Tuteur légal agissant au nom de l'enfant ou des enfants mineur(s)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>M. Mme Mlle [NOM (en lettres capitales] [Prénom 1, Prénom 2], demeurant [N°] [Rue] [Ville] [Code postal], agissant en qualité de tuteur légal du/des mineur(s) [NOM (en lettres capitales] [Prénom 1, Prénom 2], né(e) le [JJ mois AAAA] à [Ville] [Arrondissement si Paris/Lyon/Marseille] [Code postal] [Pays], dépose une requête auprès du garde des sceaux à l'effet d'ajouter au nom patronymique de ce(s) mineur(s) celui de [...] , afin de s'appeler à l'avenir [...].</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Texte>
+<FicheLiee ID="F1656" audience="Particuliers" type="Fiche d'information">
+<Titre>Changement de nom de famille pour motif légitime</Titre>
+<Dossier ID="N151">Nom et prénom</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

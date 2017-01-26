@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F116" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on voyager à l'étranger avec une carte grise barrée ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Une carte grise barrée ne permet pas de voyager à l'étranger avec votre véhicule.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F116</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N367</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="F116" type="Fiche Question-réponse">Peut-on voyager à l'étranger avec une carte grise barrée ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre><SousDossier ID="N367-1">
+<Titre>Immatriculer un véhicule</Titre>
+<Fiche ID="F10293">Immatriculer un véhicule neuf</Fiche>
+<Fiche ID="F1050">Immatriculer un véhicule d'occasion</Fiche>
+<Fiche ID="F1480">Hériter d'un véhicule</Fiche>
+<Fiche ID="F1726">Duplicata de la carte grise : perte, vol ou détérioration</Fiche>
+<Fiche ID="F1360">Obtenir un certificat de non gage</Fiche>
+<Fiche ID="F19211">Coût de la carte grise</Fiche>
+</SousDossier>
+<SousDossier ID="N367-2">
+<Titre>Titulaire du certificat et modification de sa situation</Titre>
+<Fiche ID="F10477">Titulaire et cotitulaire de la carte grise</Fiche>
+<Fiche ID="F12118">Changement d'adresse</Fiche>
+<Fiche ID="F10613">Ajouter une autre personne sur sa carte grise</Fiche>
+<Fiche ID="F31218">Retirer un nom au certificat</Fiche>
+<Fiche ID="F16876">Changement du nom du titulaire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-3">
+<Titre>Modifications du véhicule</Titre>
+<Fiche ID="F1754">Carte grise d'un véhicule retiré de la circulation</Fiche>
+<Fiche ID="F1473">Véhicule accidenté</Fiche>
+<Fiche ID="F1478">Véhicule transformé</Fiche>
+<Fiche ID="F1468">Véhicule à détruire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-4">
+<Titre>Plaques d'immatriculation</Titre>
+<Fiche ID="F20319">Plaques d'immatriculation</Fiche>
+<Fiche ID="F18679">Vol ou usurpation de plaques d'immatriculation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>La carte grise barrée ne vous permet généralement pas de voyager à l'étranger avec votre véhicule. Elle vous permet de demander une nouvelle carte à votre nom.</Paragraphe>
+<Paragraphe>Cependant, si vous avez acheté un véhicule en France pour l'exporter et l'immatriculer dans un autre pays, vérifiez auprès de l'ambassade ou du consulat que ce pays vous permet de circuler avec cette carte.</Paragraphe><OuSAdresser ID="R2884" type="Local personnalisable">
+<Titre>Ambassade ou consulat étranger en France</Titre>
+<PivotLocal>ambassade_etranger_france</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-ministere/ambassades-et-consulats-etrangers/"/>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</OuSAdresser>
+
+
+</Texte>
+</Publication>

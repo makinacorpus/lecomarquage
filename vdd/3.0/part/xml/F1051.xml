@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1051" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Certificat de nationalité française (CNF)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Le certificat de nationalité française (CNF) est un document officiel qui sert à prouver la nationalité française. Il peut notamment être demandé lors d'une 1ère demande de titre d'identité sécurisé (carte d'identité ou passeport) ou pour une candidature dans la fonction publique.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-30</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1051</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006420768&amp;idSectionTA=LEGISCTA000006149969&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000018922434&amp;cidTexte=LEGITEXT000006071164, https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024999871&amp;cidTexte=LEGITEXT000006071164&amp;categorieLien=id</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N365</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N365">Certificat, copie, légalisation et conservation de documents</Niveau>
+<Niveau ID="F1051" type="Fiche d'information">Certificat de nationalité française (CNF)</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N365">
+<Titre>Certificat, copie, légalisation et conservation de documents</Titre>
+<Fiche ID="F1359">Autorisation de sortie du territoire (AST)</Fiche>
+<Fiche ID="F1051">Certificat de nationalité française (CNF)</Fiche>
+<Fiche ID="F1412">Copie certifiée conforme</Fiche>
+<Fiche ID="F1400">Légalisation de documents français</Fiche>
+<Fiche ID="F1402">Légalisation de documents d'origine étrangère</Fiche>
+<Fiche ID="F1411">Légalisation de signature</Fiche>
+<Fiche ID="F19134">Papiers à conserver</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le certificat de nationalité française (CNF) est un document officiel qui sert à prouver la nationalité française.		 
+			Il peut notamment être demandé lors d'une 1ère demande de titre d'identité sécurisé (carte d'identité ou passeport) ou pour une candidature  dans la fonction publique.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Lieu du dépôt</Paragraphe>
+</Titre><Paragraphe>Le lieu dépend du lieu de naissance et du domicile.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Vous habitez en France</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Au tribunal d'instance du domicile.</Paragraphe><OuSAdresser ID="R197" type="Local personnalisable">
+<Titre>Tribunal d'instance compétent en matière de nationalité</Titre>
+<PivotLocal>ti_nationalite</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/tribunaux-competents-en-matiere-de-nationalite-10110/"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R41916" type="National">
+<Titre>Pôle de la nationalité de Paris</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Adresse</Paragraphe>
+</Titre>
+								<Paragraphe>30 rue du Château des Rentiers</Paragraphe>
+								<Paragraphe>75013 Paris</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>01 44 32 92 90 ou 01 44 32 92 92</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Courrier électronique</Paragraphe>
+</Titre>
+								<Paragraphe>pole-natio.ti-paris01[@]justice.fr</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous habitez à l'étranger</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes né en France</Paragraphe>
+</Titre><Paragraphe>Au tribunal d'instance du lieu de naissance.</Paragraphe><OuSAdresser ID="R197" type="Local personnalisable">
+<Titre>Tribunal d'instance compétent en matière de nationalité</Titre>
+<PivotLocal>ti_nationalite</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/tribunaux-competents-en-matiere-de-nationalite-10110/"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes né à l'étranger</Paragraphe>
+</Titre><OuSAdresser ID="R886" type="Centre de contact">
+<Titre>Service de la nationalité des Français nés et établis hors de France</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>30 rue du Château des Rentiers
+		</Paragraphe>
+								<Paragraphe>
+			75647 Paris Cedex 13
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>01 44 32 92 62</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par télécopie</Paragraphe>
+</Titre>
+								<Paragraphe>01 44 32 92 81</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Modalités de dépôt</Paragraphe>
+</Titre><Paragraphe>Vous devez présenter la demande personnellement.</Paragraphe>
+<Paragraphe>Vous pouvez aussi présenter la demande pour une personne sous tutelle si vous êtes son tuteur.</Paragraphe>
+<Paragraphe>Une personne sous curatelle peut présenter sa demande elle-même.</Paragraphe>
+<Paragraphe>Le mineur de moins de 16 ans doit être représenté par un parent.</Paragraphe>
+<Paragraphe>Dans tous les cas, si vous ne pouvez pas vous déplacer, vous pouvez effectuer la demande par correspondance dans certains tribunaux, renseignez-vous au préalable.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Cette liste est indicative.</MiseEnEvidence> Des pièces supplémentaires peuvent être demandées pour prouver la nationalité.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes né en France, d'1 ou de 2 parent(s) né(s) en France</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe> 1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance avec indication de votre filiation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de naissance de chacun de vos parents,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes né en France, d'1 ou de 2 parent(s) français et né(s) à l'étranger</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe> 1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance avec indication de votre filiation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de naissance de chacun de vos parents,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tous documents concernant vos parents justifiant de la possession d'état de Français (carte nationale d'identité, passeport, carte d'immatriculation consulaire, certificat de nationalité, livret militaire, carte d'électeur...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes né à l'étranger et l'un de vos parents est français</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance avec indication de votre filiation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de naissance de chacun de vos parents,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tous documents concernant vos parents justifiant de la possession d'état de Français (carte nationale d'identité, passeport, carte d'immatriculation consulaire, certificat de nationalité, livret militaire, carte d'électeur...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes devenu français(e) par naturalisation</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> une preuve de votre naturalisation :  <LienIntra LienID="R1079" type="Définition de glossaire">l'ampliation</LienIntra> du décret ou l'exemplaire du Journal officiel où le décret de naturalisation a été publié ou l'attestation délivrée par le ministère chargé des naturalisations (sauf mention du décret sur l'acte de naissance),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes devenu français(e) par mariage</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la copie de votre <LienInterne LienPublication="F2726" type="Fiche d'information" audience="Particuliers">déclaration de nationalité</LienInterne> portant mention de son enregistrement par le ministre compétent (sauf mention de la déclaration sur l'acte de naissance),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes devenu français(e) avant 18 ans car un de vos parents est devenu français</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance avec indication de votre filiation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de naissance du parent qui vous a permis de devenir Français,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Une preuve de l'acquisition de la nationalité française par le parent concerné :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienIntra LienID="R1079" type="Définition de glossaire">l'ampliation</LienIntra> du décret ou de l'exemplaire du Journal officiel où le décret de naturalisation a été publié ou de l'attestation délivrée par le ministère chargé des naturalisations</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la copie de la <LienInterne LienPublication="F2726" type="Fiche d'information" audience="Particuliers">déclaration de nationalité</LienInterne> portant mention de son enregistrement par le ministre compétent.</Paragraphe>
+</Item>
+</Liste>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes devenu français(e) à votre majorité par naissance et résidence en France pendant 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tous documents indiquant que vous avez résidé en France pendant 5 ans de 11 et 18 ans ou de 13 à 18 ans ou de 16 à 21 ans (certificats de scolarité, contrats d'apprentissage, attestations de stage, certificats de travail...),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes devenu français(e) par déclaration (autre cas)</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>1 photo d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 justificatif de domicile (facture récente d'électricité, contrat de location, avis d'imposition...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de votre acte de naissance</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la copie de votre <LienInterne LienPublication="F2726" type="Fiche d'information" audience="Particuliers">déclaration de nationalité</LienInterne> portant mention de son enregistrement par le ministre compétent (sauf mention de la déclaration sur l'acte de naissance)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>1 copie intégrale de l'acte de mariage de vos parents ou s'ils ne sont pas mariés 1 copie intégrale de l'acte de reconnaissance prouvant votre filiation.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'acte de naissance doit être récent, car un acte ancien ne permet pas de vérifier un éventuel changement de nationalité (jugement d'extranéité, renonciation à la nationalité française...).</Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délivrance du certificat</Paragraphe>
+</Titre><Paragraphe>Le certificat est délivré par le greffier en chef du tribunal.</Paragraphe>
+<Paragraphe>La délivrance est gratuite.</Paragraphe>
+<Paragraphe>Avant de vous déplacer, vous pouvez consulter la carte du ministère de la justice afin de savoir si votre tribunal est compétent pour vous délivrer le certificat.</Paragraphe><OuSAdresser ID="R197" type="Local personnalisable">
+<Titre>Tribunal d'instance compétent en matière de nationalité</Titre>
+<PivotLocal>ti_nationalite</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/tribunaux-competents-en-matiere-de-nationalite-10110/"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Le certificat n'a pas de limite de validité.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En cas de rejet de la demande</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Recours gracieux</Paragraphe>
+</Titre><Paragraphe>En cas de rejet, vous pouvez saisir par écrit le ministère de la justice.</Paragraphe>
+<Paragraphe>Il n'y a pas de délai particulier pour ce recours.</Paragraphe>
+<Paragraphe>La copie de la décision de refus doit être jointe au recours.</Paragraphe><OuSAdresser ID="R196" type="National">
+<Titre>Bureau de la nationalité - Ministère de la justice</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_168982"/>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Recours contentieux</Paragraphe>
+</Titre><Paragraphe>Vous pouvez également saisir le tribunal de grande instance  compétent. Renseignez-vous auprès du tribunal d'instance qui a refusé de vous délivrer le certificat.</Paragraphe><OuSAdresser ID="R197" type="Local personnalisable">
+<Titre>Tribunal d'instance compétent en matière de nationalité</Titre>
+<PivotLocal>ti_nationalite</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/tribunaux-competents-en-matiere-de-nationalite-10110/"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous devez être obligatoirement représenté par un avocat.</Paragraphe>
+<Paragraphe>Il n'existe pas non plus de délai spécifique de saisine.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006420768&amp;idSectionTA=LEGISCTA000006149969&amp;cidTexte=LEGITEXT000006070721" ID="R752">
+<Titre>Code civil : articles 31 à 31-3</Titre>
+<Complement>Délivrance du certificat de nationalité française</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000018922434&amp;cidTexte=LEGITEXT000006071164" ID="R19656">
+<Titre>Code de l'organisation judiciaire : article R221-52</Titre>
+<Complement>Tribunaux d'instance compétents</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024999871&amp;cidTexte=LEGITEXT000006071164&amp;categorieLien=id" ID="R45118">
+<Titre>Code de l'organisation judiciaire : annexe tableau VIII</Titre>
+<Complement>Tribunaux de grande instance compétents</Complement>
+</Reference>
+<Definition ID="R1079">
+<Titre>Ampliation</Titre>
+<Texte>
+				<Paragraphe>Copie d'un acte officiel qui a la même valeur que l'original</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F3068" audience="Particuliers">Dans quels cas un enfant est-il Français ?</QuestionReponse>
+<QuestionReponse ID="F334" audience="Particuliers">Peut-on avoir plusieurs nationalités ?</QuestionReponse>
+<QuestionReponse ID="F18713" audience="Particuliers">Carte d'identité / Passeport : comment prouver sa nationalité française ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2880" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels véhicules sont dispensés de contrôle technique ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Les voitures sans permis, les 2 roues, les tracteurs ....</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2880</dc:identifier>
+<dc:source>http://www.legifrance.org/affichCode.do?idArticle=LEGIARTI000006841815&amp;idSectionTA=LEGISCTA000006177100&amp;cidTexte=LEGITEXT000006074228, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020559004, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000021211848</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31200</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N31200">Contrôle technique</Niveau>
+<Niveau ID="F2880" type="Fiche Question-réponse">Quels véhicules sont dispensés de contrôle technique ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N31200">
+<Titre>Contrôle technique</Titre>
+<Fiche ID="F2878">Voiture particulière</Fiche>
+<Fiche ID="F33353">Camionnette</Fiche>
+<Fiche ID="F33354">Camping-car</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le contrôle technique est obligatoire pour la plupart des véhicules particuliers ou utilitaires mais d'autres catégories en sont dispensés.</Paragraphe>
+<Paragraphe>Certains véhicules entrant dans la catégorie des véhicules particuliers ne sont pas soumis au contrôle technique. Il s'agit des :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>voitures sans permis,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>motos, 2 roues et 3 roues,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>caravanes, remorques,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tracteurs,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>voitures immatriculées dans les services diplomatiques ou assimilés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>voitures immatriculées dans les séries FFECSA (Forces françaises et éléments civils stationnés en Allemagne).</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<Complement>Pour obtenir des informations complémentaires (sauf à Paris)</Complement>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<Complement>Pour obtenir des informations complémentaires à Paris</Complement>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.org/affichCode.do?idArticle=LEGIARTI000006841815&amp;idSectionTA=LEGISCTA000006177100&amp;cidTexte=LEGITEXT000006074228" ID="R34610">
+<Titre>Code de la route : articles R323-1 à R323-5</Titre>
+<Complement>Contrôle technique</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020559004" ID="R11460">
+<Titre>Arrêté du 18 juin 1991 relatif au contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000021211848" ID="R13019">
+<Titre>Arrêté du 14 octobre 2009 relatif aux visites techniques des véhicules de collection</Titre>
+</Reference>
+
+</Publication>

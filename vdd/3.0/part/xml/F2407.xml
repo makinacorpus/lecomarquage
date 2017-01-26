@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2407" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dans quels cas l'achat d'un bien immobilier est-il soumis à la TVA ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le paiement de la dépend de la nature de la transaction immobilière.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2407</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179644&amp;cidTexte=LEGITEXT000006069577, https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006309470&amp;idSectionTA=LEGISCTA000006191854&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23245</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="F2407" type="Fiche Question-réponse">Dans quels cas l'achat d'un bien immobilier est-il soumis à la TVA ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N23245">
+<Titre>Achat ou vente d'un logement</Titre><SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre>
+<Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre>
+<Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Achat entre particuliers</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Terrain à bâtir</Paragraphe>
+</Titre><Paragraphe>Pas de TVA</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Logement neuf (construit depuis moins de 5 ans)</Paragraphe>
+</Titre><Paragraphe>Pas de TVA </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Logement ancien (construit depuis plus de 5 ans)</Paragraphe>
+</Titre><Paragraphe>Pas de TVA</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Terrain à bâtir</Paragraphe>
+</Titre><Paragraphe>Pas de TVA</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Achat auprès d'un professionnel</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Terrain à bâtir</Paragraphe>
+</Titre><Paragraphe>TVA à <Valeur>20 %</Valeur> due par le vendeur</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Logement neuf (construit depuis moins de 5 ans)</Paragraphe>
+</Titre><Paragraphe>TVA à <Valeur>20 %</Valeur> due par le vendeur</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Logement ancien (construit depuis plus de 5 ans)</Paragraphe>
+</Titre><Paragraphe>Pas de TVA</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F23567" audience="Professionnels">
+<Titre>Application des différents taux de TVA</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179644&amp;cidTexte=LEGITEXT000006069577" ID="R35019">
+<Titre>Code général des impôts : articles 256 à 256A</Titre>
+<Complement>Opérations imposables</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006309470&amp;idSectionTA=LEGISCTA000006191854&amp;cidTexte=LEGITEXT000006069577" ID="R35020">
+<Titre>Code général des impôts : article 278</Titre>
+<Complement>Taux normal</Complement>
+</Reference>
+<ServiceEnLigne ID="R16181" URL="https://www.immobilier.notaires.fr/fr/frais-de-notaire" type="Simulateur">
+<Titre>Calculer le montant des frais d'acquisition d'un bien immobilier</Titre>
+<Source ID="R30632">Notaires de France</Source>
+</ServiceEnLigne>
+<CommentFaireSi ID="F15913">J'achète un logement</CommentFaireSi>
+</Publication>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14466" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Programme pour l'installation des jeunes en agriculture et de développement des initiatives locales - Aide Pidil</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Aide réservée à la transmission d'exploitation accordée aux candidats au cours des cinq premières années de leur installation (contrat de parrainage, aide au remplacement, soutien technique aux jeunes agriculteurs, aides à l'investissement). Remplace le cerfa n°10136*01.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14466</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16153">Financement de la création ou reprise d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14466" type="Formulaire">Programme pour l'installation des jeunes en agriculture et de développement des initiatives locales - Aide Pidil</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13706*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Aide réservée à la transmission d'exploitation accordée aux candidats au cours des cinq premières années de leur installation (contrat de parrainage, aide au remplacement, soutien technique aux jeunes agriculteurs, aides à l'investissement). Remplace le cerfa n°10136*01.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13706.do" format="application/pdf" poids="86.3 KB">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb>
+<FicheLiee ID="F22366" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Aide à l'installation des jeunes agriculteurs</Titre>
+<Dossier ID="N16153">Financement de la création ou reprise d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23670" audience="Professionnels" type="Fiche d'information">
+<Titre>Transmission d'une exploitation agricole</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee><OuSAdresser ID="R16439" type="Local personnalisé sur SP">
+<Titre>Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF)</Titre>
+<PivotLocal>draf</PivotLocal>
+<RessourceWeb URL="http://agriculture.gouv.fr/services-deconcentres"/>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</OuSAdresser>
+<OuSAdresser ID="R35" type="Local personnalisé sur SP">
+<Titre>Chambre d'agriculture</Titre>
+<PivotLocal>chambre_agriculture</PivotLocal>
+<RessourceWeb URL="http://www.chambres-agriculture.fr/chambres-dagriculture/nous-connaitre/lannuaire-des-chambres-dagriculture/"/>
+<Source ID="R30771">Assemblée permanente des chambres d'agriculture (APCA)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

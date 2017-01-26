@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F548" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Séparation : comment obtenir l'annulation de la garantie du co-emprunteur ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Si un couple co-emprunteur d'un prêt (immobilier ou consommation) se sépare, obtenir l'annulation de la garantie du co-emprunteur est possible.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-28</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F548</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B84A191E8E60D7A366D2DAF0F4654189.tpdila18v_1?idSectionTA=LEGISCTA000032031314&amp;cidTexte=LEGITEXT000006070721&amp;dateTexte=20161019, https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B84A191E8E60D7A366D2DAF0F4654189.tpdila18v_1?idSectionTA=LEGISCTA000032035285&amp;cidTexte=LEGITEXT000006070721&amp;dateTexte=20161019</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20373</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="F548" type="Fiche Question-réponse">Séparation : comment obtenir l'annulation de la garantie du co-emprunteur ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere><DossierPere ID="N20373">
+<Titre>Crédit immobilier</Titre><SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre>
+<Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre>
+<Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>En cas de séparation d'un couple qui était co-emprunteur d'un <LienInterne LienPublication="N20373" type="Dossier" audience="Particuliers">prêt immobilier</LienInterne>, d'un <LienInterne LienPublication="N96" type="Dossier" audience="Particuliers">prêt à la consommation</LienInterne>  ou d'un prêt hypothécaire, il est possible d'obtenir l'annulation de la garantie d'un co-emprunteur.</Paragraphe>
+<Paragraphe>Pour cela, il faut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit obtenir de la banque l'acceptation de la désolidarisation (ou renonciation à la garantie apportée par le co-emprunteur),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit rembourser l'emprunt par anticipation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit présenter comme garant une nouvelle personne (le prêteur doit cependant accepter cette nouvelle caution),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit que l'autre emprunteur propose une garantie supplémentaire au prêteur (<LienInterne LienPublication="F789" type="Fiche d'information" audience="Particuliers">hypothèque</LienInterne>, <LienInterne LienPublication="F16124" type="Fiche Question-réponse" audience="Particuliers">caution</LienInterne>).</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B84A191E8E60D7A366D2DAF0F4654189.tpdila18v_1?idSectionTA=LEGISCTA000032031314&amp;cidTexte=LEGITEXT000006070721&amp;dateTexte=20161019" ID="R1686">
+<Titre>Code civil : articles 1313 à 1318</Titre>
+<Complement>Solidarité de la part des débiteurs</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B84A191E8E60D7A366D2DAF0F4654189.tpdila18v_1?idSectionTA=LEGISCTA000032035285&amp;cidTexte=LEGITEXT000006070721&amp;dateTexte=20161019" ID="R23587">
+<Titre>Code civil : articles 1346 à 1346-5</Titre>
+<Complement>Paiement avec subrogation</Complement>
+</Reference>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F16124" audience="Particuliers">Peut-on me réclamer une caution bancaire pour un prêt ?</QuestionReponse>
+<QuestionReponse ID="F785" audience="Particuliers">Qu'est-ce qu'une hypothèque judiciaire conservatoire ?</QuestionReponse>
+<QuestionReponse ID="F787" audience="Particuliers">Peut-on faire lever une hypothèque ?</QuestionReponse>
+<QuestionReponse ID="F788" audience="Particuliers">Que devient l'hypothèque quand le prêt est remboursé ?</QuestionReponse>
+</Publication>

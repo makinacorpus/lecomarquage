@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17455" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'activité, modification ou radiation en ligne pour les professions libérales, les artistes auteurs et les vendeurs à domicile</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation, Secteurs d'activité</dc:subject>
+<dc:description>Déclaration d'activité, modification ou radiation en ligne pour les professions libérales, les artistes auteurs et les vendeurs à domicile - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-07</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17455</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17455" type="Téléservice">Déclaration d'activité, modification ou radiation en ligne pour les professions libérales, les artistes auteurs et les vendeurs à domicile</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13231*01</NumeroCerfa>
+<Texte><Paragraphe>Permet d'effectuer en ligne les déclarations suivantes auprès de l'Urssaf :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déclaration d'activité, modification de situation (notamment transfert du siège social ou changement d'adresse) ou d'activité pour une profession libérale ou assimilée (liasse papier P2PL),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>radiation ou cessation définitive d'activité (ou déclaration de décès) pour une profession libérale ou assimilée (liasse papier P4PL),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration d'activité, modification de situation pour un artiste auteur, un taxi-locataire ou un vendeur à domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>radiation ou cessation définitive d'activité pour un artiste auteur, un taxi-locataire ou un vendeur à domicile.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://www.cfe.urssaf.fr/saisiepl/">
+<Source>Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</LienWeb>
+<FicheLiee ID="F22388" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'activité d'un artiste-auteur</Titre>
+<Dossier ID="N31351">Artistes plasticiens</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23458" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'activité pour les professions libérales</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23744" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'une cessation d'activité</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31479" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration de transfert du siège social d'une entreprise</Titre>
+<Dossier ID="N31143">Modification d'une entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F21907" audience="Professionnels" type="Fiche d'information">
+<Titre>Devenir chauffeur de taxi</Titre>
+<Dossier ID="N19470">Automobile-Moto</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23962" audience="Professionnels" type="Fiche d'information">
+<Titre>Vendeur à domicile</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

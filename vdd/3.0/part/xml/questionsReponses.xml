@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="questionsReponses" type="Liste - Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Questions-Réponses</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Accueil Questions-Réponses</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-05</dc:date>
+<dc:type>Liste - Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>accueil</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau type="vosQuestions">Vos questions</Niveau>
+<Niveau ID="questionsReponses" type="Liste - Question-réponse">Questions</Niveau>
+</FilDAriane>
+<Groupe>
+<Titre>Achat ou vente d'un logement</Titre><QuestionReponse ID="F16832" audience="Particuliers">Immobilier : comment connaître le prix au m² d'un logement ou d'un terrain ?</QuestionReponse>
+<QuestionReponse ID="F17759" audience="Particuliers">Comment obtenir des renseignements immobiliers ?</QuestionReponse>
+<QuestionReponse ID="F1550" audience="Particuliers">Peut-on faire appel à plusieurs agences immobilières pour vendre son logement ?</QuestionReponse>
+<QuestionReponse ID="F2954" audience="Particuliers">Vente immobilière : quelles obligations doit respecter un agent immobilier ?</QuestionReponse>
+<QuestionReponse ID="F10798" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de vente ?</QuestionReponse>
+<QuestionReponse ID="F17376" audience="Particuliers">Où trouver un professionnel certifié pour réaliser les diagnostics immobiliers ?</QuestionReponse>
+<QuestionReponse ID="F19069" audience="Particuliers">Peut-on revendre son logement avant d'avoir remboursé le crédit ?</QuestionReponse>
+<QuestionReponse ID="F2407" audience="Particuliers">Dans quels cas l'achat d'un bien immobilier est-il soumis à la TVA ?</QuestionReponse>
+<QuestionReponse ID="F2762" audience="Particuliers">Comment fonctionne une vente ou un achat en viager ?</QuestionReponse>
+<QuestionReponse ID="F2618" audience="Particuliers">Que faire lorsque l'on a perdu son acte de propriété ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Adoption</Titre><QuestionReponse ID="F1383" audience="Particuliers">Adoption : comment faire une demande d'agrément ?</QuestionReponse>
+<QuestionReponse ID="F784" audience="Particuliers">Peut-on contester le refus d'agrément en vue d'une adoption ?</QuestionReponse>
+<QuestionReponse ID="F15246" audience="Particuliers">Adoption simple et l'adoption plénière : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F2973" audience="Particuliers">Peut-on adopter un adulte ?</QuestionReponse>
+<QuestionReponse ID="F935" audience="Particuliers">Comment adopter un enfant à l'étranger ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Allocations logement</Titre><QuestionReponse ID="F31864" audience="Particuliers">Quelles sont les différences entre les allocations logement ?</QuestionReponse>
+<QuestionReponse ID="F1563" audience="Particuliers">Un étudiant peut-il prétendre à une aide au logement ?</QuestionReponse>
+<QuestionReponse ID="F32037" audience="Particuliers">Les allocations logement sont-elles maintenues en cas de loyers impayés ?</QuestionReponse>
+<QuestionReponse ID="F32384" audience="Particuliers">Peut-on toucher des allocations logement si le bien appartient à sa famille ?</QuestionReponse>
+<QuestionReponse ID="F33173" audience="Particuliers">Qu'est-ce que l'aide mobili-jeune ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Animaux</Titre><QuestionReponse ID="F17603" audience="Particuliers">Est-il obligatoire d'assurer son animal domestique ?</QuestionReponse>
+<QuestionReponse ID="F1838" audience="Particuliers">La détention d'un chien dangereux est-elle interdite à certaines personnes ?</QuestionReponse>
+<QuestionReponse ID="F31855" audience="Particuliers">Faut-il une autorisation pour détenir un "nouvel animal de compagnie" (NAC) ?</QuestionReponse>
+<QuestionReponse ID="F24028" audience="Particuliers">Que faire en cas de morsure par un animal ?</QuestionReponse>
+<QuestionReponse ID="F24029" audience="Particuliers">Que faire si vous avez perdu un animal de compagnie ?</QuestionReponse>
+<QuestionReponse ID="F31859" audience="Particuliers">Quelles sont les sanctions en cas de maltraitance sur un animal ?</QuestionReponse>
+<QuestionReponse ID="F32338" audience="Particuliers">Que faire si vous trouvez un animal errant ?</QuestionReponse>
+<QuestionReponse ID="F33426" audience="Particuliers">Que faire lorsque son animal de compagnie est mort ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Assistante maternelle</Titre><QuestionReponse ID="F798" audience="Particuliers">Comment demander l'agrément pour être assistante maternelle ?</QuestionReponse>
+<QuestionReponse ID="F466" audience="Particuliers">Quelles démarches pour l'accueil en maison d'assistantes maternelles ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Assurance auto</Titre><QuestionReponse ID="F23420" audience="Particuliers">Quelle assurance pour la location occasionnelle d'un véhicule ?</QuestionReponse>
+<QuestionReponse ID="F23499" audience="Particuliers">Un véhicule doit-il être assuré même s'il n'est pas utilisé ?</QuestionReponse>
+<QuestionReponse ID="F2632" audience="Particuliers">Quelle assurance en cas de prêt d'un véhicule entre particuliers ?</QuestionReponse>
+<QuestionReponse ID="F2635" audience="Particuliers">Est-on assuré quand on utilise son véhicule personnel à titre professionnel ?</QuestionReponse>
+<QuestionReponse ID="F2660" audience="Particuliers">Que faire si les assurances refusent d'assurer un véhicule ?</QuestionReponse>
+<QuestionReponse ID="F2662" audience="Particuliers">Quelle assurance auto pour la conduite accompagnée?</QuestionReponse>
+<QuestionReponse ID="F2694" audience="Particuliers">Mon assurance auto couvre-t-elle un voyage à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F2697" audience="Particuliers">Doit-on s'assurer lorsqu'on circule à vélo ?</QuestionReponse>
+<QuestionReponse ID="F31329" audience="Particuliers">Dois-je assurer moi-même un véhicule en leasing ?</QuestionReponse>
+<QuestionReponse ID="F31403" audience="Particuliers">Quelle assurance pour pratiquer le covoiturage ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Assurance habitation</Titre><QuestionReponse ID="F3077" audience="Particuliers">Assurance habitation : comment déclarer un sinistre ?</QuestionReponse>
+<QuestionReponse ID="F31459" audience="Particuliers">L'assureur peut-il résilier mon contrat assurance habitation après un sinistre ?</QuestionReponse>
+<QuestionReponse ID="F32582" audience="Particuliers">Mon assurance peut-elle me sanctionner si je n'ai pas de détecteur de fumée ?</QuestionReponse>
+<QuestionReponse ID="F769" audience="Particuliers">Cambriolage : comment être indemnisé par l'assurance ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Carte d'identité</Titre><QuestionReponse ID="F11601" audience="Particuliers">Est-on obligé d'avoir une carte d'identité ?</QuestionReponse>
+<QuestionReponse ID="F10619" audience="Particuliers">Quelles photos sont admises pour une demande de titre d'identité ?</QuestionReponse>
+<QuestionReponse ID="F16872" audience="Particuliers">Peut-on obtenir une carte d'identité en urgence ?</QuestionReponse>
+<QuestionReponse ID="F21224" audience="Particuliers">Doit-on remplacer sa carte d'identité après un déménagement ?</QuestionReponse>
+<QuestionReponse ID="F1887" audience="Particuliers">Comment remplacer une carte d'identité abîmée ?</QuestionReponse>
+<QuestionReponse ID="F556" audience="Particuliers">La présence au guichet est-elle obligatoire ?</QuestionReponse>
+<QuestionReponse ID="F32303" audience="Particuliers">Peut-on voyager avec une carte d'identité de plus de 10 ans ?</QuestionReponse>
+<QuestionReponse ID="F33250" audience="Particuliers">Comment faire figurer le nom de son mari ou de sa femme sur ses papiers ?</QuestionReponse>
+<QuestionReponse ID="F11603" audience="Particuliers">Comment savoir si un titre d'identité est sécurisé ?</QuestionReponse>
+<QuestionReponse ID="F10774" audience="Particuliers">Que faire si tous mes papiers ont été volés en même temps ?</QuestionReponse>
+<QuestionReponse ID="F31421" audience="Particuliers">Que faire en cas de perte de tous ses papiers en même temps ?</QuestionReponse>
+<QuestionReponse ID="F18704" audience="Particuliers">Que faire si je retrouve une pièce d'identité déclarée perdue ou volée ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Carte grise</Titre><QuestionReponse ID="F11475" audience="Particuliers">Dans quel délai reçoit-on sa carte grise (ou l'étiquette de nouvelle adresse) ?</QuestionReponse>
+<QuestionReponse ID="F16536" audience="Particuliers">Peut-on choisir l'adresse qui figurera sur la carte grise ?</QuestionReponse>
+<QuestionReponse ID="F20324" audience="Particuliers">Un professionnel automobile peut-il se charger d'une demande de carte grise ?</QuestionReponse>
+<QuestionReponse ID="F12004" audience="Particuliers">Carte grise et certificat de cession : le nom et l'adresse doivent-ils concorder ?</QuestionReponse>
+<QuestionReponse ID="F2794" audience="Particuliers">Contrôle routier : quels documents le conducteur doit-il présenter ?</QuestionReponse>
+<QuestionReponse ID="F21103" audience="Particuliers">Comment faire une procuration pour obtenir sa carte grise ?</QuestionReponse>
+<QuestionReponse ID="F15774" audience="Particuliers">Que faire si la vente est annulée alors que la carte grise a été barrée ?</QuestionReponse>
+<QuestionReponse ID="F21112" audience="Particuliers">Faut-il immatriculer une caravane ou une remorque ?</QuestionReponse>
+<QuestionReponse ID="F21814" audience="Particuliers">Comment immatriculer un ancien 2 roues sans certificat de conformité ?</QuestionReponse>
+<QuestionReponse ID="F33425" audience="Particuliers">Véhicule en leasing : que faire en cas de déménagement, mariage ou divorce ?</QuestionReponse>
+<QuestionReponse ID="F32233" audience="Particuliers">Carte grise : que faire si vous rachetez le véhicule avant la fin du leasing ?</QuestionReponse>
+<QuestionReponse ID="F116" audience="Particuliers">Peut-on voyager à l'étranger avec une carte grise barrée ?</QuestionReponse>
+<QuestionReponse ID="F20992" audience="Particuliers">Quelles formalités accomplir avant d'immatriculer un véhicule acheté à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F10519" audience="Particuliers">Un étranger qui s'installe en France doit-il y faire immatriculer son véhicule ?</QuestionReponse>
+<QuestionReponse ID="F1925" audience="Particuliers">Comment obtenir une carte grise "véhicule de collection" ?</QuestionReponse>
+<QuestionReponse ID="F33536" audience="Particuliers">Comment obtenir la carte grise d'un véhicule en LLD (location longue durée) ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Chômage</Titre><QuestionReponse ID="F2064" audience="Particuliers">Allocations chômage : comment est calculé le salaire journalier de référence ?</QuestionReponse>
+<QuestionReponse ID="F13942" audience="Particuliers">Reprise d'activité : quelles sont les aides versées par Pôle emploi ?</QuestionReponse>
+<QuestionReponse ID="F31197" audience="Particuliers">Les allocations chômage peuvent-elles être réduites ou supprimées ?</QuestionReponse>
+<QuestionReponse ID="F31592" audience="Particuliers">Comment sont remboursées les allocations chômage ou solidarité perçues à tort ?</QuestionReponse>
+<QuestionReponse ID="F15293" audience="Particuliers">L'époux d'un demandeur d'emploi décédé bénéficie-t-il d'un capital décès ?</QuestionReponse>
+<QuestionReponse ID="F12386" audience="Particuliers">Comment est indemnisé un agent public en cas de chômage ?</QuestionReponse>
+<QuestionReponse ID="F3088" audience="Particuliers">Un demandeur d'emploi peut-il bénéficier d'un bilan de compétences ?</QuestionReponse>
+<QuestionReponse ID="F2761" audience="Particuliers">Médiateur de Pôle emploi : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F33775" audience="Particuliers">Retour en France : quel droit aux allocations chômage ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Collège et lycée</Titre><QuestionReponse ID="F199" audience="Particuliers">Quels sont les niveaux de qualification et à quoi correspondent-ils ?</QuestionReponse>
+<QuestionReponse ID="F1872" audience="Particuliers">Comment bénéficier des transports en commun scolaires ?</QuestionReponse>
+<QuestionReponse ID="F21057" audience="Particuliers">Quelles sont les sanctions ou punitions applicables au collège ou au lycée ?</QuestionReponse>
+
+<QuestionReponse ID="F32844" audience="Particuliers">Un élève qui déménage doit-il changer de collège ou de lycée ?</QuestionReponse>
+<QuestionReponse ID="F32709" audience="Particuliers">Peut-on entrer en apprentissage après la classe de troisième ?</QuestionReponse>
+<QuestionReponse ID="F32777" audience="Particuliers">Que faire si un élève n'a pas de lycée d'affectation après sa troisième ?</QuestionReponse>
+<QuestionReponse ID="F33876" audience="Particuliers">Établissement scolaire privé "hors contrat" : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F32778" audience="Particuliers">Lycée : peut-on changer de voie ou de spécialité ?</QuestionReponse>
+<QuestionReponse ID="F1897" audience="Particuliers">Médiateur de l'éducation nationale : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F229" audience="Particuliers">Que peut faire un jeune de moins de 16 ans en décrochage scolaire ?</QuestionReponse>
+<QuestionReponse ID="F32846" audience="Particuliers">Que peut faire un jeune de plus de 16 ans déscolarisé et sans emploi ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Compte bancaire et moyens de paiement</Titre><QuestionReponse ID="F848" audience="Particuliers">Comment une banque doit-elle faire connaître ses tarifs à ses clients ?</QuestionReponse>
+<QuestionReponse ID="F31241" audience="Particuliers">Que faire en cas de vol ou de perte de sa carte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F31240" audience="Particuliers">Peut-on récupérer une carte bancaire restée dans le distributeur de billets ?</QuestionReponse>
+<QuestionReponse ID="F1930" audience="Particuliers">Comment régulariser un chèque sans provision ?</QuestionReponse>
+<QuestionReponse ID="F1424" audience="Particuliers">Quelle est la différence entre virement et prélévement bancaire ?</QuestionReponse>
+<QuestionReponse ID="F24415" audience="Particuliers">Carte de retrait ou carte bancaire : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F1474" audience="Particuliers">Comment établir une procuration pour un compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F1451" audience="Particuliers">Que devient un compte bancaire en cas de décès ?</QuestionReponse>
+<QuestionReponse ID="F21035" audience="Particuliers">Un mineur peut-il avoir un compte bancaire ou un livret d'épargne ?</QuestionReponse>
+<QuestionReponse ID="F20523" audience="Particuliers">Médiateur bancaire : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F17519" audience="Particuliers">Dans quels pays peut-on payer en euros ?</QuestionReponse>
+<QuestionReponse ID="F460" audience="Particuliers">Peut-on encore échanger des francs contre des euros ?</QuestionReponse>
+<QuestionReponse ID="F33881" audience="Particuliers">Qu'est-ce que le service d'aide à la mobilité bancaire ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Contrôle technique (véhicule)</Titre><QuestionReponse ID="F16540" audience="Particuliers">Peut-on vendre un véhicule d'occasion sans contrôle technique ?</QuestionReponse>
+<QuestionReponse ID="F16760" audience="Particuliers">Peut-on faire le contrôle technique sans le certificat d'immatriculation ?</QuestionReponse>
+<QuestionReponse ID="F21029" audience="Particuliers">Que faire en cas de perte du procès verbal de contrôle technique ?</QuestionReponse>
+<QuestionReponse ID="F16539" audience="Particuliers">Quelle est la valeur d'un contrôle technique effectué à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F2880" audience="Particuliers">Quels véhicules sont dispensés de contrôle technique ?</QuestionReponse>
+<QuestionReponse ID="F328" audience="Particuliers">Quelles sont les règles du contrôle technique d'un véhicule de collection ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Copropriété</Titre><QuestionReponse ID="F2127" audience="Particuliers">Comment se procurer la copie d'un règlement de copropriété ?</QuestionReponse>
+<QuestionReponse ID="F11384" audience="Particuliers">Qui peut assister aux réunions du conseil syndical d'une copropriété ?</QuestionReponse>
+<QuestionReponse ID="F1548" audience="Particuliers">Comment changer de syndic de copropriété en fin de mandat ?</QuestionReponse>
+<QuestionReponse ID="F31671" audience="Particuliers">Peut-on changer de syndic en cours de mandat ?</QuestionReponse>
+<QuestionReponse ID="F31644" audience="Particuliers">Peut-on créer un syndicat secondaire dans un groupe d'immeubles en copropriété ?</QuestionReponse>
+<QuestionReponse ID="F32051" audience="Particuliers">Quelles sont les règles de rémunération du syndic professionnel?</QuestionReponse>
+<QuestionReponse ID="F896" audience="Particuliers">Le syndic peut-il imposer une avance de trésorerie aux copropriétaires ?</QuestionReponse>
+<QuestionReponse ID="F31672" audience="Particuliers"> Que deviennent les documents de copropriété en cas de changement de syndic ?</QuestionReponse>
+<QuestionReponse ID="F31531" audience="Particuliers">Qui est prioritaire pour acheter un bien dans un immeuble en copropriété ?</QuestionReponse>
+<QuestionReponse ID="F32061" audience="Particuliers">Que doit préciser l'annonce de vente d'un appartement en copropriété ?</QuestionReponse>
+<QuestionReponse ID="F32920" audience="Particuliers">Qui doit payer les charges l'année de la vente d'un bien en copropriété?</QuestionReponse>
+<QuestionReponse ID="F32912" audience="Particuliers">Quelles informations trouve-t-on dans le bilan énergétique d'une copropriété ?</QuestionReponse>
+<QuestionReponse ID="F2122" audience="Particuliers">Les frais du personnel d'entretien font-ils partie des charges locatives ?</QuestionReponse>
+<QuestionReponse ID="F1107" audience="Particuliers">Pour quels travaux doit-on solliciter l'autorisation de la copropriété ?</QuestionReponse>
+<QuestionReponse ID="F640" audience="Particuliers">À quelle fréquence doit être réalisé le ravalement de façade d'un immeuble ?</QuestionReponse>
+<QuestionReponse ID="F3107" audience="Particuliers">Peut-on changer l'affectation d'un lot de copropriété ?</QuestionReponse>
+<QuestionReponse ID="F31537" audience="Particuliers">Travaux d'accessibilité dans son logement : faut-il l'accord de la copropriété ?</QuestionReponse>
+<QuestionReponse ID="F33877" audience="Particuliers">Qu'est-ce que le règlement intérieur d'une copropriété ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Crédit immobilier</Titre><QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F16124" audience="Particuliers">Peut-on me réclamer une caution bancaire pour un prêt ?</QuestionReponse>
+<QuestionReponse ID="F1673" audience="Particuliers">Que devient la vente si le prêt immobilier est refusé ?</QuestionReponse>
+<QuestionReponse ID="F1701" audience="Particuliers">Que devient le prêt immobilier quand la vente est annulée ?</QuestionReponse>
+<QuestionReponse ID="F1269" audience="Particuliers">Le PTZ est-il réservé exclusivement à l'achat de sa résidence principale ?</QuestionReponse>
+<QuestionReponse ID="F1529" audience="Particuliers">Peut-on bénéficier du PTZ si on est déjà propriétaire d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F31126" audience="Particuliers">Le PTZ peut-il financer l'acquisition d'un logement social ?</QuestionReponse>
+<QuestionReponse ID="F113" audience="Particuliers">Peut-on bénéficier plusieurs fois d'un prêt à taux zéro (PTZ) ?</QuestionReponse>
+<QuestionReponse ID="F1275" audience="Particuliers">Peut-on louer son logement acheté avec un PTZ ou un PAS ?</QuestionReponse>
+<QuestionReponse ID="F22110" audience="Particuliers">Que devient le PTZ en cas de revente du logement ?</QuestionReponse>
+<QuestionReponse ID="F1670" audience="Particuliers">Difficultés de remboursement du crédit immobilier : quelles conséquences ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Déchets</Titre><QuestionReponse ID="F31960" audience="Particuliers">Le maire peut-il imposer l'achat de bacs à poubelle spécifiques ?</QuestionReponse>
+<QuestionReponse ID="F31963" audience="Particuliers">Peut-on être sanctionné pour abandon de déchets dans la rue ?</QuestionReponse>
+<QuestionReponse ID="F31858" audience="Particuliers">Peut-on faire brûler ses déchets verts dans son jardin ?</QuestionReponse>
+<QuestionReponse ID="F33298" audience="Particuliers">Dans quels cas le débroussaillage est-il obligatoire ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Diplômes</Titre><QuestionReponse ID="F10492" audience="Particuliers">Comment obtenir la copie d'un diplôme ?</QuestionReponse>
+<QuestionReponse ID="F23487" audience="Particuliers">Peut-on passer un examen de l'Éducation nationale en candidat libre ?</QuestionReponse>
+<QuestionReponse ID="F33169" audience="Particuliers">Comment consulter une copie d'examen ?</QuestionReponse>
+<QuestionReponse ID="F22331" audience="Particuliers">Peut-on contester la note obtenue à un examen de l'Éducation nationale ?</QuestionReponse>
+<QuestionReponse ID="F15984" audience="Particuliers">Quels titres et diplômes sont reconnus comme étant à finalité professionnelle ?</QuestionReponse>
+<QuestionReponse ID="F15112" audience="Particuliers">Comment sont aménagés les examens pour un candidat en situation de handicap ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Divorce</Titre><QuestionReponse ID="F10623" audience="Particuliers">Divorce et séparation de corps : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F12561" audience="Particuliers">Peut-on changer de type de divorce pendant le déroulement de la procédure ?</QuestionReponse>
+<QuestionReponse ID="F903" audience="Particuliers">Comment s'effectue le partage des biens après divorce ?</QuestionReponse>
+<QuestionReponse ID="F2730" audience="Particuliers">Peut-on revenir sur le partage des biens résultant d'un divorce ?</QuestionReponse>
+<QuestionReponse ID="F11301" audience="Particuliers">Comment faire constater l'abandon du domicile conjugal par un époux ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Donation, succession</Titre><QuestionReponse ID="F2767" audience="Particuliers">Comment faire une donation entre époux ?</QuestionReponse>
+<QuestionReponse ID="F1265" audience="Particuliers">Quelles sont les démarches fiscales à effectuer en cas de don manuel ?</QuestionReponse>
+<QuestionReponse ID="F14203" audience="Particuliers">Quels abattements et tarifs s'appliquent aux bénéficiaires d'une donation ?</QuestionReponse>
+<QuestionReponse ID="F1725" audience="Particuliers">Quels sont les droits de l'époux survivant sur son logement ?</QuestionReponse>
+<QuestionReponse ID="F2529" audience="Particuliers">Quelles sont les règles pour hériter ?</QuestionReponse>
+<QuestionReponse ID="F322" audience="Particuliers">L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?</QuestionReponse>
+<QuestionReponse ID="F17701" audience="Particuliers">Qu'appelle-t-on les frais de notaire ?</QuestionReponse>
+<QuestionReponse ID="F795" audience="Particuliers">Quels sont les tarifs des notaires en matière de succession ?</QuestionReponse>
+<QuestionReponse ID="F12697" audience="Particuliers">Comment prouver sa qualité d'héritier (attestation, acte de notoriété) ?</QuestionReponse>
+<QuestionReponse ID="F1295" audience="Particuliers">Le recours à un notaire est-il obligatoire dans le cadre d'une succession ?</QuestionReponse>
+<QuestionReponse ID="F16190" audience="Particuliers">Les héritiers peuvent-ils désigner un mandataire pour gérer la succession ?</QuestionReponse>
+<QuestionReponse ID="F33076" audience="Particuliers">Usufruit, nue propriété, pleine propriété : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F905" audience="Particuliers">Comment se règle une succession quand l'héritier est un enfant mineur ?</QuestionReponse>
+<QuestionReponse ID="F130" audience="Particuliers">Peut-on désigner une personne pour s'occuper de son enfant après son décès ?</QuestionReponse>
+<QuestionReponse ID="F16251" audience="Particuliers">Peut-on renoncer par avance à une partie de ses droits successoraux ?</QuestionReponse>
+<QuestionReponse ID="F16271" audience="Particuliers">Peut-on désigner une personne pour gérer sa future succession ?</QuestionReponse>
+<QuestionReponse ID="F606" audience="Particuliers">Peut-on déshériter ses enfants au profit de ses petits-enfants ?</QuestionReponse>
+<QuestionReponse ID="F418" audience="Particuliers">Quel contrôle le fisc peut-il exercer sur une déclaration de succession ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>École primaire</Titre><QuestionReponse ID="F10720" audience="Particuliers">Un enfant qui déménage dans une nouvelle commune doit-il changer d'école ?</QuestionReponse>
+<QuestionReponse ID="F10722" audience="Particuliers">Un enfant peut-il changer d'école en cours d'année ?</QuestionReponse>
+<QuestionReponse ID="F20583" audience="Particuliers">Faut-il fournir un certificat médical à l'école si l'enfant a été malade ?</QuestionReponse>
+<QuestionReponse ID="F21842" audience="Particuliers">Peut-on donner à un élève du primaire des devoirs à faire à la maison ?</QuestionReponse>
+<QuestionReponse ID="F31952" audience="Particuliers">Quel est le calendrier des vacances scolaires 2016 - 2017 - 2018 ?</QuestionReponse>
+<QuestionReponse ID="F598" audience="Particuliers">Peut-on inscrire son enfant dans l'école primaire publique d'une autre commune ?</QuestionReponse>
+<QuestionReponse ID="F767" audience="Particuliers">Faut-il faire vacciner son enfant pour l'inscrire en collectivité ?</QuestionReponse>
+<QuestionReponse ID="F1410" audience="Particuliers">Primaire et secondaire : comment s'effectue le passage du privé au public ?</QuestionReponse>
+<QuestionReponse ID="F33876" audience="Particuliers">Établissement scolaire privé "hors contrat" : quelles sont les règles ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Élections</Titre><QuestionReponse ID="F11257" audience="Particuliers">Peut-on voter par internet pour les élections politiques ?</QuestionReponse>
+<QuestionReponse ID="F1361" audience="Particuliers">Quelle pièce d'identité peut-on présenter pour voter ?</QuestionReponse>
+<QuestionReponse ID="F15748" audience="Particuliers">Peut-on voter sans avoir signalé son déménagement ?</QuestionReponse>
+<QuestionReponse ID="F1939" audience="Particuliers">Quelles sont les dates des prochaines élections ?</QuestionReponse>
+<QuestionReponse ID="F1963" audience="Particuliers">Comment consulter les listes électorales ?</QuestionReponse>
+<QuestionReponse ID="F32888" audience="Particuliers">Un électeur peut-il demander sa radiation des listes électorales ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Enfant</Titre><QuestionReponse ID="F31217" audience="Particuliers">En quoi la déclaration de naissance est-elle différente d'une reconnaissance ?</QuestionReponse>
+<QuestionReponse ID="F15392" audience="Particuliers">Comment prouver qu'on est le père ou la mère d'un enfant ?</QuestionReponse>
+<QuestionReponse ID="F10428" audience="Particuliers">Peut-on reconnaître un enfant dont on n'est pas le père ?</QuestionReponse>
+<QuestionReponse ID="F15417" audience="Particuliers">La paternité peut-elle être établie par une action en justice ?</QuestionReponse>
+<QuestionReponse ID="F2009" audience="Particuliers">Un enfant est-il obligé d'aider ses parents dans le besoin ?</QuestionReponse>
+<QuestionReponse ID="F21571" audience="Particuliers">Un enfant est-il responsable des dettes de ses parents ?</QuestionReponse>
+<QuestionReponse ID="F820" audience="Particuliers">Les parents doivent-il payer les dettes de leur enfant majeur ?</QuestionReponse>
+<QuestionReponse ID="F32114" audience="Particuliers">Comment empêcher mon enfant mineur de partir seul à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F2236" audience="Particuliers">Pension alimentaire, prestation compensatoire : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F1728" audience="Particuliers">Qui peut percevoir une pension alimentaire ?</QuestionReponse>
+<QuestionReponse ID="F10416" audience="Particuliers">Peut-on réviser la pension d'un débiteur si ses ressources augmentent ?</QuestionReponse>
+<QuestionReponse ID="F10435" audience="Particuliers">Doit-on encore verser une pension alimentaire à un enfant devenu majeur ?</QuestionReponse>
+<QuestionReponse ID="F10508" audience="Particuliers">Peut-on verser directement la pension alimentaire à son enfant devenu majeur ?</QuestionReponse>
+<QuestionReponse ID="F1249" audience="Particuliers">Que faire si la pension alimentaire n'est pas payée ?</QuestionReponse>
+<QuestionReponse ID="F1285" audience="Particuliers">Un parent peut-il avoir un droit de visite sans exercer l'autorité parentale ?</QuestionReponse>
+<QuestionReponse ID="F1329" audience="Particuliers">Comment bénéficier de la résidence alternée pour un enfant ?</QuestionReponse>
+<QuestionReponse ID="F11389" audience="Particuliers">Un parent séparé peut-il déménager librement ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Épargne salariale</Titre><QuestionReponse ID="F12400" audience="Particuliers">Peut-on transférer les sommes d'un plan d'épargne salariale à un autre ?</QuestionReponse>
+<QuestionReponse ID="F31622" audience="Particuliers">Dans quels cas peut-on demander le déblocage anticipé de l'épargne salariale ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Étudiant</Titre><QuestionReponse ID="F32456" audience="Particuliers">Quelles aides peut percevoir un étudiant ?</QuestionReponse>
+<QuestionReponse ID="F18291" audience="Particuliers">Un étudiant peut-il cumuler la bourse avec un emploi ou une autre aide ?</QuestionReponse>
+<QuestionReponse ID="F16040" audience="Particuliers">Un étudiant qui prépare un concours enseignant peut-il percevoir une aide ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Étrangers en France</Titre><QuestionReponse ID="F12219" audience="Particuliers">Un Européen peut-il travailler dans la fonction publique française ?</QuestionReponse>
+<QuestionReponse ID="F13519" audience="Particuliers">Un étudiant européen peut-il travailler en France ?</QuestionReponse>
+<QuestionReponse ID="F1765" audience="Particuliers">Quelles sont les conditions d'entrée et de circulation dans l'espace Schengen ?</QuestionReponse>
+<QuestionReponse ID="F12189" audience="Particuliers">Comment revenir en France après être sorti de l'espace Schengen ?</QuestionReponse>
+<QuestionReponse ID="F10610" audience="Particuliers">Voyage en outre-mer : de quel visa a besoin un étranger ?</QuestionReponse>
+<QuestionReponse ID="F18141" audience="Particuliers">Combien coûte un visa pour entrer en France ?</QuestionReponse>
+<QuestionReponse ID="F21920" audience="Particuliers">Un enfant étranger a-t-il besoin d'un visa pour entrer en France ?</QuestionReponse>
+<QuestionReponse ID="F21921" audience="Particuliers">Un étranger peut-il séjourner en France sans visa ?</QuestionReponse>
+<QuestionReponse ID="F1375" audience="Particuliers">Peut-on s'installer en France avec un permis de séjour délivré dans l'Union européenne ?</QuestionReponse>
+<QuestionReponse ID="F1453" audience="Particuliers">Un étranger peut-il vivre ailleurs en Europe avec un titre de séjour français ?</QuestionReponse>
+<QuestionReponse ID="F15889" audience="Particuliers">Étranger en France : quel titre de séjour posséder pour rester plus de 3 mois ?</QuestionReponse>
+<QuestionReponse ID="F1764" audience="Particuliers">L'époux non européen d'un Français peut-il séjourner en France ?</QuestionReponse>
+<QuestionReponse ID="F2687" audience="Particuliers">Un mineur étranger non européen doit-il avoir une carte de séjour ? </QuestionReponse>
+<QuestionReponse ID="F17146" audience="Particuliers">Qu'est-ce que l'admission au séjour pour motif humanitaire ou exceptionnel ?</QuestionReponse>
+<QuestionReponse ID="F17164" audience="Particuliers">Quelle est la procédure pour le séjour de l'étranger malade ?</QuestionReponse>
+<QuestionReponse ID="F21032" audience="Particuliers">Que doit faire l'étranger non-européen en cas de perte de sa carte de séjour ?</QuestionReponse>
+<QuestionReponse ID="F22312" audience="Particuliers">Que doit faire un étranger non-européen en cas de vol de sa carte de séjour ?</QuestionReponse>
+<QuestionReponse ID="F31208" audience="Particuliers">Contrôle des papiers d'un étranger : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F2713" audience="Particuliers">Un étudiant étranger peut-il travailler durant ses études ?</QuestionReponse>
+<QuestionReponse ID="F17450" audience="Particuliers">Un salarié étranger qui s'installe en France doit-il connaître le français ?</QuestionReponse>
+<QuestionReponse ID="F2736" audience="Particuliers">Un mineur étranger peut-il travailler en France ?</QuestionReponse>
+<QuestionReponse ID="F11168" audience="Particuliers">Le regroupement familial concerne-t-il toutes les familles étrangères ?</QuestionReponse>
+<QuestionReponse ID="F299" audience="Particuliers">Statut de réfugié, protection subsidiaire ou temporaire : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F33314" audience="Particuliers">En quoi consiste l'allocation pour demandeur d'asile (Ada) ?</QuestionReponse>
+<QuestionReponse ID="F3067" audience="Particuliers">Peut-on faire une nouvelle demande d'asile après un refus ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Factures d'eau, électricité, gaz</Titre><QuestionReponse ID="F33667" audience="Particuliers">Qu'est-ce que le chèque énergie ?</QuestionReponse>
+<QuestionReponse ID="F20055" audience="Particuliers">Impayés de factures (eau, électricité ou gaz) : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F389" audience="Particuliers">Que faire en cas d'augmentation anormale de sa facture d'eau ?</QuestionReponse>
+<QuestionReponse ID="F664" audience="Particuliers">Comment obtenir des informations sur la qualité de l'eau ?</QuestionReponse>
+<QuestionReponse ID="F20762" audience="Particuliers">Médiateur de l'eau : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F18116" audience="Particuliers">Peut-on changer de fournisseur de gaz ou d'électricité ?</QuestionReponse>
+<QuestionReponse ID="F20820" audience="Particuliers">Médiateur national de l'énergie : comment y recourir ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Français à l'étranger</Titre><QuestionReponse ID="F2169" audience="Particuliers">Comment s'assurer lors de vacances à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1358" audience="Particuliers">Comment obtenir un visa pour voyager à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F14872" audience="Particuliers">Avec quels documents un Français peut-il se rendre en Algérie ?</QuestionReponse>
+<QuestionReponse ID="F14873" audience="Particuliers">Avec quel document d'identité un Français peut-il se rendre au Maroc ?</QuestionReponse>
+<QuestionReponse ID="F14876" audience="Particuliers">Avec quels documents un Français peut-il se rendre en Tunisie ?</QuestionReponse>
+<QuestionReponse ID="F16538" audience="Particuliers">Avec quel document d'identité un Français peut-il se rendre en Suisse ?</QuestionReponse>
+<QuestionReponse ID="F1922" audience="Particuliers">Avec quels documents un mineur français peut-il voyager à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1661" audience="Particuliers">Comment chercher une offre d'emploi à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1668" audience="Particuliers">Quels sont les emplois proposés par les organisations internationales ?</QuestionReponse>
+<QuestionReponse ID="F1683" audience="Particuliers">Quels sont les emplois proposés par les institutions françaises à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1512" audience="Particuliers">Comment se défendre en cas d'arrestation à l'étranger ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Impôt sur le revenu</Titre><QuestionReponse ID="F357" audience="Particuliers">Qui est imposable sur le revenu ?</QuestionReponse>
+<QuestionReponse ID="F1419" audience="Particuliers">Quel est le barème de l'impôt sur le revenu ?</QuestionReponse>
+<QuestionReponse ID="F62" audience="Particuliers">Comment déterminer son domicile fiscal ?</QuestionReponse>
+<QuestionReponse ID="F359" audience="Particuliers">Quelle est la date limite pour faire sa déclaration de revenus ?</QuestionReponse>
+<QuestionReponse ID="F383" audience="Particuliers">Comment indiquer aux Impôts un changement d'adresse ?</QuestionReponse>
+<QuestionReponse ID="F155" audience="Particuliers">Peut-on consulter son dossier fiscal et obtenir une copie de ses déclarations ?</QuestionReponse>
+<QuestionReponse ID="F2617" audience="Particuliers">Les heures supplémentaires sont-elles imposées sur le revenu ?</QuestionReponse>
+<QuestionReponse ID="F11249" audience="Particuliers">Comment est imposé le salaire d'un apprenti ?</QuestionReponse>
+<QuestionReponse ID="F1234" audience="Particuliers">Comment un assistant maternel doit-il déclarer ses revenus ?</QuestionReponse>
+<QuestionReponse ID="F1245" audience="Particuliers">Faut-il déclarer les rémunérations reçues lors d'une formation professionnelle ?</QuestionReponse>
+<QuestionReponse ID="F22414" audience="Particuliers">Faut-il déclarer aux impôts les revenus d'un contrat d'assurance-vie ?</QuestionReponse>
+<QuestionReponse ID="F487" audience="Particuliers">Faut-il déclarer aux Impôts les sommes liées à l'épargne salariale ?</QuestionReponse>
+<QuestionReponse ID="F22449" audience="Particuliers">Faut-il déclarer aux impôts les revenus d'un plan d'épargne en actions (PEA) ?</QuestionReponse>
+<QuestionReponse ID="F23382" audience="Particuliers">Faut-il déclarer aux Impôts les cadeaux offerts par l'employeur ?</QuestionReponse>
+<QuestionReponse ID="F3153" audience="Particuliers">Impôt sur le revenu : doit-on déclarer les prestations sociales et familiales ?</QuestionReponse>
+<QuestionReponse ID="F31725" audience="Particuliers">Faut-il déclarer aux Impôts les revenus d'une activité extra-professionnelle ?</QuestionReponse>
+<QuestionReponse ID="F362" audience="Particuliers">Comment un couple vivant en union libre doit-il déclarer ses revenus ?</QuestionReponse>
+<QuestionReponse ID="F23468" audience="Particuliers">Qu'est-ce qu'un enfant à charge au sens de l'administration fiscale ?</QuestionReponse>
+<QuestionReponse ID="F3152" audience="Particuliers">Les indemnités pour arrêt de travail sont-elles imposées sur le revenu ?</QuestionReponse>
+<QuestionReponse ID="F410" audience="Particuliers">Les allocations de chômage et de préretraite sont-elles imposées sur le revenu ?</QuestionReponse>
+<QuestionReponse ID="F476" audience="Particuliers">Quel quotient familial retenir en cas de divorce ou de séparation dans l'année ?</QuestionReponse>
+<QuestionReponse ID="F33890" audience="Particuliers">Quand doit-on payer ses impôts ?</QuestionReponse>
+<QuestionReponse ID="F33885" audience="Particuliers">Comment corriger sa déclaration de revenus ?</QuestionReponse>
+<QuestionReponse ID="F632" audience="Particuliers">Peut-on consulter la déclaration de revenus d'autrui ?</QuestionReponse>
+<QuestionReponse ID="F417" audience="Particuliers">Dans quel délai un supplément d'impôt sur le revenu peut-il être réclamé ?</QuestionReponse>
+<QuestionReponse ID="F1059" audience="Particuliers">Doit-on déclarer aux impôts un prêt d'argent entre particuliers ?</QuestionReponse>
+<QuestionReponse ID="F33879" audience="Particuliers">Faut-il déclarer aux impôts les revenus du covoiturage ?</QuestionReponse>
+<QuestionReponse ID="F1064" audience="Particuliers">Quel est le délai de réclamation en matière d'impôts ?</QuestionReponse>
+<QuestionReponse ID="F103" audience="Particuliers">Médiateur des ministères économiques et financiers : comment y recourir ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Impôts locaux</Titre><QuestionReponse ID="F752" audience="Particuliers">Qu'est-ce que la résidence principale pour les Impôts ?</QuestionReponse>
+<QuestionReponse ID="F1065" audience="Particuliers">Un locataire d'un logement meublé doit-il payer la taxe d'habitation ?</QuestionReponse>
+<QuestionReponse ID="F1309" audience="Particuliers">Qui paye la taxe d'habitation en cas de colocation ?</QuestionReponse>
+<QuestionReponse ID="F2448" audience="Particuliers">Doit-on payer la taxe d'habitation en cas de déménagement de son locataire ? </QuestionReponse>
+<QuestionReponse ID="F274" audience="Particuliers">Un étudiant est-il soumis à la taxe d'habitation ?</QuestionReponse>
+<QuestionReponse ID="F2799" audience="Particuliers">Les impôts locaux augmentent-ils en cas d'ajout de construction (piscine...) ?</QuestionReponse>
+<QuestionReponse ID="F84" audience="Particuliers">Doit-on déclarer l'achat d'une télévision aux Impôts ?</QuestionReponse>
+<QuestionReponse ID="F33890" audience="Particuliers">Quand doit-on payer ses impôts ?</QuestionReponse>
+<QuestionReponse ID="F31686" audience="Particuliers">Comment payer ses impôts locaux ?</QuestionReponse>
+<QuestionReponse ID="F155" audience="Particuliers">Peut-on consulter son dossier fiscal et obtenir une copie de ses déclarations ?</QuestionReponse>
+<QuestionReponse ID="F1064" audience="Particuliers">Quel est le délai de réclamation en matière d'impôts ?</QuestionReponse>
+<QuestionReponse ID="F103" audience="Particuliers">Médiateur des ministères économiques et financiers : comment y recourir ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Infractions routières</Titre><QuestionReponse ID="F31551" audience="Particuliers">Permis de conduire : quel est le barème des points retirés par infraction ?</QuestionReponse>
+<QuestionReponse ID="F11863" audience="Particuliers">Peut-on perdre tous les points de son permis de conduire en une seule fois ?</QuestionReponse>
+<QuestionReponse ID="F33513" audience="Particuliers">Peut-on fumer en voiture ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Justice</Titre><QuestionReponse ID="F15018" audience="Particuliers">Combien coûte un avocat ?</QuestionReponse>
+<QuestionReponse ID="F20706" audience="Particuliers">Comment consulter gratuitement un avocat ?</QuestionReponse>
+<QuestionReponse ID="F14724" audience="Particuliers">Comment régler un litige avec un avocat ?</QuestionReponse>
+<QuestionReponse ID="F14725" audience="Particuliers">Comment régler un litige avec un notaire ?</QuestionReponse>
+<QuestionReponse ID="F14728" audience="Particuliers">Comment régler un litige avec un huissier de justice ?</QuestionReponse>
+<QuestionReponse ID="F15006" audience="Particuliers">Un avocat peut-il exiger de l'argent d'un bénéficiaire d'aide juridictionnelle ?</QuestionReponse>
+<QuestionReponse ID="F932" audience="Particuliers">Un avocat peut-il prendre un pourcentage sur l'argent gagné grâce à un procès ?</QuestionReponse>
+<QuestionReponse ID="F1044" audience="Particuliers">Peut-on refuser d'être juré à une cour d'assises ?</QuestionReponse>
+<QuestionReponse ID="F17783" audience="Particuliers">Quelles sont les indemnités dues aux jurés d'assises ?</QuestionReponse>
+<QuestionReponse ID="F3167" audience="Particuliers">Peut-on obtenir une copie d'un acte établi par un notaire ?</QuestionReponse>
+<QuestionReponse ID="F1379" audience="Particuliers">Comment obtenir la copie d'un jugement ?</QuestionReponse>
+<QuestionReponse ID="F11182" audience="Particuliers">Qu'est-ce qu'une main courante et quelle différence avec une plainte ?</QuestionReponse>
+<QuestionReponse ID="F1567" audience="Particuliers">Comment un mineur peut-il porter plainte ?</QuestionReponse>
+<QuestionReponse ID="F1154" audience="Particuliers">Le procureur est-il tenu d'engager des poursuites à la suite d'une plainte ?</QuestionReponse>
+<QuestionReponse ID="F16862" audience="Particuliers">Peut-on retirer une plainte et quelles en sont les conséquences ?</QuestionReponse>
+<QuestionReponse ID="F1454" audience="Particuliers">Procès pénal : qu'est-ce qu'une partie civile ?</QuestionReponse>
+<QuestionReponse ID="F1766" audience="Particuliers">Qu'est-ce que la légitime défense?</QuestionReponse>
+<QuestionReponse ID="F1807" audience="Particuliers">Qu'est-ce qu'un témoin assisté ?</QuestionReponse>
+<QuestionReponse ID="F20789" audience="Particuliers">Que faire si on est victime d'une infraction ?</QuestionReponse>
+<QuestionReponse ID="F2807" audience="Particuliers">Peut-on refuser une convocation par la police ou la gendarmerie ?</QuestionReponse>
+<QuestionReponse ID="F31982" audience="Particuliers">Justice pénale : quels délais de prescription ?</QuestionReponse>
+<QuestionReponse ID="F32124" audience="Particuliers">Qu'est-ce qu'une audition libre ?</QuestionReponse>
+<QuestionReponse ID="F32129" audience="Particuliers">Qu'est-ce qu'une comparution immédiate ?</QuestionReponse>
+<QuestionReponse ID="F1837" audience="Particuliers">Quelles mesures et sanctions pénales sont appliquées aux mineurs ?</QuestionReponse>
+<QuestionReponse ID="F1157" audience="Particuliers">Quelles sont les différences entre une contravention, un délit et un crime ?</QuestionReponse>
+<QuestionReponse ID="F21613" audience="Particuliers">Peut-on dissimuler son visage dans un lieu public ?</QuestionReponse>
+<QuestionReponse ID="F19448" audience="Particuliers">Que faire en cas de discrimination ?</QuestionReponse>
+<QuestionReponse ID="F32247" audience="Particuliers">Que faire en cas de harcèlement ?</QuestionReponse>
+<QuestionReponse ID="F1521" audience="Particuliers">Que risque-t-on si on part sans payer d'un restaurant ou d'une station-service ?</QuestionReponse>
+<QuestionReponse ID="F21138" audience="Particuliers">Que faire en cas de vol du véhicule ?</QuestionReponse>
+<QuestionReponse ID="F31612" audience="Particuliers">Que risque-t-on en cas de faux et d'usage de faux ?</QuestionReponse>
+<QuestionReponse ID="F33023" audience="Particuliers">Que risque-t-on en cas de recel de vol ?</QuestionReponse>
+<QuestionReponse ID="F33322" audience="Particuliers">Que risque-t-on en cas d'outrage à agent ?</QuestionReponse>
+<QuestionReponse ID="F31802" audience="Particuliers">Comment faire pour qu'une condamnation ne figure pas sur le casier judiciaire ?</QuestionReponse>
+<QuestionReponse ID="F780" audience="Particuliers">Qu'est-ce qu'une grâce présidentielle ?</QuestionReponse>
+<QuestionReponse ID="F32584" audience="Particuliers">Comment un détenu est-il suivi après sa sortie de prison ?</QuestionReponse>
+<QuestionReponse ID="F13286" audience="Particuliers">Peut-on être indemnisé pour détention ou assignation à résidence injustifiée ?</QuestionReponse>
+<QuestionReponse ID="F174" audience="Particuliers">Victime de l'amiante : comment être indemnisé ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Location immobilière</Titre><QuestionReponse ID="F31290" audience="Particuliers">Logement social ou logement privé : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F1165" audience="Particuliers">Location meublée ou location vide : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F2315" audience="Particuliers">Meublé touristique ou meublé d'habitation : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F31912" audience="Particuliers">Comment demander un logement étudiant ?</QuestionReponse>
+<QuestionReponse ID="F10696" audience="Particuliers">Les frais d'état des lieux peuvent-ils être mis à la charge du locataire ?</QuestionReponse>
+<QuestionReponse ID="F1159" audience="Particuliers">Qui a la qualité de locataire dans un couple marié ?</QuestionReponse>
+<QuestionReponse ID="F1219" audience="Particuliers">Quel est le régime d'une location soumise à la loi de 1948 ?</QuestionReponse>
+<QuestionReponse ID="F1220" audience="Particuliers">Un mineur peut-il signer un bail d'habitation ?</QuestionReponse>
+<QuestionReponse ID="F14747" audience="Particuliers">Quelles sont les règles de location d'un garage (box ou emplacement) ?</QuestionReponse>
+<QuestionReponse ID="F1614" audience="Particuliers">Un propriétaire peut-il louer un logement vide pour moins de 3 ans ?</QuestionReponse>
+<QuestionReponse ID="F1703" audience="Particuliers">Peut-on se rétracter après avoir signé un bail d'habitation ?</QuestionReponse>
+<QuestionReponse ID="F2562" audience="Particuliers">Qui a la qualité de locataire en cas de concubinage ?</QuestionReponse>
+<QuestionReponse ID="F2565" audience="Particuliers">Qui a la qualité de locataire dans un couple pacsé ?</QuestionReponse>
+<QuestionReponse ID="F2693" audience="Particuliers">Un contrat de location peut-il interdire les animaux dans le logement ?</QuestionReponse>
+<QuestionReponse ID="F31629" audience="Particuliers">Le dépôt de garantie peut-il servir à payer le dernier mois de loyer ?</QuestionReponse>
+<QuestionReponse ID="F12244" audience="Particuliers">Un propriétaire peut-il garder un double des clés de son locataire ?</QuestionReponse>
+<QuestionReponse ID="F1857" audience="Particuliers">Le locataire doit-il accorder un droit de visite à son propriétaire ?</QuestionReponse>
+<QuestionReponse ID="F1008" audience="Particuliers">Que faire en cas de difficultés pour payer son loyer ?</QuestionReponse>
+<QuestionReponse ID="F1314" audience="Particuliers">En quoi consiste l'encadrement des loyers ?</QuestionReponse>
+<QuestionReponse ID="F2889" audience="Particuliers">Le bailleur peut-il appliquer des frais en cas de retard de paiement du loyer ?</QuestionReponse>
+<QuestionReponse ID="F479" audience="Particuliers">Quel est le délai de prescription d'une dette locative (charges et loyer) ?</QuestionReponse>
+<QuestionReponse ID="F2103" audience="Particuliers">Les dégradations causées par un cambriolage incombent-elles au locataire ?</QuestionReponse>
+<QuestionReponse ID="F21105" audience="Particuliers">Qui est responsable des dégradations d'un logement en cours de location ?</QuestionReponse>
+<QuestionReponse ID="F31559" audience="Particuliers">Un locataire peut-il quitter son logement sans préavis ?</QuestionReponse>
+<QuestionReponse ID="F31631" audience="Particuliers">Peut-on envoyer un préavis par mail dans le cadre d'une location ?</QuestionReponse>
+<QuestionReponse ID="F32001" audience="Particuliers">Un propriétaire peut-il vendre un logement occupé par un locataire ?</QuestionReponse>
+<QuestionReponse ID="F32360" audience="Particuliers">Comment calculer le délai de préavis en cas de congé donné par un locataire ?</QuestionReponse>
+<QuestionReponse ID="F2044" audience="Particuliers">Un colocataire reste-t-il solidaire du loyer après avoir donné congé ?</QuestionReponse>
+<QuestionReponse ID="F32563" audience="Particuliers">À quelle température doit être chauffé un logement ?</QuestionReponse>
+<QuestionReponse ID="F31522" audience="Particuliers">Le propriétaire est-il responsable des nuisances causées par son locataire ?</QuestionReponse>
+<QuestionReponse ID="F31527" audience="Particuliers">Peut-on accrocher librement des objets à ses fenêtres ?</QuestionReponse>
+<QuestionReponse ID="F33463" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de location ?</QuestionReponse>
+<QuestionReponse ID="F17376" audience="Particuliers">Où trouver un professionnel certifié pour réaliser les diagnostics immobiliers ?</QuestionReponse>
+<QuestionReponse ID="F31301" audience="Particuliers">Quelles sont les voies de recours dans un litige locatif ?</QuestionReponse>
+<QuestionReponse ID="F32973" audience="Particuliers">Quel tarif s'applique en cas de recours à un huissier dans un litige locatif ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Mariage</Titre><QuestionReponse ID="F802" audience="Particuliers">Peut-on se marier avec un membre de sa famille ?</QuestionReponse>
+<QuestionReponse ID="F1248" audience="Particuliers">Comment sont choisis les témoins d'un mariage ?</QuestionReponse>
+<QuestionReponse ID="F2558" audience="Particuliers">Deux étrangers vivant à l'étranger peuvent-ils se marier en France ?</QuestionReponse>
+<QuestionReponse ID="F31474" audience="Particuliers">La mairie peut-elle refuser un dossier de mariage ?</QuestionReponse>
+<QuestionReponse ID="F31476" audience="Particuliers">Un maire peut-il refuser de célébrer lui-même un mariage ?</QuestionReponse>
+<QuestionReponse ID="F1535" audience="Particuliers">Changement de régime matrimonial : quelle est la procédure ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Nom et prénom</Titre><QuestionReponse ID="F10555" audience="Particuliers">Quel nom de famille pour un enfant en cas de désaccord entre les parents ?</QuestionReponse>
+<QuestionReponse ID="F77" audience="Particuliers">Une femme mariée peut-elle garder son nom de famille (ou "nom de jeune fille") ?</QuestionReponse>
+<QuestionReponse ID="F1091" audience="Particuliers">Après un divorce, peut-on conserver le nom de son ex-époux(se) ? </QuestionReponse>
+<QuestionReponse ID="F12521" audience="Particuliers">Peut-on continuer d'utiliser le nom de son époux(se) décédé(e) ?</QuestionReponse>
+<QuestionReponse ID="F10528" audience="Particuliers">Peut-on franciser son nom et son prénom en devenant Français ?</QuestionReponse>
+<QuestionReponse ID="F1811" audience="Particuliers">Comment modifier son état civil à la suite d'un changement de nom par décret ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Obsèques et modes de sépulture</Titre><QuestionReponse ID="F17059" audience="Particuliers">Qui doit payer les funérailles ?</QuestionReponse>
+<QuestionReponse ID="F12695" audience="Particuliers">Que faire en cas de désaccord sur l'organisation des funérailles ?</QuestionReponse>
+<QuestionReponse ID="F911" audience="Particuliers">Que faire en cas de décès d'un proche à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1114" audience="Particuliers">Peut-on enterrer une personne en dehors d'un cimetière ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Particulier employeur</Titre><QuestionReponse ID="F12384" audience="Particuliers">Emploi à domicile : peut-on être exonéré des cotisations sociales ?</QuestionReponse>
+<QuestionReponse ID="F13889" audience="Particuliers">Le particulier employeur doit-il s'occuper du suivi médical de son salarié ?</QuestionReponse>
+<QuestionReponse ID="F1849" audience="Particuliers">Quelles obligations s'imposent au particulier lors de l'embauche d'un étranger ?</QuestionReponse>
+<QuestionReponse ID="F13244" audience="Particuliers">Quelles sont les activités de service à la personne et comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F1252" audience="Particuliers">Peut-on recevoir une aide de l'employeur pour payer un service à la personne ?</QuestionReponse>
+<QuestionReponse ID="F13977" audience="Particuliers">Que peut faire l'employeur si son salarié à domicile casse un objet ?</QuestionReponse>
+<QuestionReponse ID="F13607" audience="Particuliers">Quelle est la différence entre Cesu déclaratif et Cesu préfinancé ?</QuestionReponse>
+<QuestionReponse ID="F2912" audience="Particuliers">Particulier employeur : comment adhérer au Cesu déclaratif ?</QuestionReponse>
+<QuestionReponse ID="F2107" audience="Particuliers">Particulier employeur : comment rémunérer son salarié avec un Cesu préfinancé ?</QuestionReponse>
+<QuestionReponse ID="F18675" audience="Particuliers">Quelle est la durée de validité d'un Cesu préfinancé ?</QuestionReponse>
+<QuestionReponse ID="F18653" audience="Particuliers">Que faire en cas de perte, de vol ou de détérioration d'un Cesu préfinancé ?</QuestionReponse>
+<QuestionReponse ID="F32794" audience="Particuliers">Peut-on utiliser la PCH et l'Apa pour rémunérer un aidant familial ?</QuestionReponse>
+<QuestionReponse ID="F1843" audience="Particuliers">L'absence de l'employeur met-elle fin au contrat du salarié à domicile ?</QuestionReponse>
+<QuestionReponse ID="F31231" audience="Particuliers">Que devient le contrat du salarié au décès du particulier-employeur ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Passeport</Titre><QuestionReponse ID="F1357" audience="Particuliers">La photo pour le passeport peut-elle être prise au guichet ?</QuestionReponse>
+<QuestionReponse ID="F21258" audience="Particuliers">Passeport : comment acheter un timbre fiscal ?</QuestionReponse>
+<QuestionReponse ID="F18723" audience="Particuliers">Peut-on encore voyager avec un ancien modèle de passeport ?</QuestionReponse>
+<QuestionReponse ID="F14932" audience="Particuliers">Comment remplacer un passeport abîmé ?</QuestionReponse>
+<QuestionReponse ID="F14079" audience="Particuliers">Voyage aux USA : quelles sont les formalités (passeport, visa...) ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Permis de conduire</Titre><QuestionReponse ID="F17970" audience="Particuliers">Permis de conduire : comment connaître son nombre de points ?</QuestionReponse>
+<QuestionReponse ID="F12096" audience="Particuliers">Quel permis pour quelle catégorie de véhicules ?</QuestionReponse>
+<QuestionReponse ID="F2827" audience="Particuliers">Quels véhicules peut-on conduire avec le permis B ?</QuestionReponse>
+<QuestionReponse ID="F12789" audience="Particuliers">À quel âge un jeune peut-il conduire un 2 (ou 3) roues ?</QuestionReponse>
+<QuestionReponse ID="F45" audience="Particuliers">Peut-on conduire un scooter ou une moto avec le permis B ?</QuestionReponse>
+<QuestionReponse ID="F31901" audience="Particuliers">Conduite accompagnée : quelle formule choisir ?</QuestionReponse>
+<QuestionReponse ID="F16867" audience="Particuliers">Doit-on changer son permis de conduire si la photo n'est plus ressemblante ?</QuestionReponse>
+<QuestionReponse ID="F20028" audience="Particuliers">Comment faire ajouter une nouvelle catégorie sur son permis de conduire ?</QuestionReponse>
+<QuestionReponse ID="F31674" audience="Particuliers">Doit-on remplacer son permis de conduire cartonné par un nouveau modèle ?</QuestionReponse>
+<QuestionReponse ID="F33344" audience="Particuliers">Comment faire une procuration pour obtenir son permis de conduire ?</QuestionReponse>
+<QuestionReponse ID="F33352" audience="Particuliers">Comment suivre la fabrication de son permis de conduire ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Personne âgée</Titre><QuestionReponse ID="F2544" audience="Particuliers">Peut-on encore bénéficier du minimum vieillesse ?</QuestionReponse>
+<QuestionReponse ID="F32057" audience="Particuliers">Quelles aides peut toucher une personne âgée en situation de précarité ?</QuestionReponse>
+<QuestionReponse ID="F1802" audience="Particuliers">Apa : quel est le montant de votre reste à charge ?</QuestionReponse>
+<QuestionReponse ID="F11678" audience="Particuliers">Peut-on cumuler l'Apa avec d'autres revenus ?</QuestionReponse>
+<QuestionReponse ID="F1229" audience="Particuliers">Qu'est-ce que la grille Aggir ?</QuestionReponse>
+<QuestionReponse ID="F16941" audience="Particuliers">Dans quelles conditions un couple peut-il bénéficier de l'Aspa et de l'Asi ?</QuestionReponse>
+<QuestionReponse ID="F1663" audience="Particuliers">Aspa, Asi : faut-il résider en France ?</QuestionReponse>
+<QuestionReponse ID="F2112" audience="Particuliers">L'allocation personnalisée d'autonomie (Apa) peut-elle être suspendue ?</QuestionReponse>
+<QuestionReponse ID="F32877" audience="Particuliers">Le montant de l'allocation personnalisée d'autonomie (Apa) peut-il être révisé ?</QuestionReponse>
+<QuestionReponse ID="F325" audience="Particuliers">Apa : quels sont les recours possibles en cas de litige ?</QuestionReponse>
+<QuestionReponse ID="F861" audience="Particuliers">Que faire devant une situation de maltraitance d'une personne âgée ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Prestations familiales</Titre><QuestionReponse ID="F14723" audience="Particuliers">À partir de combien d'enfants a-t-on droit aux prestations familiales ?</QuestionReponse>
+<QuestionReponse ID="F16947" audience="Particuliers">Qu'est-ce qu'un enfant à charge pour les prestations familiales ?</QuestionReponse>
+<QuestionReponse ID="F33644" audience="Particuliers">Faut-il résider en France pour avoir droit aux prestations familiales ?</QuestionReponse>
+<QuestionReponse ID="F14722" audience="Particuliers">Qui perçoit les prestations familiales dans un couple ?</QuestionReponse>
+<QuestionReponse ID="F21248" audience="Particuliers">Qui perçoit les prestations familiales pour un enfant en résidence alternée ?</QuestionReponse>
+<QuestionReponse ID="F2787" audience="Particuliers">Un étranger peut-il percevoir des prestations familiales ?</QuestionReponse>
+<QuestionReponse ID="F2267" audience="Particuliers">Peut-on toucher rétroactivement les prestations familiales non demandées ?</QuestionReponse>
+<QuestionReponse ID="F2269" audience="Particuliers">Doit-on rembourser des prestations familiales versées à tort ?</QuestionReponse>
+<QuestionReponse ID="F827" audience="Particuliers">Que faire en cas de changement de situation ?</QuestionReponse>
+<QuestionReponse ID="F14199" audience="Particuliers">Dans quels cas doit-on déclarer ses ressources à la Caf ?</QuestionReponse>
+<QuestionReponse ID="F13218" audience="Particuliers">Que comprend la prestation d'accueil du jeune enfant (Paje) ?</QuestionReponse>
+<QuestionReponse ID="F20841" audience="Particuliers">Comment recourir au médiateur de la Caisse d'allocations familiales (Caf) ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Retraite du salarié du secteur privé</Titre><QuestionReponse ID="F2504" audience="Particuliers">Comment connaître sa caisse de retraite ?</QuestionReponse>
+<QuestionReponse ID="F13941" audience="Particuliers">Demande de départ en retraite du salarié : quelles sont les démarches à faire ?</QuestionReponse>
+<QuestionReponse ID="F10008" audience="Particuliers">Assuré polypensionné : quelles démarches effectuer pour demander sa retraite ?</QuestionReponse>
+<QuestionReponse ID="F33324" audience="Particuliers">Peut-on choisir la date de son départ à la retraite ?</QuestionReponse>
+<QuestionReponse ID="F1355" audience="Particuliers">Quels sont les facteurs de risques ouvrant droit à retraite pour pénibilité ?</QuestionReponse>
+<QuestionReponse ID="F1356" audience="Particuliers">Quelles lésions ouvrent droit à la retraite anticipée pour pénibilité ?</QuestionReponse>
+<QuestionReponse ID="F13965" audience="Particuliers">À quelles indemnités peut prétendre un salarié qui part à la retraite ?</QuestionReponse>
+<QuestionReponse ID="F13966" audience="Particuliers">L'employeur peut-il mettre un salarié à la retraite ?</QuestionReponse>
+<QuestionReponse ID="F2543" audience="Particuliers">Retraite d'un salarié : quand faut-il présenter un certificat de vie ?</QuestionReponse>
+<QuestionReponse ID="F31249" audience="Particuliers">Une période de chômage permet-elle de valider des trimestres de retraite ?</QuestionReponse>
+<QuestionReponse ID="F31666" audience="Particuliers">Assuré polypensionné : comment calculer le montant de la retraite versée ?</QuestionReponse>
+<QuestionReponse ID="F32102" audience="Particuliers">Un salarié peut-il bénéficier d'un dispositif de préretraite ?</QuestionReponse>
+<QuestionReponse ID="F32743" audience="Particuliers">Les périodes de stage sont-elles prises en compte pour la retraite ?</QuestionReponse>
+<QuestionReponse ID="F32128" audience="Particuliers">Activité professionnelle après 65 ans : quelles conséquences pour la retraite ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Retraite d'un agent de la fonction publique</Titre><QuestionReponse ID="F12389" audience="Particuliers">Qu'est-ce qu'une retraite de base et qu'est-ce qu'une retraite complémentaire ?</QuestionReponse>
+<QuestionReponse ID="F31541" audience="Particuliers">Quelle démarche doit suivre un agent public pour demander sa retraite ?</QuestionReponse>
+<QuestionReponse ID="F12811" audience="Particuliers">Comment est versée la pension de retraite de base d'un fonctionnaire ?</QuestionReponse>
+<QuestionReponse ID="F18217" audience="Particuliers">Un fonctionnaire peut-il partir en retraite anticipée pour raisons de santé ?</QuestionReponse>
+<QuestionReponse ID="F2766" audience="Particuliers">Un fonctionnaire ayant 3 enfants peut-il encore partir en retraite anticipée ?</QuestionReponse>
+<QuestionReponse ID="F2102" audience="Particuliers">Qu'est-ce qu'un emploi de catégorie active ou sédentaire ?</QuestionReponse>
+<QuestionReponse ID="F623" audience="Particuliers">Agent contractuel puis titularisé : quels sont les droits pour la retraite ?</QuestionReponse>
+<QuestionReponse ID="F33679" audience="Particuliers">Retraite dans le public et le privé : quelle majoration pour enfants appliquer ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Revenu de solidarité active (RSA)</Titre><QuestionReponse ID="F24585" audience="Particuliers">Quelles sont les ressources prises en compte pour le calcul du RSA ?</QuestionReponse>
+<QuestionReponse ID="F1723" audience="Particuliers">Le patrimoine est-il pris en compte pour le droit au RSA ?</QuestionReponse>
+<QuestionReponse ID="F20199" audience="Particuliers">Dans quels cas un enfant peut-il être considéré à charge pour le RSA ?</QuestionReponse>
+<QuestionReponse ID="F994" audience="Particuliers">RSA ou prime d'activité : à quoi correspond la "résidence stable et effective" en France ?</QuestionReponse>
+<QuestionReponse ID="F11014" audience="Particuliers">À quoi correspond la "résidence stable et effective" en France ?</QuestionReponse>
+<QuestionReponse ID="F20209" audience="Particuliers">Peut-on cumuler l'allocation adulte handicapé (AAH) et le RSA ?</QuestionReponse>
+<QuestionReponse ID="F13866" audience="Particuliers">Une personne volontaire a-t-elle droit au RSA ?</QuestionReponse>
+<QuestionReponse ID="F1971" audience="Particuliers">Un étudiant a-t-il droit au RSA ?</QuestionReponse>
+<QuestionReponse ID="F20218" audience="Particuliers">Un demandeur d'emploi a-t-il droit au RSA ?</QuestionReponse>
+<QuestionReponse ID="F20221" audience="Particuliers">Un créateur d'entreprise peut-il bénéficier du RSA ?</QuestionReponse>
+<QuestionReponse ID="F20421" audience="Particuliers">Un intermittent du spectacle a-t-il droit au RSA ?</QuestionReponse>
+<QuestionReponse ID="F20423" audience="Particuliers">A-t-on le droit au RSA en congé maternité ?</QuestionReponse>
+<QuestionReponse ID="F20237" audience="Particuliers">Le bénéficiaire du RSA a-t-il des droits connexes (Puma, transports...) ?</QuestionReponse>
+<QuestionReponse ID="F24615" audience="Particuliers">Les ressources du conjoint étranger sont-elles intégrées dans le calcul du RSA ?</QuestionReponse>
+<QuestionReponse ID="F33739" audience="Particuliers">Peut-on toucher le RSA à l'étranger ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Saisies et recouvrements</Titre><QuestionReponse ID="F922" audience="Particuliers">Quels sont les types de saisies auxquelles l'huissier peut procéder ?</QuestionReponse>
+<QuestionReponse ID="F863" audience="Particuliers">Les prestations familiales sont-elles saisissables ?</QuestionReponse>
+<QuestionReponse ID="F2163" audience="Particuliers">Quels sont les biens mobiliers qui ne peuvent pas être saisis ?</QuestionReponse>
+<QuestionReponse ID="F399" audience="Particuliers">Un huissier peut-il entrer dans un logement en l'absence de son occupant ?</QuestionReponse>
+<QuestionReponse ID="F10404" audience="Particuliers">Le créancier doit-il payer un droit de recouvrement à l'huissier de justice ?</QuestionReponse>
+<QuestionReponse ID="F1004" audience="Particuliers">Comment recouvrer une pension alimentaire dont le débiteur est à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F2975" audience="Particuliers">À quoi sert une reconnaissance de dette ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Sécurité sociale</Titre><QuestionReponse ID="F16466" audience="Particuliers">À quelle caisse d'assurance maladie un salarié est-il affilié ?</QuestionReponse>
+<QuestionReponse ID="F21742" audience="Particuliers">Quelles informations contient la carte Vitale ?</QuestionReponse>
+<QuestionReponse ID="F10662" audience="Particuliers">Comment obtenir une attestation de droits (attestation Vitale) ?</QuestionReponse>
+<QuestionReponse ID="F739" audience="Particuliers">Faut-il avoir travaillé un minimum pour bénéficier du remboursement des soins ?</QuestionReponse>
+<QuestionReponse ID="F13905" audience="Particuliers">Un demandeur d'emploi est-il remboursé de ses frais de santé en cas de maladie ?</QuestionReponse>
+<QuestionReponse ID="F164" audience="Particuliers">Qui peut bénéficier d'une prise en charge à 100% par l'Assurance maladie ?</QuestionReponse>
+<QuestionReponse ID="F17042" audience="Particuliers">Quels sont les tarifs d'un médecin (conventionné ou non) ?</QuestionReponse>
+<QuestionReponse ID="F18734" audience="Particuliers">Peut-on refuser un médicament générique ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Service civique</Titre><QuestionReponse ID="F15834" audience="Particuliers">Comment choisir son service civique ?</QuestionReponse>
+<QuestionReponse ID="F15547" audience="Particuliers">À quelles conditions un mineur peut-il faire un engagement de service civique ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Surendettement</Titre><QuestionReponse ID="F21680" audience="Particuliers">Comment déposer un dossier de surendettement quand on vit en couple ?</QuestionReponse>
+<QuestionReponse ID="F22131" audience="Particuliers">Quelles sont les obligations d'une banque face à un client en surendettement ?</QuestionReponse>
+<QuestionReponse ID="F10434" audience="Particuliers">Peut-on être saisi pendant la procédure de surendettement ?</QuestionReponse>
+<QuestionReponse ID="F31604" audience="Particuliers">Peut-on être expulsé de son logement pendant une procédure de surendettement ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Téléphonie et internet</Titre><QuestionReponse ID="F33278" audience="Particuliers">Quels sont les tarifs des numéros spéciaux (vert, gris, violet) ?</QuestionReponse>
+<QuestionReponse ID="F31974" audience="Particuliers">Téléphone mobile ou internet : quelles factures peut-on exiger ?</QuestionReponse>
+<QuestionReponse ID="F14373" audience="Particuliers">Médiateur des communications électroniques : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F33267" audience="Particuliers">Démarchage téléphonique abusif, spam (vocal ou par SMS) : que faire ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Travail dans la fonction publique</Titre><QuestionReponse ID="F13272" audience="Particuliers">Quelles sont les conditions d'accès à la fonction publique ? </QuestionReponse>
+<QuestionReponse ID="F1591" audience="Particuliers">Une candidate enceinte peut-elle passer un concours administratif ?</QuestionReponse>
+<QuestionReponse ID="F31245" audience="Particuliers">Qu'est-ce qu'un vacataire dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F637" audience="Particuliers">Un étudiant peut-il faire un stage dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F16493" audience="Particuliers">Un salarié peut-il être dispensé de la visite d'information et de prévention ?</QuestionReponse>
+<QuestionReponse ID="F12344" audience="Particuliers">Catégorie, corps, cadre d'emploi, grade et échelon : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F1564" audience="Particuliers">Que se passe-t-il si le fonctionnaire stagiaire n'est pas titularisé ?</QuestionReponse>
+<QuestionReponse ID="F1895" audience="Particuliers">La durée du stage du fonctionnaire est-elle prolongée en cas d'absence ?</QuestionReponse>
+<QuestionReponse ID="F12413" audience="Particuliers">Quelles sont les positions administratives dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F31260" audience="Particuliers">Quelle est la situation du fonctionnaire non réintégré en fin de disponibilité ?</QuestionReponse>
+<QuestionReponse ID="F31528" audience="Particuliers">Fonction publique : un agent contractuel peut-il changer d'employeur ?</QuestionReponse>
+<QuestionReponse ID="F31603" audience="Particuliers">Un fonctionnaire peut-il prendre plusieurs disponibilités à la suite ?</QuestionReponse>
+<QuestionReponse ID="F539" audience="Particuliers">Fonction publique : un contractuel peut-il être placé en disponibilité ?</QuestionReponse>
+<QuestionReponse ID="F31038" audience="Particuliers">Un agent public qui change de situation conserve-t-il ses droits au Dif ?</QuestionReponse>
+<QuestionReponse ID="F31441" audience="Particuliers">Comment rembourser un trop-perçu de rémunération ?</QuestionReponse>
+<QuestionReponse ID="F31219" audience="Particuliers">Un agent public peut-il aller travailler dans le privé ?</QuestionReponse>
+<QuestionReponse ID="F13322" audience="Particuliers">Qu'est-ce que l'abandon de poste dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F1605" audience="Particuliers">Un contractuel en fin de CDD a-t-il droit aux allocations chômage ?</QuestionReponse>
+<QuestionReponse ID="F1606" audience="Particuliers">Un contractuel de la fonction publique a-t-il droit à la prime de précarité ?</QuestionReponse>
+<QuestionReponse ID="F21102" audience="Particuliers">Un agent contractuel doit-il demander sa réintégration après un long congé ?</QuestionReponse>
+<QuestionReponse ID="F31094" audience="Particuliers">La rupture conventionnelle s'applique-t-elle dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F32395" audience="Particuliers">L'administration peut-elle modifier le contrat d'un agent contractuel ?</QuestionReponse>
+<QuestionReponse ID="F32397" audience="Particuliers">L'administration doit-elle reclasser l'agent contractuel licencié ?</QuestionReponse>
+<QuestionReponse ID="F1251" audience="Particuliers">Un agent à temps partiel peut-il déplacer son jour non travaillé s'il est férié?</QuestionReponse>
+<QuestionReponse ID="F13712" audience="Particuliers">Un agent de la fonction publique perd-il des RTT en cas de maladie ?</QuestionReponse>
+<QuestionReponse ID="F2859" audience="Particuliers">Comment la journée de solidarité est-elle accomplie dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F11016" audience="Particuliers">Fonction publique : que se passe-t-il en cas de maladie pendant les congés annuels ?</QuestionReponse>
+<QuestionReponse ID="F12391" audience="Particuliers">Un contractuel peut-il bénéficier d'un temps partiel thérapeutique ?</QuestionReponse>
+<QuestionReponse ID="F12392" audience="Particuliers">Un agent public perd-il les congés non pris pour cause de maladie ?</QuestionReponse>
+<QuestionReponse ID="F12788" audience="Particuliers">Un fonctionnaire peut-il bénéficier d'un temps partiel thérapeutique ?</QuestionReponse>
+<QuestionReponse ID="F13825" audience="Particuliers">Maladie ou inaptitude d'un fonctionnaire stagiaire : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F13861" audience="Particuliers">Le jour de carence pour maladie dans la fonction publique existe t-il encore ?</QuestionReponse>
+<QuestionReponse ID="F31433" audience="Particuliers">Que deviennent les congés annuels d'un agent public qui change d'employeur ?</QuestionReponse>
+<QuestionReponse ID="F32923" audience="Particuliers">Un agent public peut-il travailler pendant ses congés ?</QuestionReponse>
+<QuestionReponse ID="F32944" audience="Particuliers">Comment donner des jours de repos à un agent public parent d'un enfant malade ?</QuestionReponse>
+<QuestionReponse ID="F33676" audience="Particuliers">Fonction publique : que doit faire l'agent en cas de conflit d'intérêt ?</QuestionReponse>
+<QuestionReponse ID="F33727" audience="Particuliers">Intempérie ou catastrophe naturelle : quels droits pour l'agent absent ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Travail dans le secteur privé</Titre><QuestionReponse ID="F15635" audience="Particuliers">Le contrat de travail est-il obligatoirement écrit ?</QuestionReponse>
+<QuestionReponse ID="F1910" audience="Particuliers">Qu'est-ce qu'une clause de non-concurrence ?</QuestionReponse>
+<QuestionReponse ID="F1694" audience="Particuliers">Embauche par un groupement d'employeur : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F1649" audience="Particuliers">À partir de quel âge peut-on travailler ?</QuestionReponse>
+<QuestionReponse ID="F309" audience="Particuliers">Qu'est-ce qu'un essai professionnel ?</QuestionReponse>
+<QuestionReponse ID="F317" audience="Particuliers">Que se passe-t-il lorsque le salarié tombe malade pendant la période d'essai ?</QuestionReponse>
+<QuestionReponse ID="F13919" audience="Particuliers">Un salarié peut-il effectuer plusieurs périodes d'essai chez le même employeur ?</QuestionReponse>
+<QuestionReponse ID="F32279" audience="Particuliers">Quelle est la durée de la période d'essai d'un contrat de mission (intérim) ?</QuestionReponse>
+<QuestionReponse ID="F31897" audience="Particuliers">Peut-on conclure plusieurs CDD à la suite sans délai de carence ?</QuestionReponse>
+<QuestionReponse ID="F21030" audience="Particuliers">Qu'est-ce qu'un CDD à objet défini?</QuestionReponse>
+<QuestionReponse ID="F32476" audience="Particuliers">Dans quels secteurs d'activités peut-on recourir au CDD d'usage ou à l'intérim ?</QuestionReponse>
+<QuestionReponse ID="F14100" audience="Particuliers">Qu'est-ce qu'un CDD d'insertion (CDDI) ?</QuestionReponse>
+<QuestionReponse ID="F1691" audience="Particuliers">Comment se distingue le travailleur indépendant du salarié ?</QuestionReponse>
+<QuestionReponse ID="F1918" audience="Particuliers">Un salarié doit-il suivre son entreprise si elle déménage ?</QuestionReponse>
+<QuestionReponse ID="F21050" audience="Particuliers">Quels sont les droits d'un salarié dont le contrat de travail est suspendu ?</QuestionReponse>
+<QuestionReponse ID="F31586" audience="Particuliers">Modification du lieu de travail du salarié : quelles sont les conséquences ?</QuestionReponse>
+<QuestionReponse ID="F31924" audience="Particuliers">Un travailleur indépendant peut-il prétendre au statut de salarié ?</QuestionReponse>
+<QuestionReponse ID="F32278" audience="Particuliers">Peut-on modifier le terme d'une mission d'intérim ?</QuestionReponse>
+<QuestionReponse ID="F32768" audience="Particuliers">Un salarié dont le contrat de travail est suspendu a-t-il des obligations ?</QuestionReponse>
+<QuestionReponse ID="F31460" audience="Particuliers">Comment savoir si je peux bénéficier du contrat de génération ?</QuestionReponse>
+<QuestionReponse ID="F542" audience="Particuliers">Un ancien contrat aidé reste-t-il valable (contrat-insertion, emploi-jeune...) ?</QuestionReponse>
+<QuestionReponse ID="F803" audience="Particuliers">La prime de précarité est-elle due à la fin d'un contrat d'aide à l'insertion ?</QuestionReponse>
+<QuestionReponse ID="F1136" audience="Particuliers">Le salarié peut-il refuser de travailler dans une situation dangereuse ?</QuestionReponse>
+<QuestionReponse ID="F1144" audience="Particuliers">Une salariée enceinte est-elle obligée de révéler sa grossesse à son employeur ?</QuestionReponse>
+<QuestionReponse ID="F17047" audience="Particuliers">Intempérie ou catastrophe naturelle : quel droit pour le salarié absent ?</QuestionReponse>
+<QuestionReponse ID="F1731" audience="Particuliers">L'employeur doit-il aménager un espace pour la pause déjeuner ?</QuestionReponse>
+<QuestionReponse ID="F1738" audience="Particuliers">Le local vestiaire est-il obligatoire dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F1769" audience="Particuliers">Une salariée peut-elle allaiter pendant les heures de travail ?</QuestionReponse>
+<QuestionReponse ID="F1901" audience="Particuliers">Une salariée enceinte a-t-elle droit à une réduction de sa durée de travail ?</QuestionReponse>
+<QuestionReponse ID="F20367" audience="Particuliers">Comment s'applique le droit d'expression religieuse dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F21019" audience="Particuliers">Grève des transports : quels droits pour le salarié ?</QuestionReponse>
+<QuestionReponse ID="F2330" audience="Particuliers">Grossesse et autorisation d'absence : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F2338" audience="Particuliers">Un intérimaire est-il suivi par la médecine du travail ?</QuestionReponse>
+<QuestionReponse ID="F2775" audience="Particuliers">Une salariée enceinte peut-elle refuser d'effectuer certaines tâches ?</QuestionReponse>
+<QuestionReponse ID="F311" audience="Particuliers">Qu'est-ce qu'un usage d'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F31235" audience="Particuliers">Un employeur peut-il s'informer sur le permis de conduire de son salarié ?</QuestionReponse>
+<QuestionReponse ID="F32177" audience="Particuliers">Peut-on consommer de l'alcool dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F33420" audience="Particuliers">Qu'est-ce que le travail en soirée ?</QuestionReponse>
+<QuestionReponse ID="F23582" audience="Particuliers">Vol d'objets personnels dans l'entreprise : quel recours contre son employeur ?</QuestionReponse>
+<QuestionReponse ID="F1650" audience="Particuliers">Comment être reconnu "travailleur handicapé" ?</QuestionReponse>
+<QuestionReponse ID="F107" audience="Particuliers">Dans quels cas recourir à l'inspecteur du travail ?</QuestionReponse>
+<QuestionReponse ID="F1667" audience="Particuliers">Doit-on se présenter en personne devant le conseil de prud'hommes (CPH) ?</QuestionReponse>
+<QuestionReponse ID="F1970" audience="Particuliers">Quelle est la date du prochain renouvellement des conseils de prud'hommes ?</QuestionReponse>
+<QuestionReponse ID="F2294" audience="Particuliers">Un conseiller prud'hommes bénéficie-t-il de temps d'absence ou de congés ?</QuestionReponse>
+<QuestionReponse ID="F31668" audience="Particuliers">Prud'hommes : qu'est-ce que l'indemnité forfaitaire de conciliation ?</QuestionReponse>
+<QuestionReponse ID="F32324" audience="Particuliers">Comment est indemnisé un conseiller prud'hommes dans le cadre de ses fonctions ?</QuestionReponse>
+<QuestionReponse ID="F31896" audience="Particuliers">Quels sont les documents remis au salarié à la fin de son contrat ?</QuestionReponse>
+<QuestionReponse ID="F31679" audience="Particuliers">Peut-on démissionner pendant un arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F12598" audience="Particuliers">Peut-on démissionner pendant ses congés payés ?</QuestionReponse>
+<QuestionReponse ID="F12604" audience="Particuliers">Est-on dispensé de préavis en cas de démission liée à la mutation du conjoint ?</QuestionReponse>
+<QuestionReponse ID="F131" audience="Particuliers">Le salarié peut-il revenir sur sa démission ?</QuestionReponse>
+<QuestionReponse ID="F1730" audience="Particuliers">Peut-on démissionner pendant un congé maternité ?</QuestionReponse>
+<QuestionReponse ID="F1980" audience="Particuliers">Peut-on travailler pour un nouvel employeur avant la fin du préavis ?</QuestionReponse>
+<QuestionReponse ID="F540" audience="Particuliers">Peut-on démissionner pendant un congé parental ?</QuestionReponse>
+<QuestionReponse ID="F10030" audience="Particuliers">Garde-t-on ses droits à congés payés et à l'ancienneté pendant une formation ?</QuestionReponse>
+<QuestionReponse ID="F14039" audience="Particuliers">Un salarié peut-il réclamer une formation à son employeur ?</QuestionReponse>
+<QuestionReponse ID="F1687" audience="Particuliers">Qu'est-ce qu'une clause de dédit-formation ?</QuestionReponse>
+<QuestionReponse ID="F19300" audience="Particuliers">Un salarié en arrêt de travail peut-il suivre une formation ?</QuestionReponse>
+<QuestionReponse ID="F2306" audience="Particuliers">Un salarié peut-il s'absenter pour préparer et passer un examen ?</QuestionReponse>
+<QuestionReponse ID="F3013" audience="Particuliers">Un salarié en formation en dehors du temps de travail est-il rémunéré ?</QuestionReponse>
+<QuestionReponse ID="F3024" audience="Particuliers">Un travailleur intérimaire a-t-il droit au congé individuel de formation (Cif) ?</QuestionReponse>
+<QuestionReponse ID="F3082" audience="Particuliers">Un élu local peut-il bénéficier d'une formation s'il est salarié dans le privé ?</QuestionReponse>
+<QuestionReponse ID="F31878" audience="Particuliers">Quels sont les différents dispositifs de formation pour le secteur privé ?</QuestionReponse>
+<QuestionReponse ID="F32040" audience="Particuliers">En quoi consiste l'entretien professionnel ?</QuestionReponse>
+<QuestionReponse ID="F32471" audience="Particuliers">Quelles sont les principales différences entre le Dif et le CPF ?</QuestionReponse>
+<QuestionReponse ID="F221" audience="Particuliers">Quelles formations sont accessibles à une personne en situation de handicap ?</QuestionReponse>
+<QuestionReponse ID="F18205" audience="Particuliers">Les temps de pause et de restauration du salarié sont-ils rémunérés ?</QuestionReponse>
+<QuestionReponse ID="F18211" audience="Particuliers">Le salarié qui s'habille sur le lieu de travail bénéficie-t-il de contreparties?</QuestionReponse>
+<QuestionReponse ID="F1945" audience="Particuliers">À quelles conditions un salarié peut-il cumuler plusieurs emplois ?</QuestionReponse>
+<QuestionReponse ID="F20712" audience="Particuliers">Le temps de trajet du salarié entraîne t-il des contreparties ?</QuestionReponse>
+<QuestionReponse ID="F316" audience="Particuliers">Combien d'heures un salarié peut-il travailler en continu ?</QuestionReponse>
+<QuestionReponse ID="F2408" audience="Particuliers">Quelle est la différence entre avantages en nature et frais professionnels ?</QuestionReponse>
+<QuestionReponse ID="F31851" audience="Particuliers">Un salarié doit-il rembourser du matériel de l'entreprise cassé ou perdu ?</QuestionReponse>
+<QuestionReponse ID="F718" audience="Particuliers">Salaire du secteur privé : la prime d'ancienneté est-elle obligatoire ?</QuestionReponse>
+<QuestionReponse ID="F33512" audience="Particuliers">En quoi consiste le nouveau modèle de fiche de paie ?</QuestionReponse>
+<QuestionReponse ID="F12415" audience="Particuliers">Quelles sont les heures d'autorisation de sortie du salarié en arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F12734" audience="Particuliers">L'employeur peut-il exiger un arrêt de travail pour une journée ?</QuestionReponse>
+<QuestionReponse ID="F12743" audience="Particuliers">Un salarié peut-il revenir travailler avant la fin de son arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F1326" audience="Particuliers">Un arrêt de travail prolonge-t-il un contrat à durée déterminée (CDD) ?</QuestionReponse>
+<QuestionReponse ID="F18724" audience="Particuliers">Un salarié peut-il travailler pendant un arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F2614" audience="Particuliers">Arrêt maladie pendant le préavis : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F31880" audience="Particuliers">Qu'est-ce qu'une maladie professionnelle ?</QuestionReponse>
+<QuestionReponse ID="F31881" audience="Particuliers">Qu'est-ce qu'un accident de trajet ?</QuestionReponse>
+<QuestionReponse ID="F1054" audience="Particuliers">Le salarié bénéficie-t-il d'heures de recherche d'emploi pendant son préavis ?</QuestionReponse>
+<QuestionReponse ID="F31850" audience="Particuliers">Un salarié peut-il être licencié à cause du retrait de son permis de conduire ?</QuestionReponse>
+<QuestionReponse ID="F32292" audience="Particuliers">Le jeune père salarié bénéficie-t-il d'une protection contre le licenciement ?</QuestionReponse>
+<QuestionReponse ID="F1729" audience="Particuliers">L'inaptitude du salarié en CDD peut-elle justifier la rupture de son contrat ?</QuestionReponse>
+<QuestionReponse ID="F1137" audience="Particuliers">Faute simple, grave ou lourde : quelles différences pour le salarié licencié ?</QuestionReponse>
+<QuestionReponse ID="F31209" audience="Particuliers">Qu'est-ce que l'abandon de poste dans le secteur privé ?</QuestionReponse>
+<QuestionReponse ID="F371" audience="Particuliers">Comment calculer l'ancienneté en matière d'indemnité de licenciement ?</QuestionReponse>
+<QuestionReponse ID="F15189" audience="Particuliers">Quelles indemnités peut percevoir un salarié licencié pour motif économique ?</QuestionReponse>
+<QuestionReponse ID="F15800" audience="Particuliers">Peut-on contester un licenciement économique après avoir accepté un CSP ?</QuestionReponse>
+<QuestionReponse ID="F223" audience="Particuliers">Peut-on encore bénéficier de la préretraite licenciement ?</QuestionReponse>
+<QuestionReponse ID="F18075" audience="Particuliers">Quelle procédure de licenciement s'applique dans une entreprise en difficulté ?</QuestionReponse>
+<QuestionReponse ID="F2776" audience="Particuliers">Qu'est-ce qu'un licenciement pour motif économique ?</QuestionReponse>
+<QuestionReponse ID="F2831" audience="Particuliers">Comment sont choisis les salariés touchés par un licenciement économique ?</QuestionReponse>
+<QuestionReponse ID="F20740" audience="Particuliers">Peut-on refuser la mutuelle ou la prévoyance de son entreprise ?</QuestionReponse>
+<QuestionReponse ID="F20744" audience="Particuliers">Peut-on garder la mutuelle de l'entreprise à la fin du contrat de travail ?</QuestionReponse>
+<QuestionReponse ID="F1016" audience="Particuliers">Fermeture de l'entreprise pour congés : comment le salarié est-il indemnisé ?</QuestionReponse>
+<QuestionReponse ID="F10431" audience="Particuliers">Comment bénéficier d'un congé sans solde ?</QuestionReponse>
+<QuestionReponse ID="F1235" audience="Particuliers">Le salarié en congé parental a-t-il droit au prêt action logement ?</QuestionReponse>
+<QuestionReponse ID="F12410" audience="Particuliers">Le salarié peut-il reporter les jours de congés non pris sur l'année suivante ?</QuestionReponse>
+<QuestionReponse ID="F1254" audience="Particuliers">Peut-on être indemnisé en cas de maladie ou maternité durant un congé parental ?</QuestionReponse>
+<QuestionReponse ID="F12647" audience="Particuliers">Peut-on enchaîner congé de naissance et congé de paternité et d'accueil ?</QuestionReponse>
+<QuestionReponse ID="F12750" audience="Particuliers">Le contrat de travail peut-il être rompu pendant un congé sabbatique ?</QuestionReponse>
+<QuestionReponse ID="F12791" audience="Particuliers">Un employeur peut-il imposer au salarié en congé payés de revenir travailler ?</QuestionReponse>
+<QuestionReponse ID="F12803" audience="Particuliers">Un employeur peut-il refuser des congés demandés par le salarié ?</QuestionReponse>
+<QuestionReponse ID="F12809" audience="Particuliers">Peut-on bénéficier de plusieurs congés parentaux successifs ?</QuestionReponse>
+<QuestionReponse ID="F12814" audience="Particuliers">Événement familial pendant les congés payés : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F13476" audience="Particuliers">A-t-on droit à la participation et à l'intéressement pendant le congé parental ?</QuestionReponse>
+<QuestionReponse ID="F13478" audience="Particuliers">Le salarié en congé parental a-t-il droit aux avantages de la mutuelle ?</QuestionReponse>
+<QuestionReponse ID="F13479" audience="Particuliers">A-t-on droit aux avantages du comité d'entreprise pendant un congé parental ?</QuestionReponse>
+<QuestionReponse ID="F13818" audience="Particuliers">Un salarié en congé parental d'éducation peut-il être licencié ?</QuestionReponse>
+<QuestionReponse ID="F13820" audience="Particuliers">Quelle est la protection sociale d'un salarié en congé parental d'éducation ?</QuestionReponse>
+<QuestionReponse ID="F18260" audience="Particuliers">L'absence du salarié est-elle prise en compte pour le calcul de ses congés ?</QuestionReponse>
+<QuestionReponse ID="F2179" audience="Particuliers">Peut-on prendre directement des congés après un arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F2328" audience="Particuliers">Quelles sont les conditions pour bénéficier du billet de congé annuel ?</QuestionReponse>
+<QuestionReponse ID="F2931" audience="Particuliers">A-t-on droit à des congés payés pendant un CDD ?</QuestionReponse>
+<QuestionReponse ID="F33359" audience="Particuliers">Comment calculer l'indemnité de congés payés du salarié ?</QuestionReponse>
+<QuestionReponse ID="F682" audience="Particuliers">Un jour férié tombe pendant les congés du salarié : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F879" audience="Particuliers">Un salarié peut-il s'absenter pour participer à une campagne électorale ?</QuestionReponse>
+<QuestionReponse ID="F21038" audience="Particuliers">Un employeur peut-il s'opposer à ce qu'un salarié soit juré d'assises ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Travaux dans la maison ou le jardin</Titre><QuestionReponse ID="F2868" audience="Particuliers">Comment calcule-t-on la surface de plancher d'une construction ?</QuestionReponse>
+<QuestionReponse ID="F20568" audience="Particuliers">Dans quel cas doit-on avoir recours à un architecte ?</QuestionReponse>
+<QuestionReponse ID="F2533" audience="Particuliers">Quel contrat doit-on passer avec un professionnel pour réaliser des travaux ?</QuestionReponse>
+<QuestionReponse ID="F2082" audience="Particuliers">Quelle est la durée de validité d'une autorisation d'urbanisme ?</QuestionReponse>
+<QuestionReponse ID="F2416" audience="Particuliers">Comment transformer un local professionnel en logement ?</QuestionReponse>
+<QuestionReponse ID="F24611" audience="Particuliers">Peut-on transformer un sous-sol en pièce habitable et le mettre en location  ?</QuestionReponse>
+<QuestionReponse ID="F24612" audience="Particuliers">Doit-on obtenir une autorisation d'urbanisme pour construire une cave ?</QuestionReponse>
+<QuestionReponse ID="F172" audience="Particuliers">Quelles règles faut-il respecter pour construire un puits dans son jardin ?</QuestionReponse>
+<QuestionReponse ID="F2125" audience="Particuliers">Qu'est-ce qu'un alignement individuel et dans quel cas est-il nécessaire ?</QuestionReponse>
+<QuestionReponse ID="F447" audience="Particuliers">Quelles sont les règles en matière d'assainissement des eaux usées ?</QuestionReponse>
+<QuestionReponse ID="F481" audience="Particuliers">Quelle est la hauteur réglementaire d'un garde-corps ?</QuestionReponse>
+<QuestionReponse ID="F662" audience="Particuliers">Faut-il une autorisation d'urbanisme pour installer un abri de jardin ?</QuestionReponse>
+<QuestionReponse ID="F3131" audience="Particuliers">Quelles sont les règles pour l'implantation de clôtures ?</QuestionReponse>
+<QuestionReponse ID="F31911" audience="Particuliers">Quelles aides peut-on toucher pour réaliser des travaux d'économie d'énergie ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Troubles de voisinage</Titre><QuestionReponse ID="F15837" audience="Particuliers">Peut-on contraindre un propriétaire à faire insonoriser son logement ?</QuestionReponse>
+<QuestionReponse ID="F13737" audience="Particuliers">Que faire en cas d'attroupement dans son hall d'immeuble ?</QuestionReponse>
+<QuestionReponse ID="F1176" audience="Particuliers">Que faire en cas d'utilisation abusive d'un barbecue par un voisin ?</QuestionReponse>
+<QuestionReponse ID="F1525" audience="Particuliers">Que faire en présence d'un terrain non entretenu (en friche) ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Tutelle, curatelle</Titre><QuestionReponse ID="F10424" audience="Particuliers">Tutelle ou curatelle : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F23595" audience="Particuliers">Qui peut demander l'ouverture d'une sauvegarde de justice, curatelle ou tutelle?</QuestionReponse>
+<QuestionReponse ID="F23693" audience="Particuliers">Comment se déroule la procédure de demande de protection d'un majeur ?</QuestionReponse>
+<QuestionReponse ID="F3165" audience="Particuliers">Quel est le coût d'une tutelle ou d'une curatelle ?</QuestionReponse>
+<QuestionReponse ID="F10507" audience="Particuliers">Comment les proches peuvent-ils contrôler l'action du tuteur ou du curateur ?</QuestionReponse>
+<QuestionReponse ID="F23693" audience="Particuliers">Comment se déroule la procédure de demande de protection d'un majeur ?</QuestionReponse>
+</Groupe>
+<Groupe>
+<Titre>Vie pratique dans la maison</Titre><QuestionReponse ID="F15133" audience="Particuliers">Faut-il déneiger le trottoir situé devant son habitation ? </QuestionReponse>
+<QuestionReponse ID="F2443" audience="Particuliers">Doit-on subir les eaux de ruissellement en provenance du terrain voisin ?</QuestionReponse>
+<QuestionReponse ID="F31482" audience="Particuliers">Peut-on boire ou cuisiner avec l'eau de pluie ?</QuestionReponse>
+<QuestionReponse ID="F31475" audience="Particuliers">Peut-on installer un jacuzzi dans son jardin ?</QuestionReponse>
+<QuestionReponse ID="F620" audience="Particuliers">Peut-on installer une caravane ou un mobile-home dans son jardin ?</QuestionReponse>
+<QuestionReponse ID="F32437" audience="Particuliers">Dans quelles conditions peut-on faire un feu de cheminée chez soi ?</QuestionReponse>
+<QuestionReponse ID="F67" audience="Particuliers">Peut-on passer par le terrain voisin pour des travaux chez soi (tour d'échelle)?</QuestionReponse>
+<QuestionReponse ID="F914" audience="Particuliers">Quelles sont les règles de hauteur et de distance pour un mur de clôture ?</QuestionReponse>
+<QuestionReponse ID="F31496" audience="Particuliers">La vente d'électricité produite par une installation photovoltaïque est-elle imposable ?</QuestionReponse>
+</Groupe>
+</Publication>

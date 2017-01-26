@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1940" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Élection présidentielle</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Le Président de la République est élu, au suffrage universel direct, par les électeurs français lors de l'élection présidentielle. Son mandat dure 5 ans et est renouvelable une fois. Pour être élu, le candidat doit avoir obtenu la majorité absolue des suffrages exprimés. Les 2 candidats arrivés en tête peuvent se présenter au second tour qui intervient 2 semaines après.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2016-10-18</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1940</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/Droit-francais/Constitution/Constitution-du-4-octobre-1958#ancre2178_0_3, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005630725</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N47</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N47">Élections</Niveau>
+<Niveau ID="F1940" type="Fiche avec liens externes">Élection présidentielle</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere><DossierPere ID="N47">
+<Titre>Élections</Titre><SousDossier ID="N47-1">
+<Titre>Inscription sur les listes électorales</Titre>
+<Fiche ID="F1961">Inscription d'office à 18 ans</Fiche>
+<Fiche ID="F1367">Nouvelle inscription</Fiche>
+<Fiche ID="F1372">Déménagement</Fiche>
+<Fiche ID="F1937">Citoyen européen</Fiche>
+<Fiche ID="F1962">Carte électorale</Fiche>
+</SousDossier>
+<SousDossier ID="N47-2">
+<Titre>Opérations de vote</Titre>
+<Fiche ID="F16828">Déroulement du scrutin</Fiche>
+<Fiche ID="F16904">Vote d'un Français de l'étranger</Fiche>
+<Fiche ID="F1604">Vote par procuration</Fiche>
+</SousDossier>
+<SousDossier ID="N47-3">
+<Titre>Élections et référendums</Titre>
+<Fiche ID="F1944">Européennes</Fiche>
+<Fiche ID="F1940">Présidentielle</Fiche>
+<Fiche ID="F1943">Législatives</Fiche>
+<Fiche ID="F1958">Départementales - Régionales</Fiche>
+<Fiche ID="F1952">Municipales</Fiche>
+<Fiche ID="F1964">Référendum</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Élections et référendums</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le Président de la République est élu, au suffrage universel direct, par les électeurs français lors de l'élection présidentielle. 
+Son mandat dure  5 ans et est  renouvelable une fois. 
+Pour être élu, le candidat doit avoir obtenu la majorité absolue des suffrages exprimés. Les 2 candidats arrivés en tête peuvent se présenter au second tour qui intervient 2 semaines après. </Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.vie-publique.fr/decouverte-institutions/institutions/fonctionnement/president-republique/comment/comment-est-elu-president-republique-pour-combien-temps.html">Comment est élu le Président de la République ?</LienExterne>
+
+<Source ID="R30718">Vie-publique.fr</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.vie-publique.fr/decouverte-institutions/institutions/fonctionnement/president-republique/role/quel-est-role-du-president-republique-institutions.html">Quel est le rôle du Président de la République ?</LienExterne>
+
+<Source ID="R30718">Vie-publique.fr</Source>
+</LienExterneCommente><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/Droit-francais/Constitution/Constitution-du-4-octobre-1958#ancre2178_0_3" ID="R33032">
+<Titre>Constitution du 4 octobre 1958 : articles 5 à 19</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005630725" ID="R16604">
+<Titre>Décret n°2001-213 du 8 mars 2001 relative à l'élection du Président de la République</Titre>
+</Reference>
+<QuestionReponse ID="F11257" audience="Particuliers">Peut-on voter par internet pour les élections politiques ?</QuestionReponse>
+<QuestionReponse ID="F1939" audience="Particuliers">Quelles sont les dates des prochaines élections ?</QuestionReponse>
+</Publication>

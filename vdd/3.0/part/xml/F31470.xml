@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31470" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Prestations d'action sociale dans la fonction publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>L'action sociale doit améliorer les conditions de vie des agents publics et de leurs familles, par exemple dans les domaines de la restauration, du logement, de l'enfance et des loisirs. Elle doit aussi les aider face à des situations difficiles.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31470</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N511</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N511">Rémunération dans la fonction publique</Niveau>
+<Niveau ID="F31470" type="Fiche avec liens externes">Prestations d'action sociale dans la fonction publique</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19963">Rémunération</SousThemePere><DossierPere ID="N511">
+<Titre>Rémunération dans la fonction publique</Titre><SousDossier ID="N511-1">
+<Titre>Rémunération fixe</Titre>
+<Fiche ID="F461">Traitement indiciaire</Fiche>
+<Fiche ID="F32511">Indemnités de résidence</Fiche>
+<Fiche ID="F32515">Nouvelle bonification indiciaire (NBI)</Fiche>
+</SousDossier>
+<SousDossier ID="N511-2">
+<Titre>Rémunération soumise à conditions</Titre>
+<Fiche ID="F465">Fonction publique : régime indemnitaire (Rifseep)</Fiche>
+<Fiche ID="F32517">Garantie individuelle du pouvoir d'achat (Gipa)</Fiche>
+<Fiche ID="F32513">Supplément familial de traitement (SFT)</Fiche>
+<Fiche ID="F32787">Heures supplémentaires</Fiche>
+<Fiche ID="F31470">Aide sociale</Fiche>
+</SousDossier>
+<SousDossier ID="N511-3">
+<Titre>Cotisations salariales</Titre>
+<Fiche ID="F468">Pour un fonctionnaire</Fiche>
+<Fiche ID="F469">Pour un contractuel</Fiche>
+</SousDossier>
+<SousDossier ID="N511-4">
+<Titre>Prise en charge des frais de transport</Titre>
+<Fiche ID="F12163">Prise en charge des frais de transport domicile-travail</Fiche>
+<Fiche ID="F527">Remboursement des frais de déplacement</Fiche>
+<Fiche ID="F13896">Prise en charge des frais de changement de résidence</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Rémunération soumise à conditions</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>L'action sociale doit améliorer les conditions de vie des agents publics et de leurs familles, par exemple dans les domaines de la restauration, du logement, de l'enfance et des loisirs. Elle doit aussi les aider  face à des situations difficiles.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.fonction-publique.gouv.fr/fonction-publique/action-sociale">Action sociale de l'État</LienExterne>
+
+<Source ID="R30602">Ministère en charge de la fonction publique</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.collectivites-locales.gouv.fr/laction-sociale-dans-fonction-publique-territoriale">Action sociale dans la fonction publique territoriale (FPT)</LienExterne>
+
+<Source ID="R32241">collectivites-locales.gouv.fr</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.cgos.info/">Action sociale dans la fonction publique hospitalière (FPH)</LienExterne>
+
+<Source ID="R32243">Comité de gestion des œuvres sociales des établissements hospitaliers</Source>
+</LienExterneCommente>
+</Publication>

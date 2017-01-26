@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11603" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment savoir si un titre d'identité est sécurisé ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Avant de demander une carte nationale d'identité ou un passeport, il est important de savoir si vous êtes déjà muni d'un titre sécurisé (carte d'identité plastifiée, passeport électronique ou passeport biométrique).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2016-01-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11603</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F11603" type="Fiche Question-réponse">Comment savoir si un titre d'identité est sécurisé ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Avant de demander une carte nationale d'identité ou un passeport, il est important de savoir si vous êtes déjà muni d'un titre sécurisé (carte d'identité plastifiée,  passeport électronique ou  passeport biométrique).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Passeport</Paragraphe>
+</Titre><Paragraphe>En fonction de la nature et de la date du passeport,  vous n'aurez pas besoin de fournir une nouvelle fois, les documents liés à votre état civil et à votre nationalité.</Paragraphe>
+<Tableau>
+<Titre>Type de passeport</Titre>
+<Colonne largeur="17" type="header"/>
+<Colonne largeur="32" type="normal"/>
+<Colonne largeur="29" type="normal"/>
+<Colonne largeur="13" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de passeport</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Description</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Période de mise en circulation</Paragraphe>
+<Paragraphe>(en  métropole)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Titre sécurisé ?</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passeport Delphine</Paragraphe>
+<Paragraphe>(ancien modèle)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sur la couverture, inscription des mots <Expression>Communauté européenne</Expression>
+</Paragraphe>
+<Paragraphe>Page de la photo :  en  mode portrait.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dernière mise en circulation : fin 2002</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>NON</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passeport Delphine</Paragraphe>
+<Paragraphe>(à lecture optique)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sur la couverture, inscription des mots <Expression>Union européenne</Expression>
+</Paragraphe>
+<Paragraphe>Page de la photo :  en mode paysage.</Paragraphe>
+<Paragraphe>36 pages numérotées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dernière mise en circulation : avril 2006</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>NON</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passeport électronique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sur la couverture, le mot <Expression>passeport</Expression> n'est pas souligné.</Paragraphe>
+<Paragraphe>Sous le mot passeport, se trouve un symbole sécurisé (cercle à l'intérieur d'un rectangle)</Paragraphe>
+<Paragraphe>Photo reproduite 2 fois sur la même page</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dernière mise en circulation : juin 2009</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>OUI</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passeport biométrique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sur la couverture, le mot <Expression>passeport</Expression> est souligné</Paragraphe>
+<Paragraphe>Sous le mot passeport, se trouve un symbole sécurisé (cercle à l'intérieur d'un rectangle)</Paragraphe>
+<Paragraphe>Photo reproduite 2 fois sur la même page</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir du 31 octobre 2008 (selon les départements)</Paragraphe>
+<Paragraphe>Tout passeport délivré depuis le 29 juin 2009 est un passeport biométrique.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>OUI</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Carte d'identité</Paragraphe>
+</Titre><Tableau>
+<Titre>Type de carte d'identité</Titre>
+<Colonne largeur="31" type="header"/>
+<Colonne largeur="21" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Colonne largeur="15" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de carte d'identité</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Description</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Période de mise en circulation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Titre sécurisé ?</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Carte cartonnée (ancien modèle)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Carte cartonnée pliable</Paragraphe>
+<Paragraphe>Couleur : beige</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dernière mise en circulation : décembre 1995</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>NON</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Carte  plastifiée</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Carte rectangulaire rigide</Paragraphe>
+<Paragraphe>Couleur : dégradé bleu-vert</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Toute carte d'identité délivrée depuis décembre 1995 est une carte sécurisée.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>OUI</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</Texte><QuestionReponse ID="F14079" audience="Particuliers">Voyage aux USA : quelles sont les formalités (passeport, visa...) ?</QuestionReponse>
+
+</Publication>

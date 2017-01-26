@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F52" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Impôt sur le revenu : moyens de paiement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Il est possible de payer son impôt de manière dématérialisée ou traditionnelle (chèques, Tip, virement).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F52</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022178463&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162910&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179950&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162914&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N219</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N219">Impôt sur le revenu : paiement</Niveau>
+<Niveau ID="F52" type="Fiche d'information">Impôt sur le revenu : moyens de paiement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N219">
+<Titre>Impôt sur le revenu : paiement</Titre>
+<Fiche ID="F3120">Paiement par acomptes (tiers provisionnels)</Fiche>
+<Fiche ID="F3122">Paiement par prélèvements mensuels (mensualisation)</Fiche>
+<Fiche ID="F52">Moyens de paiement</Fiche>
+</DossierPere>
+<Avertissement ID="R35411" date="2017-01-01">
+<Titre>Impôt sur le revenu : déclaration 2017 des revenus de 2016</Titre>
+<Texte>
+				<Paragraphe>Le contenu de cette page est à jour pour la déclaration des revenus de 2016 à l'exception des formulaires, services en ligne et documents d'information. Ceux-ci seront mis en ligne dès qu'ils seront disponibles.</Paragraphe>
+			</Texte>
+</Avertissement>
+
+<Introduction>
+<Texte><Paragraphe>
+			Vous pouvez choisir votre mode de paiement de l'impôt. Cependant, lorsque le montant de votre impôt sur le revenu dépasse <Valeur>2 000 €</Valeur>, vous devez  payer directement en ligne ou par prélèvements automatiques (mensuels ou à l'échéance). </Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Impôt ne dépassant pas 2 000 €</Titre>
+<Texte><Paragraphe>Vous avez le choix de votre mode de paiement de l'impôt sur le revenu.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Payer en ligne</Paragraphe>
+</Titre><Paragraphe>Vous pouvez payer en ligne depuis votre ordinateur, tablette ou smartphone.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Depuis votre ordinateur</Paragraphe>
+</Titre><ServiceEnLigne ID="R2771" URL="https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente" type="Téléservice">
+<Titre>Paiement de l'impôt en ligne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Sur le site du paiement de l'impôt, vous pouvez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Souscrire ou modifier votre souscription au prélèvement mensuel (mensualisation) ou au prélèvement à l'échéance de vos impôts</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Payer votre impôt en ligne</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le téléservice explique comment s'y prendre pour effectuer ces démarches.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Sur tablette ou smartphone</Paragraphe>
+</Titre><Paragraphe>Téléchargez l'application "Impots.gouv" qui vous permet de payer en flashant le code imprimé en bas à gauche de la première page de votre avis d'imposition.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>vous pouvez également adhérer au <LienInterne LienPublication="F3122" type="Fiche d'information" audience="Particuliers">prélèvement mensuel</LienInterne> ou à l'échéance de l'impôt sur le revenu sur votre <LienInterne LienPublication="R3120" type="Téléservice" audience="Particuliers">espace particulier</LienInterne>, ou en vous adressant à votre centre prélèvement service.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Par chèque</Paragraphe>
+</Titre><Paragraphe>Les chèques sont remis directement ou adressés par la poste au comptable chargé du recouvrement. Ils sont datés du jour ou de la veille de leur remise et s'ils sont transmis par la poste du jour même de leur expédition.</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Libellez votre chèque à l'ordre du Trésor public.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Joignez le talon de paiement, sans l'agrafer, sans le signer ou le coller.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Envoyez le chèque accompagné du talon de paiement, sans autre document, en utilisant l'enveloppe retour jointe à votre avis.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les chèques sont adressés au centre d'encaissement dont l'adresse figure sur le Tip.</Paragraphe>
+<Paragraphe>Les non-résidents doivent adresser leur chèque à la <LienInterne LienPublication="R122" type="Centre de contact" audience="Particuliers">trésorerie des  non résidents</LienInterne>
+<LienInterne LienPublication="R122" type="Centre de contact" audience="Particuliers"/> pour leurs seuls revenus de source française.</Paragraphe>
+<Paragraphe>Le chèque est encaissé dès réception. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Titre interbancaire de paiement (Tip Sepa)</Paragraphe>
+</Titre><Paragraphe>Le Tip est inclus dans l'avis d'imposition. il doit être daté et signé par le contribuable. Vous devez l'adresser au centre d'encaissement dont l'adresse figure sur le Tip. </Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si les coordonnées bancaires ne figurent pas déjà sur le Tip ou si vous souhaitez modifier le compte bancaire à débiter, vous devez y joindre un relevé d'identité bancaire (RIB) à votre envoi.</Paragraphe>
+</ANoter><Paragraphe>Le paiement par Tip Sepa est encaissé dès réception.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Virement</Paragraphe>
+</Titre><Paragraphe>Vous devez remettre un ordre de virement à votre banque, en indiquant la référence, la nature et l'échéance de l'impôt. Pour plus d'informations sur la procédure adaptée à votre dossier fiscal, vous pouvez contacter votre centre des impôts.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Résident en France</Paragraphe>
+</Titre><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Non-résident</Paragraphe>
+</Titre><OuSAdresser ID="R122" type="Centre de contact">
+<Titre>Service des impôts des particuliers non résidents</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0) 1 57 33 83 00
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 9h à 16h</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			sip.nonresidents[@]dgfip.finances.gouv.fr</Paragraphe>
+								<Paragraphe>(précisez vos noms, prénoms, adresse et numéro fiscal que vous trouverez sur votre avis d'imposition)</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+		
+			10, rue du Centre</Paragraphe>
+								<Paragraphe>TSA 10010</Paragraphe>
+								<Paragraphe>93465 Noisy-Le-Grand Cedex </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En espèces</Paragraphe>
+</Titre><Paragraphe>Si votre impôt est inférieur ou égal à <Valeur>300 €</Valeur> , vous pouvez payer en espèces à la caisse du comptable public chargé du recouvrement.</Paragraphe>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Supérieur à 2 000 €</Titre>
+<Texte><Paragraphe>Vous pouvez choisir de payer votre impôt directement en ligne (depuis votre ordinateur, sur tablette ou smartphone), ou adhérer au prélèvement mensuel ou à l'échéance.</Paragraphe>
+
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Depuis votre ordinateur</Paragraphe>
+</Titre><ServiceEnLigne ID="R2771" URL="https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente" type="Téléservice">
+<Titre>Paiement de l'impôt en ligne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Sur le site du paiement de l'impôt, vous pouvez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Souscrire ou modifier votre souscription au prélèvement mensuel (mensualisation) ou au prélèvement à l'échéance de vos impôts</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Payer votre impôt en ligne</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le téléservice explique comment s'y prendre pour effectuer ces démarches.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Sur tablette ou smartphone</Paragraphe>
+</Titre><Paragraphe>Téléchargez l'application "Impots.gouv" qui vous permet de payer flashant le code imprimé en bas à gauche de la première page de votre avis d'imposition.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>Vous pouvez également adhérer au <LienInterne LienPublication="F3122" type="Fiche d'information" audience="Particuliers">prélèvement mensuel</LienInterne> ou à l'échéance de l'impôt sur le revenu sur votre <LienInterne LienPublication="R3120" type="Téléservice" audience="Particuliers">espace particulier</LienInterne>, ou en vous adressant à votre centre prélèvement service.</Paragraphe>
+</ASavoir>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F3122" audience="Particuliers">
+<Titre>Impôt sur le revenu : paiement par prélèvements mensuels (mensualisation)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service gestionnaire de votre dossier</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022178463&amp;cidTexte=LEGITEXT000006069577" ID="R12070">
+<Titre>Code général des impôts : article 1680</Titre>
+<Complement>Montant maximum pour payer les impôts et taxes en espèces</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162910&amp;cidTexte=LEGITEXT000006069577" ID="R32909">
+<Titre>Code général des impôts : articles 1681 A à 1681 E</Titre>
+<Complement>Paiement mensuel</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179950&amp;cidTexte=LEGITEXT000006069577" ID="R32910">
+<Titre>Code général des impôts : article 1681 sexies</Titre>
+<Complement>Paiement par virement ou par prélèvements</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162914&amp;cidTexte=LEGITEXT000006069577" ID="R32911">
+<Titre>Code général des impôts : article 1681 septies</Titre>
+<Complement>Paiement par télérèglement</Complement>
+</Reference>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2771" URL="https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente" type="Téléservice">
+<Titre>Paiement de l'impôt en ligne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2740" URL="https://www3.impots.gouv.fr/simulateur/calcul_impot/2017/index.htm" type="Simulateur">
+<Titre>Simulateur de calcul pour 2017 : impôt sur les revenus de 2016</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R32908" URL="http://bofip.impots.gouv.fr/bofip/662-PGP?datePubl=vig" audience="Particuliers">
+<Titre>Moyens de paiement dématérialisés (prélèvements, paiement en ligne)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32939" URL="https://www.impots.gouv.fr/portail/node/4325" audience="Particuliers">
+<Titre>Le paiement direct en ligne des impôts</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32907" URL="http://bofip.impots.gouv.fr/bofip/656-PGP?datePubl=vig" audience="Particuliers">
+<Titre>Moyens de paiement traditionnels (numéraire, chèque, tip, virement)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F128" audience="Particuliers">Tiers provisionnels ou mensualisation : comment moduler les prélèvements ?</QuestionReponse>
+<QuestionReponse ID="F33890" audience="Particuliers">Quand doit-on payer ses impôts ?</QuestionReponse>
+</Publication>

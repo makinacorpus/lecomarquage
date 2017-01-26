@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1426" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'entente préalable - Nomenclature des actes de biologie médicale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé, Secteurs d'activité</dc:subject>
+<dc:description>Demande d'entente préalable - Nomenclature des actes de biologie médicale - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-23</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1426</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N17972">Santé</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1426" type="Formulaire">Demande d'entente préalable - Nomenclature des actes de biologie médicale</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>10128*04</NumeroCerfa>
+<AutreNumero>S3132</AutreNumero>
+<Texte><Paragraphe>Formulaire à remplir pour tous les actes de la nomenclature des actes de biologie médicale soumis à l'obligation de l'entente préalable.</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Volets 1 et 3 : à adresser préalablement à l'exécution des actes au service médical de l'organisme d'assurance maladie dont dépend l'assuré </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Volet 2 : à conserver par l'assuré</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Accès à la notice n°50053#01</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3132.pdf" format="application/pdf" poids="651.4 KB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F168" audience="Particuliers" type="Fiche d'information">
+<Titre>Accord préalable de la Sécurité sociale (Assurance maladie)</Titre>
+<Dossier ID="N418">Assurance maladie : affiliation et remboursements des soins</Dossier>
+</FicheLiee>
+<Dossier ID="N17972">
+<Titre>Santé</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

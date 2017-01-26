@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31971" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas de perte ou vol en France de son permis délivré par un autre pays européen ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Votre démarche sera différente selon la nature de votre séjour en France : voyage ou installation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31971</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020549506&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19126</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N19126">Conduire en France avec un permis étranger</Niveau>
+<Niveau ID="F31971" type="Fiche Question-réponse">Que faire en cas de perte ou vol en France de son permis délivré par un autre pays européen ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N19126">
+<Titre>Conduire en France avec un permis étranger</Titre>
+<Fiche ID="F1757">Conduire en France avec un permis européen</Fiche>
+<Fiche ID="F1459">Conduire en France avec un permis non européen</Fiche>
+<Fiche ID="F1758">Échanger un permis de conduire d'un autre pays européen</Fiche>
+<Fiche ID="F1460">Échanger un permis de conduire non européen</Fiche>
+</DossierPere>
+
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Voyage en France</Titre>
+<Texte><Paragraphe>En cas de voyage en France, vous devrez contacter votre ambassade ou votre consulat.</Paragraphe>
+
+<Chapitre><Paragraphe>En cas de perte ou de vol de votre  permis de conduire  lors de vacances ou d'un voyage professionnel ou familial en France, vous devez contacter votre consulat ou ambassade, afin qu'il/elle obtienne des autorités de délivrance de votre permis un document attestant de la validité et de l'étendue de vos droits à conduire. </Paragraphe><OuSAdresser ID="R2884" type="Local personnalisable">
+<Titre>Ambassade ou consulat étranger en France</Titre>
+<PivotLocal>ambassade_etranger_france</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-ministere/ambassades-et-consulats-etrangers/"/>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</OuSAdresser>
+
+<Paragraphe>Muni de ce document et du récépissé de votre consulat ou de votre ambassade attestant de la perte ou du vol de votre permis, vous pourrez conduire en France pendant votre séjour et pour  <MiseEnEvidence>2 mois maximum</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>De retour dans votre pays, vous devrez  vous adresser aux autorités compétentes pour obtenir un nouveau permis. </Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Si vous êtes installé en France</Titre>
+<Texte><Paragraphe>Si vous êtes installé en France, la démarche est différente selon qu'il s'agit de la perte ou du vol de votre permis de conduire.</Paragraphe>
+
+<Chapitre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En cas de perte</Paragraphe>
+</Titre><Paragraphe>En cas de perte de votre permis, vous devez vous adresser à la préfecture ou sous-préfecture de votre domicile, ou, à Paris, au bureau des permis de conduire de la préfecture de police.</Paragraphe>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R19575" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris - Bureau des permis de conduire</Titre>
+<PivotLocal>paris_ppp_permis_conduire</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Permis-de-conduire-et-papiers-du-vehicule/Permis-de-conduire#ancre-6"/>
+<Source ID="R30800">Préfecture de police de Paris</Source>
+</OuSAdresser>
+
+<Paragraphe>Si vous aviez demandé et obtenu l'enregistrement de votre permis de conduire à votre arrivée en France auprès de votre préfecture ou sous-préfecture, un récépissé de perte vous sera délivré.</Paragraphe>
+<Paragraphe>Si vous n'aviez pas demandé l'enregistrement de votre permis, vous devrez présenter lors de votre déclaration de perte, un document original émanant des autorités de délivrance de votre permis attestant de la validité et de l'étendue de vos droits à conduire. Ce document, s'il est rédigé en langue étrangère, doit être accompagné de sa traduction officielle en français.</Paragraphe>
+<Paragraphe>Vous devrez justifier à cette occasion de votre résidence normale en France au cours des 6 derniers mois. Vous pourrez prouver votre résidence normale par tout moyen (par exemple : carte de séjour si vous en avez demandé une, contrat de location, quittances de loyers, contrat de travail, bulletins de salaire...).</Paragraphe>
+<Paragraphe>Un récépissé de perte vous sera remis, après vérification par le préfet que votre permis européen ne fait pas l'objet d'une mesure d'annulation, de rétention ou de suspension.</Paragraphe>
+<Paragraphe>Il vous permettra de conduire en France pendant 2 mois.</Paragraphe>
+<Paragraphe>Une fois en possession du récépissé de perte, vous devrez déposer une demande de permis de conduire par échange auprès de votre préfecture ou sous-préfecture. L'État de l'<LienIntra LienID="R42218" type="Définition de glossaire">Espace économique européen (EEE)</LienIntra> qui vous a délivré votre permis n'est plus compétent.</Paragraphe>
+<Paragraphe>Dans tous les cas, les pièces suivantes vous seront demandées :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le formulaire <LienInterne LienPublication="R31381" type="Formulaire" audience="Particuliers">cerfa n°14879*01</LienInterne> de demande d'échange de permis de conduire complété, daté et signé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le formulaire 06 <LienInterne LienPublication="R32666" type="Formulaire" audience="Particuliers">cerfa n°14948*01</LienInterne> complété, daté et signé (ce formulaire doit être obligatoirement imprimé en couleur),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le récépissé de perte  de votre permis européen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un timbre fiscal de <Valeur>25 €</Valeur>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Renseignez-vous auprès de votre préfecture ou sous-préfecture pour connaître la liste complète des pièces à fournir selon votre situation.</Paragraphe>
+<Paragraphe>Si votre dossier est complet, un permis français vous sera délivré. Ce nouveau permis remplacera votre permis d'origine perdu.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En cas de vol</Paragraphe>
+</Titre><Paragraphe>En cas de vol de votre permis, vous devez vous adresser suivant votre lieu de résidence au commissariat de police, ou à la gendarmerie.</Paragraphe>
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<Paragraphe>Si vous aviez demandé et obtenu l'enregistrement de votre permis de conduire à votre arrivée en France auprès de votre préfecture ou sous-préfecture, un récépissé de vol vous sera délivré.</Paragraphe>
+<Paragraphe>Si vous n'aviez pas demandé l'enregistrement de votre permis, vous devrez présenter lors de votre déclaration de  vol, un document original émanant des autorités de délivrance de votre permis attestant de la validité et de l'étendue de vos droits à conduire. Ce document, s'il est rédigé en langue étrangère, doit être accompagné de sa traduction officielle en français.</Paragraphe>
+<Paragraphe>Vous devrez justifier à cette occasion de votre résidence normale en France au cours des 6 derniers mois. Vous pourrez prouver votre résidence normale par tout moyen (par exemple : carte de séjour si vous en avez demandé une, contrat de location, quittances de loyers, contrat de travail, bulletins de salaire...).</Paragraphe>
+<Paragraphe>Un récépissé de vol vous sera remis, après vérification par les forces de l'ordre que votre permis européen ne fait pas l'objet d'une mesure d'annulation, de rétention ou de suspension.</Paragraphe>
+<Paragraphe>Il vous permettra de conduire en France pendant 2 mois.</Paragraphe>
+<Paragraphe>Une fois en possession du récépissé de vol, vous devrez déposer une demande de permis de conduire par échange auprès de votre préfecture ou sous-préfecture. L'État de l'<LienIntra LienID="R42218" type="Définition de glossaire">Espace économique européen (EEE)</LienIntra> qui vous a délivré votre permis n'est plus compétent.</Paragraphe>
+<Paragraphe>Dans tous les cas, les pièces suivantes vous seront demandées :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le formulaire <LienInterne LienPublication="R31381" type="Formulaire" audience="Particuliers">cerfa n°14879*01</LienInterne> de demande d'échange de permis de conduire complété, daté et signé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le formulaire 06 <LienInterne LienPublication="R32666" type="Formulaire" audience="Particuliers">cerfa n°14948*01</LienInterne> complété, daté et signé (ce formulaire doit être obligatoirement imprimé en couleur),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le récépissé de vol de votre permis européen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un timbre fiscal de <Valeur>25 €</Valeur>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Renseignez-vous auprès de votre préfecture ou sous-préfecture pour connaître la liste complète des pièces à fournir selon votre situation.</Paragraphe>
+<Paragraphe>Si votre dossier est complet, un permis français vous sera délivré. Ce nouveau permis remplacera votre permis d'origine volé.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020549506&amp;cidTexte=LEGITEXT000006069577" ID="R2051">
+<Titre>Code général des impôts : articles 1628-0-bis à 1628 ter</Titre>
+<Complement>Coût du permis en cas de non-présentation de l'ancien titre (article 1628 ter)</Complement>
+</Reference>
+<ServiceEnLigne ID="R31381" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14879.do" numerocerfa="14879*01" type="Formulaire">
+<Titre>Demande de permis de conduire par échange</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32666" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14948.do" format="application/force-download" poids="1.0 MB" numerocerfa="14948*01" autrenumero="référence 06" type="Formulaire">
+<Titre>Demande de permis de conduire - Format de l'Union européenne</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R34002" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51725%2302&amp;cerfaFormulaire=14948*01" numerocerfa="51725*02">Notice explicative pour le formulaire de recueil complémentaire cerfa 14948 (demande de permis de conduire)</NoticeLiee>
+</ServiceEnLigne>
+<Definition ID="R42218">
+<Titre>Pays de l'Espace économique européen (EEE)</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Islande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède.</Paragraphe>
+			</Texte>
+</Definition>
+
+
+</Publication>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N277" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Saisies et recouvrements</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Une saisie est une procédure par laquelle un créancier demande l'exécution d'une obligation, généralement évaluée en argent. Les procédures de saisie varient selon le but à atteindre ou la nature du bien à saisir.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-11-24</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N277</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19807</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N277" type="Dossier">Saisies et recouvrements</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20385">Réparation du préjudice</SousThemePere>
+<SousDossier ID="N277-1">
+<Titre>Saisie d'argent</Titre><Fiche ID="F1850">Saisie sur compte bancaire</Fiche>
+<Fiche ID="F31716">Avis à tiers détenteur (ATD)</Fiche>
+<Fiche ID="F115">Saisie sur salaire (ou rémunération)</Fiche>
+<Fiche ID="F1437">Solde bancaire insaisissable (SBI)</Fiche>
+</SousDossier>
+<SousDossier ID="N277-2">
+<Titre>Saisie d'un bien</Titre><Fiche ID="F1748">Saisie conservatoire</Fiche>
+<Fiche ID="F1751">Saisie-vente</Fiche>
+<Fiche ID="F1752">Saisie du véhicule</Fiche>
+<Fiche ID="F1763">Saisie-appréhension : livraison ou restitution d'un bien</Fiche>
+<Fiche ID="F16987">Saisie immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N277-3">
+<Titre>Recouvrement</Titre><Fiche ID="F2272">Créance : recouvrement par un tiers</Fiche>
+<Fiche ID="F1744">Dommages-intérêts : aide au recouvrement</Fiche>
+<Fiche ID="F783">Calcul de l'intérêt légal</Fiche>
+<Fiche ID="F998">Pension alimentaire : recouvrement par paiement direct</Fiche>
+<Fiche ID="F2319">Pension alimentaire : recouvrement par saisie sur salaire</Fiche>
+<Fiche ID="F1000">Pension alimentaire : recouvrement par le biais du Trésor public</Fiche>
+<Fiche ID="F1002">Pension alimentaire : recouvrement par la Caf ou la MSA</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			Une  saisie est une  procédure par laquelle un <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra> demande l'exécution d'une obligation, généralement évaluée en argent. Les procédures de saisie varient selon le but à atteindre ou la nature du bien à saisir. </Paragraphe>
+</Texte>
+</Introduction><Partenaire ID="R1857" URL="http://www.justice.gouv.fr/"/>
+<ServiceEnLigne ID="R1465" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12948.do" numerocerfa="12948*03" type="Formulaire">
+<Titre>Demande en injonction de payer au président du tribunal d'instance</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R13700" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51156&amp;cerfaFormulaire=12948" numerocerfa="51156#05">Notice d'information pour la demande en injonction de payer</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16191" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12946.do" format="application/pdf" poids="150.2 KB" numerocerfa="12946*01" type="Formulaire">
+<Titre>Demande en injonction de payer au président du tribunal de commerce</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R13700" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51156&amp;cerfaFormulaire=12948" numerocerfa="51156#05">Notice d'information pour la demande en injonction de payer</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1466" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12947.do" numerocerfa="12947*03" type="Formulaire">
+<Titre>Demande en injonction de payer au juge de proximité</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R13700" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51156&amp;cerfaFormulaire=12948" numerocerfa="51156#05">Notice d'information pour la demande en injonction de payer</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31678" URL="http://www.conso.net/content/une-agence-de-recouvrement-vous-r%C3%A9clame-le-paiement-d%E2%80%99une-facture-impay%C3%A9e-ainsi-que-des" format="text/html; charset=utf-8" poids="0" type="Modèle de document">
+<Titre>Régler une facture impayée à une agence de recouvrement</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R33444" URL="http://www.lesclesdelabanque.com/web/Cdb/Particuliers/Content.nsf/DocumentsByIDWeb/6W9MQH?OpenDocument" audience="Particuliers">
+<Titre>L'avis à tiers détenteur (et l'avis d'opposition administrative)</Titre>
+<Source ID="R30639">Fédération bancaire française</Source>
+</PourEnSavoirPlus>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F2975" audience="Particuliers">À quoi sert une reconnaissance de dette ?</QuestionReponse>
+<QuestionReponse ID="F31185" audience="Particuliers">Quelles sont les sources de revenus saisissables ?</QuestionReponse>
+<QuestionReponse ID="F863" audience="Particuliers">Les prestations familiales sont-elles saisissables ?</QuestionReponse>
+<QuestionReponse ID="F2163" audience="Particuliers">Quels sont les biens mobiliers qui ne peuvent pas être saisis ?</QuestionReponse>
+<QuestionReponse ID="F922" audience="Particuliers">Quels sont les types de saisies auxquelles l'huissier peut procéder ?</QuestionReponse>
+<QuestionReponse ID="F399" audience="Particuliers">Un huissier peut-il entrer dans un logement en l'absence de son occupant ?</QuestionReponse>
+<QuestionReponse ID="F10404" audience="Particuliers">Le créancier doit-il payer un droit de recouvrement à l'huissier de justice ?</QuestionReponse>
+<QuestionReponse ID="F33335" audience="Particuliers">Le débiteur doit-il payer un droit de recouvrement à l'huissier de justice ?</QuestionReponse>
+<QuestionReponse ID="F1004" audience="Particuliers">Comment recouvrer une pension alimentaire dont le débiteur est à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F20688" audience="Particuliers">Qu'est-ce que l'intérêt légal ?</QuestionReponse>
+
+</Publication>

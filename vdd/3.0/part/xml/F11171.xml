@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11171" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Regroupement familial : renouvellement du titre de séjour</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Pour pouvoir demeurer en France, la famille entrée par regroupement familial doit demander le renouvellement de son droit au séjour. Plusieurs conditions doivent être remplies pour le renouvellement. Le regroupement familial peut être remis en cause en cas de rupture de la vie commune.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-09-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11171</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020040148&amp;cidTexte=LEGITEXT000006070158, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000024197322&amp;idSectionTA=LEGISCTA000006180201&amp;cidTexte=LEGITEXT000006070158, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000024197253&amp;idSectionTA=LEGISCTA000006147768&amp;cidTexte=LEGITEXT000006070158, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025100779&amp;cidTexte=LEGITEXT000006070158, http://www.interieur.gouv.fr/content/download/37193/281098/file/INTV1243671C_.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N11165</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N11165">Regroupement familial</Niveau>
+<Niveau ID="F11171" type="Fiche d'information">Regroupement familial : renouvellement du titre de séjour</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N11165">
+<Titre>Regroupement familial</Titre>
+<Fiche ID="F11166">Étrangers concernés</Fiche>
+<Fiche ID="F11169">Dépôt et instruction de la demande</Fiche>
+<Fiche ID="F11170">Démarches de la famille</Fiche>
+<Fiche ID="F11171">Renouvellement du séjour de la famille</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Pour pouvoir demeurer en France, la famille entrée par regroupement familial doit demander le renouvellement de son droit au séjour.
+Plusieurs conditions doivent être remplies pour le renouvellement.
+			Le regroupement familial peut être remis en cause en cas de rupture de la vie commune.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Famille concernée</Paragraphe>
+</Titre><Paragraphe>Il s'agit de l'époux(se) et des enfants majeurs entrés par regroupement familial et dont le <LienInterne LienPublication="F39" type="Fiche d'information" audience="Particuliers">visa de long séjour valant titre de séjour</LienInterne> ou la carte de séjour <LienInterne LienPublication="F2209" type="Fiche d'information" audience="Particuliers">vie privée et familiale</LienInterne> va expirer.</Paragraphe>
+<Paragraphe>L'enfant entré mineur en France et devenu majeur doit aussi demander une carte de séjour.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la famille  d'un pays lié à la France par un accord  de circulation et de séjour et qui a reçu une carte de résident ou un certificat pour Algérien de 10 ans doit aussi demander le renouvellement du titre au bout de 10 ans.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarches</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Lieu de la demande</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+												<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											<Attention>
+<Titre>Attention</Titre>
+												<Paragraphe> il n'est pas possible d'effectuer les démarches dans certaines sous-préfectures.</Paragraphe>
+											</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R42203" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Service des titres de séjour</Titre>
+<PivotLocal>paris_ppp_titre_sejour</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour/Nous-contacter-Titre-de-sejour"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Moment de la demande</Paragraphe>
+</Titre><Paragraphe>Le conjoint et les enfants majeurs doivent effectuer leur demande au plus tard 2 mois avant la fin de leur visa de long séjour valant titre de séjour ou de leur carte de séjour.</Paragraphe>
+<Paragraphe>L'enfant entré mineur en France et devenu majeur doit demander une carte de séjour au plus tard avant ses 19 ans.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Dans tous les cas, les documents suivants doivent être présentés par l'étranger :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les indications sur son état civil,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un justificatif de domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>3 <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">photos 
+</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les autres pièces demandées diffèrent selon la situation du demandeur : conjoint ou enfant bénéficiaire du regroupement familial, et pour l'enfant s'il dispose déjà d'une carte de séjour.</Paragraphe>
+<Paragraphe>Pour connaître la liste complète des pièces à fournir suivant sa situation, se renseigner auprès de sa préfecture.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Taxes et droit de timbre à payer</Paragraphe>
+</Titre><Paragraphe>Le passage d'un visa de long séjour valant titre de séjour à une carte de séjour et le renouvellement de la carte de séjour sont payants.</Paragraphe>
+<Paragraphe>Le demandeur doit régler des taxes et droits via des <LienInterne LienPublication="F33071" type="Fiche Question-réponse" audience="Particuliers">timbres fiscaux</LienInterne>.</Paragraphe>
+<Paragraphe>Les timbres sont demandés au moment de l'accord sur la demande ou de la remise de la carte. Se renseigner auprès de sa préfecture.</Paragraphe>
+<Tableau>
+<Titre>Coût selon le titre demandé</Titre>
+<Colonne largeur="43" type="normal"/>
+<Colonne largeur="43" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Titre demandé</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taxes et droits de timbre dus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passage d'un visa de long séjour valant titre de séjour à une carte de séjour temporaire d'un an</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>106 €</Valeur>
+</Paragraphe>
+<Paragraphe>(droit de timbre de <Valeur>19 €</Valeur>+ taxe de <Valeur>87 €</Valeur>)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Renouvellement d'une carte de séjour temporaire ou d'un certificat de résidence algérien d'1 an</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>269 €</Valeur>
+</Paragraphe>
+<Paragraphe>(droit de timbre de <Valeur>19 €</Valeur>+ taxe de <Valeur>250 €</Valeur>)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passage d'une carte de séjour temporaire (1 an) à une carte de résident (10 ans)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>260 €</Valeur>
+</Paragraphe>
+<Paragraphe>(droit de timbre de <Valeur>19 €</Valeur>+ taxe de <Valeur>241,00 €</Valeur>)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passage d'un certificat de résidence algérien d'1 an à un certificat de résidence algérien de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exempté</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Renouvellement d'une carte de résident (10 ans)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>269 €</Valeur>
+</Paragraphe>
+<Paragraphe>(droit de timbre de <Valeur>19 €</Valeur> + taxe de <Valeur>250 €</Valeur>)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Renouvellement d'un certificat de résidence algérien de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exempté</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si le titre initial n'est pas présenté, le coût du renouvellement est majoré de <Valeur>16 €</Valeur> s'il s'agit d'une carte d'un an ou de  <Valeur>9 €</Valeur> s'il s'agit d'une carte de 10 ans.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Demande déposée hors délai</Paragraphe>
+</Titre><Paragraphe>Un droit de visa de régularisation de <Valeur>180 €</Valeur> est réclamé en cas de demande déposée hors délai (sauf cas de force majeure ou présentation d'un visa valide).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Personnes exonérées de tout paiement</Paragraphe>
+</Titre><Paragraphe>L'époux(se), qui est victime de violences conjugales et dont la vie commune a été rompue, reçoit gratuitement sa carte de séjour. </Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Instruction de la demande</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Époux(se) rejoignant(e)</Paragraphe>
+</Titre><Paragraphe>À l'occasion de la demande de renouvellement, le préfet vérifie un certain nombre de conditions concernant le conjoint rejoignant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>absences de polygamie et de menace à l'ordre public,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>persistance de la communauté de vie entre les époux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et, lors du 1<Exposant>er</Exposant> renouvellement du titre, respect des stipulations du <LienInterne LienPublication="F17048" type="Fiche Question-réponse" audience="Particuliers">contrat d'intégration républicaine</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Enfants majeurs</Paragraphe>
+</Titre><Paragraphe>L'enfant majeur (ou de plus de 17 ans s'il a obtenu une carte pour travailler) doit aussi remplir certaines conditions :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>absence de menace à l'ordre public,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et, s'il y était soumis à son entrée en France, respect du contrat d'accueil et d'intégration.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délivrance de la carte</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Lieu de remise</Paragraphe>
+</Titre><Paragraphe>La carte de séjour est remise au guichet de la préfecture ou de la sous-préfecture qui a reçu la demande.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée de la carte</Paragraphe>
+</Titre><Paragraphe>Le demandeur titulaire d'un visa de long séjour valant titre de séjour reçoit une carte de séjour temporaire (1 an).</Paragraphe>
+<Paragraphe>Le demandeur titulaire d'une carte de séjour temporaire (1 an) reçoit en renouvellement la même carte.</Paragraphe>
+<Paragraphe>Après 3 ans minimum de séjour régulier et ininterrompu en France, il peut
+        demander <LienInterne LienPublication="F2208" type="Fiche d'information" audience="Particuliers">une carte de résident
+        (10 ans)</LienInterne>, si son conjoint ou son parent, à l'origine du regroupement, est lui-même titulaire de cette carte. Son intégration en France, et notamment la signature et le respect du (ou des) contrat(s) d'accueil et d'intégration (CAI et CAIF), sont vérifiées.</Paragraphe>
+<Paragraphe>Le demandeur titulaire d'une carte de résident reçoit la même carte de 10 ans en renouvellement.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait ou refus de renouvellement du titre de séjour</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Rupture de la communauté de vie</Paragraphe>
+</Titre><Paragraphe>En cas de séparation des époux, le titre de séjour du conjoint rejoignant peut lui être retiré ou son renouvellement refusé, sauf exceptions.</Paragraphe>
+<Paragraphe>Cette décision peut intervenir pendant les 3 années qui suivent la délivrance du titre.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exceptions</Paragraphe>
+</Titre><Paragraphe>Le retrait ou le refus de renouvellement du titre ne peut pas avoir lieu si un ou plusieurs enfants sont nés de l'union :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>lorsque l'étranger rejoignant est titulaire de la carte de résident,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et qu'il prouve contribuer effectivement, depuis la naissance, à l'entretien et à l'éducation du ou des enfants.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le retrait du titre de l'époux rejoignant est également impossible lorsque il a subi des violences conjugales et que la communauté de vie a été rompue. Dans ce cas, le préfet peut décider le renouvellement du titre. Il a l'obligation de le faire si l'étranger est <LienInterne LienPublication="F12544" type="Fiche d'information" audience="Particuliers">bénéficiaire d'une ordonnance de protection</LienInterne>, sauf menace à l'ordre public.</Paragraphe>
+<Paragraphe>Enfin, le titre de séjour délivré à l'Algérien ne peut pas lui être retiré au motif de la rupture de la communauté de vie.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R250" type="Centre de contact">
+<Titre>3939 Allô Service Public</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3939 (coût : <Valeur>0,15 €</Valeur> TTC la minute)
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Répond aux demandes de renseignement administratif concernant les droits et démarches.
+		</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger ou hors métropole : +33 (0)1 73 60 39 39 uniquement depuis un poste fixe (coût d'une communication + coût de l'appel international variable selon les pays et les opérateurs).
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020040148&amp;cidTexte=LEGITEXT000006070158" ID="R17174">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L311-13 à L311-18</Titre>
+<Complement>Taxes et droit de timbre à payer</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000024197322&amp;idSectionTA=LEGISCTA000006180201&amp;cidTexte=LEGITEXT000006070158" ID="R34530">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L314-8 à L314-10</Titre>
+<Complement>Délivrance de la carte de résident</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000024197253&amp;idSectionTA=LEGISCTA000006147768&amp;cidTexte=LEGITEXT000006070158" ID="R35081">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L431-1 à L431-3</Titre>
+<Complement>Carte de séjour délivrée au titre du regroupement familial</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025100779&amp;cidTexte=LEGITEXT000006070158" ID="R19004">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : articles D311-18-1 à D311-18-3</Titre>
+<Complement>Taxes</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/37193/281098/file/INTV1243671C_.pdf" ID="R31269" format="application/octet-stream" poids="158.9 KB">
+<Titre>Circulaire du 31 décembre 2012 relative aux taxes liées à l'immigration</Titre>
+</Reference>
+<QuestionReponse ID="F11168" audience="Particuliers">Le regroupement familial concerne-t-il toutes les familles étrangères ?</QuestionReponse>
+<QuestionReponse ID="F10619" audience="Particuliers">Quelles photos sont admises pour une demande de titre d'identité ?</QuestionReponse>
+<QuestionReponse ID="F33071" audience="Particuliers">Étranger en France : comment acheter un timbre fiscal ?</QuestionReponse>
+<InformationComplementaire ID="R10480" date="2015-02-06">
+<Titre>Pays liés à la France par un accord sur le séjour (regroupement familial)</Titre>
+<Texte>
+				<Tableau>
+<Titre>Pays liés à la France par un accord bilatéral</Titre>
+<Colonne largeur="19" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>
+<MiseEnEvidence>Maghreb</MiseEnEvidence> </Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Algérie</Paragraphe>
+							<Paragraphe> Maroc </Paragraphe>
+							<Paragraphe> Tunisie </Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>
+<MiseEnEvidence>Afrique </MiseEnEvidence>
+</Paragraphe>
+							<Paragraphe>
+<MiseEnEvidence>francophone </MiseEnEvidence>
+</Paragraphe>
+							<Paragraphe>
+<MiseEnEvidence>subsaharienne</MiseEnEvidence>
+</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Bénin</Paragraphe>
+							<Paragraphe>Burkina Faso</Paragraphe>
+							<Paragraphe>Cameroun</Paragraphe>
+							<Paragraphe>Centrafrique</Paragraphe>
+							<Paragraphe>Congo-Brazaville</Paragraphe>
+							<Paragraphe>Côte d'Ivoire</Paragraphe>
+							<Paragraphe>Gabon</Paragraphe>
+							<Paragraphe>Mali</Paragraphe>
+							<Paragraphe>Mauritanie</Paragraphe>
+							<Paragraphe>Niger</Paragraphe>
+							<Paragraphe>Sénégal</Paragraphe>
+							<Paragraphe>Tchad</Paragraphe>
+							<Paragraphe>Togo</Paragraphe>
+						</Cellule>
+					</Rangée>
+</Tableau>
+			</Texte>
+</InformationComplementaire>
+
+</Publication>

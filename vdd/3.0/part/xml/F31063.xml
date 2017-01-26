@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31063" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un étudiant peut-il se réorienter pendant la première année d'université ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Si vous êtes inscrit en 1ère année de licence et que vous constatez une erreur d'orientation, vous pouvez bénéficier d'une réorientation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31063</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N58</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N58">Inscription dans l'enseignement supérieur</Niveau>
+<Niveau ID="F31063" type="Fiche Question-réponse">Un étudiant peut-il se réorienter pendant la première année d'université ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N58">
+<Titre>Inscription dans l'enseignement supérieur</Titre>
+<Fiche ID="F2861">Première inscription dans l'enseignement supérieur</Fiche>
+<Fiche ID="F2865">Coût des études</Fiche>
+<Fiche ID="F2326">Étudiant en situation de handicap</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Si vous êtes inscrit en université et que vous constatez que vous avez fait une erreur d'orientation, vous avez la possibilité de vous réorienter.</Paragraphe>
+<Paragraphe>En effet, l'université permet une réorientation à l'étudiant qui le souhaite, en général en fin de 1<Exposant>er</Exposant> semestre de la 1<Exposant>ère</Exposant> année de licence. Certaines universités proposent également des ateliers d'aide aux étudiants dans leur démarche de réorientation.</Paragraphe>
+<Paragraphe>Cette réorientation vous permet  d'être affecté dans une autre filière ou dans une autre université qui correspond davantage à votre projet.</Paragraphe>
+<Paragraphe>Si vous souhaitez en bénéficier, vous devez vous adresser au secrétariat de votre université pour en connaître les modalités, en général avant la fin du mois de décembre ou de la mi-janvier.</Paragraphe><OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+
+<Paragraphe>Par ailleurs, si vous souhaitez vous réorienter plus tard dans l'année, vous pouvez également utiliser le <LienInterne LienPublication="F23476" type="Fiche d'information" audience="Particuliers">dispositif "admission-postbac" (APB)</LienInterne> qui vous permet de reprendre une nouvelle formation dès la prochaine rentrée.</Paragraphe>
+
+</Texte><QuestionReponse ID="F637" audience="Particuliers">Un étudiant peut-il faire un stage dans la fonction publique ?</QuestionReponse>
+</Publication>

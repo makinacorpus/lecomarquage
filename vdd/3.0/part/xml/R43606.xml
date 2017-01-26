@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R43606" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'allocation de soutien familial (ASF) et d'aide au recouvrement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Demande d'allocation de soutien familial (ASF) et d'aide au recouvrement - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-06</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R43606</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N277">Saisies et recouvrements</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R43606" type="Formulaire">Demande d'allocation de soutien familial (ASF) et d'aide au recouvrement</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12038*02 et 10458*03</NumeroCerfa>
+<Texte><Paragraphe>Pour obtenir le formulaire, cliquez sur "Télécharger le formulaire" puis sur "Télécharger et imprimer le document (pdf)"</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/aideaurecouvrementdespensionsalimentaires">
+<Source>Caisse nationale des allocations familiales (Cnaf)</Source>
+</LienWeb>
+<FicheLiee ID="F1002" audience="Particuliers" type="Fiche d'information">
+<Titre>Garantie des impayés de pension alimentaire : recouvrement par la Caf ou la MSA</Titre>
+<Dossier ID="N277">Saisies et recouvrements</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

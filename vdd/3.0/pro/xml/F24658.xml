@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24658" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Les locaux à usage professionnel sont-ils soumis à la taxe d'habitation ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>La taxe d'habitation est en principe due uniquement pour les locaux à usage d'habitation et leurs dépendances, attenantes ou non au logement (chambres de service, garage, etc.).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24658</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179806&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N22470</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N22470">Taxes foncières</Niveau>
+<Niveau ID="F24658" type="Fiche Question-réponse">Les locaux à usage professionnel sont-ils soumis à la taxe d'habitation ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N22249">Impôts locaux</SousThemePere><DossierPere ID="N22470">
+<Titre>Taxes foncières</Titre>
+<Fiche ID="F31638">Taxe foncière sur les propriétés non bâties</Fiche>
+<Fiche ID="F59">Taxe foncière sur les propriétés bâties</Fiche>
+<Fiche ID="F22393">Taxe sur la vente de terrains agricoles rendus constructibles</Fiche>
+<Fiche ID="F32847">Taxes pour frais de chambre consulaire</Fiche>
+<Fiche ID="F32939">Contribution sur les revenus locatifs (CRL)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La taxe d'habitation est en principe due uniquement pour les locaux à usage d'habitation et leurs dépendances, attenantes ou non au logement (chambres de service, garage, etc.).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Les locaux meublés à usage privatif des sociétés ou organismes privés, qui ne sont pas soumis à la cotisation foncière des entreprises (CFE), sont imposables à la taxe d'habitation.</Paragraphe>
+<Paragraphe>Par conséquent, les locaux à usage professionnel sont exonérés de la taxe d'habitation :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>s'ils sont entièrement distincts de l'habitation (avec une entrée séparée),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'ils sont soumis à la <LienInterne LienPublication="F23547" type="Fiche d'information" audience="Professionnels">cotisation foncière des entreprises (CFE)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'ils sont  aménagés de façon à les rendre impropres à l'habitation (cabinet dentaire au sein de l'habitation, pièce utilisée comme bureau commercial, bâtiment agricole, etc.).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À contrario, les locaux utilisés par les travailleurs indépendants (chambre d'hôte par exemple), même soumis à la CFE, sont imposables à la taxe d'habitation s'ils font partie de l'habitation personnelle du contribuable.</Paragraphe>
+<Paragraphe>Cependant,  une exonération peut être accordée sur délibération de la  commune aux chambres d'hôtes, meublés de tourisme et gîtes ruraux,  situés en zones de revitalisation rurale (ZRR). Pour en bénéficier, le redevable doit envoyer la déclaration n°1205-GD-SD, accompagnée des éléments justifiant de l'affectation des locaux, au centre des finances publiques chaque année au plus tard le 31 décembre afin de bénéficier l'année suivante de l'exonération (attention, la déclaration est faite pour une seule année).</Paragraphe><ServiceEnLigne ID="R11242" URL="https://www.impots.gouv.fr/portail/node/8819" numerocerfa="13567*02" autrenumero="1205-GD" type="Formulaire">
+<Titre>Exonération de la taxe d'habitation pour chambres d'hôtes et meublés de tourisme situés en zone de revitalisation rurale (ZRR)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Cette déclaration à déposer  avant le 31 décembre de chaque année qui précède celle pour laquelle l'exonération est applicable, auprès du centre des impôts fonciers territorialement compétent, accompagnée de tous les documents justifiant de l'affectation des locaux.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>La taxe d'habitation est calculée sur la valeur locative nette, c'est-à-dire la valeur locative cadastrale du local diminuée, dans le cas de la résidence principale, d'abattements obligatoires pour charges de famille ou revenus faibles et facultatifs pour les personnes invalides.</Paragraphe>
+<Paragraphe>Son taux applicable varie selon la commune.</Paragraphe>
+
+</Texte><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179806&amp;cidTexte=LEGITEXT000006069577" ID="R975">
+<Titre>Code général des impôts : articles 1407 à 1407 bis</Titre>
+</Reference>
+<ServiceEnLigne ID="R11242" URL="https://www.impots.gouv.fr/portail/node/8819" numerocerfa="13567*02" autrenumero="1205-GD" type="Formulaire">
+<Titre>Exonération de la taxe d'habitation pour chambres d'hôtes et meublés de tourisme situés en zone de revitalisation rurale (ZRR)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+</Publication>

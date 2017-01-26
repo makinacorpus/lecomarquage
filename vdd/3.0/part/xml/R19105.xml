@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19105" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Transport aérien : faire une réclamation en ligne (refus d'embarquement, annulation ou retard)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Transport aérien : faire une réclamation en ligne (refus d'embarquement, annulation ou retard) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-05</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19105</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N84">Voyage en avion</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19105" type="Téléservice">Transport aérien : faire une réclamation en ligne (refus d'embarquement, annulation ou retard)</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>13675*01</NumeroCerfa>
+<Texte><Paragraphe>Permet de faire une réclamation en cas de refus d'embarquement, d'annulation ou de retard important.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13675.do" format="application/force-download" poids="1.2 MB">
+<Source>Ministère en charge des transports</Source>
+</LienWeb>
+<Dossier ID="N84">
+<Titre>Voyage en avion</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

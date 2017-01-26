@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33425" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Véhicule en leasing : que faire en cas de déménagement, mariage ou divorce ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Si la carte grise est à votre nom, vous devrez vous charger vous-même de faire la démarche pour prendre en compte ces modifications.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-04</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33425</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177098&amp;cidTexte=LEGITEXT000006074228, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020237165</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N367</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="F33425" type="Fiche Question-réponse">Véhicule en leasing : que faire en cas de déménagement, mariage ou divorce ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre><SousDossier ID="N367-1">
+<Titre>Immatriculer un véhicule</Titre>
+<Fiche ID="F10293">Immatriculer un véhicule neuf</Fiche>
+<Fiche ID="F1050">Immatriculer un véhicule d'occasion</Fiche>
+<Fiche ID="F1480">Hériter d'un véhicule</Fiche>
+<Fiche ID="F1726">Duplicata de la carte grise : perte, vol ou détérioration</Fiche>
+<Fiche ID="F1360">Obtenir un certificat de non gage</Fiche>
+<Fiche ID="F19211">Coût de la carte grise</Fiche>
+</SousDossier>
+<SousDossier ID="N367-2">
+<Titre>Titulaire du certificat et modification de sa situation</Titre>
+<Fiche ID="F10477">Titulaire et cotitulaire de la carte grise</Fiche>
+<Fiche ID="F12118">Changement d'adresse</Fiche>
+<Fiche ID="F10613">Ajouter une autre personne sur sa carte grise</Fiche>
+<Fiche ID="F31218">Retirer un nom au certificat</Fiche>
+<Fiche ID="F16876">Changement du nom du titulaire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-3">
+<Titre>Modifications du véhicule</Titre>
+<Fiche ID="F1754">Carte grise d'un véhicule retiré de la circulation</Fiche>
+<Fiche ID="F1473">Véhicule accidenté</Fiche>
+<Fiche ID="F1478">Véhicule transformé</Fiche>
+<Fiche ID="F1468">Véhicule à détruire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-4">
+<Titre>Plaques d'immatriculation</Titre>
+<Fiche ID="F20319">Plaques d'immatriculation</Fiche>
+<Fiche ID="F18679">Vol ou usurpation de plaques d'immatriculation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<ListeSituations affichage="onglet"><Situation>
+<Titre>La carte grise est à votre nom</Titre>
+<Texte><Paragraphe>Si la carte grise est à votre nom, vous devrez vous charger vous-même de faire la démarche pour prendre en compte ces modifications.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Vous déménagez</Paragraphe>
+</Titre><Paragraphe>Vous avez un mois pour signaler votre changement d'adresse à la préfecture. </Paragraphe>
+<Paragraphe>Si vous êtes contrôlé par les forces de l'ordre et que votre nouvelle adresse n'est pas inscrite sur la carte grise,  vous risquez  une amende pouvant  aller jusqu'à <Valeur>750 €</Valeur> (en général,  <LienInterne LienPublication="F18509" type="Fiche d'information" audience="Particuliers">amende forfaitaire</LienInterne> de <Valeur>135 €</Valeur>). </Paragraphe>
+<Paragraphe>Si le délai d'un mois pour déclarer votre changement d'adresse est dépassé, votre demande sera traitée.</Paragraphe>
+<Paragraphe>Si votre véhicule a une immatriculation de type <Expression>AB-123-CD</Expression>, vous pouvez le faire en utilisant le téléservice de changement d'adresse.</Paragraphe><ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Texte>
+				<Paragraphe> </Paragraphe>
+			
+<Paragraphe>Permet d'informer plusieurs   organismes publics et privés d'un changement d'adresse postale, d'adresse électronique, de numéro de téléphone fixe et de téléphone portable, notamment : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Carte grise</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de retraites (Agirc et Arrco, Cnav, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de sécurité sociale (CPAM, MSA, CAF, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La Poste, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pôle emploi, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Service des impôts, </Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Dans les autres cas, vous devez suivre les <LienInterne LienPublication="F12118" type="Fiche d'information" audience="Particuliers">formalités de changement d'adresse</LienInterne> suivant votre situation.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Vous vous mariez</Paragraphe>
+</Titre><Paragraphe>Si vous vous mariez et que vous souhaitez utiliser le nom de votre époux ou épouse sur votre carte grise, vous devez le faire modifier,  car il s'agit d'un <LienInterne LienPublication="F16876" type="Fiche d'information" audience="Particuliers">changement de nom d'usage</LienInterne> (cas de mariage).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Vous divorcez</Paragraphe>
+</Titre><Paragraphe>Si vous utilisiez le nom de votre époux(se) et qu'il était indiqué sur votre carte grise,  vous devez la faire modifier pour y indiquer  uniquement  <LienInterne LienPublication="F16876" type="Fiche d'information" audience="Particuliers">votre nom de famille</LienInterne>  (sauf si vous êtes <LienInterne LienPublication="F1091" type="Fiche Question-réponse" audience="Particuliers">autorisé à continuer de l'utiliser</LienInterne>).</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>La carte grise est au nom du prêteur</Titre>
+<Texte><Paragraphe>C'est le prêteur qui devra se charger de faire les modifications de la carte grise. Vous devrez lui transmettre les documents lui permettant de le faire.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Vous déménagez</Paragraphe>
+</Titre><Paragraphe>Vous devez signaler votre changement d'adresse à votre prêteur afin qu'il le signale à la préfecture.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vérifiez auprès de votre prêteur si vous ne devez pas lui transmettre l'original de votre certificat d'immatriculation, car il peut être nécessaire de le remettre à la préfecture selon la situation.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Vous vous mariez</Paragraphe>
+</Titre><Paragraphe>Si vous vous mariez et que vous souhaitez utiliser le nom de votre époux ou épouse, vous devez signaler votre changement de situation à votre prêteur afin qu'il fasse modifier la carte grise par la préfecture.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vérifiez auprès de votre prêteur les documents que vous devez lui  transmettre. En effet, outre une copie d'extrait d'acte de mariage ou du livret de famille, il peut être nécessaire de  remettre à la préfecture d'autres documents, comme la carte grise originale.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Vous divorcez</Paragraphe>
+</Titre><Paragraphe>Si vous utilisiez le nom de votre époux(se) et qu'il était indiqué sur votre carte grise,  vous devez la faire modifier pour y indiquer uniquement votre nom de famille (sauf si vous êtes <LienInterne LienPublication="F1091" type="Fiche Question-réponse" audience="Particuliers">autorisé à continuer de l'utiliser</LienInterne>).</Paragraphe>
+<Paragraphe>Signalez ce changement de situation à votre prêteur afin qu'il fasse modifier la carte grise par la préfecture.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vérifiez auprès de votre prêteur les documents que vous devez lui  transmettre. En effet, outre une copie du jugement de divorce, il peut être nécessaire de  remettre à la préfecture d'autres documents, comme la carte grise originale.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177098&amp;cidTexte=LEGITEXT000006074228" ID="R778">
+<Titre>Code de la route : articles R322-1 à R322-14</Titre>
+<Complement>Délivrance du certificat d'immatriculation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020237165" ID="R20050">
+<Titre>Arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules</Titre>
+</Reference>
+<ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F32233" audience="Particuliers">Carte grise : que faire si vous rachetez le véhicule avant la fin du leasing ?</QuestionReponse>
+<QuestionReponse ID="F33208" audience="Particuliers">Comment obtenir la carte grise d'un véhicule en leasing (crédit-bail) ?</QuestionReponse>
+
+</Publication>

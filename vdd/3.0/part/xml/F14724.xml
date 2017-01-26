@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14724" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment régler un litige avec un avocat ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le règlement d'un conflit entre un justiciable et son avocat diffère suivant l'objet du conflit (litige sur les frais, faute déontologique...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-10-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14724</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023480327&amp;cidTexte=LEGITEXT000006068396, https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006922904&amp;cidTexte=LEGITEXT000006078311, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000633327</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N279</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N279">Acteurs de la justice</Niveau>
+<Niveau ID="F14724" type="Fiche Question-réponse">Comment régler un litige avec un avocat ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N279">
+<Titre>Acteurs de la justice</Titre>
+<Fiche ID="F2176">Magistrats et greffiers</Fiche>
+<Fiche ID="F2158">Huissier de justice</Fiche>
+<Fiche ID="F2153">Avocat</Fiche>
+<Fiche ID="F2164">Notaire</Fiche>
+<Fiche ID="F1540">Juré d'assises</Fiche>
+<Fiche ID="F1822">Médiateur civil</Fiche>
+<Fiche ID="F1739">Médiateur pénal</Fiche>
+<Fiche ID="F1736">Conciliateur de justice</Fiche>
+<Fiche ID="F2161">Expert judiciaire</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le règlement d'un conflit entre un justiciable et son avocat diffère suivant l'objet du conflit (litige sur les frais, faute déontologique...).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Litige sur les frais de l'avocat</Paragraphe>
+</Titre><Paragraphe>Le litige sur les <LienInterne LienPublication="F15018" type="Fiche Question-réponse" audience="Particuliers">frais d'un avocat</LienInterne> peut porter sur les honoraires (rémunération fixée librement) et/ou les émoluments, frais et débours (encadrés par la loi).</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Sur les honoraires</Paragraphe>
+</Titre><Paragraphe>Si vous contestez les honoraires de l'avocat, votre contestation doit être portée devant le <LienIntra LienID="R19324" type="Définition de glossaire">bâtonnier</LienIntra> de l'ordre auquel est rattaché l'avocat. Elle doit obligatoirement être formulée par lettre recommandée avec accusé de réception ou remise à l'ordre directement contre récépissé.</Paragraphe>
+<ServiceEnLigne ID="R19096" URL="http://www.conso.net/content/vous-contestez-les-honoraires-de-votre-avocat-et-deposez-un-recours-devant-le-batonnier" type="Modèle de document">
+<Titre>Saisir le bâtonnier pour contester les honoraires de son avocat</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet d'exercer un recours devant le bâtonnier de l'ordre des avocats du barreau au sein duquel son avocat est inscrit pour contester ses honoraires.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R17" type="Local personnalisable">
+<Titre>Barreau des avocats</Titre>
+<PivotLocal>avocat_centre_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/plugin/254/?form=barreau"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Si le bâtonnier répond à la requête dans le délai de 4 mois de sa réception, son arbitrage peut faire l'objet (en cas de désaccord) d'un appel devant le 1er président de la Cour d'appel compétente dans le délai d'1 mois.</Paragraphe>
+<Paragraphe>Si le bâtonnier ne répond pas la requête, son silence ouvre au requérant le droit de saisir directement le 1er président de la Cour d'appel compétente dans le délai d'1 mois suivant l'échéance des 4 mois.</Paragraphe>
+<Paragraphe>Dans les 2 cas, le 1er président doit être saisi par par lettre recommandée avec accusé de réception.</Paragraphe><OuSAdresser ID="R11624" type="Local personnalisé sur SP">
+<Titre>Cour d'appel</Titre>
+<PivotLocal>cour_appel</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-cours-dappel-21767.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sur les émoluments, droits et débours</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si une décision de justice a été rendue</Paragraphe>
+</Titre><Paragraphe>Pour contester le <LienInterne LienPublication="F15018" type="Fiche Question-réponse" audience="Particuliers">coût de la prestation d'un avocat</LienInterne>, une demande de vérification peut être déposée devant le secrétaire vérificateur du tribunal qui a jugé le litige. Le secrétaire vérificateur peut être le directeur des services de greffe judiciaire, voire un greffier.</Paragraphe>
+<Paragraphe>Vous devez apporter au tribunal compétent les pièces relatives aux frais contestés demandés par votre avocat. Vous pouvez aussi envoyer vos pièces par courrier.</Paragraphe>
+<Paragraphe>Après une éventuelle rectification du compte, le secrétaire vérificateur doit vous remettre un certificat de vérification. Celui-ci doit être notifié à l'avocat et peut faire l'objet de recours devant le président du tribunal.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si aucune décision de justice n'a été rendue</Paragraphe>
+</Titre><Paragraphe>Pour contester le <LienInterne LienPublication="F15018" type="Fiche Question-réponse" audience="Particuliers">coût de la prestation d'un avocat</LienInterne>, une demande de vérification peut être déposée devant le secrétaire vérificateur du tribunal. </Paragraphe>
+<Paragraphe>Vous devez apporter au tribunal compétent les pièces relatives aux frais contestés demandés par votre avocat. Vous pouvez aussi envoyer vos pièces par courrier.</Paragraphe>
+<Paragraphe>Si aucune décision de justice n'a été rendue, le secrétaire compétent est celui :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du tribunal d'instance pour les litiges inférieurs à <Valeur>10 000 €</Valeur>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou du tribunal de grande instance dans les autres cas.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Après une éventuelle rectification du compte, le secrétaire vérificateur doit vous remettre un certificat de vérification. Celui-ci doit être notifié à l'avocat et peut faire l'objet de recours devant le président du tribunal.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Autres cas de litiges (retards, absence à l'audience...)</Paragraphe>
+</Titre><Paragraphe>Vous pouvez rencontrer d'autres difficultés avec votre avocat : retards inexpliqués, absence de réponse à des correspondances, refus répétés de rendez-vous, absence de l'avocat à l'audience, renvois d'audience inexpliqués, absence d'explications, absence de compte-rendu, etc.</Paragraphe>
+<Paragraphe>Dans ce cas, vous pouvez saisir le <LienIntra LienID="R19324" type="Définition de glossaire">bâtonnier</LienIntra> de l'ordre auquel appartient l'avocat en cause. Vous pouvez lui remettre un simple courrier expliquant le litige.</Paragraphe>
+<OuSAdresser ID="R17" type="Local personnalisable">
+<Titre>Barreau des avocats</Titre>
+<PivotLocal>avocat_centre_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/plugin/254/?form=barreau"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Changer d'avocat</Paragraphe>
+</Titre><Paragraphe>Vous êtes libre de changer d'avocat à tout moment de la procédure. Vous devrez néanmoins lui payer les frais déjà dus.</Paragraphe>
+<Paragraphe>Votre ancien avocat devra également vous restituer votre dossier. En cas de litige sur la restitution de pièces, vous devez saisir le bâtonnier de l'ordre des avocats. La bâtonnier compétent est celui du barreau où est inscrit l'avocat concerné ;</Paragraphe>
+<Paragraphe>Un simple courrier accompagné des éléments concernant le litige (courriers de l'avocat....) permet de saisir le bâtonnier.</Paragraphe><OuSAdresser ID="R17" type="Local personnalisable">
+<Titre>Barreau des avocats</Titre>
+<PivotLocal>avocat_centre_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/plugin/254/?form=barreau"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2153" audience="Particuliers">
+<Titre>Avocat</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023480327&amp;cidTexte=LEGITEXT000006068396" ID="R45563">
+<Titre>Loi n°71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques : article 21</Titre>
+<Complement>Rôle du barreau des avocats</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006922904&amp;cidTexte=LEGITEXT000006078311" ID="R11310">
+<Titre>Décret n°91-1197 du 27 novembre 1991 organisant la profession d'avocat : articles 174 à 179</Titre>
+<Complement>Litiges sur les frais</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000633327" ID="R38014">
+<Titre>Décret n°2005-790 du 12 juillet 2005 relatif aux règles de déontologie de la profession d'avocat.</Titre>
+<Complement>Restitution du dossier</Complement>
+</Reference>
+<ServiceEnLigne ID="R19096" URL="http://www.conso.net/content/vous-contestez-les-honoraires-de-votre-avocat-et-deposez-un-recours-devant-le-batonnier" type="Modèle de document">
+<Titre>Saisir le bâtonnier pour contester les honoraires de son avocat</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<Definition ID="R19324">
+<Titre>Bâtonnier</Titre>
+<Texte>
+				<Paragraphe>Avocat élu pour 2 ans par ses confrères dans chaque barreau pour les représenter et  garantir la déontologie et la discipline de la profession. Il désigne les avocats commis d'office, règle les différends entre eux ou avec leurs clients.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F15006" audience="Particuliers">Un avocat peut-il exiger de l'argent d'un bénéficiaire d'aide juridictionnelle ?</QuestionReponse>
+<QuestionReponse ID="F15018" audience="Particuliers">Combien coûte un avocat ?</QuestionReponse>
+<QuestionReponse ID="F932" audience="Particuliers">Un avocat peut-il prendre un pourcentage sur l'argent gagné grâce à un procès ?</QuestionReponse>
+</Publication>

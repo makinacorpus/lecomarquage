@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31499" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelle surface d'un commerce est-elle soumise à la Tascom ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Quelle surface d'un commerce est-elle soumise à la Tascom ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2016-06-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31499</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000369208, http://bofip.impots.gouv.fr/bofip/2861-PGP.html, http://questions.assemblee-nationale.fr/q14/14-70363QE.htm</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13442</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Commerçant</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="F31499" type="Fiche Question-réponse">Quelle surface d'un commerce est-elle soumise à la Tascom ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13442">
+<Titre>Imposition des sociétés</Titre><SousDossier ID="N13442-1">
+<Titre>Impôt sur les sociétés (IS)</Titre>
+<Fiche ID="F23575">Entreprises concernées et taux d'imposition</Fiche>
+<Fiche ID="F23510">Déclaration et paiement</Fiche>
+<Fiche ID="F23628">Report de déficit</Fiche>
+<Fiche ID="F32166">Entreprises relevant de la Direction des grandes entreprises (DGE)</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-2">
+<Titre>Imposition des rémunérations</Titre>
+<Fiche ID="F33816">Rémunération des dirigeants de société</Fiche>
+<Fiche ID="F32963">Distribution de dividendes</Fiche>
+<Fiche ID="F32966">Rémunération des comptes courants d'associé</Fiche>
+<Fiche ID="F33162">Plus-values professionnelles</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-3">
+<Titre>Autres impositions des sociétés</Titre>
+<Fiche ID="F32042">Société civile de moyens (SCM)</Fiche>
+<Fiche ID="F22790">Taxe sur les surfaces commerciales (Tascom)</Fiche>
+<Fiche ID="F31607">Taxe sur la valeur vénale des immeubles</Fiche>
+<Fiche ID="F31973">Charges déductibles ou non du résultat fiscal d'une entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Surfaces concernées</Paragraphe>
+</Titre><Paragraphe>La surface d'un commerce soumise à la taxe sur les surfaces commerciales (Tascom) comprend les <MiseEnEvidence>espaces clos et couverts</MiseEnEvidence> affectés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à la circulation de la clientèle pour effectuer ses achats,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à l'exposition et au paiement des marchandises et</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à la circulation du personnel pour présenter les marchandises à la vente.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La surface assujettie à la taxe est uniquement celle qui est consacrée à la vente au détail, c'est-à-dire directement accessible au public.</Paragraphe>
+<Paragraphe>Si la surface de vente est modifiée en cours d'année, elle n'est pas pondérée au <LienIntra LienID="R35326" type="Définition de glossaire">prorata temporis</LienIntra> :  la surface à retenir est celle existante au 31 décembre de l'année précédant l'année d'imposition.</Paragraphe><ServiceEnLigne ID="R21197" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Permet de calculer le montant de la taxe dû par les commerçants qui exploitent une surface de vente au détail de plus de 400 m² et réalisent un chiffre d’affaires hors taxe (CAHT) de plus de <Valeur>460 000 €</Valeur>.</Paragraphe>
+<Paragraphe>Il existe un autre simulateur de calcul en cas de <LienInterne LienPublication="R44029" type="Simulateur" audience="Professionnels">cessation définitive de l'activité dans l'année</LienInterne>.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44029" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1C.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom) en cas de cessation définitive de l'exploitation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Permet de calculer le montant de la taxe dû par les commerçants qui cessent leur activité de l'année.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>lorsque la surface cumulée des établissements liés à une tête de réseau, exploités de façon directe ou indirecte sous une enseigne commerciale identique, dépasse 4 000 m², tous les magasins sont assujettis, même si leur surface de vente prise individuellement est inférieure à 400 m².</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Surfaces exclues</Paragraphe>
+</Titre><Paragraphe>Ne sont pas intégrées dans le calcul de la surface taxable :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> les zones de stockage, de production ou de prestation de services fermées au public  (par exemple, les espaces utilisés  pour la découpe et le conditionnement au sein d'un supermarché, dès lors qu'ils ne sont pas accessibles au public),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les surfaces de vente en plein air, situées à l'extérieur du magasin (jardinage, pépinière, matériaux de construction, exposition de véhicules...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les serres chaudes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les surfaces des locaux  de prestations de service (notamment restaurant, salon de coiffure, garage, etc.),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les surfaces de vente temporaires (foire ou manifestation commerciale),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les établissements de commerce de gros ou de revente à des intermédiaires professionnels (centrale d'achat, <LienIntra LienID="R43260" type="Définition de glossaire">grossiste</LienIntra>...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les « drive », comportant des zones de stockage des marchandises à retirer, qui ne sont ouvertes à la clientèle pour y réaliser ses achats, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les locaux des sites de vente par internet.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par exemple, un établissement comprenant 350 m² de zone de vente et 200 m² de zone de stockage n'est pas soumis à la taxe, car la surface de vente est inférieure au seuil.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Majoration pour les stations-service</Paragraphe>
+</Titre><Paragraphe>Concernant la vente au détail de carburant, la surface de vente à prendre en compte pour les espaces clos et couverts des stations-service est majorée de 70 m² par position de ravitaillement (nombre de pompes de carburant, correspondant au nombre de véhicules pouvant s'approvisionner simultanément).</Paragraphe>
+<Paragraphe>Cette majoration ne s'applique pas si l'établissement a une activité à titre principal de vente ou de réparation de véhicules automobiles.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F22790" audience="Professionnels">
+<Titre>Taxe sur les surfaces commerciales (Tascom)</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000369208" ID="R12432">
+<Titre>Décret n°95-85 du 26 janvier 1995 relatif à la taxe sur les surfaces commerciales</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/2861-PGP.html" ID="R10149">
+<Titre>Bofip-Impôts n°BOI-TFP-TSC relatif à la taxe sur les surfaces commerciales</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</Reference>
+<Reference type="Texte de référence" URL="http://questions.assemblee-nationale.fr/q14/14-70363QE.htm" ID="R44150">
+<Titre>Réponse ministérielle du 24 février 2015 sur la soumission des drive à la Tascom</Titre>
+</Reference>
+<ServiceEnLigne ID="R21197" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44029" URL="http://www2.impots.gouv.fr/simulateur/tascom/index1C.html" type="Simulateur">
+<Titre>Calcul en ligne de la taxe sur les surfaces commerciales (Tascom) en cas de cessation définitive de l'exploitation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Definition ID="R35326">
+<Titre>Prorata temporis</Titre>
+<Texte>
+				<Paragraphe>Expression latine signifiant en proportion du temps effectivement écoulé. Permet d'effectuer un calcul en tenant compte du temps réel.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R43260">
+<Titre>Grossiste</Titre>
+<Texte>
+				<Paragraphe>Toute personne physique ou morale, y compris une centrale d'achat ou de référencement de grossistes, qui, à des fins professionnelles, achète des produits à un fournisseur et les revend, à titre principal, à d'autres commerçants (grossistes ou détaillants), à des transformateurs ou à tout autre professionnel qui s'approvisionne pour les besoins de son activité. Sont exclus  les  commerces de détail ou les centrales d'achat ou de référencement pour des commerces de détail. </Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

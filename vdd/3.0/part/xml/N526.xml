@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N526" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Maladie, accident du travail ou invalidité dans le secteur privé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Maladie, accident du travail ou invalidité dans le secteur privé : Arrêt maladie, Accident du travail, Maladie professionnelle, Pension d'invalidité</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-07-02</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N526</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Salarié du secteur privé</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N526" type="Dossier">Maladie, accident du travail ou invalidité dans le secteur privé</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere>
+<SousDossier ID="N526-1">
+<Titre>Arrêt maladie</Titre><Fiche ID="F303">Déclaration et obligations du salarié</Fiche>
+<Fiche ID="F3053">Indemnités journalières versées par la sécurité sociale</Fiche>
+<Fiche ID="F2022">Indemnités versées au salarié par l'employeur</Fiche>
+<Fiche ID="F33908">Contrôle du salarié</Fiche>
+<Fiche ID="F144">Reprise du travail</Fiche>
+<Fiche ID="F726">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-2">
+<Titre>Accident du travail</Titre><Fiche ID="F171">Démarches à effectuer</Fiche>
+<Fiche ID="F175">Indemnités journalières pendant l'arrêt de travail</Fiche>
+<Fiche ID="F14840">Indemnisation en cas d'incapacité permanente</Fiche>
+<Fiche ID="F31435">Prestation complémentaire pour recours à tierce personne (PCRTP)</Fiche>
+<Fiche ID="F32157">Reprise du travail du salarié</Fiche>
+<Fiche ID="F15341">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-3">
+<Titre>Maladie professionnelle</Titre><Fiche ID="F176">Démarches à effectuer</Fiche>
+<Fiche ID="F32148">Indemnités journalières en cas d'arrêt de travail</Fiche>
+<Fiche ID="F348">Indemnisation en cas d'incapacité permanente</Fiche>
+<Fiche ID="F32158">Reprise du travail du salarié</Fiche>
+<Fiche ID="F32161">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-4">
+<Titre>Pension d'invalidité</Titre><Fiche ID="F672">Conditions d'attribution et démarches à suivre</Fiche>
+<Fiche ID="F14946">Calcul, montant et versement</Fiche>
+<Fiche ID="F31434">Majoration pour tierce personne (MTP)</Fiche>
+<Fiche ID="F14945">Suspension, révision et suppression</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N451" audience="Particuliers">
+<Titre>Handicap et emploi dans le secteur privé</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31163" audience="Particuliers">
+<Titre>Rentes et capitaux versés en cas de décès</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R1342" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6102.pdf" numerocerfa="12045*01" autrenumero="S6102a" type="Formulaire">
+<Titre>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint (régime général)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33395" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11818.do" numerocerfa="11818*02" type="Formulaire">
+<Titre>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint, du partenaire du Pacs ou du concubin (régime agricole)</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1261" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S4150.pdf" numerocerfa="11174*04" autrenumero="S4150" type="Formulaire">
+<Titre>Demande de pension d'invalidité</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24549" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S4152.pdf" numerocerfa="11237*03" autrenumero="S4152d" type="Formulaire">
+<Titre>Assurance invalidité - Déclaration de situation et de ressources</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R14906" URL="http://www.risquesprofessionnels.ameli.fr" audience="Particuliers">
+<Titre>Risques professionnels : le site des accidents du travail et maladies professionnelles</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F18724" audience="Particuliers">Un salarié peut-il travailler pendant un arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F19300" audience="Particuliers">Un salarié en arrêt de travail peut-il suivre une formation ?</QuestionReponse>
+<QuestionReponse ID="F12734" audience="Particuliers">L'employeur peut-il exiger un arrêt de travail pour une journée ?</QuestionReponse>
+<QuestionReponse ID="F12415" audience="Particuliers">Quelles sont les heures d'autorisation de sortie du salarié en arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F2871" audience="Particuliers">Le salarié doit-il passer une visite médicale après un arrêt de travail ?</QuestionReponse>
+<QuestionReponse ID="F1326" audience="Particuliers">Un arrêt de travail prolonge-t-il un CDD ?</QuestionReponse>
+<QuestionReponse ID="F2614" audience="Particuliers">Arrêt maladie pendant le préavis : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F12743" audience="Particuliers">Un salarié peut-il revenir travailler avant la fin de son arrêt maladie ?</QuestionReponse>
+<QuestionReponse ID="F178" audience="Particuliers">Qu'est-ce qu'un accident du travail ?</QuestionReponse>
+<QuestionReponse ID="F31881" audience="Particuliers">Qu'est-ce qu'un accident de trajet ?</QuestionReponse>
+<QuestionReponse ID="F31880" audience="Particuliers">Qu'est-ce qu'une maladie professionnelle ?</QuestionReponse>
+<QuestionReponse ID="F14947" audience="Particuliers">De quelle protection sociale bénéficie un invalide (maladie, maternité, décès) ?</QuestionReponse>
+<QuestionReponse ID="F15973" audience="Particuliers">Peut-on cumuler la pension d'invalidité avec d'autres revenus ?</QuestionReponse>
+<QuestionReponse ID="F1438" audience="Particuliers">La pension d'invalidité est-elle saisissable ?</QuestionReponse>
+<QuestionReponse ID="F13093" audience="Particuliers">Qu'est-ce que l'invalidité au sens de la sécurité sociale ?</QuestionReponse>
+
+</Publication>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R20304" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander la levée d'une interdiction volontaire de jeux</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Permet de lever une interdiction volontaire de jeux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-08</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R20304</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N437">Addictions</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R20304" type="Modèle de document">Demander la levée d'une interdiction volontaire de jeux</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de lever une interdiction volontaire de jeux.
+</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.interieur.gouv.fr/content/download/33030/246312/file/modele_levee_interdiction.pdf" format="application/pdf" poids="23.8 KB">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F15814" audience="Particuliers" type="Fiche d'information">
+<Titre>Interdiction de jeux</Titre>
+<Dossier ID="N437">Addictions</Dossier>
+</FicheLiee>
+<Dossier ID="N437">
+<Titre>Addictions</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1887" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment remplacer une carte d'identité abîmée ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Si votre carte d'identité est détériorée, vous pouvez demander son renouvellement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-19</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1887</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020549506&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350888&amp;cidTexte=LEGITEXT000006060725, http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F1887" type="Fiche Question-réponse">Comment remplacer une carte d'identité abîmée ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si votre carte d'identité  est détériorée, vous pouvez demander son renouvellement.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Pour un adulte </Paragraphe>
+</Titre><Paragraphe>La procédure est la même qu'un renouvellement classique :  demande de  <LienInterne LienPublication="F21089" type="Fiche d'information" audience="Particuliers">renouvellement d'une carte d'identité - Personne majeure</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour un mineur </Paragraphe>
+</Titre><Paragraphe>La procédure est la même qu'un renouvellement classique : demande de  <LienInterne LienPublication="F21090" type="Fiche d'information" audience="Particuliers">renouvellement d'une carte d'identité - Enfant mineur</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020549506&amp;cidTexte=LEGITEXT000006069577" ID="R2051">
+<Titre>Code général des impôts : articles 1628-0-bis à 1628 ter</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350888&amp;cidTexte=LEGITEXT000006060725" ID="R13080">
+<Titre>Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4-1 - Pièces à fournir pour un renouvellement</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf" ID="R11425" format="application/pdf" poids="1.6 MB">
+<Titre>Circulaire du 1er mars 2010 relative à la simplification de la délivrance des cartes nationales d'identité et des passeports</Titre>
+</Reference>
+<QuestionReponse ID="F556" audience="Particuliers">La présence au guichet est-elle obligatoire ?</QuestionReponse>
+<QuestionReponse ID="F16872" audience="Particuliers">Peut-on obtenir une carte d'identité en urgence ?</QuestionReponse>
+<QuestionReponse ID="F11601" audience="Particuliers">Est-on obligé d'avoir une carte d'identité ?</QuestionReponse>
+
+
+</Publication>

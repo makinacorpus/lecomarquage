@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2158" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Huissier de justice</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>L'huissier de justice est chargé d'exécuter les décisions de justice et délivrer des actes.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2158</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410151&amp;cidTexte=LEGITEXT000006070716, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135904&amp;cidTexte=LEGITEXT000006070716, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135905&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181707&amp;cidTexte=LEGITEXT000006070716, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147037&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025026711&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069177, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000686521, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032115547&amp;categorieLien=id</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N279</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N279">Acteurs de la justice</Niveau>
+<Niveau ID="F2158" type="Fiche d'information">Huissier de justice</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N279">
+<Titre>Acteurs de la justice</Titre>
+<Fiche ID="F2176">Magistrats et greffiers</Fiche>
+<Fiche ID="F2158">Huissier de justice</Fiche>
+<Fiche ID="F2153">Avocat</Fiche>
+<Fiche ID="F2164">Notaire</Fiche>
+<Fiche ID="F1540">Juré d'assises</Fiche>
+<Fiche ID="F1822">Médiateur civil</Fiche>
+<Fiche ID="F1739">Médiateur pénal</Fiche>
+<Fiche ID="F1736">Conciliateur de justice</Fiche>
+<Fiche ID="F2161">Expert judiciaire</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'huissier de justice exécute les actes qui lui sont demandés, pour commencer ou sécuriser des procédures et appliquer dans les faits les droits concrets issus d'un jugement, d'un acte administratif ou d'un acte notarié.
+			Il vérifie la légalité des actes demandés, mais ne porte pas d'appréciation sur leur opportunité.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Comment trouver un huissier ?</Paragraphe>
+</Titre><Paragraphe>Vous pouvez trouvez les coordonnées d'un huissier proche de votre domicile sur le site de la chambre nationale des huissiers.</Paragraphe>
+<OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fonctions</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Dans le cadre d'un procès</Paragraphe>
+</Titre><Paragraphe>L'huissier remet personnellement les <LienIntra LienID="R12538" type="Définition de glossaire">assignations</LienIntra> et procède à la <LienIntra LienID="R10915" type="Définition de glossaire">signification</LienIntra> des actes judiciaires.</Paragraphe>
+<Paragraphe>Il porte au domicile des personnes concernées les citations devant le tribunal de police, le tribunal correctionnel et la cour d'assises.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dans le cadre de l'exécution du droit</Paragraphe>
+</Titre><Paragraphe>Sur présentation d'un <LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra> , l'huissier procède aux  <LienInterne LienPublication="N277" type="Dossier" audience="Particuliers">saisies</LienInterne>  et aux  expulsions. </Paragraphe>
+<Paragraphe>En cas de difficultés (problèmes techniques, insolvabilité, obstruction, rétention d'information), il peut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>proposer des arrangements amiables,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander l'aide des administrations pour obtenir des renseignements (domicile, adresse de l'employeur, compte bancaire) ou mobiliser leurs services techniques,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>requérir l'appui des forces de l'ordre (police ou gendarmerie).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dans le cadre d'une démarche non judiciaire</Paragraphe>
+</Titre><Paragraphe>Sans besoin d'y être autorisé ou après obtention de l'accord d'un juge, l'huissier établit des procès-verbaux de constatation qui décrivent, de façon neutre et incontestable, ce qu'il observe :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en se rendant sur les lieux où se déroulent les faits qu'une personne lui demande de relever (malfaçons, non-présentation d'enfants, nuisances de voisinage, abandon de poste, etc.),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en effectuant des captures d'écran sur les sites internet accessibles par tous (diffamation, plagiat, publicité mensongère, etc.),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en effectuant des ventes publiques d'effets mobiliers, à défaut de commissaire-priseur. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'huissier notifie les ruptures de Pacs.</Paragraphe>
+<Paragraphe>Il peut également :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>conseiller les personnes dans la rédaction de contrats,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>faire des sommations interpellatives (avant tout procès). Cet acte permet d'avertir une autre personne de faire ou de ne pas faire quelque chose. C'est une forme de mise en demeure. Par exemple, pour cesser des nuisances de voisinages.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>accomplir des actes d'information ou d'avertissement obligatoires prévus par la loi pour lesquels un courrier ordinaire avec avis de réception pourrait suffire. Il s'agit, par exemple, de réclamation de loyers impayés ou une procédure de licenciement, pour lesquels une personne veut éviter les retours avec mention <Expression>non réclamé</Expression> ou <Expression>lettre refusée</Expression>.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>apposer des scellés ou faire des inventaires, suite au décès d'une personne.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>La rémunération d'un huissier est réglementée. Elle se décompose en sommes, qui varient selon le type d'actes effectués, selon la valeur des biens ou des montants en jeu, et parfois, selon l'huissier.</Paragraphe>
+<Paragraphe>Certaines personnes bénéficient de réductions (<LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">aide juridictionnelle</LienInterne>, <LienInterne LienPublication="N99" type="Dossier" audience="Particuliers">surendettement</LienInterne>, <LienInterne LienPublication="N326" type="Dossier" audience="Particuliers">expropriation</LienInterne>).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le versement en espèces donne lieu à la délivrance d'un reçu.</Paragraphe>
+</ASavoir>
+<SousChapitre>
+<Titre>
+<Paragraphe>Émoluments</Paragraphe>
+</Titre><Paragraphe>Les émoluments correspondent à la rémunération des actes d'information prévus par la loi et des actes d'exécution.</Paragraphe>
+<Paragraphe>Ils se calculent par l'addition :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de droits fixes codifiés : les tarifs dépendent de l'acte effectué,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si une dette est en jeu, de <MiseEnEvidence>droits proportionnels</MiseEnEvidence>,  appelés aussi <Expression>droits de recouvrement ou d'encaissement</Expression>, qui instituent une forme d'intéressement (<Valeur>4,29 €</Valeur>    et un maximum de <Valeur>550,00 €</Valeur>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de <MiseEnEvidence>droits d'engagement des poursuites</MiseEnEvidence>, perçus à l'occasion du 1<Exposant>er</Exposant> acte d'une procédure de recouvrement de dette et variant entre <Valeur>4,29 €</Valeur> et <Valeur>268,13 €</Valeur>, suivant l'importance des sommes en jeu,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de<MiseEnEvidence> frais de gestion du dossier</MiseEnEvidence> ne pouvant dépasser <Valeur>33,00 €</Valeur> pour une même affaire.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Honoraires</Paragraphe>
+</Titre><Paragraphe>Les honoraires correspondent à la rémunération des conseils, des sommations interpellatives et des constats (autres que les états des lieux locatifs, qui font l'objet d'émoluments). Ils sont librement fixés entre l'huissier et le demandeur, avant la réalisation des actes concernés.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Débours</Paragraphe>
+</Titre><Paragraphe>Les débours couvrent les frais annexes payés par avance par l'huissier, dont il demande le remboursement. Il s'agit des droits fiscaux, d'affranchissements, de rémunération ou indemnisation des personnes dont la présence ou l'intervention a été sollicitée, etc.</Paragraphe>
+<Paragraphe>La taxe sur la valeur ajoutée (TVA) et une taxe forfaitaire spécifique d'un montant de <Valeur>14,89 €</Valeur> font aussi partie des débours.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Frais de déplacement</Paragraphe>
+</Titre><Paragraphe>L’huissier de justice perçoit pour chaque acte signifié une indemnité pour frais de transport fixée à <Valeur>7,67 €</Valeur>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Actes par voie électronique</Paragraphe>
+</Titre><Paragraphe>L'huissier perçoit, pour chaque acte réalisé exclusivement par voie électronique, <Valeur>8,80 €</Valeur>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre>
+<Paragraphe>Le payeur est celui qui demande l'acte, sauf si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une loi ou un jugement indique que les frais d'huissier concernant cet acte sont partagés ou à la charge d'une autre personne,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'acte a été rendu absolument nécessaire par la mauvaise foi objective d'une personne dont la dette est établie à l'égard du demandeur (auquel cas, c'est cette personne qui doit payer).</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>l'huissier peut demander des provisions (remboursables) aux demandeurs avant la réalisation des actes et peut déduire des sommes récupérées auprès d'un débiteur de quoi couvrir les frais de ses actes.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contestation d'un acte d'huissier</Paragraphe>
+</Titre><Paragraphe>Le <LienInterne LienPublication="F14728" type="Fiche Question-réponse" audience="Particuliers">règlement du conflit</LienInterne> des actes d'huissier dépend de son objet.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410151&amp;cidTexte=LEGITEXT000006070716" ID="R16305">
+<Titre>Code de procédure civile : article 52</Titre>
+<Complement>Compétences relatives aux frais, débours, émoluments</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135904&amp;cidTexte=LEGITEXT000006070716" ID="R16374">
+<Titre>Code de procédure civile : articles 704 à 718</Titre>
+<Complement>Vérification et le recouvrement des dépens</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135905&amp;cidTexte=LEGITEXT000006070716" ID="R17372">
+<Titre>Code de procédure civile : articles 719 à 721</Titre>
+<Complement>Demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181707&amp;cidTexte=LEGITEXT000006070716" ID="R2258">
+<Titre>Code de procédure civile : articles 1307 à 1315</Titre>
+<Complement>Apposition des scellés</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147037&amp;cidTexte=LEGITEXT000006069577" ID="R21566">
+<Titre>Code général des impôts : article 302 bis Y</Titre>
+<Complement>Taxe forfaitaire sur les actes des huissiers de justice</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025026711&amp;cidTexte=LEGITEXT000025024948" ID="R12054">
+<Titre>Code des procédures civiles d'exécution : articles L122-1 à L122-3</Titre>
+<Complement>Exécution forcée, saisie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069177" ID="R595">
+<Titre>Ordonnance n°45-2592 du 2 novembre 1945 relative au statut des huissiers</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000686521" ID="R12061">
+<Titre>Décret n°56-222 du 29 février 1956 relatif au statut des huissiers de justice</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032115547&amp;categorieLien=id" ID="R43299">
+<Titre>Arrêté du 26 février 2016 fixant les tarifs réglementés des huissiers de justice</Titre>
+</Reference>
+<Definition ID="R12538">
+<Titre>Assignation</Titre>
+<Texte>
+				<Paragraphe>Acte d'huissier de justice informant une personne qu'un procès est engagé contre elle et la convoquant devant une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1056">
+<Titre>Titre exécutoire</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant au créancier d'obtenir le recouvrement forcé de sa créance (saisie des biens)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10915">
+<Titre>Signification</Titre>
+<Texte>
+				<Paragraphe>Acte par lequel une partie informe son adversaire d'un acte ou d'une décision de justice par l'intermédiaire d'un huissier de justice</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F399" audience="Particuliers">Un huissier peut-il entrer dans un logement en l'absence de son occupant ?</QuestionReponse>
+<QuestionReponse ID="F32973" audience="Particuliers">Quel tarif s'applique en cas de recours à un huissier dans un litige locatif ?</QuestionReponse>
+<QuestionReponse ID="F922" audience="Particuliers">Quelles sont les saisies auxquelles l'huissier peut procéder ?</QuestionReponse>
+</Publication>

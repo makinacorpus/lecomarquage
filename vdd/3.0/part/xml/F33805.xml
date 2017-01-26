@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33805" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carte d'identité : où acheter un timbre fiscal ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Si vous demandez le renouvellement d'une carte d'identité perdue ou volée, vous devez payer un montant de 25€ en timbre fiscal.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33805</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F33805" type="Fiche Question-réponse">Carte d'identité : où acheter un timbre fiscal ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Cas général</Titre>
+<Texte><Paragraphe> Le timbre dématérialisé ou <Expression>électronique</Expression> ne concerne pas la carte nationale d'identité. </Paragraphe>
+
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Dans un bureau de tabac</Paragraphe>
+</Titre><Paragraphe>Vous pouvez acheter un timbre fiscal auprès d'un bureau de tabac si le commerce en propose la vente.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Au guichet d'une administration</Paragraphe>
+</Titre>
+						<Paragraphe>Le  timbre  fiscal peut être acheté :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>dans  certains centres des finances publiques,  trésoreries,   services des impôts des entreprises (SIE)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> ou dans certaines  préfectures ou sous-préfectures.</Paragraphe>
+							</Item>
+						</Liste>
+						<Paragraphe>Avant de vous déplacer, renseignez vous auprès de ces administrations pour savoir si leurs services vendent des timbres fiscaux.</Paragraphe>
+					
+						<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+
+</Cas>
+</BlocCas>
+
+				<Paragraphe>À l'étranger, le montant doit être réglé directement au guichet. Il convient de se renseigner sur le site internet  du consulat  ou de l'ambassade pour savoir quel mode de paiement est accepté (espèces, carte bancaire ou virement).</Paragraphe>
+			
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>En Bretagne</Titre>
+<Texte>
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><Paragraphe>Si vous utilisez le service de pré-demande, vous pouvez acheter votre timbre fiscal en ligne </Paragraphe>
+<ServiceEnLigne ID="R45668" URL="https://passeport.ants.gouv.fr/Services-associes/Faire-une-pre-demande-CNI" type="Téléservice">
+<Titre>Pré-demande de carte d'identité (Bretagne et 78 uniquement)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Pour utiliser ce télé-service, il faut créer votre compte puis saisir  les informations dans  <Citation>Pré-demande CNI</Citation> en ligne (rubrique Mon compte &gt; Effectuer une nouvelle pré-demande).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+<Paragraphe>La mairie récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+<Paragraphe>Conservez le numéro de votre  Pré-demande  : il est indispensable à la mairie.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Dans un bureau de tabac</Paragraphe>
+</Titre><Paragraphe>Vous pouvez acheter un timbre fiscal auprès d'un bureau de tabac si le commerce en propose la vente.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Au guichet d'une administration</Paragraphe>
+</Titre>
+						<Paragraphe>Le  timbre  fiscal peut être acheté :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>dans  certains centres des finances publiques,  trésoreries,   services des impôts des entreprises (SIE)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> ou dans certaines  préfectures ou sous-préfectures.</Paragraphe>
+							</Item>
+						</Liste>
+						<Paragraphe>Avant de vous déplacer, renseignez vous auprès de ces administrations pour savoir si leurs services vendent des timbres fiscaux.</Paragraphe>
+					
+						<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Dans les Yvelines (78)</Titre>
+<Texte>
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><Paragraphe>Si vous utilisez le service de pré-demande, vous pouvez acheter votre timbre fiscal en ligne </Paragraphe>
+<ServiceEnLigne ID="R45668" URL="https://passeport.ants.gouv.fr/Services-associes/Faire-une-pre-demande-CNI" type="Téléservice">
+<Titre>Pré-demande de carte d'identité (Bretagne et 78 uniquement)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Pour utiliser ce télé-service, il faut créer votre compte puis saisir  les informations dans  <Citation>Pré-demande CNI</Citation> en ligne (rubrique Mon compte &gt; Effectuer une nouvelle pré-demande).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+<Paragraphe>La mairie récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+<Paragraphe>Conservez le numéro de votre  Pré-demande  : il est indispensable à la mairie.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Dans un bureau de tabac</Paragraphe>
+</Titre><Paragraphe>Vous pouvez acheter un timbre fiscal auprès d'un bureau de tabac si le commerce en propose la vente.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Au guichet d'une administration</Paragraphe>
+</Titre>
+						<Paragraphe>Le  timbre  fiscal peut être acheté :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>dans  certains centres des finances publiques,  trésoreries,   services des impôts des entreprises (SIE)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> ou dans certaines  préfectures ou sous-préfectures.</Paragraphe>
+							</Item>
+						</Liste>
+						<Paragraphe>Avant de vous déplacer, renseignez vous auprès de ces administrations pour savoir si leurs services vendent des timbres fiscaux.</Paragraphe>
+					
+						<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations>
+
+
+
+</Publication>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14821" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'indemnité temporaire d'inaptitude</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Demande d'indemnité temporaire d'inaptitude - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-20</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14821</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14821" type="Formulaire">Demande d'indemnité temporaire d'inaptitude</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14103*01</NumeroCerfa>
+<AutreNumero>S6110</AutreNumero>
+<Texte><Paragraphe>Formulaire remis au salarié par le médecin du travail au cas où l'inaptitude à son poste de travail est susceptible d'être en lien avec un accident ou une maladie professionnelle.</Paragraphe>
+<Paragraphe>Formulaire mis en ligne pour information. Le salarié doit remplir le le formulaire remis par le médecin du travail.</Paragraphe>
+<Paragraphe>Accès à la notice explicative.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14103.do">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F15341" audience="Particuliers" type="Fiche d'information">
+<Titre>Accident du travail : inaptitude du salarié</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32161" audience="Particuliers" type="Fiche d'information">
+<Titre>Maladie professionnelle : inaptitude du salarié</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

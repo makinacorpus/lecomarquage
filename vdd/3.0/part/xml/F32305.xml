@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32305" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Abandon de logement par le locataire (départ à la cloche de bois)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Lorsque le locataire abandonne le logement qu'il occupe (départ à la cloche de bois), le bailleur doit engager des démarches spécifiques pour le récupérer. Il doit d'abord faire appel à un huissier de justice pour constater l'abandon du logement puis saisir le juge pour obtenir la résiliation du bail.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-19</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32305</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028806642&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024462943, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410162&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410129&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19424</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N19424">Location immobilière : obligations du locataire</Niveau>
+<Niveau ID="F32305" type="Fiche d'information">Abandon de logement par le locataire (départ à la cloche de bois)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N19424">
+<Titre>Location immobilière : obligations du locataire</Titre><SousDossier ID="N19424-1">
+<Titre>Dépenses locatives</Titre>
+<Fiche ID="F1214">Loyer</Fiche>
+<Fiche ID="F31272">Impayés et expulsion</Fiche>
+<Fiche ID="F947">Charges</Fiche>
+<Fiche ID="F31300">Assurance habitation</Fiche>
+</SousDossier>
+<SousDossier ID="N19424-2">
+<Titre>Usage du logement</Titre>
+<Fiche ID="F1874">Travaux et jouissance des lieux</Fiche>
+<Fiche ID="F31697">Entretien et réparations</Fiche>
+<Fiche ID="F2449">Sous-location</Fiche>
+<Fiche ID="F32305">Abandon de logement</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Usage du logement</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Lorsque le locataire abandonne le logement qu'il occupe (départ à la cloche de bois), le bailleur doit engager des démarches spécifiques pour le récupérer. Il doit d'abord faire appel à un huissier de justice pour constater l'abandon du logement puis saisir le juge pour obtenir la résiliation du bail. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Intervention de l'huissier de justice</Paragraphe>
+</Titre><Paragraphe>Lorsque des éléments laissent supposer au bailleur que le logement est abandonné  il doit adresser à son locataire une mise en demeure de justifier qu'il occupe bien le logement.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Mise en demeure</Paragraphe>
+</Titre><Paragraphe>La mise en demeure doit être faite par acte d'huissier:</Paragraphe><OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+<Paragraphe>En cas d'impayés, cette mise en demeure peut également être contenue au sein d'un <LienIntra LienID="R2698" type="Définition de glossaire">commandement de payer</LienIntra>. </Paragraphe>
+<Paragraphe>Le locataire dispose d'un délai d'1 mois, suivant la signification de la mise en demeure, pour se justifier auprès du bailleur. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Constat d'abandon</Paragraphe>
+</Titre><Paragraphe>Sans réponse de la part du locataire dans le délai d'1 mois, l'huissier de justice peut constater l'état d'abandon du logement.</Paragraphe>
+<Paragraphe>Dans ce cadre, il peut pénétrer dans le logement en présence :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du maire de la commune, d'un conseiller municipal ou d'un agent municipal habilité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'une autorité de police ou de gendarmerie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de 2 témoins majeurs sans lien avec le bailleur ou l'huissier.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'huissier dresse alors un procès verbal et, si le logement paraît abandonné, il dresse l'inventaire des meubles éventuellement laissés sur place avec l'indication de leur valeur.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Saisine du juge</Paragraphe>
+</Titre><Paragraphe>Le propriétaire doit saisir le juge d'instance par <LienIntra LienID="R12542" type="Définition de glossaire">requête</LienIntra> adressée au <LienIntra LienID="R28" type="Local personnalisé sur SP">greffe du tribunal d'instance</LienIntra> :</Paragraphe><OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>La requête doit mentionner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'identité du bailleur, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la profession du bailleur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le domicile du bailleur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la nationalité du bailleur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les date et lieux de naissance du bailleur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'identité du locataire,le domicile du locataire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'objet de la demande.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La requête doit être datée, signée et accompagnée de toutes les pièces justificatives, dont le procès-verbal de l'huissier. :</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si le bailleur est une personne morale (SCI par exemple), les indications obligatoires dans la requête portent sur sa forme, sa dénomination, son siège social et son représentant légal.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décision du juge</Paragraphe>
+</Titre><Paragraphe>Le juge d'instance statue par ordonnance.</Paragraphe>
+<Paragraphe>S'il estime que la requête est fondée, le juge :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>constate la résiliation du bail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ordonne la reprise des lieux,statue sur la demande de paiement en cas d'impayés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>désigne les biens ayant une valeur marchande sur la base de l'inventaire dressé par l'huissier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>autorise leur vente aux enchères.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si le juge rejette la requête, sa décision est sans recours pour le bailleur qui conserve toutefois la possibilité d'engager une <LienInterne LienPublication="F31272" type="Fiche d'information" audience="Particuliers">procédure d'expulsion</LienInterne> classique.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Information du locataire</Paragraphe>
+</Titre><Paragraphe>Le bailleur a 2 mois pour signifier, par huissier, la décision du juge au locataire ou aux derniers occupants connus du bailleur.</Paragraphe>
+<Paragraphe>Au-delà de ce délai, l'ordonnance qui n'a pas été signifiée devient nulle. </Paragraphe>
+<Paragraphe>Cette <LienIntra LienID="R10915" type="Définition de glossaire">signification </LienIntra> doit obligatoirement informer le locataire :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la manière dont il peut contester l'ordonnance du juge (délai, forme et tribunal compétent...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la manière dont il peut prendre connaissance des documents produits par le bailleur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de l'absence de recours possible au-delà du délai légal de contestation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la possibilité de retirer ses effets personnels dans un délai d'1 mois.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si la signification est remise en mains propres, l'huissier doit également informer verbalement le locataire de ses droits.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contestation de l'ordonnance</Paragraphe>
+</Titre><Paragraphe>Le locataire a 1 mois à partir de la signification de l'ordonnance pour la contester par déclaration remise ou adressée au greffe du tribunal d'instance. </Paragraphe>
+<Paragraphe>Les parties sont alors convoquées à l'audience par lettre recommandée avec accusé de réception, doublée d'une lettre simple.</Paragraphe>
+<Paragraphe>Le jugement du tribunal se substitue à l'ordonnance.</Paragraphe>
+<Paragraphe>Si le juge constate que la demande initiale du bailleur est abusive, ce dernier peut être condamné au versement d'une amende civile pouvant aller jusqu'à <Valeur>3 000 €</Valeur>.</Paragraphe>
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028806642&amp;cidTexte=LEGITEXT000006069108" ID="R38349">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 14-1</Titre>
+<Complement>Procédure (règles générales)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024462943" ID="R38351">
+<Titre>Décret n°2011-945 du 10 août 2011 relatif aux procédures de résiliation de baux d'habitation et de reprise des lieux en cas d'abandon</Titre>
+<Complement>Procédure (mesures d'application)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410162&amp;cidTexte=LEGITEXT000006070716" ID="R38348">
+<Titre>Code de procédure civile : article 58</Titre>
+<Complement>Saisine du juge</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410129&amp;cidTexte=LEGITEXT000006070716" ID="R38353">
+<Titre>Code de procédure civile : article 32-1</Titre>
+<Complement>Amende en cas de procédure abusive</Complement>
+</Reference>
+<Definition ID="R12542">
+<Titre>Requête</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant de saisir une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R2698">
+<Titre>Commandement de payer</Titre>
+<Texte>
+				<Paragraphe>Acte généralement signifié par huissier de justice ordonnant à une personne d'exécuter ses obligations (par exemple, régler des loyers impayés)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10915">
+<Titre>Signification</Titre>
+<Texte>
+				<Paragraphe>Acte par lequel une partie informe son adversaire d'un acte ou d'une décision de justice par l'intermédiaire d'un huissier de justice</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F32973" audience="Particuliers">Quel tarif s'applique en cas de recours à un huissier dans un litige locatif ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31895" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Consultation du cadastre</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Logement, Fiscalité</dc:subject>
+<dc:description>Consultation du cadastre - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-14</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31895</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N22470">Taxes foncières</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31895" type="Téléservice">Consultation du cadastre</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Permet de consulter le cadastre de toutes les communes de France. La recherche se fait en ayant présélectionné une commune déterminée. Il n'est toutefois pas possible d'effectuer une demande portant sur le nom du propriétaire d'une parcelle. Les documents visualisés sont gratuits et peuvent être délivrés sous forme numérique.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.cadastre.gouv.fr/scpc/accueil.do">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F14226" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>À quoi sert le cadastre et comment le consulter ?</Titre>
+<Dossier ID="N319">Autorisations d'urbanisme</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31638" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe foncière sur les propriétés non bâties</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

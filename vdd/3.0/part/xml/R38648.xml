@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R38648" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Signalement d'un programme au CSA</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Signalement d'un programme au CSA - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-13</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R38648</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N17914">Culture et télévision</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R38648" type="Téléservice">Signalement d'un programme au CSA</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Permet de signaler un programme radio ou télé au CSA.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.csa.fr/Services-en-ligne/Formulaire-pour-signaler-un-programme">
+<Source>Conseil supérieur de l'audiovisuel (CSA)</Source>
+</LienWeb>
+<FicheLiee ID="F34041" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment signaler un programme radio ou télé au CSA ?</Titre>
+<Dossier ID="N17914">Culture et télévision</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32346" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment sont classés les programmes violents à la télévision ?</Titre>
+<Dossier ID="N17914">Culture et télévision</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

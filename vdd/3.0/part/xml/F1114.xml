@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1114" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on enterrer une personne en dehors d'un cimetière ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Oui, mais à titre exceptionnel, et sous certaines conditions, une personne peut être enterrée dans le jardin d'une propriété.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-17</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1114</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006192267&amp;cidTexte=LEGITEXT000006070633, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006192272&amp;cidTexte=LEGITEXT000006070633, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000023512798&amp;idSectionTA=LEGISCTA000006197795&amp;cidTexte=LEGITEXT000006070633, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006192705&amp;cidTexte=LEGITEXT000006070633</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N165</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N165">Obsèques et modes de sépulture</Niveau>
+<Niveau ID="F1114" type="Fiche Question-réponse">Peut-on enterrer une personne en dehors d'un cimetière ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N31161">Décès</SousThemePere><DossierPere ID="N165">
+<Titre>Obsèques et modes de sépulture</Titre>
+<Fiche ID="F909">Déclaration de décès</Fiche>
+<Fiche ID="F14935">Inhumation</Fiche>
+<Fiche ID="F1558">Crémation</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Une personne peut être inhumée dans le jardin d'une propriété particulière si les 2 conditions suivantes sont remplies :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la propriété doit être située hors de l'enceinte des villes et bourgs et à la distance prescrite,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'autorisation du préfet doit avoir été accordée.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Avant de procéder à l'inhumation, il faut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>faire une <LienInterne LienPublication="F909" type="Fiche d'information" audience="Particuliers">déclaration de décès</LienInterne>, </Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>obtenir  l'autorisation de fermeture du cercueil, sur présentation du certificat de décès, par l'officier de l'état civil du lieu de décès,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>obtenir le permis d'inhumer de la part du  préfet de département (à Paris, par le préfet de police).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La demande d'inhumation en terrain privé doit être adressée au préfet, avec les documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1444" type="Fiche d'information" audience="Particuliers">acte de décès</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>autorisation de fermeture du cercueil,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>permis d'inhumer.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>l'entreprise de pompes funèbres peut prendre en charge certaines démarches.</Paragraphe>
+</ASavoir><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1192" type="Local personnalisable">
+<Titre>Préfecture de Paris</Titre>
+<PivotLocal>paris_prefecture</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/ile-de-france/paris/prefecture-75115-01"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006192267&amp;cidTexte=LEGITEXT000006070633" ID="R31539">
+<Titre>Code général des collectivités territoriales : articles L2223-1 à L2223-12-1</Titre>
+<Complement>Enterrement dans une propriété particulière (article L2223-9)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006192272&amp;cidTexte=LEGITEXT000006070633" ID="R37672">
+<Titre>Code général des collectivités territoriales : articles L2223-38 à L2223-43</Titre>
+<Complement>Autorisation de fermeture du cercueil au vu d'un certificat établi par un médecin (article L2223-42)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000023512798&amp;idSectionTA=LEGISCTA000006197795&amp;cidTexte=LEGITEXT000006070633" ID="R31720">
+<Titre>Code général des collectivités territoriales : articles R2213-31 à R2213-33</Titre>
+<Complement>Autorisation du préfet du département (article R2213-32)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006192705&amp;cidTexte=LEGITEXT000006070633" ID="R37673">
+<Titre>Code général des collectivités territoriales : articles R2512-30 à R2512-36</Titre>
+<Complement>Attributions du préfet exercées par le préfet de police à Paris (article R2512-34)</Complement>
+</Reference>
+
+</Publication>

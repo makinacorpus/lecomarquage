@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2255" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas de vol ou perte d'une arme ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Perte ou de vol d'une arme, d'un élément d'arme ou de munitions des catégories A, B, C et de la catégorie D soumise à enregistrement,</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2255</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000029658710&amp;cidTexte=LEGITEXT000025503132</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N287</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N287">Armes</Niveau>
+<Niveau ID="F2255" type="Fiche Question-réponse">Que faire en cas de vol ou perte d'une arme ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N19969">Chasse et pêche</SousThemePere><DossierPere ID="N287">
+<Titre>Armes</Titre>
+<Fiche ID="F2242">Arme de catégorie A (interdiction sauf autorisation particulière)</Fiche>
+<Fiche ID="F2250">Arme de catégorie B (soumise à autorisation)</Fiche>
+<Fiche ID="F2246">Arme de catégorie C (soumise à déclaration)</Fiche>
+<Fiche ID="F2248">Arme de catégorie D (en vente libre ou soumise à enregistrement)</Fiche>
+<Fiche ID="F2273">Carte européenne d'armes à feu</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>En cas de perte ou de vol d'une arme, d'un élément d'arme ou de munitions des catégories A, B, C et de la catégorie D soumise à enregistrement, vous devez effectuer immédiatement une déclaration au commissariat de police ou à la brigade de gendarmerie.</Paragraphe>
+<Paragraphe>Dans cette déclaration, vous devez détailler précisément les circonstances de la perte ou du vol et donner toutes les indications sur</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la marque,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le modèle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le calibre,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le numéro de série et la catégorie</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>de l'arme, de l'élément d'arme ou des munitions.</Paragraphe>
+<Paragraphe>Un récépissé de déclaration de perte ou de vol vous est alors remis et le commissariat ou la gendarmerie transmet votre déclaration à la préfecture qui vous a accordé l'autorisation ou délivré le récépissé de déclaration ou d'enregistrement.</Paragraphe>
+<Paragraphe>Une nouvelle autorisation ou un nouveau récépissé de déclaration ou d'enregistrement peuvent vous être délivré si vous en faites la demande.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le fait de ne pas effectuer cette démarche est passible d'une amende prévue pour les contraventions de 4ème classe (<Valeur>135 €</Valeur>).</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<Complement>Pour effectuer la déclaration</Complement>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<Complement>Pour effectuer la déclaration</Complement>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000029658710&amp;cidTexte=LEGITEXT000025503132" ID="R41539">
+<Titre>Code de la sécurité intérieure : articles R314-12 à R314-15</Titre>
+<Complement>Perte ou vol d'une arme</Complement>
+</Reference>
+</Publication>

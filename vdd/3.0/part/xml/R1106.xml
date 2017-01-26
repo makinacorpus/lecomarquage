@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1106" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander la réduction de l'abonnement téléphonique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Demander la réduction de l'abonnement téléphonique - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-30</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1106</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23557">Aides au paiement des factures : eau, téléphone, électricité, gaz</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1106" type="Modèle de document">Demander la réduction de l'abonnement téléphonique</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Madame, Monsieur,</Paragraphe>
+<Paragraphe>Étant bénéficiaire de (préciser RSA, ASS, AAH ou invalide de guerre) je souhaite que vous transmettiez à mon opérateur (préciser le nom) mes coordonnées afin que je puisse obtenir une réduction de mon abonnement téléphonique en vertu de l'article R20-34 du code des postes et des communications électroniques.</Paragraphe>
+<Paragraphe>En vous remerciant par avance, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F1337" audience="Particuliers" type="Fiche d'information">
+<Titre>Téléphone : réduction sociale téléphonique</Titre>
+<Dossier ID="N23557">Aides au paiement des factures : eau, téléphone, électricité, gaz</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

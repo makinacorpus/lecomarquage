@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N31351" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Artistes plasticiens</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Artistes plasticiens</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N31351</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N31351" type="Dossier">Artistes plasticiens</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N22282">Culture</SousThemePere>
+<Fiche ID="F22388">Déclaration d'activité d'un artiste-auteur</Fiche>
+<Fiche ID="F32301">Résidence d'artiste</Fiche>
+<Fiche ID="F31690">Commande publique d'une œuvre d'art : le 1% artistique</Fiche>
+<Fiche ID="F1277">Exportation d'une œuvre d'art ou d'un bien culturel</Fiche>
+<Fiche ID="F32972">Aides régionales aux artistes graphistes et plasticiens</Fiche><VoirAussi important="non">
+<Fiche ID="F33807" audience="Professionnels">
+<Titre>Droit de suite</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F20781" audience="Professionnels">
+<Titre>Taux de TVA dans le secteur culturel</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31690" audience="Professionnels">
+<Titre>Commande publique d'une œuvre d'art : le 1% artistique</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F32914" audience="Professionnels">
+<Titre>Déduction fiscale pour l'achat d'œuvres d'art</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<PourEnSavoirPlus type="Information pratique" ID="R32346" URL="http://www.culturecommunication.gouv.fr/content/download/95243/856100/file/guideweb_2.pdf" audience="Professionnels" format="application/pdf" poids="0">
+<Titre>Guide des dispositifs de soutien à la création et au développement des entreprises culturelles</Titre>
+<Source ID="R30679">Ministère en charge de la culture et de la communication</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R12449" URL="http://www.cnap.fr/navigation/profession-artiste/fiscalite/definitions" audience="Professionnels">
+<Titre>Foire aux questions sur le statut fiscal des artistes plasticiens</Titre>
+<Source ID="R30740">Centre national des arts plastiques (Cnap)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R24504" URL="http://www.cnap.fr/140-aides-privees-et-publiques-en-faveur-des-artistes" audience="Professionnels">
+<Titre>Guide des 140 aides privées et publiques en faveur des artistes</Titre>
+<Source ID="R30740">Centre national des arts plastiques (Cnap)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41181" URL="http://www.cnap.fr" audience="Professionnels">
+<Titre>Site du Cnap</Titre>
+<Source ID="R30740">Centre national des arts plastiques (Cnap)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F355" audience="Professionnels">Dans quelles conditions peut-on utiliser un pseudonyme ?</QuestionReponse>
+<QuestionReponse ID="F32290" audience="Professionnels">Dans quelles conditions un artiste peut-il enseigner ?</QuestionReponse>
+</Publication>

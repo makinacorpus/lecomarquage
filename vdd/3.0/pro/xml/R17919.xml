@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17919" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Titre emploi service entreprise (Tese)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Titre emploi service entreprise (Tese) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-12</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17919</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N22781">Formalités d'embauche</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17919" type="Téléservice">Titre emploi service entreprise (Tese)</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Remplace le titre emploi entreprise occasionnels (TEE) et le chèque-emploi très petites entreprises (CETPE).</Paragraphe>
+<Paragraphe>Pour les entreprises, implantées en métropole, de moins de 9 salariés (en CDD, en CDI ou en contrat d'apprentissage) ou qui emploient des salariés occasionnels (pour moins de 700 heures par an ou 100 jours consécutifs ou non), quel que soit l'effectif.</Paragraphe>
+<Paragraphe>L'utilisation de ce chèque de paiement de salaire incluant un volet de cotisations sociales permet à l'employeur de simplifier ses déclarations sociales et de réaliser les formalités liées à l'embauche : DUE, contrat de travail, déclaration des cotisations sociales, certificat de travail et bulletin de paie...</Paragraphe>
+<Paragraphe>Adhésion gratuite préalable.</Paragraphe>
+<Paragraphe>L'adhésion au dispositif du Tese est automatique pour les employeurs qui utilisaient auparavant le TEE ou le CETPE.</Paragraphe>
+<Paragraphe>En saisissant son numéro Siret, l'employeur accède à la demande d'adhésion, s'il n'est pas encore adhérent, ou, s'il est déjà adhérent, àun espace sécurisé, pour consulter son compte ou déclarer ses salariés.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.letese.urssaf.fr/cetpeweb/loginempl.jsp">
+<Source>Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</LienWeb><NoticeLiee ID="R20417" URL="http://www.letese.urssaf.fr/tesewebinfo/files/content/teseweb/docinfo/2348-Tese-ModeEmploi-internet%20080813.pdf" format="application/pdf" poids="4.2 MB">Guide pratique sur le Tese</NoticeLiee>
+
+<FicheLiee ID="F22469" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Conditions d'utilisation et de rémunération des emplois saisonniers</Titre>
+<Dossier ID="N16992">Recrutements spécifiques</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23154" audience="Professionnels" type="Fiche d'information">
+<Titre>Titres d'embauche simplifiés (Tese, Tesa, TEF)</Titre>
+<Dossier ID="N22781">Formalités d'embauche</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

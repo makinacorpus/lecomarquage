@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2500" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Candidature à la médaille de la famille</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Permet de faire une demande de médaille de la famille.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-08</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2500</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N23501">Médailles et décorations officielles</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2500" type="Formulaire">Candidature à la médaille de la famille</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>15319*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet de faire une demande de médaille de la famille.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15319.do" format="application/pdf" poids="67.7 KB">
+<Source>Ministère en charge des affaires sociales</Source>
+</LienWeb>
+<FicheLiee ID="F2124" audience="Particuliers" type="Fiche d'information">
+<Titre>Médaille de la famille</Titre>
+<Dossier ID="N23501">Médailles et décorations officielles</Dossier>
+</FicheLiee>
+<Dossier ID="N23501">
+<Titre>Médailles et décorations officielles</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2730" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on revenir sur le partage des biens résultant d'un divorce ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Oui. On peut revenir sur le partage des biens résultant d'un divorce si l'un des ex-époux à été lésé dans le partage ou si un bien a été oublié.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-03-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2730</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165772&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181838&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N159</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N159">Divorce, séparation de corps</Niveau>
+<Niveau ID="F2730" type="Fiche Question-réponse">Peut-on revenir sur le partage des biens résultant d'un divorce ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere><DossierPere ID="N159">
+<Titre>Divorce, séparation de corps</Titre>
+<Fiche ID="F980">Séparation de corps</Fiche>
+<Fiche ID="F10567">Divorce par consentement mutuel</Fiche>
+<Fiche ID="F10569">Divorce pour acceptation du principe de la rupture du mariage</Fiche>
+<Fiche ID="F10577">Divorce pour faute</Fiche>
+<Fiche ID="F10568">Divorce pour altération définitive du lien conjugal</Fiche>
+<Fiche ID="F1760">Prestation compensatoire</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui. On peut revenir sur le partage des biens résultant d'un divorce si l'un des ex-époux à été lésé dans le partage ou si un bien a été oublié.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si un des époux a été lésé</Paragraphe>
+</Titre><Paragraphe>Si l’un des ex-époux a été lésé de plus d’un quart de la valeur des biens, le partage peut être remis en cause.</Paragraphe>
+<Paragraphe>Pour apprécier s'il y a eu lésion ou non, il faut considérer la valeur des biens à l'époque du partage et non pas au jour où l'on engage l'action en complément de part.</Paragraphe>
+<Paragraphe>Il peut s'agir par exemple de biens qui ont été attribués à l'un des ex-époux et qui ont été sous évalués.</Paragraphe>
+<Paragraphe>L’ex-époux qui s’estime lésé peut réclamer le complément de sa part à l’autre et si nécessaire exercer une action en justice,  appelée <Expression>action en complément de part</Expression>. </Paragraphe>
+<Paragraphe>Cette<Expression> action en complément de part</Expression> doit être introduite, avec l'aide d'un avocat, devant le juge aux affaires familiales du tribunal de grande instance (TGI) par <LienIntra LienID="R12538" type="Définition de glossaire">assignation</LienIntra>.</Paragraphe>
+<Paragraphe>Elle doit être exercée dans un délai maximum de 2 ans à partir du jour du partage.</Paragraphe>
+<Paragraphe>La charge de la preuve revient à l'ex-époux qui s'estime lésé et le juge peut éventuellement ordonner une expertise pour vérifier la réalité et le montant de la lésion.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>cette action n'est pas possible pour les <LienInterne LienPublication="F10567" type="Fiche d'information" audience="Particuliers">divorces par consentement mutuel</LienInterne>.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si un bien a été oublié dans le partage</Paragraphe>
+</Titre><Paragraphe>Il peut arriver  que les époux aient oublié de faire figurer dans l’acte de partage un bien leur appartenant en commun.</Paragraphe>
+<Paragraphe>L’omission de ce bien peut donner lieu à un partage complémentaire portant seulement sur ce bien.</Paragraphe>
+<Paragraphe>Un partage complémentaire est possible à tout moment et quel que soit le type de divorce, y compris les divorces par consentement mutuel.</Paragraphe>
+<Paragraphe>Le partage peut être fait d'un commun accord entre les ex-époux.</Paragraphe>
+<Paragraphe> En cas de désaccord,  le juge aux affaires familiales du tribunal de grande instance doit être saisi par  <LienIntra LienID="R12538" type="Définition de glossaire">assignation</LienIntra>. Cette saisine nécessite l'aide d'un avocat.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Texte>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165772&amp;cidTexte=LEGITEXT000006070721" ID="R34257">
+<Titre>Code civil : articles 889 à 892</Titre>
+<Complement>Action en complément de part</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181838&amp;cidTexte=LEGITEXT000006070721" ID="R34259">
+<Titre>Code civil : articles 1467 à 1480</Titre>
+</Reference>
+<Definition ID="R12538">
+<Titre>Assignation</Titre>
+<Texte>
+				<Paragraphe>Acte d'huissier de justice informant une personne qu'un procès est engagé contre elle et la convoquant devant une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F903" audience="Particuliers">Comment s'effectue le partage des biens après divorce ?</QuestionReponse>
+</Publication>

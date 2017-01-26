@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F34041" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment signaler un programme radio ou télé au CSA ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Il est possible de signaler en ligne au CSA (Conseil supérieur de l'audiovisuel) un programme radio ou télé jugé violent ou choquant.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F34041</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17914</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N17914">Culture et télévision</Niveau>
+<Niveau ID="F34041" type="Fiche Question-réponse">Comment signaler un programme radio ou télé au CSA ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N150">Temps libre</SousThemePere><DossierPere ID="N17914">
+<Titre>Culture et télévision</Titre>
+<Fiche ID="F20348">Entrée gratuite au musée pour les jeunes</Fiche>
+<Fiche ID="F108">Accès gratuit au musée pour les enseignants</Fiche>
+<Fiche ID="F32297">Téléchargement légal de musique et de films</Fiche>
+<Fiche ID="F32452">Téléchargement légal de jeux vidéo</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Si vous estimez qu'un programme télévisé ou radiophonique comporte des séquences violentes ou choquantes, vous pouvez le signaler en ligne au <LienInterne LienPublication="R38623" type="Sigle">CSA</LienInterne>. </Paragraphe>
+<Paragraphe>Vous pouvez aussi signaler toute séquence incitant à la discrimination raciste, sexiste ou homophobe.</Paragraphe>
+<Paragraphe>Vous pouvez également faire un signalement si vous jugez qu'un programme télévisé ne comporte pas <LienInterne LienPublication="F32346" type="Fiche Question-réponse" audience="Particuliers">une signalétique adaptée</LienInterne>. Par exemple, si vous estimez qu'une série interdite aux moins de 10 ans aurait du être interdite aux moins de 12 ans.</Paragraphe>
+<Paragraphe>Vous pouvez aussi signaler un manquement à l'éthique dans un journal ou un magazine d'information (fausse nouvelle diffusée...). Et ce, qu'il soit diffusé à la télévision ou à la radio.</Paragraphe>
+<Paragraphe>Tout programme diffusé à la télévision ou à la radio peut ainsi être signalé. Par exemple, une émission de télé-réalité ou un débat à la radio.</Paragraphe><ServiceEnLigne ID="R38648" URL="http://www.csa.fr/Services-en-ligne/Formulaire-pour-signaler-un-programme" type="Téléservice">
+<Titre>Signalement d'un programme au CSA</Titre>
+<Source ID="R30724">Conseil supérieur de l'audiovisuel (CSA)</Source>
+<Texte><Paragraphe>Permet de signaler un programme radio ou télé au CSA.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les émissions diffusées exclusivement sur internet ne peuvent pas être signalées au CSA. Mais vous pouvez signaler les contenus illégaux venant d'internet via <LienInterne LienPublication="R17674" type="Téléservice" audience="Particuliers">un téléservice spécifique</LienInterne>.</Paragraphe>
+</ANoter>
+</Texte><ServiceEnLigne ID="R38648" URL="http://www.csa.fr/Services-en-ligne/Formulaire-pour-signaler-un-programme" type="Téléservice">
+<Titre>Signalement d'un programme au CSA</Titre>
+<Source ID="R30724">Conseil supérieur de l'audiovisuel (CSA)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R38649" URL="http://www.csa.fr/csajeunesse/Espace-jeunesse" audience="Particuliers">
+<Titre>Conseils sur les programmes télévisés pour les jeunes et leurs parents</Titre>
+<Source ID="R30724">Conseil supérieur de l'audiovisuel (CSA)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R38623" type="Sigle">
+<Titre>CSA</Titre>
+<Texte>
+<Paragraphe>Conseil Supérieur de l'Audiovisuel</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F31979" audience="Particuliers">Comment signaler un site internet illégal ?</QuestionReponse>
+<QuestionReponse ID="F32346" audience="Particuliers">Comment sont classés les programmes violents à la télévision ?</QuestionReponse>
+</Publication>

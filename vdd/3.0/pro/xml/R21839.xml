@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R21839" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Viticulteur : déclaration de stock de vins et de moûts</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Permet aux producteurs de vin ou de produits viticoles d'effectuer la déclaration annuelle obligatoire de stock de produits restant dans leur chais, quantités détenues au 31 juillet (même pour des stocks à vide). À déposer avant le 10 septembre de chaque année (ou le dernier jour ouvrable si le 10 est un samedi ou un dimanche).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-01</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R21839</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23662">Obligations en matière d'agriculture</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R21839" type="Formulaire">Viticulteur : déclaration de stock de vins et de moûts</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>10704*06</NumeroCerfa>
+<AutreNumero>8329 CVI</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Permet aux producteurs de vin ou de produits viticoles d'effectuer la déclaration annuelle obligatoire de stock de produits restant dans leur chais, quantités détenues au 31 juillet (même pour des stocks à vide). À déposer avant le 10 septembre de chaque année (ou le dernier jour ouvrable si le 10 est un samedi ou un dimanche).</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10704.do" format="application/pdf" poids="264.1 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb><NoticeLiee ID="R21840" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50342&amp;cerfaFormulaire=10704" numerocerfa="50342#07" format="application/pdf" poids="109.0 KB">Notice pour la déclaration de stock de vins et de moûts</NoticeLiee>
+<OuSAdresser ID="R19482" type="Local personnalisé sur SP">
+<Titre>Direction régionale des douanes et droits indirects (DRDDI)</Titre>
+<PivotLocal>drddi</PivotLocal>
+</OuSAdresser>
+
+<Dossier ID="N23662">
+<Titre>Obligations en matière d'agriculture</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

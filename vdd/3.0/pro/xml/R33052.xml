@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R33052" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'agrément sanitaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Demande d'agrément sanitaire - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-13</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R33052</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23662">Obligations en matière d'agriculture</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R33052" type="Formulaire">Demande d'agrément sanitaire</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13983*02</NumeroCerfa>
+<Texte><Paragraphe>Concerne les  établissements mettant sur le marché des produits d'origine animale ou des denrées contenant des produits d'origine animale. </Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13983.do">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb><NoticeLiee ID="R38167" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51905&amp;cerfaFormulaire=13983" numerocerfa="51905#01" format="application/pdf" poids="104.3 KB">Notice d'information pour une demande préalable d'agrément sanitaire</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R44609" audience="Professionnels" type="Téléservice">
+<Titre>Demande en ligne d'agrément sanitaire</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F33822" audience="Professionnels" type="Fiche d'information">
+<Titre>Agrément sanitaire et déclaration de manipulation de denrées animales</Titre>
+<Dossier ID="N23662">Obligations en matière d'agriculture</Dossier>
+</FicheLiee><OuSAdresser ID="R18" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge de la protection des populations (DDPP)</Titre>
+<Complement>En métropole</Complement>
+<PivotLocal>ddpp</PivotLocal>
+<RessourceWeb URL="http://www.economie.gouv.fr/dgccrf/coordonnees-des-DDPP-et-DDCSPP"/>
+</OuSAdresser>
+<OuSAdresser ID="R16439" type="Local personnalisé sur SP">
+<Titre>Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF)</Titre>
+<Complement>En outre-mer</Complement>
+<PivotLocal>draf</PivotLocal>
+<RessourceWeb URL="http://agriculture.gouv.fr/services-deconcentres"/>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</OuSAdresser>
+</ServiceComplementaire>

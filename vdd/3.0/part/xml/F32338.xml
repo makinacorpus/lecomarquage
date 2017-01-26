@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32338" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire si vous trouvez un animal errant ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Si vous avez trouvé un animal de compagnie, les démarches diffèrent selon qu'il est tatoué, pucé ou non identifié.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32338</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18944</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N18944">Animaux</Niveau>
+<Niveau ID="F32338" type="Fiche Question-réponse">Que faire si vous trouvez un animal errant ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N150">Temps libre</SousThemePere><DossierPere ID="N18944">
+<Titre>Animaux</Titre><SousDossier ID="N18944-1">
+<Titre>Entrée et sortie de France d'un animal de compagnie</Titre>
+<Fiche ID="F806">Venir ou revenir en France avec un animal de compagnie</Fiche>
+<Fiche ID="F21374">Voyage à l'étranger avec un animal de compagnie</Fiche>
+</SousDossier>
+<SousDossier ID="N18944-2">
+<Titre>Chiens susceptibles d'être dangereux</Titre>
+<Fiche ID="F1839">Chiens concernés, interdictions et obligations</Fiche>
+<Fiche ID="F20759">Permis de détention d'un chien dangereux</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous avez trouvé un animal de compagnie, les démarches diffèrent selon qu'il est tatoué, pucé ou non identifié.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Animal tatoué ou pucé</Paragraphe>
+</Titre><Paragraphe>Si l'animal est tatoué ou a une puce électronique (transpondeur), vous devez le déclarer au fichier national d'identification des carnivores domestiques.</Paragraphe><ServiceEnLigne ID="R31829" URL="http://www.i-cad.fr/index.php/declarer-un-animal-trouve" type="Téléservice">
+<Titre>Déclarer un animal trouvé (chien, chat ou furet)</Titre>
+<Source ID="R31830">Société d'identification des carnivores domestiques (I-CAD)</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Animal non identifié</Paragraphe>
+</Titre><Paragraphe>Si l'animal n'est pas tatoué ou n'a pas de puce électronique, vous devez contacter la mairie.</Paragraphe><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour signaler la découverte d'un animal de compagnie non identifié</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour signaler la découverte d'un animal de compagnie non identifié à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R31835" type="Centre de contact">
+<Titre>I-CAD, identification des carnivores domestiques</Titre>
+<Complement>Pour toute question sur le fichier national d'identification des carnivores domestiques</Complement><Texte>
+						
+								<Paragraphe>Organisme agréé pour gérer le fichier national d'identification des carnivores domestiques (chiens, chats et furets)</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 810 778 778</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi ou vendredi de 8h à 17 heures.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au <LienExterne URL="http://www.i-cad.fr/index.php/nous-contacter/">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>112-114 avenue Gabriel Péri </Paragraphe>
+								<Paragraphe>94246 L'Haÿ-les-Roses Cedex </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R31829" URL="http://www.i-cad.fr/index.php/declarer-un-animal-trouve" type="Téléservice">
+<Titre>Déclarer un animal trouvé (chien, chat ou furet)</Titre>
+<Source ID="R31830">Société d'identification des carnivores domestiques (I-CAD)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F24029" audience="Particuliers">Que faire si vous avez perdu un animal de compagnie ?</QuestionReponse>
+
+</Publication>

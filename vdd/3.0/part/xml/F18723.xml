@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F18723" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on encore voyager avec un ancien modèle de passeport ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Depuis fin juin 2009, tout passeport délivré en France est un passeport biométrique. Si votre ancien passeport est toujours valide, il n'est pas</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2015-09-25</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F18723</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022232359&amp;cidTexte=LEGITEXT000018763666, http://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=E0BD323F5E8665136B0AF97189C94714.tpdila16v_1?idArticle=LEGIARTI000022232353&amp;cidTexte=LEGITEXT000018763666&amp;dateTexte=20150622</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N360">Passeport</Niveau>
+<Niveau ID="F18723" type="Fiche Question-réponse">Peut-on encore voyager avec un ancien modèle de passeport ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N360">
+<Titre>Passeport</Titre><SousDossier ID="N360-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F14929">Première demande</Fiche>
+<Fiche ID="F21091">Renouvellement</Fiche>
+<Fiche ID="F21246">Passeport perdu</Fiche>
+<Fiche ID="F21247">Passeport volé</Fiche>
+<Fiche ID="F1373">Passeport en urgence</Fiche>
+</SousDossier>
+<SousDossier ID="N360-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F14930">Première demande</Fiche>
+<Fiche ID="F21092">Renouvellement</Fiche>
+<Fiche ID="F21244">Passeport perdu</Fiche>
+<Fiche ID="F21245">Passeport volé</Fiche>
+<Fiche ID="F1035">Passeport en urgence</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Depuis fin juin 2009, tout  passeport délivré en France est un  passeport biométrique. </Paragraphe>
+<Paragraphe>Si votre passeport est en cours de validité,  il reste valable jusqu'à sa date d'expiration même s'il s'agit d'un ancien modèle (passeport électronique ou à lecture optique). </Paragraphe>
+<Paragraphe>Il n'est donc pas nécessaire de le remplacer.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous envisagez de vous rendre aux États-Unis, <LienInterne LienPublication="F14079" type="Fiche Question-réponse" audience="Particuliers">un visa peut être exigé</LienInterne> selon la date et le modèle du passeport.</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R14970" type="Local personnalisable">
+<Titre>Mairie délivrant des passeports biométriques</Titre>
+<PivotLocal>mairie_passeport_bio</PivotLocal>
+<RessourceWeb URL="https://passeport.ants.gouv.fr/Services-associes/Ou-faire-une-demande-de-passeport"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022232359&amp;cidTexte=LEGITEXT000018763666" ID="R14934">
+<Titre>Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=E0BD323F5E8665136B0AF97189C94714.tpdila16v_1?idArticle=LEGIARTI000022232353&amp;cidTexte=LEGITEXT000018763666&amp;dateTexte=20150622" ID="R847">
+<Titre>Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5-1 (pièces à fournir pour un renouvellement)</Titre>
+</Reference>
+<QuestionReponse ID="F14079" audience="Particuliers">Voyage aux USA : quelles sont les formalités (passeport, visa...) ?</QuestionReponse>
+<QuestionReponse ID="F11603" audience="Particuliers">Comment savoir si un titre d'identité est sécurisé ?</QuestionReponse>
+<QuestionReponse ID="F591" audience="Particuliers">De quelle pièce d'identité a-t-on besoin pour voyager en avion ?</QuestionReponse>
+
+</Publication>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1251" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de regroupement familial</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Concerne, sauf exceptions, l'étranger non européen qui souhaite faire venir son époux majeur et ses enfants mineurs en France</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-01</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1251</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N11165">Regroupement familial</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1251" type="Formulaire">Demande de regroupement familial</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11436*05</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Concerne, sauf exceptions, l'étranger non européen qui souhaite faire venir son époux majeur et ses enfants mineurs en France</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11436.do">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb><NoticeLiee ID="R41685" URL="http://www.immigration.interieur.gouv.fr/content/download/87391/677548/file/cerfa_11436-05_notice.pdf" format="application/pdf" poids="289.1 KB">Notice de renseignement du formulaire de demande de regroupement familial</NoticeLiee>
+<NoticeLiee ID="R41669" URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=annexe-1&amp;cerfaFormulaire=11436*05">Liste des pièces à joindre au formulaire de demande de regroupement familial</NoticeLiee>
+<NoticeLiee ID="R41673" URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=annexe-2&amp;cerfaFormulaire=11436*05">Adresses des directions territoriales de l'Office français de l'immigration et de l'intégration (Ofii) auxquelles envoyer sa demande de regroupement familial</NoticeLiee>
+
+<FicheLiee ID="F11169" audience="Particuliers" type="Fiche d'information">
+<Titre>Regroupement familial : dépôt et instruction de la demande</Titre>
+<Dossier ID="N11165">Regroupement familial</Dossier>
+</FicheLiee>
+<Dossier ID="N11165">
+<Titre>Regroupement familial</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

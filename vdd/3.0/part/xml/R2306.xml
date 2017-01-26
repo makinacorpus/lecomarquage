@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2306" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Agirc - Arrco : demande de retraite en ligne</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Agirc - Arrco : demande de retraite en ligne - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-10</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2306</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2306" type="Téléservice">Agirc - Arrco : demande de retraite en ligne</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Permet aux salariés de demander leur retraite complémentaire directement sur le site de l'Agirc-Arrco, depuis leur espace personnel.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://espace-personnel.agirc-arrco.fr/auth/login?service=https://espace-personnel.agirc-arrco.fr/shiro-cas">
+<Source>Association générale des institutions de retraite des cadres (Agirc)</Source>
+</LienWeb>
+<FicheLiee ID="F13941" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Demande de départ en retraite du salarié : quelles sont les démarches à faire ?</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F15396" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite dans le privé : pension de retraite complémentaire</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<Dossier ID="N381">
+<Titre>Retraite des salariés du secteur privé</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

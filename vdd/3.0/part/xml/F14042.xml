@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14042" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dans quel cadre peut-on effectuer un test de paternité ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Dans quel cadre peut-on effectuer un test de paternité ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-08-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14042</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136513&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410104&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000382296</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N15660</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N15660">Naissance</Niveau>
+<Niveau ID="F14042" type="Fiche Question-réponse">Dans quel cadre peut-on effectuer un test de paternité ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N15660">
+<Titre>Naissance</Titre><SousDossier ID="N15660-1">
+<Titre>Formalités pour le couple</Titre>
+<Fiche ID="F961">Déclaration de naissance</Fiche>
+<Fiche ID="F15393">Filiation de l'enfant d'un couple marié : présomption de paternité</Fiche>
+<Fiche ID="F887">Filiation de l'enfant d'un couple non marié : reconnaissance</Fiche>
+</SousDossier>
+<SousDossier ID="N15660-2">
+<Titre>Démarches judiciaires</Titre>
+<Fiche ID="F15882">Recherche de paternité</Fiche>
+<Fiche ID="F15395">Établissement de la filiation par possession d'état</Fiche>
+<Fiche ID="F1230">Action aux fins de subsides en l'absence de filiation paternelle</Fiche>
+<Fiche ID="F940">Contestation de la filiation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Le test de paternité est autorisé uniquement dans le cadre d'une procédure judiciaire visant  à établir ou contester un lien de filiation, ou encore à obtenir ou supprimer des <LienInterne LienPublication="F1230" type="Fiche d'information" audience="Particuliers">subsides</LienInterne>. Le consentement du père présumé est obligatoire. Procéder à un test de paternité en dehors de ce cadre est illégal.</Paragraphe>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Qui peut l'ordonner ?</Paragraphe>
+</Titre><Paragraphe>Le test de paternité est ordonné par le juge du tribunal de grande instance saisi par un avocat.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment procède-t-on ?</Paragraphe>
+</Titre><Paragraphe>Le test de paternité est accompli selon 2 méthodes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'examen comparé des sangs,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou l'identification par les empreintes génétiques (test ADN).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le test de paternité peut être effectué uniquement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par des techniciens spécialement agréés à cet effet </Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et avec le consentement du père présumé.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>un refus injustifié de se soumettre à un test de paternité peut être interprété comme un aveu de paternité par le juge.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour se renseigner</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136513&amp;cidTexte=LEGITEXT000006070721" ID="R40998">
+<Titre>Code civil : articles 16-10 à 16-13</Titre>
+<Complement>Articles 16-10 à 16-12</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410104&amp;cidTexte=LEGITEXT000006070716" ID="R11268">
+<Titre>Code de procédure civile : article 11</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000382296" ID="R10788">
+<Titre>Décret n°97-109 du 6 février 1997 relatif aux personnes habilitées à procéder à des identifications par empreintes génétiques</Titre>
+</Reference>
+</Publication>

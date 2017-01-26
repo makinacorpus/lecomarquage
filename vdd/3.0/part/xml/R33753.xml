@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R33753" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Informer son assureur des réparations engagées à la suite d'une déclaration de sinistre</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Informer son assureur des réparations engagées à la suite d'une déclaration de sinistre - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-09</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R33753</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N319">Autorisations d'urbanisme</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R33753" type="Modèle de document">Informer son assureur des réparations engagées à la suite d'une déclaration de sinistre</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.conso.net/content/la-suite-dimportantes-malfacons-vous-avez-percu-une-indemnisation-mais-elle-est">
+<Source>Institut national de la consommation (INC)</Source>
+</LienWeb>
+<FicheLiee ID="F2032" audience="Particuliers" type="Fiche d'information">
+<Titre>Assurance construction dommages-ouvrage</Titre>
+<Dossier ID="N31344">Travaux</Dossier>
+</FicheLiee>
+<Dossier ID="N319">
+<Titre>Autorisations d'urbanisme</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

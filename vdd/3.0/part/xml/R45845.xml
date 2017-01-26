@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R45845" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Renouvellement d'un titre de séjour étudiant : prise de rendez-vous à la préfecture de police</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Renouvellement d'un titre de séjour étudiant : prise de rendez-vous à la préfecture de police - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-17</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R45845</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N110">Titres, documents de séjour et de circulation des étrangers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R45845" type="Téléservice">Renouvellement d'un titre de séjour étudiant : prise de rendez-vous à la préfecture de police</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="https://www.ppoletrangers.interieur.gouv.fr/?motif=renetu">
+<Source>Préfecture de police de Paris</Source>
+</LienWeb>
+<FicheLiee ID="F17279" audience="Particuliers" type="Fiche d'information">
+<Titre>Étranger en France : renouvellement du titre de séjour "étudiant"</Titre>
+<Dossier ID="N110">Titres, documents de séjour et de circulation des étrangers</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

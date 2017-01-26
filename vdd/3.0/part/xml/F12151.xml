@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12151" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Médiateur de la SNCF : comment y recourir ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Le médiateur de la SNCF examine, dans le but de trouver des solutions amiables, les litiges survenus à l'occasion d'un voyage et subsistant après une intervention écrite auprès d'un service de la SNCF.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12151</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20444</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N20444">Cartes de transport</Niveau>
+<Niveau ID="F12151" type="Fiche Question-réponse">Médiateur de la SNCF : comment y recourir ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N20444">
+<Titre>Cartes de transport</Titre>
+<Fiche ID="F34049">Carte mobilité inclusion</Fiche>
+<Fiche ID="F2446">Carte d'invalidité</Fiche>
+<Fiche ID="F15066">Carte de priorité d'accès aux lieux publics</Fiche>
+<Fiche ID="F2891">Carte européenne de stationnement</Fiche>
+<Fiche ID="F33963">Carte de stationnement résidentiel</Fiche>
+<Fiche ID="F15292">Carte famille nombreuse</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le médiateur de la SNCF examine, dans le but de trouver des solutions amiables, les litiges survenus à l'occasion d'un voyage et subsistant après une intervention écrite auprès d'un service de la SNCF.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Cas de saisine</Paragraphe>
+</Titre><Paragraphe>Tout usager de la SNCF peut saisir le médiateur si, à l'occasion d'un voyage, il a eu :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un litige commercial avec la SNCF,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou un procès verbal de contravention.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le litige ne doit pas dater de plus d'1 an.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quand le saisir ?</Paragraphe>
+</Titre><Paragraphe>En cas de litige avec la SNCF, vous devez avant tout adresser votre réclamation au service clientèle ou au centre de recouvrement des procès-verbaux dans les 2 mois qui suivent votre verbalisation.</Paragraphe>
+<Paragraphe>Si la réponse est insatisfaisante ou en l'absence de réponse dans un délai d'1 mois, vous pouvez alors saisir le médiateur.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><BlocCas type="modalite" affichage="onglet">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R45268" URL="http://www.mediateur.sncf.com/Default.aspx" type="Téléservice">
+<Titre>Saisir en ligne le médiateur de la SNCF</Titre>
+<Source ID="R30621">Société nationale des chemins de fer français (SNCF)</Source>
+<Texte><Paragraphe>Permet de saisir le médiateur de la SNCF après refus de l'une de ces compagnies de répondre favorablement à votre contestation de procès verbal d'infraction</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><OuSAdresser ID="R1230" type="Centre de contact">
+<Titre>Médiateur de la SNCF</Titre><Texte>
+						
+								<Paragraphe>
+			Médiateur de la SNCF
+		- TSA 49980 - 75839 PARIS CEDEX 17</Paragraphe>
+							
+					</Texte>
+</OuSAdresser>
+
+<Paragraphe>Le courrier rédigé sur papier libre ou en utilisant une lettre-type doit décrire l'objet du litige et être accompagné des justificatifs nécessaires.</Paragraphe>
+<ServiceEnLigne ID="R1829" URL="http://www.conso.net/content/contestant-un-proces-verbal-que-vous-dresse-un-controleur-de-la-sncf-vous-saisissez-le" type="Modèle de document">
+<Titre>Saisir le médiateur de la SNCF</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de saisir le médiateur de la SNCF après refus de l'une de ces compagnies de répondre favorablement à votre contestation de procès verbal d'infraction </Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Gratuit</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Traitement de la demande</Paragraphe>
+</Titre><Paragraphe>Le médiateur examine le dossier et propose une solution dans un délai variant de 2 à 4 mois selon la complexité du litige.</Paragraphe>
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R20526" type="Centre de contact">
+<Titre>Voyages SNCF</Titre>
+<Complement>Pour avoir des informations sur un voyage</Complement><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      <MiseEnEvidence>36 35</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Ouvert tous les jours de 7h à 22h</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Demande d'informations à partir du
+      <LienExterne URL="http://aide.voyages-sncf.com/contactez-nous">formulaire de saisie</LienExterne>
+
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R45268" URL="http://www.mediateur.sncf.com/Default.aspx" type="Téléservice">
+<Titre>Saisir en ligne le médiateur de la SNCF</Titre>
+<Source ID="R30621">Société nationale des chemins de fer français (SNCF)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R3132" URL="http://www.economie.gouv.fr/dgccrf/Les-associations-de-consommateurs#assoc" audience="Particuliers">
+<Titre>Les associations de consommateurs</Titre>
+<Complement>Pour vous conseiller et vous aider à constituer votre dossier</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F20250" audience="Particuliers">Peut-on toujours obtenir et utiliser la carte Enfant-Famille ?</QuestionReponse>
+<QuestionReponse ID="F18537" audience="Particuliers">Quelles réductions s'appliquent aux seniors dans les transports en commun ?</QuestionReponse>
+<QuestionReponse ID="F31852" audience="Particuliers">Peut-on contester un procès-verbal dressé dans les transports en commun ?</QuestionReponse>
+
+</Publication>

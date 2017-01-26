@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10662" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment obtenir une attestation de droits (attestation Vitale) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Il existe plusieurs moyens d'obtenir ce document.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-14</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10662</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N418</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418">Assurance maladie : affiliation et remboursements des soins</Niveau>
+<Niveau ID="F10662" type="Fiche Question-réponse">Comment obtenir une attestation de droits (attestation Vitale) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere><DossierPere ID="N418">
+<Titre>Assurance maladie : affiliation et remboursements des soins</Titre><SousDossier ID="N418-1">
+<Titre>Démarches d'affiliation</Titre>
+<Fiche ID="F34047">Protection universelle maladie (Puma)</Fiche>
+<Fiche ID="F675">Étudiant</Fiche>
+<Fiche ID="F16467">Premier emploi</Fiche>
+<Fiche ID="F23671">Agent public</Fiche>
+<Fiche ID="F674">Changement de situation professionnelle</Fiche>
+<Fiche ID="F737">Changement de situation personnelle</Fiche>
+<Fiche ID="F16620">Rattachement d'un enfant</Fiche>
+<Fiche ID="F16622">Rattachement d'un autre ayant-droit</Fiche>
+</SousDossier>
+<SousDossier ID="N418-2">
+<Titre>Conditions du remboursement des soins</Titre>
+<Fiche ID="F163">Parcours de soins coordonnés et médecin traitant</Fiche>
+<Fiche ID="F165">Ticket modérateur, forfait, franchises</Fiche>
+<Fiche ID="F265">Carte Vitale</Fiche>
+<Fiche ID="F33967">Ordonnance</Fiche>
+<Fiche ID="F11616">Feuille de soins</Fiche>
+<Fiche ID="F168">Accord (entente) préalable</Fiche>
+<Fiche ID="F167">Tiers payant</Fiche>
+</SousDossier>
+<SousDossier ID="N418-3">
+<Titre>Remboursement par type de dépense de santé</Titre>
+<Fiche ID="F1069">Consultation médicale</Fiche>
+<Fiche ID="F10874">Consultation médicale d'un enfant</Fiche>
+<Fiche ID="F200">Hospitalisation</Fiche>
+<Fiche ID="F21760">Médicaments</Fiche>
+<Fiche ID="F2951">Frais de transports</Fiche>
+<Fiche ID="F751">Cure thermale</Fiche>
+<Fiche ID="F33950">Lunettes et lentilles</Fiche>
+<Fiche ID="F33956">Soins dentaires</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>L'attestation est indispensable pour justifier d'une affiliation à l'Assurance Maladie</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>auprès de professionnels de santé, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en cas d'hospitalisation </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou pour les bénéficiaires de la <LienInterne LienPublication="R35928" type="Acronyme">CMUC</LienInterne> qui doivent la présenter avec leur carte Vitale à chaque consultation.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous avez plusieurs moyens de vous procurer une attestation de droits :</Paragraphe>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><Paragraphe>Vous pouvez télécharger l'attestation <LienInterne LienPublication="R3049" type="Téléservice" audience="Particuliers">à partir de votre compte ameli</LienInterne>, si vous êtes salarié relevant du régime général de la sécurité sociale. </Paragraphe><ServiceEnLigne ID="R3049" URL="https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true" type="Téléservice">
+<Titre>Ameli en ligne</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Texte><Paragraphe>Permet de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>suivre vos remboursements en temps réel, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>télécharger une attestation de droits ou d'indemnités journalières, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou poser une question à votre caisse par mail.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Si vous n'avez pas encore de compte, vous pouvez le créer en ligne ou demander un code en appelant au 36 46. Celui-ci vous sera adressé par courrier.</Paragraphe><OuSAdresser ID="R19040" type="Centre de contact">
+<Titre>Assurance maladie - 3646</Titre><Texte>
+						
+								<Paragraphe>
+			Le 36 46 vous permet d'obtenir des renseignements sur vos droits et démarches, de poser une question sur votre dossier, de signaler un changement de situation ou encore de consulter vos remboursements.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3646</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi. Attention : les horaires varient selon votre département. En règle générale, les horaires d'ouverture sont au minimum de 8h30 à 16h. </Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger : +33 (0) 811 70 36 46
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Connectez-vous sur votre
+      <LienExterne URL="http://www.ameli.fr/">compte ameli</LienExterne>
+,      puis sélectionnez l'onglet
+      <Citation>Vos demandes</Citation>
+      et cliquez sur
+      <Citation>Contactez-nous / Vos questions</Citation>
+		.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><Paragraphe>Vous pouvez utiliser les bornes automatiques multiservices disponibles dans les organismes d'assurance maladie ; en général, un code d'accès est nécessaire pour vous identifier ; si vous êtes affilié au régime général, le code est celui de votre compte ameli.</Paragraphe><OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Vous pouvez adresser une demande écrite à votre organisme d'assurance maladie.</Paragraphe><OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>la copie papier des informations contenues dans votre <LienInterne LienPublication="F265" type="Fiche d'information" audience="Particuliers">carte Vitale</LienInterne>, qui vous est transmise en même temps que la carte Vitale, n'a pas valeur d'attestation de droits.</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R19040" type="Centre de contact">
+<Titre>Assurance maladie - 3646</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Le 36 46 vous permet d'obtenir des renseignements sur vos droits et démarches, de poser une question sur votre dossier, de signaler un changement de situation ou encore de consulter vos remboursements.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3646</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi. Attention : les horaires varient selon votre département. En règle générale, les horaires d'ouverture sont au minimum de 8h30 à 16h. </Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger : +33 (0) 811 70 36 46
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Connectez-vous sur votre
+      <LienExterne URL="http://www.ameli.fr/">compte ameli</LienExterne>
+,      puis sélectionnez l'onglet
+      <Citation>Vos demandes</Citation>
+      et cliquez sur
+      <Citation>Contactez-nous / Vos questions</Citation>
+		.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<Complement>Pour s'informer et effectuer la démarche</Complement>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R3049" URL="https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true" type="Téléservice">
+<Titre>Ameli en ligne</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<Abreviation ID="R35928" type="Acronyme">
+<Titre>CMUC</Titre>
+<Texte>
+<Paragraphe>Couverture maladie universelle complémentaire</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F21742" audience="Particuliers">Quelles informations contient la carte Vitale ?</QuestionReponse>
+<QuestionReponse ID="F648" audience="Particuliers">À quel organisme de sécurité sociale est-on rattaché pour l'assurance maladie ?</QuestionReponse>
+</Publication>

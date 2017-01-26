@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15246" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Adoption simple et l'adoption plénière : quelles différences ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les deux formes d'adoption diffèrent sur un certain nombre de sujets : liens avec la famille d'origine, autorité parentale, nom de la personne adoptée .....</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15246</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150072&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150076&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N133</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N133">Adoption</Niveau>
+<Niveau ID="F15246" type="Fiche Question-réponse">Adoption simple et l'adoption plénière : quelles différences ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N133">
+<Titre>Adoption</Titre><SousDossier ID="N133-1">
+<Titre>Adoption par un couple marié</Titre>
+<Fiche ID="F3151">Adoption plénière</Fiche>
+<Fiche ID="F1184">Adoption simple</Fiche>
+</SousDossier>
+<SousDossier ID="N133-2">
+<Titre>Adoption à titre individuel</Titre>
+<Fiche ID="F1385">Adoption plénière</Fiche>
+<Fiche ID="F933">Adoption simple</Fiche>
+<Fiche ID="F1094">Adoption de l'enfant de son conjoint</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les deux formes d'adoption diffèrent sur un certain nombre de sujets : liens avec la famille d'origine, autorité parentale, nom de la personne adoptée .....</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Effets pour chaque type d'adoption </Titre>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="38" type="normal"/>
+<Colonne largeur="38" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Sujet</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Adoption simple</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Adoption plénière</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Lien avec la famille d'origine</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adopté conserve tous ses liens avec sa famille d'origine</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adopté acquiert une nouvelle filiation qui remplace celle d'origine</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Autorité parentale</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'autorité parentale est exclusivement et intégralement attribuée au(x) parent(s) adoptif(s), sauf s'il s'agit de <LienInterne LienPublication="F1094" type="Fiche d'information" audience="Particuliers">l'adoption d'un enfant de l'époux(se)</LienInterne>. Dans ce cas, celui-ci conserve seul l'exercice de l'autorité parentale sauf déclaration conjointe devant le greffier en chef du tribunal de grande instance.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'autorité parentale est exclusivement et intégralement attribuée au(x) parent(s) adoptif(s). </Paragraphe>
+<Paragraphe>En cas d'adoption de l'enfant de l'époux(se), elle est exercée en commun.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Obligation alimentaire</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adoptant doit des <LienIntra LienID="R17620" type="Définition de glossaire">aliments</LienIntra> à l'adopté et réciproquement.</Paragraphe>
+<Paragraphe>Les père et mère (biologiques) de l'adopté ne sont tenus de  lui fournir des <LienIntra LienID="R17620" type="Définition de glossaire">aliments</LienIntra> que    s'il ne peut les obtenir de l'adoptant.</Paragraphe>
+<Paragraphe>L'adopté ne doit pas d'aliments à ses père et mère biologiques s'il a été admis comme pupille de l'État ou pris en charge par l’Aide sociale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adoptant doit des <LienIntra LienID="R17620" type="Définition de glossaire">aliments</LienIntra> à l'adopté et réciproquement</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Nom de l'adopté</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Le nom de l'adoptant s'ajoute au <LienInterne LienPublication="F2621" type="Fiche d'information" audience="Particuliers">nom de l'adopté</LienInterne> ou le remplace</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adopté  prend automatiquement le <LienInterne LienPublication="F2668" type="Fiche d'information" audience="Particuliers">nom de l'adoptant</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Prénom de l'adopté</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Il est possible de demander au juge un changement de prénom de l'adopté</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Il est possible de demander au juge un changement de prénom de l'adopté</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Nationalité</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adoption simple ne permet pas à l'enfant adopté <LienInterne LienPublication="F3070" type="Fiche d'information" audience="Particuliers">d'acquérir automatiquement la nationalité française</LienInterne>.</Paragraphe>
+<Paragraphe>L'enfant doit la demander en faisant une déclaration.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'enfant adopté pendant sa minorité acquiert automatiquement la <LienInterne LienPublication="F3070" type="Fiche d'information" audience="Particuliers">nationalité française</LienInterne> dès lors que l'un des parents (adoptant) est de nationalité française. Il est considéré comme français dès sa naissance.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Mariage</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Le <LienInterne LienPublication="F802" type="Fiche Question-réponse" audience="Particuliers">mariage est interdit</LienInterne> entre les personnes suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'adoptant et l'adopté ou ses <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'adoptant et l'époux(se) de l'adopté,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'époux(se) de l'adoptant et l'adopté tant que vit la personne créant l'alliance.</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>Le <LienInterne LienPublication="F802" type="Fiche Question-réponse" audience="Particuliers">mariage est interdit</LienInterne> entre l'adopté et sa famille d'origine ainsi que dans la famille de l'adoptant</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Droit à la succession</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adopté <LienInterne LienPublication="F1270" type="Fiche d'information" audience="Particuliers">hérite des 2 familles</LienInterne> : de sa famille d'origine et de sa famille adoptive.</Paragraphe>
+<Paragraphe>Toutefois, il n'est pas <LienIntra LienID="R12674" type="Définition de glossaire">héritier réservataire</LienIntra> à l’égard de ses grands-parents adoptifs (ceux-ci peuvent le déshériter).</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Un enfant adopté <LienInterne LienPublication="F1270" type="Fiche d'information" audience="Particuliers">a droit à la succession de ses parents adoptifs</LienInterne>.</Paragraphe>
+<Paragraphe>Dans sa famille d'origine, il est exclu de la succession.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Révocation</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adoption simple peut être révoquée pour motifs graves</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'adoption plénière est <LienIntra LienID="R3083" type="Définition de glossaire">irrévocable</LienIntra>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N133" audience="Particuliers">
+<Titre>Adoption</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150072&amp;cidTexte=LEGITEXT000006070721" ID="R11834">
+<Titre>Code civil : articles 355 à 359</Titre>
+<Complement>Effets de l'adoption plénière</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150076&amp;cidTexte=LEGITEXT000006070721" ID="R10785">
+<Titre>Code civil : articles 363 à 370-2</Titre>
+<Complement>Effets de l'adoption simple</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41643" URL="http://www.agence-adoption.fr" audience="Particuliers">
+<Titre>Site de l'Agence française de l'adoption (Afa)</Titre>
+<Source ID="R30785">Agence française de l'adoption</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41644" URL="http://www.adoption.gouv.fr/" audience="Particuliers">
+<Titre>Site officiel d'information sur l'adoption d'un enfant</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<Definition ID="R12674">
+<Titre>Héritier réservataire</Titre>
+<Texte>
+				<Paragraphe>Descendant, ou à défaut de descendant, le conjoint survivant, à qui la loi réserve une part d'héritage qui ne peut être diminuée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150544&amp;cidTexte=LEGITEXT000006070721" ID="R31562">
+<Titre>Code civil : articles 912 à 917</Titre>
+</Reference>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R3083">
+<Titre>Irrévocable</Titre>
+<Texte>
+				<Paragraphe>Définitif, sur lequel on ne peut revenir</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17620">
+<Titre>Aliments</Titre>
+<Texte>
+				<Paragraphe>Somme versée par une personne à un proche parent (père, mère, autres ascendants ou descendants) pour lui permettre d'assurer les besoins nécessaires à sa vie quotidienne</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

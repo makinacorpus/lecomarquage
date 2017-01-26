@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14872" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Avec quels documents un Français peut-il se rendre en Algérie ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>voyage en Algérie, papiers, passeport, visa, mineurs, double nationalité</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des affaires étrangères</dc:contributor>
+<dc:date>modified 2016-03-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14872</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31336</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N31336">Voyager à l'étranger</Niveau>
+<Niveau ID="F14872" type="Fiche Question-réponse">Avec quels documents un Français peut-il se rendre en Algérie ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20273">Français à l'étranger</SousThemePere><DossierPere ID="N31336">
+<Titre>Voyager à l'étranger</Titre>
+<Fiche ID="F13605">Voyage en Europe</Fiche>
+<Fiche ID="F32833">Voyage dans un autre pays</Fiche>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Si vous possédez la nationalité française</Paragraphe>
+</Titre><Paragraphe>Vous devez posséder un passeport dont la date de validité excède de 3 mois la date d'expiration du visa sollicité.</Paragraphe>
+<Paragraphe>Par exemple, si vous partez le 1<Exposant>er</Exposant> juillet avec un visa de 3 mois, votre passeport doit être valide jusqu'à la fin du mois de décembre.</Paragraphe>
+<Paragraphe>Vous devez également obtenir un visa. Il doit être demandé auprès du  consulat et accompagné des pièces suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le formulaire de demande rempli en double exemplaire,</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R43490" URL="http://www.amb-algerie.fr/wp-content/uploads/2014/04/fr_form.pdf" type="Formulaire">
+<Titre>Demande de visa pour l'Algérie</Titre>
+<Source ID="R43491">Ambassade d'Algérie</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de demander un visa pour entrer en Algérie.</Paragraphe>
+<Paragraphe>Ce formulaire est à remplir en double exemplaires.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Liste type="puce">
+<Item>
+<Paragraphe>votre passeport et sa photocopie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 photos d'identité récentes et identiques,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une attestation d'assurance-voyage couvrant les frais de rapatriement pour raisons médicales, les soins médicaux et les soins hospitaliers d'urgence,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des <LienExterne URL="http://www.amb-algerie.fr/formalites-visa/">pièces complémentaires selon le type de visa sollicité</LienExterne>
+
+.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R532" type="Local personnalisable">
+<Titre>Ambassade ou consulat d'Algérie en France</Titre>
+<PivotLocal>ambassade_algerie</PivotLocal>
+<RessourceWeb URL="http://www.amb-algerie.fr/reseau-consulaire/"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si vous possédez la double nationalité</Paragraphe>
+</Titre><Paragraphe>Si vous possédez la double nationalité (nationalité française et nationalité algérienne), vous êtes soumis, lors de votre séjour, aux textes applicables aux ressortissants algériens.</Paragraphe>
+<Paragraphe>Des conditions spécifiques peuvent notamment s'appliquer aux mineurs et aux jeunes gens soumis au service militaire en Algérie. Il convient donc de s'informer des conditions d'entrée et de sortie en Algérie auprès de l'autorité consulaire algérienne compétente.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>en Algérie, l'âge légal de la majorité est de 19 ans.</Paragraphe>
+</Attention><Paragraphe>Même si vous êtes entré en Algérie avec un passeport algérien, pour rentrer en France, il convient de présenter un document d'identité français en cours de validité (passeport ou carte nationale d'identité).</Paragraphe>
+<Paragraphe>Ce document doit être présenté quel que soit votre âge.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R532" type="Local personnalisable">
+<Titre>Ambassade ou consulat d'Algérie en France</Titre>
+<Complement>Pour faire établir le visa et pour tout renseignement complémentaire</Complement>
+<PivotLocal>ambassade_algerie</PivotLocal>
+<RessourceWeb URL="http://www.amb-algerie.fr/reseau-consulaire/"/>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R1974" URL="http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs_909/pays_12191/algerie_12196/index.html" audience="Particuliers">
+<Titre>Conditions d'entrée et de séjour en Algérie</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R43492" URL="http://www.amb-algerie.fr/formalites-visa/" audience="Particuliers">
+<Titre>Formalités du visa pour l'Algérie</Titre>
+<Source ID="R43491">Ambassade d'Algérie</Source>
+</PourEnSavoirPlus>
+
+</Publication>

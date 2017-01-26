@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42350" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de photographie en cas d'amende radar</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Sur la page d'accueil, vous devez choisir dans le menu déroulant "Administration centrale du Ministère de l'intérieur" puis "ANTAI - demande de cliché contrôle automatisé".</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-31</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42350</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N18918">Infractions routières</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42350" type="Téléservice">Demande de photographie en cas d'amende radar</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Sur la page d'accueil, vous devez choisir dans le menu déroulant "Administration centrale du Ministère de l'intérieur" puis "ANTAI - demande de cliché contrôle automatisé".</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Vous devez ensuite indiquer vos nom de naissance, nom d'usage éventuellement, prénoms, adresse et coordonnées de contact (adresse électronique obligatoire). Dans ces cases, il faut remettre les informations présentes sur l'avis de contravention que vous avez reçu, même noms et même adresse. </Paragraphe>
+<Paragraphe>Vous devez ensuite renseigner l'objet de votre demande et donner les informations nécessaires à son traitement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>numéro et date de l'avis de contravention,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>commune de l'infraction.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez joindre une copie scannée de la 1<Exposant>re</Exposant> page de votre avis de contravention.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://contacts-demarches.interieur.gouv.fr/">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F18510" audience="Particuliers" type="Fiche d'information">
+<Titre>Contestation de l'amende forfaitaire</Titre>
+<Dossier ID="N18918">Infractions routières</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

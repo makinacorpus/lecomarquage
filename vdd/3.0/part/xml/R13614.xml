@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R13614" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de remboursement de la taxe additionnelle à la taxe sur les certificats d'immatriculation des véhicules</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Demande de remboursement de la taxe additionnelle à la taxe sur les certificats d'immatriculation des véhicules - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-20</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R13614</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N18131">Mesures antipollution</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R13614" type="Formulaire">Demande de remboursement de la taxe additionnelle à la taxe sur les certificats d'immatriculation des véhicules</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Demande de réduction du malus automobile accordée aux familles comprenant au moins 3 enfants à charge pour un seul véhicule par foyer. </Paragraphe>
+<Paragraphe>À adresser jusqu'au 31 décembre de la 2<Exposant>e</Exposant> année après l'immatriculation du véhicule au service des impôts dont vous dépendez.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/files/media/1_metier/1_particulier/EV/3_services_doc_renrenseignement/310_besoin_document/demande_remboursement_taxe_add_certificat_immatriculation.pdf" format="application/pdf" poids="77.9 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F19911" audience="Particuliers" type="Fiche d'information">
+<Titre>Malus et taxe CO₂ pour un véhicule polluant</Titre>
+<Dossier ID="N18131">Mesures antipollution</Dossier>
+</FicheLiee><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+</ServiceComplementaire>

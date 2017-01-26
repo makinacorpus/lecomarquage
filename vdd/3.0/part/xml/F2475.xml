@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2475" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on encore toucher l'allocation compensatrice pour tierce personne (ACTP) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>L'ACTP a été remplacée le 1er janvier 2006 par la PCH, mais vous pouvez continuer à en bénéficier si vous la perceviez déjà</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2475</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006905872&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006682332&amp;cidTexte=LEGITEXT000006051257</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N12230</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N12230">Handicap : allocations (AAH, AEEH) et aides</Niveau>
+<Niveau ID="F2475" type="Fiche Question-réponse">Peut-on encore toucher l'allocation compensatrice pour tierce personne (ACTP) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20270">Handicap</SousThemePere><DossierPere ID="N12230">
+<Titre>Handicap : allocations (AAH, AEEH) et aides</Titre>
+<Fiche ID="F12242">Allocation aux adultes handicapés (AAH)</Fiche>
+<Fiche ID="F12911">Complément de ressources</Fiche>
+<Fiche ID="F12903">Majoration pour la vie autonome</Fiche>
+<Fiche ID="F14809">Allocation d'éducation de l'enfant handicapé (AEEH)</Fiche>
+<Fiche ID="F14202">Prestation de compensation du handicap (PCH)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>L'ACTP vous permet d'assumer les frais occasionnés par l'emploi d'une tierce personne pour les aider dans les actes du quotidien. </Paragraphe>
+<Paragraphe>Cette allocation a été remplacée le 1<Exposant>er</Exposant> janvier 2006 par la prestation de compensation du handicap (PCH), mais vous pouvez continuer à en bénéficier si vous la perceviez déjà et respectez les conditions d'attribution suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir un taux d'incapacité d'au moins 80 % reconnu par la Commission des droits et de l'autonomie des personnes handicapées (CDAPH),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>résider en France métropolitaine et être de nationalité française ou disposer d'un titre de séjour régulier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avoir des ressources qui ne dépassent pas celles pour l'attribution de  <LienInterne LienPublication="F12242" type="Fiche d'information" audience="Particuliers">l'allocation aux adultes handicapés (AAH)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>il n'y a pas d'âge limite pour continuer à percevoir l'ACTP. Cependant, à partir de 60 ans, vous pouvez demander à bénéficier de <LienInterne LienPublication="F10009" type="Fiche d'information" audience="Particuliers">l'allocation personnalisée d'autonomie (Apa)</LienInterne> à la place de l'ACTP.</Paragraphe>
+</ASavoir><Paragraphe>La demande de renouvellement doit être faite au moyen d'un formulaire.</Paragraphe><ServiceEnLigne ID="R19993" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13788.do" numerocerfa="13788*01" type="Formulaire">
+<Titre>Formulaire de demande(s) de prestations liées au handicap</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R19994" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13788*01&amp;cerfaNotice=51299" numerocerfa="51299*01">Notice explicative du formulaire de demande(s) auprès de la maison départementale des personnes handicapées (MDPH)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13878*01">
+<Titre>Certificat médical adulte/enfant</Titre>
+<Texte><Paragraphe>À joindre à toutes demandes de prestations</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13878.do"/><NoticeLiee ID="R19497" URL="http://www.cnsa.fr/documentation/mode_d_emploi_certificat_mdph_octobre_2009.pdf" format="pdf" poids="27.3 KB">Guide d'utilisation du certificat médical destiné à la MDPH</NoticeLiee>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+
+<Paragraphe>Cette demande doit être adressée à la Maison départementale des personnes handicapées (MDPH).</Paragraphe><OuSAdresser ID="R14" type="Local personnalisé sur SP">
+<Titre>Maison départementale des personnes handicapées (MDPH)</Titre>
+<PivotLocal>maison_handicapees</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=MDPH&amp;where="/>
+</OuSAdresser>
+
+<Paragraphe>La décision de renouvellement est accompagnée d'une information préalable sur les montants respectifs de l'ACTP et de la PCH auxquels vous pouvez prétendre.</Paragraphe>
+<Paragraphe>Le montant de l'ACTP varie entre <Valeur>441,67 €</Valeur> et <Valeur>772,93 €</Valeur> </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si votre état nécessite l'aide d'une autre personne pour un ou quelques actes essentiels de l'existence,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si votre état nécessite une aide pour l'ensemble de ces actes essentiels, mais sans que cela entraîne un manque à gagner (arrêt de travail par exemple) pour la personne de l'entourage qui vous apporte cette aide.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez bénéficier d'une aide d'un montant maximum de <Valeur>883,35 €</Valeur> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si votre état nécessite l'aide d'une autre personne pour la plupart des actes essentiels de l'existence,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et si cette personne est rémunérée pour cette aide ou si, faisant partie de votre entourage, elle subit de ce fait un manque à gagner.</Paragraphe>
+</Item>
+</Liste>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les personnes atteintes de cécité bénéficient automatiquement de l'ACTP au taux maximum. </Paragraphe>
+</ANoter>
+</Texte><VoirAussi important="non">
+<Dossier ID="N451" audience="Particuliers">
+<Titre>Handicap et emploi dans le secteur privé</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F14202" audience="Particuliers">
+<Titre>Prestation de compensation du handicap (PCH)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006905872&amp;cidTexte=LEGITEXT000006074069" ID="R13695">
+<Titre>Code de l'action sociale et des familles : article R245-32</Titre>
+<Complement>Passage de l'ACTP à la prestation de compensation du handicap</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006682332&amp;cidTexte=LEGITEXT000006051257" ID="R35597">
+<Titre>Loi n°2005-102 du 11 février 2005 pour l'égalité des droits et des chances des personnes handicapées : article 95</Titre>
+<Complement>Conservation des droits à l'ACTP</Complement>
+</Reference>
+<ServiceEnLigne ID="R19993" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13788.do" numerocerfa="13788*01" type="Formulaire">
+<Titre>Formulaire de demande(s) de prestations liées au handicap</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R19994" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13788*01&amp;cerfaNotice=51299" numerocerfa="51299*01">Notice explicative du formulaire de demande(s) auprès de la maison départementale des personnes handicapées (MDPH)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13878*01">
+<Titre>Certificat médical adulte/enfant</Titre>
+<Texte><Paragraphe>À joindre à toutes demandes de prestations</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13878.do"/><NoticeLiee ID="R19497" URL="http://www.cnsa.fr/documentation/mode_d_emploi_certificat_mdph_octobre_2009.pdf" format="pdf" poids="27.3 KB">Guide d'utilisation du certificat médical destiné à la MDPH</NoticeLiee>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<QuestionReponse ID="F1657" audience="Particuliers">Peut-on encore toucher l'allocation compensatrice frais professionnels (ACFP) ?</QuestionReponse>
+<QuestionReponse ID="F14764" audience="Particuliers">Handicap : peut-on cumuler la PCH avec d'autres allocations ? </QuestionReponse>
+</Publication>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1617" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on se pacser avec un membre de sa famille ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Oui, sous réserve de ne pas entrer dans un des cas d'empêchement au Pacs.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1617</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136536&amp;cidTexte=LEGITEXT000006070721, http://www.textes.justice.gouv.fr/art_pix/boj_20070001_0000_0015.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N144</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N144">Pacte civil de solidarité (Pacs)</Niveau>
+<Niveau ID="F1617" type="Fiche Question-réponse">Peut-on se pacser avec un membre de sa famille ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere><DossierPere ID="N144">
+<Titre>Pacte civil de solidarité (Pacs)</Titre>
+<Fiche ID="F1618">Conclusion</Fiche>
+<Fiche ID="F1026">Effets</Fiche>
+<Fiche ID="F1619">Modification</Fiche>
+<Fiche ID="F1620">Dissolution</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Oui, sous réserve de ne pas entrer dans un des cas d'empêchement au Pacs.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe> Le  Pacs est interdit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>entre <LienIntra LienID="R12668" type="Définition de glossaire">ascendant</LienIntra> et <LienIntra LienID="R12574" type="Définition de glossaire">descendant</LienIntra> en ligne directe (entre un père et son enfant, entre une mère et son enfant, entre un grand-parent et son petit-enfant...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>entre frères, entre  sœurs, et entre frère et sœur, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>entre demi-frères, entre demi-sœurs, et entre demi-frère et demi-sœur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>entre un oncle et sa nièce ou son neveu,  entre une tante et son neveu ou sa nièce,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>entre <LienIntra LienID="R12901" type="Définition de glossaire">alliés</LienIntra> en ligne directe (entre une belle-mère et son beau-fils ou son gendre ou sa belle-fille, entre un beau-père et son beau-fils ou sa belle-fille ou son gendre...).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il ne peut pas y avoir de dispense. </Paragraphe>
+<Paragraphe>Par contre, rien n'empêche des cousins germains de conclure un Pacs. </Paragraphe>
+
+</Texte><OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour se renseigner</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136536&amp;cidTexte=LEGITEXT000006070721" ID="R11503">
+<Titre>Code civil : articles 515-1 à 515-7-1</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.textes.justice.gouv.fr/art_pix/boj_20070001_0000_0015.pdf" ID="R17675" format="application/pdf" poids="346.8 KB">
+<Titre>Circulaire du 5 février 2007 relative à la réforme du Pacs</Titre>
+</Reference>
+<Definition ID="R12668">
+<Titre>Ascendant</Titre>
+<Texte>
+				<Paragraphe>Parents, grands-parents et arrière-grands-parents d'une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12901">
+<Titre>Alliés</Titre>
+<Texte>
+				<Paragraphe>Personnes liées par des liens résultant du mariage et non du sang (par exemple, beau-frère, belle-mère)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

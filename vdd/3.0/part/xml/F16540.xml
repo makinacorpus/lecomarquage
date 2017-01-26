@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16540" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on vendre un véhicule d'occasion sans contrôle technique ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Peut-on vendre un véhicule d'occasion sans contrôle technique ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16540</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020559004</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31200</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N31200">Contrôle technique</Niveau>
+<Niveau ID="F16540" type="Fiche Question-réponse">Peut-on vendre un véhicule d'occasion sans contrôle technique ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N31200">
+<Titre>Contrôle technique</Titre>
+<Fiche ID="F2878">Voiture particulière</Fiche>
+<Fiche ID="F33353">Camionnette</Fiche>
+<Fiche ID="F33354">Camping-car</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Il est possible de vendre un véhicule sans contrôle technique dans 2 cas seulement : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si le véhicule a moins de 4 ans </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si vous le vendez à un garage ou un concessionnaire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si vous <LienInterne LienPublication="F1707" type="Fiche d'information" audience="Particuliers">vendez un véhicule</LienInterne> de plus de 4 ans qui  <LienInterne LienPublication="F2880" type="Fiche Question-réponse" audience="Particuliers">n'est pas dispensé du contrôle technique</LienInterne>, vous devez remettre à votre acheteur l'original de la preuve de ce contrôle technique, fait en France  (ou dans l'Union européenne si le véhicule y était précédemment immatriculé)  datant de moins de 6 mois (  2 mois si une <LienIntra LienID="R12140" type="Définition de glossaire">contre-visite</LienIntra> a été prescrite). Ce document lui sera indispensable pour <LienInterne LienPublication="F1050" type="Fiche d'information" audience="Particuliers">faire immatriculer le véhicule</LienInterne>.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F1707" audience="Particuliers">
+<Titre>Carte grise - Vendre ou donner son véhicule</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020559004" ID="R11460">
+<Titre>Arrêté du 18 juin 1991 relatif au contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes</Titre>
+<Complement>Article 3</Complement>
+</Reference>
+<Definition ID="R12140">
+<Titre>Contre-visite (contrôle technique)</Titre>
+<Texte>
+				<Paragraphe>Second examen nécessaire pour vérifier si les points défectueux détectés lors de la visite initiale du véhicule ont été réparés</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R37933" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modification d'une association (e-modification)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association, Fonctionnement d'une association</dc:subject>
+<dc:description>Service accessible avec un compte service-public.fr, permettant de : - déclarer les modifications de statuts et les changements intervenus dans l'administration d'une association ; - et de demander la publication au Journal officiel des associations et fondations d'entreprise (JOAFE) de certaines de ces modifications. Attention : ce service ne concerne pas l'Alsace-Moselle.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-29</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R37933</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R37933" type="Téléservice">Modification d'une association (e-modification)</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Service accessible avec un compte service-public.fr, permettant de :</Paragraphe>
+<Paragraphe>- déclarer les modifications de statuts et les changements intervenus dans l'administration d'une association ;</Paragraphe>
+<Paragraphe>- et de demander la publication au Journal officiel des associations et fondations d'entreprise (JOAFE) de certaines de ces modifications.</Paragraphe>
+<Paragraphe>Attention : ce service ne concerne pas l'Alsace-Moselle.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte>
+				<Paragraphe> </Paragraphe>
+			
+
+</Texte>
+<LienWeb URL="https://psl.service-public.fr/asso_mademarche/MD/demarche?action=modification">
+<Source>Direction de l'information légale et administrative (Premier ministre)</Source>
+</LienWeb>
+<FicheLiee ID="F1178" audience="Associations" type="Fiche d'information">
+<Titre>Association : évolution des ressources (recettes, dons, immeuble)</Titre>
+<Dossier ID="N21962">Évolutions et dissolution d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1122" audience="Associations" type="Fiche d'information">
+<Titre>Dissolution d'une association</Titre>
+<Dossier ID="N21962">Évolutions et dissolution d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1121" audience="Associations" type="Fiche d'information">
+<Titre>Fonctionnement des instances dirigeantes d'une association</Titre>
+<Dossier ID="N19590">Dirigeants et responsables d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1123" audience="Associations" type="Fiche d'information">
+<Titre>Modification des statuts d'une association</Titre>
+<Dossier ID="N21962">Évolutions et dissolution d'une association</Dossier>
+</FicheLiee>
+<Dossier ID="N21962">
+<Titre>Évolutions et dissolution d'une association</Titre>
+<Audience>Associations</Audience>
+</Dossier>
+</ServiceComplementaire>

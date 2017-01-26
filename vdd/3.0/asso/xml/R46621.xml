@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R46621" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Association : demande de subvention en ligne auprès de certaines collectivités territoriales</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Financement et fiscalité d'une association</dc:subject>
+<dc:description>Permet d'effectuer une demande de subvention en ligne auprès de certaines collectivités territoriales</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-19</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R46621</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31405">Financement et fiscalité d'une association</Niveau>
+<Niveau ID="N21960">Collecte de fonds par une association</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R46621" type="Téléservice">Association : demande de subvention en ligne auprès de certaines collectivités territoriales</Niveau>
+</FilDAriane>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet d’effectuer une demande de subvention en ligne auprès de la ville d'Amiens, de la communauté d'agglomération d'Amiens Métropole et du conseil départemental de la Côte-d'Or. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://mdel.mon.service-public.fr/asso_mademarchev5/sfjsp?interviewID=eSubventionCT">
+<Source>Secrétariat général pour la modernisation de l'action publique (SGMAP)</Source>
+</LienWeb>
+<FicheLiee ID="F3180" audience="Associations" type="Fiche d'information">
+<Titre>Subventions versées aux associations</Titre>
+<Dossier ID="N21960">Collecte de fonds par une association</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

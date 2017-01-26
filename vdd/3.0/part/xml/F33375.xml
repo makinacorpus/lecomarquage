@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33375" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Versement de la prime d'activité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>La prime d'activité vous est attribuée trimestriellement et versée mensuellement. Chaque trimestre, vous devez déclarez vos ressources pour la réévaluation éventuelle de la prime d'activité par la Caf ou la CMSA. La prime d'activité peut être réduite ou suspendue dans certaines situations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33375</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031077475&amp;cidTexte=LEGITEXT000006073189&amp;dateTexte=20160101, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031676091&amp;cidTexte=LEGITEXT000006073189&amp;dateTexte=20160101</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31477</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31477">Prime d'activité</Niveau>
+<Niveau ID="F33375" type="Fiche d'information">Versement de la prime d'activité</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N31477">
+<Titre>Prime d'activité</Titre>
+<Fiche ID="F2882">Prime d'activité : conditions d'attribution et montant</Fiche>
+<Fiche ID="F33375">Versement de la prime d'activité</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La prime d'activité vous est attribuée trimestriellement et versée mensuellement. Chaque trimestre, vous devez déclarez vos ressources pour la réévaluation éventuelle de la prime d'activité par la Caf ou la CMSA. La prime d'activité peut être réduite ou suspendue dans certaines situations.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Versement et révision du droit</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Versement</Paragraphe>
+</Titre><Paragraphe>La prime d'activité vous est versée à partir du 1<Exposant>er</Exposant> jour du mois au cours duquel vous avez déposé votre demande. </Paragraphe>
+<Paragraphe>La prime est versée mensuellement, à terme échu par la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne> de votre département : par exemple, la prime d'activité du mois de mars est versée en avril.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la prime d'activité n'est pas imposable.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Déclarations trimestrielles et révision du droit à la prime</Paragraphe>
+</Titre><Paragraphe>Chaque trimestre, vous devez déclarer l'ensemble des ressources de votre foyer pour la réévaluation éventuelle de la prime d'activité par la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne>
+</Paragraphe>
+<Paragraphe>Cette déclaration s’effectue :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur le site internet de la Caf si vous dépendez de la Caf :</Paragraphe>
+</Item>
+</Liste><ServiceEnLigne ID="R1165" URL="https://wwwd.caf.fr" type="Téléservice">
+<Titre>Caisse d'allocations familiales (Caf) en ligne</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+
+<Liste type="puce">
+<Item>
+<Paragraphe>sur le site internet de la MSA si vous dépendez de la CMSA : </Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R38210" URL="http://www.msa.fr/lfr/espace-prive" type="Téléservice">
+<Titre>Espace MSA - déclarations en ligne pour les exploitants agricoles</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+<Texte><Paragraphe>Accès à l'espace privé du site de la MSA permettant à l'exploitant agricole d'effectuer les démarches en ligne suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déclaration des revenus professionnels (DRP), servant de base pour le calcul des cotisations (déclaration en ligne obligatoire à partir de <Valeur>10 000 €</Valeur> de  revenus professionnels)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration du bordereau de versement mensuel (BVM),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration préalable à l'embauche (DPAE) permettant la déclaration des salariés de l'exploitation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration de salaires (DS) trimestrielle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>imprimer les bulletins de salaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>paiement des cotisations et contributions sociales,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demande d'attestations,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>consultation du relevé de situation individuelle (RIS), donnant accès au récapitulatif de carrière pour connaître les droits à la retraite.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Après inscription gratuite préalable. Un code d'accès provisoire sera alors envoyé par courrier, à personnaliser lors de la première connexion.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Entre chaque réexamen, il n'est pas tenu compte des ressources du foyer pour le calcul de la prime d'activité. </Paragraphe>
+<Paragraphe>Vous devez informer votre Caf ou votre CMSA du changement de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre  résidence,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre  situation familiale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre  activité  et vos ressources,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre  patrimoine.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Tout changement de situation impliquant une révision du montant de la prime d'activité prend effet à compter du 1<Exposant>er</Exposant>  jour du mois au cours duquel il est arrivé et cesse de produire ses effets à compter du 1<Exposant>er</Exposant> jour du mois après sa survenance.</Paragraphe>
+<Paragraphe>Si vous ne remplissez plus les conditions pour bénéficier de la prime d'activité, le versement cesse à partir du 1<Exposant>er</Exposant> jour du mois où vous ne les remplissez plus.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Suspension du versement et réclamation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>En cas d'hospitalisation</Paragraphe>
+</Titre><Paragraphe>Si vous ne vivez pas <LienIntra LienID="R42442" type="Définition de glossaire">en couple</LienIntra> et n'avez pas de personne à charge, le montant de votre prime d'activité est réduit de moitié.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous êtes enceinte, cette réduction ne s'applique pas.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>En cas d'incarcération</Paragraphe>
+</Titre><Paragraphe>Vous devez prévenir la Caf ou la CMSA de votre incarcération en adressant un certificat de présence pour que le versement de la prime d'activité soit suspendu. Sinon vous serez radié et vous devrez rembourser le trop perçu à votre sortie.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Réclamation et trop perçu</Paragraphe>
+</Titre><Paragraphe>Lorsque vous avez reçu un trop perçu de prime d'activité, votre Caf ou votre CMSA peut vous en demander le remboursement pendant 2 ans. Le trop perçu est récupéré par retenues sur la prime d'activité à venir.</Paragraphe>
+<Paragraphe>Si vous ne percevez plus la prime, la Caf ou la CMSA peut récupérer les sommes perçues à tort par retenue sur les mensualités d'autres prestations à venir (<LienInterne LienPublication="F863" type="Fiche Question-réponse" audience="Particuliers">prestations familiales</LienInterne>, <LienInterne LienPublication="N12230" type="Dossier" audience="Particuliers">allocation aux adultes handicapés</LienInterne>, <LienInterne LienPublication="N20360" type="Dossier" audience="Particuliers">allocations de logement</LienInterne>).</Paragraphe>
+<Paragraphe>Pour contester une décision relative à la prime d'activité, vous devez, dans un premier temps, adresser un recours auprès de la commission de recours amiable. En cas de réponse défavorable, vous pouvez ensuite présenter un recours contentieux devant le tribunal administratif. </Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031077475&amp;cidTexte=LEGITEXT000006073189&amp;dateTexte=20160101" ID="R42620">
+<Titre>Code de la sécurité sociale : articles L845-1 à L845-6</Titre>
+<Complement>Contrôle, recours et récupération de la prime</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031676091&amp;cidTexte=LEGITEXT000006073189&amp;dateTexte=20160101" ID="R42624">
+<Titre>Code de la sécurité sociale : articles R846-1 à R846-9</Titre>
+<Complement>Attribution, service et financement de la prime</Complement>
+</Reference>
+<Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R24582" type="Acronyme">
+<Titre>Caf</Titre>
+<Texte>
+<Paragraphe>Caisse d'allocations familiales</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24583" type="Sigle">
+<Titre>CMSA</Titre>
+<Texte>
+<Paragraphe>Caisse de mutualité sociale agricole</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

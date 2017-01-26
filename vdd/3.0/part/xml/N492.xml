@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N492" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Conditions de travail dans le secteur privé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Conditions de travail dans le secteur privé : Hygiène, sécurité et conditions de travail, Travail de nuit, Conditions de travail : informations diverses</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-22</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N492</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Salarié du secteur privé</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N492" type="Dossier">Conditions de travail dans le secteur privé</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere>
+<SousDossier ID="N492-1">
+<Titre>Hygiène, sécurité et conditions de travail</Titre><Fiche ID="F2210">Obligations de l'employeur</Fiche>
+<Fiche ID="F2344">Jeunes dans l'entreprise</Fiche>
+<Fiche ID="F58">Travailleur à domicile</Fiche>
+<Fiche ID="F2211">Médecine du travail</Fiche>
+<Fiche ID="F15504">Compte de prévention pénibilité</Fiche>
+<Fiche ID="F13851">Télétravail</Fiche>
+</SousDossier>
+<SousDossier ID="N492-2">
+<Titre>Travail de nuit</Titre><Fiche ID="F2212">Principes généraux</Fiche>
+<Fiche ID="F1688">Jeunes de moins de 18 ans</Fiche>
+<Fiche ID="F2691">Protection de la salariée enceinte</Fiche>
+</SousDossier>
+<SousDossier ID="N492-3">
+<Titre>Conditions de travail : informations diverses</Titre><Fiche ID="F31854">Évaluation du salarié</Fiche>
+<Fiche ID="F1905">Règlement intérieur d'une entreprise</Fiche>
+<Fiche ID="F78">Convention collective</Fiche>
+</SousDossier><OuSAdresser ID="R250" type="Centre de contact">
+<Titre>3939 Allô Service Public</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3939 (coût : <Valeur>0,15 €</Valeur> TTC la minute)
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Répond aux demandes de renseignement administratif concernant les droits et démarches.
+		</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger ou hors métropole : +33 (0)1 73 60 39 39 uniquement depuis un poste fixe (coût d'une communication + coût de l'appel international variable selon les pays et les opérateurs).
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R38486" URL="" type="Modèle de document">
+<Titre>Réclamer le maintien d'un usage d'entreprise irrégulièrement supprimé</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F34029" audience="Particuliers">Qu'est-ce que le compte personnel d'activité (CPA) ?</QuestionReponse>
+<QuestionReponse ID="F2342" audience="Particuliers">Que risque un salarié qui ne respecte pas les consignes de sécurité ? </QuestionReponse>
+<QuestionReponse ID="F32177" audience="Particuliers">Peut-on consommer de l'alcool dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F2395" audience="Particuliers">Où peut-on consulter ou se procurer une convention collective ?</QuestionReponse>
+<QuestionReponse ID="F32459" audience="Particuliers">Un accord ou un plan sur la prévention de la pénibilité est-il obligatoire ?</QuestionReponse>
+<QuestionReponse ID="F311" audience="Particuliers">Qu'est-ce qu'un usage d'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F20367" audience="Particuliers">Comment s'applique le droit d'expression religieuse dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F1136" audience="Particuliers">Le salarié peut-il refuser de travailler dans une situation dangereuse ?</QuestionReponse>
+<QuestionReponse ID="F32031" audience="Particuliers">Qui peut lancer une alerte sanitaire et environnementale dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F13743" audience="Particuliers">Comment consulter un accord d'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F1731" audience="Particuliers">L'employeur doit-il aménager un espace pour la pause déjeuner ?</QuestionReponse>
+<QuestionReponse ID="F21059" audience="Particuliers">Quelles sont les conditions d'obtention et d'utilisation des titres-restaurant ?</QuestionReponse>
+<QuestionReponse ID="F1738" audience="Particuliers">Le local vestiaire est-il obligatoire dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F23582" audience="Particuliers">Vol d'objets personnels dans l'entreprise : quel recours contre son employeur ?</QuestionReponse>
+<QuestionReponse ID="F17047" audience="Particuliers">Intempérie ou catastrophe naturelle : quel droit pour le salarié absent ?</QuestionReponse>
+<QuestionReponse ID="F21019" audience="Particuliers">Grève des transports : quels droits pour le salarié ?</QuestionReponse>
+<QuestionReponse ID="F31235" audience="Particuliers">Un employeur peut-il s'informer sur le permis de conduire de son salarié ?</QuestionReponse>
+<QuestionReponse ID="F1901" audience="Particuliers">Une salariée enceinte a-t-elle droit à une réduction de sa durée de travail ?</QuestionReponse>
+<QuestionReponse ID="F1144" audience="Particuliers">Une salariée enceinte est-elle obligée de révéler sa grossesse à son employeur ?</QuestionReponse>
+<QuestionReponse ID="F2775" audience="Particuliers">Une salariée enceinte peut-elle refuser d'effectuer certaines tâches ?</QuestionReponse>
+<QuestionReponse ID="F2330" audience="Particuliers">Grossesse et autorisation d'absence : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F1769" audience="Particuliers">Une salariée peut-elle allaiter pendant les heures de travail ?</QuestionReponse>
+<QuestionReponse ID="F33420" audience="Particuliers">Qu'est-ce que le travail en soirée ?</QuestionReponse>
+<QuestionReponse ID="F33790" audience="Particuliers">Qu'est ce que la force majeure ?</QuestionReponse>
+<QuestionReponse ID="F34061" audience="Particuliers">Médecine au travail : qu'est-ce que la visite d'information et de prévention ?</QuestionReponse>
+<QuestionReponse ID="F34062" audience="Particuliers">Médecine du travail : qu'est-ce que le suivi individuel renforcé ?</QuestionReponse>
+<QuestionReponse ID="F16493" audience="Particuliers">Un salarié peut-il être dispensé de la visite d'information et de prévention ?</QuestionReponse>
+<QuestionReponse ID="F34075" audience="Particuliers">Un salarié peut-il être dispensé d'un suivi individuel renforcé ?</QuestionReponse>
+<QuestionReponse ID="F2338" audience="Particuliers">Un intérimaire est-il suivi par la médecine du travail ?</QuestionReponse>
+<QuestionReponse ID="F34084" audience="Particuliers">Un salarié saisonnier peut-il être dispensé d'un examen médical d'embauche ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19467" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Création d'une association</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association</dc:subject>
+<dc:description>Ne concerne pas l'Alsace-Moselle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-14</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19467</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19467" type="Formulaire">Création d'une association</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<NumeroCerfa>13973*03</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Ne concerne pas l'Alsace-Moselle</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>À adresser au greffe des associations.</Paragraphe>
+<Paragraphe>Ce formulaire doit être accompagné de la liste des dirigeants et, en cas d'union ou de fédération d'associations, de la liste des associations membres.</Paragraphe>
+<Paragraphe>Ne concerne pas l'Alsace-Moselle.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13973.do">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F1119" audience="Associations" type="Fiche d'information">
+<Titre>Déclaration initiale d'une association </Titre>
+<Dossier ID="N19554">Création d'une association</Dossier>
+</FicheLiee><OuSAdresser ID="R32106" type="Local personnalisé sur SP">
+<Titre>Greffe des associations</Titre>
+<PivotLocal>prefecture_greffe_associations</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Greffe+des+associations&amp;where="/>
+</OuSAdresser>
+</ServiceComplementaire>

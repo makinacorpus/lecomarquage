@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10492" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment obtenir la copie d'un diplôme ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>En cas de perte ou de vol d'un de vos diplômes, vous ne pourrez pas obtenir de copie mais un duplicata ou une attestation de réussite</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10492</dc:identifier>
+<dc:source>http://www.education.gouv.fr/bo/2006/47/MENS0603037C.htm</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N10481</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N10481">Diplômes</Niveau>
+<Niveau ID="F10492" type="Fiche Question-réponse">Comment obtenir la copie d'un diplôme ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N10481">
+<Titre>Diplômes</Titre>
+<Fiche ID="F19608">Brevet informatique et internet (B2i)</Fiche>
+<Fiche ID="F10005">Collège : diplôme national du brevet (DNB), certificat de formation générale</Fiche>
+<Fiche ID="F10041">Diplômes professionnels (BEP, CAP...)</Fiche>
+<Fiche ID="F10004">Baccalauréat</Fiche>
+<Fiche ID="F2401">Validation des acquis de l'expérience (VAE) </Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En cas de perte, de vol ou de sinistre, il n'est pas possible d'obtenir une copie de votre diplôme. Cependant, vous pourrez obtenir  une attestation de réussite s'il s'agit d'un diplôme du secondaire ( Brevet, Bac...) ou un duplicata pour un diplôme du supérieur (licence, master...).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Diplôme du secondaire : brevet, bac...</Paragraphe>
+</Titre><Paragraphe>Vous pouvez demander une <MiseEnEvidence>attestation de réussite </MiseEnEvidence> si vous êtes  titulaire d'un diplôme d'enseignement secondaire général, technologique ou professionnel.</Paragraphe>
+<Paragraphe>Il suffit généralement d'effectuer, par courrier, une demande écrite auprès de la <Expression>division des examens et concours</Expression> du rectorat d'académie où le diplôme a été délivré, en indiquant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vos nom et prénom(s),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre date de naissance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre  adresse,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'intitulé exact de votre diplôme,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le nom de l'établissement où il a été préparé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la série,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ainsi que l'année d'obtention du diplôme.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Joignez à votre demande une photocopie de votre pièce d'identité.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>certaines académies réclament de joindre à votre demande des timbres ou une enveloppe timbrée pour vous envoyer l'attestation en retour. Vérifiez ce point sur le site du rectorat.</Paragraphe>
+</ANoter><Paragraphe>L'attestation de réussite <MiseEnEvidence>a une valeur officielle</MiseEnEvidence> et vous donne  les mêmes droits que l'original du diplôme.</Paragraphe>
+<Paragraphe>Pour l'obtenir, contactez selon le lieu où vous avez passé le diplôme :</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Vérifiez auprès du rectorat ou sur son site internet, car de nombreuses académies disposent d'un formulaire propre pour effectuer cette demande.</Paragraphe>
+<OuSAdresser ID="R33" type="Local personnalisé sur SP">
+<Titre>Rectorat</Titre>
+<PivotLocal>rectorat</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-services-departementaux-education-nationale.html#La_carte_des_regions_academiques_et_les_coordonnees_des_rectorats_vice-rectorats_et_services_departementaux_de_l_Education_nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En région parisienne</Paragraphe>
+</Titre><ServiceEnLigne ID="R34136" URL="http://www.siec.education.fr/sel/demande/attestation" type="Téléservice">
+<Titre>Demande d'attestation de réussite en cas de perte d'un diplôme délivré par une des académies de l'Île de France</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Dans un établissement français à l'étranger</Paragraphe>
+</Titre><Paragraphe>Vérifiez auprès de  l'établissement la marche à suivre pour déposer  votre demande d'<MiseEnEvidence>attestation de réussite</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Vous pouvez en général obtenir les coordonnées ici :</Paragraphe><OuSAdresser ID="R45560" type="Local">
+<Titre>Établissement français à l'étranger</Titre>
+<RessourceWeb URL="http://www.aefe.fr/reseau-scolaire-mondial/rechercher-un-etablissement"/>
+<Source ID="R30873">Agence pour l'enseignement français à l'étranger (AEFE)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>Le délai pour recevoir l'attestation est variable.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Études supérieures : licence, master, doctorat...</Paragraphe>
+</Titre><Paragraphe>En cas de perte, de vol ou de destruction, vous  pouvez demander à  l'établissement d'enseignement supérieur qui vous a délivré le diplôme original un <MiseEnEvidence> duplicata</MiseEnEvidence> de celui-ci. </Paragraphe>
+<Paragraphe>Vous devrez présenter un document qui justifie votre demande, comme :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un récépissé de plainte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une déclaration de sinistre de votre assurance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une déclaration sur l'honneur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La mention <Expression>duplicata</Expression> doit apparaître sur le nouveau diplôme.</Paragraphe>
+<Paragraphe>Le duplicata a valeur officielle.</Paragraphe>
+<Paragraphe>Contactez l'établissement délivrant le diplôme pour connaître la marche à suivre afin d'obtenir ce duplicata.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre>
+<Paragraphe>ces démarches ne concernent pas le diplôme d'ingénieur qui a ses spécificités, il faut donc s'adresser à l'établissement qui a délivré le diplôme original.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.education.gouv.fr/bo/2006/47/MENS0603037C.htm" ID="R88">
+<Titre>Circulaire n°2006-202 du 8 décembre 2006 relative aux modalités d'élaboration et de délivrance des diplômes dans le cadre du dispositif “LMD”</Titre>
+</Reference>
+<ServiceEnLigne ID="R34136" URL="http://www.siec.education.fr/sel/demande/attestation" type="Téléservice">
+<Titre>Demande d'attestation de réussite en cas de perte d'un diplôme délivré par une des académies de l'Île de France</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+</Publication>

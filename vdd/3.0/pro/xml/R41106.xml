@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R41106" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Agent immobilier : demande d'attestation d'habilitation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>S'il emploie des salariés ou des agents commerciaux en tant que négociateurs immobiliers, l'agent immobilier doit leur fournir une attestation, qui permet de justifier de leur qualité et de l'étendue de leurs pouvoirs, et les habilite à négocier, s'entremettre ou s'engager pour le compte du titulaire de la carte professionnelle.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-29</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R41106</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N31360">Agent immobilier</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R41106" type="Formulaire">Agent immobilier : demande d'attestation d'habilitation</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>15315*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>S'il emploie des salariés ou des agents commerciaux en tant que négociateurs immobiliers, l'agent immobilier doit leur fournir une attestation, qui permet de justifier de leur qualité et de l'étendue de leurs pouvoirs, et les habilite à négocier, s'entremettre ou s'engager pour le compte du titulaire de la carte professionnelle.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15315.do" format="application/pdf" poids="407.3 KB">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb>
+<FicheLiee ID="F32994" audience="Professionnels" type="Fiche d'information">
+<Titre>Carte d'agent immobilier</Titre>
+<Dossier ID="N31360">Agent immobilier</Dossier>
+</FicheLiee><OuSAdresser ID="R36" type="Local personnalisé sur SP">
+<Titre>Chambre de commerce et d'industrie (CCI)</Titre>
+<PivotLocal>cci</PivotLocal>
+<RessourceWeb URL="http://www.cci.fr/web/organisation-du-reseau/annuaire"/>
+<Source ID="R30752">CCI France</Source>
+</OuSAdresser>
+<OuSAdresser ID="R44864" type="National">
+<Titre>Centre de formalités des professions immobilières - CCI Paris Île-de-France</Titre>
+<Source ID="R30752">CCI France</Source><Texte>
+						
+								<Paragraphe> <MiseEnEvidence>Uniquement pour les départements 75-78-92-93-94-95</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>35, boulevard du Port Cap Cergy </Paragraphe>
+								<Paragraphe>Bâtiment C1 </Paragraphe>
+								<Paragraphe>CS 20209 </Paragraphe>
+								<Paragraphe>95031 Cergy-Pontoise Cedex</Paragraphe>
+								<Paragraphe>Le service ne reçoit pas de public.</Paragraphe>
+							
+					</Texte>
+</OuSAdresser>
+</ServiceComplementaire>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31678" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Régler une facture impayée à une agence de recouvrement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Permet d'adresser le règlement d'une facture impayée à une société de recouvrement en lui rappelant, qu'en l'absence de titre exécutoire, les frais réclamés sont à la charge du créancier</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-29</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31678</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N277">Saisies et recouvrements</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31678" type="Modèle de document">Régler une facture impayée à une agence de recouvrement</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet d'adresser le règlement d'une facture impayée à une société de recouvrement en lui rappelant, qu'en l'absence de titre exécutoire, les frais réclamés sont à la charge du créancier</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.conso.net/content/une-agence-de-recouvrement-vous-r%C3%A9clame-le-paiement-d%E2%80%99une-facture-impay%C3%A9e-ainsi-que-des" format="text/html; charset=utf-8" poids="0">
+<Source>Institut national de la consommation (INC)</Source>
+</LienWeb>
+<FicheLiee ID="F2272" audience="Particuliers" type="Fiche d'information">
+<Titre>Recouvrement d'une créance par un tiers</Titre>
+<Dossier ID="N277">Saisies et recouvrements</Dossier>
+</FicheLiee>
+<Dossier ID="N277">
+<Titre>Saisies et recouvrements</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

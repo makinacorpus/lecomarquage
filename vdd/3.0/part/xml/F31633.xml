@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31633" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Médiateur de l'apprentissage : comment y recourir ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Le médiateur, qui recherche des solutions aux litiges concernant le contrat d'apprentissage, peut être saisi par l'employeur ou par l'apprenti.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31633</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189855&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N11240</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N11240">Alternance</Niveau>
+<Niveau ID="F31633" type="Fiche Question-réponse">Médiateur de l'apprentissage : comment y recourir ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19962">Contrats et carrière</SousThemePere><DossierPere ID="N11240">
+<Titre>Alternance</Titre><SousDossier ID="N11240-1">
+<Titre>Apprentissage</Titre>
+<Fiche ID="F2918">Contrat d'apprentissage</Fiche>
+<Fiche ID="F11244">Apprentissage : formation théorique et pratique</Fiche>
+<Fiche ID="F11246">Conditions de travail de l'apprenti : durée, congés, droits...</Fiche>
+</SousDossier>
+<SousDossier ID="N11240-2">
+<Titre>Contrat de professionnalisation</Titre>
+<Fiche ID="F10300">Objet et bénéficiaires</Fiche>
+<Fiche ID="F15475">Rédaction du contrat</Fiche>
+<Fiche ID="F15478">Rémunération du salarié</Fiche>
+<Fiche ID="F15479">Actions de formation et tutorat</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Le médiateur de l'apprentissage examine et recherche des solutions aux litiges entre employeur et apprenti concernant le contrat d'apprentissage.</Paragraphe>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Quelles sont ses missions ?</Paragraphe>
+</Titre><Paragraphe>Le médiateur de l'apprentissage est compétent pour les réclamations qui portent sur le contrat d'apprentissage. Cela peut concerner un litige relatif à l'exécution du contrat (temps de travail, rémunération, congés par exemple) ou à sa résiliation.</Paragraphe>
+<Paragraphe>Le médiateur peut permettre la mise en place d'un entretien de médiation entre un apprenti et son employeur, artisan, commerçant ou industriel.</Paragraphe>
+<Paragraphe>Il cherchera alors à favoriser la résolution du conflit entre les 2 parties en mettant en place un accord commun.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui peut le saisir ?</Paragraphe>
+</Titre><Paragraphe>Le médiateur de l'apprentissage peut être saisi par l'employeur ou par l'apprenti. Si l'apprenti est mineur, il peut être saisi par le responsable légal de l'apprenti.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment le saisir ?</Paragraphe>
+</Titre><Paragraphe>Selon l'activité de l’employeur, il faudra saisir le médiateur de l'apprentissage auprès de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la chambre de commerce et d'industrie, quand l'employeur est une entreprise commerciale ou industrielle</Paragraphe><OuSAdresser ID="R36" type="Local personnalisé sur SP">
+<Titre>Chambre de commerce et d'industrie (CCI)</Titre>
+<PivotLocal>cci</PivotLocal>
+<RessourceWeb URL="http://www.cci.fr/web/organisation-du-reseau/annuaire"/>
+<Source ID="R30752">CCI France</Source>
+</OuSAdresser>
+</Item>
+<Item>
+<Paragraphe>la chambre des métiers et de l'artisanat, quand l'employeur est une entreprise artisanale</Paragraphe>
+</Item>
+</Liste><OuSAdresser ID="R35" type="Local personnalisé sur SP">
+<Titre>Chambre d'agriculture</Titre>
+<PivotLocal>chambre_agriculture</PivotLocal>
+<RessourceWeb URL="http://www.chambres-agriculture.fr/chambres-dagriculture/nous-connaitre/lannuaire-des-chambres-dagriculture/"/>
+<Source ID="R30771">Assemblée permanente des chambres d'agriculture (APCA)</Source>
+</OuSAdresser>
+
+<Liste type="puce">
+<Item>
+<Paragraphe>ou la chambre d'agriculture, quand l'employeur est une entreprise agricole</Paragraphe>
+</Item>
+</Liste><OuSAdresser ID="R37" type="Local personnalisé sur SP">
+<Titre>Chambre de métiers et de l'artisanat (CMA)</Titre>
+<PivotLocal>chambre_metier</PivotLocal>
+<RessourceWeb URL="http://annuairecma.artisanat.fr/"/>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment est traitée la demande ?</Paragraphe>
+</Titre><Paragraphe>Le médiateur examine le dossier et recherche à favoriser le dialogue entre les parties.</Paragraphe>
+<Paragraphe>Il ne prend pas de décision.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Que faire si aucun accord n'est trouvé ?</Paragraphe>
+</Titre><Paragraphe>Si l'intervention du médiateur ne permet pas d'obtenir un accord des 2 parties, il est possible de saisir le <LienInterne LienPublication="F2360" type="Fiche d'information" audience="Particuliers">conseil des prud'hommes</LienInterne>.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R36" type="Local personnalisé sur SP">
+<Titre>Chambre de commerce et d'industrie (CCI)</Titre>
+<Complement>Pour saisir le médiateur quand l'employeur est une entreprise commerciale ou industrielle</Complement>
+<PivotLocal>cci</PivotLocal>
+<RessourceWeb URL="http://www.cci.fr/web/organisation-du-reseau/annuaire"/>
+<Source ID="R30752">CCI France</Source>
+</OuSAdresser>
+<OuSAdresser ID="R35" type="Local personnalisé sur SP">
+<Titre>Chambre d'agriculture</Titre>
+<Complement>Pour saisir le médiateur quand l'employeur est une entreprise agricole</Complement>
+<PivotLocal>chambre_agriculture</PivotLocal>
+<RessourceWeb URL="http://www.chambres-agriculture.fr/chambres-dagriculture/nous-connaitre/lannuaire-des-chambres-dagriculture/"/>
+<Source ID="R30771">Assemblée permanente des chambres d'agriculture (APCA)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R37" type="Local personnalisé sur SP">
+<Titre>Chambre de métiers et de l'artisanat (CMA)</Titre>
+<Complement>Pour saisir le médiateur quand l'employeur est une entreprise artisanale</Complement>
+<PivotLocal>chambre_metier</PivotLocal>
+<RessourceWeb URL="http://annuairecma.artisanat.fr/"/>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189855&amp;cidTexte=LEGITEXT000006072050" ID="R32902">
+<Titre>Code du travail : article L6222-39</Titre>
+<Complement>Médiateur consulaire</Complement>
+</Reference>
+</Publication>

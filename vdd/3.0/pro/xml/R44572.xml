@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R44572" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration en ligne de manipulation de denrées alimentaires d'origine animale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Déclaration en ligne de manipulation de denrées alimentaires d'origine animale - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-11</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R44572</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23662">Obligations en matière d'agriculture</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R44572" type="Téléservice">Déclaration en ligne de manipulation de denrées alimentaires d'origine animale</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13984*03</NumeroCerfa>
+<Texte><Paragraphe>Permet à tout établissement qui produit ou commercialise des denrées alimentaires contenant des produits d'origine animale d'effectuer la déclaration obligatoire auprès de la direction départementale en charge de la protection des populations (DDPP), avant ouverture et à chaque changement d'exploitant, d'adresse ou d'activité.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa13984/">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R17520" audience="Professionnels" type="Formulaire">
+<Titre>Déclaration de manipulation de denrées alimentaires d'origine animale</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F33822" audience="Professionnels" type="Fiche d'information">
+<Titre>Agrément sanitaire et déclaration de manipulation de denrées animales</Titre>
+<Dossier ID="N23662">Obligations en matière d'agriculture</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

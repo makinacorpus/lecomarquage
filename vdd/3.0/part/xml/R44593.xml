@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R44593" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modèle de certificat de travail</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Modèle de certificat de travail - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-12</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R44593</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R44593" type="Modèle de document">Modèle de certificat de travail</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>
+<Variable>nom, adresse, raison sociale, siège social de la société</Variable>
+</Paragraphe>
+<Paragraphe>La société <Variable>nom de la société</Variable>,  certifie que <Variable>nom et prénom du salarié</Variable>, demeurant à <Variable>adresse du salarié</Variable> a travaillé en tant que <Variable>nature du ou des postes occupés</Variable> du <Variable>date de prise du poste</Variable> au <Variable>date de fin d'occupation du poste</Variable>.</Paragraphe>
+<Paragraphe>En application de l'article L911-8 du code de la sécurité sociale, <Variable>nom et prénom du salarié</Variable> et ses ayants droits bénéficient du maintien à titre gratuit des garanties frais de santé et des garanties de prévoyance, jusqu'au <Variable>date de fin des droits du salarié et de ses ayants droits</Variable>.</Paragraphe>
+<Paragraphe>Fait à <Variable>lieu</Variable>, le <Variable>date</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F87" audience="Particuliers" type="Fiche d'information">
+<Titre>Certificat de travail</Titre>
+<Dossier ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

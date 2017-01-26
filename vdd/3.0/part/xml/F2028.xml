@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2028" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance habitation : vol et cambriolage</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Si vous constatez un vol dans votre habitation, vous devez le déclarer en portant plainte au commissariat de police ou à la brigade de gendarmerie.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-13</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2028</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157200&amp;cidTexte=LEGITEXT000006073984</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N44</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N44">Assurance habitation</Niveau>
+<Niveau ID="F2028" type="Fiche d'information">Assurance habitation : vol et cambriolage</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20263">Assurance</SousThemePere><DossierPere ID="N44">
+<Titre>Assurance habitation</Titre><SousDossier ID="N44-1">
+<Titre>Vie du contrat</Titre>
+<Fiche ID="F2591">Souscription d'un contrat</Fiche>
+<Fiche ID="F2598">Tarifs, cotisations et durée du contrat</Fiche>
+<Fiche ID="F2594">Modification du contrat</Fiche>
+<Fiche ID="F19083">Résiliation du contrat</Fiche>
+<Fiche ID="F3050">Recours et litiges</Fiche>
+</SousDossier>
+<SousDossier ID="N44-2">
+<Titre>Assurance du locataire</Titre>
+<Fiche ID="F1349">Assurance de base</Fiche>
+<Fiche ID="F1350">Assurances complémentaires</Fiche>
+<Fiche ID="F21478">Assurance et colocation</Fiche>
+<Fiche ID="F10827">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-3">
+<Titre>Assurance du propriétaire</Titre>
+<Fiche ID="F2023">Assurance du logement</Fiche>
+<Fiche ID="F2027">Assurance et copropriété</Fiche>
+<Fiche ID="F10830">En cas de vente ou d'achat du logement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-4">
+<Titre>Sinistre</Titre>
+<Fiche ID="F2029">Sinistre courant</Fiche>
+<Fiche ID="F2028">Cambriolage</Fiche>
+<Fiche ID="F1352">Assurance et dégât des eaux</Fiche>
+<Fiche ID="F21532">Incendie ou explosion</Fiche>
+<Fiche ID="F3076">Catastrophes naturelles</Fiche>
+<Fiche ID="F3078">Catastrophes technologiques</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Sinistre</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si vous constatez que vous avez été victime d'un vol dans votre habitation, vous devez le déclarer en portant plainte au commissariat de police ou à la brigade de gendarmerie.
+			Ensuite, vous devez déclarer ce vol à votre assureur, en joignant à votre déclaration le récépissé du dépôt de plainte, par lettre recommandée avec accusé de réception, dans un délai de 2 jours ouvrés.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Démarches</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Déclaration à la police ou à la gendarmerie</Paragraphe>
+</Titre><Paragraphe>La déclaration de vol ou de cambriolage doit se faire en portant plainte au commissariat ou à la gendarmerie :</Paragraphe><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Déclaration à la compagnie d'assurance</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="F3077" type="Fiche Question-réponse" audience="Particuliers">déclaration de vol à l'assurance</LienInterne> doit être effectuée par lettre recommandée, en joignant une copie de la déclaration de vol, <MiseEnEvidence>dans les 2 jours</MiseEnEvidence> (<LienIntra LienID="R17509" type="Définition de glossaire">ouvrés</LienIntra>)      du constat de l'effraction.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Événements couverts par l'assurance</Paragraphe>
+</Titre><Paragraphe>Les types de vols sont énumérés dans les contrats. Vérifiez donc bien ce qui est couvert par votre contrat.</Paragraphe>
+<Paragraphe> Généralement, il s'agit de vols commis :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par effraction ou escalade des locaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avec menaces ou violences sur la personne,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à la suite d’une introduction clandestine (par exemple, un cambrioleur pénètre dans votre habitation alors que vous êtes présent),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>par usage de fausses clés (crochetage par outil spécial, vraie clé volée ou perdue…)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>par les préposés de l’assuré (femme de ménage, baby-sitter…), à condition que le coupable soit l’objet d’une plainte qui ne pourra être retirée qu’avec l’accord de la société d’assurances.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les actes de vandalisme peuvent être couverts, si les auteurs se sont introduits dans l’une des circonstances prévues au titre de la garantie vol.</Paragraphe>
+<Paragraphe>En revanche, un  vol commis par un membre de la famille ou avec sa complicité n'est pas garanti.</Paragraphe>
+<Paragraphe>Les objets volés dans une dépendance (cave, remise, garage) séparée de l'habitation ne sont généralement pas  couverts par l'assurance vol.</Paragraphe>
+<Paragraphe>Les objets déposés dans une cour, un jardin ou dans les parties communes d’un immeuble ne sont pas non plus garantis.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Biens concernés</Paragraphe>
+</Titre><Paragraphe>Il s'agit des biens suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>mobilier courant : notamment meubles, linge, vêtements, appareils électriques, appareils ménagers</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>objets de valeur : notamment bijoux, objets en métal précieux, tapis, tapisseries, tableaux, fourrures</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>objets sensibles : notamment télévision, hi-fi, vidéo (lecteur DVD, caméscope....), matériel photographique, informatique.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'assurance garantit les biens qui se trouvent dans l'habitation et sont la propriété de ses occupants. </Paragraphe>
+<Paragraphe>La plupart des contrats garantissent également les objets loués ou qui vous sont confiés, mais la garantie peut être limitée.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Évaluation des dommages et expertise</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Évaluer les dommages</Paragraphe>
+</Titre><Paragraphe>Pour évaluer les dommages, vous devez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>rassembler tout ce qui peut justifier l'existence et la valeur des biens volés : factures, bons de garantie, photographies des objets de valeur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>faire constater les détériorations commises (portes fracturées, traces d'escalade...).</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les assurances recommandent généralement après un vol ou un cambriolage de prendre des précautions pour empêcher un nouveau vol (remplacement des serrures...).</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Expertise</Paragraphe>
+</Titre><Paragraphe>Un <LienInterne LienPublication="F3075" type="Fiche Question-réponse" audience="Particuliers">expert de la société d'assurances</LienInterne> vérifie les circonstances de vol et évalue les dommages subis.</Paragraphe>
+<Paragraphe>Les conditions de déroulement de l'expertise et les moyens de recours sont stipulés dans les conditions générales du contrat d'assurance.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R19751" type="Centre de contact">
+<Titre>Assurance Banque Épargne Info Service</Titre>
+<Complement>Pour obtenir des informations complémentaires</Complement><Texte>
+						
+								<Paragraphe>
+			Informations sur les démarches et les relations contractuelles dans le domaine de l'assurance, de la banque et de l'épargne
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			ABE Info Service
+		</Paragraphe>
+								<Paragraphe>
+			61 rue Taitbout
+		</Paragraphe>
+								<Paragraphe>
+			75436 Paris Cedex 09
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Via le <LienExterne URL="http://www.abe-infoservice.fr/abe-info-service/nous-contacter.html">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157200&amp;cidTexte=LEGITEXT000006073984" ID="R13611">
+<Titre>Code des assurances : articles L113-1 à L113-17</Titre>
+<Complement>Obligations de l'assureur et de l'assuré</Complement>
+</Reference>
+<ServiceEnLigne ID="R16639" URL="http://www.conso.net/content/vous-avez-ete-victime-dun-vol-dans-votre-habitation-et-vous-le-declarez-votre-assurance" type="Modèle de document">
+<Titre>Déclarer à son assureur un vol dans son habitation</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41789" URL="http://www.abe-infoservice.fr/assurance.html" audience="Particuliers">
+<Titre>Informations pratiques sur l'assurance</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R17509">
+<Titre>Jour ouvré</Titre>
+<Texte>
+				<Paragraphe>Jour effectivement travaillé dans une entreprise ou une administration.
+		Le plus souvent, on compte 5 jours ouvrés par semaine (par exemple, du lundi au vendredi ou du mardi au samedi).</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F3077" audience="Particuliers">Comment déclarer un sinistre ?</QuestionReponse>
+<QuestionReponse ID="F2103" audience="Particuliers">Les dégradations causées par un cambriolage incombent-elles au locataire ?</QuestionReponse>
+<QuestionReponse ID="F2706" audience="Particuliers">Comment fonctionne la franchise d'assurance véhicule ?</QuestionReponse>
+<QuestionReponse ID="F3048" audience="Particuliers">Qu'est-ce que la garantie contre les accidents de la vie privée ?</QuestionReponse>
+<QuestionReponse ID="F3049" audience="Particuliers">Qu'est-ce que la garantie protection juridique ?</QuestionReponse>
+<QuestionReponse ID="F3075" audience="Particuliers">Comment se déroule l'expertise ?</QuestionReponse>
+<QuestionReponse ID="F769" audience="Particuliers">Cambriolage : comment être indemnisé par l'assurance ?</QuestionReponse>
+</Publication>

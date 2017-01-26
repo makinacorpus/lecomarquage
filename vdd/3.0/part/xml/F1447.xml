@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1447" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Allocation d'aide au retour à l'emploi (ARE) : montant et versement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Durée de versement de l'ARE : 2 ans maximum (3 ans ou plus pour un chômeur longue durée âgé de 50 ans ou plus).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1447</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768, http://www.unedic.org/sites/default/files/ci201228.pdf, http://www.unedic.org/sites/default/files/ci200910.pdf, http://www.unedic.org/sites/default/files/ci201426_0.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N178</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N178">Allocation chômage d'aide au retour à l'emploi (ARE)</Niveau>
+<Niveau ID="F1447" type="Fiche d'information">Allocation d'aide au retour à l'emploi (ARE) : montant et versement</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N461">Chômage</SousThemePere><DossierPere ID="N178">
+<Titre>Allocation chômage d'aide au retour à l'emploi (ARE)</Titre>
+<Fiche ID="F14860">Conditions d'attribution et démarche</Fiche>
+<Fiche ID="F1447">Montant</Fiche>
+<Fiche ID="F1776">Durée du versement</Fiche>
+<Fiche ID="F1465">Cumul avec des revenus d'activité</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La durée de versement de l’allocation d'aide au retour à l'emploi (ARE) dépend de la durée d’emploi du demandeur avant la fin de son contrat de travail.
+		
+			Le montant de l'ARE se compose d’une partie fixe et d’une partie variable. Le montant total ne peut pas être inférieur à un montant minimum, ni dépasser un montant maximum.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Durée de versement de l'ARE</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Vous avez moins de 50 ans</Paragraphe>
+</Titre><Paragraphe>La durée de versement de l'allocation d'aide au retour à l'emploi (ARE) dépend de  votre durée d'affiliation lors des 28 derniers mois.</Paragraphe>
+<Tableau>
+<Titre>Durée de versement de l'ARE pour les moins de 50 ans</Titre>
+<Colonne largeur="61" type="normal"/>
+<Colonne largeur="60" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Durée d'emploi (les 28 mois précédant votre contrat)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée d'indemnisation maximum</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de 4 mois </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d'indemnisation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre 4 mois et 2 ans </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée d'indemnisation = Durée d'emploi </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 2 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous participez à une formation rémunérée par l'État ou la région, la durée de versement de l'ARE est réduite de la moitié de la durée de la formation. Toutefois, si vos droits à allocation sont supérieurs à 1 mois à la date d'entrée en formation, ils ne peuvent pas être réduits à moins de 30 jours.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Entre 50 et 62 ans</Paragraphe>
+</Titre><Paragraphe>La durée de versement de l'allocation d'aide au retour à l'emploi (ARE) dépend de votre durée d'affiliation lors des 36 derniers mois.</Paragraphe>
+<Tableau>
+<Titre>Durée de versement de l'ARE pour les plus de 50 ans</Titre>
+<Colonne largeur="61" type="normal"/>
+<Colonne largeur="60" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Durée d'emploi (les 36 mois précédant votre contrat)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée d'indemnisation maximum</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de 4 mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d'indemnisation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre 4 mois et 3 ans </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée d'indemnisation = Durée d'emploi</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 3 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Plus de 62 ans</Paragraphe>
+</Titre><Paragraphe>La durée de versement de l'allocation d'aide au retour à l'emploi (ARE) dépend de votre durée d'affiliation lors des 36 derniers mois.</Paragraphe>
+<Tableau>
+<Titre>Durée de versement de l'ARE pour les plus de 50 ans</Titre>
+<Colonne largeur="61" type="normal"/>
+<Colonne largeur="60" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Durée d'emploi (les 36 mois précédant votre contrat)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée d'indemnisation maximum</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de 4 mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d'indemnisation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre 4 mois et 3 ans </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée d'indemnisation = Durée d'emploi</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 3 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Si vous avez plus de 62 ans, et que vous touchiez l'ARE depuis au moins 1 an, la durée de versement peut être prolongée jusqu'à ce que vous remplissiez les conditions pour bénéficier <LienInterne LienPublication="N381" type="Dossier" audience="Particuliers">d'une retraite à taux plein</LienInterne> ou jusqu'à l'âge limite d'activité, si vous remplissez les conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir cotisé 12 ans à l'assurance chômage (dont une année continue ou de 2 ans discontinus  au cours des 5 ans précédents la fin du contrat de travail),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et justifier de 100 trimestres de cotisation retraite,</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La durée de versement de l'ARE est maintenue dès  61 ans et 7 mois si vous êtes né en 1954 et 61 ans et 2 mois si vous êtes né en 1953.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Si vous êtes salarié du secteur privé en chômage partiel, bénéficiaire de l'ARE, la durée de versement de l'allocation est fixée à 182 jours au maximum.</Paragraphe>
+<Paragraphe>Toutefois, si la suspension de l'activité de l'entreprise est due à un sinistre ou une catastrophe naturelle, cette durée peut être prolongée jusqu'à à sa reprise d'activité.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant de l'ARE</Paragraphe>
+</Titre><ServiceEnLigne ID="R17654" URL="http://candidat.pole-emploi.fr/candidat/simucalcul/simulationdroits" type="Téléservice">
+<Titre>Simulation du montant des allocations chômage</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Montant brut</Paragraphe>
+</Titre><Paragraphe>Le montant brut journalier de l'ARE comprend :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une partie fixe égale à <Valeur>11,76 €</Valeur>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une partie variable, égale à <Valeur>40,4 %</Valeur> du <LienInterne LienPublication="F2064" type="Fiche Question-réponse" audience="Particuliers">salaire journalier de référence (SJR)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Cette somme ne peut pas être inférieure à <Valeur>57 %</Valeur> et supérieure à <Valeur>75 %</Valeur> du salaire journalier de référence.</Paragraphe>
+<Paragraphe>Lorsque la durée de travail du salarié était inférieure à la durée légale ou conventionnelle, la partie fixe de l'ARE est proportionnellement réduite dans la limite de 122 jours.</Paragraphe>
+<Paragraphe>Le revenu de remplacement mensuel est égal au montant de l'allocation journalière multiplié par le nombre de jours du mois considéré.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Montants minimum de l'ARE</Paragraphe>
+</Titre><Paragraphe>Le montant net de l'ARE ne peut pas être inférieur à <Valeur>28,67 €</Valeur>.</Paragraphe>
+<Paragraphe>Toutefois, le montant minimal de <LienInterne LienPublication="F291" type="Fiche d'information" audience="Particuliers">l'allocation d'aide au retour à l'emploi formation (Aref)</LienInterne> accordée  si vous suivez une formation, prescrite par Pôle emploi, est fixé à <Valeur>20,54 €</Valeur>.</Paragraphe>
+<Paragraphe>Lorsque votre durée de travail  était inférieure à la durée légale ou conventionnelle, l'allocation minimale est proportionnellement réduite.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Cotisations</Paragraphe>
+</Titre><Paragraphe>Un prélèvement égal à <Valeur>3 %</Valeur> du SJR, destiné au financement des retraites complémentaires des bénéficiaires de l'assurance chômage, est effectué sur le montant brut de l'allocation journalière. Ce prélèvement ne peut pas avoir pour effet de réduire le montant de l'allocation journalière en dessous de <Valeur>28,67 €</Valeur>.</Paragraphe>
+<Paragraphe>L'ARE est également soumise à contribution sociale généralisée (CSG) et à contribution au remboursement de la dette sociale (CRDS).</Paragraphe>
+<Paragraphe>Toutefois, lorsque le montant brut de l'ARE est inférieur au montant du Smic journalier, soit <Valeur>49 €</Valeur>, ou lorsque le prélèvement de la CSG et de la CRDS conduit à diminuer le montant net de l'ARE en dessous du Smic journalier, il y a exonération ou écrêtement.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R194" type="Local personnalisé sur SP">
+<Titre>Pôle emploi</Titre>
+<Complement>Pour plus d'informations</Complement>
+<PivotLocal>pole_emploi</PivotLocal>
+<RessourceWeb URL="http://www.pole-emploi.fr/informations/votre-pole-emploi-@/votre_pole_emploi/" commentaireLien="Pôle emploi - réseau local"/>
+<Source ID="R30668">Pôle emploi</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768" ID="R785">
+<Titre>Arrêté du 25 juin 2014 portant agrément de la convention du 14 mai 2014 relative à l'indemnisation du chômage et les textes qui lui sont associés</Titre>
+<Complement>Articles 11 à 20 du réglement général annexé</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.unedic.org/sites/default/files/ci201228.pdf" ID="R2282" format="application/pdf" poids="200.1 KB">
+<Titre>Circulaire n°2012-28 du 28 décembre 2012 relative au seuil d'exonération à la CSG et la CRDS</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.unedic.org/sites/default/files/ci200910.pdf" ID="R1160" format="application/pdf" poids="879.3 KB">
+<Titre>Circulaire n°2009-10 du 22 avril 2009 relative à la mise en oeuvre des règles issues de la convention du 19 février 2009 relative à l'indemnisation du chômage</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.unedic.org/sites/default/files/ci201426_0.pdf" ID="R38547">
+<Titre>Circulaire n°2014-26 du 30 septembre 2014 relative à l'indemnisation du chômage</Titre>
+</Reference>
+<ServiceEnLigne ID="R17654" URL="http://candidat.pole-emploi.fr/candidat/simucalcul/simulationdroits" type="Téléservice">
+<Titre>Simulation du montant des allocations chômage</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R46261" URL="http://www.pole-emploi.fr/candidat/le-montant-de-votre-allocation-@/article.jspz?id=60579" audience="Particuliers">
+<Titre>Le montant de votre allocation d'aide au retour à l'emploi (ARE)</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R46262" URL="http://www.unedic.org/actualite/les-regles-d-indemnisation-mayotte-changent-le-1er-mai-2016-8213" audience="Particuliers">
+<Titre>Indemnisation du chômage à Mayotte</Titre>
+<Source ID="R33435">Unédic</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F12386" audience="Particuliers">Comment est indemnisé un agent public en cas de chômage ?</QuestionReponse>
+<QuestionReponse ID="F2064" audience="Particuliers">Allocations chômage : comment est calculé le salaire journalier de référence ?</QuestionReponse>
+<QuestionReponse ID="F2761" audience="Particuliers">Médiateur de Pôle emploi : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F31197" audience="Particuliers">Les allocations chômage peuvent-elles être réduites ou supprimées ?</QuestionReponse>
+</Publication>

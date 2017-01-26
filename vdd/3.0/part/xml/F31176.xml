@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31176" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Régime matrimonial : qu'est-ce-que la communauté de meubles et acquêts ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Le régime de la communauté de meubles et acquêts est un régime semblable au régime de la communauté réduite aux acquêts sauf sur un point : tout l'argent et tous les meubles appartiennent à la communauté, y compris s'ils ont été acquis avant le mariage ou par succession ou donation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31176</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165613&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N142</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N142">Mariage</Niveau>
+<Niveau ID="F31176" type="Fiche Question-réponse">Régime matrimonial : qu'est-ce-que la communauté de meubles et acquêts ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere><DossierPere ID="N142">
+<Titre>Mariage</Titre><SousDossier ID="N142-1">
+<Titre>Célébration</Titre>
+<Fiche ID="F930">Mariage en France</Fiche>
+<Fiche ID="F21614">Mariage d'un Français à l'étranger</Fiche>
+</SousDossier>
+<SousDossier ID="N142-2">
+<Titre>Régime matrimonial</Titre>
+<Fiche ID="F835">Communauté réduite aux acquêts</Fiche>
+<Fiche ID="F948">Contrat de mariage</Fiche>
+</SousDossier>
+<SousDossier ID="N142-3">
+<Titre>Obligations des époux</Titre>
+<Fiche ID="F1196">Obligation alimentaire</Fiche>
+<Fiche ID="F966">Contribution aux charges du mariage</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le régime de la communauté de meubles et acquêts est un régime semblable au régime de la communauté réduite aux acquêts sauf sur un point : tout l'argent et tous les meubles appartiennent à la communauté, y compris s'ils ont été acquis avant le mariage ou par succession ou donation.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Par différence avec le <LienInterne LienPublication="F835" type="Fiche d'information" audience="Particuliers">régime de la communauté réduite aux acquêts</LienInterne>,  tous les biens à l'exception des <LienIntra LienID="R10833" type="Définition de glossaire">immeubles </LienIntra> appartiennent aux 2 époux, quelle que soit leur date et leur moyen d'acquisition.</Paragraphe>
+<Paragraphe>Sont concernés par ce régime les époux qui :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>se sont  mariés avant février   1966 sans faire de contrat de mariage et sans avoir procédé depuis à un <LienInterne LienPublication="F1535" type="Fiche Question-réponse" audience="Particuliers">changement de régime matrimonial</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou se sont mariés à partir du 1<Exposant>er</Exposant> février 1966 et ont passé un <LienInterne LienPublication="F948" type="Fiche d'information" audience="Particuliers">contrat de mariage</LienInterne> (avant ou après le mariage) les plaçant sous ce régime.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F835" audience="Particuliers">
+<Titre>Régime de la communauté réduite aux acquêts</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour s'informer et effectuer les démarches</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165613&amp;cidTexte=LEGITEXT000006070721" ID="R31410">
+<Titre>Code civil : articles 1498 à 1501</Titre>
+<Complement>Communauté de meubles et acquêts</Complement>
+</Reference>
+<Definition ID="R10833">
+<Titre>Bien immeuble</Titre>
+<Texte>
+				<Paragraphe>Bien ne pouvant être déplacé (un terrain ou un appartement par exemple) ou objet en faisant partie intégrante (la clôture du terrain par exemple)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1535" audience="Particuliers">Changement de régime matrimonial : quelle est la procédure ?</QuestionReponse>
+</Publication>

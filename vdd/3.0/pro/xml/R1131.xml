@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1131" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration en ligne d'ouverture de chantier</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement, Secteurs d'activité</dc:subject>
+<dc:description>Déclaration en ligne d'ouverture de chantier - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-25</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1131</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13345">Urbanisme - BTP</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1131" type="Téléservice">Déclaration en ligne d'ouverture de chantier</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13407*02</NumeroCerfa>
+<Texte><Paragraphe>Permet de déclarer en ligne les travaux ou aménagements autorisés que vous avez commencé. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>munissez-vous de votre n° de permis de construire ou d'aménager.</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=DOC">
+<Source>Ministère en charge de l'urbanisme</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R1976" audience="Professionnels" type="Formulaire">
+<Titre>Déclaration d'ouverture de chantier</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F1992" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'ouverture de chantier</Titre>
+<Dossier ID="N31344">Travaux</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

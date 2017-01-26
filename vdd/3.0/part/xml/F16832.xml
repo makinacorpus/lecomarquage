@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16832" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Immobilier : comment connaître le prix au m² d'un logement ou d'un terrain ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les prix des logements et des terrains peuvent être obtenus auprès des chambres notariales ou en consultant le site Patrim</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16832</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23245</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="F16832" type="Fiche Question-réponse">Immobilier : comment connaître le prix au m² d'un logement ou d'un terrain ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N23245">
+<Titre>Achat ou vente d'un logement</Titre><SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre>
+<Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre>
+<Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Il existe des observatoires des prix des logements et des terrains qui sont en général tenus par les chambres des notaires.</Paragraphe><OuSAdresser ID="R10918" type="Local personnalisable">
+<Titre>Chambre départementale des notaires</Titre>
+<PivotLocal>chambre_notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la Direction générale des finances publiques (DGFiP) propose Patrim, un outil en ligne permettant d'estimer la valeur d'un bien immobilier dans le cadre d'une déclaration d'ISF ou de succession, d'un acte de donation ou d'une procédure administrative (contrôle fiscal, expropriation).</Paragraphe><ServiceEnLigne ID="R34630" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Simulateur">
+<Titre>Patrim : estimation de la valeur d'un bien immobilier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Aide à l'estimation des biens immobiliers dans le cadre d'une déclaration d'ISF ou de succession, d'un acte de donation ou d'une procédure administrative (contrôle fiscal, expropriation)</Paragraphe>
+<Paragraphe>Vous munir de vos identifiants impots.gouv.fr (numéro fiscal et mot de passe)</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>Patrim ne couvre pas encore les ventes de biens situés en Alsace-Moselle et à Mayotte.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+</ANoter>
+</Texte><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R34630" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Simulateur">
+<Titre>Patrim : estimation de la valeur d'un bien immobilier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R46483" URL="https://www.impots.gouv.fr/portail/node/10794" audience="Particuliers" format="application/pdf" poids="0">
+<Titre>Visite guidée de Patrim</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F17759" audience="Particuliers">Comment obtenir des renseignements immobiliers ?</QuestionReponse>
+</Publication>

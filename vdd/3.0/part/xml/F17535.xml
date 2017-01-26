@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17535" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment se débarrasser des seringues utilisées en automédication ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Les seringues usagées, et particulièrement les aiguilles, font partie des déchets d'activité de soins à risque infectieux (DASRI). Ces déchets sont donc dangereux et ne doivent pas être déposés dans les containers de déchets ménagers, ni dans les containers de déchets recyclables.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17535</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000022963920&amp;idSectionTA=LEGISCTA000022963923&amp;cidTexte=LEGITEXT000006072665</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N434</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N434">Prévention - Vaccinations</Niveau>
+<Niveau ID="F17535" type="Fiche Question-réponse">Comment se débarrasser des seringues utilisées en automédication ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20180">Santé</SousThemePere><DossierPere ID="N434">
+<Titre>Prévention - Vaccinations</Titre><SousDossier ID="N434-1">
+<Titre>Bilans et examens gratuits</Titre>
+<Fiche ID="F170">Bilan de santé gratuit</Fiche>
+<Fiche ID="F243">Examens et soins bucco-dentaires pour les jeunes</Fiche>
+<Fiche ID="F218">Test de dépistage du Sida</Fiche>
+</SousDossier>
+<SousDossier ID="N434-2">
+<Titre>Vaccinations</Titre>
+<Fiche ID="F724">Calendrier des vaccinations</Fiche>
+<Fiche ID="F704">Vaccination : diphtérie, tétanos, poliomyélite (DTP)</Fiche>
+<Fiche ID="F714">Vaccin contre la grippe saisonnière</Fiche>
+<Fiche ID="F723">Vaccinations contre l'hépatite</Fiche>
+<Fiche ID="F700">Vaccin contre la tuberculose (BCG)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les seringues usagées, et particulièrement les aiguilles, font partie des déchets d'activité de soins à risque infectieux (DASRI). Ces déchets sont donc dangereux et ne doivent pas être déposés dans les containers de déchets ménagers, ni dans les containers de déchets recyclables. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Les pharmacies ont l'obligation de remettre gratuitement à l'utilisateur (par exemple, à une personne diabétique) une boite à aiguilles (BAA) pour y déposer ses seringues.</Paragraphe>
+<Paragraphe>Ces boites font ensuite l'objet d'une collecte auprès des pharmacies participantes et sont éliminés.</Paragraphe>
+<Paragraphe>Certaines communes mettent également en place des containers spéciaux notamment à proximité :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des centres de soins,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou dans les décharges.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N31125" audience="Particuliers">
+<Titre>Déchets</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour s'informer sur les lieux de collecte applicables dans votre commune (hors Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour s'informer sur les lieux de collecte applicables à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000022963920&amp;idSectionTA=LEGISCTA000022963923&amp;cidTexte=LEGITEXT000006072665" ID="R33352">
+<Titre>Code de la santé publique : articles R1335-1 à R1335-8</Titre>
+<Complement>Élimination des déchets à risque infectieux</Complement>
+</Reference>
+<QuestionReponse ID="F31963" audience="Particuliers">Peut-on être sanctionné pour abandon de déchets dans la rue ?</QuestionReponse>
+</Publication>

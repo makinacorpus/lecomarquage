@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F398" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Avec quels documents un Français peut-il se rendre en outre-mer ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Même si la carte d'identité est en principe suffisante pour voyager outre-mer, il est préférable d'avoir un passeport en cas de transit.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F398</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N84</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N84">Voyage en avion</Niveau>
+<Niveau ID="F398" type="Fiche Question-réponse">Avec quels documents un Français peut-il se rendre en outre-mer ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N84">
+<Titre>Voyage en avion</Titre>
+<Fiche ID="F11001">Surbooking</Fiche>
+<Fiche ID="F11370">Bagages perdus, retardés ou détériorés</Fiche>
+<Fiche ID="F10977">Refus d'embarquement, vol annulé ou retardé</Fiche>
+<Fiche ID="F16085">Objets interdits dans les bagages en cabine</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Même si une carte  d'identité  valide est suffisante  pour se rendre dans un département d'outre-mer, il est préférable de voyager avec un passeport valide.</Paragraphe>
+<Paragraphe>En effet, si vous devez transiter par un pays étranger pendant le voyage, il faudra présenter un passeport.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'aéroport international de  Saint-Martin se trouve sur la partie néerlandaise de l'île (hors zone Schengen). Le passeport est donc indispensable.</Paragraphe>
+</Attention>
+</Texte><QuestionReponse ID="F591" audience="Particuliers">De quelle pièce d'identité a-t-on besoin pour voyager en avion ?</QuestionReponse>
+<QuestionReponse ID="F1922" audience="Particuliers">Avec quels documents un mineur français peut-il voyager à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F14079" audience="Particuliers">Voyage aux USA : quelles sont les formalités (passeport, visa...) ?</QuestionReponse>
+</Publication>

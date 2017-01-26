@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N31346" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Étudiant étranger en France</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Étudiant étranger en France</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-15</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N31346</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étranger en France, Européen en France</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N31346" type="Dossier">Étudiant étranger en France</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere>
+<Fiche ID="F2864">Demande d'admission préalable à l'université</Fiche>
+<Fiche ID="F2863">Inscription directe à l'université</Fiche>
+<Fiche ID="F463">Faire comparer ou reconnaître un diplôme obtenu à l'étranger</Fiche><VoirAussi important="non">
+<Dossier ID="N23482" audience="Particuliers">
+<Titre>Formations et diplômes de l'enseignement supérieur</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N20398" audience="Particuliers">
+<Titre>Bourses et aides pour l'étudiant</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R1279" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11443.do" format="application/pdf" poids="514.6 KB" numerocerfa="11443*15" type="Formulaire">
+<Titre>Dossier blanc : demande d'admission préalable à l'inscription en 1re année de licence pour l'année universitaire 2017-2018 (candidat hors UE)</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source><NoticeLiee ID="R15557" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50845&amp;cerfaFormulaire=11443" numerocerfa="50845#15" format="application/pdf" poids="394.4 KB">Notice du dossier blanc : demande d'admission préalable à l'inscription en 1re année de licence dans une université française</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1278" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11126.do" format="application/pdf" poids="515.8 KB" numerocerfa="11126*16" type="Formulaire">
+<Titre>Dossier vert : demande d'admission préalable à l'inscription en 1re année de licence pour l'année universitaire 2017-2018 (candidat hors UE)</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source><NoticeLiee ID="R16649" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50676&amp;cerfaFormulaire=11126" numerocerfa="50676#16">Notice du dossier vert : demande préalable à l'inscription en 1re année de licence</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38515" URL="https://phoenix.ciep.fr/inscriptions/inscription.wse.aspx" type="Téléservice">
+<Titre>Demander une attestation de comparabilité d'un diplôme étranger</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source><NoticeLiee ID="R38516" URL="http://www.ciep.fr/sites/default/files/atoms/files/enic-naric-mode-emploi-demande-de-reconnaissance-en-ligne.pdf" format="application/pdf" poids="56.9 KB">Instructions pour demander une attestation de comparabilité d'un diplôme étranger</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R31321" URL="http://www.ciep.fr/tcf-tout-public" audience="Particuliers">
+<Titre>Test de connaissance du français (TCF) tout public</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R31314" URL="http://www.ciep.fr/delf-dalf" audience="Particuliers">
+<Titre>Diplômes en français langue étrangère : Delf et Dalf</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41766" URL="http://www.ciep.fr" audience="Particuliers">
+<Titre>Site ciep.fr</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41767" URL="http://www.francealumni.fr/fr" commentaireLien="Réseau social français destiné aux anciens étudiants étrangers ayant fait des études en France" audience="Particuliers">
+<Titre>Site France Alumni</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41768" URL="http://www.campusfrance.org/fr" audience="Particuliers">
+<Titre>Site campusfrance.org</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</PourEnSavoirPlus>
+</Publication>

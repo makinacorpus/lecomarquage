@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32037" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Les allocations logement sont-elles maintenues en cas de loyers impayés ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>En cas de loyers impayés, l'aide au logement peut être maintenue pour alléger une dette de loyer et éviter ainsi l'expulsion.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32037</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006899207&amp;cidTexte=LEGITEXT000006074096, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173627&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006737219&amp;cidTexte=LEGITEXT000006073189</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20360">Allocations logement</Niveau>
+<Niveau ID="F32037" type="Fiche Question-réponse">Les allocations logement sont-elles maintenues en cas de loyers impayés ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N305">Aides financières pour le logement</SousThemePere><DossierPere ID="N20360">
+<Titre>Allocations logement</Titre>
+<Fiche ID="F12006">Aide personnalisée au logement (APL)</Fiche>
+<Fiche ID="F13132">Allocation de logement familiale (ALF)</Fiche>
+<Fiche ID="F1280">Allocation de logement sociale (ALS)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Si la Caf (ou la MSA) a connaissance de loyers impayés, elle peut suspendre ou maintenir le paiement de l'aide au logement.</Paragraphe>
+<Paragraphe>Lorsque <MiseEnEvidence>l'allocation est versée au bailleur</MiseEnEvidence>, on considère qu'il y a impayés de loyer lorsque le locataire est débiteur d'une somme au moins égale à 2 fois le montant mensuel net du loyer hors charges. Le montant mensuel net du loyer hors charges correspond à ce même loyer, déduction faite du montant de l'aide au logement.</Paragraphe>
+<Paragraphe>Lorsque <MiseEnEvidence>l'allocation est versée à l'allocataire</MiseEnEvidence>, on considère qu'il y a impayés de loyer lorsque le locataire est débiteur d'une somme au moins égale à 2 fois le montant mensuel brut du loyer hors charges. Le montant mensuel brut du loyer hors charges correspond au loyer hors charges figurant dans le bail.</Paragraphe>
+<Paragraphe>Le bailleur doit signaler l'impayé de loyer à la Caf (ou la MSA) dans les 2 mois de sa constitution, sauf si la somme due a été réglée entre-temps en totalité. Cette information doit lui parvenir de préférence par courrier recommandé avec avis de réception.</Paragraphe><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+
+<Paragraphe>La Caf (ou la MSA) peut également s'auto-saisir si elle a connaissance d'impayés de loyers qui ne lui ont pas été signalés.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le bailleur risque une amende de  <Valeur>6 538,00 €</Valeur> s'il omet de signaler l'impayé de loyer à la Caf (ou la MSA).</Paragraphe>
+</Attention><Paragraphe>Une fois que le bailleur a signalé l'impayé, la Caf (ou la MSA) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>demande au bailleur qu'il mette en place un <MiseEnEvidence>plan d'apurement de la dette</MiseEnEvidence>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou demande au <LienInterne LienPublication="F1334" type="Fiche Question-réponse" audience="Particuliers">fonds de solidarité pour le logement (FSL)</LienInterne> qu'il mette en place un <MiseEnEvidence>dispositif d'apurement de la dette</MiseEnEvidence>. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Lorsque l'impayé est inférieur ou égal à <Valeur>100 €</Valeur>, c'est la Caf (ou la MSA) qui propose un plan d'apurement (et non le bailleur) avec l'accord de l'allocataire et du bailleur. La durée du plan d'apurement est fixée librement par la Caf (ou la MSA), sous réserve que celle-ci n'excède pas 3 ans. </Paragraphe>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>lorsque l'allocataire perçoit directement l'aide au logement, la Caf (ou la MSA) propose au bailleur d'obtenir le versement en tiers-payant (à la place de l'allocataire). Le bailleur a 2 mois pour répondre ; au-delà, son silence vaut refus.</Paragraphe>
+</ASavoir><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Plan d'apurement du bailleur</Paragraphe>
+</Titre><Paragraphe>La Caf (ou la MSA) peut demander au bailleur qu'il établisse un plan d'apurement de la dette dans un délai maximal de 6 mois (2 mois si le bailleur a refusé le tiers-payant). </Paragraphe>
+<Paragraphe>Ce plan est un document qui consiste à fixer les conditions de remboursement des loyers impayés (montant, délai...).</Paragraphe>
+<Paragraphe>Le versement de l'aide au logement est alors maintenu sous réserve :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du respect du plan d'apurement et de son approbation par la Caf (ou la MSA),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de la reprise par l'allocataire du paiement du loyer en cours.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À défaut de réception du plan d'apurement dans le délai et après <LienIntra LienID="R2705" type="Définition de glossaire">mise en demeure</LienIntra> du bailleur, la Caf (ou la MSA) saisit le FSL, qui dispose d'un délai de 3 mois pour établir un dispositif d'apurement.</Paragraphe>
+<Paragraphe>Si le délai de 3 mois n'est pas respecté par le FSL, la Caf (ou la MSA) met en place un plan d'apurement par défaut.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Dispositif d'apurement du FSL</Paragraphe>
+</Titre><Paragraphe>La Caf (ou la MSA) peut préférer saisir directement un FSL en lui demandant de faire connaître son dispositif d'apurement dans un délai de 6 mois. </Paragraphe>
+<Paragraphe>Après réception du dispositif d'apurement, la Caf (ou la MSA) maintient le versement de l'aide au logement sous réserve de la reprise par l'allocataire du paiement du loyer en cours.</Paragraphe>
+<Paragraphe>En cas de mauvaise exécution du dispositif d'apurement ou de non paiement du loyer en cours, la Caf (ou la MSA) suspend le versement de l'aide au logement.</Paragraphe>
+<Paragraphe>Lorsque le FSL ne fait pas connaître dans les délais son dispositif d'apurement (3 mois en cas de saisine du bailleur ou 6 mois en cas de saisine directe du FSL), la Caf (ou la MSA) <LienIntra LienID="R2705" type="Définition de glossaire">met en demeure</LienIntra>  l'allocataire d'effectuer les 2 actions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>reprendre le paiement du loyer en cours,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et rembourser chaque mois au bailleur 1/36<Exposant>e</Exposant>de sa dette pendant 3 ans à compter du mois suivant la mise en demeure.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À défaut de reprise du paiement ou de mauvaise exécution du plan, la Caf (ou la MSA) suspend le versement de l'aide au logement.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F12006" audience="Particuliers">
+<Titre>Aide personnalisée au logement (APL)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F13132" audience="Particuliers">
+<Titre>Allocation de logement familiale (ALF)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1280" audience="Particuliers">
+<Titre>Allocation de logement sociale (ALS)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31272" audience="Particuliers">
+<Titre>Loyers impayés et expulsion du locataire</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R10876" type="Centre de contact">
+<Titre>SOS loyers impayés</Titre>
+<Complement>Pour des informations complémentaires</Complement><Texte>
+						
+								<Paragraphe>Service d'accompagnement, de conseils et de prévention en cas de risques d'expulsions liées aux situations d'impayés de loyers. Ce service s'adresse aussi bien au bailleur qu'au locataire. </Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 805 160 075</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Numéro vert : appel et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<Complement>Pour faire la démarche (bailleur relevant du régime général)</Complement>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<Complement>Pour faire la démarche (bailleur relevant du régime agricole)</Complement>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006899207&amp;cidTexte=LEGITEXT000006074096" ID="R36439">
+<Titre>Code de la construction et de l'habitation : article R351-30</Titre>
+<Complement>APL en cas de loyers impayés</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173627&amp;cidTexte=LEGITEXT000006073189" ID="R36440">
+<Titre>Code de la sécurité sociale : articles R831-21-1 à R831-21-6</Titre>
+<Complement>ALS en cas de loyers impayés</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006737219&amp;cidTexte=LEGITEXT000006073189" ID="R36442">
+<Titre>Code de la sécurité sociale : article D542-22-1</Titre>
+<Complement>ALF en cas de loyers impayés</Complement>
+</Reference>
+<Definition ID="R2705">
+<Titre>Mise en demeure</Titre>
+<Texte>
+				<Paragraphe>Acte par lequel un créancier exige du débiteur le versement d'une somme sous peine de versement de dommages et intérêts. La mise en demeure peut être notifiée par lettre recommandée avec accusé de réception ou par acte d'huissier.</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032042162&amp;cidTexte=LEGITEXT000006070721" ID="R41071">
+<Titre>Code civil : article 1344</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F1008" audience="Particuliers">Que faire en cas de difficultés pour payer son loyer ?</QuestionReponse>
+<QuestionReponse ID="F1334" audience="Particuliers">Quelles aides peut octroyer le fonds de solidarité pour le logement (FSL) ?</QuestionReponse>
+
+</Publication>

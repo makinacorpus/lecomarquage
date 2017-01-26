@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N151" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Nom et prénom</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Nom et prénom : Nom de famille, Prénom, Nom d'usage, Adoption</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-05</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N151</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424851&amp;idSectionTA=LEGISCTA000006150015&amp;cidTexte=LEGITEXT000006070721, http://www.textes.justice.gouv.fr/art_pix/JUSC1028448C.pdf, http://www.senat.fr/questions/base/2012/qSEQ121002756.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19810</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N151" type="Dossier">Nom et prénom</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere>
+<SousDossier ID="N151-1">
+<Titre>Nom de famille</Titre><Fiche ID="F10505">Choix du nom de l'enfant à sa naissance : mère, père ou double-nom</Fiche>
+<Fiche ID="F10506">Changement du nom de l'enfant après sa naissance</Fiche>
+<Fiche ID="F1656">Changement de nom pour motif légitime</Fiche>
+</SousDossier>
+<SousDossier ID="N151-2">
+<Titre>Prénom</Titre><Fiche ID="F882">Choix du prénom de l'enfant</Fiche>
+<Fiche ID="F885">Changement de prénom</Fiche>
+</SousDossier>
+<SousDossier ID="N151-3">
+<Titre>Nom d'usage</Titre><Fiche ID="F868">Utilisation du nom de son mari ou de sa femme</Fiche>
+<Fiche ID="F1343">Utilisation du nom des deux parents</Fiche>
+</SousDossier>
+<SousDossier ID="N151-4">
+<Titre>Adoption</Titre><Fiche ID="F2668">Nom de famille et adoption plénière</Fiche>
+<Fiche ID="F2621">Nom de famille et adoption simple</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N15660" audience="Particuliers">
+<Titre>Filiation</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424851&amp;idSectionTA=LEGISCTA000006150015&amp;cidTexte=LEGITEXT000006070721" ID="R12161">
+<Titre>Code civil : article 311-21 à 311-24</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.textes.justice.gouv.fr/art_pix/JUSC1028448C.pdf" ID="R11600" format="text/html; charset=iso-8859-1" poids="2.1 KB">
+<Titre>Circulaire du 25 octobre 2011 relative à la modification des modalités d'indication des doubles noms</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.senat.fr/questions/base/2012/qSEQ121002756.html" ID="R31832">
+<Titre>Réponse ministérielle du 15 novembre 2012 relative à l'utilisation du nom de leur femme par les hommes mariés</Titre>
+</Reference>
+<ServiceEnLigne ID="R20025" URL="http://www.textes.justice.gouv.fr/art_pix/modele_changementdenom.pdf" format="application/pdf" poids="49.4 KB" type="Modèle de document">
+<Titre>Changement de nom : consentement du mineur de plus de 13 ans</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F33423" audience="Particuliers">Annonce préalable au changement de nom pour motif légitime : comment télécharger l'extrait du JO ?</QuestionReponse>
+<QuestionReponse ID="F31189" audience="Particuliers">Une femme qui accouche sous X peut-elle choisir le prénom de l'enfant ?</QuestionReponse>
+<QuestionReponse ID="F77" audience="Particuliers">Une femme mariée peut-elle garder son nom de famille (ou "nom de jeune fille") ?</QuestionReponse>
+<QuestionReponse ID="F1091" audience="Particuliers">Après un divorce, peut-on conserver le nom de son ex-époux(se) ? </QuestionReponse>
+<QuestionReponse ID="F355" audience="Particuliers">Dans quelles conditions peut-on utiliser un pseudonyme ?</QuestionReponse>
+<QuestionReponse ID="F10555" audience="Particuliers">Quel nom de famille pour un enfant en cas de désaccord entre les parents ?</QuestionReponse>
+<QuestionReponse ID="F1811" audience="Particuliers">Comment modifier son état civil à la suite d'un changement de nom par décret ?</QuestionReponse>
+<QuestionReponse ID="F10528" audience="Particuliers">Peut-on franciser son nom et son prénom en devenant Français ?</QuestionReponse>
+<QuestionReponse ID="F12521" audience="Particuliers">Peut-on continuer d'utiliser le nom de son époux(se) décédé(e) ?</QuestionReponse>
+</Publication>

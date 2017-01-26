@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R32445" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de classement d'un meublé de tourisme</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Demande de classement d'un meublé de tourisme - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-20</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R32445</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N19104">Hébergement touristique</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R32445" type="Formulaire">Demande de classement d'un meublé de tourisme</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11819*03</NumeroCerfa>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=11819">
+<Source>Ministère en charge du tourisme</Source>
+</LienWeb>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11819*03">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11819.do"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F2043" audience="Particuliers" type="Fiche d'information">
+<Titre>Location de vacances en meublé de tourisme : déclaration et classement</Titre>
+<Dossier ID="N19104">Hébergement touristique</Dossier>
+</FicheLiee><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Hors Paris : pour déclarer son meublé de tourisme et, si besoin, demander une autorisation de changement d'usage de son logement</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34350" type="Local">
+<Titre>Paris - Bureau de la protection des locaux d'habitation</Titre>
+<Complement>À Paris : pour déclarer son meublé de tourisme</Complement>
+<RessourceWeb URL="http://www.paris.fr/services-et-infos-pratiques/urbanisme-et-architecture/demandes-d-autorisations/exercer-une-activite-dans-un-logement-172#locations-meublees-touristiques-ce-qu-il-faut-savoir_12"/>
+</OuSAdresser>
+</ServiceComplementaire>

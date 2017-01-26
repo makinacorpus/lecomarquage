@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2921" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Handicap : peut-on encore toucher la prime d'insertion ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Non, cette subvention destinée à favoriser l'accès des personnes handicapées à des emplois durables est supprimée depuis 2012.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-09</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2921</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N451</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N451">Handicap et emploi dans le secteur privé</Niveau>
+<Niveau ID="F2921" type="Fiche Question-réponse">Handicap : peut-on encore toucher la prime d'insertion ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere><DossierPere ID="N451">
+<Titre>Handicap et emploi dans le secteur privé</Titre>
+<Fiche ID="F15926">Handicap : travail en milieu ordinaire</Fiche>
+<Fiche ID="F1653">Handicap : travail en entreprise adaptée</Fiche>
+<Fiche ID="F1654">Handicap : travail en établissement et service d'aide par le travail (Ésat)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Non, cette subvention destinée à favoriser l'accès des personnes handicapées à des emplois durables est supprimée depuis 2012.</Paragraphe>
+<Paragraphe>La prime à l'insertion concernait les contrats conclus en <LienIntra LienID="R19321" type="Définition de glossaire">milieu ordinaire</LienIntra> de travail et d'une durée d'1 an minimum. Elle pouvait être versée à la fois au salarié handicapé et à l'entreprise qui le recrutait.</Paragraphe>
+<Paragraphe>Toutefois, d'autres dispositifs d'aides existent comme :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1658" type="Fiche Question-réponse" audience="Particuliers">l'aide financière pour compenser la lourdeur du handicap</LienInterne> dans son emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les <LienInterne LienPublication="F15204" type="Fiche d'information" audience="Professionnels">aides financières</LienInterne> versées aux employeurs de personnes handicapées.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F15926" audience="Particuliers">
+<Titre>Handicap : travail en milieu ordinaire</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<PourEnSavoirPlus type="Information pratique" ID="R41599" URL="http://www.agefiph.fr" audience="Particuliers">
+<Titre>Site de l'Agefiph</Titre>
+<Source ID="R30609">Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (Agefiph)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R19321">
+<Titre>Milieu ordinaire</Titre>
+<Texte>
+				<Paragraphe>Non spécifiquement réservé aux personnes handicapées</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F21615" audience="Particuliers">Peut-on travailler et percevoir l'allocation aux adultes handicapés (AAH) ?</QuestionReponse>
+<CommentFaireSi ID="F31029">Je suis en situation de handicap</CommentFaireSi>
+</Publication>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31852" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on contester un procès-verbal dressé dans les transports en commun ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Vous pouvez contester votre procès-verbal si vous estimez que la non présentation d'un titre était involontaire et sans intention de frauder.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31852</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006074984</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20444</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N20444">Cartes de transport</Niveau>
+<Niveau ID="F31852" type="Fiche Question-réponse">Peut-on contester un procès-verbal dressé dans les transports en commun ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N20444">
+<Titre>Cartes de transport</Titre>
+<Fiche ID="F34049">Carte mobilité inclusion</Fiche>
+<Fiche ID="F2446">Carte d'invalidité</Fiche>
+<Fiche ID="F15066">Carte de priorité d'accès aux lieux publics</Fiche>
+<Fiche ID="F2891">Carte européenne de stationnement</Fiche>
+<Fiche ID="F33963">Carte de stationnement résidentiel</Fiche>
+<Fiche ID="F15292">Carte famille nombreuse</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Vous pouvez contester votre procès-verbal si vous estimez que la non présentation d'un titre était involontaire et sans intention de frauder (non-fonctionnement des bornes de compostages, erreur du guichetier...). </Paragraphe>
+<Paragraphe>Vous avez 2 mois pour adresser une réclamation par lettre  recommandée avec avis de réception au service clientèle dont l'adresse figure sur le procès-verbal. </Paragraphe>
+<Paragraphe>Si vous n'êtes pas satisfait de la réponse, ou si vous n'obtenez pas de réponse dans un délai d'un mois, vous pouvez saisir le médiateur de la compagnie s'il en existe un : c'est le cas de la SNCF ou de la RATP.</Paragraphe><ServiceEnLigne ID="R10088" URL="http://www.mediateur.sncf.com/Etape1.aspx" type="Téléservice">
+<Titre>Saisir en ligne le Médiateur de la SNCF</Titre>
+<Source ID="R30621">Société nationale des chemins de fer français (SNCF)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de saisir le médiateur de la SNCF si les démarches préalables auprès du service clientèle de la SNCF n'ont pas abouti.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R43309" URL="http://www.ratp.fr/mediation/app.php" type="Téléservice">
+<Titre>Saisir en ligne le médiateur de la RATP</Titre>
+<Source ID="R30861">Régie autonome des transports parisiens (RATP)</Source>
+<Texte><Paragraphe>Permet de saisir le médiateur de la RATP si les démarches préalables auprès du service clientèle de la RATP n'ont pas abouti</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Vous pouvez aussi demander à une association de consommateurs ou d'usagers de le faire pour vous en prenant soin de respecter le délai de 2 mois.</Paragraphe><OuSAdresser ID="R34271" type="Local personnalisable">
+<Titre>Association de consommateurs</Titre>
+<PivotLocal>association_consommateurs</PivotLocal>
+<RessourceWeb URL="http://www.economie.gouv.fr/dgccrf/Partenaires-283"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006074984" ID="R38562">
+<Titre>Décret du 22 mars 1942 portant règlement d'administration publique sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt général et d'intérêt local</Titre>
+<Complement>Article 80-3</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R3132" URL="http://www.economie.gouv.fr/dgccrf/Les-associations-de-consommateurs#assoc" audience="Particuliers">
+<Titre>Les associations de consommateurs</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+
+</Publication>

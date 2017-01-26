@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31267" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Accès à un logement privé : caution du locataire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>La caution est la personne s'engageant envers le propriétaire du logement loué à payer les dettes locatives d'un locataire défaillant.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-03</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31267</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000021342536&amp;cidTexte=LEGITEXT000006069108</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F31267" type="Fiche d'information">Accès à un logement privé : caution du locataire</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès au logement privé</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La caution est la personne qui, dans un document écrit appelé <Expression>acte de cautionnement</Expression>, s'engage envers le propriétaire du logement loué à payer les dettes locatives du locataire en cas de défaillance de sa part.
+		Il existe 2 formes de caution : la caution simple et la caution solidaire.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Est-elle obligatoire ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Exigence du bailleur</Paragraphe>
+</Titre><Paragraphe>La présentation d'une caution n'est pas une obligation légale. </Paragraphe>
+<Paragraphe>Toutefois, un bailleur peut exiger la présence d'une caution pour louer son logement. En pratique, c'est souvent le cas y compris si vous êtes candidat à un <LienInterne LienPublication="F869" type="Fiche d'information" audience="Particuliers">logement social</LienInterne>.</Paragraphe>
+<Paragraphe>La caution peut être une personne physique (parent, amis...) ou une personne morale (entreprise, banque, organisme type Action-Logement qui distribue la <LienInterne LienPublication="F18493" type="Fiche d'information" audience="Particuliers">garantie Loca-pass</LienInterne> , la <LienInterne LienPublication="F33453" type="Fiche d'information" audience="Particuliers"> garantie Visale</LienInterne> , la <LienInterne LienPublication="F17847" type="Fiche d'information" audience="Particuliers">garantie des risques locatifs</LienInterne> par exemple...).</Paragraphe>
+<Paragraphe>Par ailleurs,  la caution doit fournir au propriétaire un certain nombre de <LienInterne LienPublication="F1169" type="Fiche d'information" audience="Particuliers">pièces justificatives</LienInterne> démontrant qu'elle dispose de garanties financières suffisantes pour se substituer au locataire en cas d'impayés.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le propriétaire ne peut pas refuser la caution au motif que cette personne ne réside pas sur le territoire métropolitain ou ne possède pas la nationalité française.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Demande de caution interdite</Paragraphe>
+</Titre><Paragraphe>Dans certains cas, le propriétaire ne peut pas demander de caution.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Le bailleur est un particulier</Paragraphe>
+</Titre><Paragraphe>Le bailleur qui a  déjà une assurance  assurance privée contre les risques locatifs peut demander une caution seulement si son locataire est étudiant ou apprenti.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Le bailleur est une personne morale (société, organisme HLM...)</Paragraphe>
+</Titre><Paragraphe>Le bailleur ne peut pas demander de caution si le locataire est un étudiant qui bénéficie d'une bourse de l'enseignement supérieur.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Nature de l'engagement</Paragraphe>
+</Titre><Paragraphe>La caution s'engage à payer les dettes locatives du locataire. Celles-ci comprennent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le loyer et les charges, ainsi que les éventuels intérêts mis à la charge du locataire pour paiement tardif des dettes locatives,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les frais de remise en état du logement dégradé.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si la caution ne rembourse pas les dettes locatives, <LienInterne LienPublication="F1748" type="Fiche d'information" audience="Particuliers">les biens personnels de la caution, ses revenus</LienInterne> et son <LienInterne LienPublication="F16987" type="Fiche d'information" audience="Particuliers">logement</LienInterne> (s'il lui appartient) peuvent être saisis à la demande du propriétaire.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Rédaction de l'acte de cautionnement</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme</Paragraphe>
+</Titre><Paragraphe>La caution doit obligatoirement prendre la forme d'un acte écrit et être réalisée par <LienIntra LienID="R17852" type="Définition de glossaire">acte sous seing privé</LienIntra> ou par <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe>
+<Paragraphe>Le propriétaire doit remettre à la caution un exemplaire de l'acte de cautionnement, sauf si l'acte est intégré au bail.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu</Paragraphe>
+</Titre><Paragraphe>Il est possible d'utiliser ce modèle de lettre :</Paragraphe><ServiceEnLigne ID="R42281" URL="" type="Modèle de document">
+<Titre>Modèle de lettre pour se porter caution d'un locataire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet à une personne de se déclarer comme caution (simple ou solidaire) d'un locataire. Lettre à remettre au bailleur.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Variable>Madame/monsieur</Variable>
+</Paragraphe>
+<Paragraphe>Je soussigné(e) <Variable> nom, prénom et date de naissance de la personne se portant caution</Variable> certifie avoir pris connaissance du bail annexé à la présente et déclare me porter caution<Variable> simple/solidaire</Variable> pour <Variable>nom, prénom du locataire</Variable> au profit du bailleur <Variable>nom, prénom, adresse</Variable>.</Paragraphe>
+<Paragraphe>J'ai pris connaissance du montant du loyer de <Variable>montant du loyer</Variable> par <Variable>période de versement</Variable>. Il sera révisé annuellement tous les <Variable>date de révision</Variable> selon  l'indice de référence des loyers publié par l'INSEE de <Variable>date de la période de référence de l'IRL indiquée sur le bail</Variable>.</Paragraphe>
+<Paragraphe>Je m'engage à rembourser sur mes revenus et sur mes biens personnels les sommes dues par le locataire<Variable> nom et prénom</Variable> en cas de défaillance de ce dernier. Je confirme avoir une parfaite connaissance de la nature et de l'étendue de mon engagement.</Paragraphe>
+<Paragraphe>Cet engagement pour une caution <Variable>simple/solidaire</Variable> est valable <Variable>pour une durée indéterminée/jusqu'au ...</Variable> pour le paiement notamment des loyers éventuellement révisés, des charges récupérables, des indemnités d'occupation, des dégradations et réparations locatives et des frais de procédures, indemnités, pénalités et dommages-intérêts. </Paragraphe>
+<Paragraphe>Je reconnais également avoir pris connaissance de l'avant-dernier alinéa de l'article 22-1 de la loi du 6 juillet 1989 ainsi rédigé : "Lorsque le cautionnement d'obligations résultant d'un contrat de location conclu en application du présent titre ne comporte aucune indication de durée ou lorsque la durée du cautionnement est stipulée indéterminée, la caution peut le résilier unilatéralement. La résiliation prend effet au terme du contrat de location, qu'il s'agisse du contrat initial ou d'un contrat reconduit ou renouvelé au cours duquel le bailleur reçoit notification de la résiliation".</Paragraphe>
+<Paragraphe>Fait à<Variable> lieu de rédaction</Variable> le <Variable>date de rédaction</Variable>,</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>Les 4 derniers paragraphes sont à écrire <MiseEnEvidence>obligatoirement à la main par le garant lui-même</MiseEnEvidence>.</Paragraphe>
+</ANoter>
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>La personne se portant caution doit obligatoirement<MiseEnEvidence> écrire à la main elle-même</MiseEnEvidence> les mentions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer en chiffres et en lettres, ainsi que les conditions de sa révision. La caution peut indiquer une somme maximale de cautionnement. Dans ce cas, le propriétaire ne peut réclamer un montant plus élevé, même si la dette locative est supérieure. Si la caution n'indique pas de montant maximum, son engagement est alors plus étendu ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>mention exprimant clairement que la caution a pris connaissance de la nature et de l'étendue de son engagement. Si la caution est solidaire, cela doit être précisé dans l'acte ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>reproduction de l'article de loi suivant : " <Citation>Lorsque le cautionnement d'obligations résultant d'un contrat de location conclu en application du présent titre ne comporte aucune indication de durée ou lorsque la durée du cautionnement est stipulée indéterminée, la caution peut le résilier unilatéralement. La résiliation prend effet au terme du contrat de location, qu'il s'agisse du contrat initial ou d'un contrat reconduit ou renouvelé, au cours duquel le bailleur reçoit notification de la résiliation".</Citation>
+</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Rôle de la caution en cas d'impayés</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Caution simple</Paragraphe>
+</Titre><Paragraphe>La caution simple permet au propriétaire de faire appel à la caution uniquement si le locataire n'est pas en mesure de payer ses dettes locatives.</Paragraphe>
+<Paragraphe>En cas d'impayé, le propriétaire doit donc d'abord s'adresser au locataire en lui envoyant un <LienIntra LienID="R2698" type="Définition de glossaire">commandement de payer</LienIntra>. L'huissier qui est chargé de rédiger cet acte doit en même temps en envoyer une copie à la caution. Si la caution n'a pas été informée par l'huissier, elle n'est pas tenue de payer les éventuels intérêts mis à la charge du locataire pour paiement tardif des dettes locatives.</Paragraphe>
+<Paragraphe>Si, malgré cette démarche, le locataire ne parvient pas à régler ses dettes, le propriétaire doit s'adresser à la caution. Un courrier recommandé avec avis de réception est nécessaire pour être en mesure de prouver que la démarche a bien été effectuée auprès de la caution si cette dernière refuse de se substituer au locataire défaillant.</Paragraphe>
+<Paragraphe>S'il y a plusieurs cautions simples (en cas de pluralité de locataires notamment), le propriétaire doit réclamer à chacune la partie de la dette pour laquelle elle s'est engagée.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Caution solidaire</Paragraphe>
+</Titre><Paragraphe>La caution solidaire permet au propriétaire de faire appel directement à la caution dès le 1<Exposant>er</Exposant> impayé, sans même passer par le locataire et donc sans même rechercher si celui-ci pourrait payer. Autrement dit, peu importe si le locataire ne peut ou ne veut pas payer sa dette.</Paragraphe>
+<Paragraphe>Le propriétaire doit s'adresser à la caution de préférence par lettre recommandée avec avis de réception.</Paragraphe>
+<Paragraphe>S'il y a plusieurs cautions solidaires, le propriétaire peut réclamer la totalité de la dette du locataire à une seule de ces cautions en choisissant celle qui est la plus solvable (par exemple, celle qui présente le salaire le plus conséquent).</Paragraphe>
+<Paragraphe>Lorsque la caution n'est pas en mesure de payer les dettes locatives, elle peut demander des délais de paiement en saisissant le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne>.</Paragraphe>
+<Paragraphe>Si sa situation financière est telle que ces délais ne suffisent pas, elle peut saisir la <LienInterne LienPublication="F134" type="Fiche d'information" audience="Particuliers">commission de surendettement du département de sa résidence</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de l'engagement</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Engagement sans durée</Paragraphe>
+</Titre><Paragraphe>Si aucune durée d'engagement ne figure dans l'acte, la caution peut mettre fin à son engagement <LienInterne LienPublication="R20741" type="Modèle de document" audience="Particuliers"/> à tout moment par lettre recommandée avec avis de réception. </Paragraphe>
+<Paragraphe>Toutefois, la résiliation signifiée au bailleur ne prend effet qu'à l'expiration du bail.</Paragraphe>
+<Paragraphe>En pratique, la caution qui résilie son engagement reste donc tenue des dettes locatives jusqu'à la fin du contrat de location.</Paragraphe><ServiceEnLigne ID="R20741" URL="http://www.conso.net/content/vous-vous-etes-portee-caution-pour-un-locataire-dun-logement-et-vous-souhaitez-vous-degager" type="Modèle de document">
+<Titre>Mettre un terme à son engagement de caution</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+<Introduction>
+<Texte><Paragraphe>Vous vous êtes porté(e) caution pour un locataire et vous souhaitez vous dégager.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Engagement à durée déterminée</Paragraphe>
+</Titre><Paragraphe>Quand une durée précise est indiquée dans l'acte de cautionnement, la caution ne peut pas résilier son engagement. Elle est tenue des dettes locatives jusqu'à la date initialement prévue.</Paragraphe>
+<Paragraphe>Toutefois, les parties peuvent prévoir par écrit que certains événements mettront fin à l'acte de cautionnement (par exemple, divorce des époux, décès du locataire).</Paragraphe>
+<Paragraphe>À défaut d'indication dans l'acte, et en cas de décès de la caution par exemple, l'engagement se transmet automatiquement à ses héritiers les obligeant à garantir les dettes qui étaient déjà nées au moment du décès. En revanche, ils n'ont pas à garantir le paiement des dettes nées postérieurement au décès. </Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<Complement>Pour une information complémentaire</Complement>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<Complement>Pour obtenir des délais de paiement</Complement>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000021342536&amp;cidTexte=LEGITEXT000006069108" ID="R35454">
+<Titre>Loi n°89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs : article 22-1</Titre>
+</Reference>
+<ServiceEnLigne ID="R20741" URL="http://www.conso.net/content/vous-vous-etes-portee-caution-pour-un-locataire-dun-logement-et-vous-souhaitez-vous-degager" type="Modèle de document">
+<Titre>Mettre un terme à son engagement de caution</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42281" URL="" type="Modèle de document">
+<Titre>Modèle de lettre pour se porter caution d'un locataire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<Definition ID="R2698">
+<Titre>Commandement de payer</Titre>
+<Texte>
+				<Paragraphe>Acte généralement signifié par huissier de justice ordonnant à une personne d'exécuter ses obligations (par exemple, régler des loyers impayés)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17851">
+<Titre>Acte authentique</Titre>
+<Texte>
+				<Paragraphe>Document établi par un officier public compétent (notaire, huissier, officier d'état civil), rédigé selon les formalités exigées par la loi et dont le contenu  peut avoir la même force qu'une décision judiciaire</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17852">
+<Titre>Acte sous seing privé</Titre>
+<Texte>
+				<Paragraphe>Acte rédigé et signé par des particuliers, sans la présence d'un notaire (par exemple, un contrat)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032037833&amp;cidTexte=LEGITEXT000006070721" ID="R2270">
+<Titre>Code civil : articles 1372 à 1377</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F31301" audience="Particuliers">Quelles sont les voies de recours dans un litige locatif ?</QuestionReponse>
+</Publication>

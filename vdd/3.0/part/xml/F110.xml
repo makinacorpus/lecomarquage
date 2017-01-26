@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F110" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Réclamations en matière d'impôt</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Contester la régularité de son imposition, formuler une réclamation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-22</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F110</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147336&amp;cidTexte=LEGITEXT000006069583, http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006147340&amp;cidTexte=LEGITEXT000006069583, http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006147388&amp;cidTexte=LEGITEXT000006069583, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180177&amp;cidTexte=LEGITEXT000006069583, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180163&amp;cidTexte=LEGITEXT000006069583, http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006147392&amp;cidTexte=LEGITEXT000006069583</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31080</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N31080">Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Niveau>
+<Niveau ID="F110" type="Fiche d'information">Réclamations en matière d'impôt</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N31080">
+<Titre>Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Titre>
+<Fiche ID="F3124">Difficultés de paiement</Fiche>
+<Fiche ID="F13551">Rescrit fiscal</Fiche>
+<Fiche ID="F32477">Recours amiables</Fiche>
+<Fiche ID="F110">Réclamation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous contestez le bien fondé ou la régularité de votre impôt, vous pouvez formuler une réclamation par internet, par écrit ou par oral, à condition de respecter certains délais. Déposer une réclamation ne vous dispense pas de payer l'impôt, mais vous pouvez demander un sursis de paiement. En l'absence de  réponse dans les 6 mois ou si la réponse ne vous satisfait pas, vous pouvez saisir les tribunaux. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Si vos <LienInterne LienPublication="F32477" type="Fiche d'information" audience="Particuliers">démarches amiables</LienInterne> n'ont pas mis un terme à votre litige sur le bien fondé ou la régularité de votre imposition, vous pouvez formuler une réclamation. Cette démarche concerne <LienInterne LienPublication="N247" type="Dossier" audience="Particuliers">l'impôt sur le revenu</LienInterne>, <LienInterne LienPublication="N20074" type="Dossier" audience="Particuliers">l'impôt de solidarité sur la fortune</LienInterne> et les impôts locaux (<LienInterne LienPublication="F59" type="Fiche d'information" audience="Particuliers">taxe foncière sur les propriétés bâties</LienInterne>, <LienInterne LienPublication="F42" type="Fiche d'information" audience="Particuliers">taxe d'habitation</LienInterne>,<LienInterne LienPublication="F88" type="Fiche d'information" audience="Particuliers">contribution à l'audiovisuel public</LienInterne>, etc.).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui peut réclamer ?</Paragraphe>
+</Titre><Paragraphe>Le contribuable doit faire la réclamation lui-même. Pour l'impôt sur le revenu, l'époux(se) ou partenaire de Pacs peut faire la réclamation pour le ménage.</Paragraphe>
+<Paragraphe>Un tiers peut réclamer pour quelqu'un d'autre s'il justifie d'un mandat régulier.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment faire une réclamation ?</Paragraphe>
+</Titre><Paragraphe>Vous pouvez faire une réclamation de 3 manières : </Paragraphe>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisable">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><Paragraphe>Vous pouvez adresser une réclamation sur votre espace Particulier. Rendez vous à la rubrique "Nous contacter", dans votre messagerie sécurisée.</Paragraphe><ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Votre espace personnel est un espace sécurisé qui permet de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclarer vos revenus (il n'est plus possible de faire une déclaration des revenus en ligne pour l'impôt sur les revenus de 2015).</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Consulter votre situation fiscale</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Payer vos impôts</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Effectuer vos démarches en ligne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Accéder à une messagerie </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour  accéder à votre espace Particulier pour la 1<Exposant>ère</Exposant> fois, vous devez choisir un mot de passe.</Paragraphe>
+<Paragraphe>Pour en créer un, vous devez saisir : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Votre numéro fiscal (il figure en haut de la 1<Exposant>ère</Exposant> page de votre dernière déclaration de revenus reçue ainsi que sur votre dernier avis d'impôt)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre numéro de déclarant en ligne (il figure en haut de la 1<Exposant>ère</Exposant> page de votre dernière déclaration de revenus)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre revenu fiscal de référence (il figure dans le cadre "Vos références" de votre dernier avis d'impôt sur le revenu).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'écran vous guide pour la création de votre accès par mot de passe. </Paragraphe>
+<Paragraphe>Afin de valider la procédure de création de votre mot de passe, vous recevez immédiatement un courriel contenant un lien que vous devez cliquer. Le lien dans le courriel est actif pendant 24 heures. Passé ce délai, il faut recommencer la création du mot de passe.</Paragraphe>
+<Paragraphe>Seuls votre numéro fiscal et votre mot de passe seront nécessaires pour vous reconnecter à votre espace Particulier.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><Paragraphe>Vous pouvez vous rendre à votre centre des finances publiques. Dans ce cas, la réclamation est matérialisée par l'établissement d'une fiche de visite.</Paragraphe><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>La réclamation doit se faire sous la forme d'une simple lettre sur papier libre adressée à votre centre des finances publiques (les coordonnées figurent sur votre avis d'imposition).</Paragraphe><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Paragraphe> La lettre doit contenir les informations suivantes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Vos nom, adresse et signature manuscrite</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Désignation de l'impôt concerné</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Motifs de la réclamation</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Pièces justificatives (selon le cas, copie de l'avis d'imposition, copie de l'avis de mise en recouvrement, pièce justifiant le montant de la retenue ou du paiement en cas d'impôt perçu par voie de retenue à la source</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>en cas d'erreur sur le service destinataire, votre réclamation est transmise au service compétent. </Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Sursis de paiement</Paragraphe>
+</Titre><Paragraphe>Vous pouvez demander dans votre réclamation à différer le paiement de l'imposition que vous contestez.</Paragraphe>
+<Paragraphe>Si le montant contesté est supérieur à <Valeur>4 500 €</Valeur>, des garanties sont nécessaires pour couvrir le montant des droits contestés. À défaut, ou si les garanties proposées sont jugées insuffisantes, le comptable chargé du recouvrement peut prendre des mesures <LienIntra LienID="R37450" type="Définition de glossaire">conservatoires</LienIntra>.</Paragraphe>
+<Paragraphe>Le sursis de paiement produit ses effets jusqu'à ce qu'une décision définitive ait été prise sur la réclamation soit par l'administration soit par le tribunal de première instance compétent. </Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la décision de rejet des garanties ainsi que la prise de mesures conservatoires peuvent être contestées devant le juge.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délais</Paragraphe>
+</Titre><Tableau>
+<Titre>Délai de réclamation selon l'impôt contesté </Titre>
+<Colonne largeur="15" type="header"/>
+<Colonne largeur="77" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Nature de l'impôt</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Délai de réclamation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Impôt sur le revenu</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avant le 31 décembre de la 2e année qui suit celle de la mise en recouvrement de l'impôt, indiquée sur l'avis d'imposition.</Paragraphe>
+<Paragraphe>Exemple : le délai s'achève le 31 décembre 2016 pour l'impôt sur le revenu mis en recouvrement en 2014.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Impôts locaux (taxe foncière, taxe d'habitation, etc.)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avant le 31 décembre de l'année qui suit celle de la mise en recouvrement de l'impôt indiquée sur l'avis d'imposition.</Paragraphe>
+<Paragraphe>Exemple : le délai s'achève le 31 décembre 2015 pour la taxe d'habitation mise en recouvrement en 2014.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe> Impôt de solidarité sur la fortune</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avant le 31 décembre de la 2e année qui suit la notification d'un avis de mise en recouvrement. </Paragraphe>
+<Paragraphe>Exemple : le délai s'achève le 31 décembre 2016 pour l'impôt de solidarité sur la fortune dont l'avis de mise en recouvrement a été notifié en 2014.</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>Un délai spécial est applicable lorsque le contribuable a fait l'objet d'une procédure de redressement. </Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Traitement de la réclamation </Paragraphe>
+</Titre><Paragraphe>L'administration dispose de 6 mois pour vous répondre en motivant sa décision. Toutefois, elle peut vous avertir si un délai supplémentaire lui est nécessaire. Ce délai supplémentaire est au maximum de 3 mois.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Notification de la décision</Paragraphe>
+</Titre><Paragraphe>Si la réclamation est admise en totalité, le contribuable reçoit un avis de dégrèvement ou de restitution. Les sommes indues lui sont ensuite remboursées.</Paragraphe>
+<Paragraphe>Si la réclamation est partiellement admise ou rejetée, le service des impôts notifie la décision par lettre recommandée avec accusé de réception. Le contribuable dispose alors de 2 mois pour saisir les tribunaux.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Voies de recours </Paragraphe>
+</Titre><Paragraphe>Si la décision ne vous donne pas satisfaction, ou si vous n'avez pas reçu de réponse dans les 6 mois suivants votre réclamation, vous pouvez saisir les tribunaux.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Impôt sur le revenu</Paragraphe>
+</Titre><Paragraphe>Vous pouvez le saisir le tribunal administratif dans un délai de 2 mois à partir de la réception de la décision de l'administration. Le tribunal administratif compétent est celui dont dépend le lieu d'imposition.</Paragraphe><OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Impôts locaux</Paragraphe>
+</Titre><Paragraphe>Vous pouvez le saisir le tribunal administratif dans un délai de 2 mois à partir de la réception de la décision de l'administration. Le tribunal administratif compétent est celui dont dépend le lieu d'imposition.</Paragraphe><OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Taxe de publicité foncière, droit de timbre, droits d'enregistrement</Paragraphe>
+</Titre><Paragraphe>Vous pouvez le saisir le tribunal de grande instance dans un délai de 2 mois à partir de la réception de la décision de l'administration. Le tribunal compétent est celui dont dépend la recette des impôts chargée du recouvrement ou celui dont dépend la situation du bien si la contestation porte sur la valeur de ce bien.</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Impôt de solidarité sur la fortune</Paragraphe>
+</Titre><Paragraphe>Vous pouvez le saisir le tribunal de grande instance dans un délai de 2 mois à partir de la réception de la décision de l'administration. Le tribunal compétent est celui dont dépend la recette des impôts chargée du recouvrement ou celui dont dépend la situation du bien si la contestation porte sur la valeur de ce bien.</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F32477" audience="Particuliers">
+<Titre>Recours amiable en matière d'impôt</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147336&amp;cidTexte=LEGITEXT000006069583" ID="R34287">
+<Titre>Livre des procédures fiscales : articles L190 à L190 A</Titre>
+<Complement>Juridiction contentieuse compétente pour les réclamations relatives aux impôts (article L190)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006147340&amp;cidTexte=LEGITEXT000006069583" ID="R34289">
+<Titre>Livre des procédures fiscales : articles L277 à L280</Titre>
+<Complement>Sursis de paiement</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006147388&amp;cidTexte=LEGITEXT000006069583" ID="R34291">
+<Titre>Livre des procédures fiscales : articles R*190-1 à R*190-3</Titre>
+<Complement>Service destinataire de la réclamation (R*190-1 à R*190*2)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180177&amp;cidTexte=LEGITEXT000006069583" ID="R32499">
+<Titre>Livre des procédures fiscales : articles R*196-1 à R*196-6</Titre>
+<Complement>Délai pour faire une réclamation : impôt sur le revenu (R*196-1) et impôts locaux (R*196-2)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180163&amp;cidTexte=LEGITEXT000006069583" ID="R39185">
+<Titre>Livre des procédures fiscales : articles R*198-1 à R*198-10</Titre>
+<Complement>Délai pour statuer sur une réclamation (article R*198-10)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006147392&amp;cidTexte=LEGITEXT000006069583" ID="R34292">
+<Titre>Livre des procédures fiscales : articles R*277-1 à R*277-8</Titre>
+<Complement>Sursis de paiement</Complement>
+</Reference>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R15331" URL="https://www.impots.gouv.fr/portail/particulier/apres-rejet-de-ma-reclamation-je-souhaite-saisir-la-justice" audience="Particuliers">
+<Titre>Après rejet de ma réclamation, je souhaite saisir la justice</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R22810" URL="https://www.impots.gouv.fr/portail/particulier/je-veux-contester-un-impot-je-fais-une-reclamation" audience="Particuliers">
+<Titre>Je veux contester un impôt : je fais une réclamation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<Definition ID="R37450">
+<Titre>À titre conservatoire</Titre>
+<Texte>
+				<Paragraphe>Mesure d'urgence prise par précaution</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F103" audience="Particuliers">Comment recourir au médiateur ?</QuestionReponse>
+<QuestionReponse ID="F1064" audience="Particuliers">Quel est le délai de réclamation en matière d'impôts ?</QuestionReponse>
+<QuestionReponse ID="F156" audience="Particuliers">Dans quel délai un supplément d'impôts locaux peut-il être réclamé ?</QuestionReponse>
+</Publication>

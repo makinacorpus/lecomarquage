@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N16153" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Financement de la création ou reprise d'entreprise</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Les créateurs ou repreneurs d'entreprise peuvent bénéficier de nombreuses aides financières de la part des pouvoirs publics.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N16153</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000028651025&amp;idSectionTA=LEGISCTA000006189791&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24264</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16153" type="Dossier">Financement de la création ou reprise d'entreprise</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere>
+<Fiche ID="F20016">Nouvel accompagnement pour la création ou la reprise d'entreprise (Nacre)</Fiche>
+<Fiche ID="F11677">Aide au chômeur créant ou reprenant une entreprise (Accre)</Fiche>
+<Fiche ID="F15252">Aide à la reprise ou à la création d'entreprise (Arce)</Fiche>
+<Fiche ID="F11299">Contrat d'appui au projet d'entreprise (Cape)</Fiche>
+<Fiche ID="F22565">Soutien au commerce de proximité : demande de financement auprès du Fisac</Fiche>
+<Fiche ID="F22366">Aide à l'installation des jeunes agriculteurs</Fiche>
+<Introduction>
+<Texte>
+<Paragraphe>
+			Les créateurs ou repreneurs d'entreprise peuvent bénéficier de nombreuses aides financières de la part des pouvoirs publics.
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F31188" audience="Professionnels">
+<Titre>Aide à la création d'une jeune entreprise innovante (JEI) ou universitaire (JEU)</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000028651025&amp;idSectionTA=LEGISCTA000006189791&amp;cidTexte=LEGITEXT000006072050" ID="R901">
+<Titre>Code du travail : article L5141-1</Titre>
+</Reference>
+<ServiceEnLigne ID="R18133" URL="http://www.aides-entreprises.fr/" type="Téléservice">
+<Titre>Répertoire des aides publiques aux entreprises</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R43657" URL="https://media.apce.com/file/48/8/guide_pratique_du_createur_2016.93488.pdf" audience="Professionnels" format="application/pdf" poids="0">
+<Titre>Guide pratique du créateur d'entreprise</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R19907" URL="https://www.afecreation.fr/pid1608/plan-de-financement-initial.html" audience="Professionnels">
+<Titre>Comment élaborer un plan de financement initial ?</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R12177" URL="https://www.afecreation.fr/pid1686/les-aides.html" audience="Professionnels">
+<Titre>Aides à la cession et à la reprise d'entreprise</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20403" URL="https://www.afecreation.fr/pid530/prets-d-honneur.html" audience="Professionnels">
+<Titre>Prêt d'honneur pour les porteurs de projet</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20605" URL="https://www.afecreation.fr/pid6293/coup-de-pouce-familial.html" audience="Professionnels">
+<Titre>Don pour financer un projet</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F23282" audience="Professionnels">Combien coûte la création d'une entreprise ou la déclaration d'une activité?</QuestionReponse>
+<QuestionReponse ID="F1253" audience="Professionnels">Un chômeur créateur d'entreprise est-il imposable ?</QuestionReponse>
+<QuestionReponse ID="F32309" audience="Professionnels">Les aides et subventions publiques sont-elles imposables ?</QuestionReponse>
+<QuestionReponse ID="F32310" audience="Professionnels">Les aides et subventions publiques sont-elles soumises à TVA ?</QuestionReponse>
+<QuestionReponse ID="F32318" audience="Professionnels">En début d'activité, un micro-entrepreneur a-t-il droit au dispositif Accre ?</QuestionReponse>
+</Publication>

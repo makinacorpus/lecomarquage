@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33465" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment obtenir une attestation de résidence fiscale ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Comment obtenir une attestation de résidence fiscale ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33465</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13442</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="F33465" type="Fiche Question-réponse">Comment obtenir une attestation de résidence fiscale ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13442">
+<Titre>Imposition des sociétés</Titre><SousDossier ID="N13442-1">
+<Titre>Impôt sur les sociétés (IS)</Titre>
+<Fiche ID="F23575">Entreprises concernées et taux d'imposition</Fiche>
+<Fiche ID="F23510">Déclaration et paiement</Fiche>
+<Fiche ID="F23628">Report de déficit</Fiche>
+<Fiche ID="F32166">Entreprises relevant de la Direction des grandes entreprises (DGE)</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-2">
+<Titre>Imposition des rémunérations</Titre>
+<Fiche ID="F33816">Rémunération des dirigeants de société</Fiche>
+<Fiche ID="F32963">Distribution de dividendes</Fiche>
+<Fiche ID="F32966">Rémunération des comptes courants d'associé</Fiche>
+<Fiche ID="F33162">Plus-values professionnelles</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-3">
+<Titre>Autres impositions des sociétés</Titre>
+<Fiche ID="F32042">Société civile de moyens (SCM)</Fiche>
+<Fiche ID="F22790">Taxe sur les surfaces commerciales (Tascom)</Fiche>
+<Fiche ID="F31607">Taxe sur la valeur vénale des immeubles</Fiche>
+<Fiche ID="F31973">Charges déductibles ou non du résultat fiscal d'une entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Les entreprises et les professionnels, dont l'établissement principal est situé en France (donc fiscalement domiciliés en France), qui perçoivent des revenus de source étrangère, peuvent obtenir en ligne un certificat de résidence fiscale, leur permettant d'attester auprès des autorités fiscales étrangères de leur résidence fiscale en France et ainsi de bénéficier des avantages prévus par les conventions internationales signées par la France. </Paragraphe>
+<Paragraphe>Cette attestation peut être soumise aux autorités étrangères et aux établissements payeurs étrangers qui acceptent les documents produits et signés par l'administration française.</Paragraphe>
+<Paragraphe>L'attestation de résidence fiscale (cerfa n°13800*01 - imprimé 730), rédigée en français et en anglais, est délivrée directement en ligne via le compte fiscal des professionnels.</Paragraphe><ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>L'espace abonné permet aux entreprises et aux professionnels d'accéder, avec ou sans certificat, aux démarches fiscales en ligne (mode EFI) suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déclaration et paiement de la TVA (ex-TéléTVA),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>paiement de l'impôt sur les sociétés (IS), de la taxe sur les salaires, de la contribution économique et territoriale (CVAE et CFE), de l'imposition forfaitaire sur les entreprises de réseaux (IFER) et de la taxe foncière,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>consultation des déclarations fiscales et du compte fiscal de l'entreprise,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dépôt et suivi des demandes de remboursement de crédit de TVA,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demande de remboursement de TVA supportée dans un pays de l'Union européenne,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>délivrance d'attestation fiscale demandée pour les marchés publics,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>délivrance d'attestation de résidence fiscale en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration de résultats pour les entrepreneurs individuels assujettis dans la catégorie <LienInterne LienPublication="R24381" type="Sigle">BIC</LienInterne> au régime simplifié d'imposition (formulaire 2031).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est possible de créer un espace abonné avec un accès simplifié en 2 étapes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à partir de la saisie du numéro Siren, adresse électronique et mot de passe,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un code d'activation est alors adressé par voie postale qui permet de finaliser la création de l'espace abonné et saisir les coordonnées bancaires. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est également possible de créer un espace abonné avec un accès en mode expert si vous agissez pour le compte d'une ou plusieurs entreprises. Vous devez alors saisir les identifiants de ces entreprises (Siren, adresse électronique, mot de passe, coordonnées), choisir les services proposés et transmettre les documents d'adhésion au service des impôts des entreprises pour validation.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Texte><Abreviation ID="R24381" type="Sigle">
+<Titre>BIC</Titre>
+<Texte>
+<Paragraphe>Bénéfices industriels et commerciaux</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

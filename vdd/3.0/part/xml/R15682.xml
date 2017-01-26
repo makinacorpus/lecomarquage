@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R15682" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Protocole de soins</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Protocole de soins - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-17</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R15682</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418">Assurance maladie : affiliation et remboursements des soins</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R15682" type="Formulaire">Protocole de soins</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11626*03</NumeroCerfa>
+<AutreNumero>S3501c</AutreNumero>
+<Texte><Paragraphe>Cet imprimé vous est remis par votre médecin traitant si vous êtes atteint d'une affection de longue durée ou si votre état nécessite une interruption de travail ou des soins continus supérieurs à 6 mois.</Paragraphe>
+<Paragraphe>Cet imprimé vous informe sur les conditions de prise en charge de votre maladie. </Paragraphe>
+<Paragraphe>Vous devrez le présenter aux médecins que vous serez amené(e) à consulter.</Paragraphe>
+<Paragraphe>Le formulaire contient une  notice n°50774#02</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3501.pdf" format="application/pdf" poids="303.5 KB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F164" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Qui peut bénéficier d'une prise en charge à 100% par l'Assurance maladie ?</Titre>
+<Dossier ID="N418">Assurance maladie : affiliation et remboursements des soins</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

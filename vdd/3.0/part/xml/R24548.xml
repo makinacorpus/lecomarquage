@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R24548" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de pension d'invalidité de veuf ou de veuve - personne relevant du régime agricole (MSA)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Å remplir si vous êtes veuf(ve), atteint(e) d'invalidité et âgé(e) de moins de 55 ans et que vous relevez du régime agricole (MSA)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-02-18</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R24548</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N378">Pension de réversion</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R24548" type="Formulaire">Demande de pension d'invalidité de veuf ou de veuve - personne relevant du régime agricole (MSA)</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14837*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Å remplir si vous êtes veuf(ve), atteint(e) d'invalidité et âgé(e) de moins de 55 ans et que vous relevez du régime agricole (MSA)</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14837.do">
+<Source>Ministère en charge de la santé</Source>
+</LienWeb>
+<FicheLiee ID="F13104" audience="Particuliers" type="Fiche d'information">
+<Titre>Pension de réversion</Titre>
+<Dossier ID="N378">Pension de réversion</Dossier>
+</FicheLiee>
+<Dossier ID="N378">
+<Titre>Pension de réversion</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17461" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'admission en établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Demande d'admission en établissement d'hébergement pour personnes âgées dépendantes (Éhpad) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-30</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17461</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17461" type="Formulaire">Demande d'admission en établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14732*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14732.do" format="application/force-download" poids="836.1 KB">
+<Source>Ministère en charge de la santé</Source>
+</LienWeb>
+<FicheLiee ID="F763" audience="Particuliers" type="Fiche d'information">
+<Titre>Établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Titre>
+<Dossier ID="N333">Hébergement des personnes âgées</Dossier>
+</FicheLiee><OuSAdresser ID="R1544" type="Local">
+<Titre>Annuaire des établissements pour personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire?service=hebergement" commentaireLien="Liste des établissements publics et privés (avec mention des établissements conventionnés à l'aide sociale à l'hébergement ou à l'aide personnalisée au logement)"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

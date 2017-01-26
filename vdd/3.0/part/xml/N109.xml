@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N109" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Éloignement des étrangers</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Un étranger non-européen peut faire l'objet de plusieurs mesures administratives d'éloignement : obligation de quitter la France, arrêté de reconduite à la frontière, expulsion... Ces mesures sont prises en cas de séjour illégal, menace à l'ordre public... Le juge peut aussi décider une interdiction du territoire français. Dans l'attente de son éloignement, l'étranger peut être placé en centre de rétention administrative (CRA) ou assigné à résidence.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-08</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N109</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19804</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étranger en France</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N109" type="Dossier">Éloignement des étrangers</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere>
+<SousDossier ID="N109-1">
+<Titre>Obligation de quitter la France (OQF)</Titre><Fiche ID="F18362">Décision</Fiche>
+<Fiche ID="F18366">Recours</Fiche>
+</SousDossier>
+<SousDossier ID="N109-2">
+<Titre>Expulsion</Titre><Fiche ID="F11891">Décision</Fiche>
+<Fiche ID="F11418">Recours</Fiche>
+<Fiche ID="F11417">Exécution de la mesure</Fiche>
+</SousDossier>
+<SousDossier ID="N109-3">
+<Titre>Autres mesures d'éloignement</Titre><Fiche ID="F11954">Reconduite à la frontière</Fiche>
+<Fiche ID="F2782">Interdiction administrative de retour en France</Fiche>
+<Fiche ID="F2784">Interdiction judiciaire du territoire français</Fiche>
+<Fiche ID="F2650">Reconduite vers un autre pays européen</Fiche>
+<Fiche ID="F34027">Reconduite demandée par un pays européen</Fiche>
+</SousDossier>
+<SousDossier ID="N109-4">
+<Titre>Surveillance pendant la procédure</Titre><Fiche ID="F20127">Assignation à résidence</Fiche>
+<Fiche ID="F2780">Centre de rétention</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			Un étranger non-européen peut faire l'objet de plusieurs mesures administratives d'éloignement : obligation de quitter la France, arrêté de reconduite à la frontière, expulsion...
+		
+			Ces mesures sont prises en cas de séjour illégal, menace à l'ordre public...
+		
+			Le juge peut aussi décider une interdiction du territoire français.
+			Dans l'attente de son éloignement, l'étranger peut être placé en centre de rétention administrative (CRA) ou assigné à résidence.
+		</Paragraphe>
+</Texte>
+</Introduction><QuestionReponse ID="F33974" audience="Particuliers">Qu'est-ce que l'aide au retour volontaire ?</QuestionReponse>
+<QuestionReponse ID="F31136" audience="Particuliers">Qu'est-ce que la retenue pour vérification du droit au séjour d'un étranger ?</QuestionReponse>
+
+</Publication>

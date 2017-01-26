@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31896" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels sont les documents remis au salarié à la fin de son contrat ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Lorsque le contrat de travail arrive à son terme (quel que soient le contrat et le motif), l'employeur doit remettre au salarié divers documents.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31896</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19611</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="F31896" type="Fiche Question-réponse">Quels sont les documents remis au salarié à la fin de son contrat ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N19611">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre><SousDossier ID="N19611-1">
+<Titre>Démission</Titre>
+<Fiche ID="F2883">Démission d'un salarié</Fiche>
+<Fiche ID="F89">Allocations chômage</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-2">
+<Titre>Rupture conventionnelle du CDI</Titre>
+<Fiche ID="F19030">Conditions et procédure</Fiche>
+<Fiche ID="F19708">Indemnisation</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-3">
+<Titre>Documents à remettre au salarié</Titre>
+<Fiche ID="F87">Certificat de travail</Fiche>
+<Fiche ID="F2867">Attestation destinée à Pôle emploi</Fiche>
+<Fiche ID="F86">Reçu pour solde de tout compte</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-4">
+<Titre>Ruptures atypiques du contrat de travail</Titre>
+<Fiche ID="F24409">Prise d'acte de la rupture du contrat de travail</Fiche>
+<Fiche ID="F24410">Résiliation judiciaire du contrat de travail</Fiche>
+<Fiche ID="F24411">Départ négocié en cas de difficultés économiques</Fiche>
+<Fiche ID="F24412">Rupture du contrat de travail pour cas de force majeure</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Lorsque le contrat de travail arrive à son terme, l'employeur doit remettre au salarié divers documents.</Paragraphe>
+<Paragraphe>Ces documents sont dus, quels que soient :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la nature du contrat concerné (<LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne>, <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne>, contrat temporaire, contrat d'apprentissage, etc.),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et le motif du terme du contrat (démission, licenciement, rupture conventionnelle, CDD arrivé à son terme, etc.).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La liste de ces documents varie selon que le salarié est en CDI ou en CDD.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Salarié en CDI</Paragraphe>
+</Titre>
+						<Paragraphe>L'employeur doit remettre au salarié les documents suivants :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F87" type="Fiche d'information" audience="Particuliers">Certificat de travail</LienInterne>,</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> <LienInterne LienPublication="F2867" type="Fiche d'information" audience="Particuliers">Attestation Pôle emploi</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> <LienInterne LienPublication="F86" type="Fiche d'information" audience="Particuliers">Solde de tout compte</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>État récapitulatif de l'ensemble des sommes et valeurs mobilières épargnées ou transférées au sein de l'entreprise dans le cadre des dispositifs de participation, d'intéressement et des plans d'épargne salariale.</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Salarié en CDD</Paragraphe>
+</Titre>
+						<Paragraphe>L'employeur doit remettre au salarié les documents suivants :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F87" type="Fiche d'information" audience="Particuliers">Certificat de travail</LienInterne>,</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> <LienInterne LienPublication="F2867" type="Fiche d'information" audience="Particuliers">Attestation Pôle emploi</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> <LienInterne LienPublication="F86" type="Fiche d'information" audience="Particuliers">Solde de tout compte</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>État récapitulatif de l'ensemble des sommes et valeurs mobilières épargnées ou transférées au sein de l'entreprise dans le cadre des dispositifs de participation, d'intéressement et des plans d'épargne salariale,</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Bordereau individuel d'accès à la formation (Biaf), sauf s'il a été remis lors de l'embauche.</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+
+</Texte>
+<OuSAdresser ID="R3040" type="Centre de contact">
+<Titre>Votre direction des ressources humaines (DRH)</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R756" type="Centre de contact">
+<Titre>Vos représentants du personnel</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+
+
+
+</Publication>

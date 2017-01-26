@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2849" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Renonciation à succession</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Si vous êtes héritier désigné par la loi ou par un testament, vous pouvez accepter la succession ou y renoncer. Ce formulaire vous permet de renoncer à la succession.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-21</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2849</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N171">Règlement d'une succession</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2849" type="Formulaire">Renonciation à succession</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14037*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Si vous êtes héritier désigné par la loi ou par un testament, vous pouvez accepter la succession ou y renoncer.
+Ce formulaire vous permet de renoncer à la succession.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14037.do" format="application/pdf" poids="104.8 KB">
+<Source>Ministère en charge de la justice</Source>
+</LienWeb><NoticeLiee ID="R2756" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=14037&amp;&amp;cerfaNotice=51411" numerocerfa="51411#02" format="application/pdf" poids="128.7 KB">Notice de renonciation à succession</NoticeLiee>
+
+<FicheLiee ID="F1199" audience="Particuliers" type="Fiche d'information">
+<Titre>Acceptation ou renonciation à la succession (option successorale)</Titre>
+<Dossier ID="N171">Règlement d'une succession</Dossier>
+</FicheLiee><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+</ServiceComplementaire>

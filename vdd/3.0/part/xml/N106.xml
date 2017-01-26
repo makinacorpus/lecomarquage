@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N106" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Demande d'asile</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Réfugié, réfugié politique, demande d'asile, protection</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-01</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N106</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19804</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étranger en France</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N106" type="Dossier">Demande d'asile</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere>
+<SousDossier ID="N106-1">
+<Titre>Dépôt de la demande d'asile</Titre><Fiche ID="F2232">Première étape de la demande d'asile : enregistrement en préfecture</Fiche>
+<Fiche ID="F15374">Deuxième étape de la demande d'asile : dépôt à l'Ofpra</Fiche>
+</SousDossier>
+<SousDossier ID="N106-2">
+<Titre>Examen de la demande</Titre><Fiche ID="F2717">Instruction par la préfecture des demandes relevant d'un autre pays européen</Fiche>
+<Fiche ID="F15376">Instruction et décision de l'Ofpra</Fiche>
+<Fiche ID="F2675">Recours en cas de rejet de la demande d'asile par l'Ofpra</Fiche>
+</SousDossier>
+<SousDossier ID="N106-3">
+<Titre>Droits pendant l'examen de la demande</Titre><Fiche ID="F32454">Aides sociales</Fiche>
+<Fiche ID="F2741">Droit au travail</Fiche>
+</SousDossier>
+<SousDossier ID="N106-4">
+<Titre>Droits du réfugié ou d'une personne sous protection</Titre><Fiche ID="F15401">Statut de réfugié</Fiche>
+<Fiche ID="F2689">Protection subsidiaire</Fiche>
+</SousDossier><ServiceEnLigne ID="R43333" URL="https://www.ofpra.gouv.fr/fr/detail/acte/acteNaissance/edit.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (réfugié ou apatride)</Titre>
+<Source ID="R30652">Office français de protection des réfugiés et apatrides (Ofpra)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R11884" URL="http://www.immigration.interieur.gouv.fr/Asile/Guide-du-demandeur-d-asile-en-France" audience="Particuliers">
+<Titre>Guide du demandeur d'asile</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F299" audience="Particuliers">Statut de réfugié, protection subsidiaire ou temporaire : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F15402" audience="Particuliers">Dans quels cas est-on reconnu apatride ?</QuestionReponse>
+<QuestionReponse ID="F33314" audience="Particuliers">En quoi consiste l'allocation pour demandeur d'asile (Ada) ?</QuestionReponse>
+<QuestionReponse ID="F3067" audience="Particuliers">Peut-on faire une nouvelle demande d'asile après un refus ?</QuestionReponse>
+<QuestionReponse ID="F33980" audience="Particuliers">Un réfugié doit-il faire une demande d'acceptation préalable à l'université ?</QuestionReponse>
+
+</Publication>

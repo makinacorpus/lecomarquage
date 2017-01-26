@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N553" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Chasse</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Chasse : Permis de chasser, Obligations du chasseur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-30</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N553</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19809</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N553" type="Dossier">Chasse</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N19969">Chasse et pêche</SousThemePere>
+<SousDossier ID="N553-1">
+<Titre>Permis de chasser</Titre><Fiche ID="F2088">Permis de chasser : examen et délivrance</Fiche>
+<Fiche ID="F2091">Permis de chasser : document de validation pour l'année en cours</Fiche>
+</SousDossier>
+<SousDossier ID="N553-2">
+<Titre>Obligations du chasseur</Titre><Fiche ID="F15819">Obtenir l'autorisation de chasser</Fiche>
+<Fiche ID="F2093">Respecter la réglementation sur les armes de chasse</Fiche>
+<Fiche ID="F2146">S'assurer pour la pratique de la chasse</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N287" audience="Particuliers">
+<Titre>Armes</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R1337" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13943.do" numerocerfa="13943*02" type="Formulaire">
+<Titre>Demande de délivrance du permis de chasser</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33377" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13845.do" numerocerfa="13845*01" type="Formulaire">
+<Titre>Demande de plan de chasse</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1341" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13946.do" format="application/pdf" poids="32.9 KB" numerocerfa="13946*02" type="Formulaire">
+<Titre>Demande d'autorisation de chasser accompagné</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10343" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10804.do" numerocerfa="10804*03" type="Formulaire">
+<Titre>Demande d'inscription à une formation pour la pratique de la chasse à l'arc</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R11615" URL="http://www.oncfs.gouv.fr/FAQ-faq15" audience="Particuliers">
+<Titre>Questions-réponses sur la chasse</Titre>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R15706" URL="http://www.chasseurdefrance.com/chasser-en-france/dates-douverture/" audience="Particuliers">
+<Titre>Carte de France des dates d'ouverture de la chasse</Titre>
+<Source ID="R30787">Fédération nationale de la chasse</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R15328" URL="http://www.oncfs.gouv.fr/Chasser-dans-les-regles-ru18/Dates-douverture-de-la-chasse-saison-2015-2016-news1798" audience="Particuliers">
+<Titre>Dates d'ouverture de la chasse : saison 2015-2016</Titre>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R34281" URL="http://www.reserves-naturelles.org/liste-par-region" audience="Particuliers">
+<Titre>Listes des réserves naturelles</Titre>
+<Source ID="R34282">Réserves naturelles de France</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2166" audience="Particuliers">Permis de chasser : que faire en cas de perte ou de détérioration ?</QuestionReponse>
+</Publication>

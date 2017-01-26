@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F922" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels sont les types de saisies auxquelles l'huissier peut procéder ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>L'huissier de justice peut saisir divers biens d'un débiteur, en présence d'un titre exécutoire (sauf saisie conservatoire, en cas d'urgence).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-06-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F922</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N277</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N277">Saisies et recouvrements</Niveau>
+<Niveau ID="F922" type="Fiche Question-réponse">Quels sont les types de saisies auxquelles l'huissier peut procéder ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20385">Réparation du préjudice</SousThemePere><DossierPere ID="N277">
+<Titre>Saisies et recouvrements</Titre><SousDossier ID="N277-1">
+<Titre>Saisie d'argent</Titre>
+<Fiche ID="F1850">Saisie sur compte bancaire</Fiche>
+<Fiche ID="F31716">Avis à tiers détenteur (ATD)</Fiche>
+<Fiche ID="F115">Saisie sur salaire (ou rémunération)</Fiche>
+<Fiche ID="F1437">Solde bancaire insaisissable (SBI)</Fiche>
+</SousDossier>
+<SousDossier ID="N277-2">
+<Titre>Saisie d'un bien</Titre>
+<Fiche ID="F1748">Saisie conservatoire</Fiche>
+<Fiche ID="F1751">Saisie-vente</Fiche>
+<Fiche ID="F1752">Saisie du véhicule</Fiche>
+<Fiche ID="F1763">Saisie-appréhension : livraison ou restitution d'un bien</Fiche>
+<Fiche ID="F16987">Saisie immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N277-3">
+<Titre>Recouvrement</Titre>
+<Fiche ID="F2272">Créance : recouvrement par un tiers</Fiche>
+<Fiche ID="F1744">Dommages-intérêts : aide au recouvrement</Fiche>
+<Fiche ID="F783">Calcul de l'intérêt légal</Fiche>
+<Fiche ID="F998">Pension alimentaire : recouvrement par paiement direct</Fiche>
+<Fiche ID="F2319">Pension alimentaire : recouvrement par saisie sur salaire</Fiche>
+<Fiche ID="F1000">Pension alimentaire : recouvrement par le biais du Trésor public</Fiche>
+<Fiche ID="F1002">Pension alimentaire : recouvrement par la Caf ou la MSA</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>L'huissier de justice peut saisir divers biens d'un débiteur, en présence d'un titre exécutoire (sauf saisie conservatoire, en cas d'urgence). Les types de saisies varient selon que le débiteur est contraint d'exécuter une obligation de payer ou une obligation de faire.</Paragraphe>
+
+</Texte>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>En cas d'obligation de payer</Titre>
+<Texte>
+<Chapitre><Paragraphe>Ces saisies ont pour but d'obtenir le remboursement d'une somme due.</Paragraphe>
+<Paragraphe>
+<LienInterne LienPublication="F2158" type="Fiche d'information" audience="Particuliers">L'huissier de justice</LienInterne> peut effectuer l'une ou plusieurs des saisies suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la saisie attribution, permettant la saisie auprès d'une tierce personne des créances du débiteur portant sur une somme d'argent (par exemple, <LienInterne LienPublication="F1850" type="Fiche d'information" audience="Particuliers">saisie sur compte bancaire</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la <LienInterne LienPublication="F1751" type="Fiche d'information" audience="Particuliers">saisie-vente</LienInterne>, permettant la vente des meubles du débiteur (qu'ils soient détenus par le débiteur ou une tierce personne),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1752" type="Fiche d'information" audience="Particuliers">saisie d'un véhicule</LienInterne> (voiture, moto...), permettant d'immobiliser un véhicule en quelque endroit qu'il se trouve,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>saisie des droits incorporels, portant sur des droits incorporels autres que des sommes d'argent (par exemple, saisie des droits d'associés et des valeurs mobilières en vue de leur vente),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La saisie des récoltes sur pied,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La saisie des biens placés dans un coffre-fort,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La <LienInterne LienPublication="F16987" type="Fiche d'information" audience="Particuliers">saisie immobilière</LienInterne>, permettant la vente d'un bien immobilier (maison, terrain) en cas de créance importante.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>En cas d'obligation de faire</Titre>
+<Texte>
+<Chapitre><Paragraphe>Ces saisies ont pour but l'exécution d'une obligation de livrer ou de restituer un bien.</Paragraphe>
+<Paragraphe>Les saisies effectuées par
+      l'huissier de justice
+      sont les suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la <LienInterne LienPublication="F1763" type="Fiche d'information" audience="Particuliers">saisie-appréhension</LienInterne> des meubles, qu'ils soient détenus par le débiteur ou une tierce personne ou situés dans un coffre-fort,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>la saisie-revendication, qui permet de rendre indisponible tout bien meuble corporel (mobilier, livres, voiture...) en attendant sa remise, si elle est justifiée.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations>
+</Publication>

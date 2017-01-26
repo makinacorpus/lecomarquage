@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2977" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Calculer la révision de son loyer</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Permet de calculer la révision de son loyer.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-08</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2977</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N337">Location immobilière : loyer</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2977" type="Simulateur">Calculer la révision de son loyer</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de calculer la révision de son loyer.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.anil.org/outils/outils-de-calcul/revision-de-loyer/">
+<Source>Agence nationale pour l'information sur le logement (Anil)</Source>
+</LienWeb>
+<FicheLiee ID="F13723" audience="Particuliers" type="Fiche d'information">
+<Titre>Indice de référence des loyers (IRL)</Titre>
+<Dossier ID="N337">Location immobilière : loyer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1311" audience="Particuliers" type="Fiche d'information">
+<Titre>Logement du secteur privé : révision du loyer en cours de bail</Titre>
+<Dossier ID="N337">Location immobilière : loyer</Dossier>
+</FicheLiee>
+<Dossier ID="N337">
+<Titre>Location immobilière : loyer</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

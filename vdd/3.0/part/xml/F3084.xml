@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3084" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que se passe-t-il quand un enfant naît en France apatride ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>La naissance en France ne permet pas à elle seule l'attribution de la nationalité française.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-17</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3084</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006149908&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N111</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N111">Acquisition de la nationalité française</Niveau>
+<Niveau ID="F3084" type="Fiche Question-réponse">Que se passe-t-il quand un enfant naît en France apatride ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N111">
+<Titre>Acquisition de la nationalité française</Titre><SousDossier ID="N111-1">
+<Titre>Nationalité française par déclaration</Titre>
+<Fiche ID="F2726">Par mariage</Fiche>
+<Fiche ID="F33430">Par un ascendant de Français</Fiche>
+<Fiche ID="F33800">Par un frère ou une sœur de Français</Fiche>
+</SousDossier>
+<SousDossier ID="N111-2">
+<Titre>Nationalité française par naturalisation</Titre>
+<Fiche ID="F2213">Conditions</Fiche>
+<Fiche ID="F15832">Demande et réponse de l'administration</Fiche>
+</SousDossier>
+<SousDossier ID="N111-3">
+<Titre>Nationalité française d'un enfant</Titre>
+<Fiche ID="F295">Enfant né en France de parents étrangers</Fiche>
+<Fiche ID="F3070">Enfant adopté</Fiche>
+<Fiche ID="F31919">Enfant recueilli</Fiche>
+</SousDossier>
+<SousDossier ID="N111-4">
+<Titre>Réintégration dans la nationalité française</Titre>
+<Fiche ID="F3071">Par déclaration</Fiche>
+<Fiche ID="F2214">Par décret</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>La naissance en France ne permet pas à elle seule l'attribution de la nationalité française. Il existe cependant des exceptions, afin d'éviter que certaines personnes se retrouvent apatrides, c'est-à-dire sans nationalité.</Paragraphe>
+<Paragraphe>Un enfant peut naître apatride en France, c'est-à-dire sans nationalité, s'il se trouve dans l'une des situations suivantes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Il est né en France de parents eux-mêmes apatrides.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Il est né en France de parents inconnus.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Il est né en France de parents dont la nationalité ne peut pas se transmettre dès sa naissance. </Paragraphe>
+<Paragraphe>C'est le cas pour les pays qui appliquent strictement le droit du sol et pour lesquels la nationalité ne se transmet pas aux enfants nés à l'étranger. </Paragraphe>
+<Paragraphe>C'est le cas aussi de certains pays appliquant le droit musulman et pour lesquels la nationalité ne se transmet pas aux enfants nés hors mariage ou adoptés.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La nationalité française est donc attribuée à cet enfant dès sa naissance.</Paragraphe>
+<Paragraphe>Pour prouver la nationalité française de cet enfant, il faut se procurer un <LienInterne LienPublication="F1051" type="Fiche d'information" audience="Particuliers">certificat de nationalité française</LienInterne>.</Paragraphe>
+<Paragraphe>Cette démarche doit se faire avant ses 18 ans.</Paragraphe>
+<Paragraphe>Avant les 16 ans de l'enfant, les parents ou la personne exerçant l'autorité parentale, peuvent faire la démarche au nom de l'enfant.</Paragraphe>
+<Paragraphe>Dès l'âge de 16 ans, l'enfant peut faire la démarche lui-même, sans autorisation parentale.</Paragraphe>
+
+</Texte><OuSAdresser ID="R197" type="Local personnalisable">
+<Titre>Tribunal d'instance compétent en matière de nationalité</Titre>
+<Complement>Pour obtenir un certificat de nationalité française s'adresser au greffier en chef du tribunal - À Paris, au pôle de la nationalité française de Paris</Complement>
+<PivotLocal>ti_nationalite</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/tribunaux-competents-en-matiere-de-nationalite-10110/"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>En cas de contestation du refus de délivrance du certificat de nationalité française</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R196" type="National">
+<Titre>Bureau de la nationalité - Ministère de la justice</Titre>
+<Complement>En cas de recours administratif contre le refus de délivrance du certificat</Complement>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_168982"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006149908&amp;cidTexte=LEGITEXT000006070721" ID="R11658">
+<Titre>Code civil : articles 19 à 19-4</Titre>
+</Reference>
+<QuestionReponse ID="F10528" audience="Particuliers">Peut-on franciser son nom et son prénom en devenant Français ?</QuestionReponse>
+</Publication>

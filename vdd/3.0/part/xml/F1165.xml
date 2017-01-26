@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1165" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Location meublée ou location vide : quelles différences ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Certaines règles sont communes à une location vide et à une location meublée. Dans certains cas toutefois, une réglementation spécifique s'applique.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-28</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1165</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N349</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N349">Location immobilière : contrat de location (bail)</Niveau>
+<Niveau ID="F1165" type="Fiche Question-réponse">Location meublée ou location vide : quelles différences ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N349">
+<Titre>Location immobilière : contrat de location (bail)</Titre>
+<Fiche ID="F920">Rédaction du contrat</Fiche>
+<Fiche ID="F1686">Clauses abusives</Fiche>
+<Fiche ID="F31269">Dépôt de garantie</Fiche>
+<Fiche ID="F31270">État des lieux</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Certaines règles sont communes à une location vide et à une location meublée. Dans certains cas toutefois, chaque système de location est soumis à une réglementation spécifique. </Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Certaines règles sont différentes</MiseEnEvidence> entre une location vide et une location meublée. </Paragraphe>
+<Paragraphe>Une location meublée obéit à des critères d'ameublement spécifiques auxquels une location vide n'est pas soumise.</Paragraphe>
+<Paragraphe>Par ailleurs, les règles relatives à la durée du bail, au dépôt de garantie et aux congés ne sont pas les même selon la nature vide ou meulée de la location.</Paragraphe>
+<Tableau>
+<Colonne largeur="18" type="header"/>
+<Colonne largeur="40" type="normal"/>
+<Colonne largeur="43" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Situation </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Logement vide</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Logement meublé</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F920" type="Fiche d'information" audience="Particuliers">Durée du bail</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans minimum</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> 1 an minimum </Paragraphe>
+<Paragraphe>9 mois si le locataire est étudiant</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">Dépôt de garantie</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1 mois maximum</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 mois maximum</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F929" type="Fiche d'information" audience="Particuliers">Préavis du bailleur</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> 6 mois minimum</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 mois minimum</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1168" type="Fiche d'information" audience="Particuliers">Préavis du locataire</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 mois minimum</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1 mois minimum</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les locations dites "loi de 48" obéissent à une réglementation particulière concernant la fin du bail, les conditions de <LienInterne LienPublication="F10039" type="Fiche Question-réponse" audience="Particuliers">sortie du régime de 48</LienInterne>, le <LienInterne LienPublication="F929" type="Fiche d'information" audience="Particuliers">congé du bailleur</LienInterne> et le <LienInterne LienPublication="F1168" type="Fiche d'information" audience="Particuliers">congé du locataire</LienInterne>. </Paragraphe>
+</ANoter><Paragraphe>
+<MiseEnEvidence>D'autres  règles sont identiques pour  une location vide ou  une location meublée</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>C'est le cas pour tout ce qui touche à l'accès à un logement mis en location, c'est-à-dire :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le <LienInterne LienPublication="F1169" type="Fiche d'information" audience="Particuliers">dossier du candidat locataire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les règles du <LienInterne LienPublication="F31267" type="Fiche d'information" audience="Particuliers">cautionnement</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les <LienInterne LienPublication="F375" type="Fiche d'information" audience="Particuliers">frais d'agence immobilière</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les questions de <LienInterne LienPublication="F14750" type="Fiche d'information" audience="Particuliers">discrimination au logement</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les critères de <LienInterne LienPublication="F2042" type="Fiche d'information" audience="Particuliers">décence</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le  loyer :  <LienInterne LienPublication="F1310" type="Fiche d'information" audience="Particuliers">fixation du loyer</LienInterne>,  <LienInterne LienPublication="F1214" type="Fiche d'information" audience="Particuliers">paiement du loyer</LienInterne>,  <LienInterne LienPublication="F31272" type="Fiche d'information" audience="Particuliers">conséquences d'un impayé</LienInterne>, <LienInterne LienPublication="F1311" type="Fiche d'information" audience="Particuliers">révision</LienInterne> du loyer en cours de bail et sa <LienInterne LienPublication="F1312" type="Fiche d'information" audience="Particuliers">réévaluation</LienInterne> en fin de bail,<LienInterne LienPublication="F947" type="Fiche d'information" audience="Particuliers"/>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F947" type="Fiche d'information" audience="Particuliers">charges locatives</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> <LienInterne LienPublication="F31300" type="Fiche d'information" audience="Particuliers">assurance habitation</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1874" type="Fiche d'information" audience="Particuliers">utilisation du logement</LienInterne>,<LienInterne LienPublication="F31697" type="Fiche d'information" audience="Particuliers"/>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31697" type="Fiche d'information" audience="Particuliers">travaux et réparations locatives</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F2449" type="Fiche d'information" audience="Particuliers">sous-location</LienInterne>. </Paragraphe>
+</Item>
+</Liste>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>un logement social est un logement vide, mais obéit parfois à des <LienInterne LienPublication="F31290" type="Fiche Question-réponse" audience="Particuliers">règles particulières</LienInterne>. </Paragraphe>
+</Attention>
+</Texte>
+</Publication>

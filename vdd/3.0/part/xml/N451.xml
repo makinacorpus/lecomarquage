@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N451" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Handicap et emploi dans le secteur privé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Les personnes en situation de handicap peuvent travailler en milieu ordinaire, en entreprise ordinaire adaptée à leurs possibilités ou encore en milieu protégé (en Ésat).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-16</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N451</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Salarié du secteur privé, Personne handicapée</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N451" type="Dossier">Handicap et emploi dans le secteur privé</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere>
+<Fiche ID="F15926">Handicap : travail en milieu ordinaire</Fiche>
+<Fiche ID="F1653">Handicap : travail en entreprise adaptée</Fiche>
+<Fiche ID="F1654">Handicap : travail en établissement et service d'aide par le travail (Ésat)</Fiche>
+<Introduction>
+<Texte><Paragraphe>Les personnes en situation de handicap peuvent travailler en <LienIntra LienID="R19321" type="Définition de glossaire">milieu ordinaire</LienIntra>, en entreprise ordinaire adaptée à leurs possibilités ou encore en milieu protégé (en Ésat).</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N198" audience="Particuliers">
+<Titre>Formation des personnes handicapées</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F14202" audience="Particuliers">
+<Titre>Prestation de compensation du handicap (PCH)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R19993" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13788.do" numerocerfa="13788*01" type="Formulaire">
+<Titre>Formulaire de demande(s) de prestations liées au handicap</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R19994" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13788*01&amp;cerfaNotice=51299" numerocerfa="51299*01">Notice explicative du formulaire de demande(s) auprès de la maison départementale des personnes handicapées (MDPH)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13878*01">
+<Titre>Certificat médical adulte/enfant</Titre>
+<Texte><Paragraphe>À joindre à toutes demandes de prestations</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13878.do"/><NoticeLiee ID="R19497" URL="http://www.cnsa.fr/documentation/mode_d_emploi_certificat_mdph_octobre_2009.pdf" format="pdf" poids="27.3 KB">Guide d'utilisation du certificat médical destiné à la MDPH</NoticeLiee>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42086" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15417.do" numerocerfa="15417*01" type="Formulaire">
+<Titre>Chantier d'insertion : fiche salarié</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R3153" URL="http://www.fonction-publique.gouv.fr/archives/home20111012/article819cd59.html?artsuite=1" audience="Particuliers">
+<Titre>Le déroulement de carrière des fonctionnaires handicapés</Titre>
+<Source ID="R30602">Ministère en charge de la fonction publique</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41599" URL="http://www.agefiph.fr" audience="Particuliers">
+<Titre>Site de l'Agefiph</Titre>
+<Source ID="R30609">Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (Agefiph)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R19321">
+<Titre>Milieu ordinaire</Titre>
+<Texte>
+				<Paragraphe>Non spécifiquement réservé aux personnes handicapées</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F34063" audience="Particuliers">Qu'est-ce que le dispositif d'emploi accompagné des travailleurs handicapés ?</QuestionReponse>
+<QuestionReponse ID="F1650" audience="Particuliers">Comment être reconnu "travailleur handicapé" ?</QuestionReponse>
+<QuestionReponse ID="F2921" audience="Particuliers">Handicap : peut-on encore toucher la prime d'insertion ?</QuestionReponse>
+<QuestionReponse ID="F23149" audience="Particuliers">Handicap : quels travailleurs sont concernés par l'obligation d'emploi ?</QuestionReponse>
+<QuestionReponse ID="F21615" audience="Particuliers">Peut-on travailler et percevoir l'allocation aux adultes handicapés (AAH) ?</QuestionReponse>
+<QuestionReponse ID="F1658" audience="Particuliers">Handicap : qu'est-ce que l'aide à l'exercice d'une activité non salariée ?</QuestionReponse>
+</Publication>

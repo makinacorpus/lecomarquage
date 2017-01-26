@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31960" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le maire peut-il imposer l'achat de bacs à poubelle spécifiques ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le maire peut imposer l'achat de bacs à poubelle spécifiques </dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31960</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180990&amp;cidTexte=LEGITEXT000006070633</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31125</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31125">Déchets</Niveau>
+<Niveau ID="F31960" type="Fiche Question-réponse">Le maire peut-il imposer l'achat de bacs à poubelle spécifiques ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N31125">
+<Titre>Déchets</Titre>
+<Fiche ID="F16217">Ordures ménagères classiques</Fiche>
+<Fiche ID="F31954">Encombrants (déchets volumineux)</Fiche>
+<Fiche ID="F31955">Déchets d'équipements électriques et électroniques</Fiche>
+<Fiche ID="F31835">Local à poubelles d'un immeuble</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, le maire peut imposer l'achat de conteneurs spécifiques.</Paragraphe>
+<Paragraphe>En effet, le maire a le pouvoir de régler la présentation et les conditions de la remise des déchets en fonction de leurs caractéristiques.</Paragraphe>
+<Paragraphe>Un arrêté municipal fixe notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les modalités de collectes sélectives,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et impose la séparation de certaines catégories de déchets.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans ce cadre, le maire peut mettre à la charge des propriétaires l'achat de conteneurs ou bacs dotés de caractéristiques spécifiques notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la couleur des couvercles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la forme des bacs,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>la dimension des bacs,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>la capacité de contenance des bacs.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En pratique toutefois, de nombreuses communes fournissent gratuitement les conteneurs à poubelles aux usagers.</Paragraphe>
+<Paragraphe>Renseignez-vous auprès de votre mairie pour connaître les modalités de fourniture des bacs à ordures.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le règlement sanitaire départemental disponible en mairie peut également prévoir certaines règles concernant la présentation des déchets à la collecte.</Paragraphe>
+</ASavoir>
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour vous informer sur la réglementation applicable dans votre commune (hors Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour vous informer sur la réglementation applicable à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180990&amp;cidTexte=LEGITEXT000006070633" ID="R32486">
+<Titre>Code général des collectivités territoriales : articles L2224-13 à L2224-17-1</Titre>
+</Reference>
+<QuestionReponse ID="F31963" audience="Particuliers">Peut-on être sanctionné pour abandon de déchets dans la rue ?</QuestionReponse>
+
+</Publication>

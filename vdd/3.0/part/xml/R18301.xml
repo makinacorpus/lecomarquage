@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18301" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Confirmer sa déclaration d'opposition téléphonique à sa carte bancaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Permet de confirmer auprès de sa banque sa demande d'opposition effectuée par téléphone suite à la perte ou au vol de sa carte bancaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-15</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18301</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18301" type="Modèle de document">Confirmer sa déclaration d'opposition téléphonique à sa carte bancaire</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de confirmer auprès de sa banque sa demande d'opposition effectuée par téléphone suite à la perte ou au vol de sa carte bancaire</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.conso.net/content/votre-carte-bancaire-disparu-vous-faites-opposition-aupr%C3%A8s-de-votre-banque">
+<Source>Institut national de la consommation (INC)</Source>
+</LienWeb>
+<FicheLiee ID="F2428" audience="Particuliers" type="Fiche d'information">
+<Titre>Blocage complet de la carte bancaire : opposition générale</Titre>
+<Dossier ID="N91">Moyens de paiement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31241" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Que faire en cas de vol ou de perte de sa carte bancaire ?</Titre>
+<Dossier ID="N91">Moyens de paiement</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

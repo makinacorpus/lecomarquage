@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17454" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Reçu au titre des dons à certains organismes d'intérêt général</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association, Financement et fiscalité d'une association, Argent, Fiscalité</dc:subject>
+<dc:description>Permet aux associations et organismes d'intérêt général bénéficiaires de dons ou de cotisations de délivrer une attestation au donateur ou à l'adhérent, afin qu'il bénéficie d'une réduction d'impôt Permet aussi de justifier des sommes correspondant à une renonciation par un bénévole au remboursement de ses frais Pour les dons en nature, il faut indiquer leur évaluation en numéraire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-12</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17454</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N10812">Allégements fiscaux</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17454" type="Formulaire">Reçu au titre des dons à certains organismes d'intérêt général</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11580*03</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet aux associations et organismes  d'intérêt général bénéficiaires de dons ou de cotisations  de délivrer une attestation au donateur ou à l'adhérent, afin qu'il bénéficie d'une réduction d'impôt</Paragraphe>
+<Paragraphe>Permet aussi de justifier des sommes correspondant à une renonciation par un bénévole au remboursement de ses frais</Paragraphe>
+<Paragraphe>Pour les dons en nature, il faut indiquer leur évaluation en numéraire</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.impots.gouv.fr/portail/files/media/1_metier/2_professionnel/EV/2_gestion/230_association/titre_dons_organisme_interet_general.pdf" format="application/pdf" poids="91.1 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F3177" audience="Associations" type="Fiche Question-réponse">
+<Titre>Comment estimer la valeur des aides en nature dont bénéficie une association ?</Titre>
+<Dossier ID="N21960">Collecte de fonds par une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F3175" audience="Associations" type="Fiche d'information">
+<Titre>Cotisation à une association</Titre>
+<Dossier ID="N21960">Collecte de fonds par une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2722" audience="Associations" type="Fiche d'information">
+<Titre>Dons, donations et legs au bénéfice d'une association</Titre>
+<Dossier ID="N21960">Collecte de fonds par une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1132" audience="Associations" type="Fiche Question-réponse">
+<Titre>Frais engagés par les bénévoles d'une association : quelle fiscalité ?</Titre>
+<Dossier ID="N22150">Bénévoles, volontaires et salariés d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F426" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : réduction pour dons à des organismes d'intérêt général</Titre>
+<Dossier ID="N19785">Impôt sur le revenu : déductions, réductions et crédits d'impôt</Dossier>
+</FicheLiee>
+<FicheLiee ID="F427" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu - Don à un parti politique (réduction d'impôt)</Titre>
+<Dossier ID="N19785">Impôt sur le revenu : déductions, réductions et crédits d'impôt</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22263" audience="Professionnels" type="Fiche d'information">
+<Titre>Mécénat d'entreprise et dons aux associations</Titre>
+<Dossier ID="N10812">Allégements fiscaux</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

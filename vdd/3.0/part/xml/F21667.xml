@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21667" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Demande de tutelle, curatelle... : comment obtenir le certificat médical ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Pour demander l'ouverture d'une mesure de protection juridique pour un majeur, il faut d'abord solliciter un certificat médical auprès d'un médecin</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21667</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182240&amp;cidTexte=LEGITEXT000006071154, http://www.textes.justice.gouv.fr/art_pix/boj_20090001_0000_0036.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N155</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N155">Protection juridique (tutelle, curatelle...)</Niveau>
+<Niveau ID="F21667" type="Fiche Question-réponse">Demande de tutelle, curatelle... : comment obtenir le certificat médical ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20091">Protection des personnes</SousThemePere><DossierPere ID="N155">
+<Titre>Protection juridique (tutelle, curatelle...)</Titre>
+<Fiche ID="F2075">Sauvegarde de justice</Fiche>
+<Fiche ID="F33367">Habilitation familiale</Fiche>
+<Fiche ID="F2094">Curatelle</Fiche>
+<Fiche ID="F2120">Tutelle d'une personne majeure</Fiche>
+<Fiche ID="F1336">Mesure d'accompagnement social personnalisé (Masp) ou judiciaire (Maj)</Fiche>
+<Fiche ID="F16670">Mandat de protection future</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Pour demander l'ouverture d'une mesure de protection juridique pour un majeur (tutelle, curatelle ou sauvegarde de justice), il faut d'abord solliciter un certificat médical auprès d'un médecin. Ce médecin ne doit pas être  le médecin traitant de la personne protégée. </Paragraphe>
+<Paragraphe>Ce certificat qui établit l'altération des facultés de la personne doit être rédigé par un médecin inscrit sur une liste établie par le procureur de la République.</Paragraphe>
+<Paragraphe>Cette liste est disponible auprès du service civil du parquet des tribunaux de grande instance, ou du service des tutelles du tribunal d'instance dont dépend la personne à placer sous protection. </Paragraphe>
+<Paragraphe>Ce médecin a la possibilité de demander l'avis du médecin traitant de la personne.</Paragraphe>
+<Paragraphe>Le certificat circonstancié décrit l'altération des facultés du majeur et l'évolution prévisible.</Paragraphe>
+<Paragraphe>Il précise les conséquences de cette altération sur la nécessité d'être assisté ou représenté, et indique si la personne est en état d'être entendue.</Paragraphe>
+<Paragraphe>Le coût du certificat médical est de <Valeur>160 €</Valeur>. Des frais de déplacement peuvent s'ajouter.</Paragraphe>
+<Paragraphe>Si la personne faisant objet de la demande ne se rend pas au rendez-vous, une somme forfaitaire de <Valeur>30 €</Valeur> devra être versée.</Paragraphe>
+<Paragraphe>Le certificat est remis au demandeur de la mesure sous pli cacheté, à l'attention exclusive du juge des tutelles ou du procureur de la République.</Paragraphe>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Texte>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<Complement>Pour demander la liste des médecins</Complement>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182240&amp;cidTexte=LEGITEXT000006071154" ID="R38821">
+<Titre>Code de procédure pénale : articles R217 à R217-1</Titre>
+<Complement>Coût du certificat médical</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.textes.justice.gouv.fr/art_pix/boj_20090001_0000_0036.pdf" ID="R45569" format="application/pdf" poids="754.5 KB">
+<Titre>Circulaire du 9 février 2009 relative à la réforme du droit de la protection juridique des mineurs et majeurs</Titre>
+<Complement>Frais de déplacement</Complement>
+</Reference>
+</Publication>

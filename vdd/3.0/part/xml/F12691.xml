@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12691" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on vendre, donner ou léguer une concession funéraire dans un cimetière ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Oui, il est possible de donner ou léguer une concession funéraire dans un cimetière mais pas de la vendre.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-08</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12691</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N165</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N165">Obsèques et modes de sépulture</Niveau>
+<Niveau ID="F12691" type="Fiche Question-réponse">Peut-on vendre, donner ou léguer une concession funéraire dans un cimetière ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N31161">Décès</SousThemePere><DossierPere ID="N165">
+<Titre>Obsèques et modes de sépulture</Titre>
+<Fiche ID="F909">Déclaration de décès</Fiche>
+<Fiche ID="F14935">Inhumation</Fiche>
+<Fiche ID="F1558">Crémation</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, si vous êtes titulaire d'une <LienInterne LienPublication="F31001" type="Fiche Question-réponse" audience="Particuliers">concession funéraire</LienInterne>, vous pouvez en disposer par don ou <LienIntra LienID="R15809" type="Définition de glossaire">legs</LienIntra>, mais vous n'avez pas le droit de la vendre.</Paragraphe>
+<Paragraphe>Le bénéficiaire ne peut être qu'un membre de votre famille, sauf si la concession n'a pas encore été utilisée.</Paragraphe>
+<Paragraphe>Un nouvel acte doit alors être passé en mairie pour établir le nouveau titulaire de la concession.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous ne prenez pas de dispositions (ni donation, ni legs), la concession est transmise à votre décès à l'ensemble de vos <LienIntra LienID="R12469" type="Définition de glossaire">héritiers</LienIntra>.</Paragraphe>
+</ASavoir><Paragraphe>En cas de déménagement ou de changement de choix d'obsèques, vous pouvez aussi rétrocéder votre concession à la commune à condition que vous en soyez le titulaire et qu'aucun corps n'y ait été inhumé.</Paragraphe>
+<Paragraphe>Il ne s'agit pas d'une vente mais d'une renonciation à tout droit sur la concession qui s'accompagne d'une indemnisation en cas d'acceptation par la commune.</Paragraphe>
+<Paragraphe>Cette indemnisation est proportionnelle au temps restant à courir de la durée de la concession.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Texte><Definition ID="R12469">
+<Titre>Héritier</Titre>
+<Texte>
+				<Paragraphe>Personne désignée par la loi pour recueillir la succession d'une personne décédée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136269&amp;cidTexte=LEGITEXT000006070721" ID="R38485">
+<Titre>Code civil : articles 731 et 732</Titre>
+</Reference>
+</Definition>
+<Definition ID="R15809">
+<Titre>Legs</Titre>
+<Texte>
+				<Paragraphe>Bien donné par testament à une personne</Paragraphe>
+			</Texte>
+</Definition>
+<CommentFaireSi ID="F16507">Je dois faire face au décès d'un proche</CommentFaireSi>
+
+</Publication>

@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2971" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>CSG et CRDS sur les revenus d'activité et de remplacement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>La contribution sociale généralisée (CSG) et la contribution au remboursement de la dette sociale (CRDS) sont prélevées sur les revenus d'activité et de remplacement (indemnités de chômage, pensions de retraite, etc.). Le taux est différent selon les revenus concernés. Les personnes dont les revenus sont inférieurs à certains plafonds bénéficient d'un taux réduit ou d'une exonération. Par ailleurs, certains revenus sont exonérés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2971</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173055&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173099&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197369&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000190291, http://bofip.impots.gouv.fr/bofip/5658-PGP, http://www.legislation.cnav.fr/Documents/circulaire_cnav_2016_56_30122016.pdf, http://www.legislation.cnav.fr/Documents/circulaire_cnav_2015_03_26012015.pdf, http://www.securite-sociale.fr/IMG/pdf/csg_crds2012.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17580</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N17580">Contributions sociales (CSG, CRDS)</Niveau>
+<Niveau ID="F2971" type="Fiche d'information">CSG et CRDS sur les revenus d'activité et de remplacement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N17580">
+<Titre>Contributions sociales (CSG, CRDS)</Titre>
+<Fiche ID="F2971">Revenus d'activité et de remplacement</Fiche>
+<Fiche ID="F2329">Revenus du capital</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La contribution sociale généralisée (CSG) et la contribution au remboursement de la dette sociale (CRDS) sont prélevées sur les revenus d'activité et de remplacement (indemnités de chômage, pensions de retraite, etc.). Le taux est différent selon les revenus concernés. Les personnes dont les revenus sont inférieurs à certains plafonds bénéficient d'un taux réduit ou d'une exonération. Par ailleurs, certains  revenus sont exonérés.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Revenus concernés</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Revenus d'activité et assimilés</Paragraphe>
+</Titre><Paragraphe>La CSG et la CRDS sont prélevées sur le montant brut des revenus salariés ou non salariés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Salaires</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Primes et indemnités diverses</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Avantages en nature ou en espèces (si la rémunération est exclusivement constituée d'avantages en nature, elle est exonérée de CSG et de CRDS),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Bénéfices industriels et commerciaux</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Bénéfices agricoles...</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Revenus de remplacement</Paragraphe>
+</Titre><Paragraphe>Sous réserve de certaines exonérations, CSG et CRDS sont prélevées sur tous les <LienIntra LienID="R12461" type="Définition de glossaire">revenus de remplacement</LienIntra>, notamment les revenus suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Allocations chômage</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Allocations de préretraite</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pensions de retraite</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pensions d'invalidité</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Rentes viagères à titre gratuit</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Indemnités et allocations diverses.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>  les pensions de retraites, préretraites et pensions d'invalidité sont aussi soumises à une <LienInterne LienPublication="F31408" type="Fiche Question-réponse" audience="Particuliers">contribution de solidarité pour l'autonomie (Casa)</LienInterne>
+</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Taux</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Taux normal de CSG</Paragraphe>
+</Titre><Tableau>
+<Titre> CSG et  CRDS - Revenus d'activité et de remplacement - Taux normal </Titre>
+<Colonne largeur="28" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="27" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Nature des revenus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux global CSG</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux CSG déductible de l'impôt sur le revenu</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux CRDS</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Assiette (Base de calcul)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Revenus d'activité salariée</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5,1 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>98,25 %</Valeur> du revenu brut si le montant ne dépasse pas <Valeur>156 912 €</Valeur> </Paragraphe>
+<Paragraphe>
+<Valeur>100 %</Valeur> au delà</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Compléments du salaire (exemple : sommes liées à l'intéressement)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5,1 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur> du revenu brut</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocations chômage</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,2 %</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3,8 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>98,25 %</Valeur> du revenu brut si le montant ne dépasse pas <Valeur>156 912 €</Valeur>
+</Paragraphe>
+<Paragraphe>
+<Valeur>100 %</Valeur> au delà</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Pensions de retraite </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,6 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4,2 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur> du revenu brut</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Pensions  d'invalidité</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,6 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4,2 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur> du revenu brut</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocations de préretraite</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,5 %</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4,2 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur> de l'allocation brute</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocations de préretraite, si la préretraite ou la cessation anticipée d'activité a pris effet avant le 11 octobre 2007 </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,6 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4,2 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur> de l'allocation brute</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Indemnités journalières de sécurité sociale (IJSS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,2 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3,8 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur> des IJSS brutes</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Taux réduit de CSG</Paragraphe>
+</Titre><Paragraphe>Le taux réduit de CSG, fixé à <Valeur>3,8 %</Valeur>, concerne les revenus suivants : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Pensions de retraite et allocations de préretraite</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pensions d'invalidité</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Allocations chômage (y compris l'indemnité d'activité partielle)</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il s'applique si votre <LienInterne LienPublication="F13216" type="Fiche Question-réponse" audience="Particuliers">revenu fiscal de référence</LienInterne>  de l'avant-dernière année est compris entre un montant plancher et un montant plafond, variant selon le nombre de parts de quotient familial auxquels vous avez droit. En dessous du montant plancher, vous êtes exonéré.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Taux réduit de CSG en 2017</Paragraphe>
+</Titre><Tableau>
+<Titre>Application du taux réduit de CSG en 2017 selon le montant du revenu fiscal de référence de 2015 (avis d'imposition 2016)</Titre>
+<Colonne largeur="26" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="49" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Quotient familial</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>Revenu fiscal de référence</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Montant plancher </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant plafond</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 996 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>14 375</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1,5 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 932 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>18 213 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16 868 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>22 051 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2,5 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>19 804 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>25 889 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>22 740 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>29 727 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3,5 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>25 676 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>33 565 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>4 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28 612 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>37 403 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Quart de part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 468 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 919 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Demi-part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 936 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 838 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Taux réduit de CSG en 2016</Paragraphe>
+</Titre><Tableau>
+<Titre>Application du taux réduit de CSG en 2016 selon le montant du revenu fiscal de référence de 2014</Titre>
+<Colonne largeur="26" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Quotient familial</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>Revenu fiscal de référence</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Montant plancher </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant plafond</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 676 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 956 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1,5 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 526 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>17 682 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16 376 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>21 408 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2,5 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>19 226 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>25 134 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>22 076 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28 860 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3,5 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>24 926 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>32 586 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>4 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>27 776 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>36 312 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Demi-part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 850 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 726 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Exonérations</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Revenus perçus par les jeunes</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Sommes perçues par les étudiants et les apprentis</Paragraphe>
+</Titre><Paragraphe>Les sommes suivantes sont exonérées de CSG et de CRDS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Rémunération d'un apprenti</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Bourse versée aux étudiants sous condition de ressources</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Rémunération du stagiaire demandeur d'emploi en formation professionnelle</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Sommes perçues dans le cadre du volontariat ou de la coopération</Paragraphe>
+</Titre><Paragraphe>Les sommes suivantes sont exonérées de CSG et de CRDS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Indemnité mensuelle et indemnité supplémentaire versées dans le cadre de l'accomplissement d'un volontariat international (en entreprise ou en administration)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Allocation et prime versées dans le cadre du contrat de volontariat pour l'insertion</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Indemnité versée dans le cadre d'un contrat de volontariat de solidarité internationale (VSI)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Indemnité versée dans le cadre d'un contrat de volontariat associatif et de l'engagement éducatif</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Prestations et indemnité forfaitaire d'entretien versées dans le cadre du service national actif effectué dans les services de la coopération ou de l'aide technique</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Revenus liés à la famille</Paragraphe>
+</Titre><Paragraphe>Certains revenus sont exonérés de CSG et de CRDS. D'autres sont seulement exonérés de CSG.</Paragraphe>
+<Tableau>
+<Titre>Exonération de CSG et/ou CRDS sur les revenus liés à la famille </Titre>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de revenu</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exonération de CSG</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exonération de CRDS</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation d'éducation de l'enfant handicapé (AEEH)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocations familiales</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation journalière de présence parentale (AJPP)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation de soutien familial (ASF)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation de rentrée scolaire (ARS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Complément familial</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Pension alimentaire </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Prestation d'accueil du jeune enfant (Paje)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Revenus liés au travail</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Allocations de chômage</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En 2017</Paragraphe>
+</Titre><Paragraphe>Les allocations de chômage sont exonérées de CSG et de CRDS dans les 2 cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Le prélèvement de CSG et de CRDS ferait baisser le montant net de l'allocation en dessous du Smic brut</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Le <LienInterne LienPublication="F13216" type="Fiche Question-réponse" audience="Particuliers">revenu fiscal de référence</LienInterne> du bénéficiaire est inférieur à un certain montant.</Paragraphe>
+</Item>
+</Liste>
+<Tableau>
+<Titre>Exonération des allocations chômage en 2017 : plafond de revenu selon le nombre de parts de quotient familial</Titre>
+<Colonne largeur="30" type="header"/>
+<Colonne largeur="77" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Quotient familial</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenu fiscal de référence  2015 (avis d'imposition 2016)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 996 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1,5 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 932 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16 868 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par quart de part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 468 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par demi-part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 936 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En 2016</Paragraphe>
+</Titre><Paragraphe>Les allocations de chômage sont exonérées de CSG et de CRDS dans les 2 cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Le prélèvement de CSG et de CRDS ferait baisser le montant net de l'allocation en dessous du Smic brut</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Le <LienInterne LienPublication="F13216" type="Fiche Question-réponse" audience="Particuliers">revenu fiscal de référence</LienInterne> du bénéficiaire est inférieur à certaines limites.</Paragraphe>
+</Item>
+</Liste>
+<Tableau>
+<Titre>Exonération des allocations chômage en 2016 : plafond de revenu selon le nombre de parts de quotient familial</Titre>
+<Colonne largeur="30" type="header"/>
+<Colonne largeur="77" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Quotient familial</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenu fiscal de référence  2014 (avis d'imposition 2015)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 676 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1,5 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 526 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16 376 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par quart de part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 425 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par demi-part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 850 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Frais professionnels</Paragraphe>
+</Titre><Paragraphe>Les sommes suivantes sont exonérées de CSG et de CRDS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Contribution patronale au ticket restaurant, dans certaines limites</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Contribution patronale au remboursement des frais de transport, dans certaines limites</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Chèque-repas bénévole </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Aides sociales</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Prestations exonérées de CSG et de CRDS</Paragraphe>
+</Titre><Paragraphe>Les prestations suivantes sont exonérées de CSG et de CRDS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Prime forfaitaire mensuelle versée aux bénéficiaires de l'allocation de solidarité spécifique (ASS) et de l'allocation temporaire d'attente (Ata) reprenant une activité professionnelle </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Allocation aux adultes handicapés (AAH)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Allocation personnalisée d'autonomie (Apa)</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Prestations exonérées de CSG</Paragraphe>
+</Titre><Paragraphe>Les sommes suivantes sont exonérées de CSG, mais pas de CRDS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Revenu de solidarité active (RSA) </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Prime d'activité</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Allocations logement</Paragraphe>
+</Titre><Paragraphe>Les sommes suivantes sont exonérées de CSG mais pas de  CRDS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Allocation de logement sociale (ALS) </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Allocation de logement familiale (ALF) </Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Aide personnalisée au logement (APL) </Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Revenus liés à la retraite et à l'invalidité</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Pensions de retraite et d'invalidité</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En 2017</Paragraphe>
+</Titre><Paragraphe>Les pensions de retraite et d'invalidité sont exonérées de CSG et de CRDS dans les 2 cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Le bénéficiaire perçoit un avantage vieillesse ou d'invalidité <LienIntra LienID="R1081" type="Définition de glossaire">non contributif</LienIntra> attribué sous condition de ressources</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Le <LienInterne LienPublication="F13216" type="Fiche Question-réponse" audience="Particuliers">revenu fiscal de référence</LienInterne> du bénéficiaire est inférieur à certaines limites</Paragraphe>
+</Item>
+</Liste>
+<Tableau>
+<Titre>Exonération des pensions de retraite et d'invalidité en 2016 : plafond de revenus selon le nombre de parts de quotient familial</Titre>
+<Colonne largeur="30" type="header"/>
+<Colonne largeur="77" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Quotient familial</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenu fiscal de référence  2015 (avis d'imposition 2016)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 996 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1,5 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 932 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16 868 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par quart de part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 468 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par demi-part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 936 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En 2016</Paragraphe>
+</Titre><Paragraphe>Les pensions de retraite et d'invalidité sont exonérées de CSG et de CRDS dans les 2 cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Le bénéficiaire perçoit un avantage vieillesse ou d'invalidité <LienIntra LienID="R1081" type="Définition de glossaire">non contributif</LienIntra> attribué sous condition de ressources</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Le <LienInterne LienPublication="F13216" type="Fiche Question-réponse" audience="Particuliers">revenu fiscal de référence</LienInterne> du bénéficiaire est inférieur à certaines limites</Paragraphe>
+</Item>
+</Liste>
+<Tableau>
+<Titre>Exonération des pensions de retraite et d'invalidité en 2015 : plafond de revenus   selon le nombre de parts de quotient familial</Titre>
+<Colonne largeur="30" type="header"/>
+<Colonne largeur="77" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Quotient familial</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenu fiscal de référence  2014 (avis d'imposition 2015)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 676 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1,5 part</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 526 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 parts</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16 376 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par quart de part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 425 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par demi-part supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 850 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autres sommes liées à la retraite et à l'invalidité</Paragraphe>
+</Titre><Paragraphe>Les sommes suivantes sont exonérées de CSG et de CRDS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Pension militaire d'invalidité et des victimes de guerre, retraite du combattant, pension temporaire d'orphelin</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Rente viagère ou capital versés aux victimes d'accidents du travail ou de maladies professionnelles ou à leurs ayants droit</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Allocation d'assurance veuvage versée par la Sécurité sociale</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2329" audience="Particuliers">
+<Titre>Contributions sociales sur les revenus du capital</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173055&amp;cidTexte=LEGITEXT000006073189" ID="R31820">
+<Titre>Code de la sécurité sociale : articles L136-1 à L136-5</Titre>
+<Complement>Personnes assujetties (articles L136-1), Sommes exonérées de CSG (article 136-2), assiette des contributions (article L136-2)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173099&amp;cidTexte=LEGITEXT000006073189" ID="R31821">
+<Titre>Code de la sécurité sociale : article L136-8</Titre>
+<Complement>Taux des contributions sociales</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197369&amp;cidTexte=LEGITEXT000006069577" ID="R39343">
+<Titre>Code général des impôts : article 154 quinquies</Titre>
+<Complement>Déductibilité partielle de la CSG</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000190291" ID="R18913">
+<Titre>Ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/5658-PGP" ID="R39344">
+<Titre>Bofip-impôts n°BOI-RSA-BASE-30-30 relatif à la déductibilité de la CSG sur les revenus d'activité et de remplacement</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legislation.cnav.fr/Documents/circulaire_cnav_2016_56_30122016.pdf" ID="R42062">
+<Titre>Circulaire CNAV n°2016-56 du 30 décembre 2016 relative aux conditions d'assujettissement et d'exonération à la CSG, CRDS et à la Casa à compter du 1er janvier 2017</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legislation.cnav.fr/Documents/circulaire_cnav_2015_03_26012015.pdf" ID="R39519">
+<Titre>Circulaire Cnav n°2015-3 du 26 janvier 2015 relative aux prélèvements sociaux sur les retraites versées à partir de janvier 2015</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.securite-sociale.fr/IMG/pdf/csg_crds2012.pdf" ID="R2188" format="application/pdf" poids="43.2 KB">
+<Titre>Circulaire N°DSS/5B/2011/495 du 30 décembre 2011 relative à l'abattement pour frais professionnels de la contribution sociale généralisée (CSG)</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41642" URL="http://www.securite-sociale.fr/" audience="Particuliers">
+<Titre>Portail du service public de la sécurité sociale</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+<Definition ID="R1081">
+<Titre>Avantage non contributif (Sécurité sociale)</Titre>
+<Texte>
+				<Paragraphe>Prestation dont le versement ne dépend pas de la cotisation préalable de l'assuré. Par exemple, l'allocation de solidarité aux personnes âgées (ASPA)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12461">
+<Titre>Revenus de remplacement</Titre>
+<Texte>
+				<Paragraphe>Revenus perçus en remplacement de la rémunération que l'on reçoit quand on travaille (exemples : allocations  chômage, indemnités pour cause de maladie)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31408" audience="Particuliers">En quoi consiste la contribution de solidarité pour l'autonomie (Casa) ?</QuestionReponse>
+<QuestionReponse ID="F13216" audience="Particuliers">Qu'est-ce que le revenu fiscal de référence ?</QuestionReponse>
+</Publication>

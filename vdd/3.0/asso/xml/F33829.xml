@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33829" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Une congrégation religieuse est-elle une association ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Associations spécifiques et fondations</dc:subject>
+<dc:description>Les congrégations religieuses relèvent d'un régime juridique particulier distinct du régime applicable aux associations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33829</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N558</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31406">Associations spécifiques et fondations</Niveau>
+<Niveau ID="N558">Associations sous régime légal spécial</Niveau>
+<Niveau ID="F33829" type="Fiche Question-réponse">Une congrégation religieuse est-elle une association ?</Niveau>
+</FilDAriane>
+<Theme ID="N31406">
+<Titre>Associations spécifiques et fondations</Titre>
+</Theme><DossierPere ID="N558">
+<Titre>Associations sous régime légal spécial</Titre>
+<Fiche ID="F21925">Associations cultuelles</Fiche>
+<Fiche ID="F1319">Associations syndicales de propriétaires</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Non, les congrégations religieuses relèvent d'un régime juridique particulier.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Les groupements formés pour subvenir aux frais, à l'entretien et à l'exercice public d'un culte doivent être constitués sous forme <LienInterne LienPublication="F21925" type="Fiche d'information" audience="Associations">d'association.</LienInterne>
+</Paragraphe>
+<Paragraphe>En revanche, la reconnaissance légale du statut de congrégation est accordée sur demande par décret en Conseil d’État.</Paragraphe>
+<Paragraphe>Il n'existe pas de définition légale de la congrégation. Toutefois, un groupement constitue une congrégation religieuse lorsque ses membres ont prononcé des vœux marquant leur volonté :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> de se soumettre à une autorité religieuse,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> de se contraindre à la pratique effective des vœux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> de participer aux activités de la congrégation en contrepartie d'une prise en charge de tous leurs besoins (logement, nourriture, ...).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La dissolution d'une congrégation ou la suppression d'un établissement congréganiste ne peut également être prononcée que par décret en Conseil d’État.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F21925" audience="Associations">
+<Titre>Associations cultuelles</Titre>
+<Theme ID="N31406">
+<Titre>Associations spécifiques et fondations</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R2536" type="National">
+<Titre>Bureau central des cultes - Ministère de l'intérieur</Titre>
+<Complement>Pour effectuer les démarches (congrégations)</Complement>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_180130"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570" ID="R1751">
+<Titre>Loi du 1er juillet 1901 relative au contrat d'association</Titre>
+<Complement>Article 13</Complement>
+</Reference>
+</Publication>

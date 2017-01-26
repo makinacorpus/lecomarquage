@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N91" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Moyens de paiement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Moyens de paiement : Carte bancaire, Chèques, Espèces, Transfert d'argent</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-04</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N91</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91" type="Dossier">Moyens de paiement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere>
+<SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre><Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre><Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre><Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre><Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R33867" URL="http://www.lesclesdelabanque.com/Web/Cdb/Particuliers/Content.nsf/DocumentsByIDWeb/6Y8G2U/$File/lettre-cheque-regularise-demande-levee-interdiction.docx" format="application/vnd.openxmlformats-officedocument.wordprocessingml.document" poids="53.4 KB" type="Modèle de document">
+<Titre>Demander la levée d'interdiction bancaire auprès de son agence bancaire</Titre>
+<Source ID="R30639">Fédération bancaire française</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33866" URL="http://www.lesclesdelabanque.com/Web/Cdb/Particuliers/Content.nsf/DocumentsByIDWeb/6Y8G2S/$File/lettre-regularisation-blocage-provision.docx" format="application/vnd.openxmlformats-officedocument.wordprocessingml.document" poids="52.1 KB" type="Formulaire">
+<Titre>Demander un blocage de provision en vue de la régularisation d'un chèque impayé</Titre>
+<Source ID="R30639">Fédération bancaire française</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R40666" URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/fraude-a-carte-paiement" audience="Particuliers">
+<Titre>La fraude à la carte de paiement</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R15035" URL="http://europa.eu/travel/money/index_fr.htm" audience="Particuliers">
+<Titre>Voyager en Europe : Argent</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39915" URL="http://www.abe-infoservice.fr/banque/moyens-de-paiement.html" audience="Particuliers">
+<Titre>Moyens de paiement</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39930" URL="http://www.abe-infoservice.fr/banque/moyens-de-paiement/carte-bancaire/quelques-conseils-dusage-a-lattention-des-detenteurs-de-carte-bancaire.html" audience="Particuliers">
+<Titre>Utilisation d'une carte bancaire</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39931" URL="http://www.abe-infoservice.fr/banque/moyens-de-paiement/carte-bancaire/la-fraude-a-la-carte-bancaire-ce-quil-faut-savoir.html" audience="Particuliers">
+<Titre>En cas de fraude à la carte bancaire</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R42949" URL="http://www.tarifs-bancaires.gouv.fr/" audience="Particuliers">
+<Titre>Principaux tarifs bancaires</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R43255" URL="http://www.abe-infoservice.fr/banque/moyens-de-paiement/le-paiement-sans-contact-comment-ca-marche.html" audience="Particuliers">
+<Titre>Le paiement sans contact : comment ça marche ?</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R43996" URL="http://www.lesclesdelabanque.fr/Web/Cdb/Particuliers/Content.nsf/DocumentsByIDWeb/6WEDCK?OpenDocument" audience="Particuliers">
+<Titre>Comment régulariser un chèque sans provision auprès du bénéficiaire ?</Titre>
+<Source ID="R30639">Fédération bancaire française</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F10410" audience="Particuliers">Qu'est-ce que le paiement sans contact ?</QuestionReponse>
+<QuestionReponse ID="F1930" audience="Particuliers">Comment régulariser un chèque sans provision ?</QuestionReponse>
+<QuestionReponse ID="F31241" audience="Particuliers">Que faire en cas de vol ou de perte de sa carte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F460" audience="Particuliers">Peut-on encore échanger des francs contre des euros ?</QuestionReponse>
+<QuestionReponse ID="F17519" audience="Particuliers">Dans quels pays peut-on payer en euros ?</QuestionReponse>
+<QuestionReponse ID="F2404" audience="Particuliers">Comment payer à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1424" audience="Particuliers">Quelle est la différence entre virement et prélévement bancaire ?</QuestionReponse>
+<QuestionReponse ID="F31240" audience="Particuliers">Peut-on récupérer une carte bancaire restée dans le distributeur de billets ?</QuestionReponse>
+<QuestionReponse ID="F24415" audience="Particuliers">Qu'est-ce qu'une carte de retrait ?</QuestionReponse>
+<CommentFaireSi ID="F14485">Je m'installe en couple</CommentFaireSi>
+<CommentFaireSi ID="F21829">Je veux gagner en autonomie avant 18 ans</CommentFaireSi>
+</Publication>

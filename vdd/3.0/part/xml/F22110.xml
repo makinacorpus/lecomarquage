@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F22110" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que devient le PTZ en cas de revente du logement ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Si vous aviez souscrit un prêt à taux zéro (PTZ) et que vous revendez le bien acquis avec ce prêt, vous devrez rembourser le solde.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-07</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F22110</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023361850&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20373</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="F22110" type="Fiche Question-réponse">Que devient le PTZ en cas de revente du logement ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere><DossierPere ID="N20373">
+<Titre>Crédit immobilier</Titre><SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre>
+<Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre>
+<Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous aviez souscrit un prêt à taux zéro (PTZ) et que vous revendez le bien acquis avec ce prêt, vous devrez rembourser le solde.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Si vous souhaitez acheter un nouveau bien, vous ne pourrez pas obtenir un nouveau PTZ, car ce dispositif est réservé aux primo-accédants. Ainsi, il  faudrait que vous ne soyez  plus  propriétaire de votre logement principal pendant 2 ans.</Paragraphe>
+<Paragraphe>Toutefois, vous pouvez, avec l'accord de la banque qui vous a accordé le PTZ, demander un transfert de votre prêt.</Paragraphe>
+<Paragraphe>Ce transfert ne concernera que le capital restant dû.</Paragraphe>
+<Paragraphe>Vous continuerez alors à rembourser le PTZ de la même manière qu'auparavant et pourrez utiliser les fonds pour acheter votre nouvelle résidence principale. Si le transfert intervient dans les 6 années qui suivent le versement du prêt, l'opération doit cependant <LienInterne LienPublication="F10871" type="Fiche d'information" audience="Particuliers">respecter les conditions d'éligibilité du PTZ</LienInterne>  à la date du transfert.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>ce transfert est soumis à l'accord de la banque émettrice du PTZ. Elle peut le refuser, notamment si elle considère que vos garanties sont insuffisantes.</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R42728" type="Centre de contact">
+<Titre>Informations sur le PTZ</Titre>
+<Complement>Pour un complément d'information</Complement><Texte>
+						
+								<Paragraphe>Un conseiller vous informera sur le PTZ</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>08 06 120 120</Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R16071" type="Centre de contact">
+<Titre>Votre banque</Titre>
+<Complement>Pour faire une demande de PTZ</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023361850&amp;cidTexte=LEGITEXT000006074096" ID="R23644">
+<Titre>Code de la construction et de l'habitation : article R31-10-2 à R31-10-5</Titre>
+</Reference>
+<QuestionReponse ID="F548" audience="Particuliers">Séparation : comment obtenir l'annulation de la garantie du co-emprunteur ?</QuestionReponse>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+</Publication>

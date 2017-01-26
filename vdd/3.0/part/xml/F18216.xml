@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F18216" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on encore bénéficier du bouclier fiscal en 2016 ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Non, le bouclier fiscal est supprimé depuis le 1 exposant er janvier 2013.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-13</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F18216</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024188657&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/2950-PGP.html?identifiant=BOI-CTX-BF-20120912</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N219</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N219">Impôt sur le revenu : paiement</Niveau>
+<Niveau ID="F18216" type="Fiche Question-réponse">Peut-on encore bénéficier du bouclier fiscal en 2016 ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N219">
+<Titre>Impôt sur le revenu : paiement</Titre>
+<Fiche ID="F3120">Paiement par acomptes (tiers provisionnels)</Fiche>
+<Fiche ID="F3122">Paiement par prélèvements mensuels (mensualisation)</Fiche>
+<Fiche ID="F52">Moyens de paiement</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Non, le bouclier fiscal est supprimé depuis le 1<Exposant>er</Exposant> janvier 2013.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Toutefois, l'imputation d'un reliquat de <LienIntra LienID="R12474" type="Définition de glossaire">créance</LienIntra> de "<Expression>bouclier fiscal</Expression>" est toujours possible sur l'impôt de solidarité sur la fortune (ISF) 2016. Le reliquat s'impute obligatoirement et uniquement sur les montants d'ISF dûs.</Paragraphe>
+<Paragraphe>Pour cette démarche, vous  devez remplir le fomulaire 2041-DRBF et le déposer auprès du service chargé du recouvrement de l'ISF (les coordonnées figurent sur votre avis d'imposition ou sur votre déclaration d'ISF). </Paragraphe><ServiceEnLigne ID="R17082" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-drbf/2013/2041-drbf_438.pdf" numerocerfa="13834*05" autrenumero="2041 DRBF" type="Formulaire">
+<Titre>Déclaration d'imputation d'une créance fiscale née du droit à restitution des impositions directes</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+
+<Paragraphe>La notice du formulaire explique la marche à suivre.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>vous pouvez demander la restitution du reliquat de la créance uniquement si vous n'êtes plus redevable de l'ISF ou si l'un des membres de votre foyer fiscal décède.</Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N20074" audience="Particuliers">
+<Titre>Impôt de solidarité sur la fortune (ISF)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service local gestionnaire de votre dossier et obtenir des informations supplémentaires</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024188657&amp;cidTexte=LEGITEXT000006069577" ID="R35343">
+<Titre>Code général des impôts : article 1649-0-A</Titre>
+<Complement>Plafonnement des impôts</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/2950-PGP.html?identifiant=BOI-CTX-BF-20120912" ID="R31726">
+<Titre>BOFIP-impôts n°BOI-CTX-BF-20120912 relatif au bouclier fiscal</Titre>
+</Reference>
+<Definition ID="R12474">
+<Titre>Créance</Titre>
+<Texte>
+				<Paragraphe>Droit permettant à une personne d'exiger quelque chose d'une autre personne, en général le paiement d'une somme d'argent. Le terme "créance" est souvent utilisé pour désigner la somme due.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

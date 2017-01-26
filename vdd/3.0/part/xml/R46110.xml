@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R46110" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Connaître le zonage de sa commune</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Connaître le zonage de sa commune</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-08</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R46110</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R46110" type="Simulateur">Connaître le zonage de sa commune</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>À la rubrique "Connaître le zonage de sa commune", vous devez renseigner votre région, département et commune afin d'obtenir le zonage correspondant. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.logement.gouv.fr/les-zonages-des-politiques-du-logement?id_courant=2094">
+<Source>Ministère en charge du logement</Source>
+</LienWeb>
+<FicheLiee ID="F10871" audience="Particuliers" type="Fiche d'information">
+<Titre>Prêt à taux zéro (PTZ)</Titre>
+<Dossier ID="N20373">Crédit immobilier</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22158" audience="Particuliers" type="Fiche d'information">
+<Titre>Prêt d'accession sociale (PAS)</Titre>
+<Dossier ID="N20373">Crédit immobilier</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31151" audience="Particuliers" type="Fiche d'information">
+<Titre>Réduction d'impôt pour investissement locatif (dispositifs Duflot/Pinel)</Titre>
+<Dossier ID="N19785">Impôt sur le revenu : déductions, réductions et crédits d'impôt</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

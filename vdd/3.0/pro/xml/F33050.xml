@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33050" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>À quoi correspond le code APE ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>À quoi correspond le code APE ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-19</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33050</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178890&amp;cidTexte=LEGITEXT000005634379, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000017765090</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31383</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31383">Règles comptables</Niveau>
+<Niveau ID="F33050" type="Fiche Question-réponse">À quoi correspond le code APE ?</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31382">Comptabilité</SousThemePere><DossierPere ID="N31383">
+<Titre>Règles comptables</Titre>
+<Fiche ID="F21852">Obligations comptables du commerçant</Fiche>
+<Fiche ID="F31214">Dépôt des comptes sociaux d'une société commerciale</Fiche>
+<Fiche ID="F23266">Comptabilité de l'auto-entrepreneur (régime micro-social)</Fiche>
+<Fiche ID="F21118">Droit au compte (en cas de refus d'ouverture d'un compte professionnel)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le code APE (activité principale exercée) permet d'identifier la branche d'activité principale de l'entreprise ou du travailleur indépendant. Sa fonction principale est statistique.</Paragraphe>
+<Paragraphe>Il est composé de 4 chiffres + 1 lettre, en référence à la nomenclature statistique nationale d'activités française (<LienExterne URL="http://www.insee.fr/fr/methodes/default.asp?page=nomenclatures/naf2008/naf2008.htm">NAF rév. 2</LienExterne>
+
+).</Paragraphe>
+<Paragraphe>Ce code est attribué par l'Insee lors de l'immatriculation ou la déclaration d'activité de l'entreprise, en fonction de l'activité principale déclarée et réellement exercée.</Paragraphe>
+<Paragraphe>Ce n'est pas le libellé du code APE qui détermine les activités exercées dans l'entreprise, mais bien celles inscrites sur l'extrait du RCS .</Paragraphe>
+<Paragraphe>Si une entreprise exerce plusieurs activités, ce qui rend difficile de déterminer son activité principale, c'est la ventilation du chiffre d'affaires ou des effectifs selon les branches qui est utilisée comme critère.</Paragraphe>
+<Paragraphe>Le code APE doit figurer sur les bulletins de paie des salariés.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Demande de modification</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Si le code APE ne correspond pas ou plus à l'activité principale, il est nécessaire d'en demander la modification.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En cas de changement d'activité</Paragraphe>
+</Titre><Paragraphe>Si l'activité de l'entreprise a changé, la demande de modification doit être adressée au centre de formalités des entreprises (CFE) dont vous dépendez qui effectuera les démarches nécessaires.</Paragraphe><OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour la correction d'une anomalie</Paragraphe>
+</Titre><Paragraphe>Si vous n'avez pas changé d'activité et que vous estimez que le code APE attribué par l'Insee doit être corrigé, il est nécessaire de le signaler à l'Insee. Selon que la demande de modification concerne l'entreprise ou seulement un établissement, les formulaires sont différents.</Paragraphe><ServiceEnLigne ID="R18901" URL="https://www.insee.fr/fr/statistiques/fichier/2015441/formulaire-APEN-V6-recto-verso.pdf" format="application/pdf" poids="0" type="Formulaire">
+<Titre>Demande de modification du code d'activité principale (APE) d'une entreprise</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+<Introduction>
+<Texte><Paragraphe>Si vous n'avez pas changé d'activité et que vous estimez que le code APE attribué par l'Insee doit être corrigé, ce formulaire est à retourner par courrier ou courriel sur papier à en-tête de votre entreprise, ou obligatoirement revêtu du cachet de votre entreprise, à la direction régionale de l'Insee qui gère votre dossier.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44645" URL="http://www.insee.fr/fr/service/entreprises/sirene/pdf/formulaire-APET-V6-recto-verso.pdf" format="application/pdf" poids="27.3 KB" type="Formulaire">
+<Titre>Demande de modification du code d'activité principale (APE) d'un établissement</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+<Texte><Paragraphe>Si vous n'avez pas changé d'activité et que vous estimez que le code APE attribué par l'Insee à un établissement doit être corrigé, la demande de modification doit être adressée par courrier ou par courriel, sur papier à en-tête ou revêtu du cachet de l'entreprise, à la direction régionale de l'Insee compétente pour le département d'implantation de votre siège social, de votre établissement ou de votre association. </Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En cas de double immatriculation (2 Siren et 2 Siret)</Paragraphe>
+</Titre><Paragraphe>Cette double immatriculation (deux Siren ou deux Siret) doit être signalée par écrit à la direction régionale de l'Insee compétente pour le département d'implantation du siège social ou de l'établissement.</Paragraphe>
+<Paragraphe>Dans l'éventualité de la suppression d'un double Siret, l'Insee se chargera de la notification aux administrations concernées.</Paragraphe><OuSAdresser ID="R2246" type="Local personnalisable">
+<Titre>Direction régionale de l'Insee</Titre>
+<PivotLocal>insee_siren_siret</PivotLocal>
+<RessourceWeb URL="http://www.insee.fr/fr/service/default.asp?page=entreprises/sirene/sirene_dr.htm"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178890&amp;cidTexte=LEGITEXT000005634379" ID="R40680">
+<Titre>Code de commerce : articles R123-220 à D123-236</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000017765090" ID="R44701">
+<Titre>Décret n°2007-1888 du 26 décembre 2007 portant approbation des nomenclatures d'activités et de produits françaises</Titre>
+</Reference>
+<ServiceEnLigne ID="R31516" URL="http://www.insee.fr/fr/methodes/default.asp?page=nomenclatures/naf2008/liste_n1.htm" type="Téléservice">
+<Titre>Recherche dans la nomenclature d'activités française (NAF)</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18901" URL="https://www.insee.fr/fr/statistiques/fichier/2015441/formulaire-APEN-V6-recto-verso.pdf" format="application/pdf" poids="0" type="Formulaire">
+<Titre>Demande de modification du code d'activité principale (APE) d'une entreprise</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44645" URL="http://www.insee.fr/fr/service/entreprises/sirene/pdf/formulaire-APET-V6-recto-verso.pdf" format="application/pdf" poids="27.3 KB" type="Formulaire">
+<Titre>Demande de modification du code d'activité principale (APE) d'un établissement</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R44686" URL="http://www.insee.fr/fr/methodes/default.asp?page=nomenclatures/naf2008/naf2008.htm" audience="Professionnels">
+<Titre>Nomenclature d'activités française - NAF rév. 2, 2008 (édition 2015)</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32887" audience="Professionnels">Comment déterminer la nature de l'activité d'une entreprise ?</QuestionReponse>
+<QuestionReponse ID="F2395" audience="Professionnels">Où peut-on consulter ou se procurer une convention collective ?</QuestionReponse>
+<QuestionReponse ID="F32135" audience="Professionnels">Comment obtenir un numéro Siren ou Siret ?</QuestionReponse>
+</Publication>

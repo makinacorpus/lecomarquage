@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32272" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Rapport civil et rapport fiscal dans une succession : quelles différences ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le rapport civil concerne le règlement de la succession alors que le rapport fiscal sert à calculer les droits de succession.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32272</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006150166&amp;cidTexte=LEGITEXT000006070721, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199106&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/1767-PGP.html?identifiant=BOI-ENR-DMTG-10-50-50, http://bofip.impots.gouv.fr/bofip/3354-PGP.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31160</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N31160">Droits de succession et de donation</Niveau>
+<Niveau ID="F32272" type="Fiche Question-réponse">Rapport civil et rapport fiscal dans une succession : quelles différences ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N31160">
+<Titre>Droits de succession et de donation</Titre><SousDossier ID="N31160-1">
+<Titre>Droits de succession</Titre>
+<Fiche ID="F80">Déclaration</Fiche>
+<Fiche ID="F17456">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14198">Calcul et paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N31160-2">
+<Titre>Droits de donation</Titre>
+<Fiche ID="F10203">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14205">Calcul et paiement</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le rapport civil concerne le règlement de la succession alors que le rapport fiscal sert à calculer les droits de succession.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Rapport civil</Paragraphe>
+</Titre><Paragraphe>La règle du rapport civil concerne le règlement de la succession. L'opération consiste à réintégrer fictivement dans le patrimoine du défunt les donations passées.  Les bénéficiaires des donations n'ont pas à se dessaisir des biens reçus, c'est leur valeur qui est ajoutée au patrimoine du défunt. </Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>1er cas : le défunt laisse au moins un héritier réservataire</Paragraphe>
+</Titre><Paragraphe>S'il y a au moins un <LienIntra LienID="R12674" type="Définition de glossaire">héritier réservataire</LienIntra>, le rapport des donations permet de vérifier qu'elles  n'entament pas la part d'héritage qui lui revient de droit.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>2nd cas : le défunt laisse au moins 2 héritiers</Paragraphe>
+</Titre><Paragraphe>S'il y a au moins 2 <LienIntra LienID="R12469" type="Définition de glossaire">héritiers</LienIntra> et que l'un d'eux a reçu une donation, le rapport des donations permet d'assurer une égalité de traitement entre les héritiers.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>certaines donations ne sont pas rapportables, notamment la donation faite hors part successorale, la donation-partage et le présent d'usage.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Rapport fiscal</Paragraphe>
+</Titre><Paragraphe>La règle du rapport fiscal concerne le calcul de l'impôt.</Paragraphe>
+<Paragraphe>Lors d'une succession, l'administration tient compte des donations effectuées par le défunt à l'héritier concerné pour <LienInterne LienPublication="F14198" type="Fiche d'information" audience="Particuliers">calculer l'impôt</LienInterne> : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les abattements sont appliqués après déduction de ceux dont l'héritier a déjà bénéficié sur la donation antérieure</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Les tranches du barème d'imposition et la réduction pour charge de famille déjà utilisée ne peuvent pas être à nouveau prises en compte</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Toutefois, les donations suivantes, régulièrement enregistrées, sont dispensées du rapport fiscal : <LienInterne LienPublication="F1266" type="Fiche d'information" audience="Particuliers">donation-partage transgénérationnelle</LienInterne>, <LienInterne LienPublication="F10203" type="Fiche d'information" audience="Particuliers">don familial de somme d'argent</LienInterne> et donations réalisées depuis un certain délai.</Paragraphe>
+<Tableau>
+<Titre>Délai entre 2 transmissions à titre gratuit pour pouvoir bénéficier de la dispense de rapport fiscal</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Date de la succession</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Délai minimum entre 2 transmissions à titre gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jusqu'au 31 décembre 1991</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas de dispense de rapport fiscal</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De janvier 1992 à décembre 2005</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De janvier 2006 au 30 juillet 2011</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>6 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Du 31 juillet 2011 au 16 août 2012</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>À partir du 17 août 2012</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>15 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Exemple : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>M. X donne 100 000 F à M. Y le 10 février 1994 ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>M. X donne de nouveau 15 000 € à M. Y le 5 avril 2004 ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>M. X décède le 20 mars 2015 laissant pour seul héritier M. Y.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le délai de rapport fiscal étant de 15 ans à la date d'ouverture de la succession (2015), il convient de réintégrer à l'actif successoral l'ensemble des donations passées depuis moins de quinze ans. La donation de 15 000 € (2004) sera donc rapportée à l'actif de la succession, mais celle de 100 000 F (1994) en sera dispensée.</Paragraphe>
+<Paragraphe>Lorsqu'aucune donation antérieure n'est rapportable, l'héritier concerné peut bénéficier une nouvelle fois :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de l<LienInterne LienPublication="F14198" type="Fiche d'information" audience="Particuliers">'abattement complet,</LienInterne> </Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>de l'application du barème fiscal,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et éventuellement d'une <LienInterne LienPublication="F14198" type="Fiche d'information" audience="Particuliers">réduction</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F14198" audience="Particuliers">
+<Titre>Droits de succession : calcul et paiement</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour s'informer, déposer la déclaration et payer les droits de succession si le défunt résidait en France</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<OuSAdresser ID="R122" type="Centre de contact">
+<Titre>Service des impôts des particuliers non résidents</Titre>
+<Complement>Pour s'informer, déposer la déclaration et payer les droits de succession si le défunt résidait à l'étranger</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0) 1 57 33 83 00
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 9h à 16h</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			sip.nonresidents[@]dgfip.finances.gouv.fr</Paragraphe>
+								<Paragraphe>(précisez vos noms, prénoms, adresse et numéro fiscal que vous trouverez sur votre avis d'imposition)</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+		
+			10, rue du Centre</Paragraphe>
+								<Paragraphe>TSA 10010</Paragraphe>
+								<Paragraphe>93465 Noisy-Le-Grand Cedex </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Si vous faites appel à un notaire pour le règlement de la succession</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006150166&amp;cidTexte=LEGITEXT000006070721" ID="R38108">
+<Titre>Code civil : articles 843 à 863</Titre>
+<Complement>Rapport des donations</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199106&amp;cidTexte=LEGITEXT000006069577" ID="R35056">
+<Titre>Code général des impôts : articles 779 à 787 C</Titre>
+<Complement>Rappel fiscal des donations antérieures (article 784)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/1767-PGP.html?identifiant=BOI-ENR-DMTG-10-50-50" ID="R38111">
+<Titre>Bofip impôts n°BOI-ENR-DMTG-10-50-50 relatif à la liquidation des droits en cas de transmissions à titre gratuit successives entre les mêmes personnes (règle du rapport fiscal)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3354-PGP.html" ID="R38007">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-10-50 relatif au calcul des droits de succession</Titre>
+</Reference>
+<ServiceEnLigne ID="R1241" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2017/2705-sd_47.pdf" format="application/pdf" poids="584.4 KB" numerocerfa="11277*07" autrenumero="2705-SD" type="Formulaire">
+<Titre>Déclaration de succession</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10280" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2017/2705-sd_46.pdf" format="application/pdf" poids="799.8 KB" numerocerfa="12322*02" autrenumero="2705-S" type="Formulaire">
+<Titre>Déclaration de succession (feuille de suite)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1243" URL="https://www.impots.gouv.fr/portail/files/formulaires/2709-sd/2017/2709-sd_33.pdf" format="application/pdf" poids="563.0 KB" numerocerfa="10820*07" autrenumero="2709" type="Formulaire">
+<Titre>Déclaration de succession (feuillet immeuble)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10279" URL="https://www.impots.gouv.fr/portail/formulaire/2705-sd/declaration-partielle-de-succession" numerocerfa="12321*06" autrenumero="2705-A" type="Formulaire">
+<Titre>Déclaration de succession (contrat d'assurance-vie)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R24553" URL="https://www.impots.gouv.fr/portail/node/4350" audience="Particuliers">
+<Titre>Je fais une donation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R15673" URL="https://www.impots.gouv.fr/portail/particulier/declarer-une-succesion" audience="Particuliers">
+<Titre>Déclarer une succession</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<Definition ID="R12674">
+<Titre>Héritier réservataire</Titre>
+<Texte>
+				<Paragraphe>Descendant, ou à défaut de descendant, le conjoint survivant, à qui la loi réserve une part d'héritage qui ne peut être diminuée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150544&amp;cidTexte=LEGITEXT000006070721" ID="R31562">
+<Titre>Code civil : articles 912 à 917</Titre>
+</Reference>
+</Definition>
+<Definition ID="R12469">
+<Titre>Héritier</Titre>
+<Texte>
+				<Paragraphe>Personne désignée par la loi pour recueillir la succession d'une personne décédée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136269&amp;cidTexte=LEGITEXT000006070721" ID="R38485">
+<Titre>Code civil : articles 731 et 732</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F14203" audience="Particuliers">Quels abattements et tarifs s'appliquent aux bénéficiaires d'une donation ?</QuestionReponse>
+</Publication>

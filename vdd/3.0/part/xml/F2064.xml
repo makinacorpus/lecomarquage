@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2064" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Allocations chômage : comment est calculé le salaire journalier de référence ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Le salaire journalier de référence, qui sert à calculer vos allocations chômage, est déterminé en fonction d'un salaire annuel de référence.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2064</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N178</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N178">Allocation chômage d'aide au retour à l'emploi (ARE)</Niveau>
+<Niveau ID="F2064" type="Fiche Question-réponse">Allocations chômage : comment est calculé le salaire journalier de référence ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N461">Chômage</SousThemePere><DossierPere ID="N178">
+<Titre>Allocation chômage d'aide au retour à l'emploi (ARE)</Titre>
+<Fiche ID="F14860">Conditions d'attribution et démarche</Fiche>
+<Fiche ID="F1447">Montant</Fiche>
+<Fiche ID="F1776">Durée du versement</Fiche>
+<Fiche ID="F1465">Cumul avec des revenus d'activité</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le salaire journalier de référence est égal au    <LienIntra LienID="R31070" type="Définition de glossaire">salaire annuel de référence</LienIntra>  divisé par le nombre de jours rémunérés. </Paragraphe>
+<Paragraphe>Exemple : si vous avez travaillé du 1<Exposant>er</Exposant> juillet 2014 au 28 février 2015, c'est-à-dire 243 jours, et avez perçu <Valeur>25 000 €</Valeur> de rémunération brute, votre salaire journalier de référence est : 25 000/243 = <Valeur>102,89 €</Valeur>
+</Paragraphe>
+<Paragraphe>Pour chaque mois, les rémunérations prises en compte ne peuvent pas dépasser <Valeur>13 076 €</Valeur>.</Paragraphe>
+<Paragraphe>Le  salaire annuel de référence est calculé à partir des rémunérations brutes des 12 mois civils précédant votre dernier jour travaillé et payé.</Paragraphe>
+<Tableau>
+<Titre>Type de rémunération prise en compte ou exclue pour la calcul du salaire journalier de référence</Titre>
+<Colonne largeur="54" type="header"/>
+<Colonne largeur="66" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de rémunération</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte ou exclue</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Indemnités de 13<Exposant>è</Exposant> mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte uniquement pour la fraction afférente au 12 mois</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Primes de bilan</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte uniquement pour la fraction afférente au 12 mois</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Gratifications perçues</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte uniquement pour la fraction afférente au 12 mois</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jours d'absence non payés et jours non rémunérés</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Remboursements pour frais professionnels </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Les jours d'absence non payés et jours non rémunérés </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Indemnités de licenciement ou de départ</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Indemnités de rupture conventionnelle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Indemnités compensatrices de congés payés</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Indemnités de préavis ou de non-concurrence</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Indemnités journalières de la Sécurité sociale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exclus</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe> Les jours durant lesquels vous n'avez pas été sous contrat avec un employeur au cours de ces 12 mois ne sont  pris en compte.</Paragraphe>
+<Paragraphe>De manière générale, toute somme qui ne trouve pas sa contrepartie dans l'exécution du contrat de travail est exclue. </Paragraphe>
+
+</Texte><OuSAdresser ID="R194" type="Local personnalisé sur SP">
+<Titre>Pôle emploi</Titre>
+<Complement>Pour plus d'information</Complement>
+<PivotLocal>pole_emploi</PivotLocal>
+<RessourceWeb URL="http://www.pole-emploi.fr/informations/votre-pole-emploi-@/votre_pole_emploi/" commentaireLien="Pôle emploi - réseau local"/>
+<Source ID="R30668">Pôle emploi</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768" ID="R785">
+<Titre>Arrêté du 25 juin 2014 portant agrément de la convention du 14 mai 2014 relative à l'indemnisation du chômage et les textes qui lui sont associés</Titre>
+<Complement>Articles 13, 14, 43 du règlement général annexé</Complement>
+</Reference>
+<Definition ID="R31070">
+<Titre>Salaire de référence</Titre>
+<Texte>
+				<Paragraphe>Salaire reconstitué à partir de rémunérations perçues pendant une période donnée. Permet par exemple le calcul du montant d'une indemnité.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F12386" audience="Particuliers">Comment est indemnisé un agent public en cas de chômage ?</QuestionReponse>
+<QuestionReponse ID="F2761" audience="Particuliers">Médiateur de Pôle emploi : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F31197" audience="Particuliers">Les allocations chômage peuvent-elles être réduites ou supprimées ?</QuestionReponse>
+<QuestionReponse ID="F31592" audience="Particuliers">Comment sont remboursées les allocations chômage ou solidarité perçues à tort ?</QuestionReponse>
+<QuestionReponse ID="F31225" audience="Particuliers">Licenciement pour inaptitude physique : quand débute le versement de l'ARE ?</QuestionReponse>
+</Publication>

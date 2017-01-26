@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16053" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce que la régularisation d'un étranger par le travail ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Le travailleur étranger en situation irrégulière peut obtenir, au titre de l'admission exceptionnelle au séjour, une carte de séjour salarié ou travailleur temporaire. Il s'agit de régularisations au cas par cas. L'étranger doit remplir des conditions d'ancienneté de séjour et de travail en France. Il doit déposer sa demande en préfecture.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16053</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024197289&amp;cidTexte=LEGITEXT000006070158, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000019108569&amp;cidTexte=LEGITEXT000006072050, http://circulaires.legifrance.gouv.fr/pdf/2012/11/cir_36120.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N107</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N107">Travail d'un étranger en France</Niveau>
+<Niveau ID="F16053" type="Fiche Question-réponse">Qu'est-ce que la régularisation d'un étranger par le travail ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N107">
+<Titre>Travail d'un étranger en France</Titre>
+<Fiche ID="F2728">Demande d'autorisation de travail</Fiche>
+<Fiche ID="F2733">Renouvellement de l'autorisation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le travailleur étranger  en situation irrégulière peut obtenir, au titre de l'admission exceptionnelle au séjour, une carte de séjour <Expression>salarié</Expression> ou <Expression>travailleur temporaire</Expression>. Il s'agit de régularisations au cas par cas. L'étranger doit remplir des conditions d'ancienneté de séjour et de travail en France. Il doit déposer sa demande en préfecture. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions à remplir</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Contrat ou promesse d'embauche</Paragraphe>
+</Titre><Paragraphe>L'étranger doit avoir un contrat de travail ou d'une promesse d'embauche.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Ancienneté de séjour et de travail en France</Paragraphe>
+</Titre><Paragraphe>L'étranger doit aussi justifier : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'une ancienneté de séjour en France de <MiseEnEvidence>5 ans</MiseEnEvidence> minimum, sauf exception,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et d'une ancienneté de travail de 8 mois sur les 2 dernières années ou de 30 mois  sur les 5 dernières années.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À titre exceptionnel, l'étranger séjournant depuis <MiseEnEvidence>3 ans</MiseEnEvidence> en France peut aussi demander un titre s'il prouve avoir travaillé 24 mois, dont 8 dans les 12 derniers mois.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les conditions au titre de l'emploi sont particulières pour l'étranger intérimaire ou employé dans l'économie solidaire ou disposant d'un cumul de petits contrats, comme l'employé à domicile.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Insertion</Paragraphe>
+</Titre><Paragraphe>L'étranger doit parler le français, au moins de façon élémentaire.</Paragraphe>
+<Paragraphe>Il ne doit pas représenter une menace pour l'ordre public, ni vivre en situation de polygamie en France.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarches</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+												<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											<Attention>
+<Titre>Attention</Titre>
+												<Paragraphe> il n'est pas possible d'effectuer les démarches dans certaines sous-préfectures.</Paragraphe>
+											</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R42203" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Service des titres de séjour</Titre>
+<PivotLocal>paris_ppp_titre_sejour</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour/Nous-contacter-Titre-de-sejour"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+<Paragraphe>Il doit présenter le formulaire <LienInterne LienPublication="R18894" type="Formulaire" audience="Particuliers">cerfa n°15186*01</LienInterne>, complété et signé par son employeur.</Paragraphe>
+<Paragraphe>Une liste des pièces à fournir lui est indiquée (justificatifs sur ses années de présence en France, bulletins de salaire, etc.).</Paragraphe>
+<Paragraphe>Un visa n'est pas exigé.</Paragraphe>
+<Paragraphe>La demande peut aussi faire partie d'un dépôt groupé organisé par un collectif de soutien aux travailleurs sans-papiers (syndicats, associations, etc.). </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Examen du dossier</Paragraphe>
+</Titre><Paragraphe>Le préfet peut  accorder le titre de séjour après :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>examen du dossier de l'étranger,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et instruction de la promesse d'embauche ou du contrat de travail  par le service de la main d’œuvre étrangère  de la <LienInterne LienPublication="R31466" type="Acronyme">Direccte</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La Direccte prend en compte les 5 critères suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'adéquation entre la qualification, l'expérience de l'étranger et les caractéristiques de l'emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> le respect par l'employeur de la législation relative au travail et à la protection sociale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'il s'agit d'une <LienIntra LienID="R1029" type="Définition de glossaire">profession réglementée</LienIntra>, le respect des règles d'exercice par l'employeur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les conditions d'emploi et de rémunération proposées à l'étranger,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le salaire qui doit être au moins égal au <LienInterne LienPublication="R31127" type="Acronyme">Smic</LienInterne> mensuel, soit <Valeur>1 480,27 €</Valeur> brut,</Paragraphe>
+<Paragraphe>(l'étranger peut éventuellement se prévaloir de plusieurs contrats  pour atteindre le Smic).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe> <LienInterne LienPublication="F3100" type="Fiche Question-réponse" audience="Particuliers">La situation de l'emploi</LienInterne>, un autre critère de délivrance de l'autorisation de travail, <MiseEnEvidence>n'est pas opposée si ces critères sont satisfaits</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Pour l'obtention de l'autorisation de travail, le  <LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne> est privilégié.</Paragraphe>
+<Paragraphe> Le <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne> de 6 mois ou plus est pris en compte par la Direccte, après vérification du caractère sérieux de l'engagement de l'employeur.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délivrance du titre</Paragraphe>
+</Titre><Paragraphe>En cas d'accord, la préfecture délivre au demandeur une carte de séjour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Expression>salarié</Expression> d'un an (pour un contrat de travail à durée indéterminée),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou <Expression>travailleur temporaire</Expression> (pour un contrat de travail à durée déterminée) pour une durée  ne dépassant pas celle du contrat.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024197289&amp;cidTexte=LEGITEXT000006070158" ID="R11555">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : article L313-14</Titre>
+<Complement>Admission exceptionnelle au séjour</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000019108569&amp;cidTexte=LEGITEXT000006072050" ID="R31123">
+<Titre>Code du travail : article R5221-20</Titre>
+<Complement>Emploi d'un salarié étranger : délivrance des autorisations de travail</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2012/11/cir_36120.pdf" ID="R31108" format="application/pdf" poids="870.7 KB">
+<Titre>Circulaire du 28 novembre 2012 relative à l'admission exceptionnelle au séjour des étrangers en situation irrégulière</Titre>
+</Reference>
+<ServiceEnLigne ID="R18894" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15186.do" format="application/force-download" poids="1.2 MB" numerocerfa="15186*02" type="Formulaire">
+<Titre>Demande d'autorisation de travail pour conclure un contrat de travail avec un salarié étranger non européen résidant en France</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R21382" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51882&amp;cerfaFormulaire=15186" numerocerfa="51882#02">Notice explicative pour la demande d'autorisation de travail pour conclure un contrat de travail avec un salarié étranger résidant en France</NoticeLiee>
+</ServiceEnLigne>
+<Definition ID="R1029">
+<Titre>Profession réglementée</Titre>
+<Texte>
+				<Paragraphe>Profession dont l'exercice requiert la possession d'un diplôme ou une autre condition formelle de qualification</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R31466" type="Acronyme">
+<Titre>Direccte</Titre>
+<Texte>
+<Paragraphe>Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R31127" type="Acronyme">
+<Titre>Smic</Titre>
+<Texte>
+<Paragraphe>Salaire minimum interprofessionnel de croissance</Paragraphe>
+</Texte>
+</Abreviation>
+
+</Publication>

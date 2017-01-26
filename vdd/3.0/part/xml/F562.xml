@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F562" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Impôt sur la fortune (ISF) : à quelle date s'apprécie le patrimoine ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>ISF impôt de solidarité sur la fortune appréciation du patrimoine 1er janvier</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F562</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006310884&amp;idSectionTA=LEGISCTA000006162962&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/5546-PGP.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20074</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20074">Impôt de solidarité sur la fortune (ISF)</Niveau>
+<Niveau ID="F562" type="Fiche Question-réponse">Impôt sur la fortune (ISF) : à quelle date s'apprécie le patrimoine ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N20074">
+<Titre>Impôt de solidarité sur la fortune (ISF)</Titre>
+<Fiche ID="F563">Patrimoine taxable</Fiche>
+<Fiche ID="F138">Calcul de l'impôt</Fiche>
+<Fiche ID="F31444">Déclaration et paiement</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>La composition et la valeur nette du patrimoine s'apprécient au 1<Exposant>er</Exposant> janvier de l'année d'imposition. </Paragraphe>
+<Paragraphe>Pour L'ISF payé en 2017, il s'agit du patrimoine détenu au 1<Exposant>er</Exposant> janvier 2017.</Paragraphe>
+<Paragraphe>Les modifications du patrimoine intervenant courant 2017 ne sont pas à prendre en compte.</Paragraphe>
+<Paragraphe>Il peut s'agir d'une augmentation (legs, donation, succession, etc.), d'une diminution (donation, perte de quelque nature que ce soit, etc.) ou d'un changement de  composition (achat, vente, etc.).</Paragraphe>
+<Paragraphe>Toutefois,   si un événement survenu après le 1<Exposant>er</Exposant> janvier a un effet rétroactif, vous devez en tenir compte.</Paragraphe>
+<Paragraphe>Par exemple, vous avez acheté  un bien sous condition suspensive avant le 1<Exposant>er</Exposant> janvier 2017 et la condition se réalise en 2017.  De même, en cas d'annulation en 2017 de la vente d'un bien effectuée avant le  1<Exposant>er</Exposant> janvier 2017.</Paragraphe>
+
+</Texte><OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service local gestionnaire de votre dossier</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006310884&amp;idSectionTA=LEGISCTA000006162962&amp;cidTexte=LEGITEXT000006069577" ID="R33546">
+<Titre>Code général des impôts : articles 885 D à 885 G quater</Titre>
+<Complement>Article 885 E</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/5546-PGP.html" ID="R38380">
+<Titre>Bofip-Impôts n°BOI-PAT-ISF-10 relatif au fait générateur de l'ISF</Titre>
+</Reference>
+<ServiceEnLigne ID="R1181" URL="https://www.impots.gouv.fr/portail/node/3983" type="Simulateur">
+<Titre>Calcul de l'impôt de solidarité sur la fortune (ISF)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18844" URL="https://www.impots.gouv.fr/portail/node/9030" numerocerfa="11284*17" autrenumero="2725" type="Formulaire">
+<Titre>Déclaration de l'impôt de solidarité sur la fortune (ISF) - Patrimoine supérieur ou égal à 2,57 millions d'euros</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1281" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_268.pdf" format="application/pdf" poids="178.4 KB" numerocerfa="10330*20" autrenumero="2042" type="Formulaire">
+<Titre>Déclaration 2016 des revenus (papier)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R15720" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-notmv/2016/2041-notmv_27.pdf" numerocerfa="50796#16" format="application/pdf" poids="614.7 KB">Notice générale pour remplir les déclarations n°2042, 2042-C et 2042-C-PRO</NoticeLiee>
+<NoticeLiee ID="R40459" URL="https://www.impots.gouv.fr/portail/node/9143" numerocerfa="15018*03 (2041 FDC)">Déclaration des revenus - Fiche facultative de calculs</NoticeLiee>
+<NoticeLiee ID="R36611" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gv/2016/2041-gv_570.pdf" numerocerfa="50988#12" format="application/pdf" poids="0">Notice revenus 2015 : résidence alternée d'enfants mineurs</NoticeLiee>
+<NoticeLiee ID="R36724" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gp/2016/2041-gp_551.pdf" numerocerfa="50688#18" format="application/pdf" poids="103.5 KB">Notice revenus 2015 : allocations pour frais d'emploi</NoticeLiee>
+<NoticeLiee ID="R36723" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gt/2016/2041-gt_566.pdf" numerocerfa="50883#15">Notice revenus de 2015 : plafonnement des effets du quotient familial</NoticeLiee>
+<NoticeLiee ID="R36692" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gh/2016/2041-gh_531.pdf" numerocerfa="50149#20" format="application/pdf" poids="65.3 KB">Notice N°2041-GH - Revenus exceptionnels ou différés et cas particuliers</NoticeLiee>
+<NoticeLiee ID="R40371" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gn/2016/2041-gn_578.pdf" numerocerfa="50154#21" format="application/pdf" poids="118.8 KB">Notice revenus 2015 : revenus des valeurs et capitaux mobiliers (RCM)</NoticeLiee>
+<NoticeLiee ID="R36721" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gr/2016/2041-gr_555.pdf" numerocerfa="50794#17" format="application/pdf" poids="330.1 KB">Notice revenus 2015 : Travaux dans l'habitation principale</NoticeLiee>
+<NoticeLiee ID="R36677" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gm/2016/2041-gm_547.pdf" numerocerfa="50153#21">Notice revenus 2015 : BIC non professionnels : revenus de locations meublées et autres activités BIC non professionnelles</NoticeLiee>
+<NoticeLiee ID="R43226" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-e/2016/2041-e_251.pdf" numerocerfa="50318#19" format="application/pdf" poids="257.7 KB">Notice revenus 2015 : personnes fiscalement domiciliées hors de France</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2771" URL="https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente" type="Téléservice">
+<Titre>Paiement de l'impôt en ligne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33064" URL="https://www.impots.gouv.fr/portail/node/8885" numerocerfa="14884*04" autrenumero="2041-ISF-FCP" type="Formulaire">
+<Titre>Fiche de calcul du plafonnement de l'ISF</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41461" URL="http://www.impots.gouv.fr" audience="Particuliers">
+<Titre>Le site des impôts : impots.gouv.fr</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+</Publication>

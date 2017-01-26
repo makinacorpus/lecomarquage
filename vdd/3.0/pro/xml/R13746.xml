@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R13746" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'immatriculation au titre d'une activité relevant d'un nouveau secteur professionnel - Personne physique (P1)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Déclaration d'immatriculation au titre d'une activité relevant d'un nouveau secteur professionnel - Personne physique (P1) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-18</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R13746</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R13746" type="Formulaire">Déclaration d'immatriculation au titre d'une activité relevant d'un nouveau secteur professionnel - Personne physique (P1)</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>12241*01</NumeroCerfa>
+<AutreNumero>P1</AutreNumero>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12241.do">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb><NoticeLiee ID="R13759" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=12241&amp;cerfaNotice=50966" numerocerfa="50966#01">Notice pour la déclaration d'immatriculation</NoticeLiee>
+<NoticeLiee ID="R18893" URL="https://www.impots.gouv.fr/portail/node/9855" numerocerfa="50813#12 - 974" format="text/html; charset=utf-8" poids="0">Guide pratique fiscal pour la déclaration de création d'entreprise BIC/BNC</NoticeLiee>
+<OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+
+<Dossier ID="N16178">
+<Titre>Formalités de la création d'entreprise</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

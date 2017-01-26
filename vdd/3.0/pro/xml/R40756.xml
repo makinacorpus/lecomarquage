@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R40756" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>DémaTIC : demande en ligne de remboursement de la TIC par les professions agricoles</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>DémaTIC : demande en ligne de remboursement de la TIC par les professions agricoles - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-13</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R40756</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N14419">Aides à la production agricole</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R40756" type="Téléservice">DémaTIC : demande en ligne de remboursement de la TIC par les professions agricoles</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Si la demande de remboursement est supérieure à <Valeur>500 €</Valeur>, celle-ci doit être obligatoirement déposée en ligne uniquement pour les exploitants installés dans les  départements suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>02 - Aisne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>14 - Calvados</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>27 - Eure</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>50 - Manche</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>51 - Marne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>59 - Nord</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>60 - Oise</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>61 - Orne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>62 - Pas-de-Calais</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>72 - Sarthe</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>75 - Paris</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>76 - Seine-Maritime</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>77 - Seine-et-Marne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>78 - Yvelines</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>80 - Somme</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>91 - Essonne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>92 - Hauts-de-Seine</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>93 - Seine-Saint-Denis</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>94 - Val-de-Marne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>95 - Val-d'Oise</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://chorus-portail-pro.finances.gouv.fr/chorus_portail_pro/">
+<Source>Agence pour l'informatique financière de l'État (AIFE)</Source>
+</LienWeb>
+<FicheLiee ID="F24458" audience="Professionnels" type="Fiche d'information">
+<Titre>Remboursement des taxes sur le carburant aux agriculteurs</Titre>
+<Dossier ID="N14419">Aides à la production agricole</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

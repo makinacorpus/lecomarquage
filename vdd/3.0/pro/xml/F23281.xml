@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23281" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Étude de marché</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>L'étude de marché permet d'orienter et de valider les choix juridiques, économiques ou logistiques du porteur de projet, en suivant différentes étapes : réalisation d'un questionnaire, entretiens avec les professionnels du secteur, estimation du chiffre d'affaires prévisionnel qui servira de base à la recherche des financements...</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-10</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23281</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16147</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Artisan, Auto-entrepreneur, Commerçant</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16147">Préalables à la création d'entreprise</Niveau>
+<Niveau ID="F23281" type="Fiche avec liens externes">Étude de marché</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere><DossierPere ID="N16147">
+<Titre>Préalables à la création d'entreprise</Titre>
+<Fiche ID="F23281">Étude de marché</Fiche>
+<Fiche ID="F23844">Choix du statut juridique de l'entreprise en création</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>
+			L'étude de marché permet d'orienter et de valider les choix juridiques, économiques ou logistiques du porteur de projet, en suivant différentes étapes : réalisation d'un questionnaire, entretiens avec les professionnels du secteur, estimation du chiffre d'affaires prévisionnel qui servira de base à la recherche des financements... </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+			Pour le porteur de projet, le choix du lieu d'implantation de la future entreprise est déterminant pour sa viabilité : il est important d'avoir une visibilité claire de la clientèle potentielle.
+		</Paragraphe>
+
+</Texte>
+<LienExterneCommente><LienExterne URL="https://www.afecreation.fr/index.php?pid=620">Faire une étude de marché</LienExterne>
+
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="https://www.afecreation.fr/pid1733/contexte-general.html">Conseils pour bien démarrer un commerce</LienExterne>
+
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</LienExterneCommente><ServiceEnLigne ID="R19516" URL="http://www.insee.fr/fr/publics/default.asp?page=entreprises/odil.htm" type="Téléservice">
+<Titre>ODIL : Outil d'aide au diagnostic d'implantation locale</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+</Publication>

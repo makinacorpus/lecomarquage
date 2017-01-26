@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R138" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'abandon par une collectivité territoriale ou un établissement public de l'Etat d'arme et de munitions à l'Etat</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Formulaire permettant à une collectivité territoriale ou un établissement public de l’État de déclarer l'abandon d'armes et de munitions à l’État</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R138</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N287">Armes</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R138" type="Formulaire">Déclaration d'abandon par une collectivité territoriale ou un établissement public de l'Etat d'arme et de munitions à l'Etat</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11846*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Formulaire permettant à une collectivité territoriale ou un établissement public de l’État de déclarer l'abandon d'armes et de munitions à l’État</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11846.do">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F11629" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Que faire d'une arme qu'on ne souhaite pas conserver ?</Titre>
+<Dossier ID="N287">Armes</Dossier>
+</FicheLiee>
+<Dossier ID="N287">
+<Titre>Armes</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

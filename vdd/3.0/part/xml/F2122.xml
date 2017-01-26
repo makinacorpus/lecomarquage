@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2122" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Les frais du personnel d'entretien font-ils partie des charges locatives ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Sous certaines conditions, les frais de personnel d'entretien d'un immeuble en copropriété font partie des charges que le locataire doit payer.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2122</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006066149</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31340</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31340">Charges de copropriété</Niveau>
+<Niveau ID="F2122" type="Fiche Question-réponse">Les frais du personnel d'entretien font-ils partie des charges locatives ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31340">
+<Titre>Charges de copropriété</Titre>
+<Fiche ID="F20586">Budget prévisionnel</Fiche>
+<Fiche ID="F2590">Répartition, vote et paiement des charges</Fiche>
+<Fiche ID="F31418">Emprunt collectif</Fiche>
+<Fiche ID="F14745">Individualisation des frais de chauffage</Fiche>
+<Fiche ID="F2603">Recouvrement des charges impayées</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Sous certaines conditions, les frais de personnel d'entretien d'un immeuble en copropriété font partie des charges que le locataire doit payer.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Salaire du gardien (ou concierge)</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Entretien des parties communes et élimination des rejets (sortie des poubelles)</Paragraphe>
+</Titre><Paragraphe>Le salaire du gardien (charges sociales et fiscales comprises) est récupérable sur les locataires à 75 %. Les 25 % restants sont à la charge du propriétaire du logement.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Entretien des parties communes ou élimination des rejets (sortie des poubelles)</Paragraphe>
+</Titre><Paragraphe>Le salaire du gardien (charges sociales et fiscales comprises) est récupérable sur les locataires à 40 %. Les 60 % restants sont à la charge du propriétaire du logement.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>un couple de gardiens (ou concierges), qui assure ensemble l'entretien des parties communes et l'élimination des rejets, est assimilé à un personnel unique. Un seul salaire est donc versé pour les 2.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Salaire de l'employé d'immeuble</Paragraphe>
+</Titre><Paragraphe>Le salaire d'un employé d'immeuble (charges sociales et fiscales comprises) est récupérable en totalité sur les locataires si l'employé assure au moins l'une des tâches suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>entretien des parties communes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou élimination des rejets (sortie des poubelles).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N31340" audience="Particuliers">
+<Titre>Charges de copropriété</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069108" ID="R1701">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs</Titre>
+<Complement>Article 23</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006066149" ID="R17326">
+<Titre>Décret n°87-713 du 26 août 1987 fixant la liste des charges récupérables</Titre>
+</Reference>
+<QuestionReponse ID="F640" audience="Particuliers">À quelle fréquence doit être réalisé le ravalement de façade d'un immeuble ?</QuestionReponse>
+</Publication>

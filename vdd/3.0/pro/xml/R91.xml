@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R91" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Cotisation sur la valeur ajoutée des entreprises (CVAE) - Détermination de la valeur ajoutée produite au cours de l'exercice</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Cotisation sur la valeur ajoutée des entreprises (CVAE) - Détermination de la valeur ajoutée produite au cours de l'exercice - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-02</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R91</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13443">Contribution économique territoriale (CET)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R91" type="Formulaire">Cotisation sur la valeur ajoutée des entreprises (CVAE) - Détermination de la valeur ajoutée produite au cours de l'exercice</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14027*07</NumeroCerfa>
+<AutreNumero>2072-E-SD</AutreNumero>
+<Texte><Paragraphe>Seules les personnes qui exercent à titre habituel une activité professionnelle non salariée et dont le chiffre d'affaires est supérieur à <Valeur>500 000 €</Valeur> hors taxes doivent payer la CVAE. Toutes les entreprises dont le chiffre d'affaires est supérieur à <Valeur>152 500 €</Valeur> sont soumises à une obligation déclarative. </Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/8922">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F23546" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisation sur la valeur ajoutée des entreprises (CVAE)</Titre>
+<Dossier ID="N13443">Contribution économique territoriale (CET)</Dossier>
+</FicheLiee><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+</ServiceComplementaire>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2954" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Vente immobilière : quelles obligations doit respecter un agent immobilier ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>L'agent immobilier doit respecter plusieurs obligations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2954</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028806898&amp;cidTexte=LEGITEXT000006068387</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23245</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="F2954" type="Fiche Question-réponse">Vente immobilière : quelles obligations doit respecter un agent immobilier ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N23245">
+<Titre>Achat ou vente d'un logement</Titre><SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre>
+<Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre>
+<Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>En tant qu'intermédiaire agissant pour le compte d'un vendeur, l'agent immobilier doit impérativement détenir un  <LienInterne LienPublication="F1550" type="Fiche Question-réponse" audience="Particuliers">mandat écrit</LienInterne>  l'autorisant à négocier ou à s'engager.</Paragraphe>
+<Paragraphe>En l'absence de mandat, la transaction n'est pas valable.</Paragraphe>
+<Paragraphe>Un original doit être remis au vendeur lors de la signature. Ce document doit indiquer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le numéro de la <LienInterne LienPublication="F32994" type="Fiche d'information" audience="Professionnels">carte professionnelle</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et, si nécessaire, le nom et la qualité du collaborateur qui est intervenu dans la conclusion du contrat.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'agent immobilier doit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vérifier les caractéristiques du bien fournies par le vendeur (surface, existence d'éventuelles <LienIntra LienID="R1069" type="Définition de glossaire">servitudes</LienIntra>, réalité des <LienInterne LienPublication="F10798" type="Fiche Question-réponse" audience="Particuliers">diagnostics immobiliers obligatoires</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et s’assurer que le vendeur détient bien un titre de propriété. En cas d'indivision, tous les propriétaires doivent consentir à vendre le bien. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>De plus, l'agent immobilier doit vérifier que l'acquéreur est solvable en lui demandant, par exemple, son apport personnel. </Paragraphe>
+<Paragraphe>Enfin, l'agent est tenu d'un devoir de conseil à l'égard du vendeur, mais également à l'égard de l'acquéreur.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les tarifs des agents immobiliers sont libres. L'agent immobilier perçoit sa rémunération une fois la transaction effectuée. </Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028806898&amp;cidTexte=LEGITEXT000006068387" ID="R17112">
+<Titre>Loi n°70-9 du 2 janvier 1970 sur les activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce : articles 3 à 6</Titre>
+<Complement>Détention d'une carte professionnelle et d'un mandat écrit</Complement>
+</Reference>
+<Definition ID="R1069">
+<Titre>Servitude</Titre>
+<Texte>
+				<Paragraphe>Charge imposée à une propriété au profit d'une autre propriété (par exemple, un droit de passage)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1550" audience="Particuliers">Le vendeur d'un bien immobilier peut-il donner plusieurs mandats de vente ?</QuestionReponse>
+<QuestionReponse ID="F2753" audience="Particuliers">Qu'est-ce qu'une offre d'achat d'un bien immobilier ?</QuestionReponse>
+<QuestionReponse ID="F188" audience="Particuliers">Qu'est-ce que la condition suspensive d'un prêt immobilier ?</QuestionReponse>
+<QuestionReponse ID="F2407" audience="Particuliers">Dans quels cas l'achat d'un bien immobilier est-il soumis à la TVA ?</QuestionReponse>
+</Publication>

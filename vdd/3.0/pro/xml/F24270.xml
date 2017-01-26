@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24270" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Obligations en matière de protection des données personnelles</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>La création et le traitement de données personnelles (numéro d'identifiant, nom, adresse, numéro de téléphone...) sont soumis à des obligations destinées à protéger la vie privée des personnes fichées et les libertés individuelles. Elles varient selon la nature du fichier et la finalité des informations recueillies : déclaration normale ou simplifiée ou demande d'autorisation. Il existe aussi des obligations de sécurité, de confidentialité et d'information.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-06-15</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24270</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165313&amp;cidTexte=LEGITEXT000006070719, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181730&amp;cidTexte=LEGITEXT000006070719, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068624</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31446</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N31446">Litiges liés aux produits ou aux prestations</Niveau>
+<Niveau ID="F24270" type="Fiche d'information">Obligations en matière de protection des données personnelles</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+</Theme>
+<SousThemePere ID="N31445">Litiges commerciaux</SousThemePere><DossierPere ID="N31446">
+<Titre>Litiges liés aux produits ou aux prestations</Titre>
+<Fiche ID="F33338">Médiation des litiges de la consommation</Fiche>
+<Fiche ID="F22887">Actions contre une contrefaçon</Fiche>
+<Fiche ID="F22868">Signalement des produits défectueux par le fabricant, producteur ou distributeur</Fiche>
+<Fiche ID="F24270">Obligations en matière de protection des données personnelles</Fiche>
+<Fiche ID="F1787">Injonction de faire</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte>
+<Paragraphe>La création et le traitement de données personnelles (numéro d'identifiant, nom, adresse, numéro de téléphone...) sont soumis à des obligations destinées à protéger la vie privée des personnes fichées et les libertés individuelles. Elles varient selon la nature du fichier et la finalité des informations recueillies : déclaration normale ou simplifiée ou demande d'autorisation. Il existe aussi des obligations de sécurité, de confidentialité et d'information.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Déclaration</Paragraphe>
+</Titre><Paragraphe>Tout fichier ou traitement automatisé contenant des informations à caractère personnel doit être déclaré avant sa création, en ligne ou par courrier adressé à la Commission nationale de l'informatique et des libertés (Cnil) sous forme d'une :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="R1306" type="Formulaire" audience="Professionnels">déclaration normale</LienInterne> pour les fichiers qui concernent la vie privée ou les libertés individuelles des personnes : fichiers de clients, gestion des horaires des salariés, contrôle des accès aux locaux faisant l'objet d'une restriction de circulation, gestion de carrière et de la mobilité des salariés (organisation du travail, formations, annuaire interne, élections professionnelles, etc.), géolocalisation des véhicules utilisés par les salariés (ayant pour finalité le suivi et la facturation d'une prestation de transport, la sécurité des salariés ou des marchandises, le suivi du temps de travail, etc.),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="R1384" type="Formulaire" audience="Professionnels">déclaration simplifiée</LienInterne> valant engagement de conformité, pour les fichiers qui ne portent pas atteinte à la vie privée et aux libertés individuelles des personnes.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par exemple, les sites commerciaux de vente en ligne de biens ou de services, qui collectent des informations nominatives (nom, courriel) et constituent des fichiers de clients et de prospects, doivent effectuer une déclaration simplifiée. En revanche, les traitements de données mis en œuvre à partir d'un site web, qui ne bénéficient ni d'une dispense, ni d'une procédure allégée, doivent faire l'objet d'une déclaration normale.</Paragraphe>
+<Paragraphe>Pour savoir si un fichier doit être ou non déclaré et quelle procédure appliquer, il existe un service d' <LienInterne LienPublication="R18321" type="Téléservice" audience="Professionnels">aide à la déclaration</LienInterne> sur le site de la Cnil.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>les formalités déclaratives doivent être effectuées par la personne responsable du fichier ou du traitement, celle qui en décide de la création et en détermine les finalités, <MiseEnEvidence>avant</MiseEnEvidence> la création du fichier.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dispense de déclaration</Paragraphe>
+</Titre>
+<Paragraphe>Ne sont pas soumises à l'obligation de déclaration à la Cnil, les données concernant notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des activités exclusivement personnelles (rédaction d'un blog par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les membres et contacts d'une association à caractère politique, syndical ou religieux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'activité professionnelle d'un artiste (écrivain, cinéaste, éditeur…),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les opérations courantes de l'entreprise (comptabilité, fichiers de fournisseurs, gestion des paies, registre unique du personnel, déclarations sociales obligatoires, etc.).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Autorisation préalable</Paragraphe>
+</Titre>
+<Paragraphe>Une autorisation préalable de la Cnil est obligatoire pour les fichiers qui présentent des risques particuliers d'atteinte aux droits et aux libertés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les données enregistrées portant sur des informations sensibles (origine, opinions politiques, religieuses, syndicales, etc.), biométriques ou génétiques, etc.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les fichiers ayant une finalité particulière (études statistiques de l'<LienInterne LienPublication="R12417" type="Acronyme">Insee</LienInterne>, traitements de recherche médicale, etc.)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les transferts de données hors de l'Union européenne.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La demande d'autorisation fait l'objet d'un examen approfondi de la part de la Cnil, qui a 2 mois pour se prononcer. Une fois la délibération prise, la Cnil doit la notifier dans les 8 jours au responsable de traitement.</Paragraphe>
+<Paragraphe>Si le responsable des données n'effectue par les déclarations auprès de la Cnil, il peut être condamné à 5 ans d'emprisonnement et <Valeur>300 000 €</Valeur> d'amende.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Obligation d'information</Paragraphe>
+</Titre>
+<Paragraphe>L'entreprise qui détient des données personnelles doit informer la personne concernée de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'identité du responsable du fichier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la finalité du traitement des données,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le caractère obligatoire ou facultatif des réponses,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les droits d'accès, de rectification, d'interrogation et d'opposition.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les transmissions des données.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'exploitant de données personnelles (un commerçant en ligne par exemple) doit respecter certaines obligations et notamment : recueillir l'accord des clients, les informer de leur droit d'accès, de modification et de suppression des informations collectées, veiller à la sécurité des systèmes d'information, assurer la confidentialité des données, indiquer une durée de conservation des données.</Paragraphe>
+<Paragraphe>L'objectif de la collecte d'informations doit être précis et les données en accord avec cette finalité.</Paragraphe>
+<Paragraphe>Le non-respect du droit des personnes est puni de 1 500 € par infraction (3 000 € en cas de récidive).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Obligations de sécurité et de confidentialité</Paragraphe>
+</Titre>
+<Paragraphe>Le responsable du traitement des données doit mettre en œuvre les mesures de sécurité des locaux et des systèmes d'information pour empêcher que les fichiers soient déformés, endommagés, ou que des tiers non autorisés y aient accès.</Paragraphe>
+<Paragraphe>L'accès aux données est réservé uniquement aux personnes désignées ou à des tiers qui détiennent une autorisation spéciale et ponctuelle (service des impôts, police, etc.).</Paragraphe>
+<Paragraphe>Le responsable des données est aussi tenu de fixer une durée raisonnable de conservation des informations personnelles.</Paragraphe>
+<Paragraphe>Si l'entreprise ne respecte pas ces obligations, elle encourt 5 ans d'emprisonnement et de 300 000 € d'amende.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre>
+<Paragraphe>Outre les sanctions pénales (amende, emprisonnement), le manquement de l'entreprise aux obligations de protection des données personnelles peut entraîner de la part de la Cnil :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un avertissement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une amende,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le verrouillage des données pendant 3 mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une injonction d'arrêter le traitement des données,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un retrait de l’autorisation de la Cnil.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165313&amp;cidTexte=LEGITEXT000006070719" ID="R2060">
+<Titre>Code pénal : articles 226-16 à 226-24</Titre>
+<Complement>Articles 226-16, 226-17, 226-20, 226-21, 226-22</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181730&amp;cidTexte=LEGITEXT000006070719" ID="R13015">
+<Titre>Code pénal : articles 131-12 à 131-18</Titre>
+<Complement>Article 131-13</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068624" ID="R1791">
+<Titre>Loi n°78-17 du 6 janvier 1978 - Informatique et libertés</Titre>
+</Reference>
+<ServiceEnLigne ID="R1384" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13810.do" format="application/pdf" poids="83.9 KB" numerocerfa="13810*02" type="Formulaire">
+<Titre>Déclaration simplifiée de traitement de données personnelles : engagement de conformité</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18321" URL="https://www.cnil.fr/fr/declarer-un-fichier" type="Téléservice">
+<Titre>Aide à la déclaration des fichiers nominatifs</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1306" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13809.do" format="text/html;charset=UTF-8" poids="3.7 KB" numerocerfa="13809*05" type="Formulaire">
+<Titre>Déclaration normale de traitement de données personnelles</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1409" URL="https://www.declaration.cnil.fr/declarations/declaration/accueil.action" type="Téléservice">
+<Titre>Demandes en ligne d'autorisation ou d'avis à la Cnil</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18456" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13891.do" format="application/pdf" poids="563.6 KB" numerocerfa="13891*04" type="Formulaire">
+<Titre>Demande d'avis préalable à la mise en œuvre de traitements automatisés de données à caractère personnel</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14670" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13786.do" format="application/pdf" poids="625.7 KB" numerocerfa="13786*03" type="Formulaire">
+<Titre>Demande d'autorisation préalable à la mise en œuvre de traitements automatisés de données à caractère personnel</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13786*03a">
+<Titre>Dispositifs biométriques</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13786*03a&amp;cerfaFormulaire=13786*03" format="application/pdf" poids="557.8 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13786*02b">
+<Titre>Transfert de données hors de l'Union européenne</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13786*03b&amp;cerfaFormulaire=13786*03" format="application/pdf" poids="772.3 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18457" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10769.do" format="application/pdf" poids="888.4 KB" numerocerfa="10769*02" type="Formulaire">
+<Titre>Demande d'autorisation d'un traitement de recherche dans le domaine de la santé</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18458" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13890.do" format="application/pdf" poids="718.6 KB" numerocerfa="13890*02" type="Formulaire">
+<Titre>Demande d'autorisation d'un traitement ayant pour finalité l'évaluation ou l'analyse des pratiques ou des activités de soins et de prévention</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source><NoticeLiee ID="R12023" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13890&amp;cerfaNotice=51353" numerocerfa="51353#01" format="application/pdf" poids="492.7 KB">Renseignements pratiques sur la déclaration de traitements de données à caractère personnel de santé</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12144" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14748.do" numerocerfa="14748*01" type="Formulaire">
+<Titre>Désignation d'un correspondant Informatique et libertés (CIL) à la protection des données à caractère personnel</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12283" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14749.do" numerocerfa="14749*01" type="Formulaire">
+<Titre>Désignation d'un correspondant Informatique et libertés (CIL) à la protection des données à caractère personnel - Presse</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<Abreviation ID="R12417" type="Acronyme">
+<Titre>Insee</Titre>
+<Texte>
+<Paragraphe>Institut national de la statistique et des études économiques</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

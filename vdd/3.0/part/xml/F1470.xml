@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1470" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mise en examen</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Une personne mise en examen est une personne mise en cause dans une affaire judiciaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-09-27</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1470</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167421&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006575530&amp;idSectionTA=LEGISCTA000006167425&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F1470" type="Fiche d'information">Mise en examen</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Enquête</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Une personne mise en examen est une personne mise en cause dans une enquête dirigée par un juge d'instruction. Elle possède certains droits peut intervenir au cours de l'instruction.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Une personne mise en examen est une personne mise en cause pour certains faits au cours d'une <LienInterne LienPublication="F1456" type="Fiche d'information" audience="Particuliers">information judiciaire</LienInterne>, enquête dirigée par un juge d'instruction.</Paragraphe>
+<Paragraphe>Les possibilités de mettre en examen diffèrent selon que la personne ait déjà été ou non placée sous le statut de  <LienInterne LienPublication="F1807" type="Fiche Question-réponse" audience="Particuliers">témoin assisté</LienInterne>.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Le statut de mis en examen s'applique <MiseEnEvidence>obligatoirement</MiseEnEvidence> à une personne que le juge ne souhaite pas l'entendre comme témoin assisté et :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>contre laquelle il existe des indices graves et concordants prouvant son implication dans des faits instruits,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou nommément visée par un réquisitoire du procureur.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si elle est déjà témoin assisté</Paragraphe>
+</Titre><Paragraphe>Si la personne est déjà placée sous le statut de  <LienInterne LienPublication="F1807" type="Fiche Question-réponse" audience="Particuliers">témoin assisté</LienInterne>  :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le juge peut la mettre en examen si des indices graves et concordants, apparus au cours de l'enquête, la mettent en cause dans les faits instruits,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou elle peut demander d'elle-même à être mise en examen. Dans ce cas, le juge doit obligatoirement répondre favorablement à sa demande.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Droits du mis en examen</Paragraphe>
+</Titre><Paragraphe>La personne mise en examen ou son avocat peuvent prendre connaissance du dossier. Elle-même ou son avocat peuvent demander une copie totale ou partielle.</Paragraphe>
+<Paragraphe>Le mis en examen peut également en demander la traduction des pièces essentielles dans une langue qu'il comprend.</Paragraphe>
+<Paragraphe>La personne mise en examen peut demander au juge de procéder à tout acte d'enquête. Ceux-ci peuvent par exemple être l'audition d'un témoin ou le déplacement sur les lieux de l'infraction. La personne mise en examen peut demander que ces actes soient effectués en présence de son avocat.</Paragraphe>
+<Paragraphe>Dans une affaire criminelle, tous les interrogatoires  font l'objet d'un enregistrement audiovisuel. Les enregistrements pourront être consultés uniquement en cas de contestation des déclarations faites. Ils sont détruit 5 ans après l'extinction des poursuites pénales.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Premier interrogatoire</Paragraphe>
+</Titre><Paragraphe>La procédure diffère selon que la personne ait déjà été placée ou non sous le statut de témoin assisté.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Si la personne n'a pas été entendue comme témoin assisté, on parle alors d'interrogatoire de première comparution.</Paragraphe>
+<Paragraphe>Dans ce cas, la personne peut être convoquée par le juge en vue de sa mise en examen. Cette convocation peut être faire soit par lettre recommandée, soit par une <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> transmise par un officier de police judiciaire.</Paragraphe>
+<Paragraphe>Cette lettre ou cette notification indique la date et l'heure de la convocation, ainsi que les faits concernés. Un délai de minimum 10 jours et de maximum 2 mois doit avoir lieu entre la réception de la lettre ou de la notification et la convocation. La personne est également informée de son droit de venir avec un avocat.</Paragraphe>
+<Paragraphe>Lors de l'interrogatoire, le juge d'instruction constate l'identité de la personne et lui rappelle chacun des faits pour lesquels la mise en examen est envisagée. Il informe également la personne interrogée de son droit à un interprète.</Paragraphe>
+<Paragraphe>Si la personne est venue sans avocat, elle est informée de son droit à en choisir ou d'en demander un <LienInterne LienPublication="F2153" type="Fiche d'information" audience="Particuliers">désigné d'office</LienInterne>. À son arrivée, l'avocat peut immédiatement consulter le dossier et s'entretenir librement avec son client. </Paragraphe>
+<Paragraphe>Dans tous les cas, le juge d'instruction informe la personne qu'elle a le droit de faire des déclarations, de répondre aux questions qui lui sont posées ou de se taire. L'accord pour être interrogé ne peut être donné qu'en présence d'un avocat. </Paragraphe>
+<Paragraphe>Suite à l'interrogatoire, la personne est placée mise en officiellement en examen. Le juge l'informe alors de ses droits.</Paragraphe>
+<Paragraphe>À la fin de l'interrogatoire, un procès-verbal est établi. Il est signé par la personne mise en cause, le juge d'instruction et le greffier.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour un témoin assisté</Paragraphe>
+</Titre><Paragraphe>Si la personne est un témoin assisté, elle a déjà le droit à l'accès au dossier et à l'assistance d'un avocat.</Paragraphe>
+<Paragraphe>Elle ne peut être mise en examen qu'à la suite d'une audition par le juge d'instruction. Le témoin assisté peut garder le silence lors de cette audition.</Paragraphe>
+<Paragraphe>  Le juge lui rappelle ensuite les faits qui lui sont reprochés et l'informe de ses nouveaux droits en tant que mis en examen.</Paragraphe>
+<Paragraphe>À la fin de l'interrogatoire, un procès-verbal est établi. Il est signé par la personne mise en cause, le juge d'instruction et le greffier.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mesures de sûreté</Paragraphe>
+</Titre><Paragraphe>Dès la mise en examen, le juge peut prendre des mesures  pour garantir notamment la présence de la personne concernée durant l'enquête :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>décider d'une mesure de <LienInterne LienPublication="F2902" type="Fiche d'information" audience="Particuliers">contrôle judiciaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ordonner une <LienInterne LienPublication="F2007" type="Fiche d'information" audience="Particuliers">assignation à résidence avec surveillance électronique</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou saisir le juge des libertés et de la détention (JLD) s'il envisage une <LienInterne LienPublication="F1042" type="Fiche d'information" audience="Particuliers">détention provisoire</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recours</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Contestation sur le fond</Paragraphe>
+</Titre><Paragraphe>La personne peut demander la fin de sa mise en examen si elle estime qu'il n'y a plus de charges contre elle (un témoin se rétracte...). La contestation porte alors sur le fond.</Paragraphe>
+<Paragraphe>Le juge d'instruction peut alors revenir sur sa décision et lui donner (ou redonner) le statut de témoin assisté.</Paragraphe>
+<Paragraphe>Cette demande peut être faite :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à l'issue d'un délai de 6 mois après la mise en examen et tous les 6 mois suivants,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans les 10 jours après la notification d'une expertise ou un nouvel interrogatoire.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Contestation sur la forme</Paragraphe>
+</Titre><Paragraphe>Si une personne estime qu'une erreur de procédure a été commise, elle peut demander l'annulation de sa mise en examen dans les 6 mois qui suivent l'audition y ayant conduit. La contestation porte sur la forme : par exemple, si son avocat n'a pas été convoqué dans le délai requis.</Paragraphe>
+<Paragraphe>La chambre de l'instruction compétente est celle de la cour d'appel dont dépend le tribunal chargé de l'affaire.</Paragraphe><OuSAdresser ID="R11624" type="Local personnalisé sur SP">
+<Titre>Cour d'appel</Titre>
+<PivotLocal>cour_appel</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-cours-dappel-21767.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Si la mise en examen est annulée, la personne devient ou redevient témoin assisté.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fin de l'enquête</Paragraphe>
+</Titre><Paragraphe>Si l'instruction est arrivée à son terme et que la personne est toujours mise en examen, elle peut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>être renvoyée devant un tribunal en vue d'être jugée</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou bénéficier d'un <LienIntra LienID="R2465" type="Définition de glossaire">non-lieu </LienIntra> si le juge estime que les charges ne sont pas suffisantes. La personne mise en examen ne sera pas jugée.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167421&amp;cidTexte=LEGITEXT000006071154" ID="R19532">
+<Titre>Code de procédure pénale : articles 79 à 84</Titre>
+<Complement>Droits du juge d'instruction</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006575530&amp;idSectionTA=LEGISCTA000006167425&amp;cidTexte=LEGITEXT000006071154" ID="R33092">
+<Titre>Code de procédure pénale : articles 114 à 121</Titre>
+<Complement>Droits du mis en examen</Complement>
+</Reference>
+<Definition ID="R2465">
+<Titre>Non-lieu</Titre>
+<Texte>
+				<Paragraphe>Décision d'un juge d'instruction ou de la chambre de l'instruction mettant fin à des poursuites pénales</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1807" audience="Particuliers">Qu'est-ce qu'un témoin assisté ?</QuestionReponse>
+<QuestionReponse ID="F32124" audience="Particuliers">Qu'est-ce qu'une audition libre ?</QuestionReponse>
+</Publication>

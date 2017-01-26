@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F827" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Prestations familiales : que faire en cas de changement de situation ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Si vous touchez des prestations familiales, vous devez signaler tout changement de situation : déménagement, concubinage, séparation, divorce</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-06</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F827</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N156</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N156">Allocations destinées aux familles</Niveau>
+<Niveau ID="F827" type="Fiche Question-réponse">Prestations familiales : que faire en cas de changement de situation ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N156">
+<Titre>Allocations destinées aux familles</Titre><SousDossier ID="N156-1">
+<Titre>Allocations versées à partir du 1er enfant</Titre>
+<Fiche ID="F2550">Prime à la naissance</Fiche>
+<Fiche ID="F2552">Allocation de base (après la naissance)</Fiche>
+<Fiche ID="F13220">Prime à l'adoption</Fiche>
+<Fiche ID="F31430">Allocation de base (enfant adopté)</Fiche>
+</SousDossier>
+<SousDossier ID="N156-2">
+<Titre>Allocations versées à partir du 2e enfant</Titre>
+<Fiche ID="F13213">À partir de 2 enfants : allocations familiales</Fiche>
+<Fiche ID="F13214">À partir de 3 enfants : complément familial</Fiche>
+<Fiche ID="F2008">À partir de 3 enfants : prime de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N156-3">
+<Titre>Enfant gardé par un tiers</Titre>
+<Fiche ID="F345">Complément de libre choix du mode de garde (Cmg) - Assistante maternelle</Fiche>
+<Fiche ID="F31101">Complément de libre choix du mode de garde (Cmg) - Garde à domicile</Fiche>
+<Fiche ID="F33648">Complément de libre choix du mode de garde (Cmg) - Micro-crèche</Fiche>
+</SousDossier>
+<SousDossier ID="N156-4">
+<Titre>Enfant gardé par un parent</Titre>
+<Fiche ID="F32485">Enfant né depuis 2015 : prestation partagée d'éducation de l'enfant (PreParE)</Fiche>
+<Fiche ID="F313">Enfant né avant 2015 : complément de libre choix d'activité (CLCA)</Fiche>
+<Fiche ID="F15132">Allocation journalière de présence parentale (AJPP)</Fiche>
+</SousDossier>
+<SousDossier ID="N156-5">
+<Titre>Allocation de soutien familial (ASF)</Titre>
+<Fiche ID="F815">Parents séparés</Fiche>
+<Fiche ID="F33645">Enfant non reconnu</Fiche>
+<Fiche ID="F33646">Enfant orphelin</Fiche>
+<Fiche ID="F33647">Enfant recueilli</Fiche>
+</SousDossier>
+</DossierPere>
+
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Cas général (Caf)</Titre>
+<Texte><Paragraphe>Si vous touchez des prestations familiales, vous devez signaler tout changement de situation familiale ou professionnelle : déménagement, concubinage, mariage, séparation, divorce, arrivée ou départ du foyer d'un enfant ou d'une personne à charge, etc.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Changement de situation familiale</Paragraphe>
+</Titre><Paragraphe>Il convient de déclarer rapidement votre changement de situation.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>même si vous n'êtes actuellement pas bénéficiaire de prestations familiales, vous mettre en couple peut vous ouvrir de nouveaux droits. Renseignez-vous auprès de votre Caf.</Paragraphe>
+</ASavoir><BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R1165" URL="https://wwwd.caf.fr" type="Téléservice">
+<Titre>Caisse d'allocations familiales (Caf) en ligne</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Complétez et envoyez le formulaire cerfa n°11423*06 :</Paragraphe><ServiceEnLigne ID="R1361" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/allocationsfamilialesouchangementdesituation" numerocerfa="11423*06 et 10397*18" autrenumero="S7103 j et S7123 j" type="Formulaire">
+<Titre>Allocations et prestations familiales - Déclaration de situation et/ou ressources</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+<Texte><Paragraphe>Pour obtenir le(s) formulaire(s), cliquez d'abord pour sélectionner votre lieu de résidence.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous faites plusieurs demandes de prestation, remplissez une seule déclaration de situation. </Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Les pièces justificatives mentionnées sur le formulaire doivent être jointes. Celles-ci varient en fonction du changement de situation (acte de naissance, avis de décision de Pôle emploi, titre de pension ou retraite, etc.).</Paragraphe>
+<Paragraphe>Par exemple, en cas de divorce, vous devez contacter votre Caf :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dès le début de la procédure,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>lorsque le juge aux affaires familiales aura rendu une ordonnance ou un jugement (fixant notamment le versement d'une pension alimentaire ou la résidence séparée des époux),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et même si l'époux réside encore au domicile familial.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Changement de domicile</Paragraphe>
+</Titre><Paragraphe>Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :</Paragraphe><ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Texte>
+				<Paragraphe> </Paragraphe>
+			
+<Paragraphe>Permet d'informer plusieurs   organismes publics et privés d'un changement d'adresse postale, d'adresse électronique, de numéro de téléphone fixe et de téléphone portable, notamment : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Carte grise</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de retraites (Agirc et Arrco, Cnav, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de sécurité sociale (CPAM, MSA, CAF, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La Poste, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pôle emploi, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Service des impôts, </Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>En cas de déménagement hors du département, la Caf de votre domicile de départ s'occupera automatiquement du transfert du dossier vers votre nouvelle caisse. Ce transfert se fera dès l'enregistrement de votre nouvelle adresse.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<Texte><Paragraphe>Si vous touchez des prestations familiales, vous devez signaler tout changement de situation familiale ou professionnelle : déménagement, concubinage, mariage, séparation, divorce, arrivée ou départ du foyer d'un enfant ou d'une personne à charge, etc.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Changement de situation familiale</Paragraphe>
+</Titre><Paragraphe>Il convient de déclarer rapidement votre changement de situation.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>même si vous n'êtes actuellement pas bénéficiaire de prestations familiales, vous mettre en couple peut vous ouvrir de nouveaux droits. Renseignez-vous auprès de la MSA.</Paragraphe>
+</ASavoir><BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R18438" URL="http://www.msa.fr/lfr/services-en-ligne/particuliers" type="Téléservice">
+<Titre>MSA Particuliers en ligne</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Complétez et envoyez le formulaire cerfa n°11423*06 :</Paragraphe><ServiceEnLigne ID="R1361" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/allocationsfamilialesouchangementdesituation" numerocerfa="11423*06 et 10397*18" autrenumero="S7103 j et S7123 j" type="Formulaire">
+<Titre>Allocations et prestations familiales - Déclaration de situation et/ou ressources</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+<Texte><Paragraphe>Pour obtenir le(s) formulaire(s), cliquez d'abord pour sélectionner votre lieu de résidence.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous faites plusieurs demandes de prestation, remplissez une seule déclaration de situation. </Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Les pièces justificatives mentionnées sur le formulaire doivent être jointes. Celles-ci varient en fonction du changement de situation (acte de naissance, avis de décision de Pôle emploi, titre de pension ou retraite, etc.).</Paragraphe>
+<Paragraphe>Par exemple, en cas de divorce, vous devez contacter la MSA :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dès le début de la procédure,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>lorsque le juge aux affaires familiales aura rendu une ordonnance ou un jugement (fixant notamment le versement d'une pension alimentaire ou la résidence séparée des époux),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et même si l'époux réside encore au domicile familial.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Changement de domicile</Paragraphe>
+</Titre><Paragraphe>Vous pouvez signaler votre changement de domicile en utilisant le service de changement d'adresse en ligne :</Paragraphe><ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Texte>
+				<Paragraphe> </Paragraphe>
+			
+<Paragraphe>Permet d'informer plusieurs   organismes publics et privés d'un changement d'adresse postale, d'adresse électronique, de numéro de téléphone fixe et de téléphone portable, notamment : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Carte grise</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de retraites (Agirc et Arrco, Cnav, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de sécurité sociale (CPAM, MSA, CAF, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La Poste, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pôle emploi, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Service des impôts, </Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>En cas de déménagement hors du département, la MSA de votre domicile de départ s'occupera automatiquement du transfert du dossier vers votre nouvelle caisse. Ce transfert se fera dès l'enregistrement de votre nouvelle adresse.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<Complement>Pour transmettre la déclaration de changement de situation</Complement>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<Complement>Si vous relevez du régime agricole : pour transmettre la déclaration de changement de situation</Complement>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R1361" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/allocationsfamilialesouchangementdesituation" numerocerfa="11423*06 et 10397*18" autrenumero="S7103 j et S7123 j" type="Formulaire">
+<Titre>Allocations et prestations familiales - Déclaration de situation et/ou ressources</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1165" URL="https://wwwd.caf.fr" type="Téléservice">
+<Titre>Caisse d'allocations familiales (Caf) en ligne</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18438" URL="http://www.msa.fr/lfr/services-en-ligne/particuliers" type="Téléservice">
+<Titre>MSA Particuliers en ligne</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+</Publication>

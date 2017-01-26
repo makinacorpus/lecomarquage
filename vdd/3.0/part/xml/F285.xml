@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F285" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Habitat contenant des termites</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Lorsque la présence de termites (insectes qui rongent le bois) est identifiée, vous pouvez être contraint d'effectuer des travaux d'éradication.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-05</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F285</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159124&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006160497&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20356</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20356">Risques sanitaires et mesures de sécurité de l'habitat</Niveau>
+<Niveau ID="F285" type="Fiche d'information">Habitat contenant des termites</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N323">Protection et sécurité de l'habitat</SousThemePere><DossierPere ID="N20356">
+<Titre>Risques sanitaires et mesures de sécurité de l'habitat</Titre><SousDossier ID="N20356-1">
+<Titre>Insalubrité ou péril</Titre>
+<Fiche ID="F16158">Habitat insalubre</Fiche>
+<Fiche ID="F16104">Habitat en péril</Fiche>
+</SousDossier>
+<SousDossier ID="N20356-2">
+<Titre>Amiante, plomb, termites, radon</Titre>
+<Fiche ID="F288">Amiante</Fiche>
+<Fiche ID="F1141">Plomb</Fiche>
+<Fiche ID="F285">Termites</Fiche>
+<Fiche ID="F20599">Radon</Fiche>
+</SousDossier>
+<SousDossier ID="N20356-3">
+<Titre>Sécurité des équipements et installations</Titre>
+<Fiche ID="F19950">Sécurité incendie dans le logement : détecteur de fumée</Fiche>
+<Fiche ID="F32573">Sécurité incendie dans un immeuble en copropriété</Fiche>
+<Fiche ID="F1722">Installation d'un dispositif de sécurité des piscines privées </Fiche>
+<Fiche ID="F10538">Sécurité, entretien et contrôle technique des ascenseurs</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Amiante, plomb, termites, radon</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Lorsque la présence de termites (insectes qui rongent le bois) est identifiée, vous pouvez être contraint  d'effectuer des travaux d'éradication.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Qui est concerné ?</Paragraphe>
+</Titre><Paragraphe>Vous pouvez être concerné si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous résidez dans une zone contaminée par les termites délimitée par un arrêté préfectoral, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous résidez en dehors d'une zone contaminée et vous remarquez la présence de termites dans votre logement.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment être informé ?</Paragraphe>
+</Titre><Paragraphe>Si vous résidez dans une zone contaminée, le maire peut vous obliger :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> à réaliser un <LienInterne LienPublication="F3150" type="Fiche d'information" audience="Particuliers">diagnostic termite</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et a engager les travaux d'éradication nécessaires dans un délai de 6 mois. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ces informations vous sont <LienIntra LienID="R14732" type="Définition de glossaire">notifiées</LienIntra> personnellement par un arrêté.</Paragraphe>
+<Paragraphe>Vous pouvez également vous renseigner pour savoir si votre commune est infestée par les termites. </Paragraphe><ServiceEnLigne ID="R2186" URL="http://termite.com.fr/rechercher/" type="Téléservice">
+<Titre>Rechercher si sa commune est infestée par les termites</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de faire une recherche pour savoir si sa commune est infestée par la présence de termites</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Paragraphe>L'arrêté préfectoral fixant les zones contaminées doit être affiché pendant 3 mois dans la mairie concernée et être publié au recueil des actes administratifs de la préfecture.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quelles sont les conséquences ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Si un arrêté vous a été notifié</Paragraphe>
+</Titre><Paragraphe>Si un arrêté vous a été notifié, vous devez justifier du respect des obligations imposées par la mairie en lui adressant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une copie de votre diagnostic termites, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et une attestation certifiant que les travaux ont été réalisés. L'attestation est remise par le professionnel qui a effectué les travaux. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de carence, le maire peut faire procéder d'office et à vos frais à la recherche de termites ainsi qu'aux travaux nécessaires. Ces frais sont alors avancés par la commune puis remboursés par vous-même.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>une <LienInterne LienPublication="F1328" type="Fiche d'information" audience="Particuliers">subvention de l'agence nationale de l'habitat (Anah)</LienInterne> peut être accordée à un propriétaire pour la réalisation de travaux d'éradication.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>En l'absence d'arrêté</Paragraphe>
+</Titre><Paragraphe>Dès que vous avez connaissance de la présence de termites dans votre logement vous devez avertir la mairie dans le mois suivant les constatations.</Paragraphe>
+<Paragraphe>Lorsque les termites sont présents dans les parties communes, cette déclaration doit être faite par le  <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic de copropriété</LienInterne>.</Paragraphe>
+<Paragraphe>La déclaration doit être faite à partir d'un formulaire.</Paragraphe><ServiceEnLigne ID="R1486" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12010.do" numerocerfa="12010*02" type="Formulaire">
+<Titre>Déclaration de la présence de termites dans un immeuble</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de déclarer à la mairie la présence de termites dans son immeuble.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R21222" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50924&amp;cerfaFormulaire=12010" numerocerfa="50924#01">Notice explicative pour remplir une déclaration de présence de termites dans un immeuble</NoticeLiee>
+</ServiceEnLigne>
+
+<Paragraphe>Elle doit être adressée à la mairie par lettre recommandée avec avis de réception ou déposée contre récépissé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>En cas de démolition d'un immeuble</Paragraphe>
+</Titre><Paragraphe>En cas de démolition totale ou partielle d'un immeuble situé dans un périmètre délimité par un arrêté préfectoral, les bois et matériaux contaminés par les termites doivent être :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>incinérés sur place,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou traités avant tout transport si leur destruction par incinération sur place est impossible.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Toute personne qui a procédé à l'incinération sur place ou au traitement des bois et matériaux doit en faire la déclaration dans le mois  à la mairie par le biais d'un formulaire.</Paragraphe><ServiceEnLigne ID="R1488" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12012.do" numerocerfa="12012*02" type="Formulaire">
+<Titre>Déclaration des opérations d'incinération ou de traitement des bois et matériaux contaminés par les termites</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de déclarer en mairie les opérations d'incinération ou traitement des bois contaminés par les termites.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F3150" audience="Particuliers">
+<Titre>Diagnostic immobilier : état relatif à la présence de termites</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour envoyer sa déclaration (sauf à Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour envoyer sa déclaration (uniquement à Paris)</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159124&amp;cidTexte=LEGITEXT000006074096" ID="R35516">
+<Titre>Code de la construction et de l'habitation : articles L133-1 à L133-6</Titre>
+<Complement>Obligations du propriétaire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006160497&amp;cidTexte=LEGITEXT000006074096" ID="R35517">
+<Titre>Code de la construction et de l'habitation : articles R133-1 à R133-8</Titre>
+<Complement>Travaux d'éradication</Complement>
+</Reference>
+<ServiceEnLigne ID="R1486" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12010.do" numerocerfa="12010*02" type="Formulaire">
+<Titre>Déclaration de la présence de termites dans un immeuble</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source><NoticeLiee ID="R21222" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50924&amp;cerfaFormulaire=12010" numerocerfa="50924#01">Notice explicative pour remplir une déclaration de présence de termites dans un immeuble</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1488" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12012.do" numerocerfa="12012*02" type="Formulaire">
+<Titre>Déclaration des opérations d'incinération ou de traitement des bois et matériaux contaminés par les termites</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2186" URL="http://termite.com.fr/rechercher/" type="Téléservice">
+<Titre>Rechercher si sa commune est infestée par les termites</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</ServiceEnLigne>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F10798" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de vente ?</QuestionReponse>
+</Publication>

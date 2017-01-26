@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31475" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on installer un jacuzzi dans son jardin ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Vous pouvez installer un jacuzzi dans votre jardin, sous réserve de respecter les règles applicables à l'installation et à la sécurité des piscines.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-28</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31475</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31030</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31030">Vie pratique en logement individuel (maison)</Niveau>
+<Niveau ID="F31475" type="Fiche Question-réponse">Peut-on installer un jacuzzi dans son jardin ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N31030">
+<Titre>Vie pratique en logement individuel (maison)</Titre><SousDossier ID="N31030-1">
+<Titre>Mitoyenneté (droits des voisins)</Titre>
+<Fiche ID="F3037">Bornage de terrains</Fiche>
+<Fiche ID="F76">Ouvertures (fenêtres, balcons)</Fiche>
+<Fiche ID="F2040">Droit de passage sur la propriété d'un autre (servitude de passage)</Fiche>
+<Fiche ID="F2415">Murs</Fiche>
+<Fiche ID="F614">Plantations (haies, arbres, arbustes...)</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-2">
+<Titre>Aménagements extérieurs (jardin, cour...)</Titre>
+<Fiche ID="F31404">Piscine privative</Fiche>
+<Fiche ID="F31471">Annexes extérieures</Fiche>
+<Fiche ID="F31473">Travaux extérieurs</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-3">
+<Titre>Utilisation de l'énergie renouvelable</Titre>
+<Fiche ID="F31481">Récupération de l'eau de pluie</Fiche>
+<Fiche ID="F31487">Production d'électricité solaire (toiture photovoltaïque)</Fiche>
+<Fiche ID="F31488">Production de chaleur à l'énergie solaire</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, vous pouvez installer un jacuzzi dans votre jardin, sous réserve de respecter les règles applicables à l'<LienInterne LienPublication="F31404" type="Fiche d'information" audience="Particuliers">installation</LienInterne> et à la <LienInterne LienPublication="F1722" type="Fiche d'information" audience="Particuliers">sécurité des piscines</LienInterne>.</Paragraphe>
+<Paragraphe>De fait, le jacuzzi, en tant que bassin destiné à usage de baignade, est assimilable à une piscine.</Paragraphe>
+<Paragraphe>Toutefois, le plan local d'urbanisme (Plu) de votre commune peut fixer des contraintes ou interdictions liées à l'installation d'une piscine ou d'un jacuzzi privatif. Pour le savoir, vous devez vous renseigner auprès de votre mairie.</Paragraphe><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous êtes locataire, vous devez demander l'autorisation au propriétaire. À défaut, le propriétaire peut  exiger la remise en l'état des lieux, à vos frais. Il peut également, sauf à trouver un arrangement, conserver l'installation sans vous indemniser.</Paragraphe>
+</Attention>
+</Texte><VoirAussi important="non">
+<Fiche ID="F31404" audience="Particuliers">
+<Titre>Installation ou construction d'une piscine privée</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1722" audience="Particuliers">
+<Titre>Installation d'un dispositif de sécurité des piscines privées </Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108" ID="R32255">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 7</Titre>
+<Complement>Cas du locataire : demande d'autorisation à son propriétaire</Complement>
+</Reference>
+</Publication>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31410" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on émettre une facture uniquement électronique ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Peut-on émettre une facture uniquement électronique ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31410</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191855&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179370&amp;cidTexte=LEGITEXT000006069574, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191501&amp;cidTexte=LEGITEXT000006069576, https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=6C814AD5EA0CC57F319434DE9CF6DE06.tpdila13v_1?cidTexte=JORFTEXT000033338439&amp;dateTexte=&amp;oldAction=rechJO&amp;categorieLien=id&amp;idJO=JORFCONT000033338383</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31384</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31384">Facturation - Paiement</Niveau>
+<Niveau ID="F31410" type="Fiche Question-réponse">Peut-on émettre une facture uniquement électronique ?</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31382">Comptabilité</SousThemePere><DossierPere ID="N31384">
+<Titre>Facturation - Paiement</Titre>
+<Fiche ID="F31144">Devis</Fiche>
+<Fiche ID="F23208">Facturation</Fiche>
+<Fiche ID="F31808">Mentions obligatoires sur une facture</Fiche>
+<Fiche ID="F33527">Conditions générales de vente entre professionnels (CGV)</Fiche>
+<Fiche ID="F23211">Délais de paiement entre professionnels et pénalités de retard</Fiche>
+<Fiche ID="F33369">Se faire payer par carte bancaire</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>À condition d'être acceptée préalablement par l'acheteur, une facture peut être émise par voie électronique. Elle tient lieu de facture d'origine.</Paragraphe>
+<Paragraphe>L'authenticité de son origine (par l'identification de l'émetteur) et l'intégrité du contenu (non modifiable) doivent être garanties :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit au moyen d'une signature électronique (par un certificat électronique qualifié),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par la mise en place d'un ou plusieurs contrôles établissant une piste d'audit fiable entre une facture et la livraison de biens ou la prestation de services,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit sous la forme d'un message structuré selon une norme sécurisée convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque : progiciel de gestion intégrée (PGI), échange informatisé de données (EDI), format XML, courrier électronique avec un fichier PDF joint, télécopie reçue en version électronique, par exemple.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ce n'est pas le mode de transmission électronique qui prime (il ne s'agit pas simplement d'une version électronique d'une facture-papier numérisée ou scannée, puis envoyée par courriel), mais le mode de conception de la facture.</Paragraphe>
+<Paragraphe>Pour qu'une facture soit considérée comme une facture électronique, elle doit être non seulement émise, mais aussi reçue sous format électronique (courrier électronique ou transmission d'un lien sécurisé sur un portail internet), ce qui implique que les systèmes de l'émetteur (fournisseur) et du récepteur (client) soient compatibles et que la preuve de sa réception puisse être apportée.</Paragraphe>
+<Paragraphe>Le contenu d'une facture dématérialisée doit correspondre à celui d'une facture-papier comportant strictement les mêmes <LienInterne LienPublication="F23208" type="Fiche d'information" audience="Professionnels">mentions obligatoires</LienInterne>.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>A compter d'avril 2017 au plus tard, les factures établies ou reçues sur support papier pourront être numérisées en vue de leur conservation ou archivage. </Paragraphe>
+</ANoter>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191855&amp;cidTexte=LEGITEXT000006069577" ID="R31888">
+<Titre>Code général des impôts : articles 289-0 et 289</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179370&amp;cidTexte=LEGITEXT000006069574" ID="R32086">
+<Titre>Code général des impôts, annexe 3 : article 96 F</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191501&amp;cidTexte=LEGITEXT000006069576" ID="R32087">
+<Titre>Code général des impôts, annexe 4 : article 41 septies</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=6C814AD5EA0CC57F319434DE9CF6DE06.tpdila13v_1?cidTexte=JORFTEXT000033338439&amp;dateTexte=&amp;oldAction=rechJO&amp;categorieLien=id&amp;idJO=JORFCONT000033338383" ID="R45682">
+<Titre>Décret n° 2016-1478 du 2 novembre 2016 relatif au développement de la facturation électronique</Titre>
+</Reference>
+</Publication>

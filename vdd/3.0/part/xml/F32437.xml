@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32437" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dans quelles conditions peut-on faire un feu de cheminée chez soi ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>La réglementation varie selon les caractéristiques de votre cheminée, votre région et le type de logement où vous vivez (appartement ou maison).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32437</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006390213&amp;cidTexte=LEGITEXT000006070633</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31030</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31030">Vie pratique en logement individuel (maison)</Niveau>
+<Niveau ID="F32437" type="Fiche Question-réponse">Dans quelles conditions peut-on faire un feu de cheminée chez soi ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N31030">
+<Titre>Vie pratique en logement individuel (maison)</Titre><SousDossier ID="N31030-1">
+<Titre>Mitoyenneté (droits des voisins)</Titre>
+<Fiche ID="F3037">Bornage de terrains</Fiche>
+<Fiche ID="F76">Ouvertures (fenêtres, balcons)</Fiche>
+<Fiche ID="F2040">Droit de passage sur la propriété d'un autre (servitude de passage)</Fiche>
+<Fiche ID="F2415">Murs</Fiche>
+<Fiche ID="F614">Plantations (haies, arbres, arbustes...)</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-2">
+<Titre>Aménagements extérieurs (jardin, cour...)</Titre>
+<Fiche ID="F31404">Piscine privative</Fiche>
+<Fiche ID="F31471">Annexes extérieures</Fiche>
+<Fiche ID="F31473">Travaux extérieurs</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-3">
+<Titre>Utilisation de l'énergie renouvelable</Titre>
+<Fiche ID="F31481">Récupération de l'eau de pluie</Fiche>
+<Fiche ID="F31487">Production d'électricité solaire (toiture photovoltaïque)</Fiche>
+<Fiche ID="F31488">Production de chaleur à l'énergie solaire</Fiche>
+</SousDossier>
+</DossierPere>
+
+<ListeSituations affichage="onglet"><Situation>
+<Titre>En Île-de-France</Titre>
+<Texte>
+<Chapitre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Installation à foyer fermé (insert, poêle, chaudière...)</Paragraphe>
+</Titre><Paragraphe>Les feux de cheminée à foyer fermé par un insert ou un poêle performant sont autorisés en Île-de-France, quel qu'en soit l'usage  (chauffage principal, chauffage d'appoint ou agrément), sous réserve :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du respect de <LienExterne URL="http://www.driee.ile-de-france.developpement-durable.gouv.fr/IMG/jpg/tableau_bois_2015_ter.jpg" format="image/jpeg" poids="928.7 KB">certaines normes d'émissions et de rendement</LienExterne>
+
+ si vous utilisez un équipement neuf à  Paris ou  dans certaines <LienExterne URL="http://www.driee.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/Communes_ZS_cle6259e4.pdf" format="application/pdf" poids="88.4 KB">communes situées en zone sensible</LienExterne>
+
+,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du respect de <LienExterne URL="http://www.driee.ile-de-france.developpement-durable.gouv.fr/IMG/jpg/tableau_bois_2015_ter.jpg" format="image/jpeg" poids="928.7 KB">certaines normes d'émissions et de rendement</LienExterne>
+
+ si vous utilisez un équipement existant à  Paris,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> que cela ne soit pas interdit par le règlement de copropriété si vous vivez en appartement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et que le ramonage ait été effectué conformément aux règles locales (arrêté municipal ou préfectoral consultable en mairie).</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>des aides financières existent pour  l'achat d'un équipement de chauffage performant. Renseignez-vous auprès de votre mairie.</Paragraphe>
+</ASavoir><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Cheminée à foyer ouvert</Paragraphe>
+</Titre><Paragraphe>Si vous vivez en Île-de-France, vous pouvez faire un feu de cheminé à foyer ouvert :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>s'il s'agit d'une simple utilisation d'agrément,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si vous l'utilisez comme chauffage d'appoint.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il convient par ailleurs de vérifier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>que les feux de cheminée ne sont pas interdits par le <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne> si vous vivez en appartement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et que le ramonage a été effectué conformément aux règles locales (arrêté municipal ou préfectoral consultable en mairie).</Paragraphe>
+</Item>
+</Liste>
+<Rappel>
+<Titre>Rappel</Titre><Paragraphe>les feux de cheminée à foyer ouvert utilisés comme chauffage principal sont interdits. </Paragraphe>
+</Rappel>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Dans les autres régions</Titre>
+<Texte>
+<Chapitre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En maison individuelle</Paragraphe>
+</Titre><Paragraphe>Vous pouvez faire un feu de cheminée quelles que soient les caractéristiques de votre cheminée si le ramonage a été effectué conformément aux règles locales (arrêté municipal ou préfectoral consultable en mairie).</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En appartement</Paragraphe>
+</Titre><Paragraphe>Vous pouvez faire un feu de cheminée quelles que soient les caractéristiques de votre cheminée et sous réserve :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>que cela ne soit pas interdit par le règlement de copropriété,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et que le ramonage ait été effectué conformément aux règles locales (arrêté municipal ou préfectoral consultable en mairie).</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour vous renseigner sur les règles relatives à l'usage d'une cheminée en dehors de Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour vous renseigner sur les règles relatives à l'usage d'une cheminée à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006390213&amp;cidTexte=LEGITEXT000006070633" ID="R32727">
+<Titre>Code général des collectivités territoriales : article L2213-26</Titre>
+<Complement>Ramonage périodique obligatoire</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R38997" URL="http://www.driee.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/Communes_ZS_cle6259e4.pdf" audience="Particuliers" format="application/pdf" poids="88.4 KB">
+<Titre>Île-de-France : liste des communes situées en zone sensible</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39002" URL="http://www.driee.ile-de-france.developpement-durable.gouv.fr/IMG/jpg/tableau_bois_2015_ter.jpg" audience="Particuliers" format="image/jpeg" poids="928.7 KB">
+<Titre>Île-de-France : réglementation pour le chauffage individuel au bois</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+</Publication>

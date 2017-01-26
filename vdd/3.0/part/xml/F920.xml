@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F920" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Rédaction du bail (contrat de location)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le bail matérialise les droits et les obligations du propriétaire et du locataire. Certaines mentions et informations y sont obligatoires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-14</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F920</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023276582&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475055&amp;cidTexte=LEGITEXT000006069108, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000509310, http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649868, http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649902, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000018093117&amp;cidTexte=LEGITEXT000006069108, http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030711540, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032320564</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N349</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N349">Location immobilière : contrat de location (bail)</Niveau>
+<Niveau ID="F920" type="Fiche d'information">Rédaction du bail (contrat de location)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N349">
+<Titre>Location immobilière : contrat de location (bail)</Titre>
+<Fiche ID="F920">Rédaction du contrat</Fiche>
+<Fiche ID="F1686">Clauses abusives</Fiche>
+<Fiche ID="F31269">Dépôt de garantie</Fiche>
+<Fiche ID="F31270">État des lieux</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le bail (ou contrat de location) matérialise les droits et les obligations du propriétaire et du locataire. Certaines mentions et informations doivent obligatoirement y figurer. Les règles dépendent du fait  que  le logement soit meublé ou vide.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Logement vide</Titre>
+<Texte><Paragraphe>Les règles dépendent de la date de signature du bail.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Bail signé depuis août 2015</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme du bail</Paragraphe>
+</Titre><Paragraphe>Le contrat de bail doit être établi <MiseEnEvidence>par écrit</MiseEnEvidence> en autant d'exemplaires qu'il y a de parties (propriétaire, locataire, colocataires, caution...).</Paragraphe>
+<Paragraphe>Il peut prendre la  forme d'un <LienIntra LienID="R17852" type="Définition de glossaire">acte sous-seing privé</LienIntra> ou d'un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe>
+<Paragraphe>Il doit être conforme  au <LienExterne URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649868">contrat de bail type réglementaire</LienExterne>
+
+. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu du contrat de bail</Paragraphe>
+</Titre><Paragraphe>Le contrat de location doit obligatoirement contenir un certain nombre d'<LienExterne URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649902">informations concernant les parties, le logement et le loyer</LienExterne>
+
+.</Paragraphe>
+<Paragraphe>Les parties peuvent prévoir d'y inclure d'autres clauses sous réserve qu'elles ne figurent pas parmi la <LienInterne LienPublication="F1686" type="Fiche d'information" audience="Particuliers">liste des clauses abusives</LienInterne> (clauses ignorées car considérées comme non écrites).</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant les parties</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le bail doit préciser : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le nom et le domicile du propriétaire (celui du gestionnaire et son siège social si le logement n'est pas géré directement par le propriétaire) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les noms du ou des locataires ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la date de prise d'effet et la durée du bail.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant le logement</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le bail doit aussi préciser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la consistance du logement et sa destination (bail d'habitation ou bail mixte, c'est-à-dire bail d'habitation et bail professionnel libéral) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> la <LienIntra LienID="R18320" type="Définition de glossaire">surface habitable</LienIntra> du logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la description du logement (maison ou appartement, nombre de pièces) et de ses équipements à usage privatif et commun ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la nature et le montant des travaux effectués dans le logement depuis le dernier contrat de location (ou le dernier renouvellement).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>en cas d'absence de mention de la surface habitable ou de superficie erronée, le locataire peut intenter une <LienInterne LienPublication="F2066" type="Fiche d'information" audience="Particuliers">action en diminution de loyer</LienInterne>.</Paragraphe>
+</Attention><Paragraphe>
+<MiseEnEvidence>Informations sur le loyer et le dépôt de garantie</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Certaines informations relatives au loyer doivent être insérées dans le contrat de bail. Ces informations peuvent varier selon la localisation du logement.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer et mode de règlement (par exemple, par chèque ou prélèvement automatique) ainsi que ses règles de révision éventuelle ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du dernier loyer acquitté par le précédant locataire ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> s'il est prévu.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer et mode de règlement (par exemple, par chèque ou prélèvement automatique) ainsi que ses règles de révision éventuelle ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> montant du dernier loyer acquitté par le précédant locataire ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe> montant du loyer de référence et du loyer de référence majoré applicables au moment de la signature du bail ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant du <LienIntra LienID="R41335" type="Définition de glossaire">complément de loyer</LienIntra> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> s'il est prévu.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Le locataire dispose de 3 mois, à compter de la signature du bail pour contester le complément de loyer devant la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant les frais d'agence</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Si le bailleur fait appel à un professionnel pour la mise en location du logement, le bail doit mentionner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les règles relatives au partage des frais (reproduction de <LienExterne URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475055&amp;cidTexte=LEGITEXT000006069108">l'article 5 I de la loi de 1989</LienExterne>
+
+) ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>les montants des <LienInterne LienPublication="F375" type="Fiche d'information" audience="Particuliers">plafonds de facturation applicables au locataire</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Documents annexes au bail</Paragraphe>
+</Titre><Paragraphe>Certains documents doivent être annexés au bail :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une <LienExterne URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649902">notice informative</LienExterne>
+
+ ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31270" type="Fiche d'information" audience="Particuliers">l'état des lieux d'entrée</LienInterne> établi lors de la remise des clés et <LienInterne LienPublication="F33671" type="Fiche d'information" audience="Particuliers">l'état des lieux de sortie</LienInterne> réalisé lors de la restitution des clés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1349" type="Fiche d'information" audience="Particuliers">l'attestation d'assurance contre les risques locatifs</LienInterne> que le locataire doit obligatoirement souscrire ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F33463" type="Fiche Question-réponse" audience="Particuliers">le dossier de diagnostics techniques immobiliers</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'énumération des équipements d'accès aux technologies de l'information et de la communication (câble, TNT, fibre...) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une copie de la convention <LienInterne LienPublication="F1351" type="Fiche Question-réponse" audience="Particuliers">Anah</LienInterne> si le logement loué est conventionné ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si le logement est situé dans un immeuble en copropriété, un extrait du <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>l'extrait porte sur la destination de l'immeuble, la jouissance des parties privatives et communes ainsi que sur la quote-part afférente au logement loué dans chacune des catégories de charges.</Paragraphe>
+</ANoter><Paragraphe>Pour les contrats de bail signés depuis le 1<Exposant>er</Exposant> avril 2016, le locataire et le bailleur peuvent convenir  d'appliquer une <LienInterne LienPublication="F31697" type="Fiche d'information" audience="Particuliers">grille de vétusté</LienInterne>. Une copie doit en être annexée au bail. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée du bail</Paragraphe>
+</Titre><Paragraphe>Le bail doit être conclu pour une durée minimum :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de 3 ans lorsque le propriétaire est un particulier ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou 6 ans lorsque le propriétaire est une personne morale (par exemple une société, une association).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par exception, la durée peut être inférieure à 3 ans (ou 6 ans), mais d'au minimum 1 an, si le propriétaire prévoit de reprendre son logement pour des raisons familiales ou professionnelles (exemple : retraite qui oblige le propriétaire à reprendre son logement).</Paragraphe>
+<Paragraphe>Le motif de reprise qui justifie cette durée plus courte doit impérativement figurer dans le bail.</Paragraphe>
+<Paragraphe>Le propriétaire doit néanmoins confirmer au locataire, par lettre recommandée avec avis de réception, au minimum 2 mois avant la fin du bail que l'événement est réalisé et qu'il reprendra le logement à la date prévue.</Paragraphe>
+<Paragraphe>Lorsque l'événement ne s'est pas produit ou n'a pas été confirmé, le bail doit se poursuivre jusqu'au délai de 3 ans.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renouvellement</Paragraphe>
+</Titre><Paragraphe>À la fin du bail et à défaut de <LienInterne LienPublication="F929" type="Fiche d'information" audience="Particuliers">congé donné par le propriétaire</LienInterne> ou <LienInterne LienPublication="F1168" type="Fiche d'information" audience="Particuliers">le locataire</LienInterne>, le bail est renouvelé sur proposition du propriétaire ou reconduit automatiquement pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>3 ans lorsque le propriétaire est un particulier ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou 6 ans lorsque le propriétaire est une personne morale.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Bail signé entre le 27 mars 2014 et le 31 juillet 2015</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme du bail</Paragraphe>
+</Titre><Paragraphe>Le bail doit être établi par écrit en autant d'exemplaires qu'il y a de parties (propriétaire, locataire, colocataires, caution…). Il peut prendre la forme d'un <LienIntra LienID="R17852" type="Définition de glossaire">acte sous-seing privé</LienIntra> ou d'un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>bien que la loi impose un bail écrit, la jurisprudence admet l'existence d'un contrat de location de fait même sans écrit.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu du contrat de bail</Paragraphe>
+</Titre><Paragraphe>Le contrat de location doit obligatoirement contenir un certain nombre d'informations concernant les parties, le logement et le loyer.</Paragraphe>
+<Paragraphe>Les parties peuvent prévoir d'y inclure d'autres clauses sous réserve qu'elles ne figurent pas parmi la <LienInterne LienPublication="F1686" type="Fiche d'information" audience="Particuliers">liste des clauses abusives</LienInterne> (clauses ignorées car considérées comme non écrites).</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant les parties</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le bail doit préciser : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le nom et le domicile du propriétaire (celui du gestionnaire et son siège social si le logement n'est pas géré directement par le propriétaire) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les noms du ou des locataires ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la date de prise d'effet et la durée du bail.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant le logement</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le bail doit aussi préciser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la consistance du logement et sa destination (bail d'habitation ou bail mixte, c'est-à-dire bail d'habitation et bail professionnel libéral) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> la <LienIntra LienID="R18320" type="Définition de glossaire">surface habitable</LienIntra> du logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la description du logement (maison ou appartement, nombre de pièces) et de ses équipements à usage privatif et commun ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la nature et le montant des travaux effectués dans le logement depuis le dernier contrat de location (ou le dernier renouvellement).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe> en cas d'absence de mention de la surface habitable ou de superficie erronée, le locataire peut intenter une <LienInterne LienPublication="F2066" type="Fiche d'information" audience="Particuliers">action en diminution de loyer</LienInterne>.</Paragraphe>
+</Attention><Paragraphe>
+<MiseEnEvidence>Informations sur le loyer et le dépôt de garantie</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Certaines informations relatives au loyer doivent être insérées dans le contrat de bail. Ces informations peuvent varier selon la localisation du logement.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer et mode de règlement (par exemple, par chèque ou prélèvement automatique) ainsi que ses règles de révision éventuelle ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du dernier loyer acquitté par le précédant locataire ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> s'il est prévu.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer et mode de règlement (par exemple, par chèque ou prélèvement automatique) ainsi que ses règles de révision éventuelle ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> montant du dernier loyer acquitté par le précédant locataire ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>montant du <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> s'il est prévu.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Le locataire dispose de 3 mois, à compter de la signature du bail pour contester le complément de loyer devant la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant les frais d'agence</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Si le bailleur fait appel à un professionnel pour la mise en location du logement, le bail doit mentionner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les règles relatives au partage des frais (reproduction de <LienExterne URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475055&amp;cidTexte=LEGITEXT000006069108">l'article 5 I de la loi de 1989</LienExterne>
+
+) ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>les montants des <LienInterne LienPublication="F375" type="Fiche d'information" audience="Particuliers">plafonds de facturation applicables au locataire</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Documents annexes au bail</Paragraphe>
+</Titre><Paragraphe>Certains documents doivent être annexés au bail :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31270" type="Fiche d'information" audience="Particuliers">l'état des lieux d'entrée</LienInterne> établi lors de la remise des clés et <LienInterne LienPublication="F33671" type="Fiche d'information" audience="Particuliers">l'état des lieux de sortie</LienInterne> réalisé lors de la restitution des clés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1349" type="Fiche d'information" audience="Particuliers">l'attestation d'assurance contre les risques locatifs</LienInterne> que le locataire doit obligatoirement souscrire ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F33463" type="Fiche Question-réponse" audience="Particuliers">le dossier de diagnostics techniques immobiliers</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'énumération des équipements d'accès aux technologies de l'information et de la communication (câble, TNT, fibre...) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une copie de la convention <LienInterne LienPublication="F1351" type="Fiche Question-réponse" audience="Particuliers">Anah</LienInterne>  si le logement loué est conventionné ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si le logement est situé dans un immeuble en copropriété, un extrait  du <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>l'extrait porte sur la destination de l'immeuble, la jouissance des parties privatives et communes ainsi que sur la quote-part afférente au logement loué dans chacune des catégories de charges.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée du bail</Paragraphe>
+</Titre><Paragraphe>Le bail doit être conclu pour une durée minimum :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de 3 ans lorsque le propriétaire est un particulier ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou 6 ans lorsque le propriétaire est une personne morale (par exemple une société, une association).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par exception, la durée peut être inférieure à 3 ans (ou 6 ans), mais d'au minimum 1 an, si le propriétaire prévoit de reprendre son logement pour des raisons familiales ou professionnelles (exemple : retraite qui oblige le propriétaire à reprendre son logement).</Paragraphe>
+<Paragraphe>Le motif de reprise qui justifie cette durée plus courte doit impérativement figurer dans le bail.</Paragraphe>
+<Paragraphe>Le propriétaire doit néanmoins confirmer au locataire, par lettre recommandée avec avis de réception, au minimum 2 mois avant la fin du bail que l'événement est réalisé et qu'il reprendra le logement à la date prévue.</Paragraphe>
+<Paragraphe>Lorsque l'événement ne s'est pas produit ou n'a pas été confirmé, le bail doit se poursuivre jusqu'au délai de 3 ans.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renouvellement</Paragraphe>
+</Titre><Paragraphe>À la fin du bail et à défaut de <LienInterne LienPublication="F929" type="Fiche d'information" audience="Particuliers">congé donné par le propriétaire</LienInterne> ou <LienInterne LienPublication="F1168" type="Fiche d'information" audience="Particuliers">le locataire</LienInterne>, le bail est renouvelé sur proposition du propriétaire ou reconduit automatiquement pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>3 ans lorsque le propriétaire est un particulier ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou 6 ans lorsque le propriétaire est une personne morale.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Bail signé avant le 27 mars 2014</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme du bail</Paragraphe>
+</Titre><Paragraphe>Le bail doit être établi par écrit en autant d'exemplaires qu'il y a de parties (propriétaire, locataire, colocataires, caution…). Il peut prendre la forme d'un <LienIntra LienID="R17852" type="Définition de glossaire">acte sous-seing privé</LienIntra> ou d'un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>bien que la loi impose un bail écrit, la jurisprudence admet l'existence d'un contrat de location de fait même sans écrit.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu du contrat de bail</Paragraphe>
+</Titre><Paragraphe>Le contrat de location doit obligatoirement contenir un certain nombre d'informations concernant les parties, le logement et le loyer.</Paragraphe>
+<Paragraphe>Les parties peuvent prévoir d'y inclure d'autres clauses sous réserve qu'elles ne figurent pas parmi la <LienInterne LienPublication="F1686" type="Fiche d'information" audience="Particuliers">liste des clauses abusives</LienInterne> (clauses ignorées car considérées comme non écrites).</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant les parties</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le bail doit préciser : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le nom et le domicile du propriétaire (celui du gestionnaire et son siège social si le logement n'est pas géré directement par le propriétaire) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les noms du ou des locataires ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la date de prise d'effet et la durée du bail.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant le logement</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le bail doit aussi préciser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la consistance du logement et sa destination (bail d'habitation ou bail mixte, c'est-à-dire bail d'habitation et bail professionnel libéral) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> la <LienIntra LienID="R18320" type="Définition de glossaire">surface habitable</LienIntra> du logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la description du logement (maison ou appartement, nombre de pièces) et de ses équipements à usage privatif et commun.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>
+<MiseEnEvidence>Informations sur le loyer et le dépôt de garantie</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Certaines informations relatives au loyer doivent être insérées dans le contrat de bail. Ces informations peuvent varier selon la localisation du logement.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer et mode de règlement (par exemple, par chèque ou prélèvement automatique) ainsi que ses règles de révision éventuelle ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> s'il est prévu.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer et mode de règlement (par exemple, par chèque ou prélèvement automatique) ainsi que ses règles de révision éventuelle ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>montant du <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> s'il est prévu.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+<Paragraphe>
+<MiseEnEvidence>Informations concernant les frais d'agence</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Si le bailleur fait appel à un professionnel pour la mise en location du logement, le bail doit mentionner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les règles relatives au partage des frais (reproduction de <LienExterne URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475055&amp;cidTexte=LEGITEXT000006069108">l'article 5 I de la loi de 1989</LienExterne>
+
+) ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>les montants des <LienInterne LienPublication="F375" type="Fiche d'information" audience="Particuliers">plafonds de facturation applicables au locataire</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Documents annexes au bail</Paragraphe>
+</Titre><Paragraphe>Certains documents doivent être annexés au bail :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31270" type="Fiche d'information" audience="Particuliers">l'état des lieux d'entrée</LienInterne> établi lors de la remise des clés et <LienInterne LienPublication="F33671" type="Fiche d'information" audience="Particuliers">l'état des lieux de sortie</LienInterne> réalisé lors de la restitution des clés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1349" type="Fiche d'information" audience="Particuliers">l'attestation d'assurance contre les risques locatifs</LienInterne> que le locataire doit obligatoirement souscrire ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le  <LienInterne LienPublication="F33463" type="Fiche Question-réponse" audience="Particuliers">dossier de diagnostic technique (DDT)</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une information sur les moyens de réception des services de télévision dans l'immeuble si le  contrat a été signé ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une copie de la convention <LienInterne LienPublication="F1351" type="Fiche Question-réponse" audience="Particuliers">Anah</LienInterne> si le logement loué est conventionné ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si le logement est situé dans un immeuble en copropriété, un extrait du <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>l'extrait porte sur la destination de l'immeuble, la jouissance des parties privatives et communes ainsi que sur la quote-part afférente au logement loué dans chacune des catégories de charges.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée du bail</Paragraphe>
+</Titre><Paragraphe>Le bail doit être conclu pour une durée minimum :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de 3 ans lorsque le propriétaire est un particulier ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou 6 ans lorsque le propriétaire est une personne morale (par exemple une société, une association).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par exception, la durée peut être inférieure à 3 ans (ou 6 ans), mais d'au minimum 1 an, si le propriétaire prévoit de reprendre son logement pour des raisons familiales ou professionnelles (exemple : retraite qui oblige le propriétaire à reprendre son logement).</Paragraphe>
+<Paragraphe>Le motif de reprise qui justifie cette durée plus courte doit impérativement figurer dans le bail.</Paragraphe>
+<Paragraphe>Le propriétaire doit néanmoins confirmer au locataire, par lettre recommandée avec avis de réception, au minimum 2 mois avant la fin du bail que l'événement est réalisé et qu'il reprendra le logement à la date prévue.</Paragraphe>
+<Paragraphe>Lorsque l'événement ne s'est pas produit ou n'a pas été confirmé, le bail doit se poursuivre jusqu'au délai de 3 ans.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renouvellement</Paragraphe>
+</Titre><Paragraphe>À la fin du bail et à défaut de <LienInterne LienPublication="F929" type="Fiche d'information" audience="Particuliers">congé donné par le propriétaire</LienInterne> ou <LienInterne LienPublication="F1168" type="Fiche d'information" audience="Particuliers">le locataire</LienInterne>, le bail est renouvelé sur proposition du propriétaire ou reconduit automatiquement pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>3 ans lorsque le propriétaire est un particulier ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou 6 ans lorsque le propriétaire est une personne morale.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Logement meublé</Titre>
+<Texte><Paragraphe>Les règles dépendent de la date de signature du bail.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Bail signé depuis août 2015</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme du bail</Paragraphe>
+</Titre><Paragraphe>Le contrat de bail doit être établi <MiseEnEvidence>par écrit</MiseEnEvidence> en autant d'exemplaires qu'il y a de parties (propriétaire, locataire, colocataires, caution...).</Paragraphe>
+<Paragraphe>Il peut prendre la  forme d'un <LienIntra LienID="R17852" type="Définition de glossaire">acte sous-seing privé</LienIntra> ou d'un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe>
+<Paragraphe>Il doit être conforme  au <LienExterne URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649868">contrat de bail type réglementaire</LienExterne>
+
+. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu du contrat</Paragraphe>
+</Titre><Paragraphe>La rédaction du contrat de location meublé doit être conforme au <LienExterne URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649868">contrat de location-type réglementaire</LienExterne>
+
+.</Paragraphe>
+<Paragraphe>De plus, le contrat de location doit obligatoirement s'accompagner de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la <LienExterne URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649902">notice d'information</LienExterne>
+
+ à destination du locataire ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31270" type="Fiche d'information" audience="Particuliers">l'état des lieux</LienInterne> établi lors de la remise des clés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un inventaire et un état détaillé du mobilier ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F33463" type="Fiche Question-réponse" audience="Particuliers">le dossier de diagnostics techniques immobiliers</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si le locataire et le bailleur ont convenu  d'appliquer une grille de vétusté,  une copie de la <LienInterne LienPublication="F31697" type="Fiche d'information" audience="Particuliers">grille de vétusté</LienInterne> choisie ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si le logement est situé dans un immeuble en copropriété, un extrait  du <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>l'extrait porte sur la destination de l'immeuble, la jouissance des parties privatives et communes ainsi que sur la quote-part afférente au logement loué dans chacune des catégories de charges.</Paragraphe>
+</ANoter><Paragraphe>Pour les contrats de bail signés depuis le 1<Exposant>er</Exposant> avril 2016, le locataire et le bailleur peuvent convenir  d'appliquer une <LienInterne LienPublication="F31697" type="Fiche d'information" audience="Particuliers">grille de vétusté</LienInterne>. Une copie doit en être annexée au bail. </Paragraphe>
+<Paragraphe>Si les charges font l'objet d'un forfait, il peut être révisé chaque année dans les mêmes conditions que le loyer, c'est-à-dire en fonction de la variation annuelle de l'<LienInterne LienPublication="F13723" type="Fiche d'information" audience="Particuliers">IRL</LienInterne>.</Paragraphe>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le logement loué meublé doit répondre à des critères <LienInterne LienPublication="F2042" type="Fiche d'information" audience="Particuliers">d'ameublement minimum</LienInterne>.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée du bail</Paragraphe>
+</Titre><Paragraphe>La durée du bail d'une location meublée est de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>1 an dans la plupart des cas ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>9 mois si la location est consentie à un étudiant. </Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renouvellement</Paragraphe>
+</Titre><Paragraphe>Lorsque la durée du contrat est d'1 an, il se renouvelle automatiquement à son terme si les parties ne donnent pas congé. </Paragraphe>
+<Paragraphe>Lorsque la durée du contrat est de 9 mois, le renouvellement n'est pas possible : le bail prend fin à son terme sans que les parties ne soient obligées de donner congé. </Paragraphe>
+<Paragraphe>Un nouveau bail doit alors être signé si les parties souhaitent poursuivre la location.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Bail signé entre le 27 mars 2014 et le 31 juillet 2015</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme du bail</Paragraphe>
+</Titre><Paragraphe>Le bail doit être établi par écrit en autant d'exemplaires qu'il y a de parties (propriétaire, locataire, colocataires, caution…). Il peut prendre la forme d'un <LienIntra LienID="R17852" type="Définition de glossaire">acte sous-seing privé</LienIntra> ou d'un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu du contrat</Paragraphe>
+</Titre><Paragraphe>La rédaction du bail est libre, à charge pour le bailleur d'y préciser certains éléments, notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le montant du loyer et ses modalités de <LienInterne LienPublication="F1311" type="Fiche d'information" audience="Particuliers">révision</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant du <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la durée de la location ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les modalités de récupération des charges (au forfait ou au réel).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si les charges font l'objet d'un forfait, il peut être révisé chaque année dans les mêmes conditions que le loyer, c'est-à-dire en fonction de la variation annuelle de l'<LienInterne LienPublication="F13723" type="Fiche d'information" audience="Particuliers">IRL</LienInterne>.</Paragraphe>
+<Paragraphe>Le propriétaire a par ailleurs l'obligation d'annexer les documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31270" type="Fiche d'information" audience="Particuliers">l'état des lieux</LienInterne> établi lors de la remise des clés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un inventaire et un état détaillé du mobilier ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le <LienInterne LienPublication="F33463" type="Fiche Question-réponse" audience="Particuliers"> dossier de diagnostics techniques immobiliers</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée du bail</Paragraphe>
+</Titre><Paragraphe>La durée du bail d'une location meublée est de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>1 an dans la plupart des cas ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>9 mois si la location est consentie à un étudiant. </Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renouvellement</Paragraphe>
+</Titre><Paragraphe>Lorsque la durée du contrat est d'1 an, il se renouvelle automatiquement à son terme si les parties ne donnent pas congé. </Paragraphe>
+<Paragraphe>Lorsque la durée du contrat est de 9 mois, le renouvellement n'est pas possible : le bail prend fin à son terme sans que les parties ne soient obligées de donner congé. </Paragraphe>
+<Paragraphe>Un nouveau bail doit alors être signé si les parties souhaitent poursuivre la location.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Bail signé avant le 27 mars 2014</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme du bail</Paragraphe>
+</Titre><Paragraphe>Le bail doit être établi par écrit en autant d'exemplaires qu'il y a de parties (propriétaire, locataire, colocataires, caution…). Il peut prendre la forme d'un <LienIntra LienID="R17852" type="Définition de glossaire">acte sous-seing privé</LienIntra> ou d'un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu du contrat</Paragraphe>
+</Titre><Paragraphe>La rédaction du bail est libre.</Paragraphe>
+<Paragraphe>Toute clause peut y être insérée à condition de ne pas figurer parmi <LienInterne LienPublication="F1686" type="Fiche d'information" audience="Particuliers">la liste des clauses abusives</LienInterne> établie par la commission des clause abusives.</Paragraphe>
+<Paragraphe>Le <LienInterne LienPublication="F10798" type="Fiche Question-réponse" audience="Particuliers"> dossier de diagnostics techniques immobiliers</LienInterne> doit obligatoirement être annexé au contrat.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée du bail</Paragraphe>
+</Titre><Paragraphe>La durée du bail d'une location meublée est de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>1 an dans la plupart des cas ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>9 mois si la location est consentie à un étudiant. </Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renouvellement</Paragraphe>
+</Titre><Paragraphe>Lorsque la durée du contrat est d'1 an, il se renouvelle automatiquement à son terme si les parties ne donnent pas congé. </Paragraphe>
+<Paragraphe>Lorsque la durée du contrat est de 9 mois, le renouvellement n'est pas possible : le bail prend fin à son terme sans que les parties ne soient obligées de donner congé. </Paragraphe>
+<Paragraphe>Un nouveau bail doit alors être signé si les parties souhaitent poursuivre la location.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations>
+<OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<Complement>Pour obtenir une information complémentaire</Complement>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023276582&amp;cidTexte=LEGITEXT000006069108" ID="R32947">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 3</Titre>
+<Complement>Mentions obligatoires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475055&amp;cidTexte=LEGITEXT000006069108" ID="R35708">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 5</Titre>
+<Complement>Mentions relatives aux frais d'agence</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000509310" ID="R35952">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 10</Titre>
+<Complement>Durée du bail</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649868" ID="R41325">
+<Titre>Décret n° 2015-587 du 29 mai 2015 relatif aux contrats types de location de logement à usage de résidence principale</Titre>
+<Complement>Bail-type</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649902" ID="R41326">
+<Titre>Arrêté du 29 mai 2015 relatif au contenu de la notice d'information annexée aux contrats de location de logement à usage de résidence principale</Titre>
+<Complement>Notice informative</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000018093117&amp;cidTexte=LEGITEXT000006069108" ID="R35773">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 17</Titre>
+<Complement>Complément de loyer</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030711540" ID="R41286">
+<Titre>Décret n°2015-650 du 10 juin 2015 relatif aux modalités de mise en œuvre du dispositif d'encadrement du niveau de certains loyer</Titre>
+<Complement>Complément de loyer (article 3)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032320564" ID="R43908">
+<Titre>Décret n°2016-382 fixant les modalités d'établissement de l'état des lieux et de prise en compte de la vétusté des logements loués à usage de résidence principale</Titre>
+<Complement>Grille de vétusté</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R44322" URL="http://www.conso.net/sites/default/files/pdf/INC_FP105_contrat-type-logement-vide.pdf" audience="Particuliers" format="application/pdf" poids="308.8 KB">
+<Titre>Modèle de contrat de bail : logement vide</Titre>
+<Complement>Pour les contrats de bail conclus depuis le 1er août 2015</Complement>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R44326" URL="http://www.conso.net/sites/default/files/pdf/INC_FP105_contrat-type-logement-meuble.pdf" audience="Particuliers" format="application/pdf" poids="312.8 KB">
+<Titre>Modèle de contrat de bail : logement meublé</Titre>
+<Complement>Pour les contrats de bail conclus depuis le 1er août 2015</Complement>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41323" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649868" audience="Particuliers">
+<Titre>Forme du contrat de bail (vide ou meublé)</Titre>
+<Complement>Pour les contrats de bail conclus depuis le 1er août 2015</Complement>
+<Source ID="R30758">Premier ministre</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41327" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030649902" audience="Particuliers">
+<Titre>Contenu de la notice informative à annexer au contrat de bail (vide ou meublé)</Titre>
+<Complement>Pour les contrats de bail conclus depuis le 1er août 2015</Complement>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R38207" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475055&amp;cidTexte=LEGITEXT000006069108" audience="Particuliers">
+<Titre>Article 5 I de la loi n°89-462 du 6 juillet 1989</Titre>
+<Complement>Mentions à reproduire en cas de recours à un agent immobilier</Complement>
+<Source ID="R38880">Legifrance</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R44081" URL="http://www.conso.net/content/le-contrat-type-de-bail-en-10-questions" audience="Particuliers">
+<Titre>Le contrat type de location en 10 questions</Titre>
+<Complement>Pour les contrats de bail conclus depuis le 1er août 2015</Complement>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41322" URL="http://www.drihl.ile-de-france.developpement-durable.gouv.fr/le-dispositif-d-encadrement-des-loyers-a-paris-a3564.html" audience="Particuliers">
+<Titre>Précisions sur le dispositif d'encadrement des loyers à Paris</Titre>
+<Source ID="R41321">Direction régionale et interdépartementale de l'hébergement et du logement - IDF</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R43910" URL="http://www.conso.net/content/etat-des-lieux-et-vetuste-ce-qui-change-au-1er-juin-2016" audience="Particuliers">
+<Titre>État des lieux et vétusté : ce qui change au 1er juin 2016</Titre>
+<Complement>Grille de vétusté</Complement>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R41335">
+<Titre>Complément de loyer</Titre>
+<Texte>
+				<Paragraphe>Loyer complémentaire au loyer de base pour un logement présentant des caractéristiques de localisation ou de confort particulières (vue imprenable sur un monument historique, grande terrasse...) par rapport à un logement de niveau comparable</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000018093117&amp;cidTexte=LEGITEXT000006069108" ID="R35773">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 17</Titre>
+</Reference>
+</Definition>
+<Definition ID="R17851">
+<Titre>Acte authentique</Titre>
+<Texte>
+				<Paragraphe>Document établi par un officier public compétent (notaire, huissier, officier d'état civil), rédigé selon les formalités exigées par la loi et dont le contenu  peut avoir la même force qu'une décision judiciaire</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R18320">
+<Titre>Surface habitable des logements</Titre>
+<Texte>
+				<Paragraphe>Surface au sol déduction faite des murs, cloisons, marches et cages d'escaliers, gaines, embrasures de portes et de fenêtres. Certains espaces sont exclus de la surface habitable : combles non aménagés, caves, sous-sol, remise, garages, terrasses, loggias, balcons, séchoirs extérieurs, vérandas, locaux communs, dépendances, espaces dont la hauteur est inférieure à 1,80 mètre.</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006896335&amp;cidTexte=LEGITEXT000006074096" ID="R35943">
+<Titre>Code de la construction de de l'habitation : article R*111-2</Titre>
+</Reference>
+</Definition>
+<Definition ID="R17852">
+<Titre>Acte sous seing privé</Titre>
+<Texte>
+				<Paragraphe>Acte rédigé et signé par des particuliers, sans la présence d'un notaire (par exemple, un contrat)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032037833&amp;cidTexte=LEGITEXT000006070721" ID="R2270">
+<Titre>Code civil : articles 1372 à 1377</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F31301" audience="Particuliers">Quelles sont les voies de recours dans un litige locatif ?</QuestionReponse>
+<QuestionReponse ID="F1614" audience="Particuliers">Un propriétaire peut-il louer un logement vide pour moins de 3 ans ?</QuestionReponse>
+<QuestionReponse ID="F1159" audience="Particuliers">Qui a la qualité de locataire dans un couple marié ?</QuestionReponse>
+<QuestionReponse ID="F2565" audience="Particuliers">Qui a la qualité de locataire dans un couple pacsé ?</QuestionReponse>
+<QuestionReponse ID="F2562" audience="Particuliers">Qui a la qualité de locataire en cas de concubinage ?</QuestionReponse>
+<QuestionReponse ID="F1165" audience="Particuliers">Location meublée ou location vide : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F1220" audience="Particuliers">Un mineur peut-il signer un bail d'habitation ?</QuestionReponse>
+<QuestionReponse ID="F1703" audience="Particuliers">Peut-on se rétracter après avoir signé un bail d'habitation ?</QuestionReponse>
+<QuestionReponse ID="F1351" audience="Particuliers">Comment signer une convention Anah pour son logement ?</QuestionReponse>
+<QuestionReponse ID="F1219" audience="Particuliers">Quel est le régime d'une location soumise à la loi de 1948 ?</QuestionReponse>
+<QuestionReponse ID="F1314" audience="Particuliers">En quoi consiste l'encadrement des loyers ?</QuestionReponse>
+</Publication>

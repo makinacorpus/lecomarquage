@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32278" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on modifier le terme d'une mission d'intérim ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Oui, le terme initial d'une mission d'intérim peut être modifié dans certaines limites si une clause du contrat de mise à disposition le prévoit.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32278</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006198550&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19871</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19871">Contrats de travail dans le secteur privé</Niveau>
+<Niveau ID="F32278" type="Fiche Question-réponse">Peut-on modifier le terme d'une mission d'intérim ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19962">Contrats et carrière</SousThemePere><DossierPere ID="N19871">
+<Titre>Contrats de travail dans le secteur privé</Titre><SousDossier ID="N19871-1">
+<Titre>Contrat à durée indéterminée (CDI)</Titre>
+<Fiche ID="F1906">Caractéristiques du CDI</Fiche>
+<Fiche ID="F2339">Modification du CDI</Fiche>
+<Fiche ID="F10033">Rupture du CDI</Fiche>
+</SousDossier>
+<SousDossier ID="N19871-2">
+<Titre>Contrat à durée déterminée (CDD)</Titre>
+<Fiche ID="F34">Cas de recours au CDD</Fiche>
+<Fiche ID="F36">Conclusion du CDD</Fiche>
+<Fiche ID="F41">Situation du salarié en CDD</Fiche>
+<Fiche ID="F38">Renouvellement d'un CDD</Fiche>
+<Fiche ID="F40">Fin du CDD</Fiche>
+</SousDossier>
+<SousDossier ID="N19871-3">
+<Titre>Contrat temporaire ou d'intérim</Titre>
+<Fiche ID="F11214">Cas de recours au contrat de travail temporaire (intérim)</Fiche>
+<Fiche ID="F11215">Durée du contrat</Fiche>
+<Fiche ID="F1873">Forme et contenu du contrat</Fiche>
+<Fiche ID="F11222">Droits du travailleur temporaire</Fiche>
+<Fiche ID="F11218">Renouvellement et fin du contrat</Fiche>
+<Fiche ID="F11220">Rupture anticipée du contrat</Fiche>
+<Fiche ID="F11221">Rémunération du salarié</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, si une clause du contrat de mise à disposition le prévoit, le terme de la mission peut être avancé ou reporté de plusieurs jours en fonction de sa durée initiale.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Mission inférieure à 10 jours</Paragraphe>
+</Titre><Paragraphe>Le terme peut être avancé ou reporté de 2 jours.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mission de 10 jours ou plus</Paragraphe>
+</Titre><Paragraphe>Le terme peut être avancé ou reporté d'1 jour pour 5 jours travaillés.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>en cas de remplacement, le terme peut être reporté jusqu'au surlendemain du jour où la personne remplacée reprend son emploi.</Paragraphe>
+</ASavoir>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006198550&amp;cidTexte=LEGITEXT000006072050" ID="R38173">
+<Titre>Code du travail : articles L1251-29 à L1251-34</Titre>
+<Complement>Articles L1251-30 et L1251-31</Complement>
+</Reference>
+</Publication>

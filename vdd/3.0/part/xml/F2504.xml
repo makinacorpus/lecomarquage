@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2504" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment connaître sa caisse de retraite ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Les caisses de retraite diffèrent selon votre secteur d'activité (salarié, agent de la fonction publique, commerçant, profession libérale...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-27</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2504</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N381</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N381">Retraite des salariés du secteur privé</Niveau>
+<Niveau ID="F2504" type="Fiche Question-réponse">Comment connaître sa caisse de retraite ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20166">Retraite</SousThemePere><DossierPere ID="N381">
+<Titre>Retraite des salariés du secteur privé</Titre><SousDossier ID="N381-1">
+<Titre>Avant la retraite</Titre>
+<Fiche ID="F24617">Droit à l'information sur la retraite</Fiche>
+<Fiche ID="F15675">Rachat de trimestres</Fiche>
+</SousDossier>
+<SousDossier ID="N381-2">
+<Titre>Âge de départ à la retraite</Titre>
+<Fiche ID="F14043">Âge minimum de départ à la retraite</Fiche>
+<Fiche ID="F12842">Retraite progressive</Fiche>
+</SousDossier>
+<SousDossier ID="N381-3">
+<Titre>Départ à la retraite anticipé</Titre>
+<Fiche ID="F13845">Carrière longue</Fiche>
+<Fiche ID="F14101">Pénibilité du travail</Fiche>
+<Fiche ID="F16337">Handicap</Fiche>
+<Fiche ID="F2110">Préretraite amiante</Fiche>
+</SousDossier>
+<SousDossier ID="N381-4">
+<Titre>Trimestres de retraite</Titre>
+<Fiche ID="F1761">Durée d'assurance</Fiche>
+<Fiche ID="F16336">Majoration pour enfant</Fiche>
+<Fiche ID="F32126">Majoration pour congé parental d'éducation</Fiche>
+<Fiche ID="F32127">Majoration pour enfant handicapé</Fiche>
+<Fiche ID="F19666">Décote</Fiche>
+<Fiche ID="F2574">Assurance vieillesse des parents au foyer (AVPF)</Fiche>
+</SousDossier>
+<SousDossier ID="N381-5">
+<Titre>Pension de retraite</Titre>
+<Fiche ID="F21552">Calcul de la pension</Fiche>
+<Fiche ID="F14044">Retraite à taux plein</Fiche>
+<Fiche ID="F19643">Majoration de la pension</Fiche>
+<Fiche ID="F15522">Montants minimum et maximum de la pension</Fiche>
+<Fiche ID="F13243">Cumul emploi-retraite</Fiche>
+<Fiche ID="F15396">Retraite complémentaire</Fiche>
+<Fiche ID="F16344">Versement de la pension</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les caisses de retraite diffèrent selon votre secteur d'activité (salarié, fonctionnaire, agent non titulaire de la fonction publique, commerçant, profession libérale...).</Paragraphe>
+<Paragraphe>Si vous travaillez (ou avez travaillé précédemment) en tant que salarié ou agent de la fonction publique, vos caisses de retraite sont les suivantes :</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Salarié</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="42" type="normal"/>
+<Colonne largeur="42" type="normal"/>
+<Colonne largeur="43" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Catégorie de salarié</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Caisse de retraite principale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Caisse de retraite complémentaire</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salarié non cadre du secteur privé</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R31538" type="Acronyme">Cnav</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R40033" type="Acronyme">Arrco</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salarié cadre du secteur privé</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> Cnav</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> <LienInterne LienPublication="R40034" type="Acronyme">Agirc</LienInterne> + Arrco </Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Agent de la fonction publique</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="33" type="header"/>
+<Colonne largeur="29" type="normal"/>
+<Colonne largeur="27" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Statut de l'agent</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Types de fonction publique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Caisse de retraite principale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Caisse de retraite complémentaire</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="3">
+<Paragraphe>Fonctionnaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Fonctionnaire d'État</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Service des retraites de l'État</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R40036" type="Sigle">RAFP</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Fonctionnaire territorial</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R31192" type="Sigle">CNRACL</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>RAFP</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Fonctionnaire hospitalier</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>CNRACL</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>RAFP</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Agent non titulaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Toutes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Cnav</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R40037" type="Acronyme">Ircantec</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+</Texte><ServiceEnLigne ID="R46083" URL="https://www.info-retraite.fr/portail-services/#/" type="Téléservice">
+<Titre>Mon compte retraite</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1388" URL="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/Guides%20et%20formulaires/demande-retraite-personnelle.pdf" numerocerfa="10916*08" autrenumero="S 5135g" type="Formulaire">
+<Titre>Demande de retraite personnelle - régime général de la Sécurité sociale, régime agricole (MSA), régime social des indépendants (RSI), régime des cultes (Cavimac)</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R3038" URL="http://www.marel.fr/" type="Simulateur">
+<Titre>Estimation du montant de la pension de retraite (salarié, fonctionnaire, travailleur indépendant)</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1392" URL="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/Guides%20et%20formulaires/demande-retraite-reversion.pdf" numerocerfa="13364*02" autrenumero="S 5136d" type="Formulaire">
+<Titre>Demande de retraite de réversion (activité salariée, agricole, libérale, artisanale, commerciale ou culturelle)</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1574" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14107.do" numerocerfa="14107*01" type="Formulaire">
+<Titre>Demande de mise en paiement différée d'une pension de retraite de l'État</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41812" URL="http://www.info-retraite.fr" commentaireLien="Info retraite : site commun aux organismes de retraite obligatoire" audience="Particuliers">
+<Titre>Site info-retraite.fr</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41813" URL="https://www.lassuranceretraite.fr/portail-info/accueil" commentaireLien="site d'information concernant la retraite de la sécurité sociale" audience="Particuliers">
+<Titre>Site de la retraite de la Sécurité sociale</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41795" URL="http://www.arrco.fr/" commentaireLien="Site de l'association qui gère la retraite complémentaire des salariés du secteur privé" audience="Particuliers">
+<Titre>Site de l'Arrco</Titre>
+<Source ID="R30615">Association pour le régime de retraite complémentaire des salariés (ARRCO)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41796" URL="http://www.agirc.fr/" commentaireLien="Site de l'association qui gère la retraite complémentaire des cadres du secteur privé" audience="Particuliers">
+<Titre>Site de l'Agirc</Titre>
+<Source ID="R30617">Association générale des institutions de retraite des cadres (Agirc)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41800" URL="https://retraitesdeletat.gouv.fr/" commentaireLien="Le site du régime des retraites des fonctionnaires de l'Etat, des magistrats et des militaires" audience="Particuliers">
+<Titre>Site des retraites des fonctionnaires de l'État</Titre>
+<Source ID="R30647">Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41797" URL="http://www.cnracl.fr" commentaireLien="Site de la Caisse nationale de retraite des agents des collectivités locales" audience="Particuliers">
+<Titre>Site de la CNRACL</Titre>
+<Source ID="R30623">Caisse nationale de retraite des agents des collectivités locales (CNRACL)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41802" URL="http://www.rafp.fr" commentaireLien="Site de la caisse de retraite complémentaire obligatoire des fonctionnaires (retraite additionnelle de la fonction publique)" audience="Particuliers">
+<Titre>Site du RAFP</Titre>
+<Source ID="R30687">Établissement de retraite additionnelle de la fonction publique (ERAFP)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41799" URL="http://www.ircantec.fr" audience="Particuliers">
+<Titre>Site de l'Ircantec</Titre>
+<Source ID="R30645">Institution de retraite complémentaire - agents non titulaires de l'État et des collectivités (Ircantec)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R40037" type="Acronyme">
+<Titre>Ircantec</Titre>
+<Texte>
+<Paragraphe>Institution de retraite complémentaire des agents non titulaires de l'État et des collectivités publiques</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R40034" type="Acronyme">
+<Titre>Agirc</Titre>
+<Texte>
+<Paragraphe>Association générale des institutions de retraite des cadres</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R40033" type="Acronyme">
+<Titre>Arrco</Titre>
+<Texte>
+<Paragraphe>Association pour le régime de retraite complémentaire des salariés</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R31192" type="Sigle">
+<Titre>CNRACL</Titre>
+<Texte>
+<Paragraphe>Caisse nationale de retraites des agents des collectivités locales</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R40036" type="Sigle">
+<Titre>RAFP</Titre>
+<Texte>
+<Paragraphe>Retraite additionnelle de la fonction publique</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R31538" type="Acronyme">
+<Titre>Cnav</Titre>
+<Texte>
+<Paragraphe>Caisse nationale d'assurance vieillesse</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

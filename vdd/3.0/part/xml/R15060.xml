@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R15060" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'autorisation d'une rupture conventionnelle d'un contrat de travail à durée indéterminée (CDI) d'un salarié protégé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Demande d'autorisation d'une rupture conventionnelle d'un contrat de travail à durée indéterminée (CDI) d'un salarié protégé - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-20</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R15060</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R15060" type="Formulaire">Demande d'autorisation d'une rupture conventionnelle d'un contrat de travail à durée indéterminée (CDI) d'un salarié protégé</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14599*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14599.do" format="application/pdf" poids="235.3 KB">
+<Source>Ministère en charge du travail</Source>
+</LienWeb>
+<FicheLiee ID="F19030" audience="Particuliers" type="Fiche d'information">
+<Titre>Rupture conventionnelle : conditions et procédure</Titre>
+<Dossier ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23261" audience="Professionnels" type="Fiche d'information">
+<Titre>Rupture conventionnelle d'un CDI</Titre>
+<Dossier ID="N13415">Fin et rupture de contrat</Dossier>
+</FicheLiee><OuSAdresser ID="R20" type="Local personnalisé sur SP">
+<Titre>Unité départementale de la Direccte</Titre>
+<PivotLocal>direccte_ut</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Unit%C3%A9+territoriale+de+la+Direccte&amp;where="/>
+</OuSAdresser>
+</ServiceComplementaire>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32235" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Harcèlement téléphonique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Les appels téléphoniques ou SMS malveillants et répétés sont assimilables à du harcèlement et constituent donc un délit. Vous pouvez collecter vous-même les preuves de ce harcèlement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-05</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32235</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006417656&amp;cidTexte=LEGITEXT000006070719</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31146</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N31146">Harcèlement</Niveau>
+<Niveau ID="F32235" type="Fiche d'information">Harcèlement téléphonique</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20326">Infractions</SousThemePere><DossierPere ID="N31146">
+<Titre>Harcèlement</Titre>
+<Fiche ID="F32235">Harcèlement téléphonique</Fiche>
+<Fiche ID="F2354">Harcèlement moral au travail</Fiche>
+<Fiche ID="F1043">Harcèlement sexuel</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les appels téléphoniques ou SMS malveillants et répétés sont assimilables à du harcèlement et constituent donc un délit. Vous pouvez collecter vous-même les preuves de ce harcèlement.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Faits concernés</Paragraphe>
+</Titre><Paragraphe>Les appels téléphoniques répétés et malveillants sont considérés comme du harcèlement. Ils sont réalisés dans un seul but de nuisance, en vue de troubler votre tranquillité.</Paragraphe>
+<Paragraphe>2 appels insultants ou menaçants dans un court délai sont considérés comme des appels répétés et peuvent donc constituer un  harcèlement téléphonique.</Paragraphe>
+<Paragraphe>Les faits sont également punis même si l'auteur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>laisse des messages malveillants sur votre boîte vocale de la victime,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou se contente de faire sonner votre téléphone  sans vous parler dans un seul but de troubles sonores.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'envoi répété de SMS ou de courriers électroniques malveillants est assimilé à du harcèlement téléphonique.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le <LienInterne LienPublication="F33267" type="Fiche Question-réponse" audience="Particuliers">démarchage téléphonique abusif</LienInterne> par des commerçants ne relève pas du harcèlement téléphonique. </Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Preuves et plainte</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Collecte des preuves</Paragraphe>
+</Titre><Paragraphe>Vous pouvez collecter vous-même des preuves de votre harcèlement sans attendre l'enquête de police ou de gendarmerie.</Paragraphe>
+<Paragraphe>Tout mode de preuve est admis :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>enregistrements des appels même à l'insu de l'auteur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>enregistrements des messages laissés sur votre boîte vocale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>captures d'écran de SMS... </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il convient également de noter les dates et horaires précis des appels. Vous pourrez fournir tous ces éléments à la police lorsque vous porterez plainte.</Paragraphe>
+<Paragraphe>Vous pouvez faire appel à un huissier de justice.</Paragraphe><OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de plainte</Paragraphe>
+</Titre><Paragraphe>Vous avez un délai de 3 ans depuis le dernier appel malveillant pour porter plainte. La justice prendra alors en compte tous les appels concernés même s'ils datent de plus de 3 ans.</Paragraphe>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre>
+										<Paragraphe>Vous devez vous adresser à un commissariat de police ou une brigade de gendarmerie.</Paragraphe>
+										<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+										<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+										<Paragraphe>La réception de la plainte ne peut pas vous être refusée.</Paragraphe>
+										<Paragraphe>La plainte est ensuite transmise au procureur de la République.</Paragraphe>
+									
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre>
+										<Paragraphe>Vous devez écrire directement au procureur de la République. Il faut envoyer une <LienInterne LienPublication="R11469" type="Modèle de document" audience="Particuliers">lettre sur papier libre</LienInterne> au tribunal de grande instance du lieu de l'infraction ou du domicile de l'auteur de l'infraction.</Paragraphe>
+										<Paragraphe>La lettre doit préciser :</Paragraphe>
+										<Liste type="puce">
+											<Item>
+												<Paragraphe>l'état civil complet du plaignant et ses coordonnées complètes (adresse et numéro de téléphone),</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>le récit détaillé des faits, la date et le lieu de l'infraction,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>le nom de l'auteur présumé s'il est connu du plaignant (à défaut, il convient de déposer plainte contre X),</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>les noms et adresses des éventuels témoins de cette infraction,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>la description et l'estimation provisoire ou définitive du préjudice,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>les documents de preuve  : certificats médicaux constatant les blessures, arrêts de travail, factures diverses, constats en cas de dégâts matériels.</Paragraphe>
+												<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+											</Item>
+										</Liste>
+									
+										<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+									
+										<Paragraphe>Vous pouvez envoyer votre plainte en lettre recommandée avec accusé de réception mais ce n'est pas obligatoire, vous pouvez envoyer une lettre simple. Dans tous les cas, un récépissé vous sera remis dès que le procureur aura enregistré votre plainte.</Paragraphe>
+									
+</Cas>
+</BlocCas>
+
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Peines encourues</Paragraphe>
+</Titre><Paragraphe>La personne coupable de harcèlement téléphonique risque :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>1 an de prison</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et <Valeur>15 000 €</Valeur> d'amende.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'auteur peut également être condamné à une obligation de soins dans le cadre d'un <LienInterne LienPublication="F1531" type="Fiche d'information" audience="Particuliers">sursis avec mise à l'épreuve</LienInterne>.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R17892" type="Centre de contact">
+<Titre>Violences Femmes Info - 3919</Titre>
+<Complement>Pour obtenir des conseils</Complement><Texte>
+						
+								<Paragraphe>
+			Écoute, informe et oriente les femmes victimes de violences, ainsi que les témoins de violences faites à des femmes.
+		</Paragraphe>
+								<Paragraphe>
+			Traite les violences physiques, verbales ou psychologiques, à la maison ou au travail, et de toute nature (dont les harcèlements sexuels, les coups et blessures et les viols).
+		</Paragraphe>
+								<Paragraphe>
+			Ne traite pas les situations d'urgence (n'est pas un service de police ni de gendarmerie).
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>39 19</MiseEnEvidence>
+      (appel gratuit depuis un téléphone fixe ou mobile)
+    
+		</Paragraphe>
+								<Paragraphe>
+			Ouvert </Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>de 8h à 22h du lundi au vendredi,</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>et de 9h à 18h le samedi, le dimanche et les jours fériés.</Paragraphe>
+									</Item>
+								</Liste>
+								<Paragraphe>
+			Appel anonyme. </Paragraphe>
+								<Paragraphe>Appel ne figurant pas sur les factures de téléphone. </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<Complement>Pour se faire assister</Complement>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour obtenir des conseils</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006417656&amp;cidTexte=LEGITEXT000006070719" ID="R37816">
+<Titre>Code pénal : article 222-16</Titre>
+<Complement>Peines encourues</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R35961" URL="http://www.interieur.gouv.fr/A-votre-service/Ma-securite/Aide-aux-victimes" audience="Particuliers">
+<Titre>Guide des droits des victimes</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32247" audience="Particuliers">Que faire en cas de harcèlement ?</QuestionReponse>
+
+</Publication>

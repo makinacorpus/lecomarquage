@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23657" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Doit-on posséder un permis pour conduire un bateau ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>La réponse varie en fonction du type de bateau, de sa puissance et du lieu de la navigation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23657</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000648362, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027714546</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N550</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N550">Permis bateau et navigation de plaisance</Niveau>
+<Niveau ID="F23657" type="Fiche Question-réponse">Doit-on posséder un permis pour conduire un bateau ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N168">Vacances</SousThemePere><DossierPere ID="N550">
+<Titre>Permis bateau et navigation de plaisance</Titre><SousDossier ID="N550-1">
+<Titre>Naviguer en eaux intérieures</Titre>
+<Fiche ID="F14022">Permis bateau (permis plaisance) option eaux intérieures</Fiche>
+<Fiche ID="F14023">Extension grande plaisance eaux intérieures</Fiche>
+<Fiche ID="F2071">Enregistrement du bateau</Fiche>
+<Fiche ID="F2086">Sécurité des plaisanciers</Fiche>
+</SousDossier>
+<SousDossier ID="N550-2">
+<Titre>Naviguer en mer</Titre>
+<Fiche ID="F833">Francisation</Fiche>
+<Fiche ID="F18988">Permis plaisance option côtière</Fiche>
+<Fiche ID="F18989">Extension hauturière du permis plaisance option côtière</Fiche>
+<Fiche ID="F1601">Immatriculation du navire</Fiche>
+<Fiche ID="F2084">Sécurité des plaisanciers</Fiche>
+</SousDossier>
+<SousDossier ID="N550-3">
+<Titre>Achat-vente d'un bateau de plaisance</Titre>
+<Fiche ID="F33838">Navigation maritime : vente d'un bateau de plaisance</Fiche>
+<Fiche ID="F836">Navigation maritime : achat d'un bateau de plaisance</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Bateau à moteur</Paragraphe>
+</Titre><Paragraphe>Un permis plaisance est obligatoire pour conduire un <LienIntra LienID="R18784" type="Définition de glossaire">bateau de plaisance</LienIntra> à moteur d'une puissance motrice de plus de 4,5 kilowatts (6 chevaux), que cela soit sur mer ou sur rivière.</Paragraphe>
+<Paragraphe>Si vous empruntez un bateau, vous devez disposer à bord de  tous les <LienInterne LienPublication="F2071" type="Fiche d'information" audience="Particuliers">titres de navigation</LienInterne> utiles (notamment permis et acte de francisation) ainsi qu'un courrier du propriétaire attestant du prêt du navire.</Paragraphe>
+<Paragraphe>Si vous louez le bateau, en plus des titres de navigation utiles, vous devez être en possession du contrat de location signé.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Voilier en mer</Paragraphe>
+</Titre><Paragraphe> Un permis n'est pas nécessaire pour piloter un voilier en mer. Cependant, en eaux intérieures et en rivière particulièrement, le pilote devra en posséder un si ce voilier dispose d'un moteur de plus de 4,5 kilowatts (6 chevaux).</Paragraphe>
+<Paragraphe>Si vous empruntez un bateau, vous devez disposer à bord de  tous les <LienInterne LienPublication="F2071" type="Fiche d'information" audience="Particuliers">titres de navigation</LienInterne> utiles (notamment permis et acte de francisation) ainsi qu'un courrier du propriétaire attestant du prêt du navire.</Paragraphe>
+<Paragraphe>Si vous louez le bateau, en plus des titres de navigation utiles, vous devez être en possession du contrat de location signé.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F18988" audience="Particuliers">
+<Titre>Permis bateau de plaisance option côtière</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F14022" audience="Particuliers">
+<Titre>Permis bateau (permis plaisance) option eaux intérieures</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000648362" ID="R19039">
+<Titre>Décret n°2007-1167 du 2 août 2007 relatif au permis de conduire et à la formation à la conduite des bateaux de plaisance à moteur</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027714546" ID="R32904">
+<Titre>Arrêté du 10 avril 2013 relatif à la conduite en mer des véhicules nautiques à moteur embarqués sur des navires de plaisance professionnelle immatriculés au registre international frança</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R18093" URL="http://www.developpement-durable.gouv.fr/-Plaisance-et-loisirs-nautiques,1527-.html" audience="Particuliers">
+<Titre>Plaisance et loisirs nautiques</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32861" URL="http://www.developpement-durable.gouv.fr/L-equipement-de-securite-des,13817.html" audience="Particuliers">
+<Titre>L'équipement de sécurité des bateaux de plaisance en navigation intérieure</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32860" URL="http://www.developpement-durable.gouv.fr/IMG/pdf/07a_DGITM_equipement_secu_plaisance_4p_DEF_Web.pdf" audience="Particuliers">
+<Titre>Équipement de sécurité des navires de plaisance (en mer)</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</PourEnSavoirPlus>
+<Definition ID="R18784">
+<Titre>Bateau de plaisance</Titre>
+<Texte>
+				<Paragraphe>Bateau destiné uniquement aux loisirs ou aux sports</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1603" audience="Particuliers">Les anciens permis mer et eaux intérieures sont-ils encore valables ?</QuestionReponse>
+<QuestionReponse ID="F842" audience="Particuliers">Quels sont les contrôles envisageables lorsqu'on quitte les eaux françaises ?</QuestionReponse>
+<QuestionReponse ID="F839" audience="Particuliers">Conduire un scooter des mers : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F2074" audience="Particuliers">Location de bateau en mer : quelles règles de sécurité pour le propriétaire ?</QuestionReponse>
+</Publication>

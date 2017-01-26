@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18819" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'extrait de matrice cadastrale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Fiscalité</dc:subject>
+<dc:description>Demande d'extrait de matrice cadastrale - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-19</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18819</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N22470">Taxes foncières</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18819" type="Formulaire">Demande d'extrait de matrice cadastrale</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11565*04</NumeroCerfa>
+<AutreNumero>6815-EM-SD</AutreNumero>
+<Texte><Paragraphe>Pour obtenir auprès du centre des impôts fonciers un relevé des biens figurant au compte des personnes indiquées au 1er janvier de l'année au titre de laquelle a été émis le dernier rôle de taxes foncières. </Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/9127">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F31638" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe foncière sur les propriétés non bâties</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee><OuSAdresser ID="R16801" type="Local personnalisé sur SP">
+<Titre>Centre des impôts fonciers et cadastre</Titre>
+<PivotLocal>centre_impots_fonciers</PivotLocal>
+<RessourceWeb URL="https://www.impots.gouv.fr/portail/contacts"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+</ServiceComplementaire>

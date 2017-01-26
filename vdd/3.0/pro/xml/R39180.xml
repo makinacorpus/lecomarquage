@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R39180" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Micro-entrepreneur : déclaration de début d'activité commerciale et/ou artisanale (P0 CMB micro-entrepreneur)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Micro-entrepreneur : déclaration de début d'activité commerciale et/ou artisanale (P0 CMB micro-entrepreneur) - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-10</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R39180</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R39180" type="Formulaire">Micro-entrepreneur : déclaration de début d'activité commerciale et/ou artisanale (P0 CMB micro-entrepreneur)</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>15253*02</NumeroCerfa>
+<AutreNumero>P0 CMB micro-entrepreneur / PO</AutreNumero>
+<Texte><Paragraphe>Permet à toute personne physique (en entreprise individuelle) de déclarer une nouvelle activité commerciale, artisanale ou libérale (qu'elle soit permanente ou occasionnelle), sous le statut d'auto-entreprise (régime fiscal micro-entreprise ou prélèvement fiscal libératoire + option micro-social simplifié).</Paragraphe>
+<Paragraphe>Le formulaire cerfa n°14105*01 (intercalaire spécifique aux activités artisanales - ISAA), qui devait accompagner la déclaration des auto-entrepreneurs  exerçant une activité artisanale, n'est plus en vigueur.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15253.do" format="application/force-download" poids="1.6 MB">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb><NoticeLiee ID="R46456" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51934&amp;cerfaFormulaire=15253" numerocerfa="51394*02">Notice – Déclaration de début d'activité commerciale et/ou artisanale</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R19837" audience="Professionnels" type="Téléservice">
+<Titre>Micro-entrepreneur : déclaration en ligne de début, de modification ou de cessation d'activité (ex-auto-entrepreneur)</Titre>
+</ServiceEnLigneAlternatif>
+<OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

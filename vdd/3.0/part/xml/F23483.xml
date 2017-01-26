@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23483" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Enseignement supérieur : formations et diplômes jusqu'au niveau Bac + 2</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Ces formations, accessibles après le baccalauréat, préparent en 2 ans des étudiants dans des lycées (BTS, CPGE) ou des universités (DUT). Les prépa sont des classes qui préparent en 2 ans aux concours des grandes écoles commerciales, scientifiques et littéraires. La Paces est une 1ère année commune à 4 filières de la santé : médecine, dentaire, pharmacie et maïeutique.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-05</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23483</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23482</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N23482">Formations et diplômes de l'enseignement supérieur</Niveau>
+<Niveau ID="F23483" type="Fiche avec liens externes">Enseignement supérieur : formations et diplômes jusqu'au niveau Bac + 2</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N23482">
+<Titre>Formations et diplômes de l'enseignement supérieur</Titre>
+<Fiche ID="F23483">Formations et diplômes jusqu'au niveau Bac + 2</Fiche>
+<Fiche ID="F23490">Formations et diplômes jusqu'au niveau Bac + 3 et plus</Fiche>
+<Fiche ID="F23489">Métiers de la santé</Fiche>
+<Fiche ID="F16734">Stage en milieu professionnel</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>
+			Ces formations, accessibles après le baccalauréat, préparent en 2 ans des étudiants dans des lycées (BTS, CPGE) ou des universités (DUT).
+			Les <Expression>prépa</Expression> sont des classes qui préparent en 2 ans aux concours des grandes écoles commerciales, scientifiques et littéraires.
+			La Paces est une 1ère année commune à 4 filières de la santé : médecine, dentaire, pharmacie et maïeutique.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.enseignementsup-recherche.gouv.fr/pid24548/b.t.s.html">Brevet de technicien supérieur (BTS)</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/BTSA-Analyse-conduite-et-strategie-de-l-entreprise-agricole">Brevet de technicien supérieur agricole (BTSA)</LienExterne>
+
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.enseignementsup-recherche.gouv.fr/cid20192/diplome-universitaire-de-technologie-d.u.t.html">Diplôme universitaire de technologie (DUT)</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.enseignementsup-recherche.gouv.fr/cid20182/classes-preparatoires-aux-grandes-ecoles-e.html">Classes préparatoires aux grandes écoles (CPGE)</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.enseignementsup-recherche.gouv.fr/cid53276/les-etudes-sante.html#La%20PACES%C2%A0:%20premi%C3%A8re%20ann%C3%A9e%20commune%20des%20%C3%A9tudes%20de%20sant%C3%A9">Première année commune des études de santé (Paces)</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Domaines-d-etudes/Les-ecoles-d-art/Les-conservatoires">Conservatoires (musique, danse, art dramatique)</LienExterne>
+
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</LienExterneCommente><VoirAussi important="non">
+<Fiche ID="F23476" audience="Particuliers">
+<Titre>Procédure Admission Post Bac (APB) </Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<Complement>Pour trouver un établissement supérieur</Complement>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+<OuSAdresser ID="R32421" type="Local personnalisable">
+<Titre>Institut universitaire de technologie (IUT)</Titre>
+<Complement>Pour trouver un IUT</Complement>
+<PivotLocal>iut</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid21016/liste-des-instituts-universitaires-de-technologie-i.u.t.html"/>
+</OuSAdresser>
+<QuestionReponse ID="F31063" audience="Particuliers">Un étudiant peut-il se réorienter pendant la première année d'université ?</QuestionReponse>
+<QuestionReponse ID="F10492" audience="Particuliers">Comment obtenir la copie d'un diplôme ?</QuestionReponse>
+<QuestionReponse ID="F23487" audience="Particuliers">Peut-on passer un examen de l'Éducation nationale en candidat libre ?</QuestionReponse>
+<QuestionReponse ID="F637" audience="Particuliers">Un étudiant peut-il faire un stage dans la fonction publique ?</QuestionReponse>
+</Publication>

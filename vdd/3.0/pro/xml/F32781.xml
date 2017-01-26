@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32781" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le locataire d'un bail commercial peut-il céder son bail ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Le locataire peut librement céder son bail, sauf clause contraire dans le contrat.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-10-08</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32781</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025559451&amp;idSectionTA=LEGISCTA000006161264&amp;cidTexte=LEGITEXT000005634379</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31381</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31381">Fin de bail</Niveau>
+<Niveau ID="F32781" type="Fiche Question-réponse">Le locataire d'un bail commercial peut-il céder son bail ?</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31377">Baux commerciaux et professionnels</SousThemePere><DossierPere ID="N31381">
+<Titre>Fin de bail</Titre>
+<Fiche ID="F31707">Résiliation et fin d'un bail commercial</Fiche>
+<Fiche ID="F32783">Indemnité d'éviction</Fiche>
+<Fiche ID="F22552">Droit de préemption commercial des communes</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le locataire peut librement céder son bail, sauf clause contraire dans le contrat. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le <LienIntra LienID="R37970" type="Définition de glossaire">droit au bail</LienIntra> est un élément du fonds de commerce appartenant au locataire sortant. Par conséquent, le locataire sortant peut céder son bail :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit en cédant son <LienInterne LienPublication="F22532" type="Fiche d'information" audience="Professionnels">fonds de commerce</LienInterne> dont le bail commercial représente un des éléments,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit en cédant le droit au bail seul.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le droit au bail ayant une valeur patrimoniale,il est cédé moyennant le paiement d'une indemnité figurant dans le contrat de cession de bail.</Paragraphe>
+<Paragraphe>La valeur du droit au bail n'est pas liée au chiffre d'affaires ni au bénéfice.</Paragraphe>
+<Paragraphe>La cession du bail permet au repreneur de reprendre le bail conclu entre le précédent occupant et le propriétaire du local pour la durée restant à courir, sans avoir à conclure de nouveau bail et de bénéficier du droit au renouvellement du bail. </Paragraphe>
+<Paragraphe> La cession du bail à l'acquéreur du fonds ne modifie pas le bail primitif, qui subsiste en l'état avec le même loyer. Le changement de titulaire du bail ne constitue donc pas un motif suffisant pour déplafonner le loyer. </Paragraphe>
+<Paragraphe>Le <LienInterne LienPublication="F31925" type="Fiche d'information" audience="Professionnels">loyer</LienInterne> ne peut être augmenté par le propriétaire que lors de la révision triennale du bail ou lors du renouvellement. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>lorsqu'un exploitant cède l'intégralité de son fonds à une personne reprenant la même activité et la même clientèle (reprise du fonds de commerce), le bailleur du local ne peut pas s'opposer à la cession du bail. Toute clause contraire du contrat serait nulle. Une clause du bail peut néanmoins soumettre la cession à certaines conditions (par exemple, clause d'agrément ou clause n'autorisant la cession du bail qu'en cas de vente totale du fonds, à l'exclusion de toute vente partielle). En revanche, une clause du bail peut interdire au locataire de céder le bail seul, indépendamment du fonds.</Paragraphe>
+</Attention><Paragraphe>Lors de la cession du bail, certaines formalités doivent être respectées : la cession doit notamment être notifiée au bailleur par voie d'huissier pour lui être opposable, sauf si la cession est acceptée par le bailleur dans l'acte de cession lui-même.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025559451&amp;idSectionTA=LEGISCTA000006161264&amp;cidTexte=LEGITEXT000005634379" ID="R34680">
+<Titre>Code de commerce : articles L145-8 à L145-12</Titre>
+</Reference>
+<Definition ID="R37970">
+<Titre>Droit au bail</Titre>
+<Texte>
+				<Paragraphe>Droit de prendre la suite du  titulaire d'un bail commercial, d'occuper les locaux et de bénéficier d'un droit au renouvellement du bail.  Il constitue un élément du fonds de commerce appartenant au locataire sortant et a  une valeur patrimoniale.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

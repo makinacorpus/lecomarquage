@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1095" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Rétractation d'un crédit à la consommation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Rétractation d'un crédit à la consommation - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-23</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1095</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N96">Crédit à la consommation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1095" type="Modèle de document">Rétractation d'un crédit à la consommation</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>À  <Variable>identité et adresse du prêteur</Variable>.</Paragraphe>
+<Paragraphe>Je soussigné (*), <Variable>vos nom et prénom</Variable>, déclare renoncer à l'offre de crédit de (*) <Variable>montant emprunté</Variable> euros que j'avais acceptée le (*) <Variable>date de signature de l'emprunt</Variable> pour l'acquisition de (*) (2) <Variable>(précisez le bien acheté ou le service fourni)</Variable> chez (*) (2)  <Variable>(vendeur ou prestataire de services, nom et ville)</Variable>
+</Paragraphe>
+<Paragraphe>Date et signature de l'emprunteur (et  le cas échéant du coemprunteur).</Paragraphe>
+<Paragraphe>
+<Citation>Annotation :</Citation>
+</Paragraphe>
+<Paragraphe>(*) Mention de la main de l'emprunteur.</Paragraphe>
+<Paragraphe>(1) Mention facultative.</Paragraphe>
+<Paragraphe>(2) Lorsque le crédit sert exclusivement à financer la fourniture de biens particuliers ou la prestation de services particuliers, mentionnés par le contrat de crédit.</Paragraphe>
+<Paragraphe>Adressez ce courrier <MiseEnEvidence>en lettre recommandée avec accusé de réception</MiseEnEvidence>.</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F2451" audience="Particuliers" type="Fiche d'information">
+<Titre>Contrat de crédit à la consommation</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2471" audience="Particuliers" type="Fiche d'information">
+<Titre>Crédit à la consommation : carte de crédit (carte privative)</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2441" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Crédit à la consommation : comment fonctionne le droit de rétractation ?</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2434" audience="Particuliers" type="Fiche d'information">
+<Titre>Crédit à la consommation : crédit affecté</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2438" audience="Particuliers" type="Fiche d'information">
+<Titre>Crédit à la consommation : crédit gratuit</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2436" audience="Particuliers" type="Fiche d'information">
+<Titre>Crédit à la consommation : crédit renouvelable</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2437" audience="Particuliers" type="Fiche d'information">
+<Titre>Crédit à la consommation : location avec option d'achat (ou LOA ou leasing)</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2435" audience="Particuliers" type="Fiche d'information">
+<Titre>Crédit à la consommation : prêt personnel</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F21375" audience="Particuliers" type="Fiche d'information">
+<Titre>Microcrédit personnel</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16242" audience="Particuliers" type="Fiche d'information">
+<Titre>Prêt viager hypothécaire</Titre>
+<Dossier ID="N96">Crédit à la consommation</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

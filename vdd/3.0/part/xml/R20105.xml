@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R20105" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de conclusion d'un contrat d'appui au projet d'entreprise (CAPE)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé, Création - Modification - Cessation</dc:subject>
+<dc:description>Déclaration de conclusion d'un contrat d'appui au projet d'entreprise (CAPE) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-04</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R20105</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31132">Chômage : aides à la création ou la reprise d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R20105" type="Formulaire">Déclaration de conclusion d'un contrat d'appui au projet d'entreprise (CAPE)</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<LienWeb URL="http://www.droitissimo.com/sites/default/files/formulaires/Declaration_contrat_appui_projet_entreprise-CAPE.pdf" format="application/pdf" poids="47.9 KB">
+<Source>Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</LienWeb>
+<FicheLiee ID="F11299" audience="Particuliers" type="Fiche d'information">
+<Titre>Contrat d'appui au projet d'entreprise (Cape)</Titre>
+<Dossier ID="N31132">Chômage : aides à la création ou la reprise d'entreprise</Dossier>
+</FicheLiee><OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

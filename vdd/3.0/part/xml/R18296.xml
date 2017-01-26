@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18296" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Étudiant : calculer votre droit à bourse sur critères sociaux</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Simulation destiné à l'étudiant pour déterminer s'il peut bénéficier, pour l'aider à financer ses études, d'un droit à une bourse sur critères sociaux</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-25</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18296</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N20398">Bourses et aides pour l'étudiant</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18296" type="Simulateur">Étudiant : calculer votre droit à bourse sur critères sociaux</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Ce simulateur vous permet, si vous êtes étudiant, de déterminer si vous avez droit à une bourse selon votre situation sociale et votre filière d'études.</Paragraphe>
+<Paragraphe>Pour la rentrée 2017/2018, les revenus pris en compte sont sont ceux figurant à la ligne <Expression>revenu brut global</Expression> de l'avis d'imposition ou de non-imposition de 2016.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.etudiant.gouv.fr/cid97527/simulateur-de-bourse.html">
+<Source>Centre national des oeuvres universitaires et scolaires (CNOUS)</Source>
+</LienWeb>
+<FicheLiee ID="F12216" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Bourse étudiante : comment préparer le DSE (dossier social étudiant) ?</Titre>
+<Dossier ID="N20398">Bourses et aides pour l'étudiant</Dossier>
+</FicheLiee>
+<FicheLiee ID="F12214" audience="Particuliers" type="Fiche d'information">
+<Titre>Étudiant : bourse sur critères sociaux</Titre>
+<Dossier ID="N20398">Bourses et aides pour l'étudiant</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32456" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelles aides peut percevoir un étudiant ?</Titre>
+<Dossier ID="N20398">Bourses et aides pour l'étudiant</Dossier>
+</FicheLiee>
+<FicheLiee ID="F12215" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Un étudiant peut-il toucher la bourse pendant les vacances d'été ?</Titre>
+<Dossier ID="N20398">Bourses et aides pour l'étudiant</Dossier>
+</FicheLiee>
+<Dossier ID="N20398">
+<Titre>Bourses et aides pour l'étudiant</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

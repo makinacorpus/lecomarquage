@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31412" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles sont les dates d'exigibilité en matière de TVA ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>La date de reversement de la TVA encaissée par le professionnel (sa date d'exigibilité) au service des impôts dépend de la nature des opérations. La date d'exigibilité fiscale ne correspond donc pas nécessairement à la date de la transaction.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31412</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006163045&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/1463-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13445</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13445">Taxe sur la valeur ajoutée (TVA)</Niveau>
+<Niveau ID="F31412" type="Fiche Question-réponse">Quelles sont les dates d'exigibilité en matière de TVA ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13445">
+<Titre>Taxe sur la valeur ajoutée (TVA)</Titre><SousDossier ID="N13445-1">
+<Titre>Taux applicables</Titre>
+<Fiche ID="F23567">Application des différents taux de TVA</Fiche>
+<Fiche ID="F22399">Restauration et débits de boisson</Fiche>
+<Fiche ID="F23568">Travaux de rénovation d'un logement</Fiche>
+<Fiche ID="F20558">Vente en détaxe aux touristes</Fiche>
+<Fiche ID="F20781">Secteur culturel (œuvres d'art et spectacles vivants)</Fiche>
+<Fiche ID="F32113">Droits d'auteur</Fiche>
+<Fiche ID="F31596">Services à la personne</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-2">
+<Titre>Déclaration de la TVA</Titre>
+<Fiche ID="F23566">Déclaration et paiement de la TVA</Fiche>
+<Fiche ID="F21746">Franchise en base de TVA</Fiche>
+<Fiche ID="F23569">Déduction de la TVA sur les achats professionnels</Fiche>
+<Fiche ID="F24026">Contributions et taxes assimilées à la TVA</Fiche>
+<Fiche ID="F31983">Autoliquidation de la TVA en cas de sous-traitance dans le BTP</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-3">
+<Titre>Commerce international et TVA</Titre>
+<Fiche ID="F33340">TVA applicable aux échanges européens</Fiche>
+<Fiche ID="F23570">Numéro de TVA intracommunautaire</Fiche>
+<Fiche ID="F31673">Remboursement de la TVA intracommunautaire</Fiche>
+<Fiche ID="F33167">Autoliquidation de la TVA due à l'importation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La date de reversement de la TVA encaissée par le professionnel (sa date d'exigibilité) au service des impôts dépend de la nature des opérations. La date d'exigibilité fiscale ne correspond donc pas nécessairement à la date de la transaction.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Pour certaines opérations, le fait générateur de la taxe (ce qui établit les conditions légales nécessaires pour que la taxe soit exigible) et son exigibilité ne coïncident pas forcément. Le fait générateur peut même parfois être postérieur à la date d'exigibilité ; c'est le cas par exemple pour des travaux immobiliers, dont l'achèvement (fait générateur) peut intervenir après la date d'exigibilité (encaissement d'un acompte).</Paragraphe>
+<Paragraphe>La date d'exigibilité entraîne la date de déductibilité de la TVA : la TVA ne peut être déduite par le professionnel qui l'a collectée qu'à partir du moment où elle est devenue exigible auprès du fournisseur.</Paragraphe>
+<Tableau>
+<Titre>Date d'exigibilité de la TVA en fonction de la nature des opérations</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="49" type="normal"/>
+<Colonne largeur="49" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Nature de l'opération taxable</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Fait générateur</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Date d'exigibilité</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Vente ou livraison d'un bien (= délivrance)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Livraison du bien</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Date d'émission de la facture</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Vente de biens spécifiques (périodiques de presse, spectacles, etc.)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Livraison du bien ou de la prestation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Encaissement du prix du billet d'entrée, de l'abonnement ou de la vente au numéro</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Importation d'un produit en provenance de l'extérieur de l'Union européenne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entrée du bien sur le territoire communautaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dédouanement = paiement des droits de douane</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Prestation de services, dont travaux immobiliers (y compris hors d'Europe)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Achèvement de la prestation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Encaissement du prix ou d'un acompte</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Livraison d'un bien ou prestation de services en Union européenne (= acquisition intracommunautaire)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Livraison du bien en France ou réalisation de la prestation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Le 15 du mois suivant la livraison  ou la prestation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Livraison à soi-même d'un immeuble (ou transmission à titre gratuit)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dépôt en mairie de la déclaration d'urbanisme</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Première utilisation du bien ou changement d'affectation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Livraison à soi-même d'un service</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exécution du service</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Au fur et à mesure de l'exécution des prestations</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Dans le cas de la livraison d'un bien, une facture émise avant le fait générateur est considérée comme une <MiseEnEvidence>facture d'acompte</MiseEnEvidence> et ne déclenche pas l'exigibilité, sauf dans le cas d'un abonnement à un périodique de presse, où la facture globale intervient avant la livraison échelonnée des numéros (la facture initiale liée à l'abonnement payé déclenche bien la date d'exigibilité).</Paragraphe>
+<Paragraphe>Si des prestations de service ont lieu de façon continue sur une période supérieure à 1 an, sans paiements échelonnés, la taxe est exigible à la fin de chaque année civile tant qu'il n'est pas mis fin à la prestation.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>en cas de changement de taux de TVA, c'est le <MiseEnEvidence>fait générateur</MiseEnEvidence>, et non la date d'exigibilité, qui détermine le taux applicable.</Paragraphe>
+</Attention>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006163045&amp;cidTexte=LEGITEXT000006069577" ID="R34567">
+<Titre>Code général des impôts : article 269</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/1463-PGP" ID="R34565">
+<Titre>Bofip-impôts n°BOI-TVA-20 relatif au fait générateur et à l'exigibilité de la TVA</Titre>
+</Reference>
+</Publication>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2689" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Protection subsidiaire : titre de séjour, document de voyage et accompagnement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Si l'Office français de protection des réfugiés et apatrides (Ofpra) vous accorde le bénéfice de la protection subsidiaire, vous recevez un titre de séjour valable un an. Si vous souhaitez quitter la France pour effectuer un voyage, un document de voyage peut vous être délivré.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2689</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180199&amp;cidTexte=LEGITEXT000006070158, http://www.interieur.gouv.fr/content/download/37193/281098/file/INTV1243671C_.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N106</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N106">Demande d'asile</Niveau>
+<Niveau ID="F2689" type="Fiche d'information">Protection subsidiaire : titre de séjour, document de voyage et accompagnement</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N106">
+<Titre>Demande d'asile</Titre><SousDossier ID="N106-1">
+<Titre>Dépôt de la demande d'asile</Titre>
+<Fiche ID="F2232">Première étape de la demande d'asile : enregistrement en préfecture</Fiche>
+<Fiche ID="F15374">Deuxième étape de la demande d'asile : dépôt à l'Ofpra</Fiche>
+</SousDossier>
+<SousDossier ID="N106-2">
+<Titre>Examen de la demande</Titre>
+<Fiche ID="F2717">Instruction par la préfecture des demandes relevant d'un autre pays européen</Fiche>
+<Fiche ID="F15376">Instruction et décision de l'Ofpra</Fiche>
+<Fiche ID="F2675">Recours en cas de rejet de la demande d'asile par l'Ofpra</Fiche>
+</SousDossier>
+<SousDossier ID="N106-3">
+<Titre>Droits pendant l'examen de la demande</Titre>
+<Fiche ID="F32454">Aides sociales</Fiche>
+<Fiche ID="F2741">Droit au travail</Fiche>
+</SousDossier>
+<SousDossier ID="N106-4">
+<Titre>Droits du réfugié ou d'une personne sous protection</Titre>
+<Fiche ID="F15401">Statut de réfugié</Fiche>
+<Fiche ID="F2689">Protection subsidiaire</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Droits du réfugié ou d'une personne sous protection</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si l'Office français de protection des réfugiés et apatrides (Ofpra) vous accorde le bénéfice de la protection subsidiaire, vous recevez un titre de séjour valable un an. Si vous souhaitez quitter la France pour effectuer un voyage, un document de voyage peut vous être délivré.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Titre de séjour</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Nature du titre</Paragraphe>
+</Titre><Paragraphe>En tant que bénéficiaire de la protection subsidiaire, vous avez droit à une <LienInterne LienPublication="F2209" type="Fiche d'information" audience="Particuliers">carte de séjour vie privée et familiale</LienInterne>  vous autorisant à circuler librement en France.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Cette carte est d'une durée d'un an renouvelable.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délivrance</Paragraphe>
+</Titre><Paragraphe>Dès réception du courrier vous reconnaissant la protection, vous devez vous adresser à la préfecture de votre domicile qui vous remettra, dans un délai de 8 jours, un récépissé avec la mention <Expression>a obtenu le bénéfice de la protection subsidiaire</Expression>. </Paragraphe>
+<Paragraphe>Ce récépissé, qui vaut autorisation de séjour, a une validité de 6 mois renouvelable et vous donne le droit d'exercer la profession de votre choix.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R42203" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Service des titres de séjour</Titre>
+<PivotLocal>paris_ppp_titre_sejour</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour/Nous-contacter-Titre-de-sejour"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>La préfecture dispose d'un délai de 3 mois à compter de la décision vous accordant la protection subsidiaire pour vous délivrer votre carte de séjour temporaire, ainsi qu'aux membres de votre famille :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre époux(se), ou votre concubin(e) ou votre partenaire d'union civile, qui est déjà  autorisé à séjourner en France  au titre de la réunification familiale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> votre époux(se) ou votre partenaire d'union civile, âgé d'au moins 18 ans, qui n'est pas encore en France, à condition que  le mariage ou l'union civile soit postérieur à la date d'introduction de votre demande d'asile et  que le mariage ou l'union civile ait été célébré depuis au moins un an et sous réserve d'une communauté de vie effective,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vos enfants de moins de 19 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vos parents si vous êtes un enfant reconnu réfugié entré comme mineur isolé en France.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe> Avant l'expiration de votre carte de séjour temporaire, vous devez solliciter de la préfecture le renouvellement de votre titre.  La préfecture saisira alors l'Ofpra qui pourra refuser le renouvellement de votre protection si les raisons qui ont justifié son octroi ont cessé d'exister.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Document de voyage</Paragraphe>
+</Titre><Paragraphe>Si vous souhaitez  voyager à l'étranger, un titre de voyage peut vous être délivré pour vous  permettre de sortir de France, puis de revenir.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Votre titre de voyage a une durée de validité d'un an.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Lieu de la demande</Paragraphe>
+</Titre><Paragraphe>Vous devez déposer la demande à la préfecture de votre  domicile, sur place uniquement.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la plupart des préfectures fournissent sur leur site un formulaire de demande à télécharger et à remplir.</Paragraphe>
+</ASavoir><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Les pièces suivantes doivent notamment être présentées :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la carte de séjour en cours de validité, original et photocopie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 photos d'identité identiques et <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conformes aux normes</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un justificatif  de domicile de moins de 3 mois à votre nom ou attestation d'hébergement et copie de la pièce d'identité de l'hébergeur, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une preuve que vous êtes sous protection de l'Ofpra (exemple : décision d'admission au statut de réfugié),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en cas de demande de renouvellement, l'ancien titre de voyage  (original et photocopie).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les modalités pratiques variant selon les préfectures, pensez à consulter le site de votre préfecture avant de vous déplacer.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>La délivrance du titre est payante. </Paragraphe>
+<Paragraphe>Vous devez <LienInterne LienPublication="F33071" type="Fiche Question-réponse" audience="Particuliers">acheter un timbre fiscal</LienInterne> d'un montant de <Valeur>15 €</Valeur>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Limites territoriales du document de voyage</Paragraphe>
+</Titre><Paragraphe>Le document de voyage qui vous est délivré indique le ou les pays  qui vous sont interdits.</Paragraphe>
+<Paragraphe>En général, il s'agit uniquement de votre pays d'origine mais, dans certains cas, les craintes de persécution peuvent avoir été établies à l'égard d'autres pays.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Accompagnement pour l'accès aux droits</Paragraphe>
+</Titre><Paragraphe>Lorsque vous avez obtenu votre titre de séjour et signé le <LienInterne LienPublication="F17048" type="Fiche Question-réponse" audience="Particuliers">contrat d'accueil et d'intégration</LienInterne>, vous pouvez être accompagné dans vos démarches pour trouver un emploi et un logement. Cet accompagnement prend notamment en compte votre degré de vulnérabilité et les  besoins particuliers qui en découlent.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180199&amp;cidTexte=LEGITEXT000006070158" ID="R39507">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L313-11 à L313-13</Titre>
+<Complement>Carte de séjour temporaire mention "vie privée et familiale"</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/37193/281098/file/INTV1243671C_.pdf" ID="R31269" format="application/octet-stream" poids="158.9 KB">
+<Titre>Circulaire du 31 décembre 2012 relative aux taxes liées à l'immigration</Titre>
+</Reference>
+<QuestionReponse ID="F33071" audience="Particuliers">Étranger en France : comment acheter un timbre fiscal ?</QuestionReponse>
+</Publication>

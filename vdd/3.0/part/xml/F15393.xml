@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15393" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Filiation de l'enfant d'un couple marié : présomption de paternité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Filiation automatique - Reconnaissance inutile</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-04-29</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15393</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424546&amp;idSectionTA=LEGISCTA000006136169&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424630&amp;idSectionTA=LEGISCTA000006150014&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424931&amp;idSectionTA=LEGISCTA000006165486&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136059&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006425012&amp;idSectionTA=LEGISCTA000006165749&amp;cidTexte=LEGITEXT000006070721, http://circulaires.legifrance.gouv.fr/pdf/2011/11/cir_34124.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N15660</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N15660">Naissance</Niveau>
+<Niveau ID="F15393" type="Fiche d'information">Filiation de l'enfant d'un couple marié : présomption de paternité</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N15660">
+<Titre>Naissance</Titre><SousDossier ID="N15660-1">
+<Titre>Formalités pour le couple</Titre>
+<Fiche ID="F961">Déclaration de naissance</Fiche>
+<Fiche ID="F15393">Filiation de l'enfant d'un couple marié : présomption de paternité</Fiche>
+<Fiche ID="F887">Filiation de l'enfant d'un couple non marié : reconnaissance</Fiche>
+</SousDossier>
+<SousDossier ID="N15660-2">
+<Titre>Démarches judiciaires</Titre>
+<Fiche ID="F15882">Recherche de paternité</Fiche>
+<Fiche ID="F15395">Établissement de la filiation par possession d'état</Fiche>
+<Fiche ID="F1230">Action aux fins de subsides en l'absence de filiation paternelle</Fiche>
+<Fiche ID="F940">Contestation de la filiation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Formalités pour le couple</SousDossierPere>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Filiation à l'égard du père</Titre>
+<Texte><Paragraphe>L'établissement de la filiation d'un enfant de parents mariés est automatique pour les couples mariés. Aucune démarche n'est nécessaire. La présomption de paternité peut être écartée dans certains cas.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Présomption de paternité</Paragraphe>
+</Titre><Paragraphe>Dans un couple marié, la filiation paternelle s'établit automatiquement : le mari est présumé être le père de l'enfant. Son nom est indiqué dans l'acte de naissance.</Paragraphe>
+<Paragraphe>Il n'a pas  besoin de procéder à une reconnaissance et n'a aucune démarche à effectuer pour établir la filiation de son enfant.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Exclusion de présomption de paternité</Paragraphe>
+</Titre><Paragraphe>La présomption de paternité est écartée lorsque l'acte de naissance de l'enfant ne désigne pas le mari en qualité de père (c'est le cas par exemple lorsqu'un autre homme a <LienInterne LienPublication="F887" type="Fiche d'information" audience="Particuliers">reconnu</LienInterne> l'enfant avant sa naissance).</Paragraphe>
+<Paragraphe>La présomption de paternité est également écartée en cas de demande de divorce ou de séparation de corps si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'enfant est né plus de 300 jours après la dissolution du mariage ou de l'ordonnance de non conciliation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et moins de 180 jours depuis le rejet définitif de la demande ou la réconciliation.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>même si elle a été écartée, la <LienInterne LienPublication="F15883" type="Fiche Question-réponse" audience="Particuliers">présomption de paternité peut être rétablie</LienInterne>.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Filiation à l'égard de la mère</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Filiation maternelle établie automatiquement</Paragraphe>
+</Titre><Paragraphe>Pour que la filiation soit établie à l'égard de la mère, il suffit que son nom soit indiqué dans l'acte de naissance.</Paragraphe>
+<Paragraphe>La mère n'a pas besoin de procéder à une reconnaissance et n'a aucune démarche à effectuer pour établir la filiation de son enfant.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>toute convention de maternité portant sur la procréation ou la gestation pour autrui est interdite.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Absence de filiation maternelle</Paragraphe>
+</Titre><Paragraphe>La mère, même mariée, peut choisir de ne pas être désignée dans l'acte de naissance et <LienInterne LienPublication="F3136" type="Fiche d'information" audience="Particuliers">accoucher dans l'anonymat</LienInterne> (sous X).</Paragraphe>
+<Paragraphe>Dans ce cas, la filiation ne peut être établie contre son gré. Si elle souhaite reprendre son enfant, elle doit alors le reconnaître à la mairie dans les 2 mois suivant l'accouchement.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour effectuer une démarche en dehors de Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour effectuer une démarche à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424546&amp;idSectionTA=LEGISCTA000006136169&amp;cidTexte=LEGITEXT000006070721" ID="R15695">
+<Titre>Code civil : articles 310-1 et 310-2</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424630&amp;idSectionTA=LEGISCTA000006150014&amp;cidTexte=LEGITEXT000006070721" ID="R15696">
+<Titre>Code civil : articles 310-3 à 311-2</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424931&amp;idSectionTA=LEGISCTA000006165486&amp;cidTexte=LEGITEXT000006070721" ID="R15697">
+<Titre>Code civil : article 311-25</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136059&amp;cidTexte=LEGITEXT000006070721" ID="R18915">
+<Titre>Code civil : articles 16 à 16-9</Titre>
+<Complement>Article 16-7</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006425012&amp;idSectionTA=LEGISCTA000006165749&amp;cidTexte=LEGITEXT000006070721" ID="R15698">
+<Titre>Code civil : articles 312 à 315</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2011/11/cir_34124.pdf" ID="R2316" format="application/pdf" poids="1.0 MB">
+<Titre>Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation</Titre>
+</Reference>
+</Publication>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F803" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>La prime de précarité est-elle due à la fin d'un contrat d'aide à l'insertion ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Non. Les salariés en contrat d'aide à l'insertion ne bénéficient pas de la prime de précarité prévue à la fin d'un contrat à durée déterminée (CDD).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-09</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F803</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189459&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N443</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N443">Contrats d'insertion</Niveau>
+<Niveau ID="F803" type="Fiche Question-réponse">La prime de précarité est-elle due à la fin d'un contrat d'aide à l'insertion ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19962">Contrats et carrière</SousThemePere><DossierPere ID="N443">
+<Titre>Contrats d'insertion</Titre>
+<Fiche ID="F21006">Contrat unique d'insertion (CUI)</Fiche>
+<Fiche ID="F24438">Emploi d'avenir</Fiche>
+<Fiche ID="F24439">Étudiant apprenti professeur (EAP)</Fiche>
+<Fiche ID="F1019">Contrat adultes-relais</Fiche>
+<Fiche ID="F15759">Contrat à durée déterminée pour les seniors (CDD senior)</Fiche>
+<Fiche ID="F12289">Contrat d'insertion dans la vie sociale (Civis)</Fiche>
+<Fiche ID="F32700">Garantie jeunes</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Non. Les salariés en contrat d'aide à l'insertion ne bénéficient pas de la prime de précarité prévue à la fin d'un contrat à durée déterminée (CDD). </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Sauf application d'une <LienInterne LienPublication="F78" type="Fiche d'information" audience="Particuliers">convention collective</LienInterne> plus favorable, la prime de précarité n'est donc pas versée aux salariés qui terminent un CDD dans le cadre d'un :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> <LienInterne LienPublication="F10300" type="Fiche d'information" audience="Particuliers">contrat de professionnalisation</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe> <LienInterne LienPublication="F21006" type="Fiche d'information" audience="Particuliers">contrat unique d'insertion (CUI)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F24438" type="Fiche d'information" audience="Particuliers">emploi d'avenir</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou <LienInterne LienPublication="F24439" type="Fiche d'information" audience="Particuliers">emploi d'avenir professeur</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la prime de précarité n'est pas due non plus en cas de <LienInterne LienPublication="F2918" type="Fiche d'information" audience="Particuliers">contrat d'apprentissage</LienInterne>.</Paragraphe>
+</ANoter>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189459&amp;cidTexte=LEGITEXT000006072050" ID="R2627">
+<Titre>Code du travail : articles L1243-5 à L1243-12</Titre>
+<Complement>Article L1243-10</Complement>
+</Reference>
+</Publication>

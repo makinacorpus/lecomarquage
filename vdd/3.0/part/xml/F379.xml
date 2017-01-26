@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F379" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment faire reconnaître son diplôme français en Europe ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Il n'existe pas de mécanisme de reconnaissance automatique des diplômes universitaires au niveau européen.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-25</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F379</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13511</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N13511">Étudier à l'étranger</Niveau>
+<Niveau ID="F379" type="Fiche Question-réponse">Comment faire reconnaître son diplôme français en Europe ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N13511">
+<Titre>Étudier à l'étranger</Titre>
+<Fiche ID="F378">Partir étudier avec le programme Erasmus +</Fiche>
+<Fiche ID="F15077">Obtenir une bourse pour poursuivre ses études</Fiche>
+<Fiche ID="F382">Faire un stage dans une entreprise en Europe</Fiche>
+<Fiche ID="F384">Trouver un stage dans un organisme européen</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Il n'existe pas de mécanisme de reconnaissance automatique des diplômes universitaires au niveau européen. Si vous êtes titulaire d'un diplôme français et que vous souhaitez commencer ou poursuivre des études seul dans un autre pays européen, vous devrez peut-être devoir faire comparer votre diplôme et reconnaître votre niveau d'études. Si vous partez dans le cadre d'un programme européen (<Expression>Erasmus +</Expression> ou échange bilatéral par exemple), vous n'aurez pas ces démarches à accomplir.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Mobilité organisée (programme Erasmus + ou échange bilatéral)</Paragraphe>
+</Titre><Paragraphe>Si vous partez étudier dans le cadre d'une mobilité organisée  (<LienInterne LienPublication="F378" type="Fiche d'information" audience="Particuliers">programme Erasmus+</LienInterne> ou échange bilatéral par exemple), la reconnaissance de vos diplômes sera normalement prévue :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans l'accord d'échange,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou par l'application du <LienExterne URL="http://www.europe-education-formation.fr/page/ects">système européen de transfert et d'accumulation de crédits (ECTS)</LienExterne>
+
+.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez vous renseigner auprès du bureau des relations internationales de votre université ou de votre école.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mobilité individuelle</Paragraphe>
+</Titre><Paragraphe>Si vous envisagez d'aller  étudier de votre propre initiative dans un autre pays de l'<LienIntra LienID="R42218" type="Définition de glossaire">Espace économique européen (EEE)</LienIntra>, vous devez vous adresser à votre futur établissement d'accueil (université ou école supérieure).</Paragraphe>
+<Paragraphe>C'est cet établissement qui reconnaîtra votre diplôme français et qui établira à quel niveau d'études vous pouvez vous inscrire et dans quelles conditions.</Paragraphe>
+<Paragraphe>L'établissement pourra éventuellement vous demander d'accomplir des démarches auprès du centre Enic-Naric dans votre pays d'accueil. </Paragraphe>
+<Paragraphe>Chaque pays de l'<LienInterne LienPublication="R24622" type="Sigle">EEE</LienInterne> dispose de son <LienExterne URL="http://enic-naric.net/index.aspx">centre Enic-Naric</LienExterne>
+
+. Ces centres informent sur les procédures de reconnaissance des diplômes et les démarches qui sont différentes suivant les pays. </Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<Complement>Pour toute information sur la mobilité en Europe, contacter le bureau des relations internationales</Complement>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+<OuSAdresser ID="R14785" type="Centre de contact">
+<Titre>Centre international d'études pédagogiques - Réseau Enic-Naric</Titre>
+<Complement>Pour toute information sur la reconnaissance des diplômes français à l'étranger</Complement><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Pour envoyer le dossier</Paragraphe>
+</Titre>
+								<Paragraphe>CIEP</Paragraphe>
+								<Paragraphe>Département de reconnaissance des diplômes - Centre ENIC-NARIC France</Paragraphe>
+								<Paragraphe>1 avenue Léon-Journault</Paragraphe>
+								<Paragraphe>92318 Sèvres Cedex</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Pour s'informer</Paragraphe>
+</Titre>
+								<Paragraphe>Si vous n'avez pas obtenu de réponse à votre question sur la
+      <LienExterne URL="http://www.ciep.fr/enic-naricfr/">rubrique Enic-Naric du site du Ciep</LienExterne>
+, vous pouvez contacter ses services :
+    
+		</Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>par téléphone : <MiseEnEvidence>+33 (0)1 45 07 60 00</MiseEnEvidence>
+</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>ou par messagerie : accès au
+      <LienExterne URL="http://www.ciep.fr/contact/enic_naric.php">formulaire de contact</LienExterne>
+. 
+    
+		</Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R2761" URL="http://www.enseignementsup-recherche.gouv.fr/cid20949/la-reconnaissance-des-diplomes-dans-union-europeenne.html" audience="Particuliers">
+<Titre>Reconnaissance des diplômes dans l'Union européenne</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32903" URL="http://www.europe-education-formation.fr/page/ects" audience="Particuliers">
+<Titre>Système européen de transfert et d'accumulation de crédits (ECTS)</Titre>
+<Source ID="R30697">Agence Erasmus+ France/Éducation Formation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41760" URL="http://www.euroguidance-france.org" audience="Particuliers">
+<Titre>Site du réseau Euroguidance France</Titre>
+<Source ID="R30695">Réseau Euroguidance</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R33011" URL="http://enic-naric.net/index.aspx" audience="Particuliers">
+<Titre>Centres Enic-Naric</Titre>
+<Source ID="R33012">Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<Definition ID="R42218">
+<Titre>Pays de l'Espace économique européen (EEE)</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Islande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède.</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R24622" type="Sigle">
+<Titre>EEE</Titre>
+<Texte>
+<Paragraphe>Espace économique européen</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

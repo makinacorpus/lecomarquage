@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10007" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Demande d'un logement social (HLM)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Pour obtenir un logement d'habitation à loyer modéré (HLM), il faut constituer un dossier. La demande peut être faite en ligne ou au guichet.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-12</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10007</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/./affichCode.do?idSectionTA=LEGISCTA000006176320&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177650&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027799676</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F10007" type="Fiche d'information">Demande d'un logement social (HLM)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès au logement social</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Toute personne qui souhaite obtenir un logement d'habitation à loyer modéré (HLM) doit constituer un dossier. La demande peut être faite en ligne ou au guichet. 
+		
+			Aucun frais de dossier n'est réclamé lors de la demande de logement, ni lors de la signature du bail.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Démarche en ligne</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Enregistrement de la demande</Paragraphe>
+</Titre><SousChapitre type="pieces">
+<Titre>
+<Paragraphe>Pièces nécessaires</Paragraphe>
+</Titre><Paragraphe> Il faut vous munir, pour chacune des personnes vivant dans votre foyer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'une pièce d'identité (carte d'identité ou passeport pour les personnes majeures, livret de famille ou acte de naissance pour les personnes mineures, jugement de tutelle ou de curatelle s'il y a lieu) ou, si vous êtes étranger, du document attestant de la régularité de votre séjour en France. Pour réaliser la démarche entièrement en ligne, vous devez fournir des copies scannées de ces documents. </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de justificatif de revenus (avis d'imposition de l'avant-dernière année). Si ces  documents n'ont pas été émis par l’État français, ils doivent être traduits en français et les revenus doivent être convertis en euros.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Le dépôt de la demande se fait sur un site dédié :</Paragraphe><ServiceEnLigne ID="R34754" URL="https://www.demande-logement-social.gouv.fr" type="Téléservice">
+<Titre>Demande, renouvellement ou mise à jour d'une demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+<Texte><Paragraphe>Ce site vous permet :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de faire votre demande de logement social </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de la renouveler avant la fin du délai d'un an.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il vous permet aussi de mettre à jour votre dossier en cas de changement de situation (composition de votre famille, évolution de vos revenus...).</Paragraphe>
+<Paragraphe>Vous pouvez y accéder à l'aide du numéro d'enregistrement de votre dossier.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>certains départements ont leur propre site internet pour  effectuer la demande de logement social en ligne.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Pour être accompagné dans cette démarche, vous pouvez appeler le numéro d'assistance téléphonique :</Paragraphe><OuSAdresser ID="R40292" type="Centre de contact">
+<Titre>Assistance pour une demande de logement social en ligne</Titre><Texte>
+						
+								<Paragraphe>Permet d'être mis en relation avec un conseiller chargé de vous accompagner et de répondre à vos questions dans le cadre de votre demande de logement social en ligne</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>0812 04 01 70 </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 19h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>certains départements possèdent leur propre site internet. La liste de ces départements et des sites internet à utiliser est consultable à partir du   <LienInterne LienPublication="R34754" type="Téléservice" audience="Particuliers">site  de demande de logement social</LienInterne>.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Validation de la demande</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous pouvez fournir une copie scannée des papiers demandés</Paragraphe>
+</Titre><Paragraphe>Vous recevez par la suite :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un courrier électronique vous informant de la validation de votre demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une  attestation d'enregistrement.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe> si vous ne recevez pas d'attestation, cela signifie que votre demande n'a pas été enregistrée. </Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne pouvez pas fournir de copies scannées des papiers demandés</Paragraphe>
+</Titre><Paragraphe>Vous devez vous rendre dans un guichet compétent pour remettre le document afin qu'il valide votre demande en ligne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit auprès d'un bailleur social ou d'un service de l’État (éventuellement  la mairie). Il existe une <LienExterne URL="https://www.demande-logement-social.gouv.fr/oualler/accesOuAllerChoixLocation.do">liste des guichets où déposer sa demande de logement social</LienExterne>
+
+ ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit auprès d'un <LienExterne URL="https://www2.actionlogement.fr/implantations">comité régional d'Action logement</LienExterne>
+
+, si vous êtes  salarié d'une entreprise du secteur privé (autre qu'agricole) de plus de 20 personnes et cotisant à la participation des employeurs à l'effort de construction (1% logement). Pour le savoir, il convient de se renseigner auprès de son employeur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit du service social de votre administration, si vous êtes fonctionnaire ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit auprès d'un <LienExterne URL="http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2014/10/dihal_-_annuaire_siao_ecran.pdf" format="application/pdf" poids="2.4 MB">service intégré d'accueil et d'orientation (SIAO)</LienExterne>
+
+, si vous êtes hébergé dans une structure d'accompagnement.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Instruction de votre dossier</Paragraphe>
+</Titre><Paragraphe>Après validation de votre demande, vous pouvez être contacté si un logement social correspondant à vos critères est disponible. Des pièces justificatives supplémentaires  peuvent vous être demandées en vue de l'instruction de votre dossier, en fonction de votre situation (familiale, professionnelle, ...).</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant de la situation familiale</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Marié(e) : livret de famille ou document équivalent démontrant le mariage ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Veuf(ve) : certificat de décès ou livret de famille ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Pacsé(e) : attestation d'enregistrement du <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Enfant attendu : certificat de grossesse attestant que la grossesse est supérieure à douze semaines ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Divorcé(e) ou séparé(e) : extrait du jugement, de l'ordonnance de non-conciliation ou convention homologuée en cas de divorce par consentement mutuel, ordonnance de protection délivrée par le juge aux affaires familiales ou autorisation de résidence séparée ou déclaration judiciaire de rupture de <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant de la situation professionnelle </Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Si vous avez coché "étudiant" : carte d'étudiant ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si vous avez coché "apprenti" : contrat de travail ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si vous avez coché "autre" : tout document  établissant la situation professionnelle que vous avez indiquée.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant du montant des ressources mensuelles</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>S'il est disponible, dernier avis d'imposition reçu pour toutes les personnes appelées à vivre dans le logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Salarié : bulletins de salaire des 3 derniers mois ou attestation de l'employeur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Non-salarié : dernier bilan ou attestation du comptable de l'entreprise évaluant le salaire mensuel perçu ou tout document comptable habituellement fourni à l'administration ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Retraité ou bénéficiaire d'une pension d'invalidité : notification de pension ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Allocation d'aide au retour à l'emploi : avis de paiement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Indemnités journalières : bulletin de la sécurité sociale ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pensions alimentaires reçues : extrait de jugement ou autre document démontrant la perception de la pension ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Prestations sociales et familiales (<LienInterne LienPublication="R43578" type="Sigle">AAH</LienInterne>, <LienInterne LienPublication="R24554" type="Sigle">RSA</LienInterne>, allocations familiales, prestation d'accueil du jeune enfant, complément familial, allocation de soutien familial...) : attestation de la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou de la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Étudiant boursier : avis d'attribution de bourse.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant du logement/hébergement actuel</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Locataire : bail et quittance ou, à défaut de la quittance, attestation du bailleur indiquant que le locataire est à jour de ses loyers et charges ou tout moyen de preuve des paiements effectués ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Hébergé chez parents, enfants, particulier : attestation de la personne qui héberge ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>En structure d'hébergement, logement-foyer : attestation de la structure d'hébergement ou du gestionnaire du logement-foyer ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Camping, hôtel : reçu ou attestation d'un travailleur social, d'une association ou certificat de domiciliation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Sans-abri : attestation d'un travailleur social, d'une association ou certificat de domiciliation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Propriétaire : acte de propriété, plan de financement.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant du motif de la demande de logement social</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Sans logement : attestation d'un travailleur social, d'une association ou certificat de domiciliation ou autre document démontrant l'absence de logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Logement non décent : document établi par un service public, un travailleur social, un professionnel du bâtiment ou une association ayant pour objet l'insertion ou le logement, photos, copie du jugement d'un tribunal statuant sur l'indécence du logement, d'une attestation de la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou de la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne> ou autre document démontrant l'indécence du logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Logement insalubre ou dangereux : document établi par un service public, un travailleur social, un professionnel du bâtiment ou une association ayant pour objet l'insertion ou le logement, photos, jugement du tribunal, attestation de la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou de la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne>, copie d'une décision de l'administration (mise en demeure, arrêté préfectoral ou municipal d'insalubrité remédiable ou irrémédiable ou de péril, ou de fermeture administrative s'il s'agit d'un hôtel meublé) ou autre document démontrant l'insalubrité ou la dangerosité du logement ou de l'immeuble ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Local impropre à l'habitation : document établi par un service public, un travailleur social, un professionnel du bâtiment ou une association ayant pour objet l'insertion ou le logement, photos, jugement du tribunal, arrêté préfectoral de mise en demeure de faire cesser l'occupation des lieux ou autre document démontrant le caractère impropre à l'habitation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Logement repris ou mis en vente par son propriétaire : lettre de congé du propriétaire ou jugement prononçant la résiliation du bail ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Procédure d'expulsion : commandement de payer ou assignation à comparaître ou jugement prononçant l'expulsion ou commandement de quitter les lieux ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Violences familiales : ordonnance de protection délivrée par le juge aux affaires familiales ou dépôt de plainte ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Coût du logement trop élevé : quittance ou autre document démontrant les dépenses affectées au logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Accédant à la propriété en difficulté : plan d'apurement de la dette ; démarches en cours attestées par un travailleur social ou une association ou autre document démontrant les difficultés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Handicap : carte d'invalidité ou décision d'une commission administrative compétente (commission départementale de l'éducation spéciale, commission technique d'orientation et de reclassement professionnel, commissions des droits et de l'autonomie des personnes handicapées) ou d'un organisme de sécurité sociale ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Raisons de santé : certificat médical ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Divorce, séparation : jugement de divorce ou séparation ou déclaration de rupture de <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne>, ordonnance de non-conciliation ou convention homologuée en cas de divorce par consentement mutuel ou ordonnance de protection délivrée par le juge aux affaires familiales ou autorisation de résidence séparée ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Regroupement familial : attestation de dépôt de demande de regroupement familial ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Assistant maternel ou familial : agrément ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Mutation professionnelle : attestation de l'employeur actuel ou futur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Rapprochement du lieu de travail : document justifiant de la localisation de l'emploi actuel ou futur.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai d'attente</Paragraphe>
+</Titre><Paragraphe>Les dossiers  sont examinés en commission d'attribution qui attribue les logements HLM en priorité aux personnes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en situation de handicap ou familles ayant à leur charge une personne en situation de handicap ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en situation d'urgence (difficultés particulières à trouver un logement pour des raisons d'ordre financier, logement insalubre, expulsion ou menaces d'expulsion) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> hébergées ou logées temporairement dans un établissement ou logement de transition ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>victimes  de violences au sein de leur couple (mariés, pacsés, concubins) attestées par un récépissé du dépôt d'une plainte ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>quittant la prostitution et en voie d'insertion professionnelle ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>victimes de traite des êtres humains ou de prostitution.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si la décision de la commission d'attribution vous est favorable, vous avez  au moins 10 jours pour accepter ou refuser l'offre de logement. </Paragraphe>
+<Paragraphe>Le délai d'attente pour qu'une offre de logement vous soit proposée  est calculé à partir de la première demande de logement dans le département. Il varie d'un département à l'autre en fonction notamment de l'importance et de la nature des demandes par localité. </Paragraphe>
+<Paragraphe>Si vous n'avez  n'a pas reçu d'offre de logement dans le délai fixé par le préfet, vous pouvez  saisir gratuitement une <LienInterne LienPublication="F18005" type="Fiche d'information" audience="Particuliers">commission de médiation</LienInterne> pour faire valoir votre  droit à un logement.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>en cas de changement de situation, il est possible de mettre à jour son dossier sur le site dédié :</Paragraphe><ServiceEnLigne ID="R34754" URL="https://www.demande-logement-social.gouv.fr" type="Téléservice">
+<Titre>Demande, renouvellement ou mise à jour d'une demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+<Texte><Paragraphe>Ce site vous permet :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de faire votre demande de logement social </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de la renouveler avant la fin du délai d'un an.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il vous permet aussi de mettre à jour votre dossier en cas de changement de situation (composition de votre famille, évolution de vos revenus...).</Paragraphe>
+<Paragraphe>Vous pouvez y accéder à l'aide du numéro d'enregistrement de votre dossier.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>certains départements ont leur propre site internet pour  effectuer la demande de logement social en ligne.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Suivi de la démarche</Paragraphe>
+</Titre><Paragraphe>Vous avez accès à votre dossier durant toute la procédure de demande. Vous serez également tenu informé sur l'avancée de votre demande notamment sur le délai d'attente pour l'obtention d'une réponse. Le site dédié vous indiquera comment avoir accès à ces informations.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>s'il ne vous a pas été attribué de logement dans un délai d'un an après le dépôt de votre demande, vous devrez <LienInterne LienPublication="F32880" type="Fiche d'information" audience="Particuliers">la renouveler</LienInterne>.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Démarche sur place</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous devez remplir le formulaire <LienInterne LienPublication="R149" type="Formulaire" audience="Particuliers">cerfa n°14069*02</LienInterne> et fournir, pour chacune  des personnes vivant dans le logement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Copie d'une pièce d'identité (carte d'identité ou passeport pour les personnes majeures, livret de famille ou acte de naissance pour les personnes mineures, jugement de tutelle ou de curatelle s'il y a lieu) ou, si vous êtes étranger, du document attestant de la régularité de votre séjour en France ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Copie des justificatifs de revenus (avis d'imposition de l'avant-dernière année). Si ces documents n'ont pas été émis par l'État français, ils doivent être traduits en français et les revenus doivent être convertis en euros.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le dépôt de la demande s'effectue :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit auprès d'un bailleur social ou d'un service de l’État (éventuellement  la mairie). Il existe une <LienExterne URL="https://www.demande-logement-social.gouv.fr/oualler/accesOuAllerChoixLocation.do">liste des guichets où déposer sa demande de logement social</LienExterne>
+
+;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit auprès d'un<LienExterne URL="https://www2.actionlogement.fr/implantations">comité régional d'Action logement</LienExterne>
+
+, si vous êtes  salarié d'une entreprise du secteur privé (autre qu'agricole) de plus de 20 personnes et cotisant à la participation des employeurs à l'effort de construction (1% logement). Pour le savoir, il convient de se renseigner auprès de son employeur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit du service social de votre administration, si vous êtes fonctionnaire ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit auprès d'un <LienExterne URL="http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2014/10/dihal_-_annuaire_siao_ecran.pdf" format="application/pdf" poids="2.4 MB">service intégré d'accueil et d'orientation (SIAO)</LienExterne>
+
+, si vous êtes hébergé dans une structure d'accompagnement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'enregistrement de la demande donne ensuite lieu à la délivrance :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un numéro d'enregistrement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et d'une attestation d'enregistrement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'attestation d'enregistrement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous est remise sur place </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vous est adressée dans un délai maximum d'1 mois à l'adresse indiquée sur le formulaire, si vous avez envoyé par courrier le formulaire rempli accompagné de la copie des  pièces demandées.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Cette attestation mentionne notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le numéro d'enregistrement de la demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la date du dépôt de la première demande ou du renouvellement de cette demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le délai à partir duquel vous pouvez saisir une <LienInterne LienPublication="F18005" type="Fiche d'information" audience="Particuliers">commission de médiation</LienInterne> en l'absence de proposition de logement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe> Cette demande et le numéro d'enregistrement sont valables </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans tout le département (hors Île-de-France) </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou dans toute la région Île-de-France.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Instruction de votre dossier</Paragraphe>
+</Titre><Paragraphe>Après validation de votre demande, vous pouvez être contacté si un logement social correspondant à vos critères est disponible. Des pièces justificatives supplémentaires  peuvent vous être demandées en vue de l'instruction de votre dossier, en fonction de votre situation (familiale, professionnelle, ...).</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant de la situation familiale</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Marié(e) : livret de famille ou document équivalent démontrant le mariage ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Veuf(ve) : certificat de décès ou livret de famille ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Pacsé(e) : attestation d'enregistrement du <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Enfant attendu : certificat de grossesse attestant que la grossesse est supérieure à douze semaines ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Divorcé(e) ou séparé(e) : extrait du jugement, de l'ordonnance de non-conciliation ou convention homologuée en cas de divorce par consentement mutuel, ordonnance de protection délivrée par le juge aux affaires familiales ou autorisation de résidence séparée ou déclaration judiciaire de rupture de <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant de la situation professionnelle </Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Si vous avez coché "étudiant" : carte d'étudiant ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si vous avez coché "apprenti" : contrat de travail ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si vous avez coché "autre" : tout document  établissant la situation professionnelle que vous avez indiquée.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant du montant des ressources mensuelles</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>S'il est disponible, dernier avis d'imposition reçu pour toutes les personnes appelées à vivre dans le logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Salarié : bulletins de salaire des 3 derniers mois ou attestation de l'employeur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Non-salarié : dernier bilan ou attestation du comptable de l'entreprise évaluant le salaire mensuel perçu ou tout document comptable habituellement fourni à l'administration ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Retraite ou pension d'invalidité : notification de pension ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Allocation d'aide au retour à l'emploi : avis de paiement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Indemnités journalières : bulletin de la sécurité sociale ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pensions alimentaires reçues : extrait de jugement ou autre document démontrant la perception de la pension ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Prestations sociales et familiales (<LienInterne LienPublication="R43578" type="Sigle">AAH</LienInterne>, <LienInterne LienPublication="R24554" type="Sigle">RSA</LienInterne>, allocations familiales, prestation d'accueil du jeune enfant, complément familial, allocation de soutien familial...) : attestation de la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou de la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Étudiant boursier : avis d'attribution de bourse.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant du logement/hébergement actuel</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Locataire : bail et quittance ou, à défaut de la quittance, attestation du bailleur indiquant que le locataire est à jour de ses loyers et charges ou tout moyen de preuve des paiements effectués ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Hébergé chez parents, enfants, particulier : attestation de la personne qui héberge ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>En structure d'hébergement, logement-foyer : attestation de la structure d'hébergement ou du gestionnaire du logement-foyer ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Camping, hôtel : reçu ou attestation d'un travailleur social, d'une association ou certificat de domiciliation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Sans-abri : attestation d'un travailleur social, d'une association ou certificat de domiciliation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Propriétaire : acte de propriété, plan de financement.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>S'agissant du motif de la demande de logement social</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Sans logement : attestation d'un travailleur social, d'une association ou certificat de domiciliation ou autre document démontrant l'absence de logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Logement non décent : document établi par un service public, un travailleur social, un professionnel du bâtiment ou une association ayant pour objet l'insertion ou le logement, photos, copie du jugement d'un tribunal statuant sur l'indécence du logement, d'une attestation de la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou de la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne> ou autre document démontrant l'indécence du logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Logement insalubre ou dangereux : document établi par un service public, un travailleur social, un professionnel du bâtiment ou une association ayant pour objet l'insertion ou le logement, photos, jugement du tribunal, attestation de la <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> ou de la <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne>, copie d'une décision de l'administration (mise en demeure, arrêté préfectoral ou municipal d'insalubrité remédiable ou irrémédiable ou de péril, ou de fermeture administrative s'il s'agit d'un hôtel meublé) ou autre document démontrant l'insalubrité ou la dangerosité du logement ou de l'immeuble ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Local impropre à l'habitation : document établi par un service public, un travailleur social, un professionnel du bâtiment ou une association ayant pour objet l'insertion ou le logement, photos, jugement du tribunal, arrêté préfectoral de mise en demeure de faire cesser l'occupation des lieux ou autre document démontrant le caractère impropre à l'habitation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Logement repris ou mis en vente par son propriétaire : lettre de congé du propriétaire ou jugement prononçant la résiliation du bail ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Procédure d'expulsion : commandement de payer ou assignation à comparaître ou jugement prononçant l'expulsion ou commandement de quitter les lieux ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Violences familiales : ordonnance de protection délivrée par le juge aux affaires familiales ou dépôt de plainte ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Coût du logement trop élevé : quittance ou autre document démontrant les dépenses affectées au logement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Accédant à la propriété en difficulté : plan d'apurement de la dette ; démarches en cours attestées par un travailleur social ou une association ou autre document démontrant les difficultés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Handicap : carte d'invalidité ou décision d'une commission administrative compétente (commission départementale de l'éducation spéciale, commission technique d'orientation et de reclassement professionnel, commissions des droits et de l'autonomie des personnes handicapées) ou d'un organisme de sécurité sociale ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Raisons de santé : certificat médical ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Divorce, séparation : jugement de divorce ou séparation ou déclaration de rupture de <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne>, ordonnance de non-conciliation ou convention homologuée en cas de divorce par consentement mutuel ou ordonnance de protection délivrée par le juge aux affaires familiales ou autorisation de résidence séparée ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> Regroupement familial : attestation de dépôt de demande de regroupement familial ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Assistant maternel ou familial : agrément ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Mutation professionnelle : attestation de l'employeur actuel ou futur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Rapprochement du lieu de travail : document justifiant de la localisation de l'emploi actuel ou futur.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai d'attente</Paragraphe>
+</Titre><Paragraphe>Les dossiers  sont examinés en commission d'attribution qui attribue les logements HLM en priorité aux personnes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en situation de handicap ou familles ayant à leur charge une personne en situation de handicap ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en situation d'urgence (difficultés particulières à trouver un logement pour des raisons d'ordre financier, logement insalubre, expulsion ou menaces d'expulsion) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> hébergées ou logées temporairement dans un établissement ou logement de transition ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>victimes  de violences au sein de leur couple (mariés, pacsés, concubins) attestées par un récépissé du dépôt d'une plainte ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>quittant la prostitution et en voie d'insertion professionnelle ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>victimes de traite des êtres humains ou de prostitution.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si la décision de la commission d'attribution vous est favorable, vous avez  au moins 10 jours pour accepter ou refuser l'offre de logement. </Paragraphe>
+<Paragraphe>Le délai d'attente pour qu'une offre de logement vous soit proposée  est calculé à partir de la première demande de logement dans le département. Il varie d'un département à l'autre en fonction notamment de l'importance et de la nature des demandes par localité. </Paragraphe>
+<Paragraphe>Si vous n'avez  n'a pas reçu d'offre de logement dans le délai fixé par le préfet, vous pouvez  saisir gratuitement une <LienInterne LienPublication="F18005" type="Fiche d'information" audience="Particuliers">commission de médiation</LienInterne> pour faire valoir votre  droit à un logement.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>en cas de changement de situation, il est possible de mettre à jour son dossier sur le site dédié :</Paragraphe><ServiceEnLigne ID="R34754" URL="https://www.demande-logement-social.gouv.fr" type="Téléservice">
+<Titre>Demande, renouvellement ou mise à jour d'une demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+<Texte><Paragraphe>Ce site vous permet :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de faire votre demande de logement social </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de la renouveler avant la fin du délai d'un an.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il vous permet aussi de mettre à jour votre dossier en cas de changement de situation (composition de votre famille, évolution de vos revenus...).</Paragraphe>
+<Paragraphe>Vous pouvez y accéder à l'aide du numéro d'enregistrement de votre dossier.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>certains départements ont leur propre site internet pour  effectuer la demande de logement social en ligne.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Suivi de la démarche</Paragraphe>
+</Titre><Paragraphe>Vous avez accès à votre dossier durant toute la procédure de demande. Vous serez tenu informé sur l'avancée de votre demande notamment sur le délai d'attente d'avant l'obtention d'une réponse.</Paragraphe>
+<Paragraphe>Le guichet où vous avez déposé votre demande vous indiquera comment avoir accès à ces informations.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>s'il ne vous a pas été attribué de logement dans un délai d'un an après le dépôt de votre demande, vous devrez <LienInterne LienPublication="F32880" type="Fiche d'information" audience="Particuliers">la renouveler</LienInterne>.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F869" audience="Particuliers">
+<Titre>Logement social : conditions d'attribution</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F32880" audience="Particuliers">
+<Titre>Renouvellement d'une demande de logement social</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/./affichCode.do?idSectionTA=LEGISCTA000006176320&amp;cidTexte=LEGITEXT000006074096" ID="R19446">
+<Titre>Code de la construction et de l'habitation : articles L441 à L441-2-9</Titre>
+<Complement>Demande de logement social (règles générales)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177650&amp;cidTexte=LEGITEXT000006074096" ID="R34301">
+<Titre>Code de la construction et de l'habitation : articles R441-1 à R*441-12</Titre>
+<Complement>Demande de logement social (règles générales)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027799676" ID="R16807">
+<Titre>Arrêté du 24 juillet 2013 relatif au nouveau formulaire de demande de logement locatif social et aux pièces justificatives fournies pour l'instruction de la demande de logement locatif social</Titre>
+<Complement>Pièces et justificatifs à fournir</Complement>
+</Reference>
+<ServiceEnLigne ID="R149" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14069.do" commentaireLien="Pour faire la démarche sur place" numerocerfa="14069*02" type="Formulaire">
+<Titre>Demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source><NoticeLiee ID="R145" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=514&amp;cerfaFormulaire=14069" numerocerfa="51423#02">Notice explicative de demande de logement social</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34754" URL="https://www.demande-logement-social.gouv.fr" commentaireLien="Pour faire vos démarches en ligne" type="Téléservice">
+<Titre>Demande, renouvellement ou mise à jour d'une demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R18722" URL="http://www.logement.gouv.fr/Rechercher-un-logement-social" audience="Particuliers">
+<Titre>Rechercher un logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45265" URL="https://www.demande-logement-social.gouv.fr/oualler/accesOuAllerChoixLocation.do" audience="Particuliers">
+<Titre>Liste des guichets compétents pour déposer une demande de logement social</Titre>
+<Complement>Liste des bailleurs sociaux ou services de l'État compétents pour le dépôt de la demande</Complement>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R46637" URL="https://www2.actionlogement.fr/implantations" audience="Particuliers">
+<Titre>Comités régional d'Action logement</Titre>
+<Source ID="R30734">Union d'économie sociale pour le logement (UESL)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45389" URL="http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2014/10/dihal_-_annuaire_siao_ecran.pdf" audience="Particuliers" format="application/pdf" poids="2.4 MB">
+<Titre>Service intégré de l'accueil et de l'orientation (SIAO)</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R44315" URL="https://www.demande-logement-social.gouv.fr/etat/accesEtatLogementChoixLocation.do" audience="Particuliers">
+<Titre>Consulter les chiffres du logement social dans ma commune</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R43578" type="Sigle">
+<Titre>AAH</Titre>
+<Texte>
+<Paragraphe>Allocation aux adultes handicapés</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24582" type="Acronyme">
+<Titre>Caf</Titre>
+<Texte>
+<Paragraphe>Caisse d'allocations familiales</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R45368" type="Sigle">
+<Titre>Pacs</Titre>
+<Texte>
+<Paragraphe>Pacte civil de solidarité</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24583" type="Sigle">
+<Titre>CMSA</Titre>
+<Texte>
+<Paragraphe>Caisse de mutualité sociale agricole</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24554" type="Sigle">
+<Titre>RSA</Titre>
+<Texte>
+<Paragraphe>Revenu de solidarité active</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

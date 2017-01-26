@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12567" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels recours en cas de rejet d'un dossier de carte d'identité ou de passeport ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Lors d'une demande de carte d'identité ou de passeport, vous pouvez rencontrer des difficultés que vous estimez injustifiées. Vos moyens de recours dépendent du lieu du dépôt de votre dossier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12567</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F12567" type="Fiche Question-réponse">Quels recours en cas de rejet d'un dossier de carte d'identité ou de passeport ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte>
+<Paragraphe>Lors d'une demande de carte d'identité ou de passeport, vous pouvez rencontrer des difficultés que vous estimez injustifiées. Vos moyens de recours dépendent du lieu du dépôt de votre dossier.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>À la mairie</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous rencontrez des difficultés au guichet</Paragraphe>
+</Titre><Paragraphe>La mairie est chargée d'accueillir les usagers, d'enregistrer la demande et de les transmettre aux services préfectoraux. Il n'appartient pas à ses services d'accepter ou de rejeter un dossier.</Paragraphe>
+<Paragraphe>Si vous rencontrez des difficultés avec la mairie, vous pouvez saisir le préfet par courrier pour l'informer de la situation.</Paragraphe>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La Préfecture réclame d'autres pièces ou rejette le dossier</Paragraphe>
+</Titre><Paragraphe>Vous pouvez exercer un recours gracieux auprès du Préfet.</Paragraphe><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez également exercer  un recours hiérarchique à adresser à la direction des libertés publiques et des affaires juridiques (DPLAJ) du ministère de l'intérieur.</Paragraphe><OuSAdresser ID="R1002" type="National">
+<Titre>Direction des libertés publiques et des affaires juridiques (DLPAJ) - Ministère de l'intérieur</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172022"/>
+</OuSAdresser>
+
+<Paragraphe>Enfin, si vos démarches demeurent infructueuses, il vous est possible de saisir les services du Défenseur des droits.</Paragraphe><ServiceEnLigne ID="R20689" URL="https://formulaire.defenseurdesdroits.fr/defenseur/" type="Téléservice">
+<Titre>Saisir en ligne le Défenseur des droits</Titre>
+<Source ID="R30631">Défenseur des droits</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><Paragraphe>Si votre dossier est refusé au guichet de l'antenne de police, vous pouvez saisir le préfet de police de Paris pour l'informer de la situation.</Paragraphe><OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez également exercer  un recours hiérarchique à adresser à la direction des libertés publiques et des affaires juridiques (DPLAJ) du ministère de l'intérieur.</Paragraphe><OuSAdresser ID="R1002" type="National">
+<Titre>Direction des libertés publiques et des affaires juridiques (DLPAJ) - Ministère de l'intérieur</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172022"/>
+</OuSAdresser>
+
+<Paragraphe>Enfin, si vos démarches demeurent infructueuses, il vous est possible de saisir les services du Défenseur des droits.</Paragraphe><ServiceEnLigne ID="R20689" URL="https://formulaire.defenseurdesdroits.fr/defenseur/" type="Téléservice">
+<Titre>Saisir en ligne le Défenseur des droits</Titre>
+<Source ID="R30631">Défenseur des droits</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À l'étranger</Paragraphe>
+</Titre><Paragraphe>Si votre dossier est refusé au guichet du consulat ou de l'ambassade, vous pouvez saisir le service des Français de l'étranger du ministère des affaires étrangères.</Paragraphe><OuSAdresser ID="R15381" type="National">
+<Titre>Service des Français à l'étranger - Ministère des affaires étrangères</Titre>
+<RessourceWeb URL="http://lannuaire.service-public.fr/services_nationaux/administration-centrale-ou-ministere_168638.html"/>
+</OuSAdresser>
+
+<Paragraphe>Enfin, si vos démarches demeurent infructueuses, il vous est possible de saisir les services du Défenseur des droits.</Paragraphe><ServiceEnLigne ID="R20689" URL="https://formulaire.defenseurdesdroits.fr/defenseur/" type="Téléservice">
+<Titre>Saisir en ligne le Défenseur des droits</Titre>
+<Source ID="R30631">Défenseur des droits</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+
+</Texte><ServiceEnLigne ID="R20689" URL="https://formulaire.defenseurdesdroits.fr/defenseur/" type="Téléservice">
+<Titre>Saisir en ligne le Défenseur des droits</Titre>
+<Source ID="R30631">Défenseur des droits</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F14807" audience="Particuliers">Carte d'identité / Passeport : quel justificatif de domicile ?</QuestionReponse>
+</Publication>

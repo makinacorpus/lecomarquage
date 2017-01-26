@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N275" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Condamnations et peines</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Condamnations et peines : Peines principales et complémentaires, Exécution des condamnations, Suivi des anciens détenus, Casier judiciaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-10-12</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N275</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19807</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout public</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N275" type="Dossier">Condamnations et peines</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20334">Sanctions pénales</SousThemePere>
+<SousDossier ID="N275-1">
+<Titre>Peines principales et complémentaires</Titre><Fiche ID="F32803">Amendes</Fiche>
+<Fiche ID="F14148">Prison ferme</Fiche>
+<Fiche ID="F1406">Infraction pénale : peines complémentaires</Fiche>
+<Fiche ID="F1407">Travail d'intérêt général (TIG)</Fiche>
+<Fiche ID="F32312">Contrainte pénale</Fiche>
+</SousDossier>
+<SousDossier ID="N275-2">
+<Titre>Exécution des condamnations</Titre><Fiche ID="F1779">Exécution d'une décision du juge pénal</Fiche>
+<Fiche ID="F1531">Sursis</Fiche>
+</SousDossier>
+<SousDossier ID="N275-3">
+<Titre>Suivi des anciens détenus</Titre><Fiche ID="F1278">Surveillance de sûreté pour les criminels</Fiche>
+<Fiche ID="F18535">Rétention de sûreté pour les criminels</Fiche>
+<Fiche ID="F32562">Libération conditionnelle - Libération sous contrainte</Fiche>
+</SousDossier>
+<SousDossier ID="N275-4">
+<Titre>Casier judiciaire</Titre><Fiche ID="F14710">Contenu du casier</Fiche>
+<Fiche ID="F1420">Demande de bulletin numéro 3</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N23248" audience="Particuliers">
+<Titre>Mineur auteur d'infraction</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N18918" audience="Particuliers">
+<Titre>Infractions routières</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Partenaire ID="R1857" URL="http://www.justice.gouv.fr/"/>
+<ServiceEnLigne ID="R18050" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13915.do" numerocerfa="13915*02" type="Formulaire">
+<Titre>Demande d'inscription de travaux d'intérêt général par une collectivité publique ou un établissement public</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R12879" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13915*02&amp;cerfaNotice=51368%2302" numerocerfa="51368#02">Notice - Demande d'inscription de travaux d'intérêt général par une collectivité ou un établissement public</NoticeLiee>
+</ServiceEnLigne>
+<QuestionReponse ID="F780" audience="Particuliers">Qu'est-ce qu'une grâce présidentielle ?</QuestionReponse>
+<QuestionReponse ID="F32584" audience="Particuliers">Comment un détenu est-il suivi après sa sortie de prison ?</QuestionReponse>
+<QuestionReponse ID="F779" audience="Particuliers">Qu'est-ce qu'une amnistie ?</QuestionReponse>
+<QuestionReponse ID="F31802" audience="Particuliers">Comment faire pour qu'une condamnation ne figure pas sur le casier judiciaire ?</QuestionReponse>
+
+</Publication>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32824" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelle assurance maladie à votre retour après avoir travaillé comme expatrié ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Quelle assurance maladie à votre retour après avoir travaillé comme expatrié ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32824</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N423</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N423">Santé, protection sociale à l'étranger</Niveau>
+<Niveau ID="F32824" type="Fiche Question-réponse">Quelle assurance maladie à votre retour après avoir travaillé comme expatrié ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere><DossierPere ID="N423">
+<Titre>Santé, protection sociale à l'étranger</Titre>
+<Fiche ID="F213">Vacances ou court séjour à l'étranger</Fiche>
+<Fiche ID="F407">Installation à l'étranger</Fiche>
+<Fiche ID="F1109">Recommandations sanitaires aux voyageurs</Fiche>
+<Fiche ID="F720">Vaccinations internationales</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Vous êtes Français, vous revenez en France après une expatriation. Les règles d'ouverture ou de maintien de vos droits à l'assurance maladie à votre retour dépendent de votre ancien pays d'installation (hors Europe ou en Europe) et de votre situation professionnelle.</Paragraphe>
+
+</Texte>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Retour d'un pays européen</Titre>
+<Texte>
+<Chapitre><Paragraphe>Vous aviez le statut d'expatrié dans un <LienIntra LienID="R42218" type="Définition de glossaire">pays de l'Espace économique européen (EEE)</LienIntra> ou en Suisse, vous releviez de la sécurité sociale de votre pays d'installation</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous retrouvez immédiatement du travail</Paragraphe>
+</Titre><Paragraphe>Vous bénéficiez de nouveau de l'assurance maladie française.</Paragraphe>
+<Paragraphe>Si besoin, vos périodes d'assurance accomplies dans votre ancien pays de résidence seront prises en compte.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne retrouvez pas immédiatement du travail</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous percevez des allocations de chômage de votre ancien pays d'installation</Paragraphe>
+</Titre><Paragraphe>Vos droits sont transférables en France pendant 3 mois sous conditions. Vous bénéficiez de l'assurance maladie sur présentation de votre carte européenne d'assurance maladie.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne perceviez pas de chômage dans votre pays d'installation, mais celui-ci maintient vos droits à l'assurance maladie auprès de son régime</Paragraphe>
+</Titre><Paragraphe>Vous bénéficiez de l'assurance maladie sur présentation de votre carte européenne d'assurance maladie ou du document S1 (inscription en vue de bénéficier de la couverture d'assurance maladie).</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne perceviez pas de chômage dans votre pays d'installation et n'avez pas de maintien de vos droits à l'assurance maladie auprès de son régime</Paragraphe>
+</Titre><Paragraphe>Demandez à votre <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> la protection universelle maladie (Puma).</Paragraphe><OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Retour d'un autre pays</Titre>
+<Texte>
+<Chapitre><Paragraphe>Vous étiez expatrié hors d'un<LienIntra LienID="R42218" type="Définition de glossaire">pays de l'Espace économique européen (EEE)</LienIntra>, vous cessiez de dépendre de la sécurité sociale française, sauf adhésion à des assurances volontaires.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous retrouvez immédiatement du travail</Paragraphe>
+</Titre><Paragraphe>Vous redevenez assujetti à l'assurance maladie française.</Paragraphe>
+<Paragraphe>Votre <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> vous ouvrira des droits à partir de la fin de votre premier mois de travail, dès lors que vous avez travaillé au moins 60 heures. </Paragraphe>
+<Paragraphe>Si vous avez travaillé dans un pays lié à la France par une convention de sécurité sociale, vos périodes d'assurance accomplies dans ce pays pourront éventuellement être prises en compte. </Paragraphe>
+<Paragraphe>Si vous avez travaillé dans un pays non lié à la France par un accord de sécurité sociale mais que vous avez cotisé à la <LienInterne LienPublication="R40478" type="Sigle">CFE</LienInterne> pour le risque maladie, vos périodes d'affiliation pourront être retenues.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne retrouvez pas immédiatement de travail</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous avez cotisé à la Caisse des Français de l'étranger (CFE)</Paragraphe>
+</Titre><Paragraphe> Vous pouvez bénéficier, <LienExterne URL="http://www.cfe.fr/pages/utilitaires/question-reponse.php?val=3">sous conditions</LienExterne>
+
+, pendant les 3 mois qui suivent votre retour, des prestations du régime des expatriés de la <LienInterne LienPublication="R40478" type="Sigle">CFE</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes inscrit à Pôle emploi et percevez des allocations chômage (du fait d'anciennes périodes de travail en France, de votre adhésion à l'assurance expatriés de Pôle emploi services, ...)</Paragraphe>
+</Titre><Paragraphe>Vos allocations de chômage vous ouvrent des droit à l'assurance maladie.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'avez aucune couverture sociale</Paragraphe>
+</Titre><Paragraphe>Demandez à votre <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> la protection universelle maladie (Puma).</Paragraphe><OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F34047" audience="Particuliers">
+<Titre>Protection universelle maladie (Puma)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R121" type="Centre de contact">
+<Titre>Centre des liaisons européennes et internationales de sécurité sociale (Cleiss)</Titre>
+<Complement>Pour toute question au retour et toute information sur les conventions bilatérales et les règlements européens de sécurité sociale</Complement><Texte>
+						
+								<Paragraphe>
+			Informations générales  sur la sécurité sociale à l'étranger et aide aux démarches des particuliers </Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0) 1 45 26 33 41
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>Ouvert </Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>les lundi, mercredi et vendredi : de 9h à 12h30,</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>les mardi et jeudi : de 14h à 17h</Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+      <LienExterne URL="http://www.cleiss.fr/presentation/contact.html">formulaire</LienExterne>
+
+      de contact </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R36929" type="National">
+<Titre>Caisse des Français de l'étranger (CFE)</Titre>
+<Complement>Pour toute question et démarche sur les droits ouverts au retour en France par l'adhésion volontaire aux risques maladie-maternité-invalidité</Complement>
+<RessourceWeb URL="http://www.cfe.fr/pages/utilitaires/contact.php"/>
+</OuSAdresser>
+<OuSAdresser ID="R36931" type="National">
+<Titre>Pôle emploi services - Service expatriés</Titre>
+<Complement>Pour toute question et démarche sur les droits ouverts au retour en France par l'adhésion à l'assurance chômage</Complement><Texte>
+						
+								<Paragraphe>Pour toute information et pour adhérer à l'assurance chômage des salariés expatriés</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>01 46 52 97 00</MiseEnEvidence> (prix d'un appel local)</Paragraphe>
+								<Paragraphe>Les lundi et mercredi de 9h00 à 17h00</Paragraphe>
+								<Paragraphe>Le jeudi de 9h à 13h</Paragraphe>
+								<Paragraphe>Le vendredi de 9h à 16h</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>Pôle emploi services - CRSE</Paragraphe>
+								<Paragraphe>TSA TSA 13077</Paragraphe>
+								<Paragraphe>92891 Nanterre Cedex 9</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par mail</Paragraphe>
+</Titre>
+								<Paragraphe>expatriation@pole-emploi.net</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R3049" URL="https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true" type="Téléservice">
+<Titre>Ameli en ligne</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10665" URL="https://candidat.pole-emploi.fr/candidat/espacepersonnel/authentification" type="Téléservice">
+<Titre>Pôle emploi : services en ligne pour les demandeurs d'emploi</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R1026" URL="http://ec.europa.eu/social/main.jsp?catId=26&amp;langId=fr" audience="Particuliers">
+<Titre>Coordination de la sécurité sociale dans l'Union européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R40407" URL="http://www.cfe.fr/pages/utilitaires/question-reponse.php?val=3" audience="Particuliers">
+<Titre>Retour en France des adhérents de la Caisse des Français de l'étranger</Titre>
+<Source ID="R30620">Caisse des Français de l'Étranger (CFE)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R40408" URL="http://www.pole-emploi.fr/candidat/salarie-expatrie-hors-europe-@/article.jspz?id=60557" audience="Particuliers">
+<Titre>Salarié expatrié hors Europe : assurance chômage de Pôle emploi services</Titre>
+<Source ID="R30635">Pôle emploi international</Source>
+</PourEnSavoirPlus>
+<Definition ID="R42218">
+<Titre>Pays de l'Espace économique européen (EEE)</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Islande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède.</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R15469" type="Sigle">
+<Titre>CPAM</Titre>
+<Texte>
+<Paragraphe>Caisse primaire d'assurance maladie</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R40478" type="Sigle">
+<Titre>CFE</Titre>
+<Texte>
+<Paragraphe>Caisse des Français de l'étranger</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

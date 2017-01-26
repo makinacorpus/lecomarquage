@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F263" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qui est imposable à la taxe foncière en cas d'indivision ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Fiscalité</dc:subject>
+<dc:description>L'imposition est établie au nom des indivisaires. Dans tous les cas, ils doivent trouver un arrangement et, à défaut, saisir la justice.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F263</dc:identifier>
+<dc:source>http://bofip.impots.gouv.fr/bofip/3895-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N206</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N206">Impôts locaux</Niveau>
+<Niveau ID="F263" type="Fiche Question-réponse">Qui est imposable à la taxe foncière en cas d'indivision ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N206">
+<Titre>Impôts locaux</Titre>
+<Fiche ID="F42">Taxe d'habitation</Fiche>
+<Fiche ID="F88">Contribution à l'audiovisuel public (redevance télé)</Fiche>
+<Fiche ID="F59">Taxe foncière sur les propriétés bâties</Fiche>
+<Fiche ID="F31638">Taxe foncière sur les propriétés non bâties</Fiche>
+<Fiche ID="F22393">Taxe sur la vente de terrains agricoles rendus constructibles</Fiche>
+<Fiche ID="F17293">Taxe d'habitation sur les logements vacants (THLV)</Fiche>
+<Fiche ID="F2847">Taxe sur les logements vacants applicable à certaines communes (TLV)</Fiche>
+<Fiche ID="F22730">Taxe ou redevance d'enlèvement des ordures ménagères</Fiche>
+<Fiche ID="F22429">Taxe sur les résidences mobiles</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Lorsqu'un immeuble est en <LienIntra LienID="R12717" type="Définition de glossaire">indivision,</LienIntra> l'imposition à la taxe foncière est établie au nom des <LienIntra LienID="R1115" type="Définition de glossaire">indivisaires</LienIntra>.</Paragraphe>
+<Paragraphe>Si les propriétaires sont peu nombreux (3 au maximum), ils sont tous nommément désignés sur l'avis d'imposition.</Paragraphe>
+<Paragraphe>Dans le cas contraire, l'indivisaire dont la part est prépondérante figure seul avec la mention "<Expression>et consort</Expression>" ou "<Expression>et copropriétaires</Expression>".</Paragraphe>
+<Paragraphe>Dans tous les cas, les indivisaires doivent trouver un arrangement et, à défaut, saisir la justice.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N206" audience="Particuliers">
+<Titre>Impôts locaux</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N274" audience="Particuliers">
+<Titre>Mesures alternatives à un procès (civil ou pénal)</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N269" audience="Particuliers">
+<Titre>Procès civil</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service local gestionnaire de votre dossier (les coordonnées figurent sur vos avis d'imposition et déclarations de revenus)</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3895-PGP" ID="R1107">
+<Titre>Bofip-impôts n°BOI-IF-TFB-10-20-10 relatif à l'imposition des propriétaires à la taxe foncière pour certaines formes de propriété (indivision par exemple)</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41461" URL="http://www.impots.gouv.fr" audience="Particuliers">
+<Titre>Le site des impôts : impots.gouv.fr</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R11279" URL="http://www2.impots.gouv.fr/documentation/2015/idl/index.html" audience="Particuliers">
+<Titre>Brochure pratique - impôts locaux 2015</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<Definition ID="R12717">
+<Titre>Indivision</Titre>
+<Texte>
+				<Paragraphe>Situation dans laquelle deux ou plusieurs personnes sont propriétaires ensemble d'une même chose ou d'un même ensemble de choses (exemples : maison, portefeuille de titres, meubles, bijoux)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136538&amp;cidTexte=LEGITEXT000006070721" ID="R18644">
+<Titre>Code civil : articles 815 à 815-1</Titre>
+</Reference>
+</Definition>
+<Definition ID="R1115">
+<Titre>Indivisaire</Titre>
+<Texte>
+				<Paragraphe>Propriétaire d'un bien en indivision</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136538&amp;cidTexte=LEGITEXT000006070721" ID="R18644">
+<Titre>Code civil : articles 815 à 815-1</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F156" audience="Particuliers">Dans quel délai un supplément d'impôts locaux peut-il être réclamé ?</QuestionReponse>
+<QuestionReponse ID="F31686" audience="Particuliers">Comment payer ses impôts locaux ?</QuestionReponse>
+</Publication>

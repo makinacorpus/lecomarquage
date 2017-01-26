@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1336" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Feuille de soins - Sage-femme</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Modèle de formulaire mis en ligne pour information. Pour votre démarche, le formulaire orignal doit être utilisé (sauf en cas de télétransmission Vitale). Accès à la notice n°50651#04.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-18</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1336</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418">Assurance maladie : affiliation et remboursements des soins</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1336" type="Formulaire">Feuille de soins - Sage-femme</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11388*04</NumeroCerfa>
+<AutreNumero>S3127e</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Modèle de formulaire mis en ligne pour information.
+Pour votre démarche, le formulaire orignal doit être utilisé (sauf en cas de télétransmission Vitale).
+Accès à la notice n°50651#04.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3127.pdf" format="application/pdf" poids="528.6 KB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F11616" audience="Particuliers" type="Fiche d'information">
+<Titre>Feuille de soins</Titre>
+<Dossier ID="N418">Assurance maladie : affiliation et remboursements des soins</Dossier>
+</FicheLiee>
+<Dossier ID="N418">
+<Titre>Assurance maladie : affiliation et remboursements des soins</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

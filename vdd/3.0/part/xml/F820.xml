@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F820" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Les parents doivent-il payer les dettes de leur enfant majeur ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Non, les parents ne sont pas responsables de leur enfant majeur et de ses éventuelles dettes, sauf s'ils se portent caution</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F820</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032041559&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136230&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N135</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N135">Autorité parentale</Niveau>
+<Niveau ID="F820" type="Fiche Question-réponse">Les parents doivent-il payer les dettes de leur enfant majeur ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N135">
+<Titre>Autorité parentale</Titre>
+<Fiche ID="F3132">Exercice</Fiche>
+<Fiche ID="F3134">Délégation</Fiche>
+<Fiche ID="F2139">Tutelle d'un mineur</Fiche>
+<Fiche ID="F3135">Retrait</Fiche>
+<Fiche ID="F1194">Émancipation d'un mineur</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>L'enfant majeur est seul responsable de ses actes et donc des dettes qu'il contracte.</Paragraphe>
+<Paragraphe>Pour que les parents soient responsables des dettes de leur enfant majeur, il faut qu'ils se soient portés caution (par exemple <LienInterne LienPublication="F31267" type="Fiche d'information" audience="Particuliers">pour un logement</LienInterne>).</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N135" audience="Particuliers">
+<Titre>Autorité parentale</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F31267" audience="Particuliers">
+<Titre>Accès à un logement privé : caution du locataire</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour se renseigner</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032041559&amp;cidTexte=LEGITEXT000006070721" ID="R31937">
+<Titre>Code civil : article 1242</Titre>
+<Complement>Responsabilité de ses propres actes</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136230&amp;cidTexte=LEGITEXT000006070721" ID="R10446">
+<Titre>Code civil : article 414</Titre>
+<Complement>Âge de la majorité</Complement>
+</Reference>
+<QuestionReponse ID="F21571" audience="Particuliers">Un enfant est-il responsable des dettes de ses parents ?</QuestionReponse>
+<QuestionReponse ID="F2009" audience="Particuliers">Un enfant est-il obligé d'aider ses parents dans le besoin ?</QuestionReponse>
+</Publication>

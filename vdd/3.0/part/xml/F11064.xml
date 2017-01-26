@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11064" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Médiateur du groupe La Poste : comment y recourir ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Le Médiateur du groupe La Poste examine et cherche une solution aux litiges rencontrés par les usagers de La Poste.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11064</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20312</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N20312">Litiges avec l'administration : recours administratif, défenseur des droits...</Niveau>
+<Niveau ID="F11064" type="Fiche Question-réponse">Médiateur du groupe La Poste : comment y recourir ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20114">Relations avec l'administration</SousThemePere><DossierPere ID="N20312">
+<Titre>Litiges avec l'administration : recours administratif, défenseur des droits...</Titre>
+<Fiche ID="F2474">Recours gracieux ou hiérarchique</Fiche>
+<Fiche ID="F13158">Recours au Défenseur des droits pour un litige avec l'administration</Fiche>
+<Fiche ID="F2546">Litige avec la police ou un autre organisme chargé de la sécurité</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le Médiateur du groupe La Poste examine et cherche une solution aux litiges rencontrés par les usagers de La Poste.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Qui peut saisir le médiateur ?</Paragraphe>
+</Titre><Paragraphe>Si vous êtes un client du groupe La Poste (particulier, professionnel, élu) et que vous rencontrez  des difficultés portant sur le courrier, les colis, les services financiers, le réseau des bureaux de poste, etc., vous pouvez saisir le Médiateur.</Paragraphe>
+<Paragraphe>Vous pouvez vous faire assister par un conseil (avocat, association de consommateurs, etc.).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions préalables</Paragraphe>
+</Titre><BlocCas type="modalite" affichage="onglet">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><Paragraphe>Avant de saisir le Médiateur, vous devez obligatoirement avoir déposé une réclamation au service consommateur par internet.</Paragraphe><ServiceEnLigne ID="R10089" URL="http://www.laposte.fr/Service-Consommateurs/Deposez-une-reclamation" type="Téléservice">
+<Titre>Saisir en ligne le service consommateur de La Poste</Titre>
+<Source ID="R30622">La Poste</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Avant de saisir le Médiateur, vous devez obligatoirement avoir envoyé un courrier une réclamation (sur papier libre ou un formulaire disponible dans les bureaux de poste au service consommateur.</Paragraphe><OuSAdresser ID="R11647" type="Centre de contact">
+<Titre>Service consommateur de La Poste</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>3631</Paragraphe>
+								<Paragraphe>Du lundi au vendredi de 8h30 à 19 heures et le samedi de 8h30 à 13 heures</Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service consommateurs</Paragraphe>
+								<Paragraphe>
+			99 999 LA POSTE
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>En l'absence de réponse satisfaisante dans un délai de 2 mois, le Médiateur peut alors être saisi.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Saisine</Paragraphe>
+</Titre><BlocCas type="modalite" affichage="onglet">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><Paragraphe>Vous pouvez le saisir en ligne mais les les pièces justificatives doivent ensuite être transmises par courrier :</Paragraphe><ServiceEnLigne ID="R1057" URL="http://www.laposte.fr/mediateurdugroupe/la-mediation/faire-appel-au-mediateur" type="Téléservice">
+<Titre>Saisir en ligne le médiateur de La Poste</Titre>
+<Source ID="R30622">La Poste</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de saisir le Médiateur de La Poste si le litige n'a pas pu être réglé à l'amiable.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Permet de saisir le Médiateur de La Poste si le litige n'a pas pu être réglé à l'amiable.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Vous pouvez le saisir par courrier avec les pièces justificatives :</Paragraphe><OuSAdresser ID="R14484" type="Centre de contact">
+<Titre>Médiateur du Groupe La Poste</Titre><Texte>
+						
+								<Paragraphe>
+			Médiateur du Groupe La Poste
+		</Paragraphe>
+								<Paragraphe>
+			44, boulevard de Vaugirard
+		</Paragraphe>
+								<Paragraphe>
+			CP F407
+		</Paragraphe>
+								<Paragraphe>
+			75757 PARIS Cedex 15
+		</Paragraphe>
+							
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>Vous pouvez aussi le saisir via une  <LienExterne URL="http://www.economie.gouv.fr/dgccrf/Les-associations-de-consommateurs#assoc">association de consommateurs</LienExterne>
+
+.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Traitement du dossier</Paragraphe>
+</Titre><Paragraphe>Si l'affaire n'est pas recevable, le Médiateur la fait suivre au service compétent pour traitement. </Paragraphe>
+<Paragraphe>Si l'affaire est recevable, le Médiateur  examine le dossier. Il donne son avis dans les 2 mois à partir de l'envoi de l'accusé de réception. Il est communiqué à chacune des parties. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fin de la procédure</Paragraphe>
+</Titre><Paragraphe>Concernant l'avis rendu, vous ne pouvez pas le faire annuler par un juge.</Paragraphe>
+<Paragraphe>Toutefois, faire appel au Médiateur  n'interrompt pas les délais de prescription et ne vous empêche pas  de recourir à un juge.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R14484" type="Centre de contact">
+<Titre>Médiateur du Groupe La Poste</Titre><Texte>
+						
+								<Paragraphe>
+			Médiateur du Groupe La Poste
+		</Paragraphe>
+								<Paragraphe>
+			44, boulevard de Vaugirard
+		</Paragraphe>
+								<Paragraphe>
+			CP F407
+		</Paragraphe>
+								<Paragraphe>
+			75757 PARIS Cedex 15
+		</Paragraphe>
+							
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R11647" type="Centre de contact">
+<Titre>Service consommateur de La Poste</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>3631</Paragraphe>
+								<Paragraphe>Du lundi au vendredi de 8h30 à 19 heures et le samedi de 8h30 à 13 heures</Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service consommateurs</Paragraphe>
+								<Paragraphe>
+			99 999 LA POSTE
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R1057" URL="http://www.laposte.fr/mediateurdugroupe/la-mediation/faire-appel-au-mediateur" type="Téléservice">
+<Titre>Saisir en ligne le médiateur de La Poste</Titre>
+<Source ID="R30622">La Poste</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10089" URL="http://www.laposte.fr/Service-Consommateurs/Deposez-une-reclamation" type="Téléservice">
+<Titre>Saisir en ligne le service consommateur de La Poste</Titre>
+<Source ID="R30622">La Poste</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R37045" URL="http://www.laposte.fr/mediateurdugroupe/" audience="Particuliers">
+<Titre>Le Médiateur de la Poste</Titre>
+<Source ID="R30622">La Poste</Source>
+</PourEnSavoirPlus>
+
+</Publication>

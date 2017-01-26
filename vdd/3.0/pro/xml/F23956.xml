@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23956" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Signes et normes de qualité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Une norme est un document de référence apportant des réponses à des questions techniques et commerciales sur des produits, biens d'équipement ou des services. Elle est en général d'application volontaire, mais peut être rendue obligatoire par décret (par exemple dans les domaines liés à la sécurité, à la santé, dans le contexte de certains marchés publics...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23956</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23442</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Artisan, Industriel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23442">Recherche</Niveau>
+<Niveau ID="F23956" type="Fiche avec liens externes">Signes et normes de qualité</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N22280">Recherche et développement</SousThemePere><DossierPere ID="N23442">
+<Titre>Recherche</Titre>
+<Fiche ID="F23533">Crédit d'impôt recherche (CIR)</Fiche>
+<Fiche ID="F31188">Jeune entreprise innovante ou universitaire (JEI - JEU)</Fiche>
+<Fiche ID="F23956">Signes et normes de qualité</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>
+			Une norme est un document de référence apportant des réponses à des questions techniques et commerciales sur des produits, biens d'équipement ou des services. Elle est en général d'application volontaire, mais peut être rendue obligatoire par décret (par exemple dans les domaines liés à la sécurité, à la santé, dans le contexte de certains marchés publics...). </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+			Les normes NF sont élaborées par l'Afnor, qui est l'organisme français de normalisation. Les normes ISO sont des normes internationales plus spécialement connues dans le domaine du management de la qualité ou de l'environnement. Les entreprises peuvent demander une certification qui atteste leur respect des exigences de ces normes. Seul un organisme « accrédité » par le comité français d'accréditation (COFRAC) peut certifier une entreprise.
+		</Paragraphe>
+<Paragraphe>
+			Très développés dans le secteur alimentaire où il existe désormais des signes européens, les signes d'identification de l'origine et de la qualité se développent aussi dans le secteur industriel et des services : appellation d'origine, indication géographique protégée, labels, produits biologiques, certification de conformité des produits...
+		</Paragraphe>
+
+</Texte>
+<LienExterneCommente><LienExterne URL="http://www.economie.gouv.fr/dgccrf/Signe-de-qualite">Définitions des signes de qualité</LienExterne>
+
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.economie.gouv.fr/dgccrf/Etiquetage-des-denrees-alimentaires">Règles d'étiquetage des produits alimentaires</LienExterne>
+
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.afnor.org/">Normalisation et certification pour les artisans et les TPE</LienExterne>
+
+<Source ID="R30616">Association française de normalisation (Afnor)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.entreprises.gouv.fr/libre-circulation-marchandises/marquage-CE">Conformité d'un produit aux exigences de sécurité de l'UE (marquage CE)</LienExterne>
+
+<Source ID="R30612">Ministère en charge des finances</Source>
+</LienExterneCommente><OuSAdresser ID="R36" type="Local personnalisé sur SP">
+<Titre>Chambre de commerce et d'industrie (CCI)</Titre>
+<PivotLocal>cci</PivotLocal>
+<RessourceWeb URL="http://www.cci.fr/web/organisation-du-reseau/annuaire"/>
+<Source ID="R30752">CCI France</Source>
+</OuSAdresser>
+<OuSAdresser ID="R18" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge de la protection des populations (DDPP)</Titre>
+<PivotLocal>ddpp</PivotLocal>
+<RessourceWeb URL="http://www.economie.gouv.fr/dgccrf/coordonnees-des-DDPP-et-DDCSPP"/>
+</OuSAdresser>
+<OuSAdresser ID="R22" type="Local personnalisé sur SP">
+<Titre>Direction régionale de l'environnement, de l'aménagement et du logement (Dreal)</Titre>
+<PivotLocal>dreal</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Direction+r%C3%A9gionale+de+l%27environnement%2C+de+l%27am%C3%A9nagement+et+du+logement+%28Dreal%29&amp;where="/>
+</OuSAdresser>
+<OuSAdresser ID="R37" type="Local personnalisé sur SP">
+<Titre>Chambre de métiers et de l'artisanat (CMA)</Titre>
+<PivotLocal>chambre_metier</PivotLocal>
+<RessourceWeb URL="http://annuairecma.artisanat.fr/"/>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R14307" URL="http://www.boutique.afnor.org/normes" type="Téléservice">
+<Titre>Recherche de norme</Titre>
+<Source ID="R30616">Association française de normalisation (Afnor)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14308" URL="http://www.marque-nf.com/recherche.asp" type="Téléservice">
+<Titre>Recherche d'une marque NF ou d'une autre certification</Titre>
+<Source ID="R30616">Association française de normalisation (Afnor)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14310" URL="http://www.lne.fr/fr/certification/entreprises-certifiees.asp" type="Téléservice">
+<Titre>Recherche de produits certifiés par le laboratoire national de métrologie et d'essais (LNE)</Titre>
+<Source ID="R30768">Laboratoire national de métrologie et d'essais (LNE)</Source>
+</ServiceEnLigne>
+</Publication>

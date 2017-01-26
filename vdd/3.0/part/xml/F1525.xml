@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1525" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en présence d'un terrain non entretenu (en friche) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Tout propriétaire est obligé d'entretenir son terrain. Il est possible de couper soi-même les haies d'un voisin qui dépassent sur son propre terrain.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-09</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1525</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150120&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164567&amp;cidTexte=LEGITEXT000006070633</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N356</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N356">Troubles de voisinage</Niveau>
+<Niveau ID="F1525" type="Fiche Question-réponse">Que faire en présence d'un terrain non entretenu (en friche) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N356">
+<Titre>Troubles de voisinage</Titre>
+<Fiche ID="F612">Bruits de voisinage</Fiche>
+<Fiche ID="F31117">Bruits d'activité</Fiche>
+<Fiche ID="F19299">Nuisances olfactives</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Tout propriétaire est obligé d'entretenir son terrain. Il est possible de couper soi-même les haies d'un voisin qui dépassent sur son propre terrain.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>.</Paragraphe>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Si le propriétaire est connu</Paragraphe>
+</Titre><Paragraphe>Le propriétaire d'un terrain privé agricole ou non, qui laisse son terrain en friche, c'est-à-dire non entretenu, peut <LienInterne LienPublication="F1423" type="Fiche Question-réponse" audience="Particuliers">causer un préjudice</LienInterne> aux propriétaires des terrains voisins. Ce préjudice peut être la présence de mauvaises herbes ou d'animaux nuisibles par exemple.</Paragraphe>
+<Paragraphe>Pour y mettre un terme, il convient d'adresser un courrier au propriétaire du terrain en lui demandant de défricher son terrain. En cas de refus, le <LienInterne LienPublication="F1785" type="Fiche d'information" audience="Particuliers">juge de proximité</LienInterne> peut être saisi si un préjudice est causé au voisin.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si le propriétaire est inconnu</Paragraphe>
+</Titre><Paragraphe>Lorsque le propriétaire du terrain litigieux n'est pas identifié, le service communal d'hygiène et de santé de la mairie doit être saisi.</Paragraphe>
+<Paragraphe>Si le propriétaire n'est pas retrouvé, le maire dresse un procès-verbal d'abandon de terrain et ordonne les travaux nécessaires.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F614" audience="Particuliers">
+<Titre>Plantations (haies, arbres, arbustes...)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour signaler un terrain en friche (sauf à Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour signaler un terrain en friche à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150120&amp;cidTexte=LEGITEXT000006070721" ID="R38950">
+<Titre>Code civil : articles 653 à 673</Titre>
+<Complement>Obligations d'entretien des haies</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164567&amp;cidTexte=LEGITEXT000006070633" ID="R40148">
+<Titre>Code général des collectivités territoriales : articles L2243-1 à L2243-4</Titre>
+<Complement>Déclaration d'abandon</Complement>
+</Reference>
+</Publication>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32384" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on toucher des allocations logement si le bien appartient à sa famille ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Vous pouvez bénéficier d'une allocation logement (APL, ALF, ALS) dans des cas restreints.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32384</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028807038&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20360">Allocations logement</Niveau>
+<Niveau ID="F32384" type="Fiche Question-réponse">Peut-on toucher des allocations logement si le bien appartient à sa famille ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N305">Aides financières pour le logement</SousThemePere><DossierPere ID="N20360">
+<Titre>Allocations logement</Titre>
+<Fiche ID="F12006">Aide personnalisée au logement (APL)</Fiche>
+<Fiche ID="F13132">Allocation de logement familiale (ALF)</Fiche>
+<Fiche ID="F1280">Allocation de logement sociale (ALS)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Vous pouvez bénéficier d'une allocation logement (APL, ALF, ALS) dans des cas restreints. </Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Bien appartenant à la famille</Titre>
+<Texte>
+<Chapitre><Paragraphe>Si le logement  appartient à un <LienIntra LienID="R12668" type="Définition de glossaire">ascendant</LienIntra> de vous-même ou de la personne avec laquelle vous vivez en couple, vous ne pouvez pas bénéficier d'une  <LienInterne LienPublication="N20360" type="Dossier" audience="Particuliers">allocation logement (APL, ALF, ALS)</LienInterne>. </Paragraphe>
+<Paragraphe>Le versement de l'allocation est possible uniquement si le lien de parenté est un lien indirect (frère, sœur, oncle, cousin, neveu...).</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Parts d'usufruit ou de propriété</Titre>
+<Texte>
+<Chapitre><Paragraphe>Vous ne pouvez pas bénéficier d'une allocation logement si vous-même, vos ascendants ou <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra> ou ceux de la personne avec laquelle vous vivez en couple :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>jouissez de <LienIntra LienID="R44557" type="Définition de glossaire">l'usufruit</LienIntra> sur le logement par le biais de  <LienIntra LienID="R12717" type="Définition de glossaire">l'indivision</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou détenez des parts de propriété sur le logement par le biais par exemple d'une société civile immobilière (SCI).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe> Il est toutefois prévu une dérogation lorsque l'ensemble des parts de propriété et d'usufruit détenues est inférieur à des seuils fixés à :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>10 % pour les parts de propriété</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et 10 % pour les parts d'usufruit</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>sans que l'ensemble de ces parts ne puisse être égal ou supérieur à 10 % au total.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Dossier ID="N20360" audience="Particuliers">
+<Titre>Allocations logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<Complement>Pour obtenir un complément d'information</Complement>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028807038&amp;cidTexte=LEGITEXT000006074096" ID="R38784">
+<Titre>Code de la construction et de l'habitation : article L351-2-1</Titre>
+</Reference>
+<Definition ID="R12668">
+<Titre>Ascendant</Titre>
+<Texte>
+				<Paragraphe>Parents, grands-parents et arrière-grands-parents d'une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12717">
+<Titre>Indivision</Titre>
+<Texte>
+				<Paragraphe>Situation dans laquelle deux ou plusieurs personnes sont propriétaires ensemble d'une même chose ou d'un même ensemble de choses (exemples : maison, portefeuille de titres, meubles, bijoux)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136538&amp;cidTexte=LEGITEXT000006070721" ID="R18644">
+<Titre>Code civil : articles 815 à 815-1</Titre>
+</Reference>
+</Definition>
+<Definition ID="R44557">
+<Titre>Usufruit</Titre>
+<Texte>
+				<Paragraphe>Droit réel de jouissance qui confère à son titulaire (l'usufruitier) le droit d'utiliser le bien et d'en percevoir des revenus locatifs, sans pouvoir en disposer, notamment le vendre</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1563" audience="Particuliers">Un étudiant peut-il prétendre à une aide au logement ?</QuestionReponse>
+<QuestionReponse ID="F31864" audience="Particuliers">Quelles sont les différences entre les allocations logement ?</QuestionReponse>
+<QuestionReponse ID="F32037" audience="Particuliers">Les allocations logement sont-elles maintenues en cas de loyers impayés ?</QuestionReponse>
+
+</Publication>

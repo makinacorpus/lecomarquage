@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2416" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment transformer un local professionnel en logement ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>La transformation d'un local professionnel (un bureau, par exemple) en habitation nécessite le respect de certaines formalités.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2416</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188273&amp;cidTexte=LEGITEXT000006074075, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188286&amp;cidTexte=LEGITEXT000006074075</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N319</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N319">Autorisations d'urbanisme</Niveau>
+<Niveau ID="F2416" type="Fiche Question-réponse">Comment transformer un local professionnel en logement ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N557">Urbanisme</SousThemePere><DossierPere ID="N319">
+<Titre>Autorisations d'urbanisme</Titre>
+<Fiche ID="F1633">Certificat d'urbanisme</Fiche>
+<Fiche ID="F17578">Déclaration préalable de travaux</Fiche>
+<Fiche ID="F1986">Permis de construire</Fiche>
+<Fiche ID="F17665">Permis d'aménager</Fiche>
+<Fiche ID="F19450">Permis modificatif (permis de construire ou d'aménager)</Fiche>
+<Fiche ID="F17669">Permis de démolir</Fiche>
+<Fiche ID="F2698">Transfert d'un permis de construire ou d'aménager</Fiche>
+<Fiche ID="F20567">Contestation d'une autorisation d'urbanisme</Fiche>
+<Fiche ID="F23263">Taxe d'aménagement</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La transformation d'un local professionnel (un bureau, par exemple) en habitation nécessite le respect de certaines formalités. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Vérifications préalables</Paragraphe>
+</Titre><Paragraphe>Avant même d'envisager des travaux, il convient de faire certaines vérifications.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Vérification des règles d'urbanisme</Paragraphe>
+</Titre><Paragraphe>Avant d'envisager la transformation de son local,  il faut vérifier que le projet de transformation n'est pas contraire au plan local d'urbanisme (PLU) ou à la carte communale. </Paragraphe>
+<Paragraphe>Ces documents peuvent en effet prévoir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des règles régissant les rez-de-chaussée de certains immeubles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou interdire toute transformation d'un local commercial en logement afin de protéger le commerce de proximité.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ces informations peuvent être obtenues en mairie.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Vérification du règlement de copropriété</Paragraphe>
+</Titre><Paragraphe>Lorsque le local professionnel fait partie d'un immeuble en copropriété, il faut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vérifier que le <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne> n'interdit pas le changement de destination du local,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et obtenir l'accord de la copropriété en assemblée générale pour effectuer les travaux nécessaires.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Vérification des raccordements</Paragraphe>
+</Titre><Paragraphe>Il faut s'assurer que le futur logement est bien desservi par les réseaux divers (eau potable, électricité, téléphone...), sans quoi le raccordement peut être onéreux.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande d'une autorisation d'urbanisme</Paragraphe>
+</Titre><Paragraphe>Un <LienInterne LienPublication="F1986" type="Fiche d'information" audience="Particuliers">permis de construire</LienInterne> est exigé si les travaux ont pour effet de modifier les structures porteuses ou la façade du bâtiment.</Paragraphe>
+<Paragraphe>En outre, il est obligatoire de faire appel à un <LienInterne LienPublication="F20568" type="Fiche Question-réponse" audience="Particuliers">architecte</LienInterne> lorsque le local dans lequel les travaux sont envisagés fait plus de 170 m² de <LienIntra LienID="R11405" type="Définition de glossaire">surface de plancher</LienIntra> ou d' <LienIntra LienID="R15257" type="Définition de glossaire">emprise au sol</LienIntra>.</Paragraphe>
+<Paragraphe>En dehors de ces gros travaux, une simple  <LienInterne LienPublication="F17578" type="Fiche d'information" audience="Particuliers">déclaration préalable</LienInterne> suffit.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Information de l'administration fiscale</Paragraphe>
+</Titre><Paragraphe>Le changement de destination d'un local professionnel en logement entraîne les modifications fiscales suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>suppression de la contribution économique territoriale (ex-taxe professionnelle),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et transformation de la <LienInterne LienPublication="F42" type="Fiche d'information" audience="Particuliers">taxe d'habitation</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'impôt foncier sera donc modifié, car il est calculé sur la <LienIntra LienID="R10562" type="Définition de glossaire">valeur locative cadastrale</LienIntra>. Or, cette valeur n'est pas la même s'il s'agit d'une activité commerciale ou d'un logement.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration en mairie</Paragraphe>
+</Titre><Paragraphe>Dans les communes de plus de 200 000 habitants, une délibération peut autoriser, sur simple déclaration préalable, le changement d'affectation de bureaux en habitations pour une durée maximale de 15 ans.</Paragraphe>
+<Paragraphe>À l'issue de cette période, ces locaux pourront être de nouveau affectés à un usage autre que l'habitation, sans avoir besoin d'une nouvelle autorisation de changement d'usage. </Paragraphe>
+<Paragraphe>Cette information peut être obtenue en mairie.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2751" audience="Professionnels">
+<Titre>Transformer un logement en local professionnel</Titre>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour consulter le PLU ou la carte communale et demander les autorisations d'urbanisme nécessaires (sauf à Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34254" type="Local personnalisable">
+<Titre>Paris - Direction de l'urbanisme</Titre>
+<Complement>Pour consulter le PLU et demander les autorisations d'urbanisme nécessaires (uniquement à Paris)</Complement>
+<PivotLocal>paris_mairie_urbanisme</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/services-et-infos-pratiques/urbanisme-et-architecture/demandes-d-autorisations/demarches-2094#vos-contacts_1"/>
+<Source ID="R30894">Ville de Paris</Source>
+</OuSAdresser>
+<OuSAdresser ID="R16" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge des territoires (DDT ou DDTM)</Titre>
+<Complement>Pour obtenir un complément d'information (sauf pour Paris et les départements limitrophes)</Complement>
+<PivotLocal>ddt</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=DDT+ou+DDTM&amp;where="/>
+</OuSAdresser>
+<OuSAdresser ID="R34802" type="Local personnalisé sur SP">
+<Titre>Direction régionale et interdépartementale de l'équipement et de l'aménagement</Titre>
+<Complement>Pour obtenir un complément d'information (uniquement pour Paris et les départements limitrophes)</Complement>
+<PivotLocal>driea_ut</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/ile-de-france#service-driea_ut"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188273&amp;cidTexte=LEGITEXT000006074075" ID="R37763">
+<Titre>Code de l'urbanisme : articles R*421-14 à R*421-16</Titre>
+<Complement>Travaux nécessitant un permis de construire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188286&amp;cidTexte=LEGITEXT000006074075" ID="R32267">
+<Titre>Code de l'urbanisme : articles R*421-17 à R*421-17-1</Titre>
+<Complement>Travaux nécessitant une déclaration préalable</Complement>
+</Reference>
+<Definition ID="R15257">
+<Titre>Emprise au sol d'une construction</Titre>
+<Texte>
+				<Paragraphe>Projection verticale du volume de la construction, tous débords et surplombs inclus. Les ornements tels que les éléments de modénature (moulure, par exemple) et les marquises en sont exclus, ainsi que les débords de toiture lorsqu'ils ne sont pas soutenus par des poteaux ou des encorbellements.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R11405">
+<Titre>Surface de plancher d'une construction</Titre>
+<Texte>
+				<Paragraphe>Unité de calcul des surfaces de constructions servant à la délivrance des autorisations d'urbanisme</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10562">
+<Titre>Valeur locative cadastrale</Titre>
+<Texte>
+				<Paragraphe>Niveau de loyer annuel potentiel que la propriété concernée produirait si elle était louée. Sert de base de calcul aux impôts directs locaux :  taxe d'habitation,  taxe foncière, cotisation foncière des entreprises (CFE).</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179808&amp;cidTexte=LEGITEXT000006069577" ID="R32431">
+<Titre>Code général des impôts : articles 1409 à 1413</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F24611" audience="Particuliers">Peut-on transformer un sous-sol en pièce habitable et le mettre en location  ?</QuestionReponse>
+</Publication>

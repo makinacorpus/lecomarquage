@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R46635" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de certificat qualité de l'air pour les particuliers</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports, Secteurs d'activité</dc:subject>
+<dc:description>Demande de certificat qualité de l'air pour les particuliers - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-23</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R46635</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N18131">Mesures antipollution</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R46635" type="Formulaire">Demande de certificat qualité de l'air pour les particuliers</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<LienWeb URL="https://www.certificat-air.gouv.fr/docs/CQA_Formulaire_demande_courrier.pdf" format="application/pdf;charset=UTF-8" poids="152.0 KB">
+<Source>Ministère en charge de l'environnement</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R44284" audience="Particuliers" type="Téléservice">
+<Titre>Commander une vignette Crit'air (certificat qualité de l'air)</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F33371" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Qu'est-ce que le certificat qualité de l'air appelé Crit'Air ?</Titre>
+<Dossier ID="N18131">Mesures antipollution</Dossier>
+</FicheLiee><OuSAdresser ID="R46636" type="National">
+<Titre>Service de délivrance des certificats qualité de l'air</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>Service de délivrance des certificats qualité de l'air</Paragraphe>
+								<Paragraphe>BP 50637</Paragraphe>
+								<Paragraphe>59506 Douai Cedex</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0820 147 700 (0,40 €/appel + prix de l'appel)</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 17h</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+</ServiceComplementaire>

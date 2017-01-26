@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N18470" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Cinéma</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Cinéma</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N18470</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N18470" type="Dossier">Cinéma</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N22282">Culture</SousThemePere>
+<Fiche ID="F665">Ouverture d'une salle de cinéma</Fiche>
+<Fiche ID="F23187">Dépôt légal des films</Fiche>
+<Fiche ID="F23274">Calendrier d'exploitation des films</Fiche>
+<Fiche ID="F23277">Classification des films (visa d'exploitation)</Fiche>
+<Fiche ID="F23292">Classement des salles de cinéma art et essai</Fiche>
+<Fiche ID="F23294">Autorisation de séances de cinéma en plein air</Fiche><VoirAussi important="non">
+<Fiche ID="F33649" audience="Professionnels">
+<Titre>Crédit d'impôt cinéma</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R17923" URL="http://www.cnc-tsa.fr/" numerocerfa="13322*01" type="Téléservice">
+<Titre>Déclaration de la taxe sur le prix des entrées en salles de spectacles cinématographiques (TSA)</Titre>
+<Source ID="R30760">Centre national du cinéma et de l'image animée (CNC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17922" URL="http://www.cinedi.com/" numerocerfa="12899*01" type="Téléservice">
+<Titre>Déclaration de recettes hebdomadaires réalisées par les exploitants de salles de cinéma</Titre>
+<Source ID="R30760">Centre national du cinéma et de l'image animée (CNC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14139" URL="http://www.cnc-rca.fr/Pages/PageAccueil.aspx" type="Téléservice">
+<Titre>Consultation du registre national de la cinématographie (RCA)</Titre>
+<Source ID="R30760">Centre national du cinéma et de l'image animée (CNC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14701" URL="http://www.culture.gouv.fr/culture/infos-pratiques/formulaires/cnc/10607-01.pdf" format="application/pdf" poids="45.5 KB" numerocerfa="10607*01" type="Formulaire">
+<Titre>Déclaration d'encaissements des films doublés</Titre>
+<Source ID="R30679">Ministère en charge de la culture et de la communication</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R20683" URL="http://www.cnc.fr/web/fr/cinema" audience="Professionnels">
+<Titre>Aides et subventions du CNC : soutien à l'écriture, au projet de film...</Titre>
+<Source ID="R30760">Centre national du cinéma et de l'image animée (CNC)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F355" audience="Professionnels">Dans quelles conditions peut-on utiliser un pseudonyme ?</QuestionReponse>
+</Publication>

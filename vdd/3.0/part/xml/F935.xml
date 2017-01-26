@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F935" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment adopter un enfant à l'étranger ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Pour adopter un enfant à l'étranger, vous devez respecter les législations en vigueur en France et dans le pays d'origine de l'enfant</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F935</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000374064</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N133</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N133">Adoption</Niveau>
+<Niveau ID="F935" type="Fiche Question-réponse">Comment adopter un enfant à l'étranger ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N133">
+<Titre>Adoption</Titre><SousDossier ID="N133-1">
+<Titre>Adoption par un couple marié</Titre>
+<Fiche ID="F3151">Adoption plénière</Fiche>
+<Fiche ID="F1184">Adoption simple</Fiche>
+</SousDossier>
+<SousDossier ID="N133-2">
+<Titre>Adoption à titre individuel</Titre>
+<Fiche ID="F1385">Adoption plénière</Fiche>
+<Fiche ID="F933">Adoption simple</Fiche>
+<Fiche ID="F1094">Adoption de l'enfant de son conjoint</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Pour adopter un enfant à l'étranger, vous devez remplir les mêmes conditions que pour  adopter un enfant en France (condition d'âge, <LienInterne LienPublication="F1383" type="Fiche Question-réponse" audience="Particuliers">agrément</LienInterne>, etc.).</Paragraphe>
+<Paragraphe>De plus, vous devez respecter les exigences de la législation du pays d'origine de l'enfant,  indiquées dans les <LienExterne URL="http://www.diplomatie.gouv.fr/fr/adopter-a-l-etranger/comment-adopter-a-l-etranger/les-fiches-pays-de-l-adoption/fiches-pays-adoption/">fiches pays de l'adoption internationale</LienExterne>
+
+ du ministère des affaires étrangères.</Paragraphe>
+<Paragraphe>Chaque fiche vous explique la procédure d'adoption en vigueur pour le pays concerné. Vous y trouverez notamment les renseignements suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Pays soumis ou pas à la <LienExterne URL="http://www.diplomatie.gouv.fr/fr/adopter-a-l-etranger/colonne-de-droite/textes-de-references-3632/convention-de-la-haye-du-29-mai/article/dispositif-de-la-convention-de-la">Convention de La Haye (CLH)</LienExterne>
+
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Exigences du droit local (qui peut adopter, quels enfants sont adoptables, les autorités locales en charge des dossiers d'adoption)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Forme et effets de la décision d'adoption (<LienInterne LienPublication="F15246" type="Fiche Question-réponse" audience="Particuliers">adoption plénière ou simple</LienInterne>)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Démarches d'adoption (constitution du dossier en France, étapes de la procédure locale, obtention du visa de l'enfant adopté)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Démarches après l'arrivée de l'enfant en France</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Contacts utiles en France et dans le pays d'origine de l'enfant</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si le pays de l'enfant est soumis à la CLH, vous devez obligatoirement effectuer la démarche par le biais :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> d'un organisme autorisé pour l'adoption (OAA),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou de l'Agence française de l'adoption (Afa).</Paragraphe>
+</Item>
+</Liste><OuSAdresser ID="R15567" type="Local personnalisable">
+<Titre>Organisme autorisé pour l'adoption (OAA)</Titre>
+<PivotLocal>oaa</PivotLocal>
+<RessourceWeb URL="http://www.adoption.gouv.fr/Les-Organismes-Autorises-pour-l.html"/>
+<Source ID="R30785">Agence française de l'adoption</Source>
+</OuSAdresser>
+<OuSAdresser ID="R15462" type="Centre de contact">
+<Titre>Agence française de l'adoption (Afa)</Titre><Texte>
+						
+								<Paragraphe>
+			Informe, conseille et accompagne les familles dans leur projet d’adoption d’un enfant étranger.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      <MiseEnEvidence>+33 (0)1 44 78 61 40
+    
+	</MiseEnEvidence>	</Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>Le lundi de 9h30 à 12h30 et de 14h à 17h30 </Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>
+			Les mardi, mercredi et jeudi de 9h30 à 17h30</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>Le vendredi de 9h30 à 12h30 et de 14h à 17h30 </Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			19 boulevard Henri IV
+		</Paragraphe>
+								<Paragraphe>
+			75004 Paris
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+<Paragraphe>Pour en savoir plus sur chaque étape de la procédure de l'adoption à l'étranger, consultez le <LienExterne URL="http://www.diplomatie.gouv.fr/fr/enjeux-internationaux/adoption-internationale-2605/comment-adopter-a-l-etranger/guide-de-l-adoption-a-l-etranger/">guide de l'adoption à l'étranger</LienExterne>
+
+.</Paragraphe>
+<Paragraphe>Dans tous les cas, il est indispensable de s'informer auprès des organismes compétents en France (Afa ou OAA).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>en général, l'adoption d'un enfant étranger ne peut être accordée qu'en l'absence de solution pour lui dans son pays d'origine. Il faut que la loi du pays de l'enfant autorise l'adoption.</Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N133" audience="Particuliers">
+<Titre>Adoption</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000374064" ID="R483">
+<Titre>Décret n°98-815 du 11 septembre 1998 relative à la convention sur la protection des enfants et la coopération en matière d'adoption internationale</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41691" URL="http://www.diplomatie.gouv.fr" audience="Particuliers">
+<Titre>Site du ministère des affaires étrangères</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41643" URL="http://www.agence-adoption.fr" audience="Particuliers">
+<Titre>Site de l'Agence française de l'adoption (Afa)</Titre>
+<Source ID="R30785">Agence française de l'adoption</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41644" URL="http://www.adoption.gouv.fr/" audience="Particuliers">
+<Titre>Site officiel d'information sur l'adoption d'un enfant</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R31324" URL="http://www.diplomatie.gouv.fr/fr/enjeux-internationaux/adoption-internationale-2605/comment-adopter-a-l-etranger/guide-de-l-adoption-a-l-etranger/" audience="Particuliers">
+<Titre>Le guide de l'adoption à l'étranger</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R37555" URL="http://www.diplomatie.gouv.fr/fr/adopter-a-l-etranger/comment-adopter-a-l-etranger/les-fiches-pays-de-l-adoption/fiches-pays-adoption/" audience="Particuliers">
+<Titre>Fiches pays Adoption</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R37556" URL="http://www.diplomatie.gouv.fr/fr/adopter-a-l-etranger/colonne-de-droite/textes-de-references-3632/convention-de-la-haye-du-29-mai/article/dispositif-de-la-convention-de-la" audience="Particuliers">
+<Titre>Dispositif de la convention de La Haye</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R31981" URL="http://www.diplomatie.gouv.fr/fr/adopter-a-l-etranger/comment-adopter-a-l-etranger/" audience="Particuliers">
+<Titre>Comment adopter à l'étranger ?</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1383" audience="Particuliers">Adoption : comment faire une demande d'agrément ?</QuestionReponse>
+</Publication>

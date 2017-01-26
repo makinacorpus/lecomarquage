@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31448" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Handicap : de quelle aide peut bénéficier un enfant hors du temps scolaire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Un enfant en situation de handicap peut nécessiter une aide en dehors du temps scolaire. Cette aide peut être apportée par un service d'éducation spéciale et de soins à domicile (Sessad).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31448</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166743&amp;cidTexte=LEGITEXT000006071191</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N57</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N57">École et handicap</Niveau>
+<Niveau ID="F31448" type="Fiche Question-réponse">Handicap : de quelle aide peut bénéficier un enfant hors du temps scolaire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N57">
+<Titre>École et handicap</Titre>
+<Fiche ID="F1868">Accueil de l'enfant de moins de 3 ans</Fiche>
+<Fiche ID="F14984">Scolarisation en primaire (maternelle et élémentaire)</Fiche>
+<Fiche ID="F14953">Scolarisation au collège et au lycée</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Un enfant en situation de handicap peut nécessiter une aide en dehors du temps scolaire. Cette aide peut être apportée par un service d'éducation spéciale et de soins à domicile (Sessad). </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le Sessad apporte un soutien spécialisé à l'enfant en situation de handicap pour le maintenir dans son milieu de vie ordinaire. </Paragraphe>
+<Paragraphe>Il participe à son intégration scolaire ou à l'acquisition de son autonomie.</Paragraphe>
+<Paragraphe>Le soutien du Sessad peut prendre différentes formes selon les besoins de l'enfant : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soutien scolaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soins spécifiques, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soutien à la famille.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Selon le handicap et l'âge de l'enfant, ces services peuvent avoir un nom différent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le service de soutien à l'éducation familiale et à l'intégration scolaire (SSEFIS), qui s'occupe des déficients auditifs de plus de 3 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le service d'aide à l'acquisition de l'autonomie et de l'intégration scolaire (SSAAAIS,) qui s'occupe des déficients visuels de plus de 3 ans.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir bénéficier de cette aide, le handicap de l'enfant doit avoir été reconnu par la <LienIntra LienID="F24610" type="Fiche Question-réponse">Commission des droits et de l'autonomie des personnes handicapées (CDAPH)</LienIntra>. C'est cette commission qui décide, selon les besoins de l'enfant, de l'orienter vers l'un ou l'autre de ces services.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R14" type="Local personnalisé sur SP">
+<Titre>Maison départementale des personnes handicapées (MDPH)</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>maison_handicapees</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=MDPH&amp;where="/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166743&amp;cidTexte=LEGITEXT000006071191" ID="R10500">
+<Titre>Code de l'éducation : articles L351-1 à L351-3</Titre>
+<Complement>Orientation de la CDAPH vers un Sessad</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R32057" URL="http://cache.media.education.gouv.fr/file/Handicapes/90/7/Brochure_mieux_connaitre_et_comportements_216907.pdf" audience="Particuliers" format="application/pdf" poids="571.6 KB">
+<Titre>Brochure "Mieux connaître les handicaps, adapter son comportement"</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+
+</Publication>

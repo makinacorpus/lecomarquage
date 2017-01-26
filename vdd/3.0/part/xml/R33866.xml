@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R33866" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander un blocage de provision en vue de la régularisation d'un chèque impayé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Demander un blocage de provision en vue de la régularisation d'un chèque impayé - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-30</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R33866</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R33866" type="Formulaire">Demander un blocage de provision en vue de la régularisation d'un chèque impayé</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.lesclesdelabanque.com/Web/Cdb/Particuliers/Content.nsf/DocumentsByIDWeb/6Y8G2S/$File/lettre-regularisation-blocage-provision.docx" format="application/vnd.openxmlformats-officedocument.wordprocessingml.document" poids="52.1 KB">
+<Source>Fédération bancaire française</Source>
+</LienWeb>
+<FicheLiee ID="F1930" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment régulariser un chèque sans provision ?</Titre>
+<Dossier ID="N91">Moyens de paiement</Dossier>
+</FicheLiee>
+<Dossier ID="N91">
+<Titre>Moyens de paiement</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

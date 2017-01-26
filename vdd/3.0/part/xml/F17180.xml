@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17180" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Information du patient sur son état de santé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Toute personne a le droit d'être informée sur son état de santé. Cette information peut être délivrée avant, pendant et après les soins.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-16</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17180</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185255&amp;cidTexte=LEGITEXT000006072665</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17179</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N17179">Information du patient : dossier médical, montant des prestations, ...</Niveau>
+<Niveau ID="F17180" type="Fiche d'information">Information du patient sur son état de santé</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20325">Droits des patients</SousThemePere><DossierPere ID="N17179">
+<Titre>Information du patient : dossier médical, montant des prestations, ...</Titre><SousDossier ID="N17179-1">
+<Titre>Accès aux dossiers médicaux</Titre>
+<Fiche ID="F12210">Dossier médical</Fiche>
+<Fiche ID="F16033">Dossier pharmaceutique</Fiche>
+</SousDossier>
+<SousDossier ID="N17179-2">
+<Titre>Droit à l'information</Titre>
+<Fiche ID="F17180">Sur l'état de santé</Fiche>
+<Fiche ID="F19948">Sur le montant des prestations</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Droit à l'information</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Toute personne a le droit d'être informée sur son état de santé.
+			Cette information peut être délivrée avant, pendant et après les soins. L'accès à l'information varie selon que vous soyez majeur ou mineur.  Les informations sont communiquées  au cours d'un entretien individuel. La consultation des informations est gratuite sur place. En cas de litige, il appartient au professionnel ou à l'établissement  d'apporter la preuve que l'information a été délivrée au patient.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Nature de l'information</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Information avant les soins</Paragraphe>
+</Titre><Paragraphe>Avant tout soin, le professionnel de santé doit délivrer certaines informations à son patient qui peuvent porter sur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les investigations, les traitements ou les actions de prévention qui sont proposés au patient,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>leur utilité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>leur urgence éventuelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>leurs conséquences,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les risques fréquents ou graves normalement prévisibles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> les autres solutions possibles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les conséquences prévisibles en cas de refus. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Quand son état de santé le permet, le patient est également informé de la possibilité de recevoir les soins sous forme ambulatoire ou à domicile. La volonté du patient de bénéficier de l'une de ces formes de prise en charge doit être prise en compte. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Information pendant les soins</Paragraphe>
+</Titre><Paragraphe>Lors de sa prise en charge, le patient est informé par le professionnel que celui-ci dispose des diplômes adéquats pour exercer son activité. Cette information peut être aussi communiquée par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les établissements de santé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les services de santé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou toute autre <LienIntra LienID="R40703" type="Définition de glossaire">personne morale</LienIntra>, autre que l’État, exerçant des activités de prévention, de diagnostic ou de soins. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ces professionnels ou personnes informent également le patient du respect de leur obligation de s'assurer contre toute <LienInterne LienPublication="F10342" type="Fiche d'information" audience="Particuliers">responsabilité civile ou administrative</LienInterne>. </Paragraphe>
+<Paragraphe>En cas de refus de soins par le patient, le médecin a l'obligation de respecter sa volonté après l'avoir informé des conséquences de ses choix et de leur gravité. </Paragraphe>
+<Paragraphe>Lors de toute hospitalisation dans un établissement de santé, il est proposé au patient de désigner une personne de confiance. Cette personne peut être un parent ou un proche. Sauf volonté contraire du patient, cette désignation est valable pour toute la durée de l'hospitalisation. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Information après les soins</Paragraphe>
+</Titre><Paragraphe>Le droit d'être informé sur son état de santé ne s'éteint pas après l’exécution des investigations, traitements ou actions de prévention. Si des risques nouveaux sont apparus, le patient doit en être informée, sauf en cas d'impossibilité de le retrouver (par exemple, découverte des effets secondaires d'un médicament qui vous a été prescrit il y a plus ou moins longtemps). </Paragraphe>
+<Paragraphe>Par ailleurs, le patient peut, à tout moment, demander la consultation de son <LienInterne LienPublication="F12210" type="Fiche d'information" audience="Particuliers">dossier médical</LienInterne>.</Paragraphe>
+<Paragraphe>Tout patient a accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels et établissement de santé. Il peut s'agir d'informations formalisées ou d'échanges écrits entre professionnels de santé tels que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des résultats d'examen, comptes rendus de consultation, d'intervention, d'exploration ou d'hospitalisation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des protocoles et prescriptions thérapeutiques mis en œuvre ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des feuilles de surveillance ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de la correspondance entre professionnels de santé.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'accès à ces informations se fait différemment selon que le patient soit majeur, mineur ou a fait l'objet d'une mesure de protection juridique. </Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Patient majeur</Paragraphe>
+</Titre><Paragraphe>Le patient majeur peut accéder à ces informations directement ou par l'intermédiaire d'un médecin qu'il désigne. Ces documents sont communiqués au patient :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>au plus tard dans les 8 jours suivant sa demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et au plus tôt après qu'un délai de réflexion de 48 heures a été observé. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ce délai est porté à 2 mois lorsque :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les informations médicales datent de plus de 5 ans ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la commission départementale des soins psychiatrique est saisie. </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Patient mineur</Paragraphe>
+</Titre><Paragraphe>Dans le cas d'un patient mineur, le droit d'accès est exercé par le ou les titulaires de l'autorité parentale. Si le mineur le demande, cet accès peut avoir lieu par l'intermédiaire d'un médecin. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Curatelle</Paragraphe>
+</Titre><Paragraphe>La personne protégée reçoit elle-même l'information et consent seule aux actes médicaux. <LienInterne LienPublication="F33899" type="Fiche Question-réponse" audience="Particuliers">Le curateur n'a pas à intervenir, mais peut la conseiller</LienInterne>. </Paragraphe>
+<Paragraphe>Le curateur n'a pas le droit d'accéder au dossier médical de la personne sous curatelle sauf si la personne protégée sous curatelle lui délivre un mandat exprès en ce sens.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Tutelle</Paragraphe>
+</Titre><Paragraphe>Le tuteur qui assiste le patient faisant l'objet d'une mesure de protection juridique peut avoir <LienInterne LienPublication="F33899" type="Fiche Question-réponse" audience="Particuliers">accès à ses informations médicales</LienInterne>. </Paragraphe>
+<Paragraphe>Ces documents sont communiqués à la personne en charge de l'exercice de la mesure  :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>au plus tard dans les 8 jours suivant sa demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et au plus tôt après qu'un délai de réflexion de 48 heures a été observé. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ce délai est porté à 2 mois lorsque :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les informations médicales datent de plus de 5 ans ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la commission départementale des soins psychiatrique est saisie. </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Droit de ne pas savoir</Paragraphe>
+</Titre><Paragraphe>S'il le souhaite, le patient peut être tenu dans l’ignorance d’un diagnostic ou d’un pronostic, sauf lorsque des tiers (par exemple, l'enfant ou le <LienIntra LienID="R42442" type="Définition de glossaire">conjoint</LienIntra> du patient) sont exposés à un risque de transmission.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Entretien individuel</Paragraphe>
+</Titre><Paragraphe>Le droit du patient d’être informé sur son état de santé constitue une obligation pour le professionnel de santé.</Paragraphe>
+<Paragraphe>Cette information doit être délivrée au cours d’un entretien individuel.</Paragraphe>
+<Paragraphe>Seules l'urgence ou l'impossibilité d'informer peuvent dispenser le professionnel de cette obligation.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>La consultation sur place des informations est gratuite. Lorsque le demandeur souhaite la délivrance de copies, quel qu'en soit le support, les frais laissés à sa charge ne peuvent excéder le coût de la reproduction et de l'envoi des documents. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En cas de litige</Paragraphe>
+</Titre><Paragraphe>
+<LienInterne LienPublication="F10342" type="Fiche d'information" audience="Particuliers">En cas de litige</LienInterne>, il appartient au professionnel ou à l'établissement de santé d'apporter la preuve que l'information a été délivrée au patient. Cette preuve peut être apportée par tout moyen. </Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F12210" audience="Particuliers">
+<Titre>Dossier médical</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F16033" audience="Particuliers">
+<Titre>Dossier pharmaceutique</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185255&amp;cidTexte=LEGITEXT000006072665" ID="R940">
+<Titre>Code de la santé publique : articles L1111-1 à L1111-9</Titre>
+<Complement>Information des usagers du système de santé et expression de leur volonté (article L1111-2)</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R38172" URL="http://www.hopital.fr/Hopitaux/Vos-droits/Les-droits-de-l-usager/L-acces-aux-informations-de-sante-dossier-medical" audience="Particuliers">
+<Titre>Accès aux informations de santé</Titre>
+<Source ID="R30680">Fédération hospitalière de France</Source>
+</PourEnSavoirPlus>
+<Definition ID="R40703">
+<Titre>Personne morale</Titre>
+<Texte>
+				<Paragraphe>Groupement de personnes physiques réunies pour accomplir quelque chose en commun (entreprises, sociétés civiles,  associations, État, collectivités territoriales, etc.). Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Il peut aussi n'être constitué que d'un seul élément (EURL par exemple). </Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F10872" audience="Particuliers">En quoi consiste le dossier médical personnel (DMP) ?</QuestionReponse>
+<QuestionReponse ID="F33899" audience="Particuliers">Qui peut accéder aux informations médicales de la personne protégée ?</QuestionReponse>
+<QuestionReponse ID="F33900" audience="Particuliers">Une personne protégée peut-elle subir un acte médical sans son accord ?</QuestionReponse>
+</Publication>

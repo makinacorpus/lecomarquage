@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R20835" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de permis de construire comprenant ou non des démolitions</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement, Gestion - Finances, Secteurs d'activité</dc:subject>
+<dc:description>Permet de réaliser une construction ou d'effectuer des travaux sur une construction existante.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-16</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R20835</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31378">Règles de domiciliation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R20835" type="Formulaire">Demande de permis de construire comprenant ou non des démolitions</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13409*05</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet de réaliser une construction ou d'effectuer des travaux sur une construction existante.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13409.do" format="application/force-download" poids="934.8 KB">
+<Source>Ministère en charge de l'urbanisme</Source>
+</LienWeb><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R18869" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice&amp;cerfaFormulaire=13410">Fiche complémentaire (si plusieurs demandeurs pour le même projet)</NoticeLiee>
+<NoticeLiee ID="R2116" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13409-2&amp;cerfaFormulaire=13409">Fiche d'aide pour le calcul de la surface de plancher et de la surface taxable</NoticeLiee>
+
+<FicheLiee ID="F31687" audience="Professionnels" type="Fiche d'information">
+<Titre>Établissement recevant du public (ERP) : procédures d'autorisation</Titre>
+<Dossier ID="N13345">Urbanisme - BTP</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1986" audience="Professionnels" type="Fiche d'information">
+<Titre>Permis de construire</Titre>
+<Dossier ID="N319">Autorisations d'urbanisme</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2751" audience="Professionnels" type="Fiche d'information">
+<Titre>Transformer un logement en local professionnel</Titre>
+<Dossier ID="N31378">Règles de domiciliation</Dossier>
+</FicheLiee><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34254" type="Local personnalisable">
+<Titre>Paris - Direction de l'urbanisme</Titre>
+<PivotLocal>paris_mairie_urbanisme</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/services-et-infos-pratiques/urbanisme-et-architecture/demandes-d-autorisations/demarches-2094#vos-contacts_1"/>
+<Source ID="R30894">Ville de Paris</Source>
+</OuSAdresser>
+</ServiceComplementaire>

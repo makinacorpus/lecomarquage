@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N23245" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Achat ou vente d'un logement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Ce dossier expose les principales étapes d'acquisition d'un logement existant ou à construire (neuf ou en l'état futur d'achèvement).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-03</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N23245</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245" type="Dossier">Achat ou vente d'un logement</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere>
+<SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre><Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre><Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+<Introduction>
+<Texte>
+<Paragraphe>
+			Ce dossier expose les principales étapes d'acquisition d'un logement existant ou à construire (neuf ou en l'état futur d'achèvement).
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N21886" audience="Particuliers">
+<Titre>Droit de préemption urbain (DPU)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R33767" URL="http://www.conso.net/content/vous-r%C3%A9siliez-le-contrat-de-r%C3%A9servation-d%E2%80%99un-appartement-vendu-sur-plan" type="Modèle de document">
+<Titre>Résilier le contrat de réservation d'un appartement vendu sur plan</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33769" URL="http://www.conso.net/content/le-pr%C3%AAt-immobilier-vous-est-refus%C3%A9-vous-demandez-le-remboursement-de-l%E2%80%99acompte-vers%C3%A9-au" type="Modèle de document">
+<Titre>Obtenir le remboursement de l'acompte versé au constructeur en cas de refus de son prêt immobilier</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33765" URL="http://www.conso.net/content/vous-refusez-de-verser-les-honoraires-que-vous-r%C3%A9clame-une-agence-immobili%C3%A8re" type="Modèle de document">
+<Titre>Refuser de verser les honoraires réclamés par une agence immobilière</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17557" URL="https://www.impots.gouv.fr/portail/node/9131" numerocerfa="11114*12" autrenumero="941-SD" type="Formulaire">
+<Titre>Déclaration particulière de livraison à soi-même réalisée hors d'une activité économique</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2926" URL="https://www.impots.gouv.fr/portail/node/9132" numerocerfa="11116*09" autrenumero="943-SD" type="Formulaire">
+<Titre>Relevé des taxes déductibles et décompte du prix de revient</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41841" URL="http://www.logement.gouv.fr/monchezmoi" audience="Particuliers">
+<Titre>Site MonChezMoi</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1550" audience="Particuliers">Peut-on faire appel à plusieurs agences immobilières pour vendre son logement ?</QuestionReponse>
+<QuestionReponse ID="F2753" audience="Particuliers">Qu'est-ce qu'une offre d'achat d'un bien immobilier ?</QuestionReponse>
+<QuestionReponse ID="F188" audience="Particuliers">Qu'est-ce que la condition suspensive d'un prêt immobilier ?</QuestionReponse>
+<QuestionReponse ID="F16832" audience="Particuliers">Immobilier : comment connaître le prix au m² d'un logement ou d'un terrain ?</QuestionReponse>
+<QuestionReponse ID="F2407" audience="Particuliers">Dans quels cas l'achat d'un bien immobilier est-il soumis à la TVA ?</QuestionReponse>
+<QuestionReponse ID="F17759" audience="Particuliers">Comment obtenir des renseignements immobiliers ?</QuestionReponse>
+<QuestionReponse ID="F2762" audience="Particuliers">Comment fonctionne une vente ou un achat en viager ?</QuestionReponse>
+<QuestionReponse ID="F19069" audience="Particuliers">Peut-on revendre son logement avant d'avoir remboursé le crédit ?</QuestionReponse>
+<QuestionReponse ID="F1701" audience="Particuliers">Que devient le prêt immobilier quand la vente est annulée ?</QuestionReponse>
+<QuestionReponse ID="F1673" audience="Particuliers">Que devient la vente si le prêt immobilier est refusé ?</QuestionReponse>
+<QuestionReponse ID="F2618" audience="Particuliers">Que faire lorsque l'on a perdu son acte de propriété ?</QuestionReponse>
+<QuestionReponse ID="F2954" audience="Particuliers">Vente immobilière : quelles obligations doit respecter un agent immobilier ?</QuestionReponse>
+<CommentFaireSi ID="F14128">Je déménage</CommentFaireSi>
+
+</Publication>

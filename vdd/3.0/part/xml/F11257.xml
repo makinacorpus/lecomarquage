@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11257" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on voter par internet pour les élections politiques ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Voter par internet est possible uniquement si vous êtes installé à l'étranger et pour participer :</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11257</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024372042&amp;cidTexte=LEGITEXT000006070239, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024372228&amp;cidTexte=LEGITEXT000006070239, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006056678</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N47</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N47">Élections</Niveau>
+<Niveau ID="F11257" type="Fiche Question-réponse">Peut-on voter par internet pour les élections politiques ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere><DossierPere ID="N47">
+<Titre>Élections</Titre><SousDossier ID="N47-1">
+<Titre>Inscription sur les listes électorales</Titre>
+<Fiche ID="F1961">Inscription d'office à 18 ans</Fiche>
+<Fiche ID="F1367">Nouvelle inscription</Fiche>
+<Fiche ID="F1372">Déménagement</Fiche>
+<Fiche ID="F1937">Citoyen européen</Fiche>
+<Fiche ID="F1962">Carte électorale</Fiche>
+</SousDossier>
+<SousDossier ID="N47-2">
+<Titre>Opérations de vote</Titre>
+<Fiche ID="F16828">Déroulement du scrutin</Fiche>
+<Fiche ID="F16904">Vote d'un Français de l'étranger</Fiche>
+<Fiche ID="F1604">Vote par procuration</Fiche>
+</SousDossier>
+<SousDossier ID="N47-3">
+<Titre>Élections et référendums</Titre>
+<Fiche ID="F1944">Européennes</Fiche>
+<Fiche ID="F1940">Présidentielle</Fiche>
+<Fiche ID="F1943">Législatives</Fiche>
+<Fiche ID="F1958">Départementales - Régionales</Fiche>
+<Fiche ID="F1952">Municipales</Fiche>
+<Fiche ID="F1964">Référendum</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Voter par internet est possible uniquement si vous êtes installé à l'étranger et pour participer : </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Liste type="puce">
+<Item>
+<Paragraphe>soit aux élections législatives,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit à l'élection des conseillers consulaires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En dehors de cette situation, pour participer au scrutin, vous devez vous rendre à votre bureau de vote.</Paragraphe>
+<Paragraphe>Si toutefois, vous êtes absent le jour du scrutin, vous pouvez <LienInterne LienPublication="F1604" type="Fiche d'information" audience="Particuliers">donner une procuration</LienInterne> à un électeur de votre commune afin qu'il vote à votre place.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F16904" audience="Particuliers">
+<Titre>Vote d'un Français de l'étranger</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024372042&amp;cidTexte=LEGITEXT000006070239" ID="R330">
+<Titre>Code électoral : articles R176-3 à R176-3-10</Titre>
+<Complement>Élections législatives - Vote électronique</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024372228&amp;cidTexte=LEGITEXT000006070239" ID="R1050">
+<Titre>Code électoral : articles R176-4 à R176-4-7</Titre>
+<Complement>Élections législatives - Vote par correspondance</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006056678" ID="R899">
+<Titre>Arrêté du 20 juillet 2007 relatif aux opérations électorales à l'étranger</Titre>
+</Reference>
+<QuestionReponse ID="F1939" audience="Particuliers">Quelles sont les dates des prochaines élections ?</QuestionReponse>
+
+</Publication>

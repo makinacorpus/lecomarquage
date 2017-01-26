@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N19978" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Congés dans la fonction publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Congés dans la fonction publique : Congés annuels, autorisations d'absence et jours fériés, Congés liés à l'arrivée d'un enfant, Autres congés</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-10-30</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N19978</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Agent de la fonction publique</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19978" type="Dossier">Congés dans la fonction publique</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19964">Temps de travail et congés</SousThemePere>
+<SousDossier ID="N19978-1">
+<Titre>Congés annuels, autorisations d'absence et jours fériés</Titre><Fiche ID="F488">Congés annuels</Fiche>
+<Fiche ID="F1599">Congé bonifié</Fiche>
+<Fiche ID="F489">Autorisations spéciales d'absence</Fiche>
+<Fiche ID="F24496">Jours fériés</Fiche>
+</SousDossier>
+<SousDossier ID="N19978-2">
+<Titre>Congés liés à l'arrivée d'un enfant</Titre><Fiche ID="F537">Congé d'adoption</Fiche>
+<Fiche ID="F519">Congé maternité</Fiche>
+<Fiche ID="F13765">Congé de 3 jours pour naissance ou adoption</Fiche>
+<Fiche ID="F583">Congé de paternité et d'accueil de l'enfant</Fiche>
+<Fiche ID="F517">Congé parental</Fiche>
+</SousDossier>
+<SousDossier ID="N19978-3">
+<Titre>Autres congés</Titre><Fiche ID="F565">Congé de présence parentale</Fiche>
+<Fiche ID="F17949">Congé de solidarité familiale</Fiche>
+</SousDossier><ServiceEnLigne ID="R33685" URL="" type="Modèle de document">
+<Titre>Demande de congé de solidarité familiale dans la fonction publique</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F31433" audience="Particuliers">Que deviennent les congés annuels d'un agent public qui change d'employeur ?</QuestionReponse>
+<QuestionReponse ID="F2481" audience="Particuliers">Une enseignante peut-elle décaler son congé maternité tombant pendant les vacances scolaires ?</QuestionReponse>
+<QuestionReponse ID="F32923" audience="Particuliers">Un agent public peut-il travailler pendant ses congés ?</QuestionReponse>
+<QuestionReponse ID="F32944" audience="Particuliers">Comment donner des jours de repos à un agent public parent d'un enfant malade ?</QuestionReponse>
+</Publication>

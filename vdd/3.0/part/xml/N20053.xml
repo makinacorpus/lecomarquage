@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N20053" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Fichiers, libertés, protection de la vie privée</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Fichiers, libertés, protection de la vie privée</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-26</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N20053</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19810</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N20053" type="Dossier">Fichiers, libertés, protection de la vie privée</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere>
+<Fiche ID="F32041">Contrôle de sécurité (affaires et véhicule), fouille corporelle et palpation</Fiche>
+<Fiche ID="F32103">Droit à l'image et protection de la vie privée</Fiche>
+<Fiche ID="F2515">Écoutes téléphoniques</Fiche>
+<Fiche ID="F2024">Fichiers et informations personnelles</Fiche>
+<Fiche ID="F33356">État d'urgence</Fiche>
+<Fiche ID="F2517">Vidéosurveillance</Fiche>
+<Fiche ID="F32522">Vigipirate</Fiche><VoirAussi important="non">
+<Dossier ID="N85" audience="Particuliers">
+<Titre>Fichiers bancaires</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R33424" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12411.do" numerocerfa="12411*01" type="Formulaire">
+<Titre>Demande d'effacement d'un signalement au fichier national automatisé des empreintes génétiques (fnaeg)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R33408" URL="http://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51022%2301&amp;cerfaFormulaire=12411*01" numerocerfa="51022#01">Notice de la demande d'effacement d'un signalement au fichier national automatisé des empreintes génétiques (fnaeg)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33423" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12412.do" numerocerfa="12412*01" type="Formulaire">
+<Titre>Demande d'effacement d'un signalement au fichier national automatisé des empreintes génétiques adressée au juge des libertés et de la détention (JLD)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R33407" URL="http://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51023%2301&amp;cerfaFormulaire=12412*01" numerocerfa="51023#01">Notice de la demande d'effacement d'un signalement au fichier national automatisé des empreintes génétiques adressée au juge des libertés et de la détention (JLD)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33422" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12413.do" numerocerfa="12413*01" type="Formulaire">
+<Titre>Demande d'effacement d'un signalement - Fichier national automatisé des empreintes génétiques - Président de la chambre de l'instruction</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R33406" URL="http://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51024%2301&amp;cerfaFormulaire=12413*01" numerocerfa="51024#01">Notice - Demande d'effacement d'un signalement - Fichier des empreintes génétiques - Président de la chambre de l'instruction</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33421" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12414.do" numerocerfa="12414*01" type="Formulaire">
+<Titre>Demande d'effacement de données - Fichier national automatisé des empreintes génétiques - Parents de personnes disparues</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R33405" URL="http://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51025%2301&amp;cerfaFormulaire=12414*01" numerocerfa="51025#01">Notice de la demande d'effacement des données enregistrées au fichier national automatisé des empreintes génétiques relatives aux parents de personnes disparues</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R33479" URL="https://www.educnum.fr/fr/10-conseils-pour-rester-net-sur-le-web" audience="Particuliers">
+<Titre>Dix conseils pour rester net sur le web</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41774" URL="http://www.educnum.fr" audience="Particuliers">
+<Titre>Espace jeunes du site de la Cnil</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32727" audience="Particuliers">Comment demander l'effacement d'une inscription dans les fichiers de police ?</QuestionReponse>
+</Publication>

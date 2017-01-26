@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18165" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Pajemploi en ligne</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille, Travail</dc:subject>
+<dc:description>Pajemploi en ligne - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-12</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18165</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N137">Garde d'enfants en bas âge</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18165" type="Téléservice">Pajemploi en ligne</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe> Pour s'informer sur les formalités administratives pour les parents employeurs qui font garder leur(s) enfant(s) par une assistante maternelle agréée ou une garde d'enfants à domicile.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.pajemploi.urssaf.fr/pajewebinfo/cms/sites/pajewebinfo/accueil.html">
+<Source>Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</LienWeb>
+<FicheLiee ID="F142" audience="Particuliers" type="Fiche d'information">
+<Titre>Aide à domicile (services à la personne) : rémunération du salarié</Titre>
+<Dossier ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1692" audience="Particuliers" type="Fiche d'information">
+<Titre>Aide à domicile (services à la personne) - Embauche d'un salarié</Titre>
+<Dossier ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16841" audience="Particuliers" type="Fiche d'information">
+<Titre>Contrat de travail et formalités d'embauche de l'assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33164" audience="Particuliers" type="Fiche d'information">
+<Titre>Démission d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2107" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Particulier employeur : comment rémunérer son salarié avec un Cesu préfinancé ?</Titre>
+<Dossier ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F12812" audience="Particuliers" type="Fiche d'information">
+<Titre>Particulier employeur : rémunération d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<FicheLiee ID="F838" audience="Particuliers" type="Fiche d'information">
+<Titre>Particulier employeur : temps de travail d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<FicheLiee ID="F13607" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelle est la différence entre Cesu déclaratif et Cesu préfinancé ?</Titre>
+<Dossier ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F13244" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelles sont les activités de service à la personne et comment y recourir ?</Titre>
+<Dossier ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16842" audience="Particuliers" type="Fiche d'information">
+<Titre>Rupture du contrat de travail d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<Dossier ID="N137">
+<Titre>Garde d'enfants en bas âge</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

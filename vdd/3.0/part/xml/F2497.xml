@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2497" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment faire appliquer la décision du juge administratif ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Les délais et voies de recours pour obtenir l'exécution d'une décision du juge administratif varient suivant ce qui est en jeu.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2497</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449408&amp;idSectionTA=LEGISCTA000006136466&amp;cidTexte=LEGITEXT000006070933, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136504&amp;cidTexte=LEGITEXT000006070933, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136505&amp;cidTexte=LEGITEXT000006070933</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N560</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N560">Agir en justice contre l'administration</Niveau>
+<Niveau ID="F2497" type="Fiche Question-réponse">Comment faire appliquer la décision du juge administratif ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20114">Relations avec l'administration</SousThemePere><DossierPere ID="N560">
+<Titre>Agir en justice contre l'administration</Titre><SousDossier ID="N560-1">
+<Titre>Déroulement d'une affaire</Titre>
+<Fiche ID="F2478">Conditions de saisine</Fiche>
+<Fiche ID="F2640">Détermination de la juridiction compétente</Fiche>
+<Fiche ID="F2026">Dépôt de la requête</Fiche>
+<Fiche ID="F2479">Déroulement du procès</Fiche>
+</SousDossier>
+<SousDossier ID="N560-2">
+<Titre>Procédures d'urgence et autres référés</Titre>
+<Fiche ID="F2551">Référé liberté</Fiche>
+<Fiche ID="F2549">Référé suspension</Fiche>
+<Fiche ID="F2553">Référé conservatoire</Fiche>
+<Fiche ID="F2554">Référé constat</Fiche>
+<Fiche ID="F2555">Référé expertise</Fiche>
+<Fiche ID="F2556">Référé provision</Fiche>
+</SousDossier>
+<SousDossier ID="N560-3">
+<Titre>Voies de recours</Titre>
+<Fiche ID="F2494">Appel devant la cour administrative d'appel</Fiche>
+<Fiche ID="F2495">Appel devant le Conseil d'État</Fiche>
+<Fiche ID="F2496">Recours en cassation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Les délais et voies de recours pour obtenir l'exécution d'une décision du juge administratif varient suivant ce qui est en jeu.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si l'administration doit une somme d'argent</Paragraphe>
+</Titre><Paragraphe>L'administration, condamnée à vous payer une somme d'argent par le juge administratif, doit s'exécuter dans un délai de 2 mois.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>S'il s'agit de  l'État</MiseEnEvidence>  </Paragraphe>
+<Paragraphe>Si l’État ne s'est pas exécuté dans les 2 mois à partir de la notification du jugement, vous pouvez présenter la notification au comptable public de votre département. Il doit procéder au paiement.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>S'il s'agit d'une collectivité territoriale ou un établissement public</MiseEnEvidence> </Paragraphe>
+<Paragraphe>Si le délai de 2 mois n'est  pas respecté, le préfet ou l'autorité de tutelle doit procéder au mandatement d'office de la somme due.</Paragraphe>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R1192" type="Local personnalisable">
+<Titre>Préfecture de Paris</Titre>
+<PivotLocal>paris_prefecture</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/ile-de-france/paris/prefecture-75115-01"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si l'administration doit agir</Paragraphe>
+</Titre><Paragraphe>Vous ne pouvez pas faire votre demande d'aide à l'exécution avant la fin des 3 mois à partir de la notification du jugement.</Paragraphe>
+<Paragraphe>Si le tribunal a fixé un délai à l'administration pour qu'elle exécute la décision,  vous ne pouvez présenter votre demande qu'à l'expiration de ce délai.</Paragraphe>
+<Paragraphe>Si la décision contient une mesure d'urgence, les 3 mois ne s'appliquent pas. L'exécution peut être demandée immédiatement.</Paragraphe>
+<Paragraphe>Pour faire exécuter la mesure, vous pouvez vous adressez au juge qui a prononcé le jugement (ou au juge d'appel si l'administration a fait un recours).</Paragraphe><OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R10556" type="Local personnalisé sur SP">
+<Titre>Cour administrative d'appel</Titre>
+<PivotLocal>caa</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-cours-administratives-dappel-21777.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez obtenir la mise en place d'astreintes, c'est-à-dire de pénalités financières dissuasives, dues à proportion du retard pris dans l'exécution de la décision.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>vous n'avez pas besoin d'un avocat pour faire votre demande.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449408&amp;idSectionTA=LEGISCTA000006136466&amp;cidTexte=LEGITEXT000006070933" ID="R949">
+<Titre>Code de justice administrative : articles L911-1 à L911-10</Titre>
+<Complement>Exécution d'une décision rendue par une juridiction administrative</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136504&amp;cidTexte=LEGITEXT000006070933" ID="R10330">
+<Titre>Code de justice administrative : articles R921-1 à R921-8</Titre>
+<Complement>Dispositions applicables aux tribunaux administratifs et cours administratives d'appel</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136505&amp;cidTexte=LEGITEXT000006070933" ID="R10502">
+<Titre>Code de justice administrative : articles R931-1 à R931-9</Titre>
+<Complement>Dispositions applicables au Conseil d'État</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R18831" URL="http://www.conseil-etat.fr/Conseil-d-Etat/Demarches-Procedures/L-execution-des-decisions-du-juge-administratif" audience="Particuliers">
+<Titre>Exécution des décisions du juge administratif</Titre>
+<Source ID="R30728">Conseil d'État</Source>
+</PourEnSavoirPlus>
+</Publication>

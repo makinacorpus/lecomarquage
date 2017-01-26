@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1507" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelle est la valeur juridique du baptême civil ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Le baptême civil (ou baptême républicain ou parrainage républicain) est un acte laïc permettant de désigner un parrain et/ou marraine à son enfant.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1507</dc:identifier>
+<dc:source>http://questions.assemblee-nationale.fr/q14/14-36090QE.htm</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N135</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N135">Autorité parentale</Niveau>
+<Niveau ID="F1507" type="Fiche Question-réponse">Quelle est la valeur juridique du baptême civil ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N135">
+<Titre>Autorité parentale</Titre>
+<Fiche ID="F3132">Exercice</Fiche>
+<Fiche ID="F3134">Délégation</Fiche>
+<Fiche ID="F2139">Tutelle d'un mineur</Fiche>
+<Fiche ID="F3135">Retrait</Fiche>
+<Fiche ID="F1194">Émancipation d'un mineur</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le baptême civil n'est prévu par aucun texte. Il n'a pas de valeur légale et ne lie pas les parrains et/ou marraines par un lien contractuel. L'engagement qu'ils prennent  de suppléer les parents, en cas de défaillance ou de disparition, est symbolique. Il s'agit toutefois d'un engagement moral important vis-à-vis du filleul.</Paragraphe>
+<Paragraphe>Le baptême civil se pratique à la mairie. Toutefois, comme il n'a pas de valeur légale, les mairies ne sont  pas obligées de  le célébrer et il n'y a pas de cérémonial préétabli.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+<Paragraphe>Le baptême civil n'étant pas un acte d'état civil, il n'est pas inscrit sur les registres de l'état civil.</Paragraphe>
+<Paragraphe>Les certificats ou documents que délivre le maire pour l'occasion, ainsi que la tenue d'un registre officieux, ne présentent aucune valeur juridique.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les parents peuvent aussi désigner un parrain et/ou marraine <LienInterne LienPublication="F130" type="Fiche Question-réponse" audience="Particuliers">tuteurs par testament ou par déclaration devant notaire</LienInterne>.</Paragraphe>
+</ASavoir>
+</Texte><Reference type="Texte de référence" URL="http://questions.assemblee-nationale.fr/q14/14-36090QE.htm" ID="R44792">
+<Titre>Réponse ministérielle du 20 mai 2014 relative au baptême civil</Titre>
+</Reference>
+<QuestionReponse ID="F130" audience="Particuliers">Peut-on désigner une personne pour s'occuper de son enfant après son décès ?</QuestionReponse>
+
+
+</Publication>

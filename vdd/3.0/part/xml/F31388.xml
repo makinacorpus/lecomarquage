@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31388" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Interdiction bancaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>L'interdiction bancaire sanctionne les chèques sans provision, par retrait du droit d'émettre des chèques pendant 5 ans, sauf régularisation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-04</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31388</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020866615&amp;cidTexte=LEGITEXT000006072026, http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006645465&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006417271&amp;idSectionTA=LEGISCTA000006181731&amp;cidTexte=LEGITEXT000006070719</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F31388" type="Fiche d'information">Interdiction bancaire</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Chèques</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>L'interdiction bancaire sanctionne, pour l'essentiel, l'émission de chèques sans provision. Ses conséquences sont limitées : elle ne vise que l'interdiction d'émettre des chèques. Elle  dure 5 ans maximum et prend fin,  sauf décision de justice contraire, dès lors que vous vous acquittez de vos dettes envers les bénéficiaires des chèques sans provision.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Qui peut être concerné ?</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Émetteur d'un chèque sans provision</Paragraphe>
+</Titre><Paragraphe>Vous êtes interdit bancaire si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous avez émis un chèque sans provision, c'est-à-dire sans suffisamment d'argent sur votre compte</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et que vous n'avez  pas voulu <LienInterne LienPublication="F1930" type="Fiche Question-réponse" audience="Particuliers">procéder à sa régularisation</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Personne solidaire d'un émetteur de chèque sans provision</Paragraphe>
+</Titre><Paragraphe>Vous êtes également interdit bancaire si vous êtes cotitulaire d'un <LienInterne LienPublication="F10412" type="Fiche d'information" audience="Particuliers">compte joint</LienInterne> ou d'un <LienInterne LienPublication="F2812" type="Fiche d'information" audience="Particuliers">compte indivis</LienInterne>  :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur lequel un autre cotitulaire a émis un chèque sans provision non régularisé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et pour lequel n'a pas été désigné au préalable un <LienInterne LienPublication="R20791" type="Modèle de document" audience="Particuliers">responsable unique en cas de chèque sans provision</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Interdit bancaire par décision de justice</Paragraphe>
+</Titre><Paragraphe>Si vous êtes impliqué dans un procès où la probité et le respect des engagements financiers occupent une place majeure, vous pouvez être condamné à la peine complémentaire d'interdiction bancaire.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Prononcé de l'interdiction bancaire</Paragraphe>
+</Titre><Paragraphe>L'interdiction bancaire est décidée</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par la banque qui gère le compte sur lequel n'ont pu être débités un ou plusieurs chèques sans provision, malgré une ou plusieurs tentatives de régularisation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou par le juge.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'interdiction concerne tous vos comptes personnels détenus dans toutes les banques.</Paragraphe>
+<Paragraphe>Elle est enregistrée pendant 5 ans au <LienInterne LienPublication="F2411" type="Fiche d'information" audience="Particuliers">fichier central des chèques</LienInterne> (FCC), dont les données sont accessibles à l'ensemble des établissements bancaires.</Paragraphe>
+<Paragraphe>Quand elle est à l'origine de la décision, la banque vous en informe par courrier.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>vos numéros des comptes sont enregistrés au<LienInterne LienPublication="F21131" type="Fiche d'information" audience="Particuliers"> fichier national des chèques irréguliers</LienInterne> (FNCI).</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Restitution des chéquiers</Paragraphe>
+</Titre><Paragraphe>Vous devez rendre toutes les <LienInterne LienPublication="F2403" type="Fiche d'information" audience="Particuliers">formules de chèques barrés en votre possession</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions pénales</Paragraphe>
+</Titre><Paragraphe>Vous perdez immédiatement le droit d'émettre des chèques.</Paragraphe>
+<Paragraphe>Si vous ignorez cette contrainte, vous encourez des sanctions pénales :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une peine de prison (jusqu'à 5 ans),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une peine d'amende (jusqu'à <Valeur>375 000 €</Valeur> ).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Incidences sur les autres services bancaires</Paragraphe>
+</Titre><Paragraphe>Être interdit bancaire ne signifie pas que vous êtes interdit de compte bancaire, le
+        droit au compte
+        et l'accès aux services bancaires de base restant, en droit, intacts.</Paragraphe>
+<Paragraphe>Toutefois, la banque qui tient votre compte peut, de façon négociée ou  autoritaire :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>modifier de façon unilatérale la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne> dans un sens plus restrictif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou clore le compte.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans ce dernier cas, vous devez ouvrir, si nécessaire, un compte dans une autre banque :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit celle de votre choix,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit celle indiquée par la Banque de France, suite à l'application de la procédure du droit au compte après avoir subi un <LienInterne LienPublication="F2417" type="Fiche d'information" audience="Particuliers">refus d'ouverture de compte</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Au final, même si vous êtes interdit bancaire, vous devez pouvoir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>disposer d'une <LienInterne LienPublication="F2420" type="Fiche d'information" audience="Particuliers">carte bancaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>effectuer des <LienInterne LienPublication="F2384" type="Fiche d'information" audience="Particuliers">virements et prélèvements</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>réaliser des dépôts et des <LienInterne LienPublication="F2421" type="Fiche d'information" audience="Particuliers">retraits d'espèces</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>payer avec des chèques de banque.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Levée de l'interdiction bancaire</Paragraphe>
+</Titre><Paragraphe>Sauf décision de justice s'y opposant, l'interdiction bancaire cesse avant la fin de la période des 5 ans maximum dès lors que les 2 conditions suivantes sont réunies :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>il ne reste aucun chèque sans provision non régularisé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>chaque établissement bancaire concerné par un chèque sans provision a pu constater sur justificatifs la régularisation et en a informé la Banque de France.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La Banque de France  procède alors à la levée des inscriptions au FCC et au FNCI.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vous ne devez pas oublier d'<LienInterne LienPublication="R33867" type="Modèle de document" audience="Particuliers">avertir par écrit  l'agence bancaire concernée de toute régularisation</LienInterne>.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contestation de l'interdiction</Paragraphe>
+</Titre><Paragraphe>Une banque peut vous indiquer que vous faîtes   l'objet d'un fichage au FCC, alors qu'il n'y a pas ou plus de raisons pour qu'il en soit ainsi. Dans pareil cas, vous devez demander des rectifications auprès  de la banque, puis, si le problème persiste, auprès d'autres personnes.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Rectification par l'agence bancaire</Paragraphe>
+</Titre><Paragraphe>Pour contestez votre inscription comme interdit bancaire vous devez d'abord demander à votre agence bancaire, au guichet ou par écrit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de rectifier ses bases de données internes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de demander au FCC de faire de même, si nécessaire.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Demande auprès du médiateur bancaire et du FCC</Paragraphe>
+</Titre><Paragraphe>Si après 2 <LienIntra LienID="R17509" type="Définition de glossaire">jours ouvrés</LienIntra>, l'erreur n'est pas corrigée, vous pouvez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>faire appel au au <LienInterne LienPublication="F20523" type="Fiche Question-réponse" audience="Particuliers">médiateur bancaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et vous adresser directement au <LienInterne LienPublication="F2411" type="Fiche d'information" audience="Particuliers">FCC</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de plainte</Paragraphe>
+</Titre><Paragraphe>Après  2 mois d'attente infructueuse, si vous contestez votre inscription comme interdit bancaire, vous pouvez porter plainte pour faire valoir votre <LienInterne LienPublication="F2024" type="Fiche d'information" audience="Particuliers">droit de rectification</LienInterne> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>auprès de la commission nationale informatique et libertés (Cnil)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou auprès du Procureur de la République.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R16071" type="Centre de contact">
+<Titre>Votre banque</Titre>
+<Complement>Pour effectuer les démarches</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020866615&amp;cidTexte=LEGITEXT000006072026" ID="R18294">
+<Titre>Code monétaire et financier : articles L312-1</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006645465&amp;cidTexte=LEGITEXT000006072026" ID="R18293">
+<Titre>Code monétaire et financier : articles L131-69 à L131-87</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006417271&amp;idSectionTA=LEGISCTA000006181731&amp;cidTexte=LEGITEXT000006070719" ID="R18992">
+<Titre>Code pénal : articles 131-19 à 131-36</Titre>
+</Reference>
+<ServiceEnLigne ID="R33867" URL="http://www.lesclesdelabanque.com/Web/Cdb/Particuliers/Content.nsf/DocumentsByIDWeb/6Y8G2U/$File/lettre-cheque-regularise-demande-levee-interdiction.docx" format="application/vnd.openxmlformats-officedocument.wordprocessingml.document" poids="53.4 KB" type="Modèle de document">
+<Titre>Demander la levée d'interdiction bancaire auprès de son agence bancaire</Titre>
+<Source ID="R30639">Fédération bancaire française</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20791" URL="" type="Modèle de document">
+<Titre>Désigner un responsable unique en cas de chèque sans provision sur compte joint ou indivis</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<Definition ID="R17509">
+<Titre>Jour ouvré</Titre>
+<Texte>
+				<Paragraphe>Jour effectivement travaillé dans une entreprise ou une administration.
+		Le plus souvent, on compte 5 jours ouvrés par semaine (par exemple, du lundi au vendredi ou du mardi au samedi).</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1930" audience="Particuliers">Comment régulariser un chèque sans provision ?</QuestionReponse>
+<QuestionReponse ID="F20523" audience="Particuliers">Médiateur bancaire : comment y recourir ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3083" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles démarches doit-on faire lorsqu'on obtient la nationalité française ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Lorsque vous avez le document qui vous accorde la nationalité française, vous pouvez faire certaines démarches : demande d'une carte d'identité et d'un passeport, inscription sur les listes électorales...</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-13</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3083</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N111</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N111">Acquisition de la nationalité française</Niveau>
+<Niveau ID="F3083" type="Fiche Question-réponse">Quelles démarches doit-on faire lorsqu'on obtient la nationalité française ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N111">
+<Titre>Acquisition de la nationalité française</Titre><SousDossier ID="N111-1">
+<Titre>Nationalité française par déclaration</Titre>
+<Fiche ID="F2726">Par mariage</Fiche>
+<Fiche ID="F33430">Par un ascendant de Français</Fiche>
+<Fiche ID="F33800">Par un frère ou une sœur de Français</Fiche>
+</SousDossier>
+<SousDossier ID="N111-2">
+<Titre>Nationalité française par naturalisation</Titre>
+<Fiche ID="F2213">Conditions</Fiche>
+<Fiche ID="F15832">Demande et réponse de l'administration</Fiche>
+</SousDossier>
+<SousDossier ID="N111-3">
+<Titre>Nationalité française d'un enfant</Titre>
+<Fiche ID="F295">Enfant né en France de parents étrangers</Fiche>
+<Fiche ID="F3070">Enfant adopté</Fiche>
+<Fiche ID="F31919">Enfant recueilli</Fiche>
+</SousDossier>
+<SousDossier ID="N111-4">
+<Titre>Réintégration dans la nationalité française</Titre>
+<Fiche ID="F3071">Par déclaration</Fiche>
+<Fiche ID="F2214">Par décret</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Lorsque vous avez le document qui vous accorde la nationalité française, vous pouvez faire certaines démarches : demande d'une carte d'identité et d'un passeport, inscription sur les listes électorales...</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Demande d'un acte de naissance</Paragraphe>
+</Titre><Paragraphe>Selon les cas, vous devez faire la <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">demande d'acte de naissance</LienInterne> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>au <LienInterne LienPublication="R1405" type="Téléservice" audience="Particuliers">service central d'état civil du ministère des affaires étrangères</LienInterne> si vous êtes né à l'étranger,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou à la mairie de votre  lieu de naissance si vous êtes né en France.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Carte d'identité et passeport</Paragraphe>
+</Titre><Paragraphe>Lorsque vous devenez Français, vous pouvez demander :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F1341" type="Fiche d'information" audience="Particuliers">carte nationale d'identité</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et <LienInterne LienPublication="F14929" type="Fiche d'information" audience="Particuliers">un passeport</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recensement militaire (ou recensement citoyen)</Paragraphe>
+</Titre><Paragraphe>Si vous êtes devenu Français entre 16 et 25 ans, vous devez vous faire <LienInterne LienPublication="F870" type="Fiche d'information" audience="Particuliers">recenser</LienInterne> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans le mois qui suit l'acquisition de la nationalité française (ou la date à laquelle cette acquisition vous a été notifiée),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou dès que la décision de justice vous ayant reconnu la nationalité française a <LienIntra LienID="R15859" type="Définition de glossaire">force de chose jugée</LienIntra>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si vous avez 26 ans ou plus, vous n'avez pas à le faire.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Carte d'électeur</Paragraphe>
+</Titre><Paragraphe>Vous pouvez vous faire <LienInterne LienPublication="F1367" type="Fiche d'information" audience="Particuliers">inscrire sur les listes électorales</LienInterne>, même en dehors des périodes de révision.</Paragraphe>
+<Paragraphe>Vous pourrez alors voter dans l'année à condition d'avoir déposé votre demande au moins 10 jours avant le scrutin.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><ServiceEnLigne ID="R1405" URL="https://pastel.diplomatie.gouv.fr/Dali/index2.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<Definition ID="R15859">
+<Titre>Jugement passé en force de chose jugée</Titre>
+<Texte>
+				<Paragraphe>Jugement qui n'est pas susceptible de recours, soit parce que les recours ont été épuisés, soit que les délais sont expirés</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

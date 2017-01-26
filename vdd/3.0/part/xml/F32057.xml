@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32057" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles aides peut toucher une personne âgée en situation de précarité ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>À partir d'un certain âge, certaines aides peuvent vous être attribuées si vous avez de faibles ressources.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32057</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N392</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="F32057" type="Fiche Question-réponse">Quelles aides peut toucher une personne âgée en situation de précarité ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Fiche ID="F10009">Allocation personnalisée d'autonomie (Apa)</Fiche>
+<Fiche ID="F16871">Allocation de solidarité aux personnes âgées (Aspa)</Fiche>
+<Fiche ID="F16940">Allocation supplémentaire d'invalidité (Asi)</Fiche>
+<Fiche ID="F2572">Allocation simple</Fiche>
+<Fiche ID="F245">Aide-ménagère à domicile</Fiche>
+<Fiche ID="F248">Prise en charge des repas</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>À partir d'un certain âge, certaines aides peuvent vous être attribuées si vous avez de faibles ressources. Elles permettent de vous assurer un revenu minimum, de couvrir vos dépenses de logement ou d'assurer votre autonomie.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Aides pouvant être touchées par une personne âgée en situation de précarité</Titre>
+<Colonne largeur="20" type="header"/>
+<Colonne largeur="24" type="normal"/>
+<Colonne largeur="16" type="normal"/>
+<Colonne largeur="19" type="normal"/>
+<Colonne largeur="16" type="normal"/>
+<Rangée type="header">
+<Cellule/>
+<Cellule>
+<Paragraphe>Qui est concerné ? </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Âge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pour en savoir plus</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation de solidarité aux personnes âgées (Aspa)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne âgée aux faibles ressources</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>801 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir de 65 ans (sauf exceptions)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F16871" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'Aspa</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation supplémentaire d'invalidité (Asi)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Titulaire d'une pension de retraite ou d'invalidité ne pouvant bénéficier de l'Aspa</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>404,17 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusque 62 ans (selon les cas)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F16871" type="Fiche d'information" audience="Particuliers"/>
+<LienInterne LienPublication="F16940" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'Asi</LienInterne> </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation de solidarité spécifique (ASS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Demandeur d'emploi </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>488,10 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusque l'âge pour bénéficier d'une retraite à taux plein</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F12484" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'ASS</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Revenu de solidarité active (RSA)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne avec de faibles ressources</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>535,17 €</Valeur> par mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir de 25 ans (sauf exceptions)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F19778" type="Fiche d'information" audience="Particuliers">Conditions d'attribution du RSA</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aide personnalisée au logement (APL)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne avec de faibles ressources vivant à domicile ou en Ephad</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de la Caf ou de la MSA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sans conditions d'âge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F12006" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'APL</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation de logement sociale (ALS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne avec de faibles ressources vivant à domicile ou en Ephad</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de la Caf ou de la MSA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sans conditions d'âge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1280" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'ALS</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aide sociale à l'hébergement (ASH)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne vivant en Ephad et dont les revenus sont inférieurs aux frais d'hébergement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>L'ASH paie la partie des frais d'hébergement non couverte par les revenus de la personne âgée</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir de 65 ans (ou 60 ans si reconnue inapte au travail)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2444" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'ASH</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation simple</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne âgée ne percevant pas de pension de retraite et à qui l'Aspa a été refusée</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie (CCAS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir de 65 ans (ou 60 ans si reconnue inapte au travail)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2572" type="Fiche d'information" audience="Particuliers">Allocation simple</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aide ménagère à domicile </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne avec de faibles ressources, vivant dans son propre logement mais ne pouvant assumer seule les tâches ménagères (ménage, lessive, toilette, préparation des repas, etc.)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie ou des services du département</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir de 65 ans (ou 60 ans si reconnue inapte au travail)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F245" type="Fiche d'information" audience="Particuliers">Aide  à domicile</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Portage de repas chauds et prêts à consommer à  domicile</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne ne pouvant sortir de chez elle du fait de son état de santé</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F248" type="Fiche d'information" audience="Particuliers">Portage des repas</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Foyer restaurants (repas à prix modérés pris en structure collective) </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne âgée avec de faibles ressources</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès des services du département</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès des services du département</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F248" type="Fiche d'information" audience="Particuliers">Foyers restaurants</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aide pour financer des travaux dans son logement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne âgée ayant besoin de réaliser des travaux pour favoriser l'accessibilité de son domicile ou  prévenir les accidents domestiques </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie, des services du département ou de sa caisse de retraite</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie, des services du département ou de sa caisse de retraite</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1613" type="Fiche d'information" audience="Particuliers">Caisse de retraite : travaux d'amélioration du logement</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aides pour se déplacer (transport à la demande, assistance pour les courses ou les démarches, etc.)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personne âgée</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie, des services du département ou de sa caisse de retraite</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Se renseigner auprès de sa mairie, des services du département ou de sa caisse de retraite</Paragraphe>
+</Cellule>
+<Cellule/>
+</Rangée>
+</Tableau>
+
+</Texte><OuSAdresser ID="R40963" type="Local">
+<Titre>Point d'information local dédié aux personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour s'informer sur le portage des repas (sauf à Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<Complement>Pour s'informer sur les foyers restaurant (sauf à Paris)</Complement>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<Complement>Pour s'informer sur le portage des repas et les foyers restaurants (uniquement à Paris)</Complement>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R45933" URL="http://www.pour-les-personnes-agees.gouv.fr/les-aides-des-caisses-de-retraite/facile-a-lire" audience="Particuliers">
+<Titre>Les aides des caisses de retraite (version "facile à lire et à comprendre")</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41351" URL="http://www.pour-les-personnes-agees.gouv.fr" audience="Particuliers">
+<Titre>Portail d'information et d'orientation des personnes âgées et leurs proches</Titre>
+<Complement>Personnes âgées en perte d'autonomie</Complement>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41394" URL="http://www.pourbienvieillir.fr/" audience="Particuliers">
+<Titre>Site pourbienvieillir.fr</Titre>
+<Complement>Personnes âgées</Complement>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R43618" URL="http://www.pour-les-personnes-agees.gouv.fr/beneficier-daides" audience="Particuliers">
+<Titre>Aides pour les personnes âgées</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2544" audience="Particuliers">Peut-on encore bénéficier du minimum vieillesse ?</QuestionReponse>
+<QuestionReponse ID="F11678" audience="Particuliers">Peut-on cumuler l'Apa avec d'autres revenus ?</QuestionReponse>
+<CommentFaireSi ID="F17904">Je prépare ma retraite</CommentFaireSi>
+</Publication>

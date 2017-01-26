@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F383" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment indiquer aux Impôts un changement d'adresse ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Si vous avez déménagé en 2015 ou 2016, vous devez en informer les services fiscaux et l'indiquer sur votre déclaration de revenus.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F383</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N247</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="F383" type="Fiche Question-réponse">Comment indiquer aux Impôts un changement d'adresse ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N247">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre><SousDossier ID="N247-1">
+<Titre>Déclaration de revenus : mode d'emploi</Titre>
+<Fiche ID="F369">Première déclaration</Fiche>
+<Fiche ID="F358">Déclaration annuelle</Fiche>
+<Fiche ID="F388">Changement de situation</Fiche>
+</SousDossier>
+<SousDossier ID="N247-2">
+<Titre>Quotient familial selon les personnes à charge</Titre>
+<Fiche ID="F2633">Enfants mineurs</Fiche>
+<Fiche ID="F3085">Enfants majeurs</Fiche>
+<Fiche ID="F2661">Enfants handicapés</Fiche>
+<Fiche ID="F387">Personnes invalides</Fiche>
+</SousDossier>
+<SousDossier ID="N247-3">
+<Titre>Quotient familial selon la situation personnelle</Titre>
+<Fiche ID="F2705">Couple marié ou pacsé</Fiche>
+<Fiche ID="F2702">Personne seule ou en union libre</Fiche>
+</SousDossier>
+<SousDossier ID="N247-4">
+<Titre>Salaires et éléments du salaire</Titre>
+<Fiche ID="F1225">Revenus d'activité salariée</Fiche>
+<Fiche ID="F1226">Avantages en nature</Fiche>
+<Fiche ID="F1989">Frais professionnels : déduction forfaitaire ou frais réels</Fiche>
+<Fiche ID="F408">Indemnités de fin de contrat</Fiche>
+<Fiche ID="F1228">Sommes perçues par les jeunes</Fiche>
+</SousDossier>
+<SousDossier ID="N247-5">
+<Titre>Pensions, retraites et rentes imposables</Titre>
+<Fiche ID="F415">Pensions de retraite</Fiche>
+<Fiche ID="F3169">Pensions d'invalidité</Fiche>
+<Fiche ID="F3170">Pensions alimentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N247-6">
+<Titre>Revenus fonciers et mobiliers</Titre>
+<Fiche ID="F2613">Revenus mobiliers</Fiche>
+<Fiche ID="F21618">Plus-values sur valeurs mobilières</Fiche>
+<Fiche ID="F10864">Plus-values immobilières</Fiche>
+<Fiche ID="F1991">Revenus fonciers : logements non meublés</Fiche>
+<Fiche ID="F32744">Revenus locatifs : logements meublés</Fiche>
+</SousDossier>
+</DossierPere>
+<Avertissement ID="R35411" date="2017-01-01">
+<Titre>Impôt sur le revenu : déclaration 2017 des revenus de 2016</Titre>
+<Texte>
+				<Paragraphe>Le contenu de cette page est à jour pour la déclaration des revenus de 2016 à l'exception des formulaires, services en ligne et documents d'information. Ceux-ci seront mis en ligne dès qu'ils seront disponibles.</Paragraphe>
+			</Texte>
+</Avertissement>
+
+<Introduction>
+<Texte><Paragraphe>Si vous avez déménagé en 2015 ou 2016, vous devez en informer les services fiscaux et l'indiquer sur votre déclaration de revenus.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>À tout moment</Paragraphe>
+</Titre><Paragraphe>Vous pouvez  informer les Impôts de votre déménagement à tout moment. </Paragraphe>
+<Paragraphe>Vous pouvez faire la déclaration depuis votre espace Particulier sur le site impots.gouv.fr ou en utilisant  le service de changement d'adresse en ligne </Paragraphe>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Votre espace personnel est un espace sécurisé qui permet de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclarer vos revenus (il n'est plus possible de faire une déclaration des revenus en ligne pour l'impôt sur les revenus de 2015).</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Consulter votre situation fiscale</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Payer vos impôts</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Effectuer vos démarches en ligne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Accéder à une messagerie </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour  accéder à votre espace Particulier pour la 1<Exposant>ère</Exposant> fois, vous devez choisir un mot de passe.</Paragraphe>
+<Paragraphe>Pour en créer un, vous devez saisir : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Votre numéro fiscal (il figure en haut de la 1<Exposant>ère</Exposant> page de votre dernière déclaration de revenus reçue ainsi que sur votre dernier avis d'impôt)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre numéro de déclarant en ligne (il figure en haut de la 1<Exposant>ère</Exposant> page de votre dernière déclaration de revenus)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre revenu fiscal de référence (il figure dans le cadre "Vos références" de votre dernier avis d'impôt sur le revenu).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'écran vous guide pour la création de votre accès par mot de passe. </Paragraphe>
+<Paragraphe>Afin de valider la procédure de création de votre mot de passe, vous recevez immédiatement un courriel contenant un lien que vous devez cliquer. Le lien dans le courriel est actif pendant 24 heures. Passé ce délai, il faut recommencer la création du mot de passe.</Paragraphe>
+<Paragraphe>Seuls votre numéro fiscal et votre mot de passe seront nécessaires pour vous reconnecter à votre espace Particulier.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Texte>
+				<Paragraphe> </Paragraphe>
+			
+<Paragraphe>Permet d'informer plusieurs   organismes publics et privés d'un changement d'adresse postale, d'adresse électronique, de numéro de téléphone fixe et de téléphone portable, notamment : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Carte grise</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de retraites (Agirc et Arrco, Cnav, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisses de sécurité sociale (CPAM, MSA, CAF, etc.), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La Poste, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pôle emploi, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Service des impôts, </Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Lors de votre déclaration de revenus</Paragraphe>
+</Titre><Paragraphe>Vous en informez également les Impôts lorsque vous faites votre déclaration de revenu. Au début de votre télédéclaration, vous êtes invité à déclarer votre changement d'adresse.</Paragraphe><ServiceEnLigne ID="R1280" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Déclaration 2016 en ligne des revenus</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Il n'est plus possible de faire une déclaration des revenus en ligne pour l'impôt sur les revenus de 2015.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre><Paragraphe>Si vous faites votre déclaration de revenus  sur formulaire papier, vous informez les Impôts de votre déménagement de la manière suivante : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Si vous avez déménagé au cours de l’année 2016, l’adresse pré-imprimée n’est pas celle de votre domicile au 1<Exposant>er</Exposant> janvier 2016. Vous devez donc indiquer l’adresse exacte et la date du déménagement.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si vous avez changé d’adresse après le 1<Exposant>er</Exposant> janvier 2017, vous devez indiquer votre adresse actuelle et la date du déménagement. Vous recevrez les courriers de l’administration fiscale à votre nouvelle adresse.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N247" audience="Particuliers">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service local gestionnaire de votre dossier</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1280" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Déclaration 2016 en ligne des revenus</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1281" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_268.pdf" format="application/pdf" poids="178.4 KB" numerocerfa="10330*20" autrenumero="2042" type="Formulaire">
+<Titre>Déclaration 2016 des revenus (papier)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R15720" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-notmv/2016/2041-notmv_27.pdf" numerocerfa="50796#16" format="application/pdf" poids="614.7 KB">Notice générale pour remplir les déclarations n°2042, 2042-C et 2042-C-PRO</NoticeLiee>
+<NoticeLiee ID="R40459" URL="https://www.impots.gouv.fr/portail/node/9143" numerocerfa="15018*03 (2041 FDC)">Déclaration des revenus - Fiche facultative de calculs</NoticeLiee>
+<NoticeLiee ID="R36611" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gv/2016/2041-gv_570.pdf" numerocerfa="50988#12" format="application/pdf" poids="0">Notice revenus 2015 : résidence alternée d'enfants mineurs</NoticeLiee>
+<NoticeLiee ID="R36724" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gp/2016/2041-gp_551.pdf" numerocerfa="50688#18" format="application/pdf" poids="103.5 KB">Notice revenus 2015 : allocations pour frais d'emploi</NoticeLiee>
+<NoticeLiee ID="R36723" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gt/2016/2041-gt_566.pdf" numerocerfa="50883#15">Notice revenus de 2015 : plafonnement des effets du quotient familial</NoticeLiee>
+<NoticeLiee ID="R36692" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gh/2016/2041-gh_531.pdf" numerocerfa="50149#20" format="application/pdf" poids="65.3 KB">Notice N°2041-GH - Revenus exceptionnels ou différés et cas particuliers</NoticeLiee>
+<NoticeLiee ID="R40371" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gn/2016/2041-gn_578.pdf" numerocerfa="50154#21" format="application/pdf" poids="118.8 KB">Notice revenus 2015 : revenus des valeurs et capitaux mobiliers (RCM)</NoticeLiee>
+<NoticeLiee ID="R36721" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gr/2016/2041-gr_555.pdf" numerocerfa="50794#17" format="application/pdf" poids="330.1 KB">Notice revenus 2015 : Travaux dans l'habitation principale</NoticeLiee>
+<NoticeLiee ID="R36677" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gm/2016/2041-gm_547.pdf" numerocerfa="50153#21">Notice revenus 2015 : BIC non professionnels : revenus de locations meublées et autres activités BIC non professionnelles</NoticeLiee>
+<NoticeLiee ID="R43226" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-e/2016/2041-e_251.pdf" numerocerfa="50318#19" format="application/pdf" poids="257.7 KB">Notice revenus 2015 : personnes fiscalement domiciliées hors de France</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2740" URL="https://www3.impots.gouv.fr/simulateur/calcul_impot/2017/index.htm" type="Simulateur">
+<Titre>Simulateur de calcul pour 2017 : impôt sur les revenus de 2016</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41461" URL="http://www.impots.gouv.fr" audience="Particuliers">
+<Titre>Le site des impôts : impots.gouv.fr</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32028" URL="http://www2.impots.gouv.fr/documentation/depliants_pratiques/page/depliants.htm" audience="Particuliers">
+<Titre>Impôt sur le revenu : dépliants d'information</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17502" URL="http://www2.impots.gouv.fr/documentation/2016/brochure_ir/index.html" audience="Particuliers">
+<Titre>Brochure pratique 2016 - Déclaration des revenus de 2015</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1698" URL="https://www.impots.gouv.fr/portail/node/4486" audience="Particuliers">
+<Titre>Déclarer mes revenus</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+</Publication>

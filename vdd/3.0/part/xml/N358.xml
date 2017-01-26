@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N358" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carte nationale d'identité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Pour demander une carte d'identité, les pièces à fournir dépendent de la situation (adulte ou enfant, possession d'un passeport.....</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2016-09-20</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N358</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350877&amp;cidTexte=LEGITEXT000006060725, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350888&amp;cidTexte=LEGITEXT000006060725, http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19810</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358" type="Dossier">Carte nationale d'identité</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere>
+<SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre><Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre><Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Pour demander une carte d'identité, les pièces justificatives nécessaires qui dépendent de la situation : majeur ou mineur, première demande ou renouvellement, possession (ou non) d'un passeport... La carte d'identité d'une personne majeure est valable 15 ans, celle d'un enfant mineur est valable 10 ans.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N360" audience="Particuliers">
+<Titre>Passeport</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350877&amp;cidTexte=LEGITEXT000006060725" ID="R743">
+<Titre>Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4 - Pièces à fournir pour une première demande</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350888&amp;cidTexte=LEGITEXT000006060725" ID="R13080">
+<Titre>Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4-1 - Pièces à fournir pour un renouvellement</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf" ID="R11425" format="application/pdf" poids="1.6 MB">
+<Titre>Circulaire du 1er mars 2010 relative à la simplification de la délivrance des cartes nationales d'identité et des passeports</Titre>
+</Reference>
+<Partenaire ID="R14399" URL="http://www.interieur.gouv.fr"/>
+<ServiceEnLigne ID="R1406" URL="https://mdel.mon.service-public.fr/acte-etat-civil.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1405" URL="https://pastel.diplomatie.gouv.fr/Dali/index2.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45668" URL="https://passeport.ants.gouv.fr/Services-associes/Faire-une-pre-demande-CNI" type="Téléservice">
+<Titre>Pré-demande de carte d'identité (Bretagne et 78 uniquement)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F12567" audience="Particuliers">Quels recours si mon dossier est refusé ?</QuestionReponse>
+<QuestionReponse ID="F591" audience="Particuliers">De quelle pièce d'identité a-t-on besoin pour voyager en avion ?</QuestionReponse>
+<QuestionReponse ID="F32303" audience="Particuliers">Peut-on voyager avec une carte d'identité de plus de 10 ans ?</QuestionReponse>
+<QuestionReponse ID="F21224" audience="Particuliers">Doit-on remplacer sa carte d'identité après un déménagement ?</QuestionReponse>
+<QuestionReponse ID="F1887" audience="Particuliers">Comment remplacer une carte d'identité abîmée ?</QuestionReponse>
+<QuestionReponse ID="F1036" audience="Particuliers">Contrôle d'identité : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F10774" audience="Particuliers">Que faire si tous mes papiers ont été volés en même temps ?</QuestionReponse>
+<QuestionReponse ID="F10619" audience="Particuliers">Quelles photos sont admises ?</QuestionReponse>
+<QuestionReponse ID="F18713" audience="Particuliers">Comment prouver sa nationalité française ?</QuestionReponse>
+<QuestionReponse ID="F14807" audience="Particuliers">Comment justifier de son domicile ?</QuestionReponse>
+<QuestionReponse ID="F18605" audience="Particuliers">Comment prouver l'autorité parentale ?</QuestionReponse>
+<QuestionReponse ID="F11601" audience="Particuliers">Est-on obligé d'avoir une carte d'identité ?</QuestionReponse>
+<QuestionReponse ID="F16872" audience="Particuliers">Peut-on obtenir une carte d'identité en urgence ?</QuestionReponse>
+<QuestionReponse ID="F11603" audience="Particuliers">Comment savoir si un titre d'identité est sécurisé ?</QuestionReponse>
+<QuestionReponse ID="F18704" audience="Particuliers">Que faire si je retrouve une pièce d'identité déclarée perdue ou volée ?</QuestionReponse>
+<QuestionReponse ID="F12883" audience="Particuliers">Un majeur protégé peut-il demander un titre d'identité ?</QuestionReponse>
+<QuestionReponse ID="F556" audience="Particuliers">Doit-on obligatoirement se déplacer au guichet ?</QuestionReponse>
+<QuestionReponse ID="F31421" audience="Particuliers">Que faire en cas de perte de tous ses papiers en même temps ?</QuestionReponse>
+<QuestionReponse ID="F32675" audience="Particuliers">Quel justificatif de domicile pour la carte d'identité d'un mineur ?</QuestionReponse>
+<QuestionReponse ID="F33250" audience="Particuliers">Comment faire figurer le nom de son mari ou de sa femme sur ses papiers ?</QuestionReponse>
+<QuestionReponse ID="F33640" audience="Particuliers">Comment remplir le formulaire de demande de carte d'identité ?</QuestionReponse>
+<QuestionReponse ID="F33745" audience="Particuliers">Comment remplacer gratuitement un titre détruit pendant les intempéries ?</QuestionReponse>
+<QuestionReponse ID="F33805" audience="Particuliers">Où acheter un timbre fiscal ?</QuestionReponse>
+</Publication>

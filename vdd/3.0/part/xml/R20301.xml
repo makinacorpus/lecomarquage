@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R20301" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de retrait de la circulation d'un véhicule</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Déclaration de retrait de la circulation d'un véhicule - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R20301</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R20301" type="Formulaire">Déclaration de retrait de la circulation d'un véhicule</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>13756*02</NumeroCerfa>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13756">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13756*02">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13756.do"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F1754" audience="Particuliers" type="Fiche d'information">
+<Titre>Carte grise d'un véhicule retiré de la circulation</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R1192" type="Local personnalisable">
+<Titre>Préfecture de Paris</Titre>
+<PivotLocal>paris_prefecture</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/ile-de-france/paris/prefecture-75115-01"/>
+</OuSAdresser>
+<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<Dossier ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3088" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un demandeur d'emploi peut-il bénéficier d'un bilan de compétences ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Oui. Pendant sa période de chômage, un demandeur d'emploi peut demander à son conseiller Pôle emploi à bénéficier d'un bilan de compétences.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3088</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31131</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31131">Chômage : aides à la formation</Niveau>
+<Niveau ID="F3088" type="Fiche Question-réponse">Un demandeur d'emploi peut-il bénéficier d'un bilan de compétences ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N461">Chômage</SousThemePere><DossierPere ID="N31131">
+<Titre>Chômage : aides à la formation</Titre>
+<Fiche ID="F3147">Formation du demandeur d'emploi</Fiche>
+<Fiche ID="F12382">Compte personnel de formation (CPF)</Fiche>
+<Fiche ID="F291">Allocation d'aide au retour à l'emploi formation (Aref)</Fiche>
+<Fiche ID="F292">Rémunération de fin de formation (RFF)</Fiche>
+<Fiche ID="F760">Régime public de rémunération (RFPE)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui. Pendant sa période de chômage, un demandeur d'emploi, indemnisé ou non, peut demander à son conseiller Pôle emploi à bénéficier d'un bilan de compétences. Si le bilan de compétences est adapté à ses besoins, il pourra être pris en charge en tout ou partie par Pôle emploi.</Paragraphe>
+
+</Texte><OuSAdresser ID="R194" type="Local personnalisé sur SP">
+<Titre>Pôle emploi</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>pole_emploi</PivotLocal>
+<RessourceWeb URL="http://www.pole-emploi.fr/informations/votre-pole-emploi-@/votre_pole_emploi/" commentaireLien="Pôle emploi - réseau local"/>
+<Source ID="R30668">Pôle emploi</Source>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R46195" URL="http://www.pole-emploi.fr/actualites/pourquoi-et-comment-faire-un-bilan-de-competences--@/article.jspz?id=61116" audience="Particuliers">
+<Titre>Pourquoi et comment faire un bilan de compétences ?</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R44063" URL="http://www.pole-emploi.fr/front/common/tools/download_file.jspz?mediaid=178684" audience="Particuliers">
+<Titre>Évaluation des compétences et des capacités professionnelles</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</PourEnSavoirPlus>
+</Publication>

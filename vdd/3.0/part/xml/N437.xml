@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N437" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Addictions</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Les addictions, du point de vue scientifique et médical, sont des pathologies cérébrales définies par une dépendance à une substance (alcool, drogues, tabac) ou une activité (jeux d'argent ou de hasard) avec des conséquences négatives pour la santé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-30</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N437</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Patient</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N437" type="Dossier">Addictions</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20180">Santé</SousThemePere>
+<Fiche ID="F20104">Alcool</Fiche>
+<Fiche ID="F740">Drogues</Fiche>
+<Fiche ID="F160">Tabac</Fiche>
+<Fiche ID="F15814">Jeux d'argent</Fiche>
+<Introduction>
+<Texte><Paragraphe>Les addictions, du point de vue scientifique et médical, sont des pathologies cérébrales définies par une dépendance à une substance (alcool, drogues, tabac) ou une activité (jeux d'argent ou de hasard) avec des conséquences négatives pour la santé.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F2881" audience="Particuliers">
+<Titre>Alcool au volant</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2886" audience="Particuliers">
+<Titre>Conduite sous l'emprise de stupéfiants</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20696" type="Centre de contact">
+<Titre>Drogues info service</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			0 800 23 13 13 (appel gratuit)
+		</Paragraphe>
+								<Paragraphe>
+			Ouvert de 8h à 2h, 7 jours/7</Paragraphe>
+								<Paragraphe>
+			Service anonyme. </Paragraphe>
+								<Paragraphe>Informations sur les drogues, l'alcool, les dépendances y compris la dépendance aux jeux. </Paragraphe>
+								<Paragraphe>Écoute, soutien, conseils et orientations. </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Accès à <LienExterne URL="http://www.drogues-info-service.fr/?-Vos-questions-nos-reponses-">la rubrique Vos questions/ Nos réponses</LienExterne>
+ pour poser des questions aux professionnels du service</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R20694" type="Centre de contact">
+<Titre>Écoute alcool</Titre><Texte>
+						
+								<Paragraphe>Aide et soutien, informations sur les effets, les risques, la loi et les lieux d'accueil</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			 0 980 980 930 </Paragraphe>
+								<Paragraphe>Coût d'un appel local depuis un poste fixe ou un mobile</Paragraphe>
+								<Paragraphe>
+			Ouvert 7 jours/7, de 8h à 2h</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R20702" type="Centre de contact">
+<Titre>3989 - Tabac info service</Titre><Texte>
+						
+								<Paragraphe>
+			Conseils, informations et orientation pour aider à l'arrêt du tabac.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      <MiseEnEvidence>3989</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>du lundi au samedi de 8h à 20h </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R2428" type="Centre de contact">
+<Titre>Joueurs info service</Titre><Texte>
+						
+								<Paragraphe>Accompagne, informe et conseille les personne concernées directement ou indirectement par un problème de jeu excessif</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>09 74 75 13 13
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>
+			Ouvert 7 jours sur 7, de 8h à 2h du matin
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R17947" URL="http://www.interieur.gouv.fr/content/download/33028/246302/file/modele_interdiction.pdf" format="application/octet-stream" poids="23.4 KB" type="Modèle de document">
+<Titre>Demander à être interdit de jeux</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20304" URL="http://www.interieur.gouv.fr/content/download/33030/246312/file/modele_levee_interdiction.pdf" format="application/pdf" poids="23.8 KB" type="Modèle de document">
+<Titre>Demander la levée d'une interdiction volontaire de jeux</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2426" URL="http://www.joueurs-info-service.fr/Le-jeu-et-vos-proches/Aborder-le-probleme/Comment-savoir-si-un-proche-a-un-probleme-de-jeu#.V34j4PmLRpg" audience="Particuliers">
+<Titre>Comment savoir si un proche a un problème de jeu ?</Titre>
+<Source ID="R30644">Santé publique France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41572" URL="http://www.drogues.gouv.fr/" audience="Particuliers">
+<Titre>Site d'information sur les drogues</Titre>
+<Source ID="R30860">Mission interministérielle de lutte contre les drogues et les conduites addictives (Mildeca)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41573" URL="http://www.tabac-info-service.fr/" audience="Particuliers">
+<Titre>Site d'information sur les risques liés au tabac</Titre>
+<Source ID="R30644">Santé publique France</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F33670" audience="Particuliers">Lutte anti-tabagisme : qu'est-ce que le paquet neutre ?</QuestionReponse>
+<QuestionReponse ID="F16966" audience="Particuliers">Quels sont les jeux d'argent autorisés aux mineurs ?</QuestionReponse>
+<QuestionReponse ID="F15815" audience="Particuliers">Un mineur peut-il entrer dans un casino ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19824" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de validation du permis de chasser pour l'année en cours</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Demande de validation du permis de chasser pour l'année en cours - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19824</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N553">Chasse</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19824" type="Formulaire">Demande de validation du permis de chasser pour l'année en cours</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12660*02</NumeroCerfa>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12660">
+<Source>Ministère en charge de l'environnement</Source>
+</LienWeb>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="12660*02">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12660.do"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F2091" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis de chasser : document de validation pour l'année en cours</Titre>
+<Dossier ID="N553">Chasse</Dossier>
+</FicheLiee><OuSAdresser ID="R18298" type="Local">
+<Titre>Fédération départementale des chasseurs</Titre>
+<Complement>Pour faire valider votre permis de chasser</Complement>
+<RessourceWeb URL="http://www.chasseurdefrance.com/annuaire/les-federations-des-chasseurs/"/>
+<Source ID="R30787">Fédération nationale de la chasse</Source>
+</OuSAdresser>
+</ServiceComplementaire>

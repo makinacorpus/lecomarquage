@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N13511" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Étudier à l'étranger</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Étudier à l'étranger</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-15</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N13511</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Français à l'Étranger</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N13511" type="Dossier">Étudier à l'étranger</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere>
+<Fiche ID="F378">Partir étudier avec le programme Erasmus +</Fiche>
+<Fiche ID="F15077">Obtenir une bourse pour poursuivre ses études</Fiche>
+<Fiche ID="F382">Faire un stage dans une entreprise en Europe</Fiche>
+<Fiche ID="F384">Trouver un stage dans un organisme européen</Fiche><VoirAussi important="non">
+<Dossier ID="N120" audience="Particuliers">
+<Titre>Vivre à l'étranger</Titre>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R32387" URL="https://www.coleurope.eu/fr/website/etudier/conditions-dadmission-0" type="Téléservice">
+<Titre>Candidature pour le collège d'Europe</Titre>
+<Source ID="R41017">Collège d'Europe</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32929" URL="http://ec.europa.eu/stages/how/how_fr.htm" type="Téléservice">
+<Titre>Postuler à un stage auprès de la Commission européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R43172" URL="https://trainee.cor.europa.eu/Form.aspx?m=i&amp;culture=fr" type="Formulaire">
+<Titre>Postuler à un stage auprès du Comité des Régions</Titre>
+<Source ID="R30852">Comité des Régions</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32930" URL="http://www.ombudsman.europa.eu/shortcuts/document.faces/en/3461/pdf.bookmark" type="Formulaire">
+<Titre>Postuler à un stage auprès du Médiateur européen</Titre>
+<Source ID="R30748">Médiateur européen</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R43173" URL="http://www.europarl.europa.eu/atyourservice/fr/20150201PVL00047/Stages" type="Formulaire">
+<Titre>Postuler à un stage auprès du Parlement européen</Titre>
+<Source ID="R30848">Parlement européen</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32933" URL="http://curia.europa.eu/jcms/jcms/P_122185/" type="Formulaire">
+<Titre>Postuler à un stage auprès de la Cour de justice de l'Union européenne</Titre>
+<Source ID="R30634">Cour de justice de l'Union européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32935" URL="http://www.eca.europa.eu/fr/Pages/traineeshipcomplet.aspx" type="Formulaire">
+<Titre>Postuler à un stage à la Cour des comptes européenne</Titre>
+<Source ID="R30850">Cour des comptes européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R35676" URL="http://ec.europa.eu/eu-rights/enquiry-complaint-form/home?languageCode=fr&amp;origin=solvit-web" type="Téléservice">
+<Titre>Soumettre une plainte à Solvit</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2268" URL="http://www.ciep.fr/assistants-francais-a-letranger" audience="Particuliers">
+<Titre>Étudiant : partir comme assistant de français à l'étranger</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R900" URL="http://europa.eu/youreurope/citizens/education/university/index_fr.htm" audience="Particuliers">
+<Titre>Étudier en Europe</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R3054" URL="http://europa.eu/youreurope/citizens/education/traineeships/index_fr.htm" audience="Particuliers">
+<Titre>Faire un stage en Europe</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41762" URL="http://www.generation-erasmus.fr" audience="Particuliers">
+<Titre>Site génération Erasmus+</Titre>
+<Source ID="R30697">Agence Erasmus+ France/Éducation Formation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41766" URL="http://www.ciep.fr" audience="Particuliers">
+<Titre>Site ciep.fr</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F379" audience="Particuliers">Comment faire reconnaître son diplôme français en Europe ?</QuestionReponse>
+</Publication>

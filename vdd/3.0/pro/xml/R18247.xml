@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18247" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Répertoire à l'installation - Offres de reprise agricoles et rurales</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Diffusion d'annonces concernant les exploitations agricoles disponibles pour une reprise. Recherche par région.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-20</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18247</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16153">Financement de la création ou reprise d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18247" type="Téléservice">Répertoire à l'installation - Offres de reprise agricoles et rurales</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Diffusion d'annonces concernant les exploitations agricoles disponibles pour une reprise. Recherche par région.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.repertoireinstallation.com">
+<Source>Agence de services et de paiement (ASP)</Source>
+</LienWeb>
+<FicheLiee ID="F22366" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Aide à l'installation des jeunes agriculteurs</Titre>
+<Dossier ID="N16153">Financement de la création ou reprise d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23670" audience="Professionnels" type="Fiche d'information">
+<Titre>Transmission d'une exploitation agricole</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

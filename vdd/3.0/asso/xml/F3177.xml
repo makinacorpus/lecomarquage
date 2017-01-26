@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3177" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment estimer la valeur des aides en nature dont bénéficie une association ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Financement et fiscalité d'une association</dc:subject>
+<dc:description>Pour prendre en considération les aides en nature (dons, subventions, etc.) dont bénéficie une association, il faut leur "donner un prix".</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-12</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3177</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006197126&amp;cidTexte=LEGITEXT000006069574, http://bofip.impots.gouv.fr/bofip/6476-PGP.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N21960</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31405">Financement et fiscalité d'une association</Niveau>
+<Niveau ID="N21960">Collecte de fonds par une association</Niveau>
+<Niveau ID="F3177" type="Fiche Question-réponse">Comment estimer la valeur des aides en nature dont bénéficie une association ?</Niveau>
+</FilDAriane>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+</Theme><DossierPere ID="N21960">
+<Titre>Collecte de fonds par une association</Titre>
+<Fiche ID="F3175">Cotisations</Fiche>
+<Fiche ID="F2722">Dons, donations et legs</Fiche>
+<Fiche ID="F3180">Subventions</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Les règles d'évaluation applicables varient selon la forme de l'aide reçue.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Don ou apport de biens</Paragraphe>
+</Titre><Paragraphe>Si le don est fait par une entreprise, la valeur à prendre en compte est celle des sommes ayant dû être engagées par elle pour acquérir ou produire, puis stocker, l'objet concerné.</Paragraphe>
+<Paragraphe>Si le don est fait par un particulier, la valeur à prendre en compte est la somme d'argent que le donateur aurait selon lui obtenue s'il avait vendu l'objet au lieu de le céder gratuitement.</Paragraphe><ServiceEnLigne ID="R17454" URL="https://www.impots.gouv.fr/portail/files/media/1_metier/2_professionnel/EV/2_gestion/230_association/titre_dons_organisme_interet_general.pdf" format="application/pdf" poids="91.1 KB" numerocerfa="11580*03" type="Formulaire">
+<Titre>Reçu au titre des dons à certains organismes d'intérêt général</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Introduction>
+<Texte><Paragraphe>Permet aux associations et organismes  d'intérêt général bénéficiaires de dons ou de cotisations  de délivrer une attestation au donateur ou à l'adhérent, afin qu'il bénéficie d'une réduction d'impôt</Paragraphe>
+<Paragraphe>Permet aussi de justifier des sommes correspondant à une renonciation par un bénévole au remboursement de ses frais</Paragraphe>
+<Paragraphe>Pour les dons en nature, il faut indiquer leur évaluation en numéraire</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>la somme d'argent que l'association aurait versé si elle avait acheté l'objet ne peut pas servir de base à l'évaluation.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Prêt de local, de terrain ou de matériel</Paragraphe>
+</Titre><Paragraphe>La valeur est égale à la somme d'argent que le prêteur aurait perçu, s'il avait conclu un bail ou un contrat de location selon les conditions du marché.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Prestations de service</Paragraphe>
+</Titre><Paragraphe>La valeur est l'ensemble des coûts supportés par la personne ou l'entreprise qui offre le service.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mise à disposition de personnel</Paragraphe>
+</Titre><Paragraphe>La valeur  est la somme des rémunérations et des charges sociales correspondant à l'emploi, après déduction  des aides et réductions diverses qui peuvent être associées au contrat de travail (<LienInterne LienPublication="N505" type="Dossier" audience="Particuliers">contrats d'aide à l'insertion</LienInterne>, <LienInterne LienPublication="N11240" type="Dossier" audience="Particuliers">contrat d'apprentissage</LienInterne>, etc.).</Paragraphe>
+<Paragraphe>La somme est calculée par l'employeur, sous sa responsabilité.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R17216" type="Local personnalisé sur SP">
+<Titre>Mission d'accueil et d'information des associations (Maia)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>maia</PivotLocal>
+<RessourceWeb URL="http://www.associations.gouv.fr/10-toutes-les-ressources-pres-de-chez.html"/>
+<Source ID="R30678">Ministère en charge de la vie associative</Source>
+</OuSAdresser>
+<OuSAdresser ID="R1903" type="Local personnalisé sur SP">
+<Titre>Centre de ressources et d'information pour les bénévoles (Crib)</Titre>
+<Complement>Pour être conseillé</Complement>
+<PivotLocal>crib</PivotLocal>
+<RessourceWeb URL="http://www.associations.gouv.fr/30-les-centres-de-ressources.html?intermediation=1"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006197126&amp;cidTexte=LEGITEXT000006069574" ID="R2395">
+<Titre>Code général des impôts, annexe 3 : articles 38 quinquies à 38 undecies</Titre>
+<Complement>Évaluation des immobilisations</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/6476-PGP.html" ID="R2355">
+<Titre>Bofip-Impôts n°BOI-BIC-RICI-20-30-10-20 relatif à la forme et à l'estimation des aides en nature au profit des associations</Titre>
+</Reference>
+<ServiceEnLigne ID="R17454" URL="https://www.impots.gouv.fr/portail/files/media/1_metier/2_professionnel/EV/2_gestion/230_association/titre_dons_organisme_interet_general.pdf" format="application/pdf" poids="91.1 KB" numerocerfa="11580*03" type="Formulaire">
+<Titre>Reçu au titre des dons à certains organismes d'intérêt général</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18024" URL="https://www.impots.gouv.fr/portail/node/8916" numerocerfa="15438*01" autrenumero="2069-M-FC-SD" type="Formulaire">
+<Titre>Crédit d'impôt mécénat - Fiche d'aide au calcul</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F12104" audience="Associations">Comment se renseigner sur une association (ou un fonds de dotation) ?</QuestionReponse>
+</Publication>

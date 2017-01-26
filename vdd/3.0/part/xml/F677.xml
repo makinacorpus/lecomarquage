@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F677" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>En prison, bénéficie-t-on de l'assurance maladie (sécurité sociale) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Oui, la personne détenue est couverte par l'assurance maladie.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F677</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000026799337&amp;idSectionTA=LEGISCTA000006185926&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006749853&amp;idSectionTA=LEGISCTA000006186744&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182180&amp;cidTexte=LEGITEXT000006071154, http://circulaires.legifrance.gouv.fr/index.php?action=afficherCirculaire&amp;hit=1&amp;r=36019</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N418</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418">Assurance maladie : affiliation et remboursements des soins</Niveau>
+<Niveau ID="F677" type="Fiche Question-réponse">En prison, bénéficie-t-on de l'assurance maladie (sécurité sociale) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere><DossierPere ID="N418">
+<Titre>Assurance maladie : affiliation et remboursements des soins</Titre><SousDossier ID="N418-1">
+<Titre>Démarches d'affiliation</Titre>
+<Fiche ID="F34047">Protection universelle maladie (Puma)</Fiche>
+<Fiche ID="F675">Étudiant</Fiche>
+<Fiche ID="F16467">Premier emploi</Fiche>
+<Fiche ID="F23671">Agent public</Fiche>
+<Fiche ID="F674">Changement de situation professionnelle</Fiche>
+<Fiche ID="F737">Changement de situation personnelle</Fiche>
+<Fiche ID="F16620">Rattachement d'un enfant</Fiche>
+<Fiche ID="F16622">Rattachement d'un autre ayant-droit</Fiche>
+</SousDossier>
+<SousDossier ID="N418-2">
+<Titre>Conditions du remboursement des soins</Titre>
+<Fiche ID="F163">Parcours de soins coordonnés et médecin traitant</Fiche>
+<Fiche ID="F165">Ticket modérateur, forfait, franchises</Fiche>
+<Fiche ID="F265">Carte Vitale</Fiche>
+<Fiche ID="F33967">Ordonnance</Fiche>
+<Fiche ID="F11616">Feuille de soins</Fiche>
+<Fiche ID="F168">Accord (entente) préalable</Fiche>
+<Fiche ID="F167">Tiers payant</Fiche>
+</SousDossier>
+<SousDossier ID="N418-3">
+<Titre>Remboursement par type de dépense de santé</Titre>
+<Fiche ID="F1069">Consultation médicale</Fiche>
+<Fiche ID="F10874">Consultation médicale d'un enfant</Fiche>
+<Fiche ID="F200">Hospitalisation</Fiche>
+<Fiche ID="F21760">Médicaments</Fiche>
+<Fiche ID="F2951">Frais de transports</Fiche>
+<Fiche ID="F751">Cure thermale</Fiche>
+<Fiche ID="F33950">Lunettes et lentilles</Fiche>
+<Fiche ID="F33956">Soins dentaires</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, la personne détenue est couverte par l'assurance maladie.</Paragraphe>
+<Paragraphe>La personne détenue bénéficie  de la prise en charge de ses frais de santé par le régime général de la sécurité sociale. Une participation peut lui être demandée lorsqu'elle a des ressources suffisantes. La <LienIntra LienID="R40" type="Local personnalisé sur SP">caisse primaire d'assurance maladie (CPAM) compétente</LienIntra> est celle du ressort de l'établissement pénitentiaire où la personne est détenue.</Paragraphe>
+<Paragraphe>Lorsqu'elle  exerce une activité professionnelle, la prise en charge de ses frais de santé est assurée par  <LienInterne LienPublication="F648" type="Fiche Question-réponse" audience="Particuliers">le régime d'assurance maladie dont relève cette activité</LienInterne>.</Paragraphe>
+<Paragraphe>La personne détenue bénéficie du <LienInterne LienPublication="F167" type="Fiche d'information" audience="Particuliers">tiers-payant</LienInterne>,  est exonérée des <LienInterne LienPublication="F165" type="Fiche d'information" audience="Particuliers">participations de l'assuré</LienInterne> ainsi que du <LienInterne LienPublication="F200" type="Fiche d'information" audience="Particuliers">forfait hospitalier</LienInterne>.  Le versement des <LienIntra LienID="R1413" type="Définition de glossaire">prestations en espèces</LienIntra>, éventuellement perçues avant l'incarcération, cesse durant la période de détention.</Paragraphe>
+<Paragraphe>La personne détenue peut demander à bénéficier de la <LienInterne LienPublication="F10027" type="Fiche d'information" audience="Particuliers">couverture médicale universelle complémentaire (CMUC)</LienInterne> ou de <LienInterne LienPublication="F13375" type="Fiche d'information" audience="Particuliers">l'aide à l'acquisition d'une complémentaire santé (ACS)</LienInterne>.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N20286" audience="Particuliers">
+<Titre>Complémentaire santé, CMU-C, ACS</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N276" audience="Particuliers">
+<Titre>Prison</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000026799337&amp;idSectionTA=LEGISCTA000006185926&amp;cidTexte=LEGITEXT000006073189" ID="R33307">
+<Titre>Code de la sécurité sociale : articles L381-30 à L381-30-6</Titre>
+<Complement>Prise en charge par l'assurance maladie (article L381-30), prestations, affiliation des détenus étrangers en situation irrégulière (article L381-30-1)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006749853&amp;idSectionTA=LEGISCTA000006186744&amp;cidTexte=LEGITEXT000006073189" ID="R33309">
+<Titre>Code de la sécurité sociale : articles R381-97 à R381-100</Titre>
+<Complement>Caisse compétente pour l'immatriculation, attestation d'affiliation (article R381-97)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182180&amp;cidTexte=LEGITEXT000006071154" ID="R37774">
+<Titre>Code de procédure pénale : articles D366 à D367</Titre>
+<Complement>Protection sociale des détenus</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/index.php?action=afficherCirculaire&amp;hit=1&amp;r=36019" ID="R37771">
+<Titre>Circulaire du 30 octobre 2012 relative au guide méthodologique sur la prise en charge sanitaire des personnes placées sous main de justice</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R1840" URL="http://www.ameli.fr/assures/droits-et-demarches/par-situation-personnelle/vous-etes-en-detention.php" audience="Particuliers">
+<Titre>Vous êtes en détention</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R37797" URL="http://www.justice.gouv.fr/art_pix/Je_suis_en_detention_V6_juillet2015_opt.pdf" audience="Particuliers" format="application/pdf" poids="1.7 MB">
+<Titre>Droits et devoirs de la personne détenue</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<Definition ID="R1413">
+<Titre>Prestations en espèce (assurance maladie)</Titre>
+<Texte>
+				<Paragraphe>Destinées à compenser la perte de salaire suite à un arrêt de travail</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006749139&amp;idSectionTA=LEGISCTA000006156797&amp;cidTexte=LEGITEXT000006073189" ID="R33283">
+<Titre>Code de la sécurité sociale : articles R313-1 à R313-17</Titre>
+</Reference>
+</Definition>
+</Publication>

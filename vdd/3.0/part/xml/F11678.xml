@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11678" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on cumuler l'Apa avec d'autres revenus ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>L'allocation personnalisée d'autonomie (Apa) est cumulable avec d'autres revenus, sauf certains revenus d'aide aux personnes en perte d'autonomie</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Caisse nationale de solidarité pour l'autonomie (CNSA)</dc:contributor>
+<dc:date>modified 2016-11-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11678</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000026799834&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N392</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="F11678" type="Fiche Question-réponse">Peut-on cumuler l'Apa avec d'autres revenus ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Fiche ID="F10009">Allocation personnalisée d'autonomie (Apa)</Fiche>
+<Fiche ID="F16871">Allocation de solidarité aux personnes âgées (Aspa)</Fiche>
+<Fiche ID="F16940">Allocation supplémentaire d'invalidité (Asi)</Fiche>
+<Fiche ID="F2572">Allocation simple</Fiche>
+<Fiche ID="F245">Aide-ménagère à domicile</Fiche>
+<Fiche ID="F248">Prise en charge des repas</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>L'allocation personnalisée d'autonomie (Apa) n'est pas cumulable avec les revenus suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'allocation simple versée dans le cadre de <LienInterne LienPublication="F245" type="Fiche d'information" audience="Particuliers">l'aide ménagère à domicile</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'aide en nature versée sous forme <LienInterne LienPublication="F245" type="Fiche d'information" audience="Particuliers">d'aide-ménagère à domicile</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la <LienInterne LienPublication="F14202" type="Fiche d'information" audience="Particuliers">prestation de compensation du handicap (PCH)</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la <LienInterne LienPublication="F31434" type="Fiche d'information" audience="Particuliers">majoration pour aide constante d'une tierce personne</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la <LienInterne LienPublication="F31435" type="Fiche d'information" audience="Particuliers">prestation complémentaire pour recours à tierce personne</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<Complement>Pour toute information et déposer une demande d'Apa si vous ne résidez pas à Paris</Complement>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour toute information sur les aides proposées par votre commune aux personnes âgées si vous ne résidez pas à Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R40963" type="Local">
+<Titre>Point d'information local dédié aux personnes âgées</Titre>
+<Complement>Pour toute information</Complement>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<Complement>Pour toute information sur les aides proposées aux personnes âgées si vous résidez à Paris</Complement>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+<OuSAdresser ID="R2431" type="Local personnalisable">
+<Titre>Centre de retraites des fonctionnaires de l'État, magistrats et militaires</Titre>
+<Complement>Pour toute information sur les aides proposées la caisse aux personnes âgées</Complement>
+<PivotLocal>centre_retraite_fonctionnaire</PivotLocal>
+<RessourceWeb URL="https://retraitesdeletat.gouv.fr/retraite/contact"/>
+</OuSAdresser>
+<OuSAdresser ID="R41" type="Local personnalisé sur SP">
+<Titre>Caisse d'assurance retraite et de la santé au travail (Carsat)</Titre>
+<Complement>Pour toute information sur les aides proposées par la caisse aux personnes âgées</Complement>
+<PivotLocal>carsat</PivotLocal>
+<RessourceWeb URL="https://www.lassuranceretraite.fr/portail-info/home/retraites/nos-contacts.html"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<Complement>Pour toute information sur les aides proposées par la MSA aux personnes âgées</Complement>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000026799834&amp;cidTexte=LEGITEXT000006074069" ID="R32679">
+<Titre>Code de l'action sociale et des familles : article L232-23</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41351" URL="http://www.pour-les-personnes-agees.gouv.fr" audience="Particuliers">
+<Titre>Portail d'information et d'orientation des personnes âgées et leurs proches</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+</Publication>

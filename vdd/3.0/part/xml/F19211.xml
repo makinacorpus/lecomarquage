@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F19211" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Coût de la carte grise (certificat d'immatriculation)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Connaître le tarif de votre carte grise (certificat d'immatriculation) et le prix que vous aurez à payer pour l'obtenir (taxes et redevance).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F19211</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018619161&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018029918&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179837&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177098&amp;cidTexte=LEGITEXT000006074228, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031194838, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020237128, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020237165</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N367</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="F19211" type="Fiche d'information">Coût de la carte grise (certificat d'immatriculation)</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre><SousDossier ID="N367-1">
+<Titre>Immatriculer un véhicule</Titre>
+<Fiche ID="F10293">Immatriculer un véhicule neuf</Fiche>
+<Fiche ID="F1050">Immatriculer un véhicule d'occasion</Fiche>
+<Fiche ID="F1480">Hériter d'un véhicule</Fiche>
+<Fiche ID="F1726">Duplicata de la carte grise : perte, vol ou détérioration</Fiche>
+<Fiche ID="F1360">Obtenir un certificat de non gage</Fiche>
+<Fiche ID="F19211">Coût de la carte grise</Fiche>
+</SousDossier>
+<SousDossier ID="N367-2">
+<Titre>Titulaire du certificat et modification de sa situation</Titre>
+<Fiche ID="F10477">Titulaire et cotitulaire de la carte grise</Fiche>
+<Fiche ID="F12118">Changement d'adresse</Fiche>
+<Fiche ID="F10613">Ajouter une autre personne sur sa carte grise</Fiche>
+<Fiche ID="F31218">Retirer un nom au certificat</Fiche>
+<Fiche ID="F16876">Changement du nom du titulaire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-3">
+<Titre>Modifications du véhicule</Titre>
+<Fiche ID="F1754">Carte grise d'un véhicule retiré de la circulation</Fiche>
+<Fiche ID="F1473">Véhicule accidenté</Fiche>
+<Fiche ID="F1478">Véhicule transformé</Fiche>
+<Fiche ID="F1468">Véhicule à détruire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-4">
+<Titre>Plaques d'immatriculation</Titre>
+<Fiche ID="F20319">Plaques d'immatriculation</Fiche>
+<Fiche ID="F18679">Vol ou usurpation de plaques d'immatriculation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Immatriculer un véhicule</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La carte grise (certificat d'immatriculation) est soumise au paiement de taxes et d'une redevance. Son coût correspond à la somme des différentes taxes :  taxe régionale, taxe pour le développement des actions de formation professionnelle (pour les camionnettes),  taxe CO<Indice>2</Indice> et malus écologique (si le véhicule est polluant), taxe de gestion et redevance pour l'acheminement du titre.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Calcul du coût de votre carte grise</Paragraphe>
+</Titre><ServiceEnLigne ID="R39696" URL="https://www.service-public.fr/simulateur/calcul/cout-certificat-immatriculation" type="Simulateur">
+<Titre>Simulateur du coût d'une carte grise</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+
+<Paragraphe>Pour déterminer le coût de votre carte, il faut additionner les taxes Y1+Y2+Y3+Y4 et l'arrondir à l'euro le plus proche (l'arrondi du  résultat  égal à 0,5 est compté pour 1).</Paragraphe>
+<Paragraphe>Ajoutez ensuite la taxe d'acheminement Y5 et vous obtenez le coût total des taxes pour votre certificat d'immatriculation.</Paragraphe>
+<Paragraphe>Par exemple, vous habitez en Alsace et vous   immatriculez une voiture particulière neuve de 5 CV inférieure à   3,5 tonnes, émettant moins de 130 g/km de CO<Indice>2</Indice>.</Paragraphe>
+<Tableau>
+<Titre>Exemple de calcul de coût d'un certificat d'immatriculation</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Y1 - Taxe régionale </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 x <Valeur>38,33 €</Valeur> = <Valeur>191,65 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Y2 - Taxe  formation professionnelle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur> car véhicule particulier</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Y3 - Taxes sur les véhicules polluants</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Y4 - Taxe de gestion</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Sous-total arrondi</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>186,50 €</Valeur> arrondi à <Valeur>187 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Y5 - Redevance d'acheminement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2,76 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Y6 - Taxes à payer</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>189,76 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>pour un 2 roues de moins de 50 cm<Exposant>3</Exposant>, <MiseEnEvidence>le certificat ou le duplicata sont gratuits</MiseEnEvidence>. </Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Détail des taxes et redevances</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Y1 - Taxe régionale</Paragraphe>
+</Titre><Paragraphe>Elle est fixée par le conseil régional. </Paragraphe>
+<Paragraphe>Pour en déterminer la valeur, il faut  multiplier la taxe d'un cheval fiscal (CV) de la région où vous habitez par la puissance fiscale du véhicule. </Paragraphe>
+<Paragraphe>Dans certaines situations, des réductions de cette taxe sont accordées. Ainsi, si le véhicule est propre, certaines régions accordent une exonération d'une partie ou de la totalité de cette taxe régionale.</Paragraphe>
+<Paragraphe> La taxe peut également être fixe sans lien avec la puissance du véhicule.</Paragraphe>
+<Tableau>
+<Titre>Valeur de la taxe régionale d'un CV selon la région où vous résidez</Titre>
+<Colonne largeur="21" type="normal"/>
+<Colonne largeur="34" type="normal"/>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="28" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Nouvelles Régions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Anciennes régions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant de la taxe régionale pour 1 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exonération de la taxe pour un véhicule propre</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Auvergne-Rhône-Alpes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>43,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Bourgogne-Franche-Comté </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>51,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Bretagne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>51,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>50 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Centre-Val de Loire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>49,80 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Corse</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>27,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="3">
+<Paragraphe>Grand-Est</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Alsace</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>38,33 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Champagne-Ardenne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>37,33 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Lorraine</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>44,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Hauts-de-France </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Nord-Pas-de-Calais</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>42,60 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Picardie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>33,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>50 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Île-de-France</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>46,15 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Nouvelle-Aquitaine </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Aquitaine </Paragraphe>
+<Paragraphe>Poitou-Charentes</Paragraphe>
+<Paragraphe>Limousin</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>41,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Normandie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Basse-Normandie</Paragraphe>
+<Paragraphe>Haute-Normandie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>35,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Occitanie </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Languedoc-Roussillon </Paragraphe>
+<Paragraphe>Midi-Pyrénées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>44,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Pays de la Loire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>48,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Provence-Alpes-Côte d'Azur</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>51,20 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Guadeloupe</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>41,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Guyane</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>42,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>La Réunion</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>51,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Martinique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>30,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Mayotte</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>30,00 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Tableau>
+<Titre>Taxe régionale  pour une nouvelle immatriculation selon la catégorie de véhicule</Titre>
+<Colonne largeur="25" type="header"/>
+<Colonne largeur="47" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de véhicules à immatriculer</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Caractéristiques</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Voiture particulière, tricycle à moteur, camionnette et utilitaire de moins de 3,5 tonnes de <LienIntra LienID="R15487" type="Définition de glossaire">PTAC</LienIntra>, voiturette</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Neuf ou  moins de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux plein</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Moitié du taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Moto (2 roues) de plus de 125 cm<Exposant>3</Exposant> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Neuve ou  moins de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Moitié du taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Quart du taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Moto (2 roues)  de moins de 125 cm<Exposant>3</Exposant>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Neuve ou  moins de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Moitié du coût d'un CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Quart du coût d'un CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Cyclomoteur à 2 roues ou  à 3 roues non carrossé (scooter de 50 cm<Exposant>3</Exposant> par exemple)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tout type</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Utilitaire avec un PTAC &gt; 3,5 tonnes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Neuf ou  moins de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Moitié du taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Quart du taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Tracteur routier</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Neuf ou  moins de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Moitié du taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe> Plus de 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Quart du taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Véhicule agricole</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tout type</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1,5 fois le coût d'un CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Remorque ou semi-remorque</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tout type</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1,5 fois le coût d'un CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Certificat W garage</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Concerne les <LienInterne LienPublication="F22637" type="Fiche d'information" audience="Professionnels">professionnels de l'automobile</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 fois le coût d'un CV</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Tableau>
+<Titre>Barème pour une modification ou un duplicata : taxe régionale selon la situation</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type de situation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Duplicata pour un 2 roues de moins de 125 cm<Exposant>3</Exposant>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1/4 du coût d'un CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Duplicata (sauf pour un 2 roues de moins de 125 cm<Exposant>3</Exposant>)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1  CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Changement d'adresse</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Changement de situation matrimoniale (mariage, divorce, veuvage)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Correction d'erreur de saisie sur le certificat</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Attribution d'un nouveau numéro d'immatriculation suite à usurpation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Vol, perte ou  détérioration du certificat d'un véhicule FNI (ancienne immatriculation de type "1234 AB 01") qui doit alors être converti <LienInterne LienPublication="F17638" type="Fiche Question-réponse" audience="Particuliers">en  numéro  SIV</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Nouveau certificat justifié par l'utilisation de toutes les cases des  contrôles techniques</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Modification des caractéristiques techniques du véhicule et de son usage</Paragraphe>
+<Paragraphe>Passage en véhicule de collection</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1 CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Changement du nom d'usage pour un 2 roues de moins de 125 cm<Exposant>3</Exposant>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1/4 du coût d'un CV</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Changement du nom d'usage (sauf pour un 2 roues de moins de 125 cm<Exposant>3</Exposant>)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1  CV</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Y2 - Formation professionnelle dans les transports</Paragraphe>
+</Titre><Paragraphe>Cette taxe <MiseEnEvidence>s'applique à tous les véhicules utilitaires</MiseEnEvidence> (transport de marchandises, transport en commun notamment).</Paragraphe>
+<Paragraphe> Le coût  est fonction du <LienIntra LienID="R15487" type="Définition de glossaire"> PTAC</LienIntra> du véhicule.</Paragraphe>
+<Tableau>
+<Titre>Coût de la taxe selon la catégorie de véhicule </Titre>
+<Colonne largeur="37" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>PTAC</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant de la taxe Y2</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieur ou égal à 3,5 tonnes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>34 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre  3,5  et  6 tonnes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>127 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre  6  et à 11 tonnes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>189 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieur à 11 tonnes </Paragraphe>
+<Paragraphe>ou véhicule de transport en commun</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>285 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Certains véhicules ou certaines opérations sont exonérés de la taxe Y2 :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> véhicule particulier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>véhicule de collection,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>voiturette (voiture sans permis),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>  certificat W garage et le certificat provisoire d'immatriculation (CPI) WW,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>duplicata de certificat d’immatriculation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>changement de domicile, d'état civil,  de dénomination sociale, de locataire ou d'usage,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>attribution d'un nouveau numéro suite à usurpation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>modification des caractéristiques techniques.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Y3 - Taxes sur les véhicules polluants</Paragraphe>
+</Titre><Paragraphe>Les <LienInterne LienPublication="F19911" type="Fiche d'information" audience="Particuliers">taxes sur les véhicules polluants</LienInterne> comprennent la  taxe CO<Indice>2</Indice> et l'écotaxe (appelée aussi <Expression>malus</Expression>). Elles ne s'appliquent qu'aux véhicules de tourisme.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Y4 - Taxe de gestion</Paragraphe>
+</Titre><Paragraphe>
+<Valeur>4 €</Valeur>
+</Paragraphe>
+<Paragraphe>Elle n'a pas à être payée si vous êtes exonéré de la taxe régionale (Y1).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Y5 - Redevance pour l'acheminement du certificat d'immatriculation</Paragraphe>
+</Titre><Paragraphe>D'un montant de <Valeur>2,76 €</Valeur>, elle n'a pas à être payée dans les cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>cyclomoteur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>correction d’erreur de saisie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les 3 premières étiquettes de changement d'adresse, si vous avez un nouveau modèle de carte (type <Expression>AB-123-CD</Expression>).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Règlement du coût</Paragraphe>
+</Titre><BlocCas type="modalite" affichage="onglet">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><Paragraphe>Vérifiez avant auprès de la préfecture ou de la sous-préfecture où vous souhaitez déposer votre dossier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les moyens de paiement acceptés (espèces ou chèque ou carte bancaire),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et, dans le cas d'un paiement par chèque, l'ordre à mentionner.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Exemple : à Paris, vous pouvez payer en espèces à la préfecture de police, en chèque à l'ordre du <Citation>Trésor Public</Citation> ou en carte bancaire (dans ce dernier cas, uniquement si le montant est supérieur à <Valeur>15 €</Valeur>).</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Vous ne pourrez pas payer plus de <Valeur>300 €</Valeur> en espèces</MiseEnEvidence>. Vous pourrez éventuellement compléter par un autre moyen de paiement (chèque ou carte bleue). Consultez le site internet de la préfecture avant de vous déplacer. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>un chèque de banque vous sera réclamé si le montant est supérieur à <Valeur>2 000 €</Valeur>.</Paragraphe>
+</Attention>
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Vous devez effectuer votre règlement  par chèque. Vérifiez avant l'ordre auquel l'établir : il est généralement indiqué sur le site internet de la préfecture. </Paragraphe>
+<Paragraphe>Si vous effectuez la  démarche  à Paris, établissez votre chèque à l'ordre du <Citation>Trésor Public</Citation>.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>un chèque de banque vous sera réclamé si le montant est supérieur à <Valeur>2 000 €</Valeur>.</Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<Complement>Pour vérifier l'ordre du chèque à établir et les moyens de paiement acceptés</Complement>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<Complement>Pour vérifier l'ordre du chèque à établir et les moyens de paiement acceptés, si la sous-préfecture se charge de cette formalité (se renseigner au préalable)</Complement>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R22425" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris - Bureau des cartes grises</Titre>
+<Complement>Pour connaître les modalités de réalisation de la démarche à Paris</Complement>
+<PivotLocal>paris_ppp_certificat_immatriculation</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Permis-de-conduire-et-papiers-du-vehicule/Certificat-immatriculation/Contacts/Nous-contacter-Certificat-d-immatriculation"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018619161&amp;cidTexte=LEGITEXT000006069577" ID="R19912">
+<Titre>Code général des impôts : article 1010 bis</Titre>
+<Complement>Taxe additionnelle à la taxe sur les certificats d'immatriculation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018029918&amp;cidTexte=LEGITEXT000006069577" ID="R19913">
+<Titre>Code général des impôts : articles 1011 bis et 1011 ter</Titre>
+<Complement>Malus applicable aux voitures particulières les plus polluantes</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179837&amp;cidTexte=LEGITEXT000006069577" ID="R12989">
+<Titre>Code général des impôts : articles 1599 quindecies à 1599 octodecies A</Titre>
+<Complement>Taxe sur les certificats d'immatriculation des véhicules</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177098&amp;cidTexte=LEGITEXT000006074228" ID="R778">
+<Titre>Code de la route : articles R322-1 à R322-14</Titre>
+<Complement>Délivrance du certificat d'immatriculation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031194838" ID="R20051">
+<Titre>Arrêté du 21 septembre 2015 portant fixation du tarif de la redevance d'acheminement des certificats d'immatriculation des véhicules</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020237128" ID="R20049">
+<Titre>Arrêté du 9 février 2009 fixant les caractéristiques et le mode de pose des plaques d'immatriculation des véhicules</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020237165" ID="R20050">
+<Titre>Arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules</Titre>
+</Reference>
+<ServiceEnLigne ID="R39696" URL="https://www.service-public.fr/simulateur/calcul/cout-certificat-immatriculation" type="Simulateur">
+<Titre>Simulateur du coût d'une carte grise</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R36064" URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures" audience="Particuliers">
+<Titre>Sites internet des préfectures</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<Definition ID="R15487">
+<Titre>PTAC</Titre>
+<Texte>
+				<Paragraphe>Poids total en charge du véhicule : poids maximal autorisé, c'est-à-dire poids du véhicule et de ce qu’il transporte (personnes, marchandises, etc.)</Paragraphe>
+			</Texte>
+</Definition>
+
+</Publication>

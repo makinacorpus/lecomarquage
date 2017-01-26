@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N159" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Divorce, séparation de corps</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Il existe quatre cas de divorce. Certains divorces sont de type contentieux (divorce pour faute, pour altération définitive du lien conjugal ou pour acceptation du principe de la rupture). À l'inverse, le divorce par consentement mutuel est de type non contentieux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-25</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N159</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N159" type="Dossier">Divorce, séparation de corps</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere>
+<Fiche ID="F980">Séparation de corps</Fiche>
+<Fiche ID="F10567">Divorce par consentement mutuel</Fiche>
+<Fiche ID="F10569">Divorce pour acceptation du principe de la rupture du mariage</Fiche>
+<Fiche ID="F10577">Divorce pour faute</Fiche>
+<Fiche ID="F10568">Divorce pour altération définitive du lien conjugal</Fiche>
+<Fiche ID="F1760">Prestation compensatoire</Fiche>
+<Introduction>
+<Texte>
+<Paragraphe>
+			Il existe quatre cas de divorce. Certains divorces sont de type contentieux (divorce pour faute, pour altération définitive du lien conjugal ou pour acceptation du principe de la rupture). À l'inverse, le divorce par consentement mutuel est de type non contentieux.
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N18775" audience="Particuliers">
+<Titre>Séparation des parents</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F18074" audience="Particuliers">
+<Titre>Aide juridictionnelle</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R17892" type="Centre de contact">
+<Titre>Violences Femmes Info - 3919</Titre><Texte>
+						
+								<Paragraphe>
+			Écoute, informe et oriente les femmes victimes de violences, ainsi que les témoins de violences faites à des femmes.
+		</Paragraphe>
+								<Paragraphe>
+			Traite les violences physiques, verbales ou psychologiques, à la maison ou au travail, et de toute nature (dont les harcèlements sexuels, les coups et blessures et les viols).
+		</Paragraphe>
+								<Paragraphe>
+			Ne traite pas les situations d'urgence (n'est pas un service de police ni de gendarmerie).
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>39 19</MiseEnEvidence>
+      (appel gratuit depuis un téléphone fixe ou mobile)
+    
+		</Paragraphe>
+								<Paragraphe>
+			Ouvert </Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>de 8h à 22h du lundi au vendredi,</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>et de 9h à 18h le samedi, le dimanche et les jours fériés.</Paragraphe>
+									</Item>
+								</Liste>
+								<Paragraphe>
+			Appel anonyme. </Paragraphe>
+								<Paragraphe>Appel ne figurant pas sur les factures de téléphone. </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R10791" type="Local personnalisé sur SP">
+<Titre>Centre d'information sur les droits des femmes (CIDF)</Titre>
+<PivotLocal>cidf</PivotLocal>
+<RessourceWeb URL="http://www.infofemmes.com/v2/p/Contact/Liste-des-CIDFF/73"/>
+</OuSAdresser>
+<OuSAdresser ID="R3037" type="National">
+<Titre>Centre de médiation familiale</Titre>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/#cmq_path=carte&amp;cmq_category=M%C3%A9diation%20familiale&amp;cmq_submit=Submit"/>
+</OuSAdresser>
+<OuSAdresser ID="R818" type="Local">
+<Titre>Centre de consultation conjugale</Titre>
+<RessourceWeb URL="http://www.afccc.fr/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=100073"/>
+</OuSAdresser>
+<ServiceEnLigne ID="R32704" URL="http://cnb.avocat.fr/docs/textes/CNB-FR-TXT-ACD_Conventions-honoraires-en-matiere-de-divorce%5BModele-2013-03-23-P%5D.pdf" format="application/pdf" poids="393.6 KB" type="Modèle de document">
+<Titre>Modèles de conventions d'honoraires d'avocat en matière de divorce</Titre>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19902" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=changementNomUsage" type="Téléservice">
+<Titre>Déclaration de changement de nom d'usage (nom de l'époux ou de l'épouse)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18606" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12821" numerocerfa="12821*01" type="Téléservice">
+<Titre>Demande de certificat de non-appel</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R16928" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=12821&amp;cerfaNotice=51438" numerocerfa="51438#02">Notice de demande d'un certificat de non-appel</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2000" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12785.do" numerocerfa="12785*02" type="Formulaire">
+<Titre>Demande d'exercice conjoint de l'autorité parentale</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R2846" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51142&amp;cerfaFormulaire=12785" numerocerfa="51143#02">Notice de déclaration conjointe d'exercice en commun de l'autorité parentale</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42412" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15458.do" numerocerfa="15458*01" type="Formulaire">
+<Titre>Requête au juge aux affaires familiales en vue de la délivrance d'une ordonnance de protection</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R42413" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52038%2301&amp;cerfaFormulaire=15458*01" numerocerfa="52038*01">Notice relative à la demande de délivrance d'une ordonnance de protection</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R3111" URL="http://www.insee.fr/fr/bases-de-donnees/bsweb/serie.asp?idbank=000641194" audience="Particuliers">
+<Titre>Évolution de l'indice des prix à la consommation : ensemble des ménages</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18385" URL="http://europa.eu/youreurope/citizens/family/couple/divorce-separation/index_fr.htm" audience="Particuliers">
+<Titre>Divorce et séparation légale - Couple installé dans l'Union européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16884" URL="http://www.insee.fr/fr/service/reviser/calcul-pension.asp" audience="Particuliers">
+<Titre>Comment revaloriser le montant de la pension alimentaire ?</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F11301" audience="Particuliers">Comment faire constater l'abandon du domicile conjugal ?</QuestionReponse>
+<QuestionReponse ID="F12561" audience="Particuliers">Peut-on changer de type de divorce pendant la procédure ?</QuestionReponse>
+<QuestionReponse ID="F10623" audience="Particuliers">Divorce et séparation de corps : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F10479" audience="Particuliers">Un enfant mineur peut-il être entendu par le juge lors d'un divorce ?</QuestionReponse>
+<QuestionReponse ID="F10892" audience="Particuliers">Que deviennent les donations entre époux en cas de divorce ?</QuestionReponse>
+<QuestionReponse ID="F903" audience="Particuliers">Comment s'effectue le partage des biens après divorce ?</QuestionReponse>
+<QuestionReponse ID="F2730" audience="Particuliers">Peut-on revenir sur le partage des biens résultant d'un divorce ?</QuestionReponse>
+<CommentFaireSi ID="F33362">Je me sépare</CommentFaireSi>
+
+</Publication>

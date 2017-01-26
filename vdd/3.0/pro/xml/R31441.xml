@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31441" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de certificat individuel professionnel produits phytopharmaceutiques</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Permet d'accéder, avec identifiant et mot de passe, au service de demande de certificat d'utilisation de produits phytosanitaires, délivré par le directeur de l'alimentation, de l'agriculture et de la forêt (DRAAF ou DAAF).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-16</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31441</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23662">Obligations en matière d'agriculture</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31441" type="Téléservice">Demande de certificat individuel professionnel produits phytopharmaceutiques</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet d'accéder, avec identifiant et mot de passe, au service de demande de certificat d'utilisation de produits phytosanitaires, délivré par le directeur de l'alimentation, de l'agriculture et de la forêt (DRAAF ou DAAF).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte>
+				<Paragraphe> </Paragraphe>
+			
+
+</Texte>
+<LienWeb URL="https://psl.service-public.fr/mademarche/CIPHYTO/demarche">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb>
+<FicheLiee ID="F31192" audience="Professionnels" type="Fiche d'information">
+<Titre>Certificat individuel de produits phytopharmaceutiques (Certiphyto)</Titre>
+<Dossier ID="N23662">Obligations en matière d'agriculture</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

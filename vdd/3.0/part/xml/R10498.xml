@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R10498" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Réclamation en cas de litige avec une entreprise membre de la Fédération des entreprises de vente à distance</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Réclamation en cas de litige avec une entreprise membre de la Fédération des entreprises de vente à distance - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-29</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R10498</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N10515">Achat à distance</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R10498" type="Téléservice">Réclamation en cas de litige avec une entreprise membre de la Fédération des entreprises de vente à distance</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Si vos démarches auprès du service client d'une entreprise membre de la Fédération des entreprises de vente à distance (Fevad) ont échoué. Cette fédération compte parmi ses membres les grandes enseignes de la vente à distance et les principaux spécialistes de la vente sur internet. </Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.fevad.com/mediation/saisir-la-mediation-1">
+<Source>Fédération du e-commerce et de la vente à distance (Fevad)</Source>
+</LienWeb>
+<FicheLiee ID="F10868" audience="Particuliers" type="Fiche d'information">
+<Titre>Recours en cas de litige après un achat à distance (par internet ou téléphone)</Titre>
+<Dossier ID="N10515">Achat à distance</Dossier>
+</FicheLiee>
+<Dossier ID="N10515">
+<Titre>Achat à distance</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1342" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint (régime général)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint (régime général) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-14</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1342</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1342" type="Formulaire">Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint (régime général)</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12045*01</NumeroCerfa>
+<AutreNumero>S6102a</AutreNumero>
+<Texte><Paragraphe>Permet à l'assuré au régime général de sécurité sociale de demander la conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6102.pdf">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F14840" audience="Particuliers" type="Fiche d'information">
+<Titre>Accident du travail : indemnisation en cas d'incapacité permanente</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F348" audience="Particuliers" type="Fiche d'information">
+<Titre>Maladie professionnelle : indemnisation en cas d'incapacité permanente</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+<Dossier ID="N526">
+<Titre>Maladie, accident du travail ou invalidité dans le secteur privé</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

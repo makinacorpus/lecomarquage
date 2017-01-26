@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R36296" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de retraite anticipée pour carrière longue</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Demande de retraite anticipée pour carrière longue - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R36296</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N381">Retraite des salariés du secteur privé</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R36296" type="Formulaire">Demande de retraite anticipée pour carrière longue</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>51687*01</NumeroCerfa>
+<AutreNumero>S 5137a</AutreNumero>
+<Texte><Paragraphe>Ce formulaire concerne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les salariés du régime général,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les salariés et non salariés agricoles (MSA),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les artisans et commerçants (RSI),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les assurés du régime des cultes (Cavimac).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À remplir uniquement si votre caisse de retraite vous a adressé une attestation de votre situation confirmant que vous remplissez les droits pour un départ anticipé pour carrière longue.</Paragraphe>
+<Paragraphe>Votre caisse vous adresse un exemplaire du formulaire de demande de retraite anticipée pour carrière longue.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/Guides%20et%20formulaires/demande-retraite-avant-60.pdf">
+<Source>Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</LienWeb>
+<FicheLiee ID="F13845" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite du salarié : retraite anticipée pour carrière longue</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

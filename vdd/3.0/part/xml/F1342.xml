@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1342" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carte nationale d'identité d'un mineur : première demande</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>L'enfant et l'un de ses parents doivent se rendre en mairie avec les pièces justificatives nécessaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2016-12-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1342</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350877&amp;cidTexte=LEGITEXT000006060725, http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020549506&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F1342" type="Fiche d'information">Carte nationale d'identité d'un mineur : première demande</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Pour un mineur</SousDossierPere>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Si l'enfant vit en France</Titre>
+<Texte><Paragraphe>Pour demander la carte d'identité d'un mineur, l'enfant et son responsable doivent se rendre en mairie avec les pièces justificatives nécessaires. Les documents à présenter dépendent de la situation de l'enfant et notamment de la possession d'un passeport sécurisé.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui doit faire la demande ?</Paragraphe>
+</Titre>
+						<Paragraphe>L'enfant et son responsable doivent se présenter ensemble au guichet. Leur présence est indispensable.</Paragraphe>
+						<Paragraphe>Le responsable doit exercer <LienInterne LienPublication="F18605" type="Fiche Question-réponse" audience="Particuliers">l'autorité parentale</LienInterne>. Il peut s'agir du père, de la mère ou du tuteur. Il doit présenter sa propre pièce d'identité.</Paragraphe>
+					
+						<Paragraphe>La signature de l'enfant est prise au guichet. S'il ne sait pas écrire, c'est son responsable qui signe.</Paragraphe>
+					
+<Paragraphe>Tout mineur français peut avoir une carte d'identité quel que soit son âge (même un bébé).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où et comment faire la demande ?</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre>
+										<Paragraphe>À la mairie de votre domicile</Paragraphe>
+									
+										<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+									<Attention>
+<Titre>Attention</Titre>
+										<Paragraphe>le service peut exiger que le dépôt du dossier se fasse uniquement sur rendez-vous.</Paragraphe>
+									</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En Bretagne</Paragraphe>
+</Titre>
+										<Paragraphe>Vous pouvez vous rendre dans une mairie équipée pour recevoir les demandes de carte d'identité :</Paragraphe>
+									
+										<OuSAdresser ID="R45973" type="Local">
+<Titre>Mairie délivrant des cartes d'identité en Bretagne</Titre>
+<RessourceWeb URL="http://www.ille-et-vilaine.gouv.fr/Demarches-administratives/Carte-d-identite#liste_communes"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+
+									<Attention>
+<Titre>Attention</Titre>
+										<Paragraphe>le service peut exiger que le dépôt du dossier se fasse uniquement sur rendez-vous.</Paragraphe>
+									</Attention>
+										<Paragraphe>Vous pouvez préparer la démarche en effectuant une pré-demande en ligne.</Paragraphe>
+									
+										<ServiceEnLigne ID="R45668" URL="https://passeport.ants.gouv.fr/Services-associes/Faire-une-pre-demande-CNI" type="Téléservice">
+<Titre>Pré-demande de carte d'identité (Bretagne et 78 uniquement)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Pour utiliser ce télé-service, il faut créer votre compte puis saisir  les informations dans  <Citation>Pré-demande CNI</Citation> en ligne (rubrique Mon compte &gt; Effectuer une nouvelle pré-demande).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+<Paragraphe>La mairie récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+<Paragraphe>Conservez le numéro de votre  Pré-demande  : il est indispensable à la mairie.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+									
+										<Paragraphe>Il faudra ensuite vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+										<Paragraphe>Le guichet récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et prendra les empreintes.</Paragraphe>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre>
+										<OuSAdresser ID="R41880" type="Local personnalisable">
+<Titre>Antenne de la Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp_antenne_cni_passeport</PivotLocal>
+<RessourceWeb URL="https://www.rdv-ppol.interieur.gouv.fr/"/>
+<Source ID="R30800">Préfecture de police de Paris</Source>
+</OuSAdresser>
+
+									
+										<Paragraphe>Uniquement sur rendez-vous.</Paragraphe>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Dans les Yvelines (78)</Paragraphe>
+</Titre>
+										<Paragraphe>Vous devez vous rendre dans l'une des mairies suivantes : </Paragraphe>
+									
+										
+									
+										<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+									<Attention>
+<Titre>Attention</Titre>
+										<Paragraphe>le service peut exiger que le dépôt du dossier se fasse uniquement sur rendez-vous.</Paragraphe>
+									</Attention>
+										<Paragraphe>Vous pouvez préparer la démarche en effectuant une pré-demande en ligne.</Paragraphe>
+									
+										<ServiceEnLigne ID="R45668" URL="https://passeport.ants.gouv.fr/Services-associes/Faire-une-pre-demande-CNI" type="Téléservice">
+<Titre>Pré-demande de carte d'identité (Bretagne et 78 uniquement)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Pour utiliser ce télé-service, il faut créer votre compte puis saisir  les informations dans  <Citation>Pré-demande CNI</Citation> en ligne (rubrique Mon compte &gt; Effectuer une nouvelle pré-demande).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+<Paragraphe>La mairie récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+<Paragraphe>Conservez le numéro de votre  Pré-demande  : il est indispensable à la mairie.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+									
+										<Paragraphe>Il faudra ensuite vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+										<Paragraphe>Le guichet récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et prendra les empreintes.</Paragraphe>
+									
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre type="pieces">
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre>
+				<Paragraphe>Un formulaire de demande de carte d'identité est remis au guichet. Vous devez <LienInterne LienPublication="F33640" type="Fiche Question-réponse" audience="Particuliers">le remplir</LienInterne> et le signer.</Paragraphe>
+			
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'enfant a un passeport</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Passeport valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>2 photos d'identité identiques et <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conformes aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Passeport périmé</Paragraphe>
+</Titre><Paragraphe>Les démarches sont simplifiées si le <LienInterne LienPublication="F11603" type="Fiche Question-réponse" audience="Particuliers">passeport est sécurisé (électronique ou biométrique)</LienInterne>. </Paragraphe>
+<Tableau>
+<Titre>Pièces à fournir en fonction du type de  passeport</Titre>
+<Colonne largeur="42" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Rangée type="header">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Si le passeport est sécurisé</Paragraphe>
+</Cellule>
+<Cellule fusionVerticale="2">
+<Paragraphe>Si le passeport est un ancien modèle </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Passeport périmé depuis moins de 5 ans </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si le passeport est plus ancien </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 photos d'identité identiques et conformes <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">aux normes exigées</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 photos d'identité identiques et conformes <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">aux normes exigées</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 photos d'identité identiques et conformes <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">aux normes exigées</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passeport <LienInterne LienPublication="F11603" type="Fiche Question-réponse" audience="Particuliers">biométrique ou électronique</LienInterne> périmé depuis moins de 5 ans : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>  <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> de l'enfant daté de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> (extrait avec filiation ou copie intégrale)
+            
+		 : original</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> de l'enfant daté de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> (extrait avec filiation ou copie intégrale)
+            
+		 : original</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule/>
+<Cellule>
+<Paragraphe>Si l'acte de naissance  ne permet  pas de prouver  la nationalité, un <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">justificatif de nationalité française</LienInterne> : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si le justificatif d'état civil ne permet  pas de prouver  la nationalité, un <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">justificatif de nationalité française</LienInterne> : original + photocopie</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'enfant n'a pas de passeport</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>2 photos d'identité identiques et <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conformes aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> (copie intégrale ou extrait avec filiation) : original </Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si  l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>si vous souhaitez que l'enfant utilise un nom d'usage (double-nom), d'autres documents vous seront  réclamés pour justifier l'utilisation du <LienInterne LienPublication="F1343" type="Fiche d'information" audience="Particuliers">nom de l'autre parent</LienInterne>.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre>
+<Paragraphe>Gratuit</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai de fabrication</Paragraphe>
+</Titre>
+<Paragraphe>La carte d'identité  n'est pas fabriquée sur place et ne peut donc pas être délivrée immédiatement. Les délais de fabrication dépendent du lieu et de la période de la demande. Par exemple, à l'approche des vacances d'été, les délais sont susceptibles d'augmenter de manière significative.</Paragraphe>
+
+				<Paragraphe>Si vous avez indiqué un numéro de mobile sur le formulaire, vous êtes  alerté par SMS des que la carte est disponible.</Paragraphe>
+			
+				<ServiceEnLigne ID="R1580" URL="https://www.suivi-cni.interieur.gouv.fr/" type="Téléservice">
+<Titre>Suivez votre demande de carte d'identité</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+<Introduction>
+<Texte><Paragraphe>Pour savoir si votre carte est disponible au guichet ou pour laisser vos coordonnées (téléphone mobile ou adresse électronique), pour être informé de la disponibilité de la carte.</Paragraphe>
+<Paragraphe>Saisissez votre numéro de demande (10 chiffres) </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Ce système d'alerte n'existe pas à Paris ni outre-mer.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+			
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait de la carte</Paragraphe>
+</Titre><Paragraphe>La carte doit être retirée par le parent au lieu du dépôt du dossier.</Paragraphe>
+<Paragraphe>Elle  doit être  retirée  dans un délai de <MiseEnEvidence>3 mois</MiseEnEvidence> suivant sa mise à disposition. Passé ce délai, la nouvelle carte  est détruite.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre>
+<Paragraphe>10 ans</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Si l'enfant vit à l'étranger</Titre>
+<Texte><Paragraphe>Pour demander la carte d'identité d'un mineur, l'enfant et son responsable doivent se rendre au consulat avec les pièces justificatives nécessaires. Les documents à présenter dépendent de la situation de l'enfant et notamment de la possession d'un passeport sécurisé.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui doit faire la demande ?</Paragraphe>
+</Titre>
+						<Paragraphe>L'enfant et son responsable doivent se présenter ensemble au guichet. Leur présence est indispensable.</Paragraphe>
+						<Paragraphe>Le responsable doit exercer <LienInterne LienPublication="F18605" type="Fiche Question-réponse" audience="Particuliers">l'autorité parentale</LienInterne>. Il peut s'agir du père, de la mère ou du tuteur. Il doit présenter sa propre pièce d'identité.</Paragraphe>
+					
+						<Paragraphe>La signature de l'enfant est prise au guichet. S'il ne sait pas écrire, c'est son responsable qui signe.</Paragraphe>
+					
+<Paragraphe>Tout mineur français peut avoir une carte d'identité quel que soit son âge (même un bébé).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où faire la demande ?</Paragraphe>
+</Titre><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre>
+												<Paragraphe>le service peut exiger que le dépôt du dossier se fasse uniquement sur rendez-vous.</Paragraphe>
+											</Attention>
+</Chapitre>
+<Chapitre type="pieces">
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre>
+				<Paragraphe>Un formulaire de demande de carte d'identité est remis au guichet. Vous devez <LienInterne LienPublication="F33640" type="Fiche Question-réponse" audience="Particuliers">le remplir</LienInterne> et le signer.</Paragraphe>
+			
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>L'enfant a un passeport</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Passeport valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Passeport de l'enfant : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>2 photos d'identité identiques et <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conformes aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Passeport périmé</Paragraphe>
+</Titre><Paragraphe>Les démarches sont simplifiées si le <LienInterne LienPublication="F11603" type="Fiche Question-réponse" audience="Particuliers">passeport est sécurisé (électronique ou biométrique)</LienInterne>. </Paragraphe>
+<Tableau>
+<Titre>Pièces à fournir en fonction du type de  passeport</Titre>
+<Colonne largeur="42" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Rangée type="header">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Si le passeport est sécurisé</Paragraphe>
+</Cellule>
+<Cellule fusionVerticale="2">
+<Paragraphe>Si le passeport est un ancien modèle </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Passeport périmé depuis moins de 5 ans </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si le passeport est plus ancien </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 photos d'identité identiques et conformes <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">aux normes exigées</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 photos d'identité identiques et conformes <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">aux normes exigées</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 photos d'identité identiques et conformes <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">aux normes exigées</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Passeport <LienInterne LienPublication="F11603" type="Fiche Question-réponse" audience="Particuliers">biométrique ou électronique</LienInterne> périmé depuis moins de 5 ans : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>  <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> de l'enfant daté de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> (extrait avec filiation ou copie intégrale)
+            
+		 : original</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> de l'enfant daté de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> (extrait avec filiation ou copie intégrale)
+            
+		 : original</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule/>
+<Cellule>
+<Paragraphe>Si l'acte de naissance  ne permet  pas de prouver  la nationalité, un <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">justificatif de nationalité française</LienInterne> : original + photocopie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si le justificatif d'état civil ne permet  pas de prouver  la nationalité, un <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">justificatif de nationalité française</LienInterne> : original + photocopie</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'enfant n'a pas de passeport</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>2 photos d'identité identiques et <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conformes aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> (copie intégrale ou extrait avec filiation) : original </Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si  l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>si vous souhaitez que l'enfant utilise un nom d'usage (double-nom), d'autres documents vous seront  réclamés pour justifier l'utilisation du <LienInterne LienPublication="F1343" type="Fiche d'information" audience="Particuliers">nom de l'autre parent</LienInterne>.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre>
+<Paragraphe>Gratuit</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fabrication</Paragraphe>
+</Titre><Paragraphe>La carte d'identité n'est pas délivrée immédiatement. </Paragraphe>
+<Paragraphe>Les délais de fabrication dépendent du lieu et de la période de la demande. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait de la carte</Paragraphe>
+</Titre><Paragraphe>La carte doit être retirée par le parent au lieu du dépôt du dossier.</Paragraphe>
+<Paragraphe>Elle  doit être  retirée  dans un délai de <MiseEnEvidence>3 mois</MiseEnEvidence> suivant sa mise à disposition. Passé ce délai, la nouvelle carte  est détruite.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre>
+<Paragraphe>10 ans</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F1359" audience="Particuliers">
+<Titre>Autorisation de sortie du territoire (AST)</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028350877&amp;cidTexte=LEGITEXT000006060725" ID="R743">
+<Titre>Décret n°55-1397 du 22 octobre 1955 relatif à la carte d'identité : article 4 - Pièces à fournir pour une première demande</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf" ID="R11425" format="application/pdf" poids="1.6 MB">
+<Titre>Circulaire du 1er mars 2010 relative à la simplification de la délivrance des cartes nationales d'identité et des passeports</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020549506&amp;cidTexte=LEGITEXT000006069577" ID="R2051">
+<Titre>Code général des impôts : articles 1628-0-bis à 1628 ter</Titre>
+</Reference>
+<ServiceEnLigne ID="R1406" URL="https://mdel.mon.service-public.fr/acte-etat-civil.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1405" URL="https://pastel.diplomatie.gouv.fr/Dali/index2.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1580" URL="https://www.suivi-cni.interieur.gouv.fr/" type="Téléservice">
+<Titre>Suivez votre demande de carte d'identité</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45668" URL="https://passeport.ants.gouv.fr/Services-associes/Faire-une-pre-demande-CNI" type="Téléservice">
+<Titre>Pré-demande de carte d'identité (Bretagne et 78 uniquement)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F11601" audience="Particuliers">Est-on obligé d'avoir une carte d'identité ?</QuestionReponse>
+<QuestionReponse ID="F12567" audience="Particuliers">Quels recours si mon dossier est rejeté ?</QuestionReponse>
+<QuestionReponse ID="F18605" audience="Particuliers">Comment prouver l'autorité parentale ?</QuestionReponse>
+<QuestionReponse ID="F1922" audience="Particuliers">Avec quels documents un mineur peut-il voyager à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F3068" audience="Particuliers">Dans quels cas un enfant est-il Français ?</QuestionReponse>
+<QuestionReponse ID="F32675" audience="Particuliers">Quel justificatif de domicile ?</QuestionReponse>
+<QuestionReponse ID="F33640" audience="Particuliers">Comment remplir le formulaire de demande de carte d'identité ?</QuestionReponse>
+
+
+
+
+
+
+
+
+</Publication>

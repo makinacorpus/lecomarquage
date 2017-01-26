@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2026" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dépôt d'une requête devant le juge administratif</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>La requête est le document écrit par lequel le demandeur expose sa demande au juge administratif. Pour être recevable, la requête doit remplir plusieurs conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-06-22</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2026</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449919&amp;idSectionTA=LEGISCTA000006150450&amp;cidTexte=LEGITEXT000006070933, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449929&amp;idSectionTA=LEGISCTA000006150451&amp;cidTexte=LEGITEXT000006070933, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150453&amp;cidTexte=LEGITEXT000006070933</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N560</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N560">Agir en justice contre l'administration</Niveau>
+<Niveau ID="F2026" type="Fiche d'information">Dépôt d'une requête devant le juge administratif</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20114">Relations avec l'administration</SousThemePere><DossierPere ID="N560">
+<Titre>Agir en justice contre l'administration</Titre><SousDossier ID="N560-1">
+<Titre>Déroulement d'une affaire</Titre>
+<Fiche ID="F2478">Conditions de saisine</Fiche>
+<Fiche ID="F2640">Détermination de la juridiction compétente</Fiche>
+<Fiche ID="F2026">Dépôt de la requête</Fiche>
+<Fiche ID="F2479">Déroulement du procès</Fiche>
+</SousDossier>
+<SousDossier ID="N560-2">
+<Titre>Procédures d'urgence et autres référés</Titre>
+<Fiche ID="F2551">Référé liberté</Fiche>
+<Fiche ID="F2549">Référé suspension</Fiche>
+<Fiche ID="F2553">Référé conservatoire</Fiche>
+<Fiche ID="F2554">Référé constat</Fiche>
+<Fiche ID="F2555">Référé expertise</Fiche>
+<Fiche ID="F2556">Référé provision</Fiche>
+</SousDossier>
+<SousDossier ID="N560-3">
+<Titre>Voies de recours</Titre>
+<Fiche ID="F2494">Appel devant la cour administrative d'appel</Fiche>
+<Fiche ID="F2495">Appel devant le Conseil d'État</Fiche>
+<Fiche ID="F2496">Recours en cassation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Déroulement d'une affaire</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La requête est le document écrit par lequel le demandeur expose sa demande au juge administratif. Pour être recevable, la requête doit remplir plusieurs conditions.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Forme de la requête</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Support matériel de la requête</Paragraphe>
+</Titre><Paragraphe>Il s'agit d'une lettre, rédigée sur papier libre, dans laquelle vous devez exposer votre demande.</Paragraphe>
+<Paragraphe>Elle doit être rédigée en français et être manuscrite (elle doit être parfaitement lisible) ou dactylographiée.</Paragraphe>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisable">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><Paragraphe>La demande doit être remise au greffe du tribunal administratif compétent.</Paragraphe><OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>La demande doit être adressée au greffe du tribunal administratif compétent. Par correspondance, il est préférable de recourir à une lettre recommandée avec demande d'avis de réception.</Paragraphe><OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pluralité de décisions attaquées ou de demandeurs</Paragraphe>
+</Titre><Paragraphe>Si vous voulez attaquer plusieurs décisions, vous devez établir une requête par acte.</Paragraphe>
+<Paragraphe>Si une décision est contestée par plusieurs demandeurs, un représentant unique doit être désigné. Il sera l'interlocuteur privilégié de la juridiction saisie. À défaut de désignation, la juridiction s'adresse au premier dénommé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Respect des conditions</Paragraphe>
+</Titre><Paragraphe>Vous devez démontrer que vous remplissez toutes les <LienInterne LienPublication="F2478" type="Fiche d'information" audience="Particuliers">conditions pour saisir</LienInterne> le juge administratif.</Paragraphe>
+<Paragraphe>Une attention particulière doit être apportée à la question des délais. La date faisant foi est celle à laquelle le tribunal enregistre la demande (et non la date d'envoi).</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si la décision attaquée ne comporte pas mention des délais de recours, il ne peut pas vous être reproché  d'agir hors délai.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à joindre</Paragraphe>
+</Titre><Paragraphe>Il faut joindre :  </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une copie de la décision attaquée ou une copie de la demande adressée à l'administration et l'accusé de réception lorsque l'administration s'est abstenue de répondre (<LienInterne LienPublication="F32388" type="Fiche d'information" audience="Particuliers">décision implicite</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>toutes les pièces justificatives utiles de produire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'ensemble de ces pièces doit être adressé à la juridiction saisie en autant d'exemplaires qu'il y a de parties à l'affaire plus 2.  Par exemple, lorsqu‘il n'y a que deux parties au litige (le requérant et le défendeur), la requête devra être déposée ou envoyée en quatre exemplaires. Sinon, la requête n'est pas recevable.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contenu de la requête</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Généralités</Paragraphe>
+</Titre><Paragraphe>La requête indique les nom et domicile des parties.</Paragraphe>
+<Paragraphe>Elle doit exposer les circonstances de l'affaire et vos arguments.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Demande d'annulation d'une décision</Paragraphe>
+</Titre><Paragraphe>La cause de l'annulation doit être clairement visée dans votre demande (violation du texte précisément désigné, motifs erronés, vice de procédure, incompétence de l'autorité).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Demande de réparation du préjudice</Paragraphe>
+</Titre><Paragraphe>La requête doit exposer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la preuve de la responsabilité de l'administration,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'existence du préjudice,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'étendue des dommages.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de demande d'indemnisation, le montant doit être précis et détaillé.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Représentation par un avocat</Paragraphe>
+</Titre><Paragraphe>La représentation par un <LienInterne LienPublication="F2153" type="Fiche d'information" audience="Particuliers">avocat</LienInterne> n'est obligatoire devant le tribunal administratif que si une somme d'argent ou un contrat sont en jeu <MiseEnEvidence>et</MiseEnEvidence> si le litige ne porte :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ni sur des travaux publics, des contrats relatifs au domaine public, des contraventions de grande voirie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ni sur les contributions directes, les taxes sur le chiffre d'affaires et taxes assimilées,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ni sur des décisions d'ordre individuel concernant les agents publics,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ni sur les pensions, l'aide sociale, l'aide personnalisée au logement, les emplois réservés et l'indemnisation des rapatriés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ni sur l'exécution d'un jugement définitif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ni sur des décisions d'une collectivité territoriale ou d'un établissement public en relevant.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour financer le recours à un avocat, vous pouvez demander à bénéficier de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Notification aux parties</Paragraphe>
+</Titre><Paragraphe>La notification du dépôt de la requête aux parties est obligatoire, à peine d'irrecevabilité, si le recours concerne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F1633" type="Fiche d'information" audience="Particuliers">certificat d'urbanisme</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une décision de non-opposition à une <LienInterne LienPublication="F17578" type="Fiche d'information" audience="Particuliers">déclaration préalable</LienInterne> prévue par le code de l'urbanisme,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un permis de <LienInterne LienPublication="F1986" type="Fiche d'information" audience="Particuliers">construire</LienInterne>, <LienInterne LienPublication="F17665" type="Fiche d'information" audience="Particuliers">d'aménager</LienInterne> ou de <LienInterne LienPublication="F17669" type="Fiche d'information" audience="Particuliers">démolir</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La notification doit être faite dans les 15 jours suivant le dépôt de la requête, par son auteur par lettre recommandée avec avis de réception.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Gratuit</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Effet de la saisine</Paragraphe>
+</Titre><Paragraphe>Le fait de saisir la juridiction administrative n'empêche pas la décision attaquée de produire ses effets. Le recours n'est pas suspensif.</Paragraphe>
+<Paragraphe>Dans certains cas, afin d'éviter qu'une décision discutable ne produise des effets graves, irréversibles ou irréparables, vous pouvez demander que des mesures provisoires de précaution soient prises en urgence, dans l'attente du jugement. Vous devez engager une <LienInterne LienPublication="F2548" type="Fiche Question-réponse" audience="Particuliers">procédure de référé</LienInterne>.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449919&amp;idSectionTA=LEGISCTA000006150450&amp;cidTexte=LEGITEXT000006070933" ID="R10185">
+<Titre>Code de justice administrative : articles R411-1 à R411-7</Titre>
+<Complement>Présentation de la requête</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449929&amp;idSectionTA=LEGISCTA000006150451&amp;cidTexte=LEGITEXT000006070933" ID="R781">
+<Titre>Code de justice administrative : articles R412-1 à R412-3</Titre>
+<Complement>Pièces jointes à la requête</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150453&amp;cidTexte=LEGITEXT000006070933" ID="R2068">
+<Titre>Code de justice administrative : articles R431-1 à R431-10-1</Titre>
+<Complement>Représentation des parties devant le tribunal administratif</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R3032" URL="http://www.conseil-etat.fr/Conseil-d-Etat/Demarches-Procedures/Decouvrir-la-justice-administrative-et-son-organisation/Pourquoi-une-justice-administrative" audience="Particuliers">
+<Titre>Pourquoi une justice administrative ?</Titre>
+<Source ID="R30728">Conseil d'État</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16788" URL="http://www.conseil-etat.fr/Tribunaux-Cours/Organisation/Repartition-des-competences-au-sein-de-la-juridiction-administrative" audience="Particuliers">
+<Titre>Répartition des compétences au sein des juridictions administratives</Titre>
+<Source ID="R30728">Conseil d'État</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F12956" audience="Particuliers">Où obtenir la liste des traducteurs agréés ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1537" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Réception d'un chèque sans provision</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Gestion - Finances</dc:subject>
+<dc:description>Une personne ayant reçu un chèque sans provision peut quand même en demander le paiement par la suite. La procédure se fait avec ou sans l'accord de l'auteur du chèque.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2015-06-15</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1537</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006645095&amp;idSectionTA=LEGISCTA000006170828&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170833&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185330&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31384</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Artisan, Auto-entrepreneur, Commerçant</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31384">Facturation - Paiement</Niveau>
+<Niveau ID="F1537" type="Fiche d'information">Réception d'un chèque sans provision</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31382">Comptabilité</SousThemePere><DossierPere ID="N31384">
+<Titre>Facturation - Paiement</Titre>
+<Fiche ID="F31144">Devis</Fiche>
+<Fiche ID="F23208">Facturation</Fiche>
+<Fiche ID="F31808">Mentions obligatoires sur une facture</Fiche>
+<Fiche ID="F33527">Conditions générales de vente entre professionnels (CGV)</Fiche>
+<Fiche ID="F23211">Délais de paiement entre professionnels et pénalités de retard</Fiche>
+<Fiche ID="F33369">Se faire payer par carte bancaire</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Une personne ayant reçu un chèque sans provision peut quand même en demander le paiement par la suite. La procédure se fait avec ou sans l'accord de l'auteur du chèque.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Procédure amiable</Paragraphe>
+</Titre><Paragraphe>Cette procédure est réglée uniquement entre l'émetteur du chèque sans provision (le débiteur) et son destinataire (le créancier).</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Attestation de rejet</Paragraphe>
+</Titre><Paragraphe>Après l'émission d'un chèque sans provision, la banque du débiteur informe la banque du créancier que le paiement ne peut pas être assuré.</Paragraphe>
+<Paragraphe>Celle-ci adresse au créancier une attestation de rejet de chèque pour défaut de provision.</Paragraphe>
+<Paragraphe>Le créancier peut alors pendant un délai de 30 jours :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>demander une nouvelle présentation du chèque,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="R22230" type="Modèle de document" audience="Professionnels">demander directement</LienInterne> au débiteur de régulariser la situation, en alimentant son compte bancaire ou en payant par un autre moyen.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Certificat de non-paiement</Paragraphe>
+</Titre><Paragraphe>Au terme de 30 jours sans paiement, un certificat de non-paiement est remis par la banque au créancier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à sa <LienInterne LienPublication="R22237" type="Modèle de document" audience="Professionnels">demande</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou d'office, dans le cas d'une nouvelle présentation de chèque infructueuse.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La remise du certificat de non-paiement permet de passer de la procédure amiable au recouvrement forcé avec appel à un huissier.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le certificat de non-paiement concerne nécessairement un chèque d'un montant supérieur à <Valeur>15 €</Valeur>. Pour un montant inférieur, un chèque est toujours payé par la banque du débiteur. </Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Procédure forcée</Paragraphe>
+</Titre><Paragraphe>Cette procédure peut être contraignante pour le débiteur et fait appel à un huissier de justice.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Injonction de payer</Paragraphe>
+</Titre><Paragraphe>Quand la procédure amiable a échoué, le porteur du chèque peut demander à un <LienInterne LienPublication="F2158" type="Fiche d'information" audience="Particuliers">huissier de justice</LienInterne> de <LienIntra LienID="R10915" type="Définition de glossaire">signifier</LienIntra> au débiteur le certificat de non-paiement.</Paragraphe>
+<Paragraphe>La signification vaut commandement de payer. Le débiteur est obligé de régler sa dette dans les 15 jours.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exécution forcée</Paragraphe>
+</Titre><Paragraphe>À défaut de régularisation sous 15 jours, l'huissier de justice peut alors engager toute procédure d'exécution forcée (une <LienInterne LienPublication="F115" type="Fiche d'information" audience="Particuliers">saisie sur salaire</LienInterne> par exemple).</Paragraphe>
+<Paragraphe>Les frais d'une telle procédure sont à la charge du débiteur.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006645095&amp;idSectionTA=LEGISCTA000006170828&amp;cidTexte=LEGITEXT000006072026" ID="R627">
+<Titre>Code monétaire et financier : articles L131-47 à L131-55</Titre>
+<Complement>Recours en cas de non-paiement</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170833&amp;cidTexte=LEGITEXT000006072026" ID="R402">
+<Titre>Code monétaire et financier : articles L131-69 à L131-87</Titre>
+<Complement>Incidents de paiement et sanctions</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185330&amp;cidTexte=LEGITEXT000006072026" ID="R22323">
+<Titre>Code monétaire et financier : articles R131-46 à R131-51</Titre>
+<Complement>Certificat de non-paiement</Complement>
+</Reference>
+<ServiceEnLigne ID="R22230" URL="" type="Modèle de document">
+<Titre>Demander la régularisation amiable d'un chèque sans provision à son émetteur</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R22237" URL="" type="Modèle de document">
+<Titre>Demander un certificat de non-paiement</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<Definition ID="R10915">
+<Titre>Signification</Titre>
+<Texte>
+				<Paragraphe>Acte par lequel une partie informe son adversaire d'un acte ou d'une décision de justice par l'intermédiaire d'un huissier de justice</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

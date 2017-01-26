@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14531" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration mensuelle obligatoire des mouvements de main-d'œuvre (DMMO)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Déclaration mensuelle obligatoire des mouvements de main-d'œuvre (DMMO) - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-16</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14531</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N10779">Cotisations et contributions sociales de l'employeur</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14531" type="Formulaire">Déclaration mensuelle obligatoire des mouvements de main-d'œuvre (DMMO)</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>10595*18</NumeroCerfa>
+<Texte><Paragraphe>Déclaration à adresser au Centre de traitement DMMO - BP 60003 - 59718 Lille Cedex 9</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10595.do" format="application/pdf" poids="643.4 KB">
+<Source>Ministère en charge du travail</Source>
+</LienWeb><NoticeLiee ID="R21253" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50445%2316&amp;cerfaFormulaire=10595*18" numerocerfa="50445#16">Notice explicative pour la DMMO</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R17037" audience="Professionnels" type="Téléservice">
+<Titre>Déclaration mensuelle obligatoire des mouvements de main-d'œuvre en ligne (DMMO)</Titre>
+</ServiceEnLigneAlternatif>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="10595*18">
+<Titre>Feuillet supplémentaire</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=10595*18&amp;cerfaFormulaire=10595*18" format="application/pdf" poids="608.9 KB"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F22524" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration des mouvements de main-d'œuvre (DMMO)</Titre>
+<Dossier ID="N10779">Cotisations et contributions sociales de l'employeur</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

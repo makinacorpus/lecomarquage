@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12210" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dossier médical</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Toute personne a le droit d'accéder à son dossier médical. Cependant, certains éléments ne sont pas communicables. La consultation doit respecter certaines règles de présentation ou de destinataire de la demande. Le dossier médical ne doit pas être confondu avec le dossier médical partagé ou le dossier pharmaceutique.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-20</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12210</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196866&amp;cidTexte=LEGITEXT000006072665, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000601005, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000611164, https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006908167&amp;cidTexte=LEGITEXT000006072665&amp;dateTexte=20140404&amp;categorieLien=id&amp;oldAction=rechCodeArticle, http://social-sante.gouv.fr/fichiers/bo/2007/07-09/a0090274.htm, https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025843580&amp;cidTexte=LEGITEXT000006072665&amp;categorieLien=id&amp;dateTexte=</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17179</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N17179">Information du patient : dossier médical, montant des prestations, ...</Niveau>
+<Niveau ID="F12210" type="Fiche d'information">Dossier médical</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20325">Droits des patients</SousThemePere><DossierPere ID="N17179">
+<Titre>Information du patient : dossier médical, montant des prestations, ...</Titre><SousDossier ID="N17179-1">
+<Titre>Accès aux dossiers médicaux</Titre>
+<Fiche ID="F12210">Dossier médical</Fiche>
+<Fiche ID="F16033">Dossier pharmaceutique</Fiche>
+</SousDossier>
+<SousDossier ID="N17179-2">
+<Titre>Droit à l'information</Titre>
+<Fiche ID="F17180">Sur l'état de santé</Fiche>
+<Fiche ID="F19948">Sur le montant des prestations</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès aux dossiers médicaux</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Toute personne a le droit d'accéder à son dossier médical. Cependant, certains éléments ne sont pas communicables. La consultation doit respecter certaines règles de présentation ou de destinataire de la demande. Le dossier médical ne doit pas être confondu avec le dossier médical partagé ou le dossier pharmaceutique. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Contenu du dossier médical</Paragraphe>
+</Titre><Paragraphe>Il n'y a pas de dossier médical unique par patient. Le patient dispose d'un dossier par professionnel de santé avec qui il est en relation (médecin généraliste, dentiste, hôpital...).</Paragraphe>
+<Paragraphe>Chaque dossier comprend les informations liées à un même professionnel.</Paragraphe>
+<Paragraphe>De nombreux documents sont accessibles au patient concerné. Il s'agit notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des résultats d'examen ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>comptes-rendus de consultation, d'intervention, d'exploration ou d'hospitalisation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>protocoles et des prescriptions thérapeutiques mis en œuvre ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>feuilles de surveillance ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>correspondances entre professionnels de santé.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À l'inverse, certains documents ne sont pas communicables au patient ou à ses représentants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>informations recueillies auprès de tiers n'intervenant pas dans la prise en charge thérapeutique ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>celles concernant un tel tiers (par exemple : membre de la famille, assistant de service social) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou certaines notes des professionnels de santé pouvant être considérées comme personnelles. Il doit s'agir de documents de travail qui ne contribuent pas à l'élaboration et au suivi du diagnostic et du traitement ou à une action de prévention.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le dossier médical ne doit pas être confondu avec le <LienInterne LienPublication="F10872" type="Fiche Question-réponse" audience="Particuliers">dossier médical partagé (DMP)</LienInterne> géré par l'Assurance maladie. Le DMP n'est pas obligatoire. Il ne remplace pas les dossiers gérés par les médecins et les hôpitaux.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délais de conservation</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Établissements publics et privés</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Délai de conservation de 20 ans</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>La durée de conservation du dossier médical est de 20 ans. Ce délai commence à courir à compter de la date du dernier séjour ou de la dernière consultation externe du patient dans l'établissement. Ce délai de conservation s'applique pour les établissements publics et privés. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>ce délai de conservation ne s'applique pas pour le <LienInterne LienPublication="F10872" type="Fiche Question-réponse" audience="Particuliers">dossier médical partagé</LienInterne>. Ce dernier  est conservé pendant une durée de 10 années à compter de sa clôture.</Paragraphe>
+</Attention><Paragraphe>
+<MiseEnEvidence>Exceptions</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>D'autres délais sont applicables dans les cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Pour un  mineur de moins de 8 ans, le dossier médical est conservé jusqu'à ce qu'il ait atteint l'âge de 28 ans.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si le patient décède moins de 10 ans après son dernier passage dans l'établissement, le dossier est conservé pendant une durée de 10 ans à compter de la date du décès.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>La mention des actes transfusionnels pratiqués et, le cas échéant, la copie de la fiche d'incident transfusionnel sont conservées pendant 30 ans à partir de la date de l'acte transfusionnel.</Paragraphe>
+</Item>
+</Liste>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>ces délais (y compris le délai de 20 ans) constituent des durées minimales. Chaque établissement peut élaborer une politique de conservation plus contraignante en fonction des pathologies concernées.</Paragraphe>
+</ANoter><Paragraphe>
+<MiseEnEvidence>Recours gracieux ou contentieux</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>En cas d'introduction de recours gracieux ou contentieux, ces délais (20 ans et autres) sont suspendus. Les recours doivent tendre à mettre en cause la responsabilité médicale de l'établissement de santé ou de professionnels de santé à raison de leurs interventions au sein de l'établissement.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Délais atteints</MiseEnEvidence> </Paragraphe>
+<Paragraphe>Quand ces délais sont atteints, la décision d'élimination du dossier médical est prise par le directeur de l'établissement après avis du médecin responsable de l'information médicale.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Hors établissements publics et privés</Paragraphe>
+</Titre><Paragraphe>Actuellement, pour les professionnels de santé n'exerçant pas leur activité dans un établissement (public ou privé), il n'existe pas de délais de conservation fixés par la loi. Pour autant, vos informations médicales sont conservées sous leur responsabilité de médecin. </Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>dans la pratique, les professionnels de santé exerçant en cabinet sont vivement incités à appliquer les mêmes délais de conservation qu'en établissement de santé public et privé.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Accès au dossier</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Accès au dossier d'un patient vivant</Paragraphe>
+</Titre><Paragraphe>La consultation du dossier médical varie selon qu'il s'agisse d'une personne majeure ou mineure. </Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Majeur</Paragraphe>
+</Titre><Paragraphe>Plusieurs
+personnes peuvent consulter le dossier d'un majeur. Il s'agit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du patient lui-même ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de son tuteur, si le patient est <LienInterne LienPublication="F2120" type="Fiche d'information" audience="Particuliers">majeur sous tutelle</LienInterne> (une personne sous <LienInterne LienPublication="F2094" type="Fiche d'information" audience="Particuliers">curatelle</LienInterne> peut consulter elle-même son dossier) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de son médecin si le patient l'a choisi comme intermédiaire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La demande doit être adressée au responsable de l'établissement. L'identité du demandeur est vérifiée notamment grâce à une carte d'identité ou un passeport. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mineur</Paragraphe>
+</Titre><Paragraphe>Le dossier médical d'un mineur peut être consulté par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le mineur lui-même ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'intermédiaire d'un médecin désigné par le mineur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou son représentant légal. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si le mineur reçoit des soins à l'insu de ses parents, il peut s'opposer à ce que le médecin transmette son dossier. Le médecin, la sage-femme ou l'infirmier doivent encourager le mineur à communiquer ces informations au titulaire de l'autorité parentale. Ils doivent faire mention écrite de cette opposition. </Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Accès au dossier d'un patient décédé</Paragraphe>
+</Titre><Paragraphe>La communication du dossier médical, ou de certaines informations extraites du dossier médical, varie selon que la personne décédée soit majeure ou mineure. </Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Majeur</Paragraphe>
+</Titre><Paragraphe>Sauf volonté contraire exprimée par la personne avant son décès, le dossier médical peut être consulté par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'ayant droit de la personne décédée ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>son concubin ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou son partenaire avec lequel il est lié par un pacte civil de solidarité.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Lors de sa demande écrite envoyée à l'établissement de santé, la personne doit motiver sa demande en expliquant que les informations peuvent être notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>nécessaires pour connaître les causes de la mort ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>défendre la mémoire du défunt ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou faire valoir un droit. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le refus de la demande est motivé mais il ne fait pas obstacle à la délivrance d'un certificat médical. Ce dernier ne doit pas comporter d'informations couvertes par le secret médical. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mineur</Paragraphe>
+</Titre><Paragraphe>Sauf volonté contraire exprimée par le mineur, les titulaires de l'autorité parentale conservent leur droit d'accès à la totalité des informations médicales concernant le mineur décédé.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Protection des données à caractère personnel</Paragraphe>
+</Titre><Paragraphe>Toute personne qui héberge des données de santé à caractère personnel recueillies à l'occasion d'activités de prévention, de diagnostic, de soins ou de suivi social et médico-social doit être agréée. </Paragraphe>
+<Paragraphe>Cet hébergement, quel qu'en soit le support, papier ou électronique, est réalisé après que la personne prise en charge en a été dûment informée. </Paragraphe>
+<Paragraphe>Depuis le 28 janvier 2016, le consentement de la personne est présumé, il n'a plus besoin d'être recueilli. </Paragraphe>
+<Paragraphe>Les hébergeurs de données de santé à caractère personnel sont soumis au secret professionnel. </Paragraphe>
+<Paragraphe>Sous peine de sanctions pénales, il est interdit aux hébergeurs de céder à titre onéreux des données de santé identifiables, directement ou indirectement, y compris avec l'accord de la personne concernée. </Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande de consultation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Destinataires de la demande</Paragraphe>
+</Titre><Paragraphe>La demande du patient doit être adressée au professionnel concerné par les informations souhaitées :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>directement au professionnel libéral, par exemple le dentiste pour un dossier dentaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou au responsable de l'établissement de santé (hôpital par exemple).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il convient de formuler sa demande par courrier.</Paragraphe><ServiceEnLigne ID="R42145" URL="http://www.conso.net/content/vous-demandez-communication-de-votre-dossier-medical" type="Modèle de document">
+<Titre>Demander l'accès à son dossier médical</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de demander l'accès à son dossier médical géré par un professionnel de santé (médecin, dentiste...).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le dossier médical géré par les médecins est différent du <LienInterne LienPublication="F10872" type="Fiche Question-réponse" audience="Particuliers">dossier médical personnel</LienInterne> relevant de l'assurance maladie.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Le patient peut être amené à contacter un prestataire extérieur qui stocke des données informatiques pour un établissement de santé ou un médecin.</Paragraphe>
+<Paragraphe>Le destinataire de la demande vérifie la qualité du demandeur, à savoir son identité et sa qualité de bénéficiaire d'un droit d'accès au dossier.</Paragraphe>
+<Paragraphe>Le délai de communication à réception de la demande est limité à :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>8 jours pour un dossier récent ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 mois pour un dossier dont la dernière pièce remonte à 5 ans.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>La consultation sur place est gratuite.</Paragraphe>
+<Paragraphe>Lorsque le demandeur souhaite la remise de copies, les frais à sa charge ne peuvent excéder le coût de la reproduction et le cas échéant, de l'envoi des documents.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>En cas de refus</Paragraphe>
+</Titre><Paragraphe>Le patient ou son représentant peut effectuer un <LienInterne LienPublication="F12211" type="Fiche Question-réponse" audience="Particuliers">recours</LienInterne> en de refus de consultation.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Modes de consultation</Paragraphe>
+</Titre><Paragraphe>Le mode de consultation est choisi par le demandeur. La consultation peut se faire sur place ou par envoi de copie.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Consultation sur place</Paragraphe>
+</Titre><Paragraphe>La consultation peut être faite sur place. La remise de copies est payante.</Paragraphe>
+<Paragraphe>Pour les informations détenues par un établissement de santé, si les dispositifs techniques le permettent, la consultation des informations peut être réalisée, pour tout ou partie, par voie électronique.</Paragraphe>
+<Paragraphe>Le demandeur doit être informé du dispositif d'accompagnement médical mis en place au sein des établissements de santé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Présence d'une tierce personne</Paragraphe>
+</Titre><Paragraphe>Dans les établissements de santé, un accompagnement médical lors de la consultation doit être mis à la disposition de la personne.</Paragraphe>
+<Paragraphe>La présence d'une tierce personne (un autre médecin par exemple) lors de la consultation de certaines informations peut être recommandée par le médecin. Elle ne peut pas être imposée, sauf dans le cas d'une personne hospitalisée en service psychiatrique, d'office ou sur demande d'un tiers.</Paragraphe>
+<Paragraphe>Si la présence d'un tiers est recommandée, les informations sont communiquées dès que l'intéressé a exprimé son refus ou son acceptation de suivre la recommandation. </Paragraphe>
+<Paragraphe>En cas de silence du demandeur sur ce point, les informations lui sont communiquées au terme d'un délai de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>8 jours pour un dossier récent ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 mois pour un dossier dont la dernière pièce remonte à 5 ans.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Envoi et remises de copies</Paragraphe>
+</Titre><Paragraphe>L'accès au dossier peut être réalisé par envoi de copies.</Paragraphe>
+<Paragraphe>Les copies remises sur place ou adressées par courrier sont établies sur un support similaire à celui utilisé par le professionnel de santé, l'établissement de santé ou l'hébergeur. Par exemple, s'il s'agit d'un dossier informatisé, la copie pourra être un CD-Rom.</Paragraphe>
+<Paragraphe>Elles peuvent être établies sur papier au choix du demandeur et dans la limite des possibilités techniques du professionnel ou de l'organisme détenteur des informations.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Situation d'un patient hospitalisé en psychiatrie sans son consentement</Paragraphe>
+</Titre><Paragraphe>Si la situation du malade l'exige, le responsable de l'établissement informe l'intéressé que l'accès à son dossier ne peut avoir lieu qu'en présence d'un médecin. En cas de refus du patient de designer un médecin, le détenteur des informations saisit la commission départementale des hospitalisations psychiatrique. Son avis s'impose au demandeur et au détenteur des informations.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R14639" type="Centre de contact">
+<Titre>Santé Info Droits</Titre>
+<Complement>Pour des renseignements complémentaires</Complement><Texte>
+						
+								<Paragraphe>
+			Ligne téléphonique créée par un collectif d'associations pour fournir des informations juridiques ou sociales liées à la santé</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 004 333</MiseEnEvidence> coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel ou composez le <MiseEnEvidence>30 08</MiseEnEvidence> (appel gratuit)</Paragraphe>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0)1 53 62 40 30</MiseEnEvidence>
+		(prix d'un appel local)</Paragraphe>
+								<Paragraphe>Ouvert le lundi, mercredi et vendredi de 14h à 18h et le mardi et jeudi de 14h à 20h </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+      <LienExterne URL="http://www.leciss.org/sante-info-droits/formulaire-sante-info-droits">formulaire</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196866&amp;cidTexte=LEGITEXT000006072665" ID="R12197">
+<Titre>Code de la santé publique : articles R1111-1 à R1111-8</Titre>
+<Complement>Accès aux informations de santé à caractère personnel</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000601005" ID="R969">
+<Titre>Arrêté du 5 mars 2004 relatif à l'accès aux informations concernant la santé d'une personne</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000611164" ID="R32987">
+<Titre>Arrêté du 3 janvier 2007 relatif à l'accès des successeurs légaux au dossier médical d'une personne décédée</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006908167&amp;cidTexte=LEGITEXT000006072665&amp;dateTexte=20140404&amp;categorieLien=id&amp;oldAction=rechCodeArticle" ID="R44225">
+<Titre>Code de la santé publique : article R1112-7</Titre>
+<Complement>Délais de conservation du dossier médical (établissements publics et privés)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://social-sante.gouv.fr/fichiers/bo/2007/07-09/a0090274.htm" ID="R44227">
+<Titre>Instruction interministérielle du 14 août 2007 relative à la conservation du dossier médical</Titre>
+<Complement>Délai pour les actes transfusionnels</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025843580&amp;cidTexte=LEGITEXT000006072665&amp;categorieLien=id&amp;dateTexte=" ID="R44231">
+<Titre>Code de la santé publique : article R4127-45</Titre>
+<Complement>Devoirs envers les patients</Complement>
+</Reference>
+<QuestionReponse ID="F12211" audience="Particuliers">Quels sont les recours en cas de refus de consultation du dossier médical ?</QuestionReponse>
+<QuestionReponse ID="F33899" audience="Particuliers">Qui peut accéder aux informations médicales de la personne protégée ?</QuestionReponse>
+<QuestionReponse ID="F33900" audience="Particuliers">Une personne protégée peut-elle subir un acte médical sans son accord ?</QuestionReponse>
+</Publication>

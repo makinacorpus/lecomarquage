@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N230" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Douane</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Douane : Transfert d'argent, Transfert de marchandises, Droits de douane, taxes et franchises, Alcool et tabac, Contrôles douaniers</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-21</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N230</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Consommateur, Étranger en France, Européen en France</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N230" type="Dossier">Douane</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere>
+<SousDossier ID="N230-1">
+<Titre>Transfert d'argent</Titre><Fiche ID="F794">Argent transféré à l'étranger</Fiche>
+<Fiche ID="F801">Argent transféré en France</Fiche>
+</SousDossier>
+<SousDossier ID="N230-2">
+<Titre>Transfert de marchandises</Titre><Fiche ID="F3161">Marchandises arrivant en France</Fiche>
+<Fiche ID="F799">Marchandises quittant la France</Fiche>
+</SousDossier>
+<SousDossier ID="N230-3">
+<Titre>Droits de douane, taxes et franchises</Titre><Fiche ID="F50">En cas de voyage</Fiche>
+<Fiche ID="F492">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N230-4">
+<Titre>Alcool et tabac</Titre><Fiche ID="F804">Rapporter du tabac de l'étranger</Fiche>
+<Fiche ID="F812">Rapporter de l'alcool de l'étranger</Fiche>
+</SousDossier>
+<SousDossier ID="N230-5">
+<Titre>Contrôles douaniers</Titre><Fiche ID="F816">Contrôle douanier du voyageur</Fiche>
+<Fiche ID="F814">Carte de libre circulation</Fiche>
+</SousDossier><VoirAussi important="non">
+<Fiche ID="F20558" audience="Professionnels">
+<Titre>Vente en détaxe aux touristes</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R1498" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10832.do" format="application/pdf" poids="88.6 KB" numerocerfa="10832*03" type="Formulaire">
+<Titre>Demande de carte européenne d'armes à feu : première demande, renouvellement ou modification</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R211" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11290.do" format="application/force-download" poids="80.8 KB" numerocerfa="11290*02" type="Formulaire">
+<Titre>Accord préalable pour le transfert d'armes à feu et de munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1453" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11192.do" format="application/pdf" poids="89.4 KB" numerocerfa="11192*03" type="Formulaire">
+<Titre>Demande d'autorisation d'importation de matériels de guerre, armes et munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R45305" URL="http://www.douane.gouv.fr/Portals/0/fichiers/professionnel/restrictions/notice-11192.pdf" numerocerfa="11192" format="application/pdf" poids="0">Demande d'autorisation d'importation de matériels de guerre, armes et munitions</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33700" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11287.do" format="application/force-download" poids="93.5 KB" numerocerfa="11287*02" type="Formulaire">
+<Titre>Permis de transfert d'armes à feu et de munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R45301" URL="http://www.douane.gouv.fr/Portals/0/fichiers/professionnel/restrictions/notice-11287.pdf" numerocerfa="11287-02" format="application/pdf" poids="0">Demande de permis de transfert d'armes à feu et de munitions</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34995" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11288.do" numerocerfa="11288*03" type="Formulaire">
+<Titre>Formulaire d'agrément de transfert d'armes à feu et de munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R43295" URL="http://www.douane.gouv.fr/Portals/0/fichiers/professionnel/restrictions/notice-11288.pdf">Notice explicative pour la demande d'agrément de transfert d'armes à feu et de munitions</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34996" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11289.do" numerocerfa="11289*02" type="Formulaire">
+<Titre>Déclaration de transfert d'armes à feu et de munitions par un armurier agréé</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33704" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11291.do" format="application/force-download" poids="63.8 KB" numerocerfa="11291*02" type="Formulaire">
+<Titre>Annexe à la déclaration ou au permis de transfert d'armes à feu et de munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16208" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11193.do" numerocerfa="11193*04" type="Formulaire">
+<Titre>Demande d'autorisation de transit de matériels de guerre, armes, munitions et matériels assimilés</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2827" URL="http://www.douane.gouv.fr/articles/a10794-arrivee-en-france-conseils-aux-voyageurs" audience="Particuliers">
+<Titre>Douane : conseils aux voyageurs à leur arrivée en France</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R38389" URL="http://www.douane.gouv.fr/articles/a10773-transfert-d-une-residence-principale-dans-un-pays-hors-de-l-union-europeenne" audience="Particuliers">
+<Titre>Douanes : transfert de sa résidence principale dans un pays hors Europe</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10773" URL="http://www.douane.gouv.fr/articles/a10753-achats-a-distance-et-envois-entre-particuliers" audience="Particuliers">
+<Titre>Achats à distance et envois entre particuliers</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2391" URL="http://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_fr.htm" audience="Particuliers">
+<Titre>Transports d'animaux, de plantes et d'espèces menacées dans l'Union européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20455" URL="http://europa.eu/youreurope/citizens/travel/carry/meat-dairy-animal/index_fr.htm" audience="Particuliers">
+<Titre>Voyager en Europe avec des produits d'origine animale</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R19946" URL="http://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_fr.htm" audience="Particuliers">
+<Titre>Emporter de l'alcool, du tabac ou de l'argent liquide dans l'Union européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17040" URL="http://www.douane.gouv.fr/articles/a10774-operations-pour-lesquelles-vous-devez-acquitter-une-taxe" audience="Particuliers">
+<Titre>Vous déménagez à l'étranger : opérations soumises à taxes douanières</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17722" URL="http://www.douane.gouv.fr/articles/a10777-operations-pour-lesquelles-vous-devez-deposer-une-declaration-en-douane" audience="Particuliers">
+<Titre>Vous déménagez à l'étranger : opérations soumises à déclaration en douane</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2991" audience="Particuliers">Y a-t-il des formalités douanières en cas d'achat d'un véhicule en Europe ?</QuestionReponse>
+<QuestionReponse ID="F819" audience="Particuliers">Transfert en France d'un héritage : quels droits de douane ?</QuestionReponse>
+<QuestionReponse ID="F12329" audience="Particuliers">Peut-on tout acheter par internet à l'étranger (tabac, médicaments...) ?</QuestionReponse>
+</Publication>

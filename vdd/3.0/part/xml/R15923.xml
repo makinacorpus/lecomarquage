@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R15923" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Pro.douane : toutes les procédures douanières</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Fiscalité, Gestion - Finances, Vente - Commerce, Secteurs d'activité</dc:subject>
+<dc:description>Pro.douane : toutes les procédures douanières - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-07</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R15923</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N230">Douane</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R15923" type="Téléservice">Pro.douane : toutes les procédures douanières</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<LienWeb URL="https://pro.douane.gouv.fr">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F32140" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment exporter par colis postal ?</Titre>
+<Dossier ID="N22281">Importation - Exportation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F794" audience="Particuliers" type="Fiche d'information">
+<Titre>Douane : argent transféré à l'étranger</Titre>
+<Dossier ID="N230">Douane</Dossier>
+</FicheLiee>
+<FicheLiee ID="F801" audience="Particuliers" type="Fiche d'information">
+<Titre>Douane : argent transféré en France</Titre>
+<Dossier ID="N230">Douane</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23676" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Formalités douanières</Titre>
+<Dossier ID="N22281">Importation - Exportation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31411" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Peut-on facturer dans une monnaie étrangère ?</Titre>
+<Dossier ID="N31384">Facturation - Paiement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31220" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe à l'essieu (ou taxe spéciale sur certains véhicules routiers -TSVR)</Titre>
+<Dossier ID="N18568">Poids-lourds</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23497" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe générale sur les activités polluantes (TGAP)</Titre>
+<Dossier ID="N13363">Déchets et prévention de la pollution</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31118" audience="Professionnels" type="Fiche d'information">
+<Titre>TVA à l'export et procédures de dédouanement</Titre>
+<Dossier ID="N22281">Importation - Exportation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33340" audience="Professionnels" type="Fiche d'information">
+<Titre>TVA applicable aux échanges européens</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+<Dossier ID="N22281">
+<Titre>Importation - Exportation</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24046" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Travaux et dépannage à domicile</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le professionnel doit respecter certaines règles, notamment en matière d'information sur les prix, de remise d'un devis et d'une facture.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-04</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24046</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24036</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N24036">Prestations de service</Niveau>
+<Niveau ID="F24046" type="Fiche avec liens externes">Travaux et dépannage à domicile</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20154">Consommation</SousThemePere><DossierPere ID="N24036">
+<Titre>Prestations de service</Titre>
+<Fiche ID="F24046">Travaux et dépannage à domicile</Fiche>
+<Fiche ID="F24045">Vêtements (pressing, teinturerie, laverie automatique)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le professionnel doit respecter certaines règles, notamment en matière d'information sur les prix, de remise d'un devis et d'une facture.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente>
+<Commentaire><Paragraphe>Les travaux à domicile concernent les réparations concernant votre logement en lui-même : plomberie, électricité, maçonnerie.... Un devis doit vous être remis avant de commencer les travaux. Ce devis doit indiquer le prix de l'ensemble des prestations.</Paragraphe>
+</Commentaire><LienExterne URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Travaux-a-domicile">Travaux à domicile</LienExterne>
+
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</LienExterneCommente>
+<LienExterneCommente>
+<Commentaire><Paragraphe>Le dépannage à domicile concerne les réparations de votre équipement : électroménager, informatique... Un devis doit vous être remis avant les réparations. Ce devis doit indiquer le prix de l'ensemble des prestations.</Paragraphe>
+</Commentaire><LienExterne URL="http://cdad-cotedor.justice.fr/vos-droits-et-demarches/depannage-a-domicile/">Dépannage à domicile</LienExterne>
+
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</LienExterneCommente><OuSAdresser ID="R20797" type="Centre de contact">
+<Titre>Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)</Titre>
+<Complement>Pour toute information et en cas de litige</Complement><Texte>
+						
+								<Paragraphe>
+			Pour toute question de consommation, de qualité et sécurité des produits et services</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3939</MiseEnEvidence> (coût : <Valeur>0,15 €</Valeur> TTC la minute)
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 19h</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger ou hors métropole : <MiseEnEvidence>+33 1 73 60 39 39</MiseEnEvidence>  uniquement depuis un poste fixe (coût d'une communication + coût de l'appel international variable selon les pays)</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+      <LienExterne URL="http://www.economie.gouv.fr/courrier/4169">formulaire de contact</LienExterne>
+
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R24078" URL="http://www.conso.net/content/vous-contestez-l%E2%80%99absence-de-remise-d%E2%80%99un-devis-%C3%A0-l%E2%80%99occasion-d%E2%80%99un-d%C3%A9pannage-%C3%A0-domicile" type="Modèle de document">
+<Titre>Contester auprès d'une société de dépannage l'absence de remise de devis</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24079" URL="http://www.conso.net/content/vous-contestez-la-facture-trop-%C3%A9lev%C3%A9e-d%E2%80%99un-d%C3%A9pannage-%C3%A0-domicile" type="Modèle de document">
+<Titre>Contester la facture trop élevée d'un dépannage à domicile</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24080" URL="http://www.conso.net/content/l%E2%80%99artisan-d%C3%A9pass%C3%A9-le-devis-que-vous-aviez-sign%C3%A9-pour-des-travaux-sans-vous-demander-votre" type="Modèle de document">
+<Titre>Contester la facture d'un artisan en cas de dépassement du devis des travaux sans votre accord</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31668" URL="http://www.conso.net/content/vous-demandez-la-restitution-des-pi%C3%A8ces-chang%C3%A9es-%C3%A0-un-d%C3%A9panneur-%C3%A0-domicile" type="Modèle de document">
+<Titre>Demander la restitution des pièces changées lors d'un dépannage à domicile</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31951" URL="http://www.conso.net/content/des-d%C3%A9g%C3%A2ts-ont-%C3%A9t%C3%A9-caus%C3%A9s-durant-les-travaux-vous-demandez-r%C3%A9paration-%C3%A0-l%E2%80%99artisan" type="Modèle de document">
+<Titre>Demander réparation à un artisan en cas de dégâts causés durant les travaux</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+</Publication>

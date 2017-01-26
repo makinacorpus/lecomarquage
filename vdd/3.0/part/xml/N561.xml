@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N561" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Litiges avec la Sécurité sociale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>La procédure pour contester une décision d'un organisme de la sécurité sociale varie selon selon la nature du litige : saisine de la commission de recours amiable pour une décision d'ordre administratif, mise en œuvre d'une expertise médicale pour une décision d'ordre médical, saisine du Tribunal du contentieux de l'incapacité pour une décision concernant l'invalidité, l'incapacité permanente ou l'inaptitude au travail.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-23</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N561</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N561" type="Dossier">Litiges avec la Sécurité sociale</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere>
+<Fiche ID="F2499">Commission de recours amiable</Fiche>
+<Fiche ID="F2500">Tribunal des affaires de sécurité sociale</Fiche>
+<Fiche ID="F2512">Expertise médicale</Fiche>
+<Fiche ID="F2204">Tribunal du contentieux de l'incapacité</Fiche><Avertissement ID="R42138" date="2016-11-21">
+<Titre>Simplification de l'organisation judiciaire en matière de sécurité sociale</Titre>
+<Texte>
+				<Paragraphe><LienExterne URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033418805">La loi n°2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle</LienExterne>
+ réforme le contentieux social en fusionnant les tribunaux des affaires de la sécurité sociale et les tribunaux du contentieux de l'incapacité au sein d'un pôle social des tribunaux de grande instance. Un décret en Conseil d'État doit déterminer les conditions d'application de ces dispositions.</Paragraphe>
+				<Paragraphe>Dans l'attente, le contenu de cette page reste d'actualité.</Paragraphe>
+			</Texte>
+</Avertissement>
+
+<Introduction>
+<Texte><Paragraphe>La procédure pour contester une décision d'un organisme de la sécurité sociale varie selon selon la nature du litige :  saisine de la commission de recours amiable  pour une décision d'ordre administratif, mise en œuvre d'une expertise médicale pour une décision d'ordre médical, saisine du Tribunal du contentieux de l'incapacité  pour une décision concernant l'invalidité, l'incapacité permanente ou l'inaptitude au travail.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N261" audience="Particuliers">
+<Titre>Accès au droit et à la justice</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N269" audience="Particuliers">
+<Titre>Procès civil</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<PourEnSavoirPlus type="Information pratique" ID="R1912" URL="http://www.ameli.fr/assures/droits-et-demarches/reclamations-et-voies-de-recours/comment-contester-une-decision/les-differentes-voies-de-recours.php" audience="Particuliers">
+<Titre>Comment contester une décision de votre caisse d'assurance maladie ?</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F20849" audience="Particuliers">Conciliateur de l'assurance maladie : comment y recourir ?</QuestionReponse>
+</Publication>

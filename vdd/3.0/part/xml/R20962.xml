@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R20962" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Dénoncer un compte joint auprès de la banque</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Permet de se retirer d'un compte joint. Les cotitulaires du compte doivent être informés de la démarche en parallèle, par courrier. À envoyer à sa banque via une lettre recommandée avec accusé de réception.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-10</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R20962</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R20962" type="Modèle de document">Dénoncer un compte joint auprès de la banque</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de se retirer d'un compte joint. Les cotitulaires du compte doivent être informés de la démarche en parallèle, par courrier. À envoyer à sa banque via une lettre recommandée avec accusé de réception.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Citation>Indiquez vos nom et prénom, adresse et numéro de compte joint.</Citation>
+</Paragraphe>
+<Paragraphe>À <Citation>lieu</Citation>, le <Citation>date</Citation> </Paragraphe>
+<Paragraphe>Objet : Dénonciation du compte joint n°Saisir le numéro de votre compte bancaire</Paragraphe>
+<Paragraphe>Madame, monsieur</Paragraphe>
+<Paragraphe>Par la présente, je souhaite dénoncer à partir du Saisir la date le compte joint n° <Citation>numéro du compte joint</Citation> ouvert dans votre agence au nom de <Citation>noms des cotitulaires</Citation>.</Paragraphe>
+<Paragraphe>J'ai bien noté que les autorisations de prélèvement et les ordres de virement permanents qui auraient été émis avant ce jour deviennent caducs par cette dénonciation.</Paragraphe>
+<Paragraphe>Par ailleurs, j'ai également adressé un courrier au cotitulaire de ce compte <Citation>nom de votre cotitulaire</Citation> sur ce compte joint pour l'informer de ma décision.</Paragraphe>
+<Paragraphe>Cordialement.</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F10412" audience="Particuliers" type="Fiche d'information">
+<Titre>Compte bancaire joint</Titre>
+<Dossier ID="N98">Comptes bancaires</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

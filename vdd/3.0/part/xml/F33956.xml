@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33956" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Soins dentaires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>La consultation chez le dentiste et les soins dentaires sont pris en charge par l'Assurance maladie sous certaines conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-09</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33956</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000427320, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028253150, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024803740, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028253111</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N418</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418">Assurance maladie : affiliation et remboursements des soins</Niveau>
+<Niveau ID="F33956" type="Fiche d'information">Soins dentaires</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere><DossierPere ID="N418">
+<Titre>Assurance maladie : affiliation et remboursements des soins</Titre><SousDossier ID="N418-1">
+<Titre>Démarches d'affiliation</Titre>
+<Fiche ID="F34047">Protection universelle maladie (Puma)</Fiche>
+<Fiche ID="F675">Étudiant</Fiche>
+<Fiche ID="F16467">Premier emploi</Fiche>
+<Fiche ID="F23671">Agent public</Fiche>
+<Fiche ID="F674">Changement de situation professionnelle</Fiche>
+<Fiche ID="F737">Changement de situation personnelle</Fiche>
+<Fiche ID="F16620">Rattachement d'un enfant</Fiche>
+<Fiche ID="F16622">Rattachement d'un autre ayant-droit</Fiche>
+</SousDossier>
+<SousDossier ID="N418-2">
+<Titre>Conditions du remboursement des soins</Titre>
+<Fiche ID="F163">Parcours de soins coordonnés et médecin traitant</Fiche>
+<Fiche ID="F165">Ticket modérateur, forfait, franchises</Fiche>
+<Fiche ID="F265">Carte Vitale</Fiche>
+<Fiche ID="F33967">Ordonnance</Fiche>
+<Fiche ID="F11616">Feuille de soins</Fiche>
+<Fiche ID="F168">Accord (entente) préalable</Fiche>
+<Fiche ID="F167">Tiers payant</Fiche>
+</SousDossier>
+<SousDossier ID="N418-3">
+<Titre>Remboursement par type de dépense de santé</Titre>
+<Fiche ID="F1069">Consultation médicale</Fiche>
+<Fiche ID="F10874">Consultation médicale d'un enfant</Fiche>
+<Fiche ID="F200">Hospitalisation</Fiche>
+<Fiche ID="F21760">Médicaments</Fiche>
+<Fiche ID="F2951">Frais de transports</Fiche>
+<Fiche ID="F751">Cure thermale</Fiche>
+<Fiche ID="F33950">Lunettes et lentilles</Fiche>
+<Fiche ID="F33956">Soins dentaires</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Remboursement par type de dépense de santé</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La consultation chez le dentiste est prise en charge par l'Assurance maladie ainsi que les soins dentaires, les prothèses et les traitements d'orthodontie mais tous ces soins sont régis par des tarifs particuliers.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Consultations</Paragraphe>
+</Titre><Paragraphe>Les consultations chez un dentiste sont prises en charge par l'Assurance maladie et remboursées à <Valeur>70 %</Valeur> sur la base du <LienIntra LienID="R2108" type="Définition de glossaire">tarif conventionnel (Assurance maladie)</LienIntra>. </Paragraphe>
+<Paragraphe>Le stomatologiste est un médecin auquel s'applique la participation forfaitaire de<Valeur>1 €</Valeur>.</Paragraphe>
+<Tableau>
+<Titre>Tarifs et remboursements des consultations</Titre>
+<Colonne largeur="31" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Rangée type="header">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Praticien consulté</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Base de remboursement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant remboursé</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Chirurgien-dentiste</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Cas général</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16,1 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Spécialisé en <LienInterne LienPublication="R45665" type="Acronyme">ODF</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16,1 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>
+<LienIntra LienID="R45664" type="Définition de glossaire">Médecin stomatologiste</LienIntra> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Secteur 1</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>18,6 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Secteur 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires</Paragraphe>
+<Paragraphe>libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>15,10 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le médecin conventionné de secteur 1 applique le tarif fixé par convention avec l'Assurance maladie, alors que le médecin conventionné de secteur 2 pratique des honoraires libres.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Soins dentaires</Paragraphe>
+</Titre><Paragraphe>Les soins dentaires comprennent les soins conservateurs, du type détartrage, traitement d'une carie ou dévitalisation,  et les soins chirurgicaux, type extraction.</Paragraphe>
+<Paragraphe>Ils sont  remboursés à 70<Valeur> %</Valeur> sur la base du <LienIntra LienID="R2108" type="Définition de glossaire">tarif conventionnel (Assurance maladie)</LienIntra>.</Paragraphe>
+<Paragraphe>Ces <LienExterne URL="http://www.ameli.fr/assures/soins-et-remboursements/combien-serez-vous-rembourse/soins-et-protheses-dentaires/soins-dentaires.php">tarifs sont différents</LienExterne>
+
+ lorsqu'ils sont réalisés sur des adultes ou sur les dents permanentes des enfants de moins de 13 ans.</Paragraphe>
+<Paragraphe>Les soins dentaires ne sont pas soumis à la participation forfaitaire de <Valeur>1 €</Valeur> sauf s'ils sont réalisés par un stomatologiste.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>À partir de 13 ans</Paragraphe>
+</Titre><Tableau>
+<Titre>Quelques tarifs et remboursements de soins dentaires</Titre>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Soin dentaire</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Tarif conventionnel</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Taux de remboursement</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Montant remboursé</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Détartrage</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28,92 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>20,24 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Soin d'une carie une face</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16,87 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>11,81 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Soin d'une carie deux faces</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28,92 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>20,24 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Dévitalisation d'une incisive ou d'une canine</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>33,74 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23,62 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Extraction d'une dent de lait</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16,72 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>11,70 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Extraction d'une dent permanente</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>33,44 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23,41 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Enfant de moins de 13 ans</Paragraphe>
+</Titre><Tableau>
+<Titre>Quelques tarifs et remboursements de soins dentaires sur les dents permanentes</Titre>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Soin dentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif conventionnel</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de remboursement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant remboursé</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Soin d'une carie une face</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>19,28 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Soin d'une carie deux faces</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>33,74 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23,62 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Dévitalisation d'une incisive ou d'une canine</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>38,56 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>26,99 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Dévitalisation d'une prémolaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>57,84 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>40,49 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Dévitalisation d'une molaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>93,99 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>65,79 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le scellement de sillon ne concerne que les 1e et 2e molaires permanentes des enfants de moins de 14 ans et n'est pris en charge qu'une fois par dent.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Prothèses dentaires</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Conditions de remboursement</Paragraphe>
+</Titre><Paragraphe>Elles sont  remboursées à <Valeur>70 %</Valeur> sur la base de tarifs dits de responsabilité, très souvent inférieurs à leur coût réel (tarifs libres).</Paragraphe>
+<Paragraphe>Le chirurgien-dentiste ou le médecin stomatologiste est tenu de vous en informer préalablement au moyen d'un devis écrit  que vous signerez, éventuellement, pour acceptation.</Paragraphe>
+<Paragraphe>Ce devis doit comporter, notamment, les éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la description précise et détaillée du traitement envisagé et/ou des matériaux utilisés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant des honoraires correspondant au traitement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant remboursé par l'Assurance Maladie.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les soins dentaires ne sont pas soumis à la participation forfaitaire de <Valeur>1 €</Valeur> sauf s'ils sont réalisés par un stomatologiste.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la différence entre le montant des honoraires payés et le montant remboursé par l'Assurance Maladie peut éventuellement être prise en charge par votre complémentaire santé si le contrat que vous avez souscrit le prévoit. Renseignez-vous auprès d'elle.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Tarifs et remboursements</Paragraphe>
+</Titre><Tableau>
+<Titre>Quelques tarifs et remboursements de prothèses dentaires</Titre>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Prothèse dentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Base du remboursement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux du remboursement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant remboursé</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couronne</Paragraphe>
+<Paragraphe>(les dents piliers doivent être délabrées et la couronne doit comporter obligatoirement une base métallique) </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>107,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>75,25 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Appareil dentaire (1 à 3 dents)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>64,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>45,15 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Appareil dentaire complet (14 dents)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>182,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>127,75 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Bridge de trois éléments (2 dents piliers + 1 élément intermédiaire pour remplacer une dent absente - les dents piliers doivent être délabrées)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>279,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>195,65 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Orthodontie</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Conditions de prise en charge</Paragraphe>
+</Titre><Paragraphe>Les traitements d'orthodontie ou traitements <LienInterne LienPublication="R45665" type="Acronyme">ODF</LienInterne> sont pris en charge par l'Assurance Maladie sous réserve d'obtenir l'accord préalable de votre caisse d'Assurance Maladie et s'ils sont commencés avant le 16e anniversaire. </Paragraphe>
+<Paragraphe>Le chirurgien-dentiste ou le médecin stomatologiste est tenu de vous en informer préalablement au moyen d'un devis écrit  que vous signerez, éventuellement, pour acceptation.</Paragraphe>
+<Paragraphe>Ce devis doit comporter, notamment, les éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la description précise et détaillée du traitement proposé et/ou des matériaux utilisés ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant des honoraires correspondant au traitement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant remboursé par l'Assurance Maladie ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les éventuels suppléments.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>exceptionnellement, des enfants de plus de 16 ans peuvent bénéficier d'une prise en charge par l'Assurance Maladie pour un semestre de traitement, préalablement à une intervention chirurgicale portant sur les maxillaires. Ce semestre n'est pas renouvelable.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Demande d'accord préalable</Paragraphe>
+</Titre><Paragraphe>Vous remplissez, avec votre dentiste ou votre stomatologiste, un formulaire spécifique en fonction des soins prescrits, et vous l'envoyez au service médical de votre <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Tarifs et remboursement des traitements d'orthodontie</Paragraphe>
+</Titre><Tableau>
+<Titre>Tarifs et remboursement des traitements d'orthodontie</Titre>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Traitement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Base de remboursement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de remboursement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant remboursé</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Traitement par semestre (6 maximum)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires</Paragraphe>
+<Paragraphe>libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>193,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>193,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Séance de surveillance (2 maximum par semestre)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires</Paragraphe>
+<Paragraphe>libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10,75 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,53 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contention 1re année</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires</Paragraphe>
+<Paragraphe>libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>161,25 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>161,25 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contention 2e année</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Honoraires</Paragraphe>
+<Paragraphe>libres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>107,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>75,25 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les traitements d'orthodontie ne sont pas soumis à la participation forfaitaire de<Valeur> 1 €</Valeur> sauf s'ils sont réalisés par un stomatologiste.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F168" audience="Particuliers">
+<Titre>Demande d'accord préalable</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000427320" ID="R45663">
+<Titre>Arrêté du 14 juin 2006 portant approbation de la convention nationale des chirurgiens-dentistes destinée à régir les rapports entre les chirurgiens-dentistes et les caisses d'assurance maladie</Titre>
+<Complement>Convention des dentistes avec l'Assurance maladie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028253150" ID="R45666">
+<Titre>Avenant n°3 à la convention nationale organisant les rapports entre les chirurgiens-dentistes et l'assurance maladie signé le 31 juillet 2013</Titre>
+<Complement>Tarifs des dentistes et de certains soins dentaires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024803740" ID="R15906">
+<Titre>Arrêté du 22 septembre 2011 portant approbation de la convention nationale des médecins généralistes et spécialistes</Titre>
+<Complement>Participation des médecins stomatologistes au dispositif de prévention bucco-dentaire : annexe XV</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028253111" ID="R34700">
+<Titre>Arrêté du 26 novembre 2013 portant approbation de l'avenant n°11 à la convention nationale organisant les rapports entre les médecins libéraux et l'assurance maladie signée le 26 juillet 2011</Titre>
+<Complement>Tarifs de certaines prothèses dentaires : annexe XXIX</Complement>
+</Reference>
+<ServiceEnLigne ID="R1427" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10518.do" numerocerfa="10518*01" autrenumero="S3150" type="Formulaire">
+<Titre>Traitement d'orthopédie dento-faciale - demande d'entente préalable chirurgien dentiste</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1429" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3155.pdf" format="application/pdf" poids="106.0 KB" numerocerfa="10522*01" autrenumero="S3155" type="Formulaire">
+<Titre>Traitements d'orthopédie dento-maxillo-faciale - Demande d'entente préalable - Médecin</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R45672" URL="http://www.ameli.fr/assures/soins-et-remboursements/combien-serez-vous-rembourse/soins-et-protheses-dentaires/soins-dentaires.php" audience="Particuliers">
+<Titre>Remboursement des soins dentaires</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45673" URL="http://www.ameli.fr/assures/soins-et-remboursements/combien-serez-vous-rembourse/soins-et-protheses-dentaires/protheses-dentaires.php" audience="Particuliers">
+<Titre>Exemples de remboursements de prothèses dentaires</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R45664">
+<Titre>Médecin stomatologiste</Titre>
+<Texte>
+				<Paragraphe>Médecin et chirurgien spécialiste de la bouche</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R2108">
+<Titre>Tarif conventionnel (Assurance maladie)</Titre>
+<Texte>
+				<Paragraphe>Tarif sur la base duquel s'effectue le calcul pour le remboursement d'un acte médical par l'Assurance maladie. Appelé aussi <Expression>tarif de responsabilité</Expression>.</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031670001&amp;cidTexte=LEGITEXT000006073189" ID="R32413">
+<Titre>Code de la sécurité sociale : articles L160-13 à L160-16</Titre>
+</Reference>
+</Definition>
+<Abreviation ID="R15469" type="Sigle">
+<Titre>CPAM</Titre>
+<Texte>
+<Paragraphe>Caisse primaire d'assurance maladie</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R45665" type="Acronyme">
+<Titre>ODF</Titre>
+<Texte>
+<Paragraphe>Orthopédie dento-faciale</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

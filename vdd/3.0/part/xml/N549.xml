@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N549" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Chômage : démarches auprès de Pôle emploi</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Les règles d'inscription sur la liste des demandeurs d'emploi et le calcul des allocations chômage sont les mêmes pour les salariés du secteur privé et les agents de la fonction publique. Seule la mise en paiement des allocations diffère : les allocations des salariés du secteur privé sont versées par Pôle emploi, celles des agents publics sont généralement versées par l'administration, sauf convention avec Pôle emploi. Ce dossier ne détaille pas les règles spécifiques prévues pour Mayotte.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-19</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N549</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Demandeur d'emploi</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N549" type="Dossier">Chômage : démarches auprès de Pôle emploi</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N461">Chômage</SousThemePere>
+<Fiche ID="F1636">Inscription à Pôle emploi</Fiche>
+<Fiche ID="F1637">Renouvellement de l'inscription à Pôle emploi</Fiche>
+<Fiche ID="F14926">Obligation de recherche d'emploi (PPAE)</Fiche>
+<Fiche ID="F1638">Radiation de Pôle emploi</Fiche>
+<Introduction>
+<Texte><Paragraphe>Les règles d'inscription sur la liste des demandeurs d'emploi et le calcul des allocations chômage sont les mêmes pour les salariés du secteur privé et les agents de la fonction publique. Seule la mise en paiement des allocations diffère : les allocations des salariés du secteur privé sont versées par Pôle emploi, celles des agents publics sont généralement versées par l'administration, sauf convention avec Pôle emploi. Ce dossier ne détaille pas les règles spécifiques prévues pour Mayotte.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N19775" audience="Particuliers">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N20382" audience="Particuliers">
+<Titre>Allocation de solidarité spécifique (ASS) et autres minima sociaux</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N19611" audience="Particuliers">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R20839" type="Centre de contact">
+<Titre>Pôle emploi pour les demandeurs d'emploi - 3949</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone : services automatisés pour actualiser votre situation, signaler un changement de situation, vous informer d'un paiement, ...</Paragraphe>
+</Titre>
+								<Paragraphe>39 49</Paragraphe>
+								<Paragraphe>7 jours/7, 24 heures/24 </Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>
+			Depuis un fixe : appel gratuit pour les appels vers les services automatisés si votre opérateur gère la modulation tarifaire, sinon <Valeur>0,112 €</Valeur> TTC par appel</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>Depuis un mobile : décompte du forfait ou hors forfait selon les opérateurs.</Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone : mise en relation avec un conseiller pour vous inscrire, vous renseigner, modifier un rendez-vous</Paragraphe>
+</Titre>
+								<Paragraphe>39 49</Paragraphe>
+								<Paragraphe>Service accessible aux horaires fixés par chaque agence Pôle emploi.</Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>
+			
+      Depuis un fixe : appel à <Valeur>0,112 €</Valeur> TTC</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>Depuis un mobile : décompte du forfait ou hors forfait selon les opérateurs</Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Accès via le <LienExterne URL="https://www.pole-emploi.fr/faq/">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R194" type="Local personnalisé sur SP">
+<Titre>Pôle emploi</Titre>
+<PivotLocal>pole_emploi</PivotLocal>
+<RessourceWeb URL="http://www.pole-emploi.fr/informations/votre-pole-emploi-@/votre_pole_emploi/" commentaireLien="Pôle emploi - réseau local"/>
+<Source ID="R30668">Pôle emploi</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R31528" URL="http://candidat.pole-emploi.fr/candidat/rechercheoffres/avancee" type="Téléservice">
+<Titre>Recherche d'offres d'emploi</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36917" URL="http://jd.apec.fr/MesOffres/Recherche/saisir-criteres-recherche-offres.jsp" type="Téléservice">
+<Titre>Recherche d'un emploi de cadre (Apec)</Titre>
+<Source ID="R30897">Association pour l'emploi des cadres (Apec)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F13240" audience="Particuliers">Chômage : quelles sont les catégories de demandeurs d'emploi ?</QuestionReponse>
+<QuestionReponse ID="F24465" audience="Particuliers">Quels sont les justificatifs d'identité acceptés pour s'inscrire à Pôle emploi ?</QuestionReponse>
+<QuestionReponse ID="F2761" audience="Particuliers">Médiateur de Pôle emploi : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F31225" audience="Particuliers">Licenciement pour inaptitude physique : quand débute le versement de l'ARE ?</QuestionReponse>
+</Publication>

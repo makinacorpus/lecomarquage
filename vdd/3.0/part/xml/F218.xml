@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F218" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Test de dépistage du Sida</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Le dépistage du VIH permet de savoir si on est infecté par le virus.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-27</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F218</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171180&amp;cidTexte=LEGITEXT000006072665, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190992&amp;cidTexte=LEGITEXT000006072665</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N434</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N434">Prévention - Vaccinations</Niveau>
+<Niveau ID="F218" type="Fiche d'information">Test de dépistage du Sida</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20180">Santé</SousThemePere><DossierPere ID="N434">
+<Titre>Prévention - Vaccinations</Titre><SousDossier ID="N434-1">
+<Titre>Bilans et examens gratuits</Titre>
+<Fiche ID="F170">Bilan de santé gratuit</Fiche>
+<Fiche ID="F243">Examens et soins bucco-dentaires pour les jeunes</Fiche>
+<Fiche ID="F218">Test de dépistage du Sida</Fiche>
+</SousDossier>
+<SousDossier ID="N434-2">
+<Titre>Vaccinations</Titre>
+<Fiche ID="F724">Calendrier des vaccinations</Fiche>
+<Fiche ID="F704">Vaccination : diphtérie, tétanos, poliomyélite (DTP)</Fiche>
+<Fiche ID="F714">Vaccin contre la grippe saisonnière</Fiche>
+<Fiche ID="F723">Vaccinations contre l'hépatite</Fiche>
+<Fiche ID="F700">Vaccin contre la tuberculose (BCG)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Bilans et examens gratuits</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le dépistage du VIH permet de savoir si on est infecté par le virus.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le test de dépistage du virus de l'immunodéficience humaine (VIH) permet de déceler la présence du virus.</Paragraphe>
+<Paragraphe>Un dépistage précoce par rapport à la date de contamination permet de bénéficier d'un traitement d'autant plus efficace qu'il est commencé tôt. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Situations concernées</Paragraphe>
+</Titre><Paragraphe>Il est possible de faire un test de dépistage du VIH à tout moment et surtout si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> vous craignez d'avoir pris un risque,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si vous souhaitez, dans une relation de couple, être certain de ne pas être contaminé et de pouvoir abandonner l'utilisation de préservatif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si vous envisagez une grossesse.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le test de dépistage est systématique dans les cas suivants : don de sang, don de sperme, don d'organe, don de lait maternel et transfusion sanguine.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Méthodes de dépistage</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Test par prise de sang</Paragraphe>
+</Titre><Paragraphe>Le test du dépistage par prise de sang peut être réalisé à partir du 15<Exposant>e</Exposant> jour suivant la situation à risque.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Résultat du test positif</Paragraphe>
+</Titre><Paragraphe>Un autre test recherchant différents anticorps est effectué pour confirmer le diagnostic. Si ce dernier est négatif, il faut renouveler le dépistage un peu plus tard. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Résultat du test négatif</Paragraphe>
+</Titre><Paragraphe>Vous pouvez être rassuré si la dernière prise de risque d'exposition au virus date de 6 semaines ou plus.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Tests rapides d'orientation biologique (Trod)</Paragraphe>
+</Titre><Paragraphe>Il est pratiqué au moyen d'un réactif détectant l'infection au VIH sur du sang total (goutte de sang prélevée au bout d'un doigt ou prélèvement de la salive). </Paragraphe>
+<Paragraphe>Ce procédé permet d'avoir un résultat en 30 minutes maximum. </Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Résultat du test positif</Paragraphe>
+</Titre><Paragraphe>Le résultat doit être confirmé par un test sanguin en laboratoire.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Résultat du test négatif</Paragraphe>
+</Titre><Paragraphe>Vous pouvez être rassuré si la dernière prise de risque d'exposition date de 3 mois ou plus.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Vous pouvez également vous procurer un autotest de dépistage VIH (ADVIH) si vous souhaitez vous dépister seul à domicile. Cet autotest fait partie des Trod.</Paragraphe>
+<Paragraphe>Actuellement, seuls 2 autotests VIH disposent d'un marquage CE imposé par la réglementation européenne. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>la fiabilité de l'autotest n'est pas parfaite ; il existe des faux positifs (test positif et absence de contamination) et des faux négatifs (test négatif et contamination réelle).</Paragraphe>
+</Attention>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Prise de sang</Paragraphe>
+</Titre><Paragraphe>Vous pouvez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous adresser à votre médecin traitant ou un médecin exerçant en cabinet libéral qui vous prescrit une prise de sang à réaliser dans un laboratoire, remboursable à 100 % par l'Assurance maladie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous rendre dans un centre de dépistage anonyme et gratuit,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous adresser à un laboratoire sans prescription médicale et donc sans remboursement de l'Assurance maladie.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R17898" type="Local personnalisable">
+<Titre>Médecin</Titre>
+<PivotLocal>medecin</PivotLocal>
+<RessourceWeb URL="http://www.conseil-national.medecin.fr/"/>
+</OuSAdresser>
+
+<OuSAdresser ID="R26" type="Local personnalisé sur SP">
+<Titre>Centre de protection maternelle et infantile (PMI)</Titre>
+<PivotLocal>pmi</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Centre+de+protection+maternelle+et+infantile+%28PMI%29&amp;where="/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Trod</Paragraphe>
+</Titre><Paragraphe>Vous pouvez vous rendre gratuitement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans un centre de protection maternelle et infantile (PMI) ou planning familial,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> dans un centre de dépistage anonyme et gratuit,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans une association de lutte contre le Sida par exemple.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R26" type="Local personnalisé sur SP">
+<Titre>Centre de protection maternelle et infantile (PMI)</Titre>
+<PivotLocal>pmi</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Centre+de+protection+maternelle+et+infantile+%28PMI%29&amp;where="/>
+</OuSAdresser>
+
+<OuSAdresser ID="R36777" type="National">
+<Titre>Centre de dépistage du sida anonyme et gratuit</Titre>
+<RessourceWeb URL="http://www.sida-info-service.org/?-DEPISTAGE-VIH-sida-"/>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez également vous rendre dans une pharmacie pour acheter un autotest VIH d'un montant d'environ <Valeur> 28 €</Valeur>  non remboursé par l'Assurance maladie.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F723" audience="Particuliers">
+<Titre>Vaccinations contre l'hépatite</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171180&amp;cidTexte=LEGITEXT000006072665" ID="R36764">
+<Titre>Code de la santé publique : articles L3121-1 à L3121-2-2</Titre>
+<Complement>Infection par le virus de l'immunodéficience humaine</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190992&amp;cidTexte=LEGITEXT000006072665" ID="R36765">
+<Titre>Code de la santé publique : articles D3121-21 à D3121-26</Titre>
+<Complement>Consultations de dépistage anonyme et gratuit</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41659" URL="https://www.sida-info-service.org/" audience="Particuliers">
+<Titre>Site d'information sur le Sida</Titre>
+<Source ID="R30642">Sida Info Service</Source>
+</PourEnSavoirPlus>
+</Publication>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31116" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'une fondation universitaire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Associations spécifiques et fondations</dc:subject>
+<dc:description>Une fondation universitaire est une fondation abritée par un établissement d'enseignement supérieur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-06</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31116</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000019298956&amp;cidTexte=LEGITEXT000006071191, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027867154&amp;cidTexte=LEGITEXT000006071191</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31028</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31406">Associations spécifiques et fondations</Niveau>
+<Niveau ID="N31028">Fondations</Niveau>
+<Niveau ID="F31116" type="Fiche Question-réponse">Qu'est-ce qu'une fondation universitaire ?</Niveau>
+</FilDAriane>
+<Theme ID="N31406">
+<Titre>Associations spécifiques et fondations</Titre>
+</Theme><DossierPere ID="N31028">
+<Titre>Fondations</Titre>
+<Fiche ID="F31023">Fondation reconnue d'utilité publique</Fiche>
+<Fiche ID="F31016">Fondation d'entreprise</Fiche>
+<Fiche ID="F24469">Fonds de dotation</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Une fondation universitaire consiste en l'affectation irrévocable à un établissement public à caractère scientifique, culturel et professionnel (université, institut national des sciences appliquées, école normale supérieure, etc.) de biens, droits ou ressources par un ou plusieurs fondateurs en vue de la réalisation d'une ou plusieurs œuvres ou activités d'intérêt général et à but non lucratif conformes aux missions du service public de l'enseignement supérieur.</Paragraphe>
+<Paragraphe>Une fondation universitaire n'est donc pas une personne morale mais elle dispose de l'autonomie financière.</Paragraphe>
+<Paragraphe>Le budget de l'établissement d'enseignement supérieur est constitué du budget principal et d'un budget par fondation universitaire. </Paragraphe>
+<Paragraphe>Les fondations universitaires sont soumises aux mêmes dispositions que les <LienInterne LienPublication="F31023" type="Fiche d'information" audience="Associations">fondations reconnues d'utilité publique</LienInterne> en ce qui concerne leur création, leurs ressources, leur fonctionnement, leur dissolution.</Paragraphe>
+<Paragraphe>Les règles particulières de fonctionnement d'une fondation universitaire sont fixées dans ses statuts.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F31023" audience="Associations">
+<Titre>Fondation reconnue d'utilité publique</Titre>
+<Theme ID="N31406">
+<Titre>Associations spécifiques et fondations</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000019298956&amp;cidTexte=LEGITEXT000006071191" ID="R31279">
+<Titre>Code de l'éducation : article L719-12</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027867154&amp;cidTexte=LEGITEXT000006071191" ID="R31281">
+<Titre>Code de l'éducation : articles R719-194 à R719-205</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R31275" URL="http://www.enseignementsup-recherche.gouv.fr/pid25106/fondations-partenariales-et-universitaires.html" audience="Associations">
+<Titre>Fondations partenariales et universitaires</Titre>
+<Source ID="R31230">Ministère en charge de la recherche</Source>
+</PourEnSavoirPlus>
+</Publication>

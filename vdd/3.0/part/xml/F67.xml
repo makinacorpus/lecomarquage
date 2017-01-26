@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F67" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on passer par le terrain voisin pour des travaux chez soi (tour d'échelle)?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Oui, vous pouvez passer sur le terrain de votre voisin pour réaliser des travaux, sous certaines conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F67</dc:identifier>
+<dc:source>http://www.senat.fr/questions/base/2007/qSEQ070801316.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31030</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31030">Vie pratique en logement individuel (maison)</Niveau>
+<Niveau ID="F67" type="Fiche Question-réponse">Peut-on passer par le terrain voisin pour des travaux chez soi (tour d'échelle)?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N31030">
+<Titre>Vie pratique en logement individuel (maison)</Titre><SousDossier ID="N31030-1">
+<Titre>Mitoyenneté (droits des voisins)</Titre>
+<Fiche ID="F3037">Bornage de terrains</Fiche>
+<Fiche ID="F76">Ouvertures (fenêtres, balcons)</Fiche>
+<Fiche ID="F2040">Droit de passage sur la propriété d'un autre (servitude de passage)</Fiche>
+<Fiche ID="F2415">Murs</Fiche>
+<Fiche ID="F614">Plantations (haies, arbres, arbustes...)</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-2">
+<Titre>Aménagements extérieurs (jardin, cour...)</Titre>
+<Fiche ID="F31404">Piscine privative</Fiche>
+<Fiche ID="F31471">Annexes extérieures</Fiche>
+<Fiche ID="F31473">Travaux extérieurs</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-3">
+<Titre>Utilisation de l'énergie renouvelable</Titre>
+<Fiche ID="F31481">Récupération de l'eau de pluie</Fiche>
+<Fiche ID="F31487">Production d'électricité solaire (toiture photovoltaïque)</Fiche>
+<Fiche ID="F31488">Production de chaleur à l'énergie solaire</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, vous pouvez passer sur le terrain de votre voisin pour réaliser des travaux chez vous s'il n'existe pas d'autre moyen pour les réaliser :  c'est ce que l'on appelle un <Expression>tour d'échelle</Expression>.</Paragraphe>
+<Paragraphe>Pour pouvoir passer sur le terrain de votre voisin, y poser une échelle ou un échafaudage en vue d'effectuer les travaux chez vous (c'est notamment le cas des maisons mitoyennes), l'accord  de votre voisin est toutefois nécessaire. À défaut, il faut saisir le juge pour obtenir un droit de passage temporaire.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le tour d'échelle ne repose sur aucun texte : il relève de règles d'usage.</Paragraphe>
+</ANoter><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>1er cas : vous avez l'accord de votre voisin</Paragraphe>
+</Titre><Paragraphe>Si vous obtenez l'autorisation de votre voisin, vous devez alors définir ensemble, par écrit, les modalités du <Expression>tour d'échelle</Expression> telles que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la durée des travaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les dates et heures de passage,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les précautions à prendre pour ne pas endommager le terrain.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Un dédommagement peut être prévu au profit du voisin :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par le versement d'une indemnité d'occupation pour le trouble de jouissance, </Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>par la réalisation de réparations en cas de dégâts.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>2ème cas : vous n'avez pas l'accord de votre voisin</Paragraphe>
+</Titre><Paragraphe>Si votre voisin n'est pas d'accord pour vous laisser pénétrer sur sa propriété, vous pouvez <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">saisir le tribunal de grande instance</LienInterne> pour obtenir l'autorisation temporaire qui vous est nécessaire.</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Cette autorisation est accordée uniquement si vous êtes en mesure de prouver que le tour d'échelle est indispensable à la réalisation de vos travaux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur le plan technique (vous ne pouvez pas faire autrement et ces travaux sont nécessaires à la conservation du bien),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou sur le plan économique (une autre solution technique est possible, mais son coût serait excessif).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le refus de <Expression>tour d'échelle</Expression> peut être considéré par le juge comme un abus de droit.</Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.senat.fr/questions/base/2007/qSEQ070801316.html" ID="R38622">
+<Titre>Réponse ministérielle n° 01316 du 28 février 2008 (JO du Sénat)</Titre>
+</Reference>
+</Publication>

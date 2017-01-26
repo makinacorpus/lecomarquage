@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1283" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration 2016 des revenus fonciers</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Déclaration 2016 des revenus fonciers - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-09</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1283</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1283" type="Formulaire">Déclaration 2016 des revenus fonciers</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>10334*20</NumeroCerfa>
+<AutreNumero>2044</AutreNumero>
+<Texte><Paragraphe>Permet de déclarer les revenus provenant de la location de locaux non meublés (loyers, fermages), autres que ceux concernés par la déclaration 2044 spéciale, les revenus fonciers tels que des redevances d'affichage, l'usage de certains bien tels qu'étangs, cours d'eau, etc.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/files/formulaires/2044/2016/2044_314.pdf" format="application/pdf" poids="108.0 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb><NoticeLiee ID="R43791" URL="https://www.impots.gouv.fr/portail/files/formulaires/2044/2016/2044_328.pdf" numerocerfa="50156#20">Notice pour remplir votre déclaration de revenus fonciers</NoticeLiee>
+
+<FicheLiee ID="F358" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : déclaration annuelle</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1991" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : revenus fonciers à déclarer (locaux non meublés)</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Dossier ID="N247">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

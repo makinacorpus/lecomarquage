@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32880" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Renouvellement d'une demande de logement social</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Toute demande de logement social doit être renouvelée chaque année. À défaut, une nouvelle inscription comme demandeur de logement social est nécessaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-10</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32880</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177650&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F32880" type="Fiche d'information">Renouvellement d'une demande de logement social</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès au logement social</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Toute demande de logement social doit être renouvelée chaque année. À défaut, une nouvelle inscription comme demandeur de logement social est nécessaire. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Échéance</Paragraphe>
+</Titre><Paragraphe>Une  demande de logement qui n'est pas encore satisfaite doit être renouvelée chaque année.</Paragraphe>
+<Paragraphe>Un rappel est adressé au demandeur au moins 1 mois avant l'expiration de la date anniversaire du dépôt ou du dernier renouvellement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la nécessité de renouveler sa demande,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et du délai imparti pour le faire.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Modalités</Paragraphe>
+</Titre><Paragraphe>Le renouvellement peut se faire par internet ou au guichet.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre><Paragraphe>Le renouvellement s'effectue par le biais du site   de demande de logement social.</Paragraphe>
+<ServiceEnLigne ID="R34754" URL="https://www.demande-logement-social.gouv.fr" type="Téléservice">
+<Titre>Demande, renouvellement ou mise à jour d'une demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+<Texte><Paragraphe>Ce site vous permet :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de faire votre demande de logement social </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de la renouveler avant la fin du délai d'un an.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il vous permet aussi de mettre à jour votre dossier en cas de changement de situation (composition de votre famille, évolution de vos revenus...).</Paragraphe>
+<Paragraphe>Vous pouvez y accéder à l'aide du numéro d'enregistrement de votre dossier.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>certains départements ont leur propre site internet pour  effectuer la demande de logement social en ligne.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Une attestation de renouvellement est remise au demandeur dans un délai d'1 mois  par voie électronique. </Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>certains départements possèdent leur propre site internet. La liste de ces départements et des sites internet à utiliser est consultable à partir du   <LienInterne LienPublication="R34754" type="Téléservice" audience="Particuliers">site  de demande de logement social</LienInterne>.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Au guichet</Paragraphe>
+</Titre><Paragraphe>Le renouvellement peut s'effectuer auprès des  guichets suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit auprès d'un bailleur social ou d'un service de l’État (éventuellement  la mairie). Il existe une <LienExterne URL="https://www.demande-logement-social.gouv.fr/oualler/accesOuAllerChoixLocation.do">liste des guichets où déposer sa demande de logement social</LienExterne>
+
+ ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit auprès d'un   <LienExterne URL="https://www2.actionlogement.fr/implantations">comité régional d'Action logement</LienExterne>
+
+, si vous êtes  salarié d'une entreprise du secteur privé (autre qu'agricole) de plus de 20 personnes et cotisant à la participation des employeurs à l'effort de construction (1% logement). Pour le savoir, il convient de se renseigner auprès de son employeur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit du service social de votre administration, si vous êtes fonctionnaire ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit auprès d'un <LienExterne URL="http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2014/10/dihal_-_annuaire_siao_ecran.pdf" format="application/pdf" poids="2.4 MB">service intégré d'accueil et d'orientation (SIAO)</LienExterne>
+
+, si vous êtes hébergé dans une structure d'accompagnement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Une attestation de renouvellement est remise au demandeur dans un délai d'1 mois par courrier.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conséquence du non renouvellement</Paragraphe>
+</Titre><Paragraphe>Une  demande non renouvelée est  automatiquement annulée. </Paragraphe>
+<Paragraphe>Le candidat qui souhaite renouveler sa demande doit alors <LienInterne LienPublication="F10007" type="Fiche d'information" audience="Particuliers">recommencer toute la procédure</LienInterne> pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>enregistrer sa demande de logement, </Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et obtenir à nouveau un numéro d'enregistrement. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le renouvellement doit ensuite être effectué avant la date de dépôt de la nouvelle demande.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F10007" audience="Particuliers">
+<Titre>Demande d'un logement social (HLM)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177650&amp;cidTexte=LEGITEXT000006074096" ID="R34301">
+<Titre>Code de la construction et de l'habitation : articles R441-1 à R*441-12</Titre>
+<Complement>Article R441-2-7</Complement>
+</Reference>
+<ServiceEnLigne ID="R34754" URL="https://www.demande-logement-social.gouv.fr" type="Téléservice">
+<Titre>Demande, renouvellement ou mise à jour d'une demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R45265" URL="https://www.demande-logement-social.gouv.fr/oualler/accesOuAllerChoixLocation.do" audience="Particuliers">
+<Titre>Liste des guichets compétents pour déposer une demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R46637" URL="https://www2.actionlogement.fr/implantations" audience="Particuliers">
+<Titre>Comités régional d'Action logement</Titre>
+<Source ID="R30734">Union d'économie sociale pour le logement (UESL)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45389" URL="http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2014/10/dihal_-_annuaire_siao_ecran.pdf" audience="Particuliers" format="application/pdf" poids="2.4 MB">
+<Titre>Service intégré de l'accueil et de l'orientation (SIAO)</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+</Publication>

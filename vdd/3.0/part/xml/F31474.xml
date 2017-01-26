@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31474" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>La mairie peut-elle refuser un dossier de mariage ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Non. Si le dossier de mariage qui lui est présenté est complet, la mairie ne peut pas le refuser.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31474</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136125&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180965&amp;cidTexte=LEGITEXT000006070633, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006389973&amp;idSectionTA=LEGISCTA000006192257&amp;cidTexte=LEGITEXT000006070633&amp;dateTexte=vig, http://circulaires.legifrance.gouv.fr/pdf/2013/06/cir_37118.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N142</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N142">Mariage</Niveau>
+<Niveau ID="F31474" type="Fiche Question-réponse">La mairie peut-elle refuser un dossier de mariage ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere><DossierPere ID="N142">
+<Titre>Mariage</Titre><SousDossier ID="N142-1">
+<Titre>Célébration</Titre>
+<Fiche ID="F930">Mariage en France</Fiche>
+<Fiche ID="F21614">Mariage d'un Français à l'étranger</Fiche>
+</SousDossier>
+<SousDossier ID="N142-2">
+<Titre>Régime matrimonial</Titre>
+<Fiche ID="F835">Communauté réduite aux acquêts</Fiche>
+<Fiche ID="F948">Contrat de mariage</Fiche>
+</SousDossier>
+<SousDossier ID="N142-3">
+<Titre>Obligations des époux</Titre>
+<Fiche ID="F1196">Obligation alimentaire</Fiche>
+<Fiche ID="F966">Contribution aux charges du mariage</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Non, elle n'en a pas le pouvoir. Dès lors que le dossier de mariage qui lui est présenté est complet, la mairie doit procéder à son enregistrement. Elle est obligée de l'accepter, même si elle estime que le mariage demandé est contraire aux lois. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>S'il existe des indices sérieux laissant supposer que le mariage pourrait être annulé par la justice,  le maire  doit  en demander <MiseEnEvidence>sans délai</MiseEnEvidence> l'interdiction au <LienIntra LienID="R1123" type="Définition de glossaire">procureur de la République</LienIntra>.</Paragraphe>
+<Paragraphe>Il doit avertir  de sa démarche, par écrit, les personnes ayant déposé le dossier de mariage.</Paragraphe>
+<Paragraphe>Le procureur de la République décide ensuite si le mariage sera ou non célébré, dans un délai maximum de 2 mois et 15 jours, après enquête et auditions éventuelles des personnes concernées.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le procureur autorise le mariage </Paragraphe>
+</Titre><Paragraphe>Le maire est obligé de le célébrer.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le procureur l'interdit</Paragraphe>
+</Titre><Paragraphe>S'il interdit le mariage, les personnes souhaitant se marier   peuvent contester cette décision devant le <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">tribunal de grande instance</LienInterne>, qui statue sous 10 jours.</Paragraphe>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>si un maire refuse un dossier de mariage sans en prévenir immédiatement le procureur, les futurs époux doivent en alerter à la fois le préfet et le procureur de la République.</Paragraphe>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136125&amp;cidTexte=LEGITEXT000006070721" ID="R32256">
+<Titre>Code civil : articles 172 à 179</Titre>
+<Complement>Oppositions au mariage (articles 175-1 à 179)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180965&amp;cidTexte=LEGITEXT000006070633" ID="R32523">
+<Titre>Code général des collectivités territoriales : articles L2122-7 à L2122-17</Titre>
+<Complement>Sanctions contre un maire ou un adjoint (articles L2122-16 et L2122-17)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006389973&amp;idSectionTA=LEGISCTA000006192257&amp;cidTexte=LEGITEXT000006070633&amp;dateTexte=vig" ID="R12992">
+<Titre>Code général des collectivités territoriales : articles L2122-27 à L2122-34</Titre>
+<Complement>Fonction d'officier d'état civil (articles L2122-32 à L2122-34)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2013/06/cir_37118.pdf" ID="R32519" format="application/pdf" poids="1.3 MB">
+<Titre>Circulaire du 13 juin 2013 relative aux conséquences du refus illégal de célébrer un mariage</Titre>
+</Reference>
+<Definition ID="R1123">
+<Titre>Procureur de la République</Titre>
+<Texte>
+				<Paragraphe>Magistrat à la tête du parquet (ou ministère public) au sein d'un tribunal de grande instance (TGI). Il est destinataire des plaintes et signalements. Il dirige les enquêtes, décide des poursuites et veille à l'application de la loi.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31476" audience="Particuliers">Un maire peut-il refuser de célébrer lui-même un mariage ?</QuestionReponse>
+</Publication>

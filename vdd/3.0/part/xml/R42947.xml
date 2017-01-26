@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42947" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande en ligne de permis de conduire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Au préalable, créer un compte sur le site de l'ANTS et vous munir de vos identifiants.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-16</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42947</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N530">Permis de conduire</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42947" type="Téléservice">Demande en ligne de permis de conduire</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Au préalable, créer un compte sur le site de l'ANTS et vous munir de vos identifiants.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Ce service, accessible dans tous les départements, vous permet de faire dans son intégralité une demande de permis de conduire en cas de perte, de vol, de détérioration ou d'expiration de la durée administrative de votre permis de conduire ou en cas de changement d'état civil.</Paragraphe>
+<Paragraphe>Vous aurez besoin : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un code photo d'identité numérique, que l'on obtient auprès des cabines ou photographes agréés (liste disponible sur <LienExterne URL="https://permisdeconduire.ants.gouv.fr/Services-associes/Ou-faire-votre-photo-et-votre-signature-numerisee">le site de l'ANTS</LienExterne>
+
+), repérables grâce à la présence  d'une vignette "Agréé Services en ligne ANTS" vous indiquant que la cabine ou le professionnel peut produire la photographie et la signature compatibles avec la demande de permis de conduire en ligne,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de vos pièces justificatives au format numérique,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'une connexion internet,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'une adresse mel ou d'un numéro de téléphone mobile afin d'être informé de l'avancement du processus d'instruction et de production du permis de conduire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La démarche est entièrement dématérialisée si, lors de votre passage en cabine ou chez le professionnel, vous obtenez une <Expression>e-photo</Expression> <MiseEnEvidence>et</MiseEnEvidence> une signature électronique (pour recueillir votre signature, vous utiliserez une surface tactile. Un numéro unique, valable pour votre photo et votre signature, appelé <Expression>code photo numérique</Expression> vous sera alors remis).</Paragraphe>
+<Paragraphe>En fin de procédure sur le téléservice, dans le cas d'une perte ou d'un vol, vous êtes dirigé vers une page vous permettant de régler en ligne le coût du nouveau permis (<Valeur>25 €</Valeur>).</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://permisdeconduire.ants.gouv.fr/Services-associes/Effectuer-une-demande-de-permis-de-conduire">
+<Source>Agence nationale des titres sécurisés (ANTS)</Source>
+</LienWeb>
+<FicheLiee ID="F2695" audience="Particuliers" type="Fiche d'information">
+<Titre>Changement de nom sur le permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20109" audience="Particuliers" type="Fiche d'information">
+<Titre>Détérioration du permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2824" audience="Particuliers" type="Fiche d'information">
+<Titre>Inscription à l'examen du permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2686" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis de conduire et contrôle médical pour raisons de santé</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1255" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis de conduire professionnel : contrôle médical obligatoire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1727" audience="Particuliers" type="Fiche d'information">
+<Titre>Perte du permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1450" audience="Particuliers" type="Fiche d'information">
+<Titre>Vol du permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<Dossier ID="N530">
+<Titre>Permis de conduire</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

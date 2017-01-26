@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31791" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Calculateur du dispositif Pinel</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Calculateur du dispositif Pinel - Simulateur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-10</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31791</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N19785">Impôt sur le revenu : déductions, réductions et crédits d'impôt</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31791" type="Simulateur">Calculateur du dispositif Pinel</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.logement.gouv.fr/spip.php?page=article-sous-site&amp;id_article=1195&amp;sommaire=380">
+<Source>Ministère en charge du logement</Source>
+</LienWeb>
+<FicheLiee ID="F31151" audience="Particuliers" type="Fiche d'information">
+<Titre>Réduction d'impôt pour investissement locatif (dispositifs Duflot/Pinel)</Titre>
+<Dossier ID="N19785">Impôt sur le revenu : déductions, réductions et crédits d'impôt</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

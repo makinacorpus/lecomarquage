@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2088" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Permis de chasser : examen et délivrance</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Pour chasser, il est obligatoire de passer un examen et d'avoir un permis de chasser.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-02</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2088</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006176538&amp;cidTexte=LEGITEXT000006074220, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188840&amp;cidTexte=LEGITEXT000006074220, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188842&amp;cidTexte=LEGITEXT000006074220, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006306797&amp;idSectionTA=LEGISCTA000006162736&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028138597</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N553</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N553">Chasse</Niveau>
+<Niveau ID="F2088" type="Fiche d'information">Permis de chasser : examen et délivrance</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N19969">Chasse et pêche</SousThemePere><DossierPere ID="N553">
+<Titre>Chasse</Titre><SousDossier ID="N553-1">
+<Titre>Permis de chasser</Titre>
+<Fiche ID="F2088">Permis de chasser : examen et délivrance</Fiche>
+<Fiche ID="F2091">Permis de chasser : document de validation pour l'année en cours</Fiche>
+</SousDossier>
+<SousDossier ID="N553-2">
+<Titre>Obligations du chasseur</Titre>
+<Fiche ID="F15819">Obtenir l'autorisation de chasser</Fiche>
+<Fiche ID="F2093">Respecter la réglementation sur les armes de chasse</Fiche>
+<Fiche ID="F2146">S'assurer pour la pratique de la chasse</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Permis de chasser</SousDossierPere>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Majeur</Titre>
+<Texte><Paragraphe>Le permis de chasser, obligatoire pour pratiquer la chasse, s'obtient à la suite d'un examen comprenant, dans une séance unique, des questions théoriques et des exercices pratiques. Pour s'inscrire à cet examen et recevoir son permis de chasser, il faut s'acquitter de droits.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions à remplir</Paragraphe>
+</Titre><Paragraphe>Avant de vous inscrire à l'examen, vous devez suivre au moins une séance de préparation aux questions écrites et une séance de formation pratique assurées par les fédérations départementales.</Paragraphe>
+<Paragraphe>Plusieurs sessions sont organisées chaque année et il faut prendre contact avec votre fédération départementale de l'office national de la chasse et de la faune sauvage pour connaître les dates.</Paragraphe>
+<OuSAdresser ID="R2978" type="Local personnalisé sur SP">
+<Titre>Délégation interrégionale de l'Office national de la chasse et de la faune sauvage (ONCFS)</Titre>
+<PivotLocal>fdc</PivotLocal>
+<RessourceWeb URL="http://www.oncfs.gouv.fr/LONCFS-en-Region-district20"/>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Formalité d'inscription</Paragraphe>
+</Titre><Paragraphe>À la suite de cette formation, vous vous inscrivez à l'examen du permis de chasser au moyen du formulaire cerfa n°13945*04. </Paragraphe>
+<Paragraphe>Vous adressez ce formulaire à la fédération départementale ou interdépartementale des chasseurs de votre domicile.</Paragraphe>
+<ServiceEnLigne ID="R1340" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13945" numerocerfa="13945*04" type="Formulaire">
+<Titre>Demande d'inscription à l'examen et de délivrance du permis de chasser</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13945*04">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13945.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R18298" type="Local">
+<Titre>Fédération départementale des chasseurs</Titre>
+<RessourceWeb URL="http://www.chasseurdefrance.com/annuaire/les-federations-des-chasseurs/"/>
+<Source ID="R30787">Fédération nationale de la chasse</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous devez joindre les documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>photocopie d'une pièce d'identité (carte nationale d'identité, passeport, pour les étrangers toute pièce en tenant lieu),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un spécimen de votre signature,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 photos aux <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">normes requises</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 enveloppes libellées à votre candidat et affranchies au tarif en vigueur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>copie de l'attestation de formation théorique et pratique remise par la fédération départementale ou interdépartementale des chasseurs où vous avez suivi votre formation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>certificat médical datant de moins de 2 mois attestant que votre état de santé physique et psychique est compatible avec la détention d'une arme,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration sur l'honneur de non-privation du droit de détention ou de port d'armes par décision préfectorale ou suite à une condamnation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration sur l'honneur relative aux causes d'incapacité et d'interdiction pouvant faire obstacle à la délivrance du permis de chasser,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du droit d'inscription à l'examen et du droit de timbre pour la délivrance du permis de chasser,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous êtes majeur sous tutelle, une autorisation du juge des tutelles.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'inscription à l'examen doit être demandée au plus tard un mois avant la date de la session.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>en cas d'échec à l'examen, il faut déposer un nouveau dossier d'inscription.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Pour un candidat <MiseEnEvidence>majeur</MiseEnEvidence>, le coût est de <Valeur>46,00 €</Valeur>
+</Paragraphe>
+<Paragraphe>(redevance de <Valeur>30 €</Valeur> + droit d'inscription à l'examen  de <Valeur>16 €</Valeur>).</Paragraphe>
+<Paragraphe>Le montant est réglé par chèque ou mandat, libellé à l'ordre de l'agent comptable de l'Office national de la chasse et de la faune sauvage (ONCFS).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déroulement de l'examen</Paragraphe>
+</Titre><Paragraphe>L'examen, qui est réalisé sous le contrôle d'agents de l'ONCFS habilités, comporte des épreuves théoriques sous forme de questions écrites et des épreuves pratiques sous forme d'exercices.</Paragraphe>
+<Paragraphe>Ces épreuves se déroulent au cours d'une même séance.</Paragraphe>
+<Paragraphe>Pour être reçu, il faut avoir obtenu la note minimum de 25 points sur 31 et avoir répondu correctement à la question théorique éliminatoire.</Paragraphe>
+<Paragraphe>En cas d'échec à l'une des 2 épreuves, vous devez déposer un nouveau dossier d'inscription et vous présenter à une nouvelle session.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Documents à présenter</Paragraphe>
+</Titre><Paragraphe>Le jour de l'examen, vous devez présenter :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la convocation aux épreuves,
+		qui est adressée à domicile par l'ONCFS, dans un délai de 15 jours avant la date d'examen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre certificat de suivi de la formation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une pièce d'identité.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Questions théoriques</Paragraphe>
+</Titre><Paragraphe>Les questions théoriques, au nombre de 10, permettent de vérifier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les connaissances des espèces sauvages et de leurs milieux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la connaissance de la chasse,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la connaissance des armes et des munitions, de leur emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la connaissance des règles de sécurité ainsi que celle de la réglementation de la chasse et de la protection de la nature.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Chaque question est notée sur 1 point et l'une d'elles, portant sur la sécurité de la chasse, est éliminatoire.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exercices pratiques</Paragraphe>
+</Titre><Paragraphe>Les exercices pratiques de l'examen, au nombre de 4, se déroulent en extérieur sur un site spécialement aménagé.</Paragraphe>
+<Paragraphe>Ils permettent de vérifier l'aptitude à manipuler, avec des munitions fictives et réelles, des armes de chasse à canons lisses et rayés en toute sécurité, et de juger des réflexes lors de diverses situations rencontrées au cours d'actions de chasse.</Paragraphe>
+<Paragraphe>Tout  comportement dangereux au cours des exercices pratiques est immédiatement éliminatoire et interrompt l'examen.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délivrance du permis ou du certificat provisoire</Paragraphe>
+</Titre><Paragraphe>En cas de réussite à l'examen, le permis vous est délivré par l'agent de l'ONCFS qui a contrôlé l'épreuve pratique après que vous ayez attesté sur l'honneur ne pas être dans l'un des cas pouvant faire obstacle à la délivrance du permis de chasser.</Paragraphe>
+<Paragraphe>En cas d'impossibilité matérielle de délivrer le permis, l'agent de l'ONCFS vous remet un certificat provisoire qui vaut permis de chasser pendant 2 mois à compter de la date de réussite à l'épreuve pratique.</Paragraphe>
+<Paragraphe>Le permis ou le certificat sont délivrés sous réserve que vous ayez acquitté toutes les redevances et présenté une pièce d'identité avec photographie.</Paragraphe>
+<Paragraphe>Si vous n'avez reçu qu'un certificat provisoire, vous recevrez dans le délai de 2 mois votre permis de chasser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à votre domicile</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou, si vous circulez en France ou êtes sans domicile fixe, à la mairie de la commune à laquelle vous êtes rattaché.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Toute demande de délivrance du permis de chasser faite postérieurement au jour de la réussite à l'épreuve pratique est adressée à l'ONCFS à l'aide du formulaire cerfa n°13943*02 accompagné des documents mentionnés sur le formulaire.</Paragraphe>
+<ServiceEnLigne ID="R1337" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13943.do" numerocerfa="13943*02" type="Formulaire">
+<Titre>Demande de délivrance du permis de chasser</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+<Introduction>
+<Texte><Paragraphe>Demande à remplir pour obtenir le permis de chasser</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R2978" type="Local personnalisé sur SP">
+<Titre>Délégation interrégionale de l'Office national de la chasse et de la faune sauvage (ONCFS)</Titre>
+<PivotLocal>fdc</PivotLocal>
+<RessourceWeb URL="http://www.oncfs.gouv.fr/LONCFS-en-Region-district20"/>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Remboursement</Paragraphe>
+</Titre><Paragraphe>Si vous ne pouvez pas vous faire délivrer le permis de chasser, vous pouvez vous faire rembourser la redevance que vous avez réglée à l'ONCFS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>lorsque vous vous trouvez notamment dans l'un des cas (incapacité juridique, condamnations interdisant la pratique de la chasse, problème médical) qui peut faire obstacle à la délivrance du permis,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous avez échoué et décidé de ne pas vous présenter à une nouvelle session.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous devez adresser votre demande de remboursement à l'ONCFS en joignant une copie du refus de délivrance du permis qui vous a été fait. </Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Mineur</Titre>
+<Texte><Paragraphe>Le permis de chasser, obligatoire pour pratiquer la chasse, s'obtient à la suite d'un examen comprenant, dans une séance unique, des questions théoriques et des exercices pratiques. Pour s'inscrire à cet examen et recevoir son permis de chasser, il faut s'acquitter de droits.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions à remplir</Paragraphe>
+</Titre><Paragraphe>Pour participer aux épreuves du permis de chasser, vous devez avoir 15 ans révolus le jour de l'examen.</Paragraphe>
+<Paragraphe>Avant de vous inscrire à l'examen, vous devez suivre au moins une séance de préparation aux questions écrites et une séance de formation pratique assurées par les fédérations départementales.</Paragraphe>
+<Paragraphe>Plusieurs sessions sont organisées chaque année et il faut prendre contact avec votre fédération départementale de l'office national de la chasse et de la faune sauvage pour connaître les dates.</Paragraphe>
+<OuSAdresser ID="R2978" type="Local personnalisé sur SP">
+<Titre>Délégation interrégionale de l'Office national de la chasse et de la faune sauvage (ONCFS)</Titre>
+<PivotLocal>fdc</PivotLocal>
+<RessourceWeb URL="http://www.oncfs.gouv.fr/LONCFS-en-Region-district20"/>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Formalité d'inscription</Paragraphe>
+</Titre><Paragraphe>À la suite de cette formation, vous pouvez vous inscrire à l'examen du permis de chasser au moyen du formulaire cerfa n°13945*04. </Paragraphe>
+<Paragraphe>Vous adressez ce formulaire à la fédération départementale ou interdépartementale des chasseurs de votre domicile.</Paragraphe>
+<ServiceEnLigne ID="R1340" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13945" numerocerfa="13945*04" type="Formulaire">
+<Titre>Demande d'inscription à l'examen et de délivrance du permis de chasser</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13945*04">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13945.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R18298" type="Local">
+<Titre>Fédération départementale des chasseurs</Titre>
+<RessourceWeb URL="http://www.chasseurdefrance.com/annuaire/les-federations-des-chasseurs/"/>
+<Source ID="R30787">Fédération nationale de la chasse</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous devez joindre les documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>photocopie d'une pièce d'identité (carte nationale d'identité, passeport, pour les étrangers toute pièce en tenant lieu),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un spécimen de votre signature,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 photos aux <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">normes requises</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>2 enveloppes libellées à votre adresse et affranchies au tarif en vigueur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>copie de l'attestation de formation théorique et pratique remise par la fédération départementale ou interdépartementale des chasseurs où vous avez suivi votre formation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>certificat médical datant de moins de 2 mois attestant que votre état de santé physique et psychique est compatible avec la détention d'une arme,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration sur l'honneur de non-privation du droit de détention ou de port d'armes par décision préfectorale ou suite à une condamnation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration sur l'honneur relative aux causes d'incapacité et d'interdiction pouvant faire obstacle à la délivrance du permis de chasser,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>montant du droit d'inscription à l'examen et du droit de timbre pour la délivrance du permis de chasser,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> autorisation d'un de vos parents ou de votre tuteur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'inscription à l'examen doit être demandée au plus tard un mois avant la date de la session.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>en cas d'échec à l'examen, il faut déposer un nouveau dossier d'inscription.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Pour un candidat <MiseEnEvidence>mineur</MiseEnEvidence>, le coût est <Valeur>31,00 €</Valeur>
+</Paragraphe>
+<Paragraphe>(redevance de <Valeur>15 €</Valeur> + droit d'inscription à l'examen  de <Valeur>16 €</Valeur>).</Paragraphe>
+<Paragraphe>Le montant est réglé par chèque ou mandat, libellé à l'ordre de l'agent comptable de l'Office national de la chasse et de la faune sauvage (ONCFS).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déroulement de l'examen</Paragraphe>
+</Titre><Paragraphe>L'examen, qui est réalisé sous le contrôle d'agents de l'ONCFS habilités, comporte des épreuves théoriques sous forme de questions écrites et des épreuves pratiques sous forme d'exercices.</Paragraphe>
+<Paragraphe>Ces épreuves se déroulent au cours d'une même séance.</Paragraphe>
+<Paragraphe>Pour être reçu, vous devez avoir obtenu la note minimum de 25 points sur 31 et avoir répondu correctement à la question théorique éliminatoire.</Paragraphe>
+<Paragraphe>En cas d'échec à l'une des 2 épreuves, vous devez déposer un nouveau dossier d'inscription et vous présenter à une nouvelle session.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Documents à présenter</Paragraphe>
+</Titre><Paragraphe>Le jour de l'examen, vous devez présenter :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la convocation aux épreuves,
+		qui est adressée à domicile par l'ONCFS, dans un délai de 15 jours avant la date d'examen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre certificat de suivi de la formation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une pièce d'identité.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Questions théoriques</Paragraphe>
+</Titre><Paragraphe>Les questions théoriques, au nombre de 10, permettent de vérifier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les connaissances des espèces sauvages et de leurs milieux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la connaissance de la chasse,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la connaissance des armes et des munitions, de leur emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la connaissance des règles de sécurité ainsi que celle de la réglementation de la chasse et de la protection de la nature.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Chaque question est notée sur 1 point et l'une d'elles, portant sur la sécurité de la chasse, est éliminatoire.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exercices pratiques</Paragraphe>
+</Titre><Paragraphe>Les exercices pratiques de l'examen, au nombre de 4, se déroulent en extérieur sur un site spécialement aménagé.</Paragraphe>
+<Paragraphe>Ils permettent de vérifier l'aptitude à manipuler, avec des munitions fictives et réelles, des armes de chasse à canons lisses et rayés en toute sécurité, et de juger des réflexes lors de diverses situations rencontrées au cours d'actions de chasse.</Paragraphe>
+<Paragraphe>Tout  comportement dangereux au cours des exercices pratiques est immédiatement éliminatoire et interrompt l'examen.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délivrance du permis ou du certificat provisoire</Paragraphe>
+</Titre><Paragraphe>En cas de réussite à l'examen, le permis vous est délivré par l'agent de l'ONCFS qui a contrôlé l'épreuve pratique après que vous ayez attesté sur l'honneur ne pas être dans <LienInterne LienPublication="F15819" type="Fiche d'information" audience="Particuliers">l'un des cas</LienInterne> pouvant faire obstacle à la délivrance du permis de chasser.</Paragraphe>
+<Paragraphe>En cas d'impossibilité matérielle de délivrer le permis, l'agent de l'ONCFS vous remet un certificat provisoire qui vaut permis de chasser pendant 2 mois à compter de la date de réussite à l'épreuve pratique.</Paragraphe>
+<Paragraphe>Le permis ou le certificat sont délivrés sous réserve que vous ayez acquitté toutes les redevances et présente une pièce d'identité avec photographie.</Paragraphe>
+<Paragraphe>Si vous n'avez reçu qu'un certificat provisoire, vous recevrez dans le délai de 2 mois votre permis de chasser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à votre domicile</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou, si vous circulez en France ou êtes sans domicile fixe, à la mairie de la commune à laquelle vous êtes rattaché.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Toute demande de délivrance du permis de chasser faite postérieurement au jour de la réussite à l'épreuve pratique est adressée à l'ONCFS à l'aide du formulaire cerfa n°13943*02 accompagné des documents mentionnés sur le formulaire.</Paragraphe>
+<ServiceEnLigne ID="R1337" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13943.do" numerocerfa="13943*02" type="Formulaire">
+<Titre>Demande de délivrance du permis de chasser</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+<Introduction>
+<Texte><Paragraphe>Demande à remplir pour obtenir le permis de chasser</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R2978" type="Local personnalisé sur SP">
+<Titre>Délégation interrégionale de l'Office national de la chasse et de la faune sauvage (ONCFS)</Titre>
+<PivotLocal>fdc</PivotLocal>
+<RessourceWeb URL="http://www.oncfs.gouv.fr/LONCFS-en-Region-district20"/>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Remboursement</Paragraphe>
+</Titre><Paragraphe>Si vous ne pouvez pas vous faire délivrer le permis de chasser, vous pouvez vous faire rembourser la redevance que vous avez réglée à l'ONCFS :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>lorsque vous vous trouvez notamment dans l'un des cas (incapacité juridique, condamnations interdisant la pratique de la chasse, problème médical) qui peut faire obstacle à la délivrance du permis,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous avez  moins de 16 ans et que vous avez réussi à l'examen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous avez échoué et décidez de ne pas vous présenter à une nouvelle cession.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous devez adresser votre demande de remboursement à l'ONCFS en joignant une copie du refus de délivrance du permis qui vous a été fait. </Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F15819" audience="Particuliers">
+<Titre>Autorisation de chasser</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R2978" type="Local personnalisé sur SP">
+<Titre>Délégation interrégionale de l'Office national de la chasse et de la faune sauvage (ONCFS)</Titre>
+<Complement>Pour obtenir des informations sur l'examen</Complement>
+<PivotLocal>fdc</PivotLocal>
+<RessourceWeb URL="http://www.oncfs.gouv.fr/LONCFS-en-Region-district20"/>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006176538&amp;cidTexte=LEGITEXT000006074220" ID="R14765">
+<Titre>Code de l'environnement : articles L423-5 à L423-8</Titre>
+<Complement>Examen pour la délivrance du permis de chasser</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188840&amp;cidTexte=LEGITEXT000006074220" ID="R14766">
+<Titre>Code de l'environnement : articles R423-2 à R423-7</Titre>
+<Complement>Examen pour la délivrance du permis de chasser</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188842&amp;cidTexte=LEGITEXT000006074220" ID="R34783">
+<Titre>Code de l'environnement : articles R423-9 à R423-11</Titre>
+<Complement>Délivrance et validation du permis de chasser</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006306797&amp;idSectionTA=LEGISCTA000006162736&amp;cidTexte=LEGITEXT000006069577" ID="R10755">
+<Titre>Code général des impôts : article 1635 bis N</Titre>
+<Complement>Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028138597" ID="R19336">
+<Titre>Arrêté du 7 octobre 2013 relatif aux modalités de l'examen préalable à la délivrance du permis de chasser</Titre>
+</Reference>
+<ServiceEnLigne ID="R1340" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13945" numerocerfa="13945*04" type="Formulaire">
+<Titre>Demande d'inscription à l'examen et de délivrance du permis de chasser</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13945*04">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13945.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1337" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13943.do" numerocerfa="13943*02" type="Formulaire">
+<Titre>Demande de délivrance du permis de chasser</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F10619" audience="Particuliers">Quelles photos sont admises pour une demande de titre d'identité ?</QuestionReponse>
+</Publication>

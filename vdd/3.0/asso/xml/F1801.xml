@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1801" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment savoir si un nom d'association est déjà utilisé ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association</dc:subject>
+<dc:description>Choisir le nom d'une association</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-30</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1801</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006161692&amp;cidTexte=LEGITEXT000006069414</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19554</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31403">Formalités administratives d'une association</Niveau>
+<Niveau ID="N19554">Création d'une association</Niveau>
+<Niveau ID="F1801" type="Fiche Question-réponse">Comment savoir si un nom d'association est déjà utilisé ?</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+</Theme><DossierPere ID="N19554">
+<Titre>Création d'une association</Titre>
+<Fiche ID="F1120">Rédaction des statuts</Fiche>
+<Fiche ID="F1119">Déclaration initiale</Fiche>
+<Fiche ID="F1926">Identification et immatriculation d'une association</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>En choisissant librement le nom ou le sigle de l'association, ses dirigeants doivent vérifier qu'il n'est pas déjà utilisé.</Paragraphe>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Utilisation par une autre association</Paragraphe>
+</Titre><Paragraphe>Les dirigeants peuvent rechercher sur le service de <LienInterne LienPublication="R33779" type="Téléservice" audience="Associations">consultation des annonces officielles des associations</LienInterne> si le nom ou le sigle choisi existe déjà.</Paragraphe><ServiceEnLigne ID="R33779" URL="http://www.journal-officiel.gouv.fr/association/index.php" type="Téléservice">
+<Titre>Consulter les annonces des associations et fondations</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Texte><Paragraphe>Permet également de télécharger une copie de toute insertion au Journal officiel publiée depuis le 9 novembre 2013 (cette copie est appelée témoin de parution).</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Il faut taper le nom ou le sigle entre guillemets à la ligne <Expression>rechercher</Expression> (en ne remplissant aucune autre rubrique), puis  cliquer sur le bouton rose  <Expression>rechercher</Expression>. Si le service indique <Citation>résultat de la recherche : 0 annonce</Citation>, le nom n'est pas utilisé.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>Pour rechercher les noms rapprochant , il faut taper le nom, le sigle ou l'acronyme sans guillemets</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Utilisation par un autre organisme (entreprise)</Paragraphe>
+</Titre><Paragraphe>Pour éviter le risque de confusion avec le nom de sociétés ou d'autres organismes, les dirigeants peuvent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>rechercher des <LienInterne LienPublication="R19859" type="Téléservice" audience="Associations">entreprises immatriculées</LienInterne> au <LienInterne LienPublication="R24403" type="Sigle">RCS</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>consulter la <LienExterne URL="http://www.sirene.fr/sirene/public/static/comment-bien-utiliser-sirene">base de données des établissements</LienExterne>
+
+ Sirene.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Marque déposée</Paragraphe>
+</Titre><Paragraphe>Il est interdit d'utiliser une marque enregistrée comme nom ou sigle d'une association. Les dirigeants peuvent consulter la <LienExterne URL="http://bases-marques.inpi.fr/">base de données des marques</LienExterne>
+
+ de l'<LienInterne LienPublication="R32390" type="Acronyme">Inpi</LienInterne>.</Paragraphe>
+<Paragraphe>Par contre, si l'association avait ce nom avant le dépôt de la marque, elle peut le garder.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R17216" type="Local personnalisé sur SP">
+<Titre>Mission d'accueil et d'information des associations (Maia)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>maia</PivotLocal>
+<RessourceWeb URL="http://www.associations.gouv.fr/10-toutes-les-ressources-pres-de-chez.html"/>
+<Source ID="R30678">Ministère en charge de la vie associative</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006161692&amp;cidTexte=LEGITEXT000006069414" ID="R40052">
+<Titre>Code de la propriété intellectuelle : articles L713-1 à L713-6</Titre>
+<Complement>Article L713-6  : exception à une marque déposée</Complement>
+</Reference>
+<ServiceEnLigne ID="R19859" URL="https://www.infogreffe.fr/societes/documents-officiels/demande-kbis.html" type="Téléservice">
+<Titre>Recherche sur les entreprises immatriculées au RCS</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33779" URL="http://www.journal-officiel.gouv.fr/association/index.php" type="Téléservice">
+<Titre>Consulter les annonces des associations et fondations</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R32393" URL="http://www.sirene.fr/sirene/public/static/comment-bien-utiliser-sirene" audience="Associations">
+<Titre>Consultation de la base de données Sirene</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32392" URL="http://bases-marques.inpi.fr/" audience="Associations">
+<Titre>Consultation des noms de marques déposées</Titre>
+<Source ID="R30717">Institut national de la propriété industrielle (Inpi)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R32390" type="Acronyme">
+<Titre>Inpi</Titre>
+<Texte>
+<Paragraphe>Institut national de la propriété intellectuelle</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24403" type="Sigle">
+<Titre>RCS</Titre>
+<Texte>
+<Paragraphe>Registre du commerce et des sociétés</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F12104" audience="Associations">Comment se renseigner sur une association (ou un fonds de dotation) ?</QuestionReponse>
+<QuestionReponse ID="F31494" audience="Associations">Peut-on choisir librement le nom d'une association ?</QuestionReponse>
+<QuestionReponse ID="F31493" audience="Associations">Faut-il protéger le nom d'une association ?</QuestionReponse>
+
+</Publication>

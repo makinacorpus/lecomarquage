@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21074" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas de perte du brevet d'animateur (Bafa) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>En cas de perte du Bafa, vous pouvez demander une attestation de diplôme. Aucun duplicata ne peut être délivré.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21074</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N546</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N546">Accueil de loisirs (centre de loisirs, colonies...) avec ou sans hébergement</Niveau>
+<Niveau ID="F21074" type="Fiche Question-réponse">Que faire en cas de perte du brevet d'animateur (Bafa) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N546">
+<Titre>Accueil de loisirs (centre de loisirs, colonies...) avec ou sans hébergement</Titre><SousDossier ID="N546-1">
+<Titre>Formes de l'accueil</Titre>
+<Fiche ID="F945">Avec hébergement : colonie ou centre de vacances</Fiche>
+<Fiche ID="F2068">Sans hébergement : centre de loisirs</Fiche>
+</SousDossier>
+<SousDossier ID="N546-2">
+<Titre>Animateurs</Titre>
+<Fiche ID="F2111">Brevet d'aptitude aux fonctions d'animateur (Bafa)</Fiche>
+<Fiche ID="F2113">Brevet d'aptitude aux fonctions de directeur (BAFD)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Aucun duplicata du brevet d'aptitude aux fonctions d'animateur (Bafa) n'est délivré en cas de perte. Cependant, vous pouvez demander une attestation de délivrance du diplôme.</Paragraphe>
+<Paragraphe>Pour ce faire, vous devez vous renseigner sur le site : </Paragraphe><OuSAdresser ID="R46199" type="Local">
+<Titre>Bafa - BAFD</Titre>
+<RessourceWeb URL="http://www.bafa-bafd.jeunes.gouv.fr/"/>
+</OuSAdresser>
+
+<Paragraphe> si vous avez utilisé ce site dès votre inscription, l'attestation sera alors disponible en ligne. Vous  pouvez également faire la demande par courrier après avoir choisi la région  et  ensuite la direction départementale où vous avez obtenu votre diplôme. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous avez changé de nom depuis l'obtention du Bafa, vous devez préciser le nom sous lequel vous aviez obtenu le diplôme.</Paragraphe>
+</Attention>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2111" audience="Particuliers">
+<Titre>Brevet d'aptitude aux fonctions d'animateur (Bafa)</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2113" audience="Particuliers">
+<Titre>Brevet d'aptitude aux fonctions de directeur (BAFD)</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+</Publication>

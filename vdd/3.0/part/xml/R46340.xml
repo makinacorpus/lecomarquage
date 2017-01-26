@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R46340" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modèle de formulaire d'information des enfants mineurs dans le cadre d'un divorce par consentement mutuel</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Modèle de formulaire d'information des enfants mineurs dans le cadre d'un divorce par consentement mutuel - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-02</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R46340</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N159">Divorce, séparation de corps</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R46340" type="Formulaire">Modèle de formulaire d'information des enfants mineurs dans le cadre d'un divorce par consentement mutuel</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Je m'appelle [prénoms et nom]</Paragraphe>
+<Paragraphe>Je suis né(e) le [date de naissance]</Paragraphe>
+<Paragraphe>Je suis informé(e) que j'ai le droit d'être entendu(e), par le juge ou par une personne désignée par lui, pour que mes sentiments soient pris en compte pour l'organisation de mes relations avec mes parents qui souhaitent divorcer.</Paragraphe>
+<Paragraphe>Je suis informé(e) que j'ai le droit d'être assisté(e) d'un avocat.</Paragraphe>
+<Paragraphe>Je suis informé(e) que je peux être entendu(e) seul(e), avec un avocat ou une personne de mon choix et qu'il sera rendu compte de cette audition à mes parents.</Paragraphe>
+<Paragraphe>J'ai compris que, suite à ma demande, un juge sera saisi du divorce de mes parents.</Paragraphe>
+<Paragraphe>Je souhaite être entendu(e) :</Paragraphe>
+<Paragraphe>OUI NON</Paragraphe>
+<Paragraphe>[Date]</Paragraphe>
+<Paragraphe>[Signature de l'enfant]</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F10567" audience="Particuliers" type="Fiche d'information">
+<Titre>Divorce par consentement mutuel</Titre>
+<Dossier ID="N159">Divorce, séparation de corps</Dossier>
+</FicheLiee><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+</ServiceComplementaire>

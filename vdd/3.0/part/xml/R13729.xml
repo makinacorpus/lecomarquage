@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R13729" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Inscription au Bulletin d'information Sociale de la Défense (BuS)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Permet de recevoir le Bulletin d'information Sociale de la défense (BuS) : information à caractère social au sein du ministère.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-04</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R13729</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R13729" type="Téléservice">Inscription au Bulletin d'information Sociale de la Défense (BuS)</Niveau>
+</FilDAriane>
+<NumeroCerfa>12747*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet de recevoir le Bulletin d'information Sociale de la défense (BuS) : information à caractère social au sein du ministère.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12747.do">
+<Source>Ministère en charge de la défense</Source>
+</LienWeb>
+</ServiceComplementaire>

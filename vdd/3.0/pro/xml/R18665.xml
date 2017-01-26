@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18665" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de francisation n°300 d'un navire de commerce, de plaisance ou de pêche</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs, Secteurs d'activité</dc:subject>
+<dc:description>Permet de faire battre pavillon français à un bateau, que celui-ci soit destiné à la navigation en mer ou à la navigation sur fleuves et canaux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18665</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N18569">Aviation et transport maritime</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18665" type="Formulaire">Demande de francisation n°300 d'un navire de commerce, de plaisance ou de pêche</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>12810*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet de faire battre pavillon français à un bateau, que celui-ci soit destiné à la navigation en mer ou à la navigation sur fleuves et canaux.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12810.do">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F833" audience="Particuliers" type="Fiche d'information">
+<Titre>Francisation d'un bateau de plaisance</Titre>
+<Dossier ID="N550">Permis bateau et navigation de plaisance</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24503" audience="Professionnels" type="Fiche d'information">
+<Titre>Immatriculation des navires de commerce et de plaisance professionnelle</Titre>
+<Dossier ID="N18569">Aviation et transport maritime</Dossier>
+</FicheLiee>
+<FicheLiee ID="F836" audience="Particuliers" type="Fiche d'information">
+<Titre>Navigation maritime : achat d'un bateau de plaisance</Titre>
+<Dossier ID="N550">Permis bateau et navigation de plaisance</Dossier>
+</FicheLiee><OuSAdresser ID="R481" type="National">
+<Titre>Bureau de douane du port d'attache</Titre>
+<RessourceWeb URL="http://www.douane.gouv.fr/Portals/0/fichiers/particulier/navigation/navigation-liste-des-bureaux-de-douane.pdf"/>
+</OuSAdresser>
+
+<Dossier ID="N550">
+<Titre>Permis bateau et navigation de plaisance</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

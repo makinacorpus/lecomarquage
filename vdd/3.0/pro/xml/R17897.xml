@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17897" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration en mairie de location de chambre d'hôte</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs, Secteurs d'activité</dc:subject>
+<dc:description>Déclaration en mairie de location de chambre d'hôte - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-30</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17897</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13352">Tourisme</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17897" type="Formulaire">Déclaration en mairie de location de chambre d'hôte</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13566*02</NumeroCerfa>
+<Texte><Paragraphe>Accès également au récépissé remis par la mairie destinataire de la déclaration.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13566.do">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb>
+<FicheLiee ID="F31521" audience="Professionnels" type="Fiche d'information">
+<Titre>Exploitation de chambre d'hôtes</Titre>
+<Dossier ID="N13352">Tourisme</Dossier>
+</FicheLiee>
+<Dossier ID="N19104">
+<Titre>Hébergement touristique</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

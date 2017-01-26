@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R46640" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Faire une demande Loca-Pass</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Faire une demande Loca-Pass - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-23</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R46640</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20359">Aides au financement du dépôt de garantie et impayés de loyers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R46640" type="Formulaire">Faire une demande Loca-Pass</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Permet d'adresser une demande :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'avance loca-pass,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de garantie loca-pass,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou d'avance et de garantie loca-pass.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://www2.actionlogement.fr/demande-locapass">
+<Source>Action logement</Source>
+</LienWeb>
+<FicheLiee ID="F18493" audience="Particuliers" type="Fiche d'information">
+<Titre>Garantie loca-pass (aide au paiement des dettes de loyers et charges)</Titre>
+<Dossier ID="N20359">Aides au financement du dépôt de garantie et impayés de loyers</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

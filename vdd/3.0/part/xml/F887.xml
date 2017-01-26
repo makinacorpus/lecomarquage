@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F887" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Filiation de l'enfant d'un couple non marié : reconnaissance</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Lorsque les parents ne sont pas mariés, la filiation s'établit différemment à l'égard du père et de la mère. Pour la mère, il suffit que son nom apparaisse dans l'acte de naissance pour que la maternité soit établie. En revanche, pour établir sa paternité, le père doit faire une reconnaissance (avant ou après la naissance de l'enfant).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-04-08</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F887</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000020123563&amp;idSectionTA=LEGISCTA000006150517&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006425050&amp;idSectionTA=LEGISCTA000006150523&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006796828&amp;cidTexte=LEGITEXT000006074069, http://circulaires.legifrance.gouv.fr/pdf/2011/11/cir_34124.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N15660</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N15660">Naissance</Niveau>
+<Niveau ID="F887" type="Fiche d'information">Filiation de l'enfant d'un couple non marié : reconnaissance</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N15660">
+<Titre>Naissance</Titre><SousDossier ID="N15660-1">
+<Titre>Formalités pour le couple</Titre>
+<Fiche ID="F961">Déclaration de naissance</Fiche>
+<Fiche ID="F15393">Filiation de l'enfant d'un couple marié : présomption de paternité</Fiche>
+<Fiche ID="F887">Filiation de l'enfant d'un couple non marié : reconnaissance</Fiche>
+</SousDossier>
+<SousDossier ID="N15660-2">
+<Titre>Démarches judiciaires</Titre>
+<Fiche ID="F15882">Recherche de paternité</Fiche>
+<Fiche ID="F15395">Établissement de la filiation par possession d'état</Fiche>
+<Fiche ID="F1230">Action aux fins de subsides en l'absence de filiation paternelle</Fiche>
+<Fiche ID="F940">Contestation de la filiation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Formalités pour le couple</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Lorsque les parents ne sont pas mariés, la filiation s'établit différemment à l'égard du père et de la mère. Pour la mère, il suffit que son nom apparaisse dans l'acte de naissance pour que la maternité soit établie. En revanche, pour établir sa paternité, le père  doit faire une reconnaissance (avant ou  après la naissance de l'enfant).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Avant la naissance</Paragraphe>
+</Titre><Paragraphe>Le père et la mère peuvent reconnaître leur enfant avant la naissance ensemble ou séparément.</Paragraphe>
+<Paragraphe>La démarche se fait dans n'importe quelle mairie.</Paragraphe>
+<Paragraphe>Il suffit de présenter une pièce d'identité et de faire une déclaration à l'état civil.</Paragraphe>
+<Paragraphe>L'acte de reconnaissance est rédigé immédiatement par l'officier d'état civil et signé par le parent concerné ou par les deux en cas de reconnaissance conjointe. L'officier d'état civil  remet une copie de l'acte qu'il faudra  présenter lors de la <LienInterne LienPublication="F961" type="Fiche d'information" audience="Particuliers">déclaration de naissance</LienInterne>.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Au moment de la déclaration de naissance</Paragraphe>
+</Titre><Paragraphe>Dès lors que le nom de la mère figure dans l'acte de naissance de l'enfant, la filiation maternelle est automatique et la mère n'a pas de démarche à faire.</Paragraphe>
+<Paragraphe>En revanche, pour établir la filiation paternelle, le père doit reconnaître l'enfant.</Paragraphe>
+<Paragraphe>Il peut le faire à l'occasion de la déclaration de naissance, c'est-à-dire dans les 3 jours qui suivent la naissance. Elle est alors contenue dans l'acte de naissance de l'enfant. Il doit s'adresser à la mairie du lieu de naissance.</Paragraphe>
+<Paragraphe>À l'occasion de la naissance du premier enfant, un <LienInterne LienPublication="F11991" type="Fiche d'information" audience="Particuliers">livret de famille</LienInterne> est délivré.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Après la déclaration de naissance</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Dès lors que le nom de la mère figure dans l'acte de naissance de l'enfant, la filiation maternelle est automatique et la mère n'a pas de démarche à faire.</Paragraphe>
+<Paragraphe>En revanche, pour établir la filiation paternelle, le père doit reconnaître l'enfant.</Paragraphe>
+<Paragraphe>La reconnaissance peut se faire dans n'importe quelle  mairie.</Paragraphe>
+<Paragraphe>Il suffit de présenter une pièce d'identité et de faire une déclaration à l'état civil.</Paragraphe>
+<Paragraphe>Il est conseillé, si on le possède, de se munir d'un acte de naissance de l'enfant ou du livret de famille.</Paragraphe>
+<Paragraphe>La mairie de naissance indiquera cette reconnaissance en mention de l'acte de naissance de l'enfant ainsi que dans le livret de famille.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la reconnaissance d'un enfant peut également être faite devant un notaire.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Accouchement sous X</Paragraphe>
+</Titre>
+						<Paragraphe>Le père peut reconnaître son enfant né sous X dans les 2 mois qui suivent la naissance. S'il ignore les date et lieu de naissance de l'enfant, il peut saisir le procureur de la République qui recherchera les date et lieu d'établissement de l'acte de naissance.</Paragraphe>
+					<ASavoir>
+<Titre>À savoir</Titre>
+						<Paragraphe>la mère a 2 mois après la naissance de l'enfant pour demander que ce dernier lui soit remis, elle doit au préalable reconnaître l'enfant.</Paragraphe>
+					</ASavoir>
+
+</Cas>
+</BlocCas>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour reconnaître un enfant en dehors de Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour reconnaître un enfant à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour reconnaître l'enfant</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000020123563&amp;idSectionTA=LEGISCTA000006150517&amp;cidTexte=LEGITEXT000006070721" ID="R15637">
+<Titre>Code civil : articles 62 à 62-1</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006425050&amp;idSectionTA=LEGISCTA000006150523&amp;cidTexte=LEGITEXT000006070721" ID="R15638">
+<Titre>Code civil : article 316</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006796828&amp;cidTexte=LEGITEXT000006074069" ID="R33431">
+<Titre>Code de l'action sociale et des familles : article L224-6</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2011/11/cir_34124.pdf" ID="R2316" format="application/pdf" poids="1.0 MB">
+<Titre>Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation</Titre>
+</Reference>
+<QuestionReponse ID="F942" audience="Particuliers">Quelles sont les conséquences d'une reconnaissance tardive ?</QuestionReponse>
+<QuestionReponse ID="F31217" audience="Particuliers">En quoi la déclaration de naissance est-elle différente d'une reconnaissance ?</QuestionReponse>
+<QuestionReponse ID="F10428" audience="Particuliers">Peut-on reconnaître un enfant dont on n'est pas le père ?</QuestionReponse>
+<QuestionReponse ID="F15884" audience="Particuliers">Que faire en cas de décès du père avant la naissance ?</QuestionReponse>
+
+
+</Publication>

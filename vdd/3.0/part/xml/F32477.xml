@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32477" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Recours amiable en matière d'impôt</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Démarches amiables à réaliser en cas de problème de déclaration, de calcul ou de paiement de l'impôt.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-21</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32477</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000407822</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31080</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N31080">Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Niveau>
+<Niveau ID="F32477" type="Fiche d'information">Recours amiable en matière d'impôt</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N31080">
+<Titre>Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Titre>
+<Fiche ID="F3124">Difficultés de paiement</Fiche>
+<Fiche ID="F13551">Rescrit fiscal</Fiche>
+<Fiche ID="F32477">Recours amiables</Fiche>
+<Fiche ID="F110">Réclamation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe> En cas de litige avec l'administration fiscale (problème de déclaration, de calcul ou de paiement de l'impôt), il est possible d'utiliser les voies de recours amiables. Vous devez d'abord contacter votre service local en charge des impôts. Si cette première démarche ne vous donne pas satisfaction,  vous pouvez vous adresser au conciliateur fiscal départemental et, au besoin, au médiateur des ministères économiques et financiers.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Service local en charge des impôts</Paragraphe>
+</Titre><Paragraphe>Votre centre des impôts est le premier service compétent pour traiter vos recours amiables en matière d'impôt. Vous devez le saisir en préalable à toute autre démarche de recours amiable. Vous pouvez lui adresser votre requête par courrier postal accompagné des justificatifs nécessaires.</Paragraphe>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Paragraphe>Si vous estimez que votre demande n'a pas été traitée de manière satisfaisante (rejet ou admission partielle d'une réclamation, rejet d'une demande gracieuse de remise de pénalités, refus de délais de paiement, etc.), vous pouvez saisir le conciliateur fiscal départemental ou le médiateur des ministères économiques et financiers.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conciliateur fiscal départemental</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Champ de compétences</Paragraphe>
+</Titre><Paragraphe>Vous pouvez saisir le conciliateur fiscal départemental si vous estimez que votre centre des impôts n'a pas répondu de manière satisfaisante à votre demande (rejet ou admission partielle d'une réclamation, rejet d'une demande gracieuse de remise de pénalités, refus de délais de paiement, etc.)</Paragraphe>
+<Paragraphe>Le conciliateur local départemental est compétent : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pour les problèmes fiscaux que vous rencontrez</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pour vos réclamations sur la qualité de service de l'administration fiscale</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le conciliateur <MiseEnEvidence>peut modifier la décision prise initialement par le service fiscal</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Toutefois, le conciliateur fiscal n'est pas compétent pour traiter : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les procédures de vérification de comptabilité ou d'examen des situations fiscales personnelles</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les litiges relatifs à la publicité foncière (conservations des hypothèques)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les demandes ayant fait l'objet d'une requête auprès du Président de la République, du Premier ministre, du ministre, du Défenseur des droits, des parlementaires et élus locaux.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Comment le saisir ?</Paragraphe>
+</Titre><Paragraphe>Vous pouvez vous adresser au conciliateur fiscal départemental par courriel ou courrier postal. Vous devez, le cas échéant, joindre les pièces justificatives à votre envoi. Le conciliateur s'engage à vous répondre dans les 30 jours pour vous informer de sa décision ou de l'état de traitement de votre demande pour les dossiers les plus complexes. </Paragraphe>
+<OuSAdresser ID="R45317" type="Local personnalisé sur SP">
+<Titre>Conciliateur fiscal départemental</Titre>
+<PivotLocal>conciliateur_fiscal</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=conciliateur+fiscal+d%C3%A9partemental&amp;where="/>
+</OuSAdresser>
+
+<Paragraphe>Si la décision du conciliateur fiscal ne vous satisfait pas, vous pouvez saisir le médiateur des ministères économiques et financiers.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>Saisir le conciliateur fiscal ne dispense pas du paiement des sommes que vous réclame l'administration fiscale et n'interrompt pas les délais de recours contentieux.</Paragraphe>
+</ANoter>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Médiateur des ministères économiques et financiers</Paragraphe>
+</Titre><Paragraphe>Le médiateur des ministères économiques et financiers est compétent pour vous aider à résoudre vos litiges avec les services de ces ministères. </Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Qui peut le saisir ?</Paragraphe>
+</Titre><Paragraphe>Vous pouvez saisir le médiateur si vous avez effectué une 1re démarche auprès du service fiscal concerné et que vous n'avez pas obtenu satisfaction. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Comment le saisir ?</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R14962" URL="http://www.economie.gouv.fr/mediateur/demande-mediation/personnes-physiques" type="Téléservice">
+<Titre>Demande de médiation auprès du médiateur des ministères en charge de l'économie et des finances</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<Texte><Paragraphe>Pour adresser votre demande au médiateur des ministères économiques et financiers (formulaire de saisine en ligne).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>avant de saisir le médiateur, vous devez au préalable avoir effectué une 1<Exposant>ère</Exposant> démarche auprès du service concerné et ne pas avoir obtenu satisfaction.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par courrier électronique</Paragraphe>
+</Titre><OuSAdresser ID="R153" type="Centre de contact">
+<Titre>Médiateur des ministères en charge de l'économie et des finances</Titre><Texte>
+						
+								<Paragraphe>Vous pouvez saisir le médiateur si vous rencontrez des difficultés avec les services des ministères en charge de l'économie et des finances. </Paragraphe>
+								<Paragraphe>Votre demande auprès du Médiateur est recevable à condition d'avoir fait une 1<Exposant>re</Exposant> démarche  auprès du service concerné et de ne pas avoir  obtenu satisfaction.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>02 31 45 72 23</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>mediateur@finances.gouv.fr</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      En utilisant le <LienInterne LienPublication="R14962" type="Téléservice" audience="Particuliers">formulaire en ligne</LienInterne>
+</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Monsieur le Médiateur des Ministères économiques et financiers</Paragraphe>
+								<Paragraphe>BP 60153 </Paragraphe>
+								<Paragraphe>
+			14010 CAEN cedex 1
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre><OuSAdresser ID="R153" type="Centre de contact">
+<Titre>Médiateur des ministères en charge de l'économie et des finances</Titre><Texte>
+						
+								<Paragraphe>Vous pouvez saisir le médiateur si vous rencontrez des difficultés avec les services des ministères en charge de l'économie et des finances. </Paragraphe>
+								<Paragraphe>Votre demande auprès du Médiateur est recevable à condition d'avoir fait une 1<Exposant>re</Exposant> démarche  auprès du service concerné et de ne pas avoir  obtenu satisfaction.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>02 31 45 72 23</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>mediateur@finances.gouv.fr</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      En utilisant le <LienInterne LienPublication="R14962" type="Téléservice" audience="Particuliers">formulaire en ligne</LienInterne>
+</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Monsieur le Médiateur des Ministères économiques et financiers</Paragraphe>
+								<Paragraphe>BP 60153 </Paragraphe>
+								<Paragraphe>
+			14010 CAEN cedex 1
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre><OuSAdresser ID="R153" type="Centre de contact">
+<Titre>Médiateur des ministères en charge de l'économie et des finances</Titre><Texte>
+						
+								<Paragraphe>Vous pouvez saisir le médiateur si vous rencontrez des difficultés avec les services des ministères en charge de l'économie et des finances. </Paragraphe>
+								<Paragraphe>Votre demande auprès du Médiateur est recevable à condition d'avoir fait une 1<Exposant>re</Exposant> démarche  auprès du service concerné et de ne pas avoir  obtenu satisfaction.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>02 31 45 72 23</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>mediateur@finances.gouv.fr</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      En utilisant le <LienInterne LienPublication="R14962" type="Téléservice" audience="Particuliers">formulaire en ligne</LienInterne>
+</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Monsieur le Médiateur des Ministères économiques et financiers</Paragraphe>
+								<Paragraphe>BP 60153 </Paragraphe>
+								<Paragraphe>
+			14010 CAEN cedex 1
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>Votre dossier de demande doit comporter les informations et documents suivants : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Description de votre problème (objet et raisons de votre demande)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Références du service concerné</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Copie des courriers échangés avec l'administration concernée</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Vos coordonnées (adresse et numéros de téléphone)</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Comment est traitée la demande ?</Paragraphe>
+</Titre><Paragraphe>Le médiateur examine votre dossier et formule une recommandation au service concerné.</Paragraphe>
+<Paragraphe>Si l'administration n'accepte pas de suivre cette recommandation, le médiateur peut soumettre directement l'affaire au ministre qui décidera des suites à donner.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N31080" audience="Particuliers">
+<Titre>Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N20312" audience="Particuliers">
+<Titre>Litiges avec l'administration : recours administratif, défenseur des droits...</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000407822" ID="R37492">
+<Titre>Décret n°2002-612 du 26 avril 2002 instituant un médiateur du ministère de l'économie, des finances et de l'industrie</Titre>
+</Reference>
+<ServiceEnLigne ID="R14962" URL="http://www.economie.gouv.fr/mediateur/demande-mediation/personnes-physiques" type="Téléservice">
+<Titre>Demande de médiation auprès du médiateur des ministères en charge de l'économie et des finances</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R22639" URL="https://www.impots.gouv.fr/portail/node/9788" audience="Particuliers">
+<Titre>Conciliateur fiscal départemental</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18623" URL="http://www.economie.gouv.fr/mediateur/accueil-mediateur" audience="Particuliers">
+<Titre>Médiateur des ministères économiques et financiers</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R37493" URL="http://www.economie.gouv.fr/files/files/directions_services/mediateur/guide_pratique_mediation.pdf" audience="Particuliers" format="application/pdf" poids="148.5 KB">
+<Titre>Médiateur des ministères économiques et financiers : guide pratique</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R37488" URL="http://www.economie.gouv.fr/files/directions_services/mediateur/charte_mediateurs_service_public.pdf" audience="Particuliers" format="application/pdf" poids="125.4 KB">
+<Titre>Charte des médiateurs du service public</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1064" audience="Particuliers">Quel est le délai de réclamation en matière d'impôts ?</QuestionReponse>
+<QuestionReponse ID="F156" audience="Particuliers">Dans quel délai un supplément d'impôts locaux peut-il être réclamé ?</QuestionReponse>
+</Publication>

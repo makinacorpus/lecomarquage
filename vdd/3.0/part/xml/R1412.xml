@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1412" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de radiation de la liste électorale consulaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe, Papiers - Citoyenneté</dc:subject>
+<dc:description>Demande de radiation de la liste électorale consulaire - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-29</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1412</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N120">Vivre à l'étranger</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1412" type="Formulaire">Demande de radiation de la liste électorale consulaire</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14040*03</NumeroCerfa>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=14040_V1">
+<Source>Ministère en charge des affaires étrangères</Source>
+</LienWeb>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="14040*04">
+<Titre>Formulaire non remplissable</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14040.do"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F32823" audience="Particuliers" type="Fiche d'information">
+<Titre>Français à l'étranger : préparer son retour en France </Titre>
+<Dossier ID="N120">Vivre à l'étranger</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1372" audience="Particuliers" type="Fiche d'information">
+<Titre>Inscription sur les listes électorales : déménagement</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32888" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Un électeur peut-il demander sa radiation des listes électorales ?</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+</ServiceComplementaire>

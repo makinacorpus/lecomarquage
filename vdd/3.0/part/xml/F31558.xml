@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31558" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Disparition d'un adulte</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>En cas de disparition inquiétante d'un proche majeur, une enquête peut être ouverte par la police ou la gendarmerie. Une procédure spécifique existe si la personne a disparu à l'étranger. Si la disparition n'est pas jugée inquiétante, aucune enquête officielle ne peut être ouverte. Dans tous les cas, une personne majeure est libre de ne pas entrer en contact avec ses proches lorsqu'elle est retrouvée.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-25</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31558</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006527983&amp;cidTexte=LEGITEXT000005617582, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006575117&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N42</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N42">Disparition et enlèvement de personnes</Niveau>
+<Niveau ID="F31558" type="Fiche d'information">Disparition d'un adulte</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20091">Protection des personnes</SousThemePere><DossierPere ID="N42">
+<Titre>Disparition et enlèvement de personnes</Titre>
+<Fiche ID="F31558">Disparition d'un adulte</Fiche>
+<Fiche ID="F10385">Disparition d'un enfant mineur</Fiche>
+<Fiche ID="F1191">Disparition d'un mineur : enlèvement parental, non-représentation d'enfant</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En cas de disparition inquiétante d'un proche majeur, une enquête peut être ouverte par la police ou la gendarmerie. Une procédure spécifique existe si la personne a disparu à l'étranger. Si la disparition n'est pas jugée inquiétante, aucune enquête officielle ne peut être ouverte. Dans tous les cas, une personne majeure est libre de ne pas entrer en contact avec ses proches lorsqu'elle est retrouvée.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Disparition en France</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Signalement aux autorités</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous jugez la disparition inquiétante</Paragraphe>
+</Titre><Paragraphe>Il n'y a pas de critères précis pour définir une disparition inquiétante : départ sans affaires personnelles, courrier suicidaire, radicalisation religieuse... La disparition est également considérée  inquiétante si la personne est vulnérable du fait d'une maladie ou de son âge.</Paragraphe>
+<Paragraphe>Vous devez vous adressez à la police ou à la gendarmerie pour déclarer la disparition.</Paragraphe><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<Paragraphe>Une enquête est automatiquement déclenchée si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous êtes un proche ou l'employeur de la personne disparue (conjoint, frère, sœur, parent, enfant...), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si la personne est un majeur protégé (sous tutelle ou curatelle).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans les autres cas, les policiers et gendarmes peuvent estimer qu'il ne s'agit pas d'une déclaration inquiétante. Le procureur peut trancher en cas de désaccord.</Paragraphe>
+<Paragraphe>En cas d'ouverture d'une enquête, la personne disparue est inscrite dans le fichier des personnes recherchées. Lors d'un contrôle, les policiers et gendarmes sauront que la personne est portée disparue. Les forces de l'ordre des pays de <LienExterne URL="http://www.diplomatie.gouv.fr/fr/IMG/pdf/07._carte_espace_schengen_document_no7_.pdf" format="application/pdf" poids="93.8 KB">l'espace Schengen</LienExterne>
+
+ auront également accès à ses informations.</Paragraphe>
+<Paragraphe>L'enquête ouverte peut être administrative. Elle relèvera des policiers et gendarmes. Ils peuvent avoir accès aux fichiers nominatifs des organismes privés et publics pour localiser la personne. Par exemple, ils peuvent consulter ses facteurs de téléphone ou ses relevés de carte bancaire. Ils peuvent également auditionner des témoins. Cette enquête vise juste à retrouver la personne et non à rechercher une infraction. </Paragraphe>
+<Paragraphe>Après un an de recherches, si la personne n'est toujours pas retrouvée ou si il n'y a aucune preuve de son décès, un certificat de vaines recherches peut vous être délivré. Ce certificat a une valeur légale et prouve que la personne est bien portée disparue. Il peut servir en cas de succession par exemple. Le délivrance du certificat n'empêche pas l'enquête de continuer pour retrouver la personne.</Paragraphe>
+<Paragraphe>Dans les cas les plus graves, une enquête judiciaire peut être ouverte. Notamment en cas de soupçon d'infraction (séquestration, enlèvement, embrigadement sectaire...). L'enquête sera sous la responsabilité d'un magistrat (procureur ou juge d'instruction). La famille pourra déposer plainte et se porter <LienInterne LienPublication="F1454" type="Fiche Question-réponse" audience="Particuliers">partie civile</LienInterne>. L'enquête judiciaire peut être ouverte suite à une enquête administrative si des éléments découverts laissent penser qu'une infraction a été commise.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne considérez pas sa disparition inquiétante</Paragraphe>
+</Titre><Paragraphe>Sans signe montrant que la personne disparue est en danger, une enquête officielle sera impossible. Vous devez retrouver la personne par vos propres moyens. Vous pouvez notamment vous aider des réseaux sociaux.</Paragraphe>
+<Paragraphe>La procédure de <LienInterne LienPublication="F1193" type="Fiche Question-réponse" audience="Particuliers">recherche dans l'intérêt des familles</LienInterne> n'existe plus.</Paragraphe>
+<Paragraphe>Vous pouvez également vous adresser à sa mairie de naissance ou de son dernier domicile connu pour savoir <LienInterne LienPublication="F31715" type="Fiche Question-réponse" audience="Particuliers">si elle est encore en vie</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si la personne est retrouvée</Paragraphe>
+</Titre><Paragraphe>Si la personne majeure est retrouvée, elle est libre de ne plus communiquer avec ses proches.</Paragraphe>
+<Paragraphe>Si vous avez retrouvé par vous-même la personne en vie et qu'une enquête a été ouverte, vous devez prévenir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> en cas d'enquête administrative, la police ou la gendarmerie. L'enquête administrative sera alors close, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou, en cas d'enquête judiciaire, la justice (procureur ou juge d'instruction). L'enquête pourra se poursuivre sur les raisons de la disparition.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Disparition à l'étranger</Titre>
+<Texte><Paragraphe>Si un de vos proches de nationalité française a disparu à l'étranger (comme touriste ou résidant permanent), vous pouvez signaler sa disparition au ministère français des affaires étrangères.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Signalement aux autorités</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous jugez la disparition inquiétante.</Paragraphe>
+</Titre><Paragraphe>Il n'y a pas de critères précis pour définir une disparition inquiétante : absence inhabituelle de contacts, présence dans une zone dangereuse, radicalisation religieuse... La disparition est également considérée  inquiétante si la personne est vulnérable du fait d'une maladie ou de son âge.</Paragraphe>
+<Paragraphe>Vous devez d'abord vous adressez au ministère français des affaires étrangères.</Paragraphe><OuSAdresser ID="R128" type="Centre de contact">
+<Titre>Centre de crise - Ministère en charge des affaires étrangères</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			 <MiseEnEvidence>+33 (0)1 53 59 11 00
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>Numéro d'urgence accessible 7j/7 et 24h/24 </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			alertes.cdc@diplomatie.gouv.fr
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe> 
+		
+			37 quai d'Orsay</Paragraphe>
+								<Paragraphe>75700 Paris SP 07</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+<Paragraphe>Il se chargera de solliciter les autorités locales et de leur transmettre toute information utile. Il pourra également diffuser un avis de recherche. L'enquête dans le pays concerné restera cependant sous la responsabilité des autorités locales.</Paragraphe>
+<Paragraphe>Vous devez également signaler la disparition à la police ou la gendarmerie française afin d'obtenir l'ouverture d'une enquête en France. </Paragraphe><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<Paragraphe>L'ouverture d'une enquête en France est compatible avec l'ouverture d'une enquête dans le pays concerné.</Paragraphe>
+<Paragraphe>Une enquête en France est automatiquement déclenchée si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous êtes un proche ou l'employeur de la personne disparue (conjoint, frère, sœur, parent, enfant...), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si la personne est un majeur protégé (sous tutelle ou curatelle).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans les autres cas, les policiers et gendarmes peuvent estimer qu'il ne s'agit pas d'une déclaration inquiétante. Le procureur peut trancher en cas de désaccord.</Paragraphe>
+<Paragraphe>En cas d'ouverture d'une enquête, la personne disparue est inscrite dans le fichier des personnes recherchées. Lors d'un contrôle, les policiers et gendarmes sauront que la personne est portée disparue. Les forces de l'ordre des pays de <LienExterne URL="http://www.diplomatie.gouv.fr/fr/IMG/pdf/07._carte_espace_schengen_document_no7_.pdf" format="application/pdf" poids="93.8 KB">l'espace Schengen</LienExterne>
+
+ auront également accès à ses informations.</Paragraphe>
+<Paragraphe>L'enquête ouverte peut être administrative. Elle relèvera des policiers et gendarmes français. Ils peuvent avoir accès aux fichiers nominatifs des organismes privés et publics français pour localiser la personne. Par exemple, ils peuvent consulter ses relevés de comptes si la personne a un compte bancaire en France. Ils peuvent également auditionner des témoins en France. Cette enquête vise juste à retrouver la personne et non à rechercher une infraction.</Paragraphe>
+<Paragraphe>Après un an de recherches, si la personne n'est toujours pas retrouvée ou si il n'y a aucune preuve de son décès, un certificat de vaines recherches peut vous être délivré. Ce certificat a une valeur légale et prouve que les autorités françaises considèrent que la personne est bien portée disparue. Il peut servir en cas de succession par exemple. Le délivrance du certificat n'empêche pas l'enquête de continuer pour retrouver la personne.</Paragraphe>
+<Paragraphe>Dans les cas les plus graves, une enquête judiciaire peut être ouverte. Notamment en cas de soupçon d'infraction (séquestration, enlèvement, embrigadement sectaire...). L'enquête sera sous la responsabilité d'un magistrat (procureur ou juge d'instruction). La famille pourra déposer une plainte et se porter <LienInterne LienPublication="F1454" type="Fiche Question-réponse" audience="Particuliers">partie civile</LienInterne>. L'ouverture d'une enquête judiciaire à l'étranger ne fait pas obstacle à l'ouverture d'une enquête judiciaire en France. La justice française peut être amenée à collaborer avec la justice du pays concerné. L'enquête judiciaire peut être ouverte suite à une enquête administrative si des éléments découverts laissent penser qu'une infraction a été commise.</Paragraphe>
+<Paragraphe>Pendant l'enquête, vous pourrez obtenir des informations auprès de l'ambassade de France du pays concerné.</Paragraphe><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne considérez pas sa disparition inquiétante</Paragraphe>
+</Titre><Paragraphe>Sans signe montrant que la personne disparue est en danger, une enquête officielle en France sera impossible. Vous devez retrouver la personne par vos propres moyens y compris en contactant directement les autorités locales. Vous pouvez notamment vous aider des réseaux sociaux. </Paragraphe>
+<Paragraphe>Vous pouvez également vous adresser à sa mairie de naissance ou de son dernier domicile connu (en France) pour savoir <LienInterne LienPublication="F31715" type="Fiche Question-réponse" audience="Particuliers">si elle est encore en vie</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si la personne est retrouvée</Paragraphe>
+</Titre><Paragraphe>Si la personne majeure est retrouvée, elle est libre de ne plus communiquer avec ses proches.</Paragraphe>
+<Paragraphe>Si vous avez retrouvé par vous-même la personne en vie et qu'une enquête a été ouverte, vous devez prévenir le ministère français des affaires étrangères, qui se chargera de prévenir les autorités locales,</Paragraphe>
+<OuSAdresser ID="R128" type="Centre de contact">
+<Titre>Centre de crise - Ministère en charge des affaires étrangères</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			 <MiseEnEvidence>+33 (0)1 53 59 11 00
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>Numéro d'urgence accessible 7j/7 et 24h/24 </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			alertes.cdc@diplomatie.gouv.fr
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe> 
+		
+			37 quai d'Orsay</Paragraphe>
+								<Paragraphe>75700 Paris SP 07</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En cas d'enquête administrative </Paragraphe>
+</Titre><Paragraphe>Il faut aussi prévenir la police ou la gendarmerie. L'enquête administrative sera alors close, </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En cas d'enquête judiciaire</Paragraphe>
+</Titre><Paragraphe>Il faut aussi prévenir le procureur ou le juge d'instruction. L'enquête pourra se poursuivre en France et à l'étranger sur les raisons de la disparition.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F10385" audience="Particuliers">
+<Titre>Disparition d'un enfant mineur</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006527983&amp;cidTexte=LEGITEXT000005617582" ID="R15911">
+<Titre>Loi n°95-73 du 21 janvier 1995 d'orientation et de programmation à la sécurité : article 26</Titre>
+<Complement>Enquête administrative pour disparition inquiétante</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006575117&amp;cidTexte=LEGITEXT000006071154" ID="R42382">
+<Titre>Code de procédure pénale : article 74-1</Titre>
+<Complement>Enquête judiciaire pour disparition inquiétante</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R32529" URL="http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/infos-pratiques-20973/assistance-aux-francais/disparitions-inquietantes/" audience="Particuliers">
+<Titre>Disparition d'un adulte à l'étranger</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1193" audience="Particuliers">Peut-on encore demander une recherche dans l'intérêt des familles (Rif) ?</QuestionReponse>
+</Publication>

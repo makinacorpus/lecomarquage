@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N263" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Procès pénal</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Procès pénal : Déclenchement de la procédure, Enquête, Moyens de contrainte, Déroulement d'un procès</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-04-07</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N263</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19807</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263" type="Dossier">Procès pénal</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere>
+<SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre><Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre><Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre><Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre><Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N260" audience="Particuliers">
+<Titre>Mineur victime</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N23248" audience="Particuliers">
+<Titre>Mineur auteur d'infraction</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Partenaire ID="R1857" URL="http://www.justice.gouv.fr/"/>
+<ServiceEnLigne ID="R40628" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15290.do" numerocerfa="15290*01" type="Formulaire">
+<Titre>Demande d'indemnisation d'un avocat pour l'assistance d'une personne placée en dépôt de nuit</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12103" URL="" type="Modèle de document">
+<Titre>Se constituer partie civile dans un procès pénal</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R11657" URL="" type="Modèle de document">
+<Titre>Porter plainte avec constitution de partie civile</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R11469" URL="" type="Modèle de document">
+<Titre>Porter plainte auprès du procureur de la République</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33420" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13488" numerocerfa="13488*01" type="Téléservice">
+<Titre>Demander la restitution d'un objet placé sous main de justice</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R33404" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51211&amp;cerfaFormulaire=13488" numerocerfa="51211#01">Notice - Demande de restitution d'un objet placé sous main de justice</NoticeLiee>
+</ServiceEnLigne>
+<QuestionReponse ID="F33849" audience="Particuliers">Qu'est-ce qu'une convocation sur procès-verbal ?</QuestionReponse>
+<QuestionReponse ID="F1454" audience="Particuliers">Procès pénal : qu'est-ce qu'une partie civile ?</QuestionReponse>
+<QuestionReponse ID="F32129" audience="Particuliers">Qu'est-ce qu'une comparution immédiate ?</QuestionReponse>
+<QuestionReponse ID="F32124" audience="Particuliers">Qu'est-ce qu'une audition libre ?</QuestionReponse>
+<QuestionReponse ID="F20789" audience="Particuliers">Que faire si on est victime d'une infraction ?</QuestionReponse>
+<QuestionReponse ID="F2807" audience="Particuliers">Peut-on refuser une convocation par la police ou la gendarmerie ?</QuestionReponse>
+<QuestionReponse ID="F1766" audience="Particuliers">Qu'est-ce que la légitime défense?</QuestionReponse>
+<QuestionReponse ID="F11182" audience="Particuliers">Qu'est-ce qu'une main courante et quelle différence avec une plainte ?</QuestionReponse>
+<QuestionReponse ID="F1154" audience="Particuliers">Le procureur est-il tenu d'engager des poursuites à la suite d'une plainte ?</QuestionReponse>
+<QuestionReponse ID="F16862" audience="Particuliers">Peut-on retirer une plainte et quelles en sont les conséquences ?</QuestionReponse>
+<QuestionReponse ID="F1807" audience="Particuliers">Qu'est-ce qu'un témoin assisté ?</QuestionReponse>
+<QuestionReponse ID="F31982" audience="Particuliers">Justice pénale : quels délais de prescription ?</QuestionReponse>
+
+</Publication>

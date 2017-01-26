@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31601" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on conserver son logement social malgré des hauts revenus ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Si vos revenus sont trop élevés, soit un surloyer s'applique, soit vous devrez quitter votre logement social.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31601</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020465921&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N337</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N337">Location immobilière : loyer</Niveau>
+<Niveau ID="F31601" type="Fiche Question-réponse">Peut-on conserver son logement social malgré des hauts revenus ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N337">
+<Titre>Location immobilière : loyer</Titre><SousDossier ID="N337-1">
+<Titre>Loyer d'un logement privé</Titre>
+<Fiche ID="F1310">Fixation et paiement</Fiche>
+<Fiche ID="F1311">Révision annuelle</Fiche>
+<Fiche ID="F1312">Réévaluation d'un loyer sous-évalué</Fiche>
+<Fiche ID="F33066">Réévaluation d'un loyer sur-évalué (action en diminution de loyer)</Fiche>
+<Fiche ID="F13723">Indice de référence des loyers (IRL)</Fiche>
+</SousDossier>
+<SousDossier ID="N337-2">
+<Titre>Loyer d'un logement social</Titre>
+<Fiche ID="F1317">Détermination du loyer</Fiche>
+<Fiche ID="F21051">Supplément de loyer de solidarité (SLS)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vos revenus sont trop élevés, soit un surloyer s'applique, soit vous devrez quitter votre logement social. Toutefois, certaines catégories de personnes peuvent rester dans leur logement quel que soit leur niveau de revenu.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Selon votre situation, vous pourrez être obligé de quitter votre logement si vos revenus sont 2 fois supérieurs aux <LienInterne LienPublication="F869" type="Fiche d'information" audience="Particuliers">plafonds de ressources pour l'attribution d'un logement social</LienInterne>.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous habitez en zone urbaine sensible (Zus)</Paragraphe>
+</Titre><Paragraphe>Si votre quartier est située en <LienExterne URL="http://sig.ville.gouv.fr/Atlas/ZUS/">zone urbaine sensible (Zus)</LienExterne>
+
+, quels que soient vos revenus, vous pouvez rester dans votre logement social.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous habitez dans un autre quartier</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Vous devez quitter votre logement social si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vos revenus sont au moins 2 fois supérieurs aux <LienInterne LienPublication="F869" type="Fiche d'information" audience="Particuliers">plafonds de ressources pour l'attribution d'un logement social</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et ce, pendant 2 années consécutives. Une enquête est effectuée chaque année pour déterminer vos revenus. Si 2 enquêtes de suite montrent que vos revenus sont trop hauts, vous devez quitter le logement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Cette perte de droit au maintien dans les lieux intervient à l'issue d'un délai de 3 ans. Le point de départ de ce délai est le 1<Exposant>er</Exposant> janvier de l'année qui suit les résultats de l'enquête faisant apparaître, pour la 2<Exposant>è</Exposant> année consécutive, un dépassement du double de ces plafonds. Par exemple si en  2014 et en 2015, l'enquête a montré que vos revenus dépassent le plafond, le délai sera calculé à partir du 1<Exposant>er</Exposant> janvier 2016. Vous devez donc avoir quitté votre logement avant le 1<Exposant>er</Exposant> janvier 2019.</Paragraphe>
+<Paragraphe>Le bailleur vous notifie par lettre recommandée avec avis de réception (ou par acte d'huissier), la date limite de départ 6 mois avant la fin de ce délai de 3 ans.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous avez plus de 65 ans</Paragraphe>
+</Titre><Paragraphe>Quels que soient vos revenus, vous pouvez rester dans votre logement social.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous avez un handicap</Paragraphe>
+</Titre><Paragraphe>Quels que soient vos revenus, vous pouvez rester dans votre logement social.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une personne handicapée à charge</Paragraphe>
+</Titre><Paragraphe>Quels que soient vos revenus, vous pouvez rester dans votre logement social.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+<Paragraphe>Si vos revenus dépassent de 20% les plafonds requis, vous pouvez rester dans votre logement. Mais un <LienInterne LienPublication="F21051" type="Fiche d'information" audience="Particuliers">surloyer</LienInterne> sera appliqué.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020465921&amp;cidTexte=LEGITEXT000006074096" ID="R32619">
+<Titre>Code de la construction et de l'habitation : article L482-3</Titre>
+<Complement>Conditions de départ d'un logement social</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R831" URL="http://sig.ville.gouv.fr/Atlas/ZUS/" audience="Particuliers">
+<Titre>Zones urbaines sensibles (Zus)</Titre>
+<Source ID="R30901">Ministère en charge de la ville</Source>
+</PourEnSavoirPlus>
+</Publication>

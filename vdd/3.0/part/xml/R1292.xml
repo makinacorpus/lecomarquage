@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1292" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'allocation logement (Caf)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Demande d'allocation logement (Caf) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-27</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1292</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1292" type="Téléservice">Demande d'allocation logement (Caf)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Permet de faire une demande en ligne d'aide au logement (APL, ALS, ALF) auprès de la Caisse d'allocations familiales (Caf).</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/demanderlaideaulogement/!ut/p/a1/hdBNCsIwEAXgs3gAyUtStV1G00xj1Ghb0XYjXUnBv4V4flMogog6u4FvmDfDarZn9aV5tMfm3l4vzanr6_Fh7TllrgB5vYxht1rCpDmHQgBVAPhSAXTz4ywinji4eFsKKLvKZeFTAURsx-p3Qi4xHSlcNIXEWvTglSE2MwObjLRebWzYIf8B9OBHyCpcMfkakz6A10UCpQyVdhooiR68MsAtwqO48HNFXII4u533aO0wT9Vg8ATz5sPP/">
+<Source>Caisse nationale des allocations familiales (Cnaf)</Source>
+</LienWeb>
+<FicheLiee ID="F12006" audience="Particuliers" type="Fiche d'information">
+<Titre>Aide personnalisée au logement (APL)</Titre>
+<Dossier ID="N20360">Allocations logement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F13132" audience="Particuliers" type="Fiche d'information">
+<Titre>Allocation de logement familiale (ALF)</Titre>
+<Dossier ID="N20360">Allocations logement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1280" audience="Particuliers" type="Fiche d'information">
+<Titre>Allocation de logement sociale (ALS)</Titre>
+<Dossier ID="N20360">Allocations logement</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2741" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'une EIRL pour une activité commerciale, artisanale ou de batellerie, y compris micro-entrepreneur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Déclaration d'une EIRL pour une activité commerciale, artisanale ou de batellerie, y compris micro-entrepreneur - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-26</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2741</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2741" type="Formulaire">Déclaration d'une EIRL pour une activité commerciale, artisanale ou de batellerie, y compris micro-entrepreneur</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14215*03</NumeroCerfa>
+<AutreNumero>P EIRL CMB</AutreNumero>
+<Texte><Paragraphe>Intercalaire spécifique permettant aux artisans ou commerçants, y compris micro-entrepreneurs (sous le régime d'auto-entrepreneur), d'opter pour le statut d'EIRL soit lors de la déclaration d'activité (déclaration initiale d'affectation de patrimoine ou reprise d'un patrimoine affecté), soit en modification d'une activité déjà existante (modification de la déclaration d'affectation de patrimoine).</Paragraphe>
+<Paragraphe>Complète les formulaires suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>P0 CMB</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>P2 CMB</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>P4 CMB</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>P0 CMB micro-entrepreneur</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14215.do" format="application/force-download" poids="132.5 KB">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb>
+<FicheLiee ID="F31538" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment effectuer une déclaration d'affectation pour une EIRL ?</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23264" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration de micro-entrepreneur (auto-entrepreneur)</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee><OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

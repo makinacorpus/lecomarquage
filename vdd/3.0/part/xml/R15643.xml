@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R15643" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'admission préalable à l'inscription dans les cycles d'études des écoles nationales supérieures d'architecture pour l'année 2017-2018</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Concerne le candidat étranger, titulaire d'un diplôme étranger sollicitant une première inscription.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-15</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R15643</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N31346">Étudiant étranger en France</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R15643" type="Formulaire">Demande d'admission préalable à l'inscription dans les cycles d'études des écoles nationales supérieures d'architecture pour l'année 2017-2018</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11962*16</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Concerne le candidat étranger, titulaire d'un diplôme étranger sollicitant une première inscription.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Les dossiers devront être déposés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit à l'école nationale supérieure d'architecture la plus proche du domicile, si le candidat étranger réside en France ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit au poste diplomatique pour les résidents à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans tous les cas, l'école ou le poste diplomatique doit apposer son tampon officiel sur le dossier.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11962.do" format="application/pdf" poids="226.4 KB">
+<Source>Ministère en charge de la culture et de la communication</Source>
+</LienWeb><NoticeLiee ID="R13563" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50888&amp;cerfaFormulaire=11962" numerocerfa="50888#16" format="application/pdf" poids="125.4 KB">Note aux candidats étrangers sollicitant une première inscription dans une école nationale supérieure d'architecture française</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R45000" audience="Particuliers" type="Téléservice">
+<Titre>Demande d'admission préalable à l'inscription d'un étudiant étranger pour des études d'architecture pour 2016-2017</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F2864" audience="Particuliers" type="Fiche d'information">
+<Titre>Étudiant étranger : demande d'admission préalable à l'université</Titre>
+<Dossier ID="N31346">Étudiant étranger en France</Dossier>
+</FicheLiee><OuSAdresser ID="R45820" type="Local">
+<Titre>Écoles nationales supérieures d'architecture</Titre>
+<RessourceWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50888&amp;cerfaFormulaire=11962" commentaireLien="Page 2"/>
+</OuSAdresser>
+<OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+</ServiceComplementaire>

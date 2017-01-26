@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16085" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Vol en avion : objets interdits en cabine (rasoir, liquides...)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Les flacons de liquides (gel douche...) doivent respecter certaines règles pour être admis dans un bagage en cabine.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-09</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16085</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N84</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N84">Voyage en avion</Niveau>
+<Niveau ID="F16085" type="Fiche avec liens externes">Vol en avion : objets interdits en cabine (rasoir, liquides...)</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N84">
+<Titre>Voyage en avion</Titre>
+<Fiche ID="F11001">Surbooking</Fiche>
+<Fiche ID="F11370">Bagages perdus, retardés ou détériorés</Fiche>
+<Fiche ID="F10977">Refus d'embarquement, vol annulé ou retardé</Fiche>
+<Fiche ID="F16085">Objets interdits dans les bagages en cabine</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les bagages en cabine sont contrôlés. Les récipients contenant des liquides (parfum, gel douche...) doivent respecter certaines règles de taille et d'emballage. D'autres objets sont interdits : couteaux, produits inflammables... Ces restrictions s'appliquent également aux objets se trouvant directement sur vous.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente>
+<Commentaire><Paragraphe>Des restrictions existent sur le transports de liquide. Les tubes et flacons de moins de 100 ml (gel douche, parfum...) sont autorisés en cabine. Ils doivent être placés dans un sac spécifique, en plastique et transparent. Les produits pour bébés ne sont pas concernés par ces règles.</Paragraphe>
+</Commentaire><LienExterne URL="http://www.developpement-durable.gouv.fr/Mesures-de-restriction-sur-les,37265.html">Restriction sur les liquides contenus dans les bagages en cabine</LienExterne>
+
+<Source ID="R30611">Ministère en charge des transports</Source>
+</LienExterneCommente>
+<LienExterneCommente>
+<Commentaire><Paragraphe>Les couteaux, rasoir à manche, cutter... et autres objets dangereux sont interdits en cabine, que ce soit sur vous ou dans un sac. Les produits inflammables comme l'essence à briquet sont également interdits.</Paragraphe>
+</Commentaire><LienExterne URL="http://www.developpement-durable.gouv.fr/Articles-prohibes">Articles interdits dans les bagages en cabine</LienExterne>
+
+<Source ID="R30611">Ministère en charge des transports</Source>
+</LienExterneCommente><VoirAussi important="non">
+<Fiche ID="F11001" audience="Particuliers">
+<Titre>Refus d'embarquement en cas de surréservation (surbooking)</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20582" type="Centre de contact">
+<Titre>Direction générale de l'aviation civile (DGAC)</Titre>
+<Complement>Pour des informations complémentaires</Complement><Texte>
+						
+								<Paragraphe>DGAC</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>DGAC</Paragraphe>
+								<Paragraphe>Direction du transport aérien </Paragraphe>
+								<Paragraphe>Bureau des immatriculations</Paragraphe>
+								<Paragraphe>50 rue Henry Farman </Paragraphe>
+								<Paragraphe>75720 PARIS CEDEX 15 </Paragraphe>
+								<Paragraphe>FRANCE</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au <LienExterne URL="http://enqueteur.dgac.developpement-durable.gouv.fr/index.php?sid=51924&amp;lang=fr">formulaire de réclamation</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<QuestionReponse ID="F591" audience="Particuliers">De quelle pièce d'identité a-t-on besoin pour voyager en avion ?</QuestionReponse>
+</Publication>

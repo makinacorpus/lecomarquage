@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31806" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Attestation sur l'honneur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Vous pouvez rédiger cette attestation dans un logiciel de traitement de texte. En revanche, la signature doit obligatoirement être manuscrite.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-18</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31806</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31806" type="Modèle de document">Attestation sur l'honneur</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Vous pouvez rédiger cette attestation dans un logiciel de traitement de texte. En revanche, la signature doit obligatoirement être manuscrite.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Variable>Prénom(s), nom(s) et adresse complète</Variable>
+</Paragraphe>
+<Paragraphe>Je soussigné(e) <Variable>prénom et nom</Variable> demeurant <Variable>adresse complète</Variable> atteste sur l'honneur que : </Paragraphe>
+<Paragraphe>
+<Variable>faits ou circonstances à attester</Variable>
+</Paragraphe>
+<Paragraphe>Fait pour servir et valoir ce que de droit.</Paragraphe>
+<Paragraphe>Fait à <Variable>ville</Variable> le <Variable>date</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F1480" audience="Particuliers" type="Fiche d'information">
+<Titre>Carte grise (certificat d'immatriculation) : hériter d'un véhicule</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

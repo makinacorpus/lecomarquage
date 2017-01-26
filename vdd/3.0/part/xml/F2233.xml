@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2233" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Fichier des comptes bancaires (Ficoba)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Il liste tous les comptes bancaires ouverts en France, ainsi que les comptes assimilés (comptes d'épargne, comptes-titres, etc).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2233</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006306932&amp;cidTexte=LEGITEXT000006069577, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180061&amp;cidTexte=LEGITEXT000006069583, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069767</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N85</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N85">Fichiers bancaires</Niveau>
+<Niveau ID="F2233" type="Fiche d'information">Fichier des comptes bancaires (Ficoba)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N85">
+<Titre>Fichiers bancaires</Titre>
+<Fiche ID="F2233">Fichier des comptes bancaires (Ficoba)</Fiche>
+<Fiche ID="F2411">Fichier central des chèques (FCC)</Fiche>
+<Fiche ID="F21131">Fichier national des chèques irréguliers (FNCI)</Fiche>
+<Fiche ID="F17608">Fichier incidents de remboursement - Crédits des particuliers (FICP)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le fichier des comptes bancaires (Ficoba) liste tous les comptes bancaires ouverts en France, ainsi que les comptes assimilés (comptes d'épargne, comptes-titres, etc).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Contenu du fichier</Paragraphe>
+</Titre><Paragraphe>Le Ficoba liste tous les comptes bancaires ouverts en France (y compris les comptes d'épargne ou les comptes titres).</Paragraphe>
+<Paragraphe> Il indique les opérations d'ouverture, de modification et de clôture d'un compte, en précisant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la banque où est inscrit le compte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'identité du ou des titulaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les caractéristiques essentielles du compte (numéro, type de compte, etc).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il n'indique ni  les opérations de crédit ou débit des comptes, ni le  solde.</Paragraphe>
+<Paragraphe>Les informations sont conservées durant toute la durée de vie du compte et pendant 10 ans après sa clôture.</Paragraphe>
+<Paragraphe>Le fichier est alimenté et actualisé par les banques. Vous ne pouvez pas vous opposer à l'inscription de vos comptes dans le Ficoba.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui a accès au fichier ?</Paragraphe>
+</Titre><Paragraphe>Pour avoir accès aux informations concernant les comptes bancaires d'une personne précise, vous devez être :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>cette personne,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>son <LienInterne LienPublication="F2094" type="Fiche d'information" audience="Particuliers">curateur</LienInterne> ou son <LienInterne LienPublication="F2120" type="Fiche d'information" audience="Particuliers">tuteur</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un de ses héritiers ou le notaire chargé de sa succession.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le juge d'un procès civil (notamment lors d'un divorce) peut aussi avoir accès aux informations d'une personne.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>l'administration fiscale, les officiers de police judiciaire, les huissiers et certains agents de la Caisse d'allocations familiales (Caf) ont accès à l'ensemble du fichier.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande d'accès</Paragraphe>
+</Titre><Paragraphe>Selon la nature des informations que vous souhaitez obtenir, la procédure de demande est différente.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Informations sur votre état civil ou votre adresse</Paragraphe>
+</Titre><Paragraphe>Vous devez contacter votre centre des finances publiques de rattachement.</Paragraphe><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Informations sur vos comptes bancaires</Paragraphe>
+</Titre><Paragraphe>Vous devez adresser votre demande par écrit à la cellule du droit d'accès indirect de la Commission nationale de l'informatique et des libertés (Cnil), accompagnée d'un justificatif d'identité. </Paragraphe><OuSAdresser ID="R13994" type="Centre de contact">
+<Titre>Commission nationale de l'informatique et des libertés (Cnil)</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3 Place de Fontenoy</Paragraphe>
+								<Paragraphe>TSA 80715</Paragraphe>
+								<Paragraphe>75334 Paris cedex 07</Paragraphe>
+								<Paragraphe>Le dépôt de plis à l'accueil est possible du lundi au vendredi, de 9h à 12h et de 14h à 17h.</Paragraphe>
+								<Paragraphe>La CNIL ne reçoit pas le public et n'assure aucun renseignement sur place</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 53 73 22 22
+		</Paragraphe>
+								<Paragraphe>
+			Accueil téléphonique ouvert du lundi au vendredi de 9h à 18h30 (18h le vendredi)</Paragraphe>
+								<Paragraphe>Renseignements juridiques ouverts de 10h à 12h et de 14h à 16h </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par fax</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 53 73 22 00
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au <LienExterne URL="http://www.cnil.fr/pied-de-page/contact/">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Informations sur les comptes d'une personne décédée dont vous êtes héritier</Paragraphe>
+</Titre><Paragraphe>Vous devez  adresser votre demande par écrit au Centre national de traitement FBFV, en joignant à votre demande une copie de l'acte de décès, un justificatif de votre identité et un document prouvant votre qualité d'héritier.</Paragraphe><OuSAdresser ID="R45147" type="National">
+<Titre>Centre national de traitement FBFV</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>BP 31</Paragraphe>
+								<Paragraphe>77421 Marne-La-Vallée Cedex 02</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande de rectification</Paragraphe>
+</Titre><Paragraphe>Si les données transmises sont fausses, le droit de rectification s'exerce auprès des banques concernées qui corrigeront le Ficoba.</Paragraphe>
+<Paragraphe>Vous devez vous adresser à la banque concernée et lui fournir les documents nécessaires à la rectification que vous souhaitez obtenir.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006306932&amp;cidTexte=LEGITEXT000006069577" ID="R2370">
+<Titre>Code général des impôts : article 1649 A</Titre>
+<Complement>Transmission des informations bancaires aux services fiscaux</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180061&amp;cidTexte=LEGITEXT000006069583" ID="R45154">
+<Titre>Livre des procédures fiscales : articles L148 à L151-B</Titre>
+<Complement>Dérogations au profit des officiers ministériels (article L151-B)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069767" ID="R17352">
+<Titre>Arrêté du 14 juin 1982 relatif au fichier des comptes bancaires</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R39914" URL="http://www.abe-infoservice.fr/banque/fichiers-dincidents-bancaires.html" audience="Particuliers">
+<Titre>Les différents fichiers bancaires</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1451" audience="Particuliers">Que devient un compte bancaire en cas de décès ?</QuestionReponse>
+</Publication>

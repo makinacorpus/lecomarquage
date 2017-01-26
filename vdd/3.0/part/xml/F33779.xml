@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33779" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>En quoi consiste le droit d'alerte du comité d'entreprise (CE) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Dans certaines situations, le comité d'entreprise (CE) bénéficie d'un droit d'alerte lui permettant de demander à l'employeur des précisions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33779</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031086086&amp;cidTexte=LEGITEXT000006072050, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031075616&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N518</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N518">Représentation du personnel dans l'entreprise</Niveau>
+<Niveau ID="F33779" type="Fiche Question-réponse">En quoi consiste le droit d'alerte du comité d'entreprise (CE) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19966">Relations individuelles et collectives de travail</SousThemePere><DossierPere ID="N518">
+<Titre>Représentation du personnel dans l'entreprise</Titre>
+<Fiche ID="F102">Délégué syndical</Fiche>
+<Fiche ID="F32078">Représentant de la section syndicale (RSS)</Fiche>
+<Fiche ID="F1972">Délégué du personnel (DP)</Fiche>
+<Fiche ID="F96">Comité d'entreprise (CE)</Fiche>
+<Fiche ID="F32085">Comité d'hygiène, de sécurité et des conditions de travail (CHSCT)</Fiche>
+<Fiche ID="F1775">Délégation unique du personnel (DUP)</Fiche>
+<Fiche ID="F33481">Instance unique</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le comité d'entreprise (CE) est en droit d'exercer un <MiseEnEvidence>droit d'alerte économique</MiseEnEvidence>, lorsqu'il a connaissance de faits de nature à affecter de manière préoccupante la situation économique de l'entreprise.</Paragraphe>
+<Paragraphe>Il peut demander à l'employeur de lui fournir des explications, lors de la séance suivante. Si le CE n'a pas obtenu de réponse suffisante de l'employeur (ou si celle-ci confirme le caractère préoccupant de la situation), il établit un rapport. Pour l'aider dans sa mission, le CE peut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>être assisté d'un expert-comptable (une fois par exercice comptable),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>convoquer le commissaire aux comptes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être aidé de 2 salariés de l'entreprise choisis en dehors du CE (qui disposent de 5 heures chacun pour aider le CE à établir ce rapport).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les informations concernant l'entreprise communiquées au CE ont un caractère confidentiel.</Paragraphe>
+<Paragraphe>Le CE est également en droit d'exercer un <MiseEnEvidence>droit d'alerte sociale</MiseEnEvidence>, s'il constate un  accroissement important (ou un recours abusif) des <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne> ou du travail temporaire dans l'entreprise.</Paragraphe>
+<Paragraphe>L'examen de cette question est inscrit à l'ordre du jour de la réunion ordinaire suivante du CE, à la demande de la majorité de ses membres. Le CE peut saisir l'inspection du travail.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031086086&amp;cidTexte=LEGITEXT000006072050" ID="R43472">
+<Titre>Code du travail : articles L2323-50 à L2323-54</Titre>
+<Complement>Droit d'alerte économique</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031075616&amp;cidTexte=LEGITEXT000006072050" ID="R43473">
+<Titre>Code du travail : articles L2323-58 et L2323-59</Titre>
+<Complement>Droit d'alerte sociale</Complement>
+</Reference>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

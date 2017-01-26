@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2973" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on adopter un adulte ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Oui, vous pouvez adopter un adulte sous réserve de respecter certaines conditions tenant au fait que vous adoptiez en couple ou seul.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-11-30</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2973</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006425845&amp;idSectionTA=LEGISCTA000006150070&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150074&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006149749&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N133</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N133">Adoption</Niveau>
+<Niveau ID="F2973" type="Fiche Question-réponse">Peut-on adopter un adulte ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N133">
+<Titre>Adoption</Titre><SousDossier ID="N133-1">
+<Titre>Adoption par un couple marié</Titre>
+<Fiche ID="F3151">Adoption plénière</Fiche>
+<Fiche ID="F1184">Adoption simple</Fiche>
+</SousDossier>
+<SousDossier ID="N133-2">
+<Titre>Adoption à titre individuel</Titre>
+<Fiche ID="F1385">Adoption plénière</Fiche>
+<Fiche ID="F933">Adoption simple</Fiche>
+<Fiche ID="F1094">Adoption de l'enfant de son conjoint</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Oui, vous pouvez adopter un adulte sous réserve de respecter certaines conditions tenant au fait que vous adoptiez en couple ou seul.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Adoption par un couple</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions à remplir</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir adopter ensemble un adulte, vous devez être mariés.</Paragraphe>
+<Paragraphe>Vous et votre époux(se) devez remplir les 3 conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ne pas être séparé de corps,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avoir tous les 2 au moins 28 ans sauf si vous êtes mariés depuis plus de 2 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et avoir 15 ans de plus que l'adopté (<LienInterne LienPublication="F1094" type="Fiche d'information" audience="Particuliers">10 ans s'il s'agit de l'enfant de votre époux(se)</LienInterne>).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>un candidat non marié vivant en couple (union libre, concubinage, PACS) est juridiquement célibataire et ne peut donc adopter que seul.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quelles démarches faut-il faire ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme de l'adoption</Paragraphe>
+</Titre><Paragraphe>L'adoption d'un majeur se fait  par <LienInterne LienPublication="F933" type="Fiche d'information" audience="Particuliers">adoption simple</LienInterne>. Toutefois, <LienInterne LienPublication="F3151" type="Fiche d'information" audience="Particuliers">l'adoption plénière</LienInterne> d'un jeune de 20 ans au plus est possible uniquement  dans les 2 cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous l'avez accueilli alors qu'il avait moins de 15 ans et vous ne remplissiez pas les conditions pour l'adopter,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vous l'avez adopté en la forme simple alors qu'il avait moins de 15 ans.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Consentement de l'adopté</Paragraphe>
+</Titre><Paragraphe>L'adopté doit donner son consentement à l'adoption devant un notaire qui établit un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe><OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+
+<Paragraphe>Son consentement est nécessaire pour le <LienInterne LienPublication="F2621" type="Fiche d'information" audience="Particuliers">changement de nom de famille</LienInterne> (adjonction ou substitution du nom de l'adoptant au nom de l'adopté).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>l'adopté peut revenir sur son consentement à tout moment jusqu'à la décision de l'adoption.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Saisine du tribunal</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">présenter une requête devant le tribunal de grande instance (TGI)</LienInterne> du lieu de votre résidence. </Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Après examen, le juge vous <LienIntra LienID="R14732" type="Définition de glossaire">notifie</LienIntra>  sa décision.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Adoption par une personne seule</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions à remplir</Paragraphe>
+</Titre><Paragraphe>Vous devez avoir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>au moins 28 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et 15 ans de plus que l'adopté.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quelles démarches faut-il faire ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Forme de l'adoption</Paragraphe>
+</Titre><Paragraphe>L'adoption d'un majeur se fait par <LienInterne LienPublication="F1184" type="Fiche d'information" audience="Particuliers">adoption simple</LienInterne>. Toutefois, <LienInterne LienPublication="F1385" type="Fiche d'information" audience="Particuliers">l'adoption plénière</LienInterne> d'un jeune de 20 ans au plus est possible uniquement dans les 2 cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous l'avez accueilli alors qu'il avait moins de 15 ans et vous ne remplissiez pas les conditions pour l'adopter,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vous l'avez adopté en la forme simple alors qu'il avait moins de 15 ans.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Consentement de l'adopté</Paragraphe>
+</Titre><Paragraphe>L'adopté doit donner son consentement à l'adoption devant un notaire qui établit un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra>.</Paragraphe><OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+
+<Paragraphe>Son consentement est nécessaire pour le <LienInterne LienPublication="F2621" type="Fiche d'information" audience="Particuliers">changement de nom de famille</LienInterne> (adjonction ou substitution du nom de l'adoptant au nom de l'adopté).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>l'adopté peut revenir sur son consentement à tout moment jusqu'à la décision de l'adoption.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Saisine du tribunal</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">présenter une requête devant le tribunal de grande instance (TGI)</LienInterne> du lieu de votre résidence. </Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Après examen, le juge vous <LienIntra LienID="R14732" type="Définition de glossaire">notifie</LienIntra>  sa décision.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Dossier ID="N133" audience="Particuliers">
+<Titre>Adoption</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006425845&amp;idSectionTA=LEGISCTA000006150070&amp;cidTexte=LEGITEXT000006070721" ID="R31699">
+<Titre>Code civil : articles 343 à 349</Titre>
+<Complement>Conditions liées à l'adoptant (articles 343 à 344), consentement (article 345, dernier alinéa et article 348-3)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150074&amp;cidTexte=LEGITEXT000006070721" ID="R19914">
+<Titre>Code civil : articles 360 à 362</Titre>
+<Complement>Conditions à remplir pour une adoption simple</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006149749&amp;cidTexte=LEGITEXT000006070716" ID="R2014">
+<Titre>Code de procédure civile : articles 1166 à 1176</Titre>
+<Complement>Procédure d'adoption - compétence du tribunal (article 1166), requête (article 1168)</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41643" URL="http://www.agence-adoption.fr" audience="Particuliers">
+<Titre>Site de l'Agence française de l'adoption (Afa)</Titre>
+<Source ID="R30785">Agence française de l'adoption</Source>
+</PourEnSavoirPlus>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17851">
+<Titre>Acte authentique</Titre>
+<Texte>
+				<Paragraphe>Document établi par un officier public compétent (notaire, huissier, officier d'état civil), rédigé selon les formalités exigées par la loi et dont le contenu  peut avoir la même force qu'une décision judiciaire</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F15246" audience="Particuliers">Adoption simple et l'adoption plénière : quelles différences ?</QuestionReponse>
+</Publication>

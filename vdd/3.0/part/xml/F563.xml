@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F563" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Impôt de solidarité sur la fortune (ISF) : personnes concernées</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Tout particulier est concerné par l'impôt sur la fortune (ISF) si la valeur de son patrimoine excède 1,3 million €. L'ISF concerne également tous les biens (meubles et immeubles), droits (usufruit, droit d'usage...) et valeurs (action, titre...) composant votre patrimoine au 1 exposant er janvier 2017. Toutefois, certains biens sont partiellement ou totalement exonérés et certaines dettes peuvent être déduites de la valeur de votre patrimoine avant imposition.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F563</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180007&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006310884&amp;idSectionTA=LEGISCTA000006162962&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162633&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/5757-PGP, http://bofip.impots.gouv.fr/bofip/5987-PGP, http://bofip.impots.gouv.fr/bofip/5987-PGP.html, http://bofip.impots.gouv.fr/bofip/5330-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20074</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20074">Impôt de solidarité sur la fortune (ISF)</Niveau>
+<Niveau ID="F563" type="Fiche d'information">Impôt de solidarité sur la fortune (ISF) : personnes concernées</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N20074">
+<Titre>Impôt de solidarité sur la fortune (ISF)</Titre>
+<Fiche ID="F563">Patrimoine taxable</Fiche>
+<Fiche ID="F138">Calcul de l'impôt</Fiche>
+<Fiche ID="F31444">Déclaration et paiement</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Tout particulier est concerné par l'impôt sur la fortune (ISF) si la valeur de son patrimoine excède <Valeur>1,3 million €</Valeur>.</Paragraphe>
+<Paragraphe>L'ISF concerne également tous les biens (meubles et immeubles), droits (usufruit, droit d'usage...) et valeurs (action, titre...) composant votre patrimoine au 1<Exposant>er</Exposant> janvier 2017. Toutefois, certains biens sont partiellement ou totalement exonérés et certaines dettes peuvent être déduites de la valeur de votre patrimoine avant imposition.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Seuil d'imposition</Paragraphe>
+</Titre><Paragraphe>Vous êtes soumis à l'ISF
+      lorsque la valeur nette de <LienInterne LienPublication="F563" type="Fiche d'information" audience="Particuliers">votre patrimoine</LienInterne> est supérieure à <Valeur>1,3 million €</Valeur> au 1<Exposant>er</Exposant> janvier 2017.</Paragraphe>
+<Paragraphe>Les revenus (salaire, loyers...) en tant que tels sont  exclus de l'ISF.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la <LienInterne LienPublication="F24031" type="Fiche Question-réponse" audience="Particuliers">contribution exceptionnelle sur la fortune</LienInterne> est supprimée depuis le 1<Exposant>er</Exposant> janvier 2013, mais la <LienInterne LienPublication="F31130" type="Fiche Question-réponse" audience="Particuliers">contribution exceptionnelle sur les hauts revenus</LienInterne> continue en revanche de s'appliquer indépendamment de l'ISF.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions relatives au contribuable</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Foyer fiscal</Paragraphe>
+</Titre><Paragraphe>Les biens détenus par l'ensemble des personnes composant votre <LienIntra LienID="R1046" type="Définition de glossaire">foyer fiscal</LienIntra> sont pris en compte.</Paragraphe>
+<Paragraphe>Une personne vivant seule (célibat, veuvage, divorce, séparation) est un foyer fiscal à part entière.</Paragraphe>
+<Paragraphe>Les personnes <LienIntra LienID="R42442" type="Définition de glossaire">vivant en couple</LienIntra>  font partie d'un même foyer fiscal et font l'objet d'une <LienInterne LienPublication="F31444" type="Fiche d'information" audience="Particuliers">imposition commune</LienInterne>.</Paragraphe>
+<Paragraphe>Dans tous les cas, les biens des enfants mineurs dont vous avez l'administration légale des biens sont pris en compte.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>les parents divorcés ou séparés exerçant en commun l'autorité parentale peuvent déclarer chacun pour moitié la valeur des biens de leurs enfants mineurs.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Origine du patrimoine</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si vous vivez en France</Paragraphe>
+</Titre>
+<Paragraphe>L'imposition est établie pour l'ensemble des biens détenus en France et à l'étranger par les personnes composant votre foyer.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si vous vivez à l'étranger</Paragraphe>
+</Titre>
+<Paragraphe>Seuls les biens possédés en France par les personnes composant votre foyer sont en principe imposables.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Meubles et immeubles</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Biens immobiliers</Paragraphe>
+</Titre><Paragraphe>À titre indicatif, vous devez déclarer notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les immeubles bâtis (à usage personnel ou mis en location) : maisons, appartements et leurs dépendances (garage, parking, cave..),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les bâtiments classés <Expression>monument historique</Expression>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les immeubles en cours de construction au 1<Exposant>er</Exposant> janvier 2017,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les immeubles non bâtis (terrains à bâtir, terres agricoles).</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>votre résidence principale fait l'objet d'un abattement de 30 % sur sa valeur au 1<Exposant>er</Exposant> janvier 2017.</Paragraphe>
+</ASavoir><Paragraphe>Vous pouvez estimer la valeur d'un bien immobilier en utilisant le service en ligne Patrim, accessible sur votre espace personnel de télédéclarant.</Paragraphe><ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Votre espace personnel est un espace sécurisé qui permet de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclarer vos revenus (il n'est plus possible de faire une déclaration des revenus en ligne pour l'impôt sur les revenus de 2015).</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Consulter votre situation fiscale</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Payer vos impôts</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Effectuer vos démarches en ligne</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Accéder à une messagerie </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour  accéder à votre espace Particulier pour la 1<Exposant>ère</Exposant> fois, vous devez choisir un mot de passe.</Paragraphe>
+<Paragraphe>Pour en créer un, vous devez saisir : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Votre numéro fiscal (il figure en haut de la 1<Exposant>ère</Exposant> page de votre dernière déclaration de revenus reçue ainsi que sur votre dernier avis d'impôt)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre numéro de déclarant en ligne (il figure en haut de la 1<Exposant>ère</Exposant> page de votre dernière déclaration de revenus)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Votre revenu fiscal de référence (il figure dans le cadre "Vos références" de votre dernier avis d'impôt sur le revenu).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'écran vous guide pour la création de votre accès par mot de passe. </Paragraphe>
+<Paragraphe>Afin de valider la procédure de création de votre mot de passe, vous recevez immédiatement un courriel contenant un lien que vous devez cliquer. Le lien dans le courriel est actif pendant 24 heures. Passé ce délai, il faut recommencer la création du mot de passe.</Paragraphe>
+<Paragraphe>Seuls votre numéro fiscal et votre mot de passe seront nécessaires pour vous reconnecter à votre espace Particulier.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Sous certaines conditions, des exonérations partielles ou totales sont prévues pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les immeubles utilisés pour votre activité professionnelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les bois et forêts sous engagement d'exploitation ou à usage professionnel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les biens ruraux loués à long terme ou à usage professionnel (terrains agricoles, bâtiments et matériels d'exploitation),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les logements loués meublés sous le régime fiscal du loueur en meublé professionnel.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Biens mobiliers</Paragraphe>
+</Titre><Paragraphe>Les meubles et objets de toute nature vous appartenant sont à déclarer, notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le mobilier (meubles et équipements),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les voitures automobiles, les motocyclettes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les yachts et bateaux de plaisance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les avions de tourisme,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les bijoux, les pierres précieuses et l'or (pièces de monnaie, lingots...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les chevaux de course et chevaux de selle.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les fonds de commerce sont à déclarer au titre des biens imposables à l'ISF (hors biens professionnels exonérés).</Paragraphe>
+</ANoter><Paragraphe>Certains biens mobiliers sont exonérés d'ISF :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les <LienInterne LienPublication="F32311" type="Fiche d'information" audience="Professionnels">biens professionnels</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les objets d'antiquité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les objets d'art ou de collection (tapis, tapisseries, peintures, timbres-poste...).</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Droits d'usage, usufruit, droit de propriété industrielle, littéraire ....</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Droits concernés</Paragraphe>
+</Titre><Paragraphe>À titre indicatif sont à déclarer pour l'ISF :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les <LienInterne LienPublication="F934" type="Fiche Question-réponse" audience="Particuliers">usufruits</LienInterne> (l'usufruitier intègre alors le bien pour sa valeur en pleine propriété),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les droits d'usage,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les droits de propriété industrielle (brevets d'invention, marques de fabrique, dessins et modèles),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les droits de propriété littéraire ou artistique.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les droits de propriété littéraire ou artistique et les droits de propriété industrielle ne sont pas à déclarer par le titulaire du droit (auteur ou inventeur), seuls les ayants droit doivent les déclarer.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exonérations</Paragraphe>
+</Titre><Paragraphe>Certains droits ne sont pas retenus dans le calcul de l'ISF :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les concessions dans un cimetière,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la nue-propriété d'un bien immobilier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les droits temporaires au logement dont bénéficie le conjoint survivant.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Placements et liquidités</Paragraphe>
+</Titre>
+<Paragraphe>Vos placements et liquidités sont à déclarer au titre de l'ISF. Dans certains cas, des exonérations sont prévues.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Placements financiers</Paragraphe>
+</Titre><Paragraphe>Sont notamment à déclarer vos placements financiers, tels que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les actions et obligations cotées,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les sommes placées sur un plan d'épargne entreprise (PEE) ou plan d'épargne interentreprise (PEI),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les <LienInterne LienPublication="F2385" type="Fiche d'information" audience="Particuliers">plans d'épargne en actions (PEA)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les titres de sociétés non cotées,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les contrats d'assurance vie et rentes viagères.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>pour les contrats d'assurance vie non rachetables, seules les primes versées après l'âge de 70 ans au titre des contrats souscrits à compter du 20 novembre 1991 sont à déclarer.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Liquidités</Paragraphe>
+</Titre><Paragraphe>Sont notamment à déclarer les sommes d'argent disponibles sur vos comptes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les comptes courants,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="N20376" type="Dossier" audience="Particuliers">les livrets d'épargne</LienInterne> (livret A, LDD...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'épargne logement (<LienInterne LienPublication="F16140" type="Fiche d'information" audience="Particuliers">PEL</LienInterne>, <LienInterne LienPublication="F16136" type="Fiche d'information" audience="Particuliers">CEL</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les bons du trésor, bons de caisse, bons de capitalisation.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exonérations</Paragraphe>
+</Titre><Paragraphe>Certaines valeurs sont exonérées d'ISF :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les valeurs de capitalisation des rentes viagères assimilables à des pensions de retraite (<LienInterne LienPublication="F10260" type="Fiche d'information" audience="Particuliers">Perco</LienInterne>, <LienInterne LienPublication="F10259" type="Fiche d'information" audience="Particuliers">PERP</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les valeurs de capitalisation des rentes et indemnités perçues en réparation de dommages corporels.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déduction des dettes</Paragraphe>
+</Titre><Paragraphe>L'ISF s'applique sur le montant du patrimoine net taxable, c'est-à-dire après déduction des dettes existant au 1<Exposant>er</Exposant> janvier 2017 et à condition de les justifier. Font notamment partie des dettes déductibles :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les dettes fiscales (impôt sur le revenu et prélèvement sociaux 2016 restant à payer en 2017, impôts foncier, taxe d'habitation...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les dettes successorales (droits succession faisant l'objet d'un paiement différé),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les dettes bancaires (crédit : capital restant dû et intérêts),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les pensions alimentaires, prestations compensatoires restant à courir fixées par une décision judiciaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les dépôts de garantie versés par un locataire en cours de bail.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>depuis 2013, les dettes se rapportant à un bien exonéré d'ISF ne sont plus déductibles. En cas d'exonération partielle, les dettes sont déductibles à hauteur de la valeur taxable.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F32311" audience="Professionnels">
+<Titre>Biens professionnels exonérés d'ISF</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service local gestionnaire de votre dossier</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180007&amp;cidTexte=LEGITEXT000006069577" ID="R35166">
+<Titre>Code général des impôts : article 885 A</Titre>
+<Complement>Personnes imposables</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006310884&amp;idSectionTA=LEGISCTA000006162962&amp;cidTexte=LEGITEXT000006069577" ID="R33546">
+<Titre>Code général des impôts : articles 885 D à 885 G quater</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162633&amp;cidTexte=LEGITEXT000006069577" ID="R35165">
+<Titre>Code général des impôts : articles 885 H à 885 L</Titre>
+<Complement>Biens exonérés</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/5757-PGP" ID="R19952">
+<Titre>Bofip-impôts n°BOI-PAT-ISF-30-20 (biens soumis à l'ISF)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/5987-PGP" ID="R32069">
+<Titre>Bofip-impôts n°BOI-PAT-ISF-30-40 (biens exonérés d'ISF)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/5987-PGP.html" ID="R32070">
+<Titre>Bofip-impôts n°BOI-PAT-ISF-30-30 (biens professionnels exonérés d'ISF)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/5330-PGP" ID="R17221">
+<Titre>Bofip-Impôts n°BOI-PAT-ISF-20-10 relatif aux personnes imposables à l'ISF</Titre>
+</Reference>
+<ServiceEnLigne ID="R18844" URL="https://www.impots.gouv.fr/portail/node/9030" numerocerfa="11284*17" autrenumero="2725" type="Formulaire">
+<Titre>Déclaration de l'impôt de solidarité sur la fortune (ISF) - Patrimoine supérieur ou égal à 2,57 millions d'euros</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1181" URL="https://www.impots.gouv.fr/portail/node/3983" commentaireLien="Pour simuler le montant de son ISF" type="Simulateur">
+<Titre>Calcul de l'impôt de solidarité sur la fortune (ISF)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Definition ID="R1046">
+<Titre>Foyer fiscal</Titre>
+<Texte>
+				<Paragraphe>Ensemble de personnes dont les ressources font l'objet d'une seule déclaration de revenus (exemple : époux, épouse et enfants à charge)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179569&amp;cidTexte=LEGITEXT000006069577" ID="R32026">
+<Titre>Code général des impôts : articles 4A à 8 quinquies</Titre>
+</Reference>
+</Definition>
+<Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F24031" audience="Particuliers">La contribution exceptionnelle sur la fortune s'applique-t-elle toujours ?</QuestionReponse>
+<QuestionReponse ID="F31130" audience="Particuliers">En quoi consiste la contribution exceptionnelle sur les hauts revenus ? </QuestionReponse>
+<QuestionReponse ID="F62" audience="Particuliers">Comment déterminer son domicile fiscal ?</QuestionReponse>
+<QuestionReponse ID="F562" audience="Particuliers">À quelle date s'apprécie la composition du patrimoine ?</QuestionReponse>
+<QuestionReponse ID="F934" audience="Particuliers">En quoi consiste l'usufruit ?</QuestionReponse>
+</Publication>

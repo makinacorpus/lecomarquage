@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31912" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment demander un logement étudiant ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Si vous êtes étudiant, vous pouvez bénéficier, sur critères sociaux, d'un logement à loyer modéré grâce à votre Crous.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-17</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31912</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000027748544&amp;cidTexte=LEGITEXT000006071191, http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=103374</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F31912" type="Fiche Question-réponse">Comment demander un logement étudiant ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous êtes étudiant, vous pouvez bénéficier, sur critères sociaux, d'un logement à loyer modéré grâce à votre centre régional des œuvres universitaires et scolaires (Crous).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Les <LienInterne LienPublication="R31947" type="Acronyme">Crous</LienInterne> proposent 2 types de logements.</Paragraphe>
+<Paragraphe>D'une part, les résidences traditionnelles avec :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des chambres individuelles meublées de   9 m² avec lavabo (les cuisines, douches et sanitaires sont collectifs),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou des chambres individuelles  meublées de 10  m², avec douche, lavabo, wc et réfrigérateur (les cuisines sont collectives),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou des chambres individuelles de 14 m², avec douche, lavabo, wc,  réfrigérateur et micro-ondes (les cuisines sont collectives),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou des studios individuels meublés de 15 à 20 m², avec douche, wc, lavabo, coin cuisine et réfrigérateur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et la possibilité de  toucher <LienInterne LienPublication="F1280" type="Fiche d'information" audience="Particuliers">l'allocation de logement sociale (ALS)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>D'autre part, les résidences conventionnées avec :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des logements plus grands, meublés et  équipés, allant du studio au T3 (pour les colocations),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un loyer plus élevé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et un droit à <LienInterne LienPublication="F12006" type="Fiche d'information" audience="Particuliers">l'allocation personnalisée au logement (APL)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans tous les cas, les logements étudiants gérés par le <LienInterne LienPublication="R31947" type="Acronyme">Crous</LienInterne> sont exonérés de taxe d'habitation. Le loyer dépend du type du logement, et non de vos ressources.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Étudiant de nationalité française</Paragraphe>
+</Titre><Paragraphe>Votre demande doit se faire du 15 janvier au 31 mai pour la rentrée de septembre via le dossier social étudiant (DSE), <MiseEnEvidence>en même temps que votre <LienInterne LienPublication="F12216" type="Fiche Question-réponse" audience="Particuliers">demande de bourse</LienInterne>
+</MiseEnEvidence>.</Paragraphe><ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+
+<Paragraphe>Votre logement vous sera attribué selon votre situation personnelle et les disponibilités. Les critères sociaux, d'études et d'âge sont les mêmes que pour les <LienInterne LienPublication="F12214" type="Fiche d'information" audience="Particuliers">bourses</LienInterne>.</Paragraphe>
+<Paragraphe>Vous pouvez faire plusieurs choix de logements étudiants dans une même académie.</Paragraphe>
+<Paragraphe>Vous aurez une réponse dès la fin juin.</Paragraphe>
+<Paragraphe>En cas de réponse positive, pour confirmer votre admission, vous devrez verser un mois de loyer pour la réservation et le dépôt de garantie. Vous pouvez demander le remboursement de cette provision uniquement si vous arrêtez vos études ou  changez d'académie. Dans ce cas, le remboursement doit être demandé avant le 15 septembre pour un logement classique ou le 15 août s'il s'agit d'un logement conventionné.</Paragraphe>
+<Paragraphe>Vous devrez aussi fournir un contrat de cautionnement solidaire signé par votre garant.</Paragraphe>
+<Paragraphe>À votre arrivée dans les lieux, il vous sera demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le 1<Exposant>er</Exposant> mois de loyer en entier quelle que soit votre date d'entrée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une attestation d'assurance (incendie, dégâts des eaux, responsabilité civile),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et un justificatif d'inscription dans votre établissement d'enseignement supérieur.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vous devrez renouveler votre demande pour chaque rentrée universitaire même si vous souhaitez rester dans votre logement.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Étudiant étranger</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Européen</Paragraphe>
+</Titre><Paragraphe>Si vous êtes ressortissant de l'Union européenne ou d'un État membre de <LienIntra LienID="R42218" type="Définition de glossaire">l'Espace économique européen (EEE)</LienIntra> et :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si vous avez travaillé en France au cours de l'année précédant la demande,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si un de vos parents a déjà perçu des revenus en France au cours de l'année précédant la demande,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si vous attestez d'un certain degré d'intégration (scolarité suivie en France, durée de séjour d'un an minimum, liens familiaux...)</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Votre demande doit se faire du 15 janvier au 31 mai pour la rentrée de septembre via le dossier social étudiant (DSE), <MiseEnEvidence>en même temps que votre <LienInterne LienPublication="F12216" type="Fiche Question-réponse" audience="Particuliers">demande de bourse</LienInterne>.</MiseEnEvidence>
+</Paragraphe><ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+
+<Paragraphe>Votre logement vous sera attribué selon votre situation personnelle et les disponibilités. Les critères sociaux, d'études et d'âge sont les mêmes que pour les <LienInterne LienPublication="F12214" type="Fiche d'information" audience="Particuliers">bourses</LienInterne>.</Paragraphe>
+<Paragraphe>Vous pouvez faire plusieurs choix de logements étudiants dans une même académie.</Paragraphe>
+<Paragraphe>Vous aurez une réponse dès la fin juin.</Paragraphe>
+<Paragraphe>En cas de réponse positive, pour confirmer votre admission, vous devrez verser un mois de loyer pour la réservation et le dépôt de garantie. Vous pouvez demander le remboursement de cette provision uniquement si vous arrêtez vos études ou  changez d'académie. Dans ce cas, le remboursement doit être demandé avant le 15 septembre pour un logement classique ou le 15 août s'il s'agit d'un logement conventionné.</Paragraphe>
+<Paragraphe>Vous devrez aussi fournir un contrat de cautionnement solidaire signé par votre garant.</Paragraphe>
+<Paragraphe>À votre arrivée dans les lieux, il vous sera demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le 1<Exposant>er</Exposant> mois de loyer en entier quelle que soit votre date d'entrée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une attestation d'assurance (incendie, dégâts des eaux, responsabilité civile),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et un justificatif d'inscription dans votre établissement d'enseignement supérieur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans les autres cas, vous devez remplir quand même un DSE. Mais vous ne serez pas prioritaire et un logement ne vous sera accordé qu'en fonction des places restantes.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Erasmus</Paragraphe>
+</Titre><Paragraphe>Si vous êtes étudiant <LienInterne LienPublication="R46554" type="Sigle">Erasmus</LienInterne>, vous devez vous adresser au service des relations internationales de votre établissement d'accueil et remplir  un dossier social étudiant avant votre arrivée.</Paragraphe><ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vous devrez renouveler votre demande pour chaque rentrée universitaire même si vous souhaitez rester dans votre logement.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Campus France</Paragraphe>
+</Titre><Paragraphe>Si vous venez dans le cadre d'une bourse Campus France, vous devez prendre contact avec l'agence Campus France et remplir un dossier social étudiant avant votre arrivée.</Paragraphe><ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vous devrez renouveler votre demande pour chaque rentrée universitaire même si vous souhaitez rester dans votre logement.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Réfugié ou apatride</Paragraphe>
+</Titre><Paragraphe>Si vous êtes <LienInterne LienPublication="N106" type="Dossier" audience="Particuliers">réfugié ou apatride</LienInterne>, votre demande doit se faire du 15 janvier au 31 mai pour la rentrée de septembre via le dossier social étudiant (DSE), <MiseEnEvidence>en même temps que votre demande de bourse</MiseEnEvidence>.</Paragraphe><ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+
+<Paragraphe>Votre logement vous sera attribué selon votre situation personnelle et les disponibilités. Les critères sociaux, d'études et d'âge sont les mêmes que pour les bourses.</Paragraphe>
+<Paragraphe>Vous pouvez faire plusieurs choix de logements étudiants dans une même académie.</Paragraphe>
+<Paragraphe>Vous aurez une réponse dès la fin juin.</Paragraphe>
+<Paragraphe>En cas de réponse positive, pour confirmer votre admission, vous devrez verser un mois de loyer pour la réservation et le dépôt de garantie. Vous pouvez demander le remboursement de cette provision uniquement si vous arrêtez vos études ou changez d'académie. Dans ce cas, le remboursement doit être demandé avant le 15 septembre pour un logement classique ou le 15 août s'il s'agit d'un logement conventionné.</Paragraphe>
+<Paragraphe>Vous devrez aussi fournir un contrat de cautionnement solidaire signé par votre garant.</Paragraphe>
+<Paragraphe>À votre arrivée dans les lieux, il vous sera demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le 1<Exposant>er</Exposant> mois de loyer en entier quelque soit votre date d'entrée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une attestation d'assurance (incendie, dégâts des eaux, responsabilité civile),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et un justificatif d'inscription dans votre établissement d'enseignement supérieur</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vous devrez renouveler votre demande pour chaque rentrée universitaire même si vous souhaitez rester dans votre logement.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Résidant en France depuis au moins 2 ans et dont le foyer fiscal de rattachement est situé en France depuis au moins 2 ans</Paragraphe>
+</Titre><Paragraphe>Si vous êtes un étranger résidant en France depuis au moins 2 ans et dont le foyer fiscal de rattachement (parents ou tuteur légal) est situé en France depuis au moins 2 ans, votre demande doit se faire du 15 janvier au 31 mai pour la rentrée de septembre via le dossier social étudiant (DSE) en même temps que votre demande de bourse.</Paragraphe><ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+
+<Paragraphe>Votre logement vous sera attribué selon votre situation personnelle et les disponibilités. Les critères sociaux, d'études et d'âge sont les mêmes que pour les bourses.</Paragraphe>
+<Paragraphe>Vous pouvez faire plusieurs choix de logements étudiants dans une même académie.</Paragraphe>
+<Paragraphe>Vous aurez une réponse dès la fin juin.</Paragraphe>
+<Paragraphe>En cas de réponse positive, pour confirmer votre admission, vous devrez verser un mois de loyer pour la réservation et le dépôt de garantie. Vous pouvez demander le remboursement de cette provision uniquement si vous arrêtez vos études ou changez d'académie. Dans ce cas, le remboursement doit être demandé avant le 15 septembre pour un logement classique ou le 15 août s'il s'agit d'un logement conventionné.</Paragraphe>
+<Paragraphe>Vous devrez aussi fournir un contrat de cautionnement solidaire signé par votre garant.</Paragraphe>
+<Paragraphe>À votre arrivée dans les lieux, il vous sera demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le premier mois de loyer en entier quelque soit votre date d'entrée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une attestation d'assurance (incendie, dégâts des eaux, responsabilité civile),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et un justificatif d'inscription dans votre établissement d'enseignement supérieur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans les autres cas, vous devez remplir quand même un dossier social étudiant. Mais vous ne serez pas prioritaire et un logement ne vous sera accordé qu'en fonction des places restantes.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Résidant en France depuis moins de 2 ans ou dont le foyer fiscal de rattachement est situé en France depuis moins de 2 ans</Paragraphe>
+</Titre><Paragraphe>Si vous êtes un étranger résidant en France depuis moins 2 ans ou dont le foyer fiscal de rattachement (parents ou tuteur légal) est situé en France depuis moins de 2 ans, vous ne pouvez pas faire de demande de logement étudiant au <LienInterne LienPublication="R31947" type="Acronyme">Crous</LienInterne>, ni percevoir de bourse de l'enseignement supérieur.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R16797" type="Local personnalisé sur SP">
+<Titre>Crous</Titre>
+<Complement>Pour tout complément d'information</Complement>
+<PivotLocal>crous</PivotLocal>
+<RessourceWeb URL="http://www.cnous.fr/_cnous__dossier_3.17.66.htm" commentaireLien="Centre régional des oeuvres universitaires et scolaires"/>
+<Source ID="R30627">Centre national des oeuvres universitaires et scolaires (CNOUS)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<Complement>Pour tout complément d'information</Complement>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000027748544&amp;cidTexte=LEGITEXT000006071191" ID="R35001">
+<Titre>Code de l'éducation : article L822-1</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=103374" ID="R19264">
+<Titre>Circulaire n°2016-088 du 6 juin 2016 relative aux modalités d'attribution des bourses d'enseignement supérieur sur critères sociaux et des aides à la mobilité internationale pour 2016-2017</Titre>
+</Reference>
+<ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R46441" URL="https://www.messervices.etudiant.gouv.fr/pve/doc/ProcedureDSE.pdf" audience="Particuliers" format="application/pdf" poids="3.4 MB">
+<Titre>Lycéens de terminale : la demande de bourse/logement</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R35000" URL="http://www.lokaviz.fr/logement-crous/annuaire-des-residences-crous/carte-des-residences-crous/n:223" audience="Particuliers">
+<Titre>Carte des résidences universitaires Crous</Titre>
+<Complement>Demande, voie de recours, médiation, ...</Complement>
+<Source ID="R30627">Centre national des oeuvres universitaires et scolaires (CNOUS)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45296" URL="http://www.etudiant.gouv.fr/pid33824/vous-loger-en-residence-universitaire.html" audience="Particuliers">
+<Titre>Étudiant, vous loger en résidence universitaire</Titre>
+<Complement>Demande, voie de recours, médiation, ...</Complement>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41768" URL="http://www.campusfrance.org/fr" audience="Particuliers">
+<Titre>Site campusfrance.org</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</PourEnSavoirPlus>
+<Definition ID="R42218">
+<Titre>Pays de l'Espace économique européen (EEE)</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Islande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède.</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R31947" type="Acronyme">
+<Titre>Crous</Titre>
+<Texte>
+<Paragraphe>Centre régional des œuvres universitaires et scolaires</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R46554" type="Sigle">
+<Titre>Erasmus</Titre>
+<Texte>
+<Paragraphe>Programme européen pour l'éducation, la formation, la jeunesse et le sport (European Action Scheme for the Mobility of University Students)</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F1563" audience="Particuliers">Un étudiant peut-il prétendre à une aide au logement ?</QuestionReponse>
+<QuestionReponse ID="F31864" audience="Particuliers">Quelles sont les différences entre les allocations logement ?</QuestionReponse>
+</Publication>

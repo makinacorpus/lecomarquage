@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R32973" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'aide à la formation dans le cadre d'un CAE-DOM</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Demande d'aide à la formation dans le cadre d'un CAE-DOM - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-24</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R32973</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N23663">Aides à l'embauche</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R32973" type="Formulaire">Demande d'aide à la formation dans le cadre d'un CAE-DOM</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14956*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14956.do" format="application/pdf" poids="51.2 KB">
+<Source>Ministère en charge du travail</Source>
+</LienWeb><NoticeLiee ID="R32974" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51722&amp;cerfaFormulaire=14956" numerocerfa="51722#01">Notice pour remplir la demande d'aide à la formation dans le cadre d'un CAE-DOM</NoticeLiee>
+
+<FicheLiee ID="F33329" audience="Professionnels" type="Fiche d'information">
+<Titre>Contrat unique d'insertion (CUI)</Titre>
+<Dossier ID="N23663">Aides à l'embauche</Dossier>
+</FicheLiee><OuSAdresser ID="R20150" type="Centre de contact">
+<Titre>Agence de services et de paiement (ASP)</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/etablissement-public_170766"/>
+</OuSAdresser>
+</ServiceComplementaire>

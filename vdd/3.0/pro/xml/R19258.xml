@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19258" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'autorisation de défrichement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Demande d'autorisation de défrichement - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-13</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19258</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N22377">Protection de la faune et de la flore</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19258" type="Formulaire">Demande d'autorisation de défrichement</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13632*06</NumeroCerfa>
+<Texte><Paragraphe>Toute opération volontaire entraînant la destruction de l'état boisé d'un terrain et mettant fin à sa destination forestière est considérée comme un défrichement et nécessite une autorisation préalable, sauf si elle est la conséquence indirecte d'opérations entreprises en application d'une servitude d'utilité publique (distribution d'énergie par exemple).</Paragraphe>
+<Paragraphe>Le dépôt de la demande ne vaut pas autorisation.</Paragraphe>
+<Paragraphe>Remplace le cerfa n°13262*01, qui n'est plus en vigueur.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13632.do" format="application/pdf" poids="142.2 KB">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb><NoticeLiee ID="R17499" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51240&amp;cerfaFormulaire=13632" numerocerfa="51240#07">Notice d'information à l'attention des demandeurs d'autorisation de défrichement</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R44607" audience="Professionnels" type="Téléservice">
+<Titre>Demande en ligne d'autorisation de défrichement</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F31667" audience="Professionnels" type="Fiche d'information">
+<Titre>Autorisation de défrichement</Titre>
+<Dossier ID="N22377">Protection de la faune et de la flore</Dossier>
+</FicheLiee><OuSAdresser ID="R16" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge des territoires (DDT ou DDTM)</Titre>
+<PivotLocal>ddt</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=DDT+ou+DDTM&amp;where="/>
+</OuSAdresser>
+</ServiceComplementaire>

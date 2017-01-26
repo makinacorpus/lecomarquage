@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1402" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Légalisation de documents d'origine étrangère (authentification)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>La légalisation d'un document établi à l'étranger permet d'attester de son authenticité en vue d'une démarche en France. Il ne s'agit pas d'une procédure de validation du contenu du document, mais de sa forme. Les documents français destinés à une administration française ne doivent pas être légalisés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-04</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1402</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006056773</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N365</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N365">Certificat, copie, légalisation et conservation de documents</Niveau>
+<Niveau ID="F1402" type="Fiche d'information">Légalisation de documents d'origine étrangère (authentification)</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N365">
+<Titre>Certificat, copie, légalisation et conservation de documents</Titre>
+<Fiche ID="F1359">Autorisation de sortie du territoire (AST)</Fiche>
+<Fiche ID="F1051">Certificat de nationalité française (CNF)</Fiche>
+<Fiche ID="F1412">Copie certifiée conforme</Fiche>
+<Fiche ID="F1400">Légalisation de documents français</Fiche>
+<Fiche ID="F1402">Légalisation de documents d'origine étrangère</Fiche>
+<Fiche ID="F1411">Légalisation de signature</Fiche>
+<Fiche ID="F19134">Papiers à conserver</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La légalisation d'un document établi à l'étranger permet d'attester de son authenticité en vue d'une démarche en France. 
+		
+			Il ne s'agit pas d'une procédure de validation du contenu du document, mais de sa forme. Les documents français destinés à une administration française ne doivent pas être légalisés.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Documents concernés</Paragraphe>
+</Titre><Paragraphe>Les documents français destinés à une administration française ne doivent pas être légalisés. Seuls les documents étrangers destinés à l'administration française doivent être légalisés.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Actes publics</Paragraphe>
+</Titre><Paragraphe>Les actes publics étrangers destinés à être produits en France doivent être légalisés. Notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les expéditions des décisions de justice,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les actes émanant de juridictions judiciaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les actes établis par greffiers ou par les huissiers de justice,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les actes notariés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les expéditions d'actes d'état civil,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les actes établis par une administration,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les déclarations officielles (mention d'enregistrement, visas pour date certaine, certification de signature...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les actes établis par des agents diplomatiques et consulaires.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Actes privés</Paragraphe>
+</Titre><Paragraphe>Certains documents privés établis à l'étranger doivent parfois faire l'objet d'une légalisation avant d'être produits en France.</Paragraphe>
+<Paragraphe>Il peut s'agir notamment de documents tels que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>attestation sur l'honneur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>reconnaissance de dette,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>lettre de recommandation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>certificat d'hébergement.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exceptions</Paragraphe>
+</Titre><Paragraphe>Certains types de documents étrangers  n'ont pas besoin d'être légalisés en raison d'accords internationaux. Vous pouvez vous renseigner auprès de l'ambassade du pays d'origine du document.</Paragraphe><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Traduction préalable du document</Paragraphe>
+</Titre><Paragraphe>Pour être légalisés, les documents  doivent être rédigés en français.</Paragraphe>
+<Paragraphe>À défaut, ils doivent être accompagnés d'une traduction en français effectuée par un <LienInterne LienPublication="F12956" type="Fiche Question-réponse" audience="Particuliers">traducteur habilité</LienInterne>. Cette traduction doit être faite avant d'entamer les démarches de légalisation.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>La procédure de légalisation permet d'attester :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la véracité d'une signature sur un acte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la qualité du signataire de l'acte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'identité du sceau ou du timbre apposé sur l'acte.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La légalisation d'un acte se matérialise par l'apposition d'un cachet officiel. </Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Autorité compétente</Paragraphe>
+</Titre><Paragraphe>La légalisation des actes d'origine étrangère relève de la compétence des ambassadeurs et consulats français établis dans le pays émetteur de l'acte. Par exemple, un acte marocain peut être légalisé auprès de l'ambassade de France à Rabat.</Paragraphe><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+<Paragraphe>Par exception, le ministre français des affaires étrangères est habilité à légaliser des actes émanant d'ambassades ou consulats établis en France et destinés à être produits devant d'autres agents diplomatiques et consulaires étrangers établis en France. Par exemple, le ministre peut légaliser un document venant de l'ambassade du Maroc en France destiné à l'ambassade de France au Maroc.</Paragraphe><OuSAdresser ID="R17052" type="Centre de contact">
+<Titre>Bureau des légalisations - Ministère des affaires étrangères</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0)1 53 69 38 28</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>ou <MiseEnEvidence> +33(0)1 53 69 38 29</MiseEnEvidence>
+      </Paragraphe>
+								<Paragraphe>De 14h à 16 h du lundi au vendredi </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre>
+								<Paragraphe>
+			57 boulevard des Invalides </Paragraphe>
+								<Paragraphe>75007 Paris </Paragraphe>
+								<Paragraphe>
+			Le bureau est ouvert au public du lundi au vendredi (sauf les jours fériés) de 8h30 à 13h15.
+		</Paragraphe>
+								<Paragraphe>
+			Un délai minimum de 48 heures environ est demandé pour tout dossier comportant plus de 15 pièces.
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par télécopie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 (0)1 53 69 38 31
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			bureau.legalisation[@]diplomatie.gouv.fr
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><Paragraphe>La procédure de légalisation permet d'attester :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la véracité d'une signature sur un acte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la qualité du signataire de l'acte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'identité du sceau ou du timbre apposé sur l'acte.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La légalisation d'un acte se matérialise par l'apposition d'un cachet officiel. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>la légalisation d'un acte sous seing privé ne peut se faire qu'en présence de son signataire.</Paragraphe>
+</Attention>
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="oui">
+<Fiche ID="F1400" audience="Particuliers">
+<Titre>Légalisation de documents français</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006056773" ID="R17817">
+<Titre>Décret n°2007-1205 du 10 août 2007 relatif aux attributions du ministère des affaires étrangères et des ambassadeurs en matière de légalisation d'actes</Titre>
+</Reference>
+
+</Publication>

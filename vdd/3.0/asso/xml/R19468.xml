@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19468" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modification (ou dissolution) d'une association</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association, Fonctionnement d'une association</dc:subject>
+<dc:description>Ce formulaire permet : - de déclarer différentes modifications de votre association : le titre, l'adresse du siège social, l'objet, l'adresse de gestion ; - et de demandez, si vous le souhaitez, la publication au Journal officiel des associations et fondations d'entreprise (JOAFE) de la modification du titre, de l'objet et de l'adresse du siège social. À adresser au greffe des associations Attention : ce formulaire ne concerne pas l'Alsace-Moselle.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-29</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19468</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19468" type="Formulaire">Modification (ou dissolution) d'une association</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<NumeroCerfa>13972*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Ce formulaire permet :</Paragraphe>
+<Paragraphe>- de déclarer différentes modifications de votre association : le titre, l'adresse du siège social, l'objet, l'adresse de gestion ;</Paragraphe>
+<Paragraphe>- et de demandez, si vous le souhaitez, la publication au Journal officiel des associations et fondations d'entreprise (JOAFE) de la modification du titre, de l'objet et de l'adresse du siège social.</Paragraphe>
+<Paragraphe>À adresser au greffe des associations </Paragraphe>
+<Paragraphe>Attention : ce formulaire ne concerne pas l'Alsace-Moselle. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.formulaires.modernisation.gouv.fr/gf/cerfa_13972.do">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F1178" audience="Associations" type="Fiche d'information">
+<Titre>Association : évolution des ressources (recettes, dons, immeuble)</Titre>
+<Dossier ID="N21962">Évolutions et dissolution d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1122" audience="Associations" type="Fiche d'information">
+<Titre>Dissolution d'une association</Titre>
+<Dossier ID="N21962">Évolutions et dissolution d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1121" audience="Associations" type="Fiche d'information">
+<Titre>Fonctionnement des instances dirigeantes d'une association</Titre>
+<Dossier ID="N19590">Dirigeants et responsables d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1123" audience="Associations" type="Fiche d'information">
+<Titre>Modification des statuts d'une association</Titre>
+<Dossier ID="N21962">Évolutions et dissolution d'une association</Dossier>
+</FicheLiee><OuSAdresser ID="R32106" type="Local personnalisé sur SP">
+<Titre>Greffe des associations</Titre>
+<PivotLocal>prefecture_greffe_associations</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Greffe+des+associations&amp;where="/>
+</OuSAdresser>
+
+<Dossier ID="N21962">
+<Titre>Évolutions et dissolution d'une association</Titre>
+<Audience>Associations</Audience>
+</Dossier>
+</ServiceComplementaire>

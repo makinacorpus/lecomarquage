@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31423" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Autorisation de découvert bancaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Découvert autorisé : la banque peut facturer des agios</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-04</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31423</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032227268&amp;cidTexte=LEGITEXT000006069565, https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032225828&amp;cidTexte=LEGITEXT000006069565, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032807602&amp;cidTexte=LEGITEXT000006069565, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185224&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N98</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="F31423" type="Fiche d'information">Autorisation de découvert bancaire</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N98">
+<Titre>Comptes bancaires</Titre><SousDossier ID="N98-1">
+<Titre>Types de compte</Titre>
+<Fiche ID="F2413">Compte individuel</Fiche>
+<Fiche ID="F10412">Compte joint</Fiche>
+<Fiche ID="F2812">Compte indivis</Fiche>
+</SousDossier>
+<SousDossier ID="N98-2">
+<Titre>Droit au compte</Titre>
+<Fiche ID="F2417">Refus d'ouverture de compte</Fiche>
+<Fiche ID="F31456">Clôture d'un compte par la banque</Fiche>
+</SousDossier>
+<SousDossier ID="N98-3">
+<Titre>Problèmes de trésorerie</Titre>
+<Fiche ID="F31423">Découvert autorisé</Fiche>
+<Fiche ID="F18777">Incidents de paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N98-4">
+<Titre>Opérations bancaires</Titre>
+<Fiche ID="F20752">Opérations bancaires (virement, prélèvement, chèque...)</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Problèmes de trésorerie</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La banque peut  accepter qu'un compte fonctionne à découvert. Le compte bancaire peut alors être négatif, c'est-à-dire comporter plus de débits (dépenses) que de crédits (versements). Mais cette autorisation n'est pas automatique et la banque peut revenir sur cette tolérance et la réduire, voire l'annuler.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Demande préalable</Paragraphe>
+</Titre><Paragraphe>L'autorisation de découvert n'est jamais automatique.</Paragraphe>
+<Paragraphe>Vous devez la demander pour un montant donné :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>lors de la signature de la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou par courrier adressé à l'agence où est ouvert votre compte bancaire.</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R18810" URL="http://www.conso.net/content/vous-demandez-un-decouvert-occasionnel-pour-quelques-jours" type="Modèle de document">
+<Titre>Demander un découvert occasionnel pour quelques jours</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée</Paragraphe>
+</Titre><Paragraphe>L'autorisation de découvert peut être ponctuelle (valable jusqu'à une date précise et fixée à l'avance) ou être octroyée pour une durée indéterminée (jusqu'à révision ou résiliation).</Paragraphe>
+<Paragraphe>Quant à la situation de découvert effectif, elle peut être autorisée pour 2 semaines, 1 mois ou 3 mois, mais jamais au-delà.</Paragraphe>
+<Paragraphe>Cela signifie que même s'il bénéficie d'une autorisation de découvert, un compte bancaire doit être régulièrement  créditeur au moins une journée entière.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>un découvert de plus de <Valeur>200 €</Valeur> qui dépasse 90 jours consécutifs est automatiquement  requalifié en <LienInterne LienPublication="N96" type="Dossier" audience="Particuliers">crédit à la consommation</LienInterne>.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Pour chaque utilisation de découvert que vous faîtes, la banque, si elle en a convenu ainsi avec vous, peut prélever sur votre compte des sommes rémunérant le service rendu : les agios. Ceux-ci comprennent des intérêts débiteurs, des frais divers et des commissions.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Agios forfaitaires</Paragraphe>
+</Titre><Paragraphe>La plupart des établissements bancaires facture un minimum forfaitaire pour toute situation de découvert quel que soient son montant et sa durée.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Agios proportionnels</Paragraphe>
+</Titre><Paragraphe>Les agios proportionnels sont des sommes calculées en fonction  de la durée et du montant moyen de l'utilisation de découvert rapportés à un taux d'intérêt : le <LienInterne LienPublication="F2456" type="Fiche Question-réponse" audience="Particuliers">taux effectif global (TEG)</LienInterne>.</Paragraphe>
+<Paragraphe>La règle de calcul est la suivante :</Paragraphe>
+<Paragraphe>agios = cumul des montants quotidiens des déficits * Teg / 365</Paragraphe>
+<Tableau>
+<Titre>Exemples de calcul d'agios proportionnels</Titre>
+<Colonne largeur="40" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Déficits quotidiens</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Teg</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Total</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>500 + 500 + 800 + 420 + 140</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 360 * 14/100/365 = <Valeur>0,91 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>7 000 + 110</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>9 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>7 110 * 9/100/365 = <Valeur>1,75 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 050 * 21</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>22 050 * 12,5/100/365 = <Valeur> 7,55 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Lorsqu'ils leur sont supérieurs, les agios proportionnels se substituent aux agios forfaitaires.</Paragraphe>
+<Paragraphe>Vous devez être informé du Teg applicable avant l'utilisation du découvert autorisé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Frais pour dépassement de découvert</Paragraphe>
+</Titre><Paragraphe>La banque peut accepter d'enregistrer des opérations au débit d'un compte qui ont pour conséquence de lui faire dépasser le découvert autorisé. Mais cela constitue quand même un <LienInterne LienPublication="F18777" type="Fiche d'information" audience="Particuliers">incident de paiement</LienInterne> susceptible d'être sanctionné par des  frais supplémentaires.</Paragraphe>
+<Paragraphe>Cette facturation prend alors la forme d'agios proportionnels calculés sur les sommes en dépassement rapportées à un Teg supérieur  au Teg initialement convenu. Ce Teg majoré vous est communiqué avant tout enregistrement d'opération en dépassement de découvert autorisé. Il  prend en compte les frais de forçage et autres commission d'intervention.</Paragraphe>
+<Paragraphe>Comme tout Teg, il doit demeurer inférieur aux <LienExterne URL="https://www.banque-france.fr/statistiques/taux-et-cours/taux-dusure">taux d'usure</LienExterne>
+
+. Mais il doit de plus être tel que le montant global des frais supportés pour dépassement de découvert demeurent dans les limites suivantes.</Paragraphe>
+<Tableau>
+<Titre>Plafonds de frais pour dépassement de découvert</Titre>
+<Colonne largeur="33" type="header"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Situation financière du client</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais maximum par opération</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais maximum par mois</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Bonne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>80 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Fragile</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>20 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>une  personne<LienInterne LienPublication="F1946" type="Fiche d'information" audience="Particuliers"> reconnue surendettée</LienInterne> ou qui bénéficie du   service bancaire de base suite à un <LienInterne LienPublication="F2417" type="Fiche d'information" audience="Particuliers">refus d'ouverture de compte bancaire</LienInterne> est considéré en situation financière fragile.</Paragraphe>
+</ANoter>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Révision ou résiliation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Par le titulaire du compte</Paragraphe>
+</Titre><Paragraphe>Vous pouvez résilier  une autorisation de découvert ou diminuer son montant ou sa durée à tout moment, par courrier librement rédigé et adressé à votre agence bancaire.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Par la banque</Paragraphe>
+</Titre><Paragraphe>La banque peut également résilier une autorisation de découvert ou réviser à la baisse son montant ou sa durée. Mais elle ne peut le faire que si elle remplit les 2 conditions cumulatives suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>respecter  ses engagements écrits (dont ceux inscrits dans la convention de compte),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas vous porter brutalement  un préjudice important (en l'absence de faute de votre part) ni disproportionné (en cas de comportement fautif de votre part).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si vous estimez que la révision ou la résiliation est abusive, vous devez saisir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le <LienInterne LienPublication="F20523" type="Fiche Question-réponse" audience="Particuliers">médiateur bancaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>puis, si nécessaire, engager un <LienInterne LienPublication="N269" type="Dossier" audience="Particuliers">procès civil</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032227268&amp;cidTexte=LEGITEXT000006069565" ID="R31970">
+<Titre>Code de la consommation : articles L121-12 à L121-14</Titre>
+<Complement>Droit pour les banques de percevoir des frais</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032225828&amp;cidTexte=LEGITEXT000006069565" ID="R1870">
+<Titre>Code de la consommation : articles L314-5</Titre>
+<Complement>Détermination du taux effectif global</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032807602&amp;cidTexte=LEGITEXT000006069565" ID="R424">
+<Titre>Code de la consommation : articles R314-6 à R314-14</Titre>
+<Complement>Détermination du taux effectif global</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185224&amp;cidTexte=LEGITEXT000006072026" ID="R35099">
+<Titre>Code monétaire et financier : articles R312-1 à R312-4-4</Titre>
+<Complement>Frais maximum pour dépassement de découvert autorisé</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R2925" URL="https://www.banque-france.fr/statistiques/taux-et-cours/taux-dusure" audience="Particuliers">
+<Titre>Taux d'usure</Titre>
+<Source ID="R30618">Banque de France</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2909" audience="Particuliers">Que contient une convention de compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F2456" audience="Particuliers">Qu'est-ce que le taux effectif global (TEG) ?</QuestionReponse>
+<QuestionReponse ID="F20523" audience="Particuliers">Médiateur bancaire : comment y recourir ?</QuestionReponse>
+</Publication>

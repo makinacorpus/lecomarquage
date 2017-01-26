@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31021" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels renseignements peut-on obtenir sur une fondation ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Associations spécifiques et fondations</dc:subject>
+<dc:description>Toute personne peut obtenir certaines informations sur une fondation soit sur internet soit auprès de la préfecture.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-08</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31021</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31028</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31406">Associations spécifiques et fondations</Niveau>
+<Niveau ID="N31028">Fondations</Niveau>
+<Niveau ID="F31021" type="Fiche Question-réponse">Quels renseignements peut-on obtenir sur une fondation ?</Niveau>
+</FilDAriane>
+<Theme ID="N31406">
+<Titre>Associations spécifiques et fondations</Titre>
+</Theme><DossierPere ID="N31028">
+<Titre>Fondations</Titre>
+<Fiche ID="F31023">Fondation reconnue d'utilité publique</Fiche>
+<Fiche ID="F31016">Fondation d'entreprise</Fiche>
+<Fiche ID="F24469">Fonds de dotation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Toute personne peut obtenir certaines informations sur une fondation soit sur internet soit auprès de la préfecture.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Informations sur journal-officiel.gouv.fr</Paragraphe>
+</Titre><Paragraphe>Le service de consultation des annonces officielles des associations et fondations permet d'accéder :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>aux comptes d'une fondation ayant reçu au cours d'une même année plus de <Valeur>153 000 €</Valeur> de dons ou plus de <Valeur>153 000 €</Valeur> de subventions publiques,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>au titre, au siège social et à l'objet d'une fondation d'entreprise,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>aux modifications et aux dissolutions d'une fondation d'entreprise.</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R33779" URL="http://www.journal-officiel.gouv.fr/association/index.php" type="Téléservice">
+<Titre>Consulter les annonces des associations et fondations</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Texte><Paragraphe>Permet également de télécharger une copie de toute insertion au Journal officiel publiée depuis le 9 novembre 2013 (cette copie est appelée témoin de parution).</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Informations sur interieur.gouv.fr</Paragraphe>
+</Titre><Paragraphe> Les listes complètes mises à jour sont téléchargeables concernant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'ensemble d'une fondation reconnue d'utilité publique,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> l'ensemble d'une fondation d'entreprise.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Documents disponibles auprès des préfectures</Paragraphe>
+</Titre><Paragraphe>Vous avez le droit de vous  faire délivrer une copie des statuts d'une fondation reconnue d'utilité publique ou d'une fondation d'entreprise par simple demande auprès de la préfecture de son siège social.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe> les informations sur une fondation abritée (ou sous égide) se déduisent de l'examen des informations disponibles sur la fondation abritante (ou fondation-mère). </Paragraphe>
+</ANoter><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte><ServiceEnLigne ID="R33779" URL="http://www.journal-officiel.gouv.fr/association/index.php" type="Téléservice">
+<Titre>Consulter les annonces des associations et fondations</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F12104" audience="Associations">Comment se renseigner sur une association (ou un fonds de dotation) ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14665" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration annuelle de régularisation de TVA - Régime simplifié</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation, Fiscalité</dc:subject>
+<dc:description>Formulaire destiné à récapituler les taxes sur le chiffre d'affaires (TVA et taxes assimilées) dues au titre de l'exercice par les entreprises relevant du régime simplifié d'imposition.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-11</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14665</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14665" type="Formulaire">Déclaration annuelle de régularisation de TVA - Régime simplifié</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11417*17</NumeroCerfa>
+<AutreNumero>3517-S - CA 12</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Formulaire destiné à récapituler les taxes sur le chiffre d'affaires (TVA et taxes assimilées) dues au titre de l'exercice par les entreprises relevant du régime simplifié d'imposition. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/9095">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F24670" audience="Professionnels" type="Fiche d'information">
+<Titre>Contribution à l'audiovisuel public</Titre>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24026" audience="Professionnels" type="Fiche d'information">
+<Titre>Contributions et taxes assimilées à la TVA</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24619" audience="Professionnels" type="Fiche d'information">
+<Titre>Contribution sur les activités privées de sécurité</Titre>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23744" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'une cessation d'activité</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23566" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration et paiement de la TVA</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+</ServiceComplementaire>

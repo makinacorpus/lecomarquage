@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10412" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Compte bancaire joint</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Un compte joint est un compte bancaire collectif pour déposer et utiliser des fonds en commun, dans une confiance réciproque entre cotitulaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-25</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10412</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032031314&amp;cidTexte=LEGITEXT000006070721, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197318&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170833&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N98</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="F10412" type="Fiche d'information">Compte bancaire joint</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N98">
+<Titre>Comptes bancaires</Titre><SousDossier ID="N98-1">
+<Titre>Types de compte</Titre>
+<Fiche ID="F2413">Compte individuel</Fiche>
+<Fiche ID="F10412">Compte joint</Fiche>
+<Fiche ID="F2812">Compte indivis</Fiche>
+</SousDossier>
+<SousDossier ID="N98-2">
+<Titre>Droit au compte</Titre>
+<Fiche ID="F2417">Refus d'ouverture de compte</Fiche>
+<Fiche ID="F31456">Clôture d'un compte par la banque</Fiche>
+</SousDossier>
+<SousDossier ID="N98-3">
+<Titre>Problèmes de trésorerie</Titre>
+<Fiche ID="F31423">Découvert autorisé</Fiche>
+<Fiche ID="F18777">Incidents de paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N98-4">
+<Titre>Opérations bancaires</Titre>
+<Fiche ID="F20752">Opérations bancaires (virement, prélèvement, chèque...)</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Types de compte</SousDossierPere>
+<Introduction>
+<Texte>
+<Paragraphe>Un compte joint est un compte bancaire collectif pour déposer et utiliser des fonds en commun, dans une confiance réciproque entre cotitulaires.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Qu'est-ce qu'un compte joint ?</Paragraphe>
+</Titre><Paragraphe>Le compte joint est un compte ouvert au nom de 2 personnes ou plus, liées ou non par un lien de parenté.</Paragraphe>
+<Paragraphe>Les cotitulaires du compte sont solidairement responsables du compte et de ses éventuels incidents de paiement.</Paragraphe>
+<Paragraphe>En cas d' <LienInterne LienPublication="F18777" type="Fiche d'information" audience="Particuliers">incident de paiement</LienInterne>, les cotitulaires sont solidairement responsables.</Paragraphe>
+<Paragraphe>Tous sont susceptibles d'être <LienInterne LienPublication="F31388" type="Fiche d'information" audience="Particuliers">interdits bancaires</LienInterne> sur tous leurs comptes, sauf désignation préalable parmi eux d'un responsable unique des incidents relatifs à des chèques.</Paragraphe><ServiceEnLigne ID="R20791" URL="" type="Modèle de document">
+<Titre>Désigner un responsable unique en cas de chèque sans provision sur compte joint ou indivis</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet d'identifier un cotitulaire comme seule personne susceptible de faire l'objet d'un interdit bancaire général, en cas de chèque sans provision sur un compte collectif. Il faut remplacer dans le modèle de lettre "compte joint" par "compte indivis" si nécessaire. Le courrier est à envoyer à sa banque via une lettre recommandé avec accusé de réception.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Citation>Indiquez vos nom et prénom, adresse et numéro de compte joint.</Citation>
+</Paragraphe>
+<Paragraphe>À <Citation>lieu</Citation>, le <Citation>date</Citation> </Paragraphe>
+<Paragraphe>Objet : Désignation d'un responsable en cas d'incident de paiement</Paragraphe>
+<Paragraphe>Madame, Monsieur,</Paragraphe>
+<Paragraphe>Nous sommes cotitulaires du compte joint référencé ci-dessus.</Paragraphe>
+<Paragraphe>Veuillez noter que, d'un commun accord et comme le permet l'article L131-80 du Code monétaire et financier, nous décidons de désigner l'un d'entre nous c'est-à-dire <Citation>nom et prénom de la personne désignée</Citation> .comme responsable unique en cas d'émissions de chèque sans provision qui surviendrait sur notre compte joint.</Paragraphe>
+<Paragraphe>
+<Citation>Nom et prénom de la personne désignée</Citation> sera donc désormais seul(e) interdit d'émettre des chèques sur l'ensemble de ses comptes si un tel incident survenait.</Paragraphe>
+<Paragraphe>Cordialement,</Paragraphe>
+<Paragraphe>
+<Citation>Signature de chaque cotitulaire du compte joint.</Citation>
+</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Chacun des cotitulaires peut déposer ou retirer des fonds.</Paragraphe>
+<Paragraphe>Tous les <LienInterne LienPublication="N91" type="Dossier" audience="Particuliers">moyens de paiement</LienInterne> peuvent être utilisés par n'importe quel cotitulaire, à l'exception des cartes bancaires, qui sont personnelles.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Ouverture du compte</Paragraphe>
+</Titre><Paragraphe>L'ouverture du compte se déroule suivant les mêmes règles que celles valables pour un <LienInterne LienPublication="F2413" type="Fiche d'information" audience="Particuliers">compte bancaire individuel</LienInterne>
+</Paragraphe>
+<Paragraphe>Une <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte de dépôt</LienInterne> est adoptée.</Paragraphe>
+<Paragraphe>Tous les futurs cotitulaires doivent être présents et convenir d'une adresse commune pour la réception des courriers de la banque.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>la banque peut fixer une limite au nombre de cotitulaires, au-delà de laquelle elle refuse l'ouverture.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Intitulé du compte</Paragraphe>
+</Titre>
+<Paragraphe>Les relevés de compte, les courriers, les chéquiers portent les noms des cotitulaires liés entre eux par un <Citation>ou</Citation> . L'intitulé sera ainsi, par exemple, <Citation>M.</Citation> <MiseEnEvidence>
+<Citation>ou</Citation>
+</MiseEnEvidence> <Citation>Mme</Citation> , <Citation>Mme</Citation> <MiseEnEvidence>
+<Citation>ou</Citation>
+</MiseEnEvidence> <Citation>Mme</Citation> , <Citation>X</Citation> <MiseEnEvidence>
+<Citation>ou</Citation>
+</MiseEnEvidence> <Citation>Y</Citation> <MiseEnEvidence>
+<Citation>ou</Citation>
+</MiseEnEvidence> <Citation>Z</Citation> .</Paragraphe>
+<Paragraphe>L'usage du <Citation>ou</Citation> marque le fait que tout ce que fait un cotitulaire est censé être fait en accord avec tout autre cotitulaire.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Modification de la convention de compte</Paragraphe>
+</Titre><Paragraphe>La banque peut modifier la convention de compte, en respectant un délai de préavis de 2 mois avant la date d'entrée en vigueur des changements.</Paragraphe>
+<Paragraphe>L'absence de contestation de la part de chacun des cotitulaires vaut acceptation de la nouvelle convention.</Paragraphe>
+<Paragraphe>Si un des cotitulaires refuse les changements :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit le compte continue de fonctionner sans les services modifiés par la nouvelle convention,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit la procédure de clôture de compte doit être engagée par un ou plusieurs cotitulaires.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Frais de tenue de compte</Paragraphe>
+</Titre><Paragraphe>Depuis le 1<Exposant>er</Exposant>janvier 2016, toutes les banques peuvent facturer des frais pour la simple  tenue de compte. </Paragraphe>
+<Paragraphe>Le détail de <LienInterne LienPublication="F848" type="Fiche Question-réponse" audience="Particuliers">ces tarifs</LienInterne> doit figurer dans sa plaquette tarifaire ou être affichée dans ses agences. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Clôture ou transformation du compte</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Clôture du compte</Paragraphe>
+</Titre><Paragraphe>La clôture du compte obéit aux mêmes règles que celles valables pour un <LienInterne LienPublication="F2413" type="Fiche d'information" audience="Particuliers">compte bancaire individuel</LienInterne>.</Paragraphe>
+<Paragraphe>Le courrier de résiliation doit être signé par tous les cotitulaires.</Paragraphe><ServiceEnLigne ID="R18554" URL="http://www.conso.net./content/vous-demandez-la-fermeture-de-votre-compte-de-d%C3%A9p%C3%B4t" type="Modèle de document">
+<Titre>Demander la fermeture d'un compte bancaire</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+
+<Paragraphe>En cas de solde positif, le retrait peut s'effectuer sous la signature de tous les cotitulaires, ou, à défaut, suivant une décision de justice.</Paragraphe>
+<Paragraphe>En cas de solde négatif, la banque peut réclamer l'ensemble de son dû à chacun des cotitulaires.</Paragraphe>
+<Paragraphe>Le compte peut être également <LienInterne LienPublication="F31456" type="Fiche d'information" audience="Particuliers">clos  sur l'initiative de la banque</LienInterne>.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>en cas de <LienInterne LienPublication="F1451" type="Fiche Question-réponse" audience="Particuliers">décès d'un cotitulaire</LienInterne>, le devenir du compte est précisé dans la convention de compte.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Transformation en compte indivis</Paragraphe>
+</Titre><Paragraphe>Le compte joint peut être transformé en <LienInterne LienPublication="F2812" type="Fiche d'information" audience="Particuliers">compte indivis</LienInterne> : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par une action conjointe de tous les cotitulaires, qui envoient ensemble à la banque un courrier de désolidarisation.</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>par la volonté d'un seul cotitulaire, qui adresse en recommandé avec demande d'avis de réception un courrier de dénonciation à la banque et un courrier de dénonciation à chacun des cotitulaires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Tous les actes de gestion doivent ensuite être effectués avec la signature de tous les cotitulaires.</Paragraphe>
+<Paragraphe>Les <LienInterne LienPublication="F2384" type="Fiche d'information" audience="Particuliers">ordres de virement ou autorisations de prélèvement</LienInterne> permanents antérieurs sont annulés.</Paragraphe>
+<Paragraphe>Les autres moyens de paiement doivent être restitués.</Paragraphe>
+<ServiceEnLigne ID="R21506" URL="" type="Modèle de document">
+<Titre>Désolidariser un compte joint</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet, si ce n'est pas déjà le cas, de faire en sorte que toute opération sur un compte ne puisse être réalisée que sous la signature de tous les cotitulaires (et non plus sous la signature d'un seul d'entre eux). </Paragraphe>
+<Paragraphe>Ce courrier doit être transmis à votre banque via une lettre recommandée avec accusé de réception.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Citation>Indiquez vos nom et prénom, adresse et numéro de compte.</Citation>
+</Paragraphe>
+<Paragraphe>À <Citation>lieu</Citation>, le <Citation>date</Citation> </Paragraphe>
+<Paragraphe>Objet : Désolidarisation du compte joint</Paragraphe>
+<Paragraphe>
+<Citation>Madame</Citation>/<Citation>Monsieur</Citation>, </Paragraphe>
+<Paragraphe>nous vous prions de bien vouloir procéder à la désolidarisation du compte joint n° <Citation>votre numéro de compte joint</Citation> ouverte aux noms de<Citation> nom et prénoms des cotitulaires</Citation>.</Paragraphe>
+<Paragraphe>Ce compte fonctionnera uniquement sous la signature cumulative de tous les cotitulaires cités à compter de la réception de cette lettre.</Paragraphe>
+<Paragraphe>Nous avons noté que les autorisations permanentes de prélèvement et les ordres de virement permanents qui ont été donnés par l'un d'entre nous antérieurement à cette lettre deviennent caducs par cette désolidarisation.</Paragraphe>
+<Paragraphe>Cordialement,</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<ServiceEnLigne ID="R20962" URL="" type="Modèle de document">
+<Titre>Dénoncer un compte joint auprès de la banque</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de se retirer d'un compte joint. Les cotitulaires du compte doivent être informés de la démarche en parallèle, par courrier. À envoyer à sa banque via une lettre recommandée avec accusé de réception.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Citation>Indiquez vos nom et prénom, adresse et numéro de compte joint.</Citation>
+</Paragraphe>
+<Paragraphe>À <Citation>lieu</Citation>, le <Citation>date</Citation> </Paragraphe>
+<Paragraphe>Objet : Dénonciation du compte joint n°Saisir le numéro de votre compte bancaire</Paragraphe>
+<Paragraphe>Madame, monsieur</Paragraphe>
+<Paragraphe>Par la présente, je souhaite dénoncer à partir du Saisir la date le compte joint n° <Citation>numéro du compte joint</Citation> ouvert dans votre agence au nom de <Citation>noms des cotitulaires</Citation>.</Paragraphe>
+<Paragraphe>J'ai bien noté que les autorisations de prélèvement et les ordres de virement permanents qui auraient été émis avant ce jour deviennent caducs par cette dénonciation.</Paragraphe>
+<Paragraphe>Par ailleurs, j'ai également adressé un courrier au cotitulaire de ce compte <Citation>nom de votre cotitulaire</Citation> sur ce compte joint pour l'informer de ma décision.</Paragraphe>
+<Paragraphe>Cordialement.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<ServiceEnLigne ID="R21134" URL="" type="Modèle de document">
+<Titre>Dénoncer un compte joint auprès d'un cotitulaire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet d'informer de son retrait d'un compte joint tout cotitulaire de ce compte, après avoir adressé en parallèle une dénonciation à la banque. À envoyer au cotitulaire via une lettre recommandée avec accusé de réception.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Citation>Indiquez vos nom et prénom, adresse et numéro de compte joint.</Citation>
+</Paragraphe>
+<Paragraphe>À <Citation>lieu</Citation>, le <Citation>date</Citation> </Paragraphe>
+<Paragraphe>
+<Citation>Madame ou Monsieur ou prénom du cotitulaire,</Citation>
+</Paragraphe>
+<Paragraphe>Par la présente, je tiens à <Citation>t' ou vous</Citation> informer de ma décision de dénoncer, à partir du <Citation> date de retrait du compte joint</Citation> notre compte joint n°<Citation>numéro de compte joint</Citation> auprès de l'agence de <Citation>nom et adresse de la banque</Citation>.</Paragraphe>
+<Paragraphe>J'ai adressé un courrier à l'agence de <Citation> nom de la banque</Citation> afin de l'informer de cette décision.</Paragraphe>
+<Paragraphe>Les autorisations de prélèvement et les ordres de virement permanents qui auraient été émis avant ce jour deviennent caducs</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2413" audience="Particuliers">
+<Titre>Compte bancaire individuel</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032031314&amp;cidTexte=LEGITEXT000006070721" ID="R21838">
+<Titre>Code civil : articles 1310 à 1319</Titre>
+<Complement>Solidarité entre les créanciers ou les débiteurs</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197318&amp;cidTexte=LEGITEXT000006069577" ID="R19704">
+<Titre>Code général des impôts : articles 751 à 755</Titre>
+<Complement>Présomptions de propriété</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170833&amp;cidTexte=LEGITEXT000006072026" ID="R402">
+<Titre>Code monétaire et financier : articles L131-69 à L131-87</Titre>
+<Complement>Incidents de paiement et sanctions</Complement>
+</Reference>
+<QuestionReponse ID="F1451" audience="Particuliers">Que devient un compte bancaire en cas de décès ?</QuestionReponse>
+<QuestionReponse ID="F2909" audience="Particuliers">Que contient une convention de compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F33881" audience="Particuliers">Qu'est-ce que le service d'aide à la mobilité bancaire ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F786" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce que le privilège du prêteur de deniers ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le privilège du prêteur de deniers est, avec l'hypothèque conventionnelle et le cautionnement, une des garanties qu'un prêteur peut vous réclamer pour vous accorder un crédit.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F786</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165635&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165637&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20373</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="F786" type="Fiche Question-réponse">Qu'est-ce que le privilège du prêteur de deniers ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere><DossierPere ID="N20373">
+<Titre>Crédit immobilier</Titre><SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre>
+<Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre>
+<Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le <Expression>privilège du prêteur de deniers</Expression> est, avec l'hypothèque conventionnelle et le cautionnement, une des garanties qu'un prêteur peut vous réclamer pour vous accorder un crédit.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le <Expression>privilège de prêteur de deniers</Expression>, qui se rapproche de <LienInterne LienPublication="F789" type="Fiche d'information" audience="Particuliers">l'hypothèque</LienInterne>, permet au prêteur d'être prioritaire sur les garanties prises sur le bien immobilier.</Paragraphe>
+<Paragraphe>Ainsi, si votre bien immobilier  doit être  <LienInterne LienPublication="F16987" type="Fiche d'information" audience="Particuliers">saisi</LienInterne> et vendu, le prêteur titulaire de ce privilège pourrait être indemnisé en priorité.</Paragraphe>
+<Paragraphe>Le <Expression>privilège de prêteur de deniers</Expression> doit obligatoirement être fait devant un notaire. Les frais sont à la charge de l'emprunteur.</Paragraphe>
+<Paragraphe>Ce privilège ne peut être utilisé que lorsque le prêt va servir à payer le prix d'achat d'une maison ou d'un appartement déjà construit ou d'un terrain. Il ne peut donc pas servir à garantir la partie du prêt qui finance la construction de la maison.</Paragraphe>
+<Paragraphe>Il doit être publié au service de publicité foncière (ex-conservation des hypothèques), mais son coût est inférieur à celui de l'hypothèque.</Paragraphe>
+
+</Texte><OuSAdresser ID="R16857" type="Local personnalisé sur SP">
+<Titre>Service de publicité foncière (ex-Conservation des hypothèques)</Titre>
+<Complement>Pour publier un privilège de prêteur de deniers</Complement>
+<PivotLocal>hypotheque</PivotLocal>
+<RessourceWeb URL="http://www2.impots.gouv.fr/contacts/spf/index.htm" commentaireLien="Annuaire des services de publicité foncière"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165635&amp;cidTexte=LEGITEXT000006070721" ID="R10045">
+<Titre>Code civil : article 2374</Titre>
+<Complement>Privilèges spéciaux</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165637&amp;cidTexte=LEGITEXT000006070721" ID="R10069">
+<Titre>Code civil : articles 2377 à 2386</Titre>
+<Complement>Cas où les privilèges doivent être inscrits</Complement>
+</Reference>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F16124" audience="Particuliers">Peut-on me réclamer une caution bancaire pour un prêt ?</QuestionReponse>
+<QuestionReponse ID="F785" audience="Particuliers">Qu'est-ce qu'une hypothèque judiciaire conservatoire ?</QuestionReponse>
+<QuestionReponse ID="F787" audience="Particuliers">Peut-on faire lever une hypothèque ?</QuestionReponse>
+<QuestionReponse ID="F788" audience="Particuliers">Que devient l'hypothèque quand le prêt est remboursé ?</QuestionReponse>
+</Publication>

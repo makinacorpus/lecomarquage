@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N133" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Adoption</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Il existe 2 types d'adoption : plénière ou simple. L'adoption plénière remplace le lien de filiation existant entre l'adopté et sa famille d'origine par un nouveau lien. L'adoption simple permet d'adopter une personne (même adulte) sans qu'elle rompe les liens avec sa famille d'origine. L'adoption est ouverte à toute personne de plus de 28 ans (mariée ou non, vivant seule ou en couple) et aux époux mariés depuis plus de 2 ans ou âgés tous les 2 de plus de 28 ans.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-14</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N133</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N133" type="Dossier">Adoption</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere>
+<SousDossier ID="N133-1">
+<Titre>Adoption par un couple marié</Titre><Fiche ID="F3151">Adoption plénière</Fiche>
+<Fiche ID="F1184">Adoption simple</Fiche>
+</SousDossier>
+<SousDossier ID="N133-2">
+<Titre>Adoption à titre individuel</Titre><Fiche ID="F1385">Adoption plénière</Fiche>
+<Fiche ID="F933">Adoption simple</Fiche>
+<Fiche ID="F1094">Adoption de l'enfant de son conjoint</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Il existe 2 types d'adoption : plénière ou simple. L'adoption plénière remplace le lien de filiation existant entre l'adopté et sa famille d'origine par un nouveau lien. L'adoption simple permet d'adopter une personne (même adulte) sans qu'elle rompe les liens avec sa famille d'origine. L'adoption est ouverte à toute personne de plus de 28 ans (mariée ou non, vivant seule ou en couple) et aux époux mariés depuis plus de 2 ans ou âgés tous les 2 de plus de 28 ans.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N135" audience="Particuliers">
+<Titre>Autorité parentale</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<PourEnSavoirPlus type="Information pratique" ID="R41643" URL="http://www.agence-adoption.fr" audience="Particuliers">
+<Titre>Site de l'Agence française de l'adoption (Afa)</Titre>
+<Source ID="R30785">Agence française de l'adoption</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41644" URL="http://www.adoption.gouv.fr/" audience="Particuliers">
+<Titre>Site officiel d'information sur l'adoption d'un enfant</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F15246" audience="Particuliers">Quelles sont les différences entre l'adoption simple et l'adoption plénière ?</QuestionReponse>
+<QuestionReponse ID="F1383" audience="Particuliers">Comment faire une demande d'agrément ?</QuestionReponse>
+<QuestionReponse ID="F2973" audience="Particuliers">Peut-on adopter un adulte ?</QuestionReponse>
+<QuestionReponse ID="F935" audience="Particuliers">Comment adopter un enfant à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F784" audience="Particuliers">Peut-on contester le refus d'agrément en vue d'une adoption ?</QuestionReponse>
+<CommentFaireSi ID="F601">J'ai besoin de faire garder mes enfants</CommentFaireSi>
+
+</Publication>

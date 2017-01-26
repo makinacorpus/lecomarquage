@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15189" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles indemnités peut percevoir un salarié licencié pour motif économique ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le salarié licencié pour motif économique a droit au versement d'indemnités diverses, s'il remplit les conditions permettant d'en bénéficier</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15189</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N481</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N481">Licenciement économique</Niveau>
+<Niveau ID="F15189" type="Fiche Question-réponse">Quelles indemnités peut percevoir un salarié licencié pour motif économique ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N481">
+<Titre>Licenciement économique</Titre><SousDossier ID="N481-1">
+<Titre>Prévention des licenciements</Titre>
+<Fiche ID="F592">Activité partielle</Fiche>
+<Fiche ID="F31602">Accord de maintien de l'emploi</Fiche>
+</SousDossier>
+<SousDossier ID="N481-2">
+<Titre>Procédure de licenciement</Titre>
+<Fiche ID="F13482">Consultation préalable des représentants du personnel</Fiche>
+<Fiche ID="F15784">Adaptation et reclassement des salariés</Fiche>
+<Fiche ID="F13782">Entretien préalable</Fiche>
+<Fiche ID="F19645">Lettre de licenciement</Fiche>
+<Fiche ID="F31898">Préavis de licenciement et fin du contrat</Fiche>
+<Fiche ID="F1647">Priorité de réembauche</Fiche>
+<Fiche ID="F31618">Licenciement économique nul, injustifié ou irrégulier</Fiche>
+</SousDossier>
+<SousDossier ID="N481-3">
+<Titre>Mesures d'accompagnement</Titre>
+<Fiche ID="F2811">Plan de sauvegarde de l'emploi (PSE)</Fiche>
+<Fiche ID="F13819">Contrat de sécurisation professionnelle (CSP)</Fiche>
+<Fiche ID="F31688">Allocation de sécurisation professionnelle (ASP)</Fiche>
+<Fiche ID="F2906">Congé de reclassement</Fiche>
+<Fiche ID="F16676">Congé de mobilité</Fiche>
+<Fiche ID="F884">Congé de conversion</Fiche>
+<Fiche ID="F2829">Cellule de reclassement</Fiche>
+<Fiche ID="F2808">Allocation temporaire dégressive</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le salarié licencié pour motif économique a droit au versement d'indemnités diverses, s'il remplit les conditions permettant d'en bénéficier</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il s'agit des indemnités suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F987" type="Fiche d'information" audience="Particuliers">indemnité de licenciement</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F24660" type="Fiche d'information" audience="Particuliers">indemnité compensatrice de préavis</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F24661" type="Fiche d'information" audience="Particuliers">indemnité compensatrice de congés payés</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Certaines procédures  prévoient la possibilité de verser au salarié une indemnité supplémentaire, dite <Expression>supralégale</Expression> (notamment en cas de plan de sauvegarde de l'emploi ou de plan de départ volontaire). Son montant est fixé lors des négociations menées par les représentants du personnel et l'employeur.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si, à l'issue d'un litige, le licenciement économique est jugé <LienInterne LienPublication="F31618" type="Fiche d'information" audience="Particuliers">nul, abusif ou irrégulier</LienInterne>, le salarié licencié a également droit au bénéfice d'une indemnité à ce titre.</Paragraphe>
+</ANoter>
+</Texte>
+</Publication>

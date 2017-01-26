@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N18131" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mesures antipollution</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Mesures antipollution : Bonus écologique (prime), Remplacement d'un ancien diesel (prime à la casse), Pollution</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N18131</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19812</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Automobiliste</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N18131" type="Dossier">Mesures antipollution</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+<SousDossier ID="N18131-1">
+<Titre>Bonus écologique (prime)</Titre><Fiche ID="F18132">Véhicule particulier propre (essence, GPL, gaz naturel)</Fiche>
+<Fiche ID="F32430">Véhicule particulier hybride rechargeable</Fiche>
+<Fiche ID="F34014">Véhicule électrique (voiture, 2 ou 3 roues)</Fiche>
+<Fiche ID="F18167">Camionnette (CTTE)</Fiche>
+</SousDossier>
+<SousDossier ID="N18131-2">
+<Titre>Remplacement d'un ancien diesel (prime à la casse)</Titre><Fiche ID="F32487">Prime à la conversion : achat d'un véhicule neuf électrique ou hybride</Fiche>
+<Fiche ID="F32767">Aide pour une personne non imposable : achat d'un véhicule moins polluant</Fiche>
+</SousDossier>
+<SousDossier ID="N18131-3">
+<Titre>Pollution</Titre><Fiche ID="F19911">Malus et taxe CO₂ pour un véhicule polluant</Fiche>
+<Fiche ID="F10332">Pollution atmosphérique</Fiche>
+</SousDossier><ServiceEnLigne ID="R18200" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13621_13.do" format="application/pdf" poids="82.1 KB" numerocerfa="13621*13" type="Formulaire">
+<Titre>Demande de versement du bonus</Titre>
+<Source ID="R30795">Agence de services et de paiement (ASP)</Source><NoticeLiee ID="R34258" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51236%2312&amp;cerfaFormulaire=13621*13" format="application/pdf" poids="172.5 KB">Notice d'information à l'attention des bénéficiaires potentiels du bonus</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18430" URL="http://www3.ademe.fr/eco-deplacements/calculette/" type="Simulateur">
+<Titre>Calculette Eco-déplacements</Titre>
+<Source ID="R30674">Agence de l'environnement et de la maîtrise de l'énergie (Ademe)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18319" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13635.do" numerocerfa="13635*03" type="Formulaire">
+<Titre>Demande de versement de l'aide à la transformation d'un véhicule particulier à essence, pour permettre son fonctionnement au GPL</Titre>
+<Source ID="R30795">Agence de services et de paiement (ASP)</Source><NoticeLiee ID="R17846" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13635*03&amp;cerfaNotice=51243%2303" numerocerfa="51243#03" format="application/pdf" poids="301.5 KB">Notice d'information à l'attention des bénéficiaires potentiels de l'aide à la transformation des voitures particulières à essence pour permettre leur fonctionnement au GPL</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18602" URL="http://carlabelling.ademe.fr/recherche/index?category" type="Simulateur">
+<Titre>Connaître le taux d'émission de CO2 de sa voiture</Titre>
+<Source ID="R30674">Agence de l'environnement et de la maîtrise de l'énergie (Ademe)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R18198" URL="http://www.developpement-durable.gouv.fr/Dates-et-modalites-d-applications.html" audience="Particuliers">
+<Titre>Questions réponses sur le bonus-malus écologique</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R44892" URL="http://www.prix-carburants.gouv.fr/" audience="Particuliers">
+<Titre>Prix des carburants</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F31484" audience="Particuliers">Quels sont les cas de minoration ou d'exonération du malus et de la taxe CO₂ ?</QuestionReponse>
+<QuestionReponse ID="F33371" audience="Particuliers">Qu'est-ce que le certificat qualité de l'air appelé Crit'Air ?</QuestionReponse>
+</Publication>

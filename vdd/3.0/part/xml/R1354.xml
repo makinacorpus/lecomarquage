@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1354" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'embauche d'un emploi familial</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Permet à l'employeur de déclarer à l'Urssaf l'embauche d'un employé familial (accueillant familial, stagiaire familial étranger...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1354</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N499">Salarié au pair et stagiaire aide familial étranger</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1354" type="Formulaire">Déclaration d'embauche d'un emploi familial</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11469*03</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet à l'employeur de déclarer à l'Urssaf l'embauche d'un employé familial (accueillant familial, stagiaire familial étranger...).</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11469.do" format="application/pdf" poids="68.8 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F473" audience="Particuliers" type="Fiche d'information">
+<Titre>Salarié au pair</Titre>
+<Dossier ID="N499">Salarié au pair et stagiaire aide familial étranger</Dossier>
+</FicheLiee>
+<FicheLiee ID="F13348" audience="Particuliers" type="Fiche d'information">
+<Titre>Stagiaire aide familial étranger</Titre>
+<Dossier ID="N499">Salarié au pair et stagiaire aide familial étranger</Dossier>
+</FicheLiee><OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

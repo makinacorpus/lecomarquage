@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F13723" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Indice de référence des loyers (IRL)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>L'indice de référence des loyers (IRL) sert de base pour réviser les loyers des logements vides ou meublés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-12</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F13723</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028778231&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028777184&amp;cidTexte=LEGITEXT000006069108</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N337</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N337">Location immobilière : loyer</Niveau>
+<Niveau ID="F13723" type="Fiche d'information">Indice de référence des loyers (IRL)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N337">
+<Titre>Location immobilière : loyer</Titre><SousDossier ID="N337-1">
+<Titre>Loyer d'un logement privé</Titre>
+<Fiche ID="F1310">Fixation et paiement</Fiche>
+<Fiche ID="F1311">Révision annuelle</Fiche>
+<Fiche ID="F1312">Réévaluation d'un loyer sous-évalué</Fiche>
+<Fiche ID="F33066">Réévaluation d'un loyer sur-évalué (action en diminution de loyer)</Fiche>
+<Fiche ID="F13723">Indice de référence des loyers (IRL)</Fiche>
+</SousDossier>
+<SousDossier ID="N337-2">
+<Titre>Loyer d'un logement social</Titre>
+<Fiche ID="F1317">Détermination du loyer</Fiche>
+<Fiche ID="F21051">Supplément de loyer de solidarité (SLS)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Loyer d'un logement privé</SousDossierPere>
+<Introduction>
+<Texte>
+<Paragraphe>L'indice de référence des loyers (IRL) sert de base pour réviser les loyers des logements vides ou meublés.
+		Il fixe les plafonds des augmentations annuelles des loyers que peuvent exiger les propriétaires.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>L'indice de référence des loyers (IRL) sert de base pour réviser le  loyer d'un  logement (vide ou meublé). </Paragraphe>
+<Paragraphe>Il fixe les plafonds des augmentations annuelles des loyers que peuvent exiger les propriétaires.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le <LienInterne LienPublication="F17709" type="Fiche Question-réponse" audience="Particuliers">loyer d'un logement soumis à la loi de 48</LienInterne> est réévalué chaque année selon des règles spécifiques sans lien avec l'IRL.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Règle de calcul</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Nature de l'indice</Paragraphe>
+</Titre>
+<Paragraphe>L'IRL se calcule à partir de la moyenne, sur les 12 derniers mois, de l'évolution des prix à la consommation hors tabac et hors loyers.</Paragraphe>
+<Paragraphe>Cet indice s'applique aux baux conclus à compter de cette date, ainsi qu'aux baux en cours, sans qu'il soit nécessaire de signer un avenant au bail.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Indice à prendre en compte</Paragraphe>
+</Titre><Paragraphe>La date de l'IRL à prendre en compte est :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la date indiquée dans le bail (date convenue entre le bailleur et le locataire, ou, à défaut, terme annuel  du bail),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit, à défaut, la date du dernier IRL publié par l'<LienInterne LienPublication="R12417" type="Acronyme">Insee</LienInterne> à la date de la signature du bail.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le loyer d'un logement HLM est révisé en  fonction de l'IRL, selon des <LienInterne LienPublication="F1317" type="Fiche d'information" audience="Particuliers">modalités particulières</LienInterne>. </Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Calcul</Paragraphe>
+</Titre><Paragraphe>Pour calculer l'augmentation du montant du loyer, le propriétaire doit avoir pris connaissance des 3 éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>montant du loyer,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> nouvel IRL du  trimestre de référence  (prévu dans le bail ou publié par l'<LienInterne LienPublication="R12417" type="Acronyme">Insee</LienInterne> au moment de la signature du bail),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et IRL du même trimestre de l'année précédente.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le calcul consiste ensuite à effectuer l'opération suivante : Loyer en cours x nouvel IRL du trimestre de référence du contrat/IRL du même trimestre de l'année précédente = nouveau loyer.</Paragraphe>
+<Paragraphe>Par exemple, un bail signé le 1<Exposant>er</Exposant> septembre 2014 moyennant un loyer mensuel de <Valeur>700 €</Valeur>, peut être réévalué au 1<Exposant>er</Exposant> septembre 2015.  Le dernier indice publié à la date de signature du bail est celui du 2<Exposant>e</Exposant> trimestre 2014, soit 125,15. Le nouvel indice publié à la date de réévaluation est celui du 2<Exposant>e</Exposant> trimestre 2015, soit 125,25.</Paragraphe>
+<Paragraphe>Au 1<Exposant>er</Exposant> septembre 2015, date de la 1<Exposant>ère</Exposant> révision, le montant du loyer doit être calculé de la manière suivante : <Valeur>700 €</Valeur> x 125,25/ 125,15= <Valeur>700,56 €</Valeur>.</Paragraphe>
+<Paragraphe>Vous pouvez utiliser le simulateur suivant : </Paragraphe><ServiceEnLigne ID="R2977" URL="https://www.anil.org/outils/outils-de-calcul/revision-de-loyer/" type="Simulateur">
+<Titre>Calculer la révision de son loyer</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de calculer la révision de son loyer.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai d'application</Paragraphe>
+</Titre><Paragraphe>Le bailleur dispose d'un délai d'un an, à compter de la date prévue pour la révision, pour en faire la demande au locataire. La révision prendra effet au jour de sa demande,  elle n'est  pas rétroactive.</Paragraphe>
+<Paragraphe>Passé le délai d'un an, la révision du loyer pour l'année écoulée n'est plus possible. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Valeurs de l'IRL (publiées par l'Insee)</Paragraphe>
+</Titre><Tableau>
+<Titre>Valeurs de l'IRL</Titre>
+<Colonne largeur="7" type="header"/>
+<Colonne largeur="17" type="normal"/>
+<Colonne largeur="16" type="normal"/>
+<Colonne largeur="16" type="normal"/>
+<Colonne largeur="17" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Année</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Trimestre de référence</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>IRL</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Variation annuelle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Date de publication</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2017</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule/>
+<Cellule/>
+<Cellule>
+<Paragraphe>13 avril 2017</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,50</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,18%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12 janvier 2017</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,33</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,06 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12 octobre 2016</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,25</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> 0 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13 juillet 2016</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,26</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,06 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13 avril 2016</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,28</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>- 0,01 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 janvier 2016</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,26</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+0,02 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>15 octobre 2015</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,25</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+0,08 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>23 juillet 2015</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,19</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+0,15 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>17 avril 2015</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,29</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,37 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>17 janvier 2015</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,24</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,47 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>22 octobre 2014</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125,15</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,57 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>25 juillet 2014</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>125</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0.60 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>11 avril 2014</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>2013</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>124,83</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,69 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>17 janvier 2014</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>124,66</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,90 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>23 octobre 2013</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>124,44</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12 juillet 2013</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>124,25</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,54 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12 avril 2013</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>2012</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>123,97</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,88 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12 janvier 2013</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>123,55</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 2,15 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12 octobre 2012</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>122,96</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 2,20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13 juillet 2012</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>122,37</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 2,24 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13 avril 2012</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>2011</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>121,68</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 2,11 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13 janvier 2012</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>120,95</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,90 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13 octobre 2011</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>120,31</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,73 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13 juillet 2011</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>119,69</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,60 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 avril 2011</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="4">
+<Paragraphe>2010</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>119,17</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,45 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 janvier 2011</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>118,70</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 1,10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 octobre 2010</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>e</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>118,26</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,57 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>12 juillet 2010</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>117,81</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ 0,09 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 avril 2010</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028778231&amp;cidTexte=LEGITEXT000006069108" ID="R36687">
+<Titre>Loi n°89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs : article 17-1</Titre>
+<Complement>Modalités de l'augmentation annuelle</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028777184&amp;cidTexte=LEGITEXT000006069108" ID="R36625">
+<Titre>Loi n°89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs : article 7-1</Titre>
+<Complement>Augmentation non rétroactive</Complement>
+</Reference>
+<ServiceEnLigne ID="R2977" URL="https://www.anil.org/outils/outils-de-calcul/revision-de-loyer/" type="Simulateur">
+<Titre>Calculer la révision de son loyer</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41593" URL="https://www.insee.fr/fr/statistiques/2148139" audience="Particuliers">
+<Titre>Indice de référence des loyers</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R42788" URL="https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques/2008/nouvel-irl-revision-annuelle-des-loyers/" audience="Particuliers">
+<Titre>Révision annuelle des loyers</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R12417" type="Acronyme">
+<Titre>Insee</Titre>
+<Texte>
+<Paragraphe>Institut national de la statistique et des études économiques</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F1314" audience="Particuliers">En quoi consiste l'encadrement des loyers ?</QuestionReponse>
+<QuestionReponse ID="F31301" audience="Particuliers">Quelles sont les voies de recours dans un litige locatif ?</QuestionReponse>
+<QuestionReponse ID="F479" audience="Particuliers">Quel est le délai de prescription d'une dette locative (charges et loyer) ?</QuestionReponse>
+</Publication>

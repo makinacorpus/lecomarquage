@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31839" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'appelle-t-on gestion désintéressée d'une association ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Le but non lucratif ne suffit pas. Le caractère désintéressé de la gestion de l'association s'établit au regard de critères supplémentaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31839</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022334779&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/2358-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19590</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N19590">Dirigeants et responsables d'une association</Niveau>
+<Niveau ID="F31839" type="Fiche Question-réponse">Qu'appelle-t-on gestion désintéressée d'une association ?</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+</Theme><DossierPere ID="N19590">
+<Titre>Dirigeants et responsables d'une association</Titre>
+<Fiche ID="F1121">Fonctionnement des instances dirigeantes</Fiche>
+<Fiche ID="F2335">Congé de représentation</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe> Si le but non lucratif d'une association est nécessaire pour prouver que sa gestion est désintéressée, il ne suffit pas. La non-lucrativité du but assure seulement le fait que les bénéfices éventuels réalisés par l'association ne sont pas partagés entre ses membres, mais sont réinvestis ou versés à un autre organisme sans but lucratif.</Paragraphe>
+<Paragraphe>Le caractère désintéressé de la gestion de l'association doit s'établir au regard de  3  grands critères supplémentaires :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les dirigeants agissent à titre <LienIntra LienID="R2046" type="Définition de glossaire">bénévole</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les dirigeants ne bénéficient d'aucune contrepartie (revenus, services,  jouissance d'un bien, entre autres),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les membres de l'association ne peuvent pas se partager le patrimoine de l'association, y compris pour la partie qui n'a pas été constituée par l'engrangement de bénéfices (mais par des dons effectués à la création, par exemple).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si l'association emploie un ou plusieurs salariés, ceux-ci doivent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>réaliser un travail effectif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être rémunérés de façon non excessive par rapport aux usages constatées de leur profession,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et ne pas être eux-mêmes dirigeants (sauf <LienInterne LienPublication="F1927" type="Fiche d'information" audience="Associations">circonstances  exceptionnelles</LienInterne>).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À titre dérogatoire, l'administration peut tolérer que les dirigeants reçoivent des contreparties, sans que cela remette en cause  le caractère désintéressé de l'association, si les conditions cumulatives suivantes sont remplies :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le <LienInterne LienPublication="F1121" type="Fiche d'information" audience="Associations">fonctionnement de l'association</LienInterne> est démocratique,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les contreparties sont déterminées de façon transparente,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la valeur de ces contreparties n'excède pas <Valeur>1 110,20 €</Valeur> par mois et par dirigeant.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F1927" audience="Associations">
+<Titre>Rémunération des dirigeants d'une association ou d'un organisme sans but lucratif</Titre>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F11966" audience="Associations">
+<Titre>Agrément ministériel d'une association</Titre>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1131" audience="Associations">
+<Titre>Association reconnue d'utilité publique</Titre>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022334779&amp;cidTexte=LEGITEXT000006069577" ID="R15929">
+<Titre>Code général des impôts : article 261</Titre>
+<Complement>Voir 7 "Organismes d'utilité générale"</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/2358-PGP" ID="R34212">
+<Titre>Bofip-Impôts n°BOI-IS-CHAMP 10-50-10-20 relatif aux critères généraux d'appréciation de la non-lucrativité de l'activité commerciale des organismes privés autres que les sociétés</Titre>
+</Reference>
+<Definition ID="R2046">
+<Titre>Bénévole</Titre>
+<Texte>
+				<Paragraphe>Personne qui s'engage librement pour mener une action non salariée en direction d'autrui, en dehors de son temps professionnel et familial</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31838" audience="Associations">Une activité commerciale d'une association peut-elle être non lucrative ?</QuestionReponse>
+</Publication>

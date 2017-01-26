@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1261" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de pension d'invalidité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Demande de pension d'invalidité - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-04</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1261</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1261" type="Formulaire">Demande de pension d'invalidité</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11174*04</NumeroCerfa>
+<AutreNumero>S4150</AutreNumero>
+<Texte><Paragraphe>Permet à toute personne remplissant les conditions ouvrant droit au bénéfice de la pension d'invalidité de faire une demande auprès de sa caisse d'assurance maladie. Donne accès à la notice n°50531#04.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S4150.pdf">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F672" audience="Particuliers" type="Fiche d'information">
+<Titre>Pension d'invalidité : conditions d'attribution et démarche</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+<Dossier ID="N526">
+<Titre>Maladie, accident du travail ou invalidité dans le secteur privé</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

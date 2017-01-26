@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N107" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Travail d'un étranger en France</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Travail d'un étranger en France</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-07-25</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N107</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19804</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étranger en France</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N107" type="Dossier">Travail d'un étranger en France</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere>
+<Fiche ID="F2728">Demande d'autorisation de travail</Fiche>
+<Fiche ID="F2733">Renouvellement de l'autorisation</Fiche><ServiceEnLigne ID="R37802" URL="http://www.immigration-professionnelle.gouv.fr/conseil-au-recrutement" type="Formulaire">
+<Titre>Conseil au recrutement d'un salarié étranger</Titre>
+<Source ID="R30731">Office français de l'immigration et de l'intégration (Ofii)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37801" URL="http://www.immigration-professionnelle.gouv.fr/sites/default/files/fckupload/convention_accueil.pdf" format="application/pdf" poids="64.5 KB" type="Formulaire">
+<Titre>Convention d'accueil d'un chercheur ou enseignant-chercheur étranger</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2911" URL="http://www.immigration-professionnelle.gouv.fr/taxes-dues-%C3%A0-l-ofii?highlight=Taxes" audience="Particuliers">
+<Titre>Taxes dues par les salariés étrangers et leurs employeurs</Titre>
+<Source ID="R30731">Office français de l'immigration et de l'intégration (Ofii)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2620" URL="http://www.immigration-professionnelle.gouv.fr/proc%C3%A9dures/accords-bilat%C3%A9raux-et-%C3%A9changes-de-jeunes-professionnels" audience="Particuliers">
+<Titre>Accords bilatéraux sur les flux migratoires et échanges de jeunes professionnels</Titre>
+<Source ID="R30731">Office français de l'immigration et de l'intégration (Ofii)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R31321" URL="http://www.ciep.fr/tcf-tout-public" audience="Particuliers">
+<Titre>Test de connaissance du français (TCF) tout public</Titre>
+<Source ID="R30694">Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41776" URL="http://www.immigration-professionnelle.gouv.fr" audience="Particuliers">
+<Titre>Site immigration-professionnelle.gouv</Titre>
+<Source ID="R30731">Office français de l'immigration et de l'intégration (Ofii)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2736" audience="Particuliers">Un mineur étranger peut-il travailler en France ?</QuestionReponse>
+<QuestionReponse ID="F16053" audience="Particuliers">Qu'est-ce que la régularisation d'un étranger par le travail ?</QuestionReponse>
+<QuestionReponse ID="F2713" audience="Particuliers">Un étudiant étranger peut-il travailler durant ses études ?</QuestionReponse>
+<QuestionReponse ID="F17450" audience="Particuliers">Un salarié étranger qui s'installe en France doit-il connaître le français ?</QuestionReponse>
+<QuestionReponse ID="F3100" audience="Particuliers">Salarié étranger : qu'est-ce que l'opposabilité de la situation de l'emploi ? </QuestionReponse>
+<QuestionReponse ID="F2229" audience="Particuliers">Étudiant étranger en France : comment travailler après ses études supérieures ?</QuestionReponse>
+
+</Publication>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12416" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment sont calculées les allocations chômage des intermittents du spectacle ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>L'allocation d'aide au retour à l'emploi (ARE) des intermittents du spectacle est calculée à partir du nombre d'heures travaillées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge du travail</dc:contributor>
+<dc:date>modified 2017-01-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12416</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768, http://www.wk-ce.fr/actualites/upload/circulaire-unedic-2016-25-indemnisation-chomage-intermittent-21juillet2016.pdf, https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032891833</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N10805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Artiste</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N10805">Régimes sociaux des travailleurs indépendants</Niveau>
+<Niveau ID="F12416" type="Fiche Question-réponse">Comment sont calculées les allocations chômage des intermittents du spectacle ?</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+<SousThemePere ID="N23430">Protection sociale</SousThemePere><DossierPere ID="N10805">
+<Titre>Régimes sociaux des travailleurs indépendants</Titre><SousDossier ID="N10805-1">
+<Titre>Travailleurs indépendants</Titre>
+<Fiche ID="F23890">Cotisations et contributions sociales des commerçants, artisans et industriels</Fiche>
+<Fiche ID="F33351">Prestations sociales pour les commerçants et les artisans indépendants</Fiche>
+<Fiche ID="F31263">Accompagnement au départ à la retraite (ADR) des travailleurs indépendants</Fiche>
+<Fiche ID="F31233">Cotisations et contributions sociales des professions libérales</Fiche>
+</SousDossier>
+<SousDossier ID="N10805-2">
+<Titre>Agriculteurs</Titre>
+<Fiche ID="F23787">Cotisations et contributions sociales des exploitants agricoles</Fiche>
+<Fiche ID="F23817">Prestations sociales pour les exploitants agricoles</Fiche>
+</SousDossier>
+<SousDossier ID="N10805-3">
+<Titre>Artistes, intermittents du spectacle et auteurs</Titre>
+<Fiche ID="F23749">Affiliation et cotisations sociales des artistes auteurs</Fiche>
+<Fiche ID="F23750">Prestations sociales pour les artistes auteurs</Fiche>
+<Fiche ID="F2261">Indemnisation chômage des intermittents du spectacle</Fiche>
+<Fiche ID="F14098">Indemnisation chômage des intermittents du spectacle : conditions à remplir</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>L'allocation d'aide au retour à l'emploi (ARE) des  <LienIntra LienID="R43518" type="Définition de glossaire">intermittents du spectacle</LienIntra> est calculée à partir du nombre d'heures travaillées pendant des périodes précises, en tenant compte du salaire de référence. </Paragraphe>
+<Paragraphe>Le nombre de jours indemnisés correspond au nombre de jours du mois civil (28, 29, 31 ou 31 jours en fonction du mois considéré), sauf en cas de reprise d'activité partielle, où les jours travaillés sont déduits.</Paragraphe>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Montant brut de l'ARE</Paragraphe>
+</Titre><Paragraphe>Le montant plancher de l'allocation journalière  brute pour les artistes est de <Valeur>44 €</Valeur> et celui pour les ouvriers et techniciens est de <Valeur>38 €</Valeur>.</Paragraphe>
+<Paragraphe>Le montant de l'allocation journalière peut être inférieur à <Valeur>38 €</Valeur> pour les techniciens et ouvriers et à<Valeur> 44 €</Valeur> pour les artistes en raison :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du prélèvement de la participation au financement de la retraite complémentaire dont le seuil d'exonération est fixé à <Valeur>31,36 €</Valeur> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du versement de l'ARE-Formation ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la déduction d'un avantage de vieillesse ou d'une pension d'invalidité.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'allocation journalière (AJ) d'aide au retour à l'emploi est calculée selon la formule suivante : AJ = A + B + C</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Pour les ouvriers et techniciens :</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>A = AJ minimale x [0,42 x salaire de référence (SR - jusqu'à <Valeur>14 400 €</Valeur>) + 0,05 x (SR – au delà de <Valeur>14400 €</Valeur>)] / 5000</Paragraphe>
+<Paragraphe>B = AJ minimale x [0,26 x NHT (jusqu'à 720 heures) + 0,08 x (NHT – 720 heures)] / NH</Paragraphe>
+<Paragraphe>C = AJ minimale x 0,40</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Pour les artistes :</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>A = AJ minimale x [0,36 x salaire de référence (SR - jusqu'à <Valeur>13 700 €</Valeur>) + 0,05 x (SR – au-delà de <Valeur>13 700 €</Valeur>)] / 5000</Paragraphe>
+<Paragraphe>B = AJ minimale x [0,26 x NHT (jusqu'à 690 heures) + 0,08 x (NHT – 690 heures)] / NH</Paragraphe>
+<Paragraphe>C = AJ minimale x 0,70</Paragraphe>
+<Paragraphe>Allocation journalière (AJ) minimale = <Valeur>31,36 €</Valeur>
+</Paragraphe>
+<Paragraphe>NH : Nombre d'heures exigées sur la période de référence = 507 heures sur 365 ou 319 jours.</Paragraphe>
+<Paragraphe>NHT : Nombre d'heures travaillées.</Paragraphe>
+<Paragraphe>Montant minimum de l'allocation journalière pendant une formation : <Valeur>20,54 €</Valeur>
+</Paragraphe>
+<Paragraphe>A titre transitoire, l'allocation journalière minimale (qui ne constitue pas un montant minimum d'AJ) demeure fixée à <Valeur>31,36 €</Valeur> jusqu'à ce que le montant de l'allocation minimale du régime général atteigne ce montant. </Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>L'<LienInterne LienPublication="R14578" type="Téléservice" audience="Professionnels">attestation d'employeur mensuelle (AEM)</LienInterne>, adressé à Pôle emploi et à l'intermittent par l'employeur, permet de calculer le montant de l'ARE et d'enregistrer les périodes d'emploi déclarées par l'intermittent sur sa déclaration de situation mensuelle pour une réadmission.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant net</Paragraphe>
+</Titre><Paragraphe>Le salaire journalier moyen est égal au salaire de référence divisé par le nombre de jours de travail, déterminé en fonction des heures de travail à raison de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> 8 heures par jour pour les ouvriers et techniciens,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>10 heures par jour pour les artistes du spectacle.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Une cotisation de retraite complémentaire de 0,93 % assise sur le salaire journalier moyen est prélevée sur l'allocation journalière. Cette cotisation ne peut avoir pour effet de réduire le montant de l'allocation journalière à moins de <Valeur>31,36 €</Valeur>.</Paragraphe>
+<Paragraphe>L'ARE est également soumise à contribution sociale généralisée (CSG) et à contribution au remboursement de la dette sociale (CRDS). Toutefois, si le montant brut de l'ARE est inférieur au montant du Smic journalier (<Valeur>49 €</Valeur>) ou si le prélèvement de la CSG et de la CRDS conduit à diminuer le montant net de l'ARE en dessous du Smic journalier, il y a exonération ou écrêtement.</Paragraphe>
+<Paragraphe>La CSG est prélevée sur le montant brut de l'ARE après abattement de <Valeur>1,75 %</Valeur> de frais professionnels. Cet abattement s'applique aussi pour la CRDS.</Paragraphe>
+<Paragraphe>Au cours d'une période de  formation, l'ARE n'est soumise ni à la CSG ni à la CRDS.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Salaire de référence</Paragraphe>
+</Titre><Paragraphe>Le salaire de référence est établi à partir des rémunérations entrant dans l'assiette des contributions, afférentes à la période de référence retenue pour l'ouverture des droits ou la dernière réadmission. </Paragraphe>
+<Paragraphe>En sont exclus : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les indemnités compensatrices de congés payés, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les indemnités de préavis ou de non-concurrence, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les indemnités de licenciement et de départ, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>toutes sommes dont l'attribution trouve son origine dans la rupture du contrat de travail ou l'arrivée du terme de celui-ci, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les rémunérations correspondant aux heures de travail effectuées au-delà de 208 heures par mois (ou de 260 heures par mois en cas de dérogation préfectorale), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>toute somme qui ne trouve pas sa contrepartie dans l'exécution normale du contrat de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> les indemnités journalières de la Sécurité sociale, pour les artistes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> les rémunérations correspondant aux cachets effectués au-delà de 28 heures par mois, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les rémunérations perçues pendant cette période, mais qui ne s'y rapportent pas. </Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Cumul de l'ARE avec une activité professionnelle partielle</Paragraphe>
+</Titre><Paragraphe>En cas d'exercice d'une activité professionnelle partielle, salariée ou non, le nombre de jours de travail au cours du mois est déterminé en fonction du nombre d'heures de travail effectuées à hauteur de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>8 heures par jour pour les ouvriers et techniciens,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>10 heures par jour pour les artistes.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le nombre de jours restant indemnisés par l'assurance chômage est égal à la différence entre le nombre de jours calendaires du mois et le nombre de jours de travail affecté d'un coefficient de 1,4 pour les ouvriers et techniciens ou de 1,3 pour les artistes.</Paragraphe>
+<Paragraphe>Par exemple, si un technicien du spectacle a travaillé pendant 20 heures, au cours d'un mois de 30 jours,  il sera indemnisé à hauteur de 26,5 jours : 30 jours - [(20/8) x 1,4 = 3,5 jours]</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>pour un intermittent du spectacle en cours d'indemnisation, le cumul entre revenu d'activité perçu et allocations versées ne doit pas dépasser 1,18 fois le plafond mensuel de la sécurité sociale, soit <Valeur>3 857 €</Valeur> bruts mensuels en 2016. En cas de dépassement de ce plafond, les jours d'allocations qui ne sont pas versés décalent d'autant la fin de l'indemnisation.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2261" audience="Professionnels">
+<Titre>Indemnisation chômage des intermittents du spectacle</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F22793" audience="Professionnels">
+<Titre>Recrutement et emploi d'un artiste ou technicien du spectacle</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F14098" audience="Professionnels">
+<Titre>Indemnisation chômage des intermittents du spectacle : conditions à remplir</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768" ID="R785">
+<Titre>Arrêté du 25 juin 2014 portant agrément de la convention du 14 mai 2014 relative à l'indemnisation du chômage et les textes qui lui sont associés</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.wk-ce.fr/actualites/upload/circulaire-unedic-2016-25-indemnisation-chomage-intermittent-21juillet2016.pdf" ID="R45264" format="application/pdf" poids="2.5 MB">
+<Titre>Circulaire n°2016-25 du 21 juillet 2016-indemnisation du chômage des intermittents du spectacles</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032891833" ID="R46236" format="text/html;charset=utf-8" poids="0">
+<Titre>Décret n° 2016-961 du 13 juillet 2016 relatif au régime d'assurance chômage des travailleurs involontairement privés d'emploi</Titre>
+</Reference>
+<Definition ID="R43518">
+<Titre>Intermittent du spectacle</Titre>
+<Texte>
+				<Paragraphe>Salarié engagé en contrat à durée déterminée (CDD) par un ou des employeurs publics ou privés, exerçant   une activité soit d'artiste du spectacle vivant ou du cinéma (comédien, musicien, chansonnier...), soit  d'ouvrier ou technicien du spectacle parmi l'une des activités répertoriées dans l'annexe 8 au règlement général de l'assurance chômage.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

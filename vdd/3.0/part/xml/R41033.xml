@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R41033" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>S'inscrire à l'opération tranquillité vacances</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>S'inscrire à l'opération tranquillité vacances - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-22</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R41033</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N283">Vol - Vandalisme - Escroquerie</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R41033" type="Formulaire">S'inscrire à l'opération tranquillité vacances</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.interieur.gouv.fr/content/download/84433/618913/file/formulaire_otv.pdf" format="application/pdf" poids="258.1 KB">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R43129" audience="Particuliers" type="Formulaire">
+<Titre>S'inscrire à l'opération tranquillité vacances : Paris et petite couronne (départements 92, 93, 94)</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F1523" audience="Particuliers" type="Fiche d'information">
+<Titre>Vol, cambriolage</Titre>
+<Dossier ID="N283">Vol - Vandalisme - Escroquerie</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

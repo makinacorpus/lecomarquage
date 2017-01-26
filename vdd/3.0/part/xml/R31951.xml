@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31951" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander réparation à un artisan en cas de dégâts causés durant les travaux</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Vous permet de demander réparation à l'entrepreneur si, durant son intervention, il a causé des dégâts chez vous (mobilier cassé, parquet abîmé...)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-13</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31951</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N24036">Prestations de service</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31951" type="Modèle de document">Demander réparation à un artisan en cas de dégâts causés durant les travaux</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Vous permet  de demander réparation à l'entrepreneur si, durant son intervention, il a causé des dégâts chez vous (mobilier cassé, parquet abîmé...) </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.conso.net/content/des-d%C3%A9g%C3%A2ts-ont-%C3%A9t%C3%A9-caus%C3%A9s-durant-les-travaux-vous-demandez-r%C3%A9paration-%C3%A0-l%E2%80%99artisan">
+<Source>Institut national de la consommation (INC)</Source>
+</LienWeb>
+<FicheLiee ID="F24046" audience="Particuliers" type="Fiche avec liens externes">
+<Titre>Travaux et dépannage à domicile</Titre>
+<Dossier ID="N24036">Prestations de service</Dossier>
+</FicheLiee>
+<Dossier ID="N24036">
+<Titre>Prestations de service</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

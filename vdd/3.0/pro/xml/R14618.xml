@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14618" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de la taxe portant sur l'octroi de mer et octroi de mer régional</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>Taxes applicables à l'importation de produits dans chaque département d'outre-mer et, dans certains cas, aux livraisons de produits fabriqués localement par des entreprises exonérées. Ce formulaire sert à déclarer chaque trimestre à l'administration des douanes les montants d'octroi de mer dus par les assujettis à ces taxes pour les livraisons qu'ils effectuent dans le département d'outre-mer dans lequel ils sont établis.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-13</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14618</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N22281">Importation - Exportation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14618" type="Formulaire">Déclaration de la taxe portant sur l'octroi de mer et octroi de mer régional</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>12449*02</NumeroCerfa>
+<AutreNumero>3641</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Taxes applicables à l'importation de produits dans chaque département d'outre-mer et, dans certains cas, aux livraisons de produits fabriqués localement par des entreprises exonérées. Ce formulaire sert à déclarer chaque trimestre à l'administration des douanes les montants d'octroi de mer dus par les assujettis à ces taxes pour les livraisons qu'ils effectuent dans le département d'outre-mer dans lequel ils sont établis. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12449.do" format="application/force-download" poids="321.2 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb><NoticeLiee ID="R44629" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51032&amp;cerfaFormulaire=12449" numerocerfa="51032#02" format="application/pdf" poids="117.9 KB">Notice pour la taxe portant sur l'octroi de mer et octroi de mer régional</NoticeLiee>
+
+<FicheLiee ID="F23676" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Formalités douanières</Titre>
+<Dossier ID="N22281">Importation - Exportation</Dossier>
+</FicheLiee><OuSAdresser ID="R22333" type="Local personnalisable">
+<Titre>Services douaniers en France et en Union européenne (recette de douane, bureau de garantie, direction régionale...)</Titre>
+<PivotLocal>douane_metropole</PivotLocal>
+<RessourceWeb URL="https://pro.douane.gouv.fr/rush/API_Service.asp?sid=&amp;app="/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+</ServiceComplementaire>

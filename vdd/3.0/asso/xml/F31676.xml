@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31676" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Reconnaissance internationale d'une association</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association</dc:subject>
+<dc:description>Une association peut asseoir sa légitimité internationale par l'affiliation à des réseaux reconnus ou l'habilitation comme ONG.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-03</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31676</dc:identifier>
+<dc:source>http://conventions.coe.int/treaty/fr/Treaties/Html/124.htm</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N15871</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31403">Formalités administratives d'une association</Niveau>
+<Niveau ID="N15871">Partenariat d'une association avec les pouvoirs publics</Niveau>
+<Niveau ID="F31676" type="Fiche avec liens externes">Reconnaissance internationale d'une association</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+</Theme><DossierPere ID="N15871">
+<Titre>Partenariat d'une association avec les pouvoirs publics</Titre>
+<Fiche ID="F11966">Agrément ministériel</Fiche>
+<Fiche ID="F1131">Reconnaissance d'utilité publique</Fiche>
+<Fiche ID="F31676">Reconnaissance internationale</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En droit, le statut d'association européenne ou internationale n'existe pas. Une association est ou  française ou étrangère même si son objet   présente une dimension internationale forte. Toutefois, une association peut asseoir sa légitimité internationale par d'autres moyens : l'affiliation  à des réseaux  reconnus et l'habilitation comme organisation non gouvernementale (ONG) partenaire de structures internationales.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.diplomatie.gouv.fr/fr/IMG/pdf/Organisations_de_solidarite_internationale-FR.pdf">Les organisations de solidarité internationale (OSI) humanitaires</LienExterne>
+
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://ec.europa.eu/social/main.jsp?catId=330&amp;langId=fr">Les réseaux d'ONG reconnus par l'Union européenne</LienExterne>
+
+<Source ID="R30669">Commission européenne</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168046ceb2">Le statut participatif pour les ONG reconnues par le Conseil de l'Europe</LienExterne>
+
+<Source ID="R30749">Conseil de l'Europe</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/NGO/pdf/Official_partnership_brochure_Fr.pdf" format="application/pdf" poids="91.5 KB">Devenir une ONG partenaire officiel de l'Unesco</LienExterne>
+
+<Source ID="R33650">Organisation des Nations Unies pour l'éducation, la science et la culture (Unesco)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.un.org/fr/civilsociety/dpingo/candidate.shtml">Devenir ONG partenaire des Nations Unies</LienExterne>
+
+<Source ID="R33715">Organisation des Nations Unies (Onu)</Source>
+</LienExterneCommente><OuSAdresser ID="R17216" type="Local personnalisé sur SP">
+<Titre>Mission d'accueil et d'information des associations (Maia)</Titre>
+<PivotLocal>maia</PivotLocal>
+<RessourceWeb URL="http://www.associations.gouv.fr/10-toutes-les-ressources-pres-de-chez.html"/>
+<Source ID="R30678">Ministère en charge de la vie associative</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://conventions.coe.int/treaty/fr/Treaties/Html/124.htm" ID="R33730">
+<Titre>Convention européenne sur la reconnaissance de la personnalité juridique des organisations internationales non gouvernementales du 24 avril 1986</Titre>
+</Reference>
+<ServiceEnLigne ID="R33725" URL="http://www.un.org/wcm/webdav/site/dpingorelations/shared/Documents/PDF%20Documents/Association%20Application%20Form%202011%20fq.pdf" format="application/pdf" poids="341,36 Ko" type="Formulaire">
+<Titre>Candidature comme ONG partenaire des Nations Unies</Titre>
+<Source ID="R33715">Organisation des Nations Unies (Onu)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33724" URL="http://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168046ceb2" type="Formulaire">
+<Titre>Demande d'octroi du statut participatif auprès du Conseil de l'Europe</Titre>
+<Source ID="R30749">Conseil de l'Europe</Source>
+</ServiceEnLigne>
+</Publication>

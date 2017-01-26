@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3167" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on obtenir une copie d'un acte établi par un notaire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le notaire doit délivrer une copie des actes aux parties, héritiers ou ayant droits.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-11-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3167</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000019960686&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023777508&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichTexte.do;?cidTexte=JORFTEXT000000511476, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159942&amp;cidTexte=LEGITEXT000006074236</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N279</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N279">Acteurs de la justice</Niveau>
+<Niveau ID="F3167" type="Fiche Question-réponse">Peut-on obtenir une copie d'un acte établi par un notaire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N279">
+<Titre>Acteurs de la justice</Titre>
+<Fiche ID="F2176">Magistrats et greffiers</Fiche>
+<Fiche ID="F2158">Huissier de justice</Fiche>
+<Fiche ID="F2153">Avocat</Fiche>
+<Fiche ID="F2164">Notaire</Fiche>
+<Fiche ID="F1540">Juré d'assises</Fiche>
+<Fiche ID="F1822">Médiateur civil</Fiche>
+<Fiche ID="F1739">Médiateur pénal</Fiche>
+<Fiche ID="F1736">Conciliateur de justice</Fiche>
+<Fiche ID="F2161">Expert judiciaire</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le notaire est tenu au secret professionnel. Cependant, il doit fournir une copie des actes aux personnes concernées, à leurs héritiers ou ayants droits.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>La copie d'un acte notarié (contrats de mariages, testaments, inventaires après décès, etc.) peut être délivrée aux personnes concernées, aux héritiers ou à leurs ayants droits :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en version papier,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou en version électronique.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous devez en faire la demande directement à votre notaire. En cas de refus ou d'absence de réponse, vous pouvez formuler une <LienIntra LienID="R12542" type="Définition de glossaire">requête</LienIntra> auprès du président du tribunal de grande instance (TGI) qui prendra une décision. </Paragraphe>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Acte conservé aux archives nationales ou départementales</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Si vous souhaitez obtenir une copie d'un acte notarié de moins de 75 ans (100 ans s'il concerne une personne mineure) et dont l'original est conservé aux archives départementales<LienIntra LienID="R38679" type="Local personnalisable"/>, vous devez en faire la demande aux archives destinataires de l'acte. Une copie de l'acte vous sera délivrée avec l'accord du notaire dont émane le document, ou de son successeur.</Paragraphe>
+<OuSAdresser ID="R38679" type="Local personnalisable">
+<Titre>Archives départementales</Titre>
+<PivotLocal>archives_departementales</PivotLocal>
+<RessourceWeb URL="http://www.archivesdefrance.culture.gouv.fr/annuaire-services/departement/"/>
+<Source ID="R30679">Ministère en charge de la culture et de la communication</Source>
+</OuSAdresser>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le service des archives doit vous répondre dans les 2 mois suivant votre demande.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Acte produit par un notaire de Paris</Paragraphe>
+</Titre><Paragraphe>Si vous souhaitez obtenir une copie d'un acte notarié de moins de 75 ans (100 ans s'il concerne une personne mineure) et dont l'original est conservé aux archives nationales<LienIntra LienID="R38679" type="Local personnalisable"/>, vous devez en faire la demande aux archives destinataires de l'acte. Une copie de l'acte vous sera délivrée avec l'accord du notaire dont émane le document, ou de son successeur.</Paragraphe><OuSAdresser ID="R45792" type="National">
+<Titre>Département du Minutier central des notaires de Paris</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/service-a-competence-nationale_171493"/>
+</OuSAdresser>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le service des archives doit vous répondre dans les 2 mois suivant votre demande.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Acte soumis à publicité foncière</Paragraphe>
+</Titre><Paragraphe>Toute personne peut <LienInterne LienPublication="F17759" type="Fiche Question-réponse" audience="Particuliers">obtenir copie d'un acte  soumis à publicité foncière</LienInterne>, même si elle n'est pas concernée par l'acte (exemple : actes de vente, donation, partage, etc.).</Paragraphe>
+<Paragraphe>Il faut adresser une demande au service de la publicité foncière où l'acte a été publié en précisant les données cadastrales de l'immeuble.</Paragraphe><ServiceEnLigne ID="R17286" URL="http://www.impots.gouv.fr/portal/dgi/public/popup?espId=0&amp;typePage=cpr02&amp;docOid=documentstandard_1326" type="Formulaire">
+<Titre>Demandes de renseignements immobiliers, copies et extraits de documents</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Introduction>
+<Texte><Paragraphe>Attention : pour des raisons techniques, ces services en ligne sont actuellement indisponibles</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Permet de faire une demande de renseignements immobiliers ou d'obtenir des copies ou extraits de documents.</Paragraphe>
+<Paragraphe>Ces formulaires sont à adresser au service de publicité foncière (anciennement conservation des hypothèques).</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Demande de relevé des formalités (période antérieure au 01/01/1956) (3230-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Demande de copie de documents (période antérieure au 01/01/1956) (3231-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Demande de renseignements (période postérieure au 31/12/1955) (3233-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Demande de renseignements - Feuille intercalaire (3234-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Demande de copie de documents (période postérieure au 31/12/1955) (3236-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Demande complémentaire de renseignements (3240-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Bordereau des actes déposés et des formalités requises (3264-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formule de publication (3265-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Bordereau d'inscription originaire à cadre (3267-C-SD)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Bordereau d'inscription originaire à plan (3267-P)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Bordereau d'inscription hypothécaire (renouvellement) (3267-R-SD)</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><NoticeLiee ID="R35122" URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4395&amp;typePage=ifi01" numerocerfa="50534#02" format="text/html; charset=UTF-8" poids="0">Notice explicative des formulaires de publicité foncière</NoticeLiee>
+</ServiceEnLigne>
+
+<Paragraphe>Le formulaire doit être envoyé par courrier simple ou déposé au service de publicité foncière.</Paragraphe>
+<OuSAdresser ID="R16857" type="Local personnalisé sur SP">
+<Titre>Service de publicité foncière (ex-Conservation des hypothèques)</Titre>
+<PivotLocal>hypotheque</PivotLocal>
+<RessourceWeb URL="http://www2.impots.gouv.fr/contacts/spf/index.htm" commentaireLien="Annuaire des services de publicité foncière"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000019960686&amp;cidTexte=LEGITEXT000006070716" ID="R16254">
+<Titre>Code de procédure civile : articles 1435 à 1441</Titre>
+<Complement>Délivrance de copies d'actes et de registres</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023777508&amp;cidTexte=LEGITEXT000006070721" ID="R41006">
+<Titre>Code civil : article 710-1</Titre>
+<Complement>Authenticité des actes</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do;?cidTexte=JORFTEXT000000511476" ID="R16616">
+<Titre>Décret n°71-941 du 26 novembre 1971 relatif aux actes établis par les notaires</Titre>
+<Complement>Articles 32 et 37</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159942&amp;cidTexte=LEGITEXT000006074236" ID="R20039">
+<Titre>Code du patrimoine : articles L213-1 à L213-8</Titre>
+<Complement>Article L 213-2 : délai de libre consultation des actes notariés</Complement>
+</Reference>
+<Definition ID="R12542">
+<Titre>Requête</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant de saisir une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

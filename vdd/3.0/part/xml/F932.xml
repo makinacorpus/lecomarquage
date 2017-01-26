@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F932" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un avocat peut-il prendre un pourcentage sur l'argent gagné grâce à un procès ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Oui, mais seulement si cela est précisé dans la convention signé par vous et votre avocat.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-02-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F932</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000031008982&amp;cidTexte=JORFTEXT000000508793&amp;categorieLien=id</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N279</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N279">Acteurs de la justice</Niveau>
+<Niveau ID="F932" type="Fiche Question-réponse">Un avocat peut-il prendre un pourcentage sur l'argent gagné grâce à un procès ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N279">
+<Titre>Acteurs de la justice</Titre>
+<Fiche ID="F2176">Magistrats et greffiers</Fiche>
+<Fiche ID="F2158">Huissier de justice</Fiche>
+<Fiche ID="F2153">Avocat</Fiche>
+<Fiche ID="F2164">Notaire</Fiche>
+<Fiche ID="F1540">Juré d'assises</Fiche>
+<Fiche ID="F1822">Médiateur civil</Fiche>
+<Fiche ID="F1739">Médiateur pénal</Fiche>
+<Fiche ID="F1736">Conciliateur de justice</Fiche>
+<Fiche ID="F2161">Expert judiciaire</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, votre avocat peut prendre un pourcentage sur les dommages-intérêts gagnés lors d'un procès. Cela doit être précisé dans la <LienInterne LienPublication="F15018" type="Fiche Question-réponse" audience="Particuliers">convention obligatoire</LienInterne> signée entre vous et votre avocat.</Paragraphe>
+<Paragraphe>En effet, cette convention peut prévoir, outre la rémunération des prestations effectuées, la fixation d'un honoraire complémentaire en fonction du résultat obtenu ou du service rendu. Cet honoraires complémentaire se présente comme une prime ou un bonus.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>toute fixation d'honoraires qui le serait uniquement en fonction du résultat est interdite.</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour s'informer gratuitement</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer gratuitement</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000031008982&amp;cidTexte=JORFTEXT000000508793&amp;categorieLien=id" ID="R43121">
+<Titre>Loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques : article 10</Titre>
+<Complement>Convention obligatoire</Complement>
+</Reference>
+<QuestionReponse ID="F14724" audience="Particuliers">Comment régler un litige avec un avocat ?</QuestionReponse>
+<QuestionReponse ID="F15006" audience="Particuliers">Un avocat peut-il exiger de l'argent d'un bénéficiaire d'aide juridictionnelle ?</QuestionReponse>
+<QuestionReponse ID="F15018" audience="Particuliers">Combien coûte un avocat ?</QuestionReponse>
+</Publication>

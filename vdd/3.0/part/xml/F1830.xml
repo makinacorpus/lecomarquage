@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1830" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mineur délinquant : procédure devant le tribunal pour enfants</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Dans les cas les plus graves, le mineur soupçonné d'infraction n'est pas jugé par le juge des enfants mais par le tribunal des enfants. C'est également le cas si le procureur souhaite un procès dans de brefs délais.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-03-10</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1830</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000025032116&amp;cidTexte=LEGITEXT000006069158, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000024460667&amp;cidTexte=JORFTEXT000000517521</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23248</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N23248">Mineur auteur d'infraction</Niveau>
+<Niveau ID="F1830" type="Fiche d'information">Mineur délinquant : procédure devant le tribunal pour enfants</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20279">Justice des mineurs</SousThemePere><DossierPere ID="N23248">
+<Titre>Mineur auteur d'infraction</Titre><SousDossier ID="N23248-1">
+<Titre>Mise en accusation</Titre>
+<Fiche ID="F1469">Garde à vue</Fiche>
+<Fiche ID="F1820">Instruction d'une affaire</Fiche>
+<Fiche ID="F1826">Mesures de restriction de liberté</Fiche>
+</SousDossier>
+<SousDossier ID="N23248-2">
+<Titre>Jugement et condamnation</Titre>
+<Fiche ID="F1840">Procédure devant le juge des enfants</Fiche>
+<Fiche ID="F1830">Procédure devant le tribunal pour enfants</Fiche>
+<Fiche ID="F1486">Procédure devant la Cour d'assises des mineurs</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Jugement et condamnation</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Dans les cas les plus graves, le mineur soupçonné d'infraction n'est pas jugé par le juge des enfants mais par le tribunal des enfants. C'est également le cas si le procureur souhaite un procès dans de brefs délais.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Affaires concernées</Paragraphe>
+</Titre><Tableau>
+<Titre>Tribunal compétent selon l'âge du  mineur</Titre>
+<Colonne largeur="34" type="header"/>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="38" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Infraction</Paragraphe>
+</Cellule>
+<Cellule fusionVerticale="2">
+<Paragraphe>Moins de 16 ans</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe> 16 ou 17 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Non récidiviste</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Récidiviste</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1157" type="Fiche Question-réponse" audience="Particuliers">Contravention de 5ème classe</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tribunal pour enfants</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>Tribunal pour enfants</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Délit</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tribunal pour enfants</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tribunal pour enfants</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1828" type="Fiche Question-réponse" audience="Particuliers">Tribunal correctionnel des mineurs</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Crime</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tribunal pour enfants</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe> <LienInterne LienPublication="F1486" type="Fiche d'information" audience="Particuliers">Cour d'assises des mineurs</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Cependant, dans les cas les moins graves et au vu de la personnalité du mineur, l'affaire peut être traitée directement par le <LienInterne LienPublication="F1840" type="Fiche d'information" audience="Particuliers">juge des enfants</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Saisine</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Par un juge</Paragraphe>
+</Titre><Paragraphe>Le tribunal pour enfants peut être saisi par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le juge d'instruction des mineurs en cas de crime,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le juge d'instruction des mineurs ou le juge des enfants en cas de délit.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Par le procureur</Paragraphe>
+</Titre><Paragraphe>Le tribunal pour enfants peut également être saisi par le <LienIntra LienID="R1123" type="Définition de glossaire">procureur de la République</LienIntra> dans le cadre de la procédure de présentation immédiate. C'est une procédure différente de la comparution immédiate, qui ne peut pas être appliquée aux mineurs.</Paragraphe>
+<Paragraphe>La présentation immédiate permet faire juger rapidement un mineur et obtenir des mesures de restriction de liberté immédiates.</Paragraphe>
+<Paragraphe>Elle s'applique uniquement pour une affaire dans laquelle le procureur estime qu'aucune investigation n'est nécessaire. Pour lui, les faits sont clairs et la personnalité du mineur est bien connue (par une procédure antérieure datant de moins d'1 an).</Paragraphe>
+<Paragraphe>Elle concerne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les mineurs de 13 à 15 ans qui encourent une peine d'emprisonnement entre 5 et 7 ans au moins,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les mineurs de 16 à 17 ans qui encourent une peine d'emprisonnement de 1 an au moins en cas de flagrant délit ou de 3 ans au moins dans les autres cas.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le procureur reçoit le mineur avec son avocat et l'informe des faits qui lui sont reprochés. Il le convoque à une audience très proche devant le tribunal pour enfants.</Paragraphe>
+<Paragraphe>Celle-ci est fixée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans les <MiseEnEvidence>10 jours à 2 mois</MiseEnEvidence> , pour les mineurs de 13 à 15 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans les <MiseEnEvidence>10 jours à 1 mois,</MiseEnEvidence> pour les mineurs de 16 à 17 ans.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le mineur peut accepter de comparaître avant le délai de 10 jours, si ses représentants légaux ne s'y opposent pas.</Paragraphe>
+<Paragraphe>Le mineur et le procureur sont ensuite entendus par le juge des enfants, qui se prononce :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur le <LienInterne LienPublication="F3140" type="Fiche d'information" audience="Particuliers">placement</LienInterne> du mineur dans l'attente de l'audience du tribunal pour enfants,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sur les <LienInterne LienPublication="F1826" type="Fiche d'information" audience="Particuliers">mesures de restriction de liberté</LienInterne> à l'encontre du mineur, à prendre, à confirmer ou à lever.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>pour estimer qu'aucune investigation n'est nécessaire, le procureur de la République s'appuie sur le  <LienIntra LienID="R14316" type="Définition de glossaire">dossier unique de personnalité</LienIntra>, qui rassemble tout ce que la justice sait du mineur.</Paragraphe>
+</ANoter>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déroulement des débats</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Composition du tribunal</Paragraphe>
+</Titre><Paragraphe>Le tribunal est composé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un président du tribunal, magistrat professionnel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de 2 assesseurs non magistrats, spécialistes des questions de l'enfance.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le ministère public est représenté par un procureur spécialisé dans les affaires de mineurs.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Droit à un avocat</Paragraphe>
+</Titre><Paragraphe>Le mineur est obligatoirement assisté par un avocat.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Débats à huis clos</Paragraphe>
+</Titre><Paragraphe>Les audiences du tribunal pour enfants ne sont pas ouvertes au public, on parle d'audience à<Expression> huis clos</Expression>. Seuls peuvent être présents la victime, les témoins, les proches parents, les représentants légaux. Le président du tribunal peut même décider que le mineur n'assiste pas à tout ou partie des débats.</Paragraphe>
+<Paragraphe>Le mineur est jugé séparément, sans la présence des complices ou coauteurs.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décision</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Décision immédiate</Paragraphe>
+</Titre><Paragraphe>À l'issue des débats, le tribunal décide si le mineur est coupable ou non. S'il est déclaré coupable, il prononce une sanction.</Paragraphe>
+<Paragraphe>Les <LienInterne LienPublication="F1837" type="Fiche Question-réponse" audience="Particuliers">sanctions possibles</LienInterne> dépendent de l'âge du mineur.</Paragraphe>
+<Paragraphe>Le tribunal peut rendre sa décision immédiatement après le procès ou dans un délai d'un mois maximum.</Paragraphe>
+<Paragraphe>Si le mineur est déclaré coupable, le tribunal peut également attendre avant de prononcer une sanction : c'est l'ajournement.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Ajournement</Paragraphe>
+</Titre><Paragraphe>L'ajournement permet de reporter le prononcé de la peine à une audience ultérieure. Le mineur est déclaré coupable mais le tribunal veut attendre un certain délai avant de déterminer quelle peine sera prononcée.</Paragraphe>
+<Paragraphe>La sanction doit être connue au plus tard dans les 6 mois.</Paragraphe>
+<Paragraphe>L'ajournement est ordonné lorsque les 3 conditions suivantes sont réunies :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le reclassement du coupable est en voie d'être acquis,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le dommage causé est en voie d'être réparé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le trouble résultant de l'infraction est sur le point de cesser.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Cette procédure peut aussi s'appliquer quand le tribunal considère :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>que les perspectives d'évolution de la personnalité du mineur le justifient ,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou que des investigations supplémentaires sur la personnalité du mineur sont nécessaires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas d'ajournement, le tribunal pour enfants peut ordonner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le placement du mineur dans un établissement spécialisé, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une mesure de liberté surveillée préjudicielle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une mesure d'aide ou de réparation.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recours</Paragraphe>
+</Titre><Paragraphe>Les procédures de contestation du jugement par la voie de <LienInterne LienPublication="F1386" type="Fiche d'information" audience="Particuliers">l'opposition</LienInterne> ou de <LienInterne LienPublication="F1384" type="Fiche d'information" audience="Particuliers">l'appel</LienInterne> sont identiques à celles valables pour les majeurs.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R14695" type="Local personnalisé sur SP">
+<Titre>Tribunal pour enfants</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>te</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-pour-enfants-21778.html"/>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<Complement>Pour être assisté</Complement>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000025032116&amp;cidTexte=LEGITEXT000006069158" ID="R39896">
+<Titre>Ordonnance n°45-174 du 2 février 1945 relative à l'enfance délinquante : articles 13 à 14</Titre>
+<Complement>Procédure devant le tribunal pour enfants</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000024460667&amp;cidTexte=JORFTEXT000000517521" ID="R39897">
+<Titre>Ordonnance n°45-174 du 2 février 1945 relative à l'enfance délinquante : article 14-2</Titre>
+<Complement>Procédure de présentation immédiate</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41472" URL="http://www.ado.justice.gouv.fr/index.php" audience="Particuliers">
+<Titre>La justice des mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10199" URL="http://www.justice.gouv.fr/art_pix/chainepen.pdf" audience="Particuliers" format="application/pdf" poids="17.7 KB">
+<Titre>Juridictions pour les mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10200" URL="http://www.justice.gouv.fr/justice-des-mineurs-10042/serie-video-justice-des-mineurs-6-22392.html" audience="Particuliers">
+<Titre>Le placement des mineurs en centre éducatif fermé (Cef)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20197" URL="http://www.textes.justice.gouv.fr/decrets-10181/decret-relatif-a-la-mesure-dactivite-de-jour-15097.html" audience="Particuliers">
+<Titre>La mise en oeuvre des mesures d'activité de jour</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<Definition ID="R14316">
+<Titre>Dossier unique de personnalité (Dup)</Titre>
+<Texte>
+				<Paragraphe>Ensemble des informations connues par la justice sur une même personne mineure.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1123">
+<Titre>Procureur de la République</Titre>
+<Texte>
+				<Paragraphe>Magistrat à la tête du parquet (ou ministère public) au sein d'un tribunal de grande instance (TGI). Il est destinataire des plaintes et signalements. Il dirige les enquêtes, décide des poursuites et veille à l'application de la loi.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1837" audience="Particuliers">Quelles mesures et sanctions pénales sont appliquées aux mineurs ?</QuestionReponse>
+<QuestionReponse ID="F1157" audience="Particuliers">Quelles sont les différences entre une contravention, un délit et un crime ?</QuestionReponse>
+</Publication>

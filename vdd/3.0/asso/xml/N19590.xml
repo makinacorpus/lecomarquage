@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N19590" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dirigeants et responsables d'une association</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Dirigeants et responsables d'une association</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-14</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N19590</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31404</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N19590" type="Dossier">Dirigeants et responsables d'une association</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+</Theme>
+<Fiche ID="F1121">Fonctionnement des instances dirigeantes</Fiche>
+<Fiche ID="F2335">Congé de représentation</Fiche>
+<ServiceEnLigne ID="R14588" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S1217.pdf" format="application/pdf" poids="229,27 Ko" numerocerfa="60-3652" autrenumero="S1217b" type="Formulaire">
+<Titre>Déclaration à la Sécurité sociale des bénévoles œuvrant pour les organismes sociaux</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14591" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6104bis.pdf" commentaireLien="État nominatif - membres bénévoles d'une œuvre (ou d'un organisme) d'intérêt général" numerocerfa="60-3997" autrenumero="S6104 bis" type="Formulaire">
+<Titre>Déclaration à la Sécurité sociale des bénévoles œuvrant pour des organismes d'intérêt général (hors organismes sociaux)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18491" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13389.do" format="application/pdf" poids="114.2 KB" numerocerfa="13389*03" type="Formulaire">
+<Titre>Demande d'homologation d'un circuit pour véhicules à moteur</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F31839" audience="Associations">Qu'appelle-t-on gestion désintéressée d'une association ?</QuestionReponse>
+<QuestionReponse ID="F12104" audience="Associations">Comment se renseigner sur une association (ou un fonds de dotation) ?</QuestionReponse>
+<QuestionReponse ID="F24417" audience="Associations">Peut-on refuser la démission d'un dirigeant d'une association ?</QuestionReponse>
+<QuestionReponse ID="F24418" audience="Associations">Démission d'un membre d'une association : quelle est la procédure ?</QuestionReponse>
+<QuestionReponse ID="F3116" audience="Associations">Peut-on "mettre en sommeil" temporairement une association ?</QuestionReponse>
+</Publication>

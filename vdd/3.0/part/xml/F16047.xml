@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16047" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'un jeune sapeur-pompier bénévole ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Le jeune sapeur-pompier bénévole est un jeune de 11 à 18 ans qui, montrant de l'intérêt pour les services de secours, s'initie en compagnie de pompiers volontaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16047</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13271</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N13271">Volontariats</Niveau>
+<Niveau ID="F16047" type="Fiche Question-réponse">Qu'est-ce qu'un jeune sapeur-pompier bénévole ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere><DossierPere ID="N13271">
+<Titre>Volontariats</Titre><SousDossier ID="N13271-1">
+<Titre>Service civique</Titre>
+<Fiche ID="F13278">Engagement de service civique</Fiche>
+<Fiche ID="F13273">Volontariat associatif</Fiche>
+<Fiche ID="F119">Service volontaire européen (SVE)</Fiche>
+<Fiche ID="F10040">Volontariat international en entreprise (VIE)</Fiche>
+<Fiche ID="F13279">Volontariat international en administration (VIA)</Fiche>
+<Fiche ID="F11444">Volontariat de solidarité internationale (VSI)</Fiche>
+</SousDossier>
+<SousDossier ID="N13271-2">
+<Titre>Participation à la sécurité civile</Titre>
+<Fiche ID="F11971">Réserve communale de sécurité civile</Fiche>
+<Fiche ID="F72">Sapeur-pompier volontaire</Fiche>
+<Fiche ID="F33926">Réserve sanitaire</Fiche>
+</SousDossier>
+<SousDossier ID="N13271-3">
+<Titre>Engagement auprès des armées</Titre>
+<Fiche ID="F1292">Volontariat dans les armées</Fiche>
+<Fiche ID="F1188">Réserve opérationnelle</Fiche>
+<Fiche ID="F1189">Réserve citoyenne de défense et de sécurité</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le jeune sapeur-pompier bénévole est un jeune de 11 à 18 ans qui, montrant de l'intérêt pour les services de secours, s'initie en compagnie de pompiers volontaires.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Quelle est la nature de ses activités ?</Paragraphe>
+</Titre><Paragraphe>Les activités qui peuvent être proposées au jeune sapeur-pompier volontaire sont :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'initiation aux techniques de lutte contre l'incendie ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la formation aux gestes de premier secours ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la pratique de différents sports ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'initiation à l'entretien des véhicules spécialisés.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quelles conditions doit-il remplir ?</Paragraphe>
+</Titre><Paragraphe>Pour devenir jeune sapeur-pompier bénévole, il faut avoir entre 11 et 18 ans et prendre contact  avec sa mairie, ou un centre de secours, en produisant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un certificat médical d'aptitude ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un certificat de vaccination antitétanique ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une autorisation parentale écrite.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>il n'est pas nécessaire d'être de nationalité française pour être jeune sapeur-pompier bénévole.</Paragraphe>
+</ANoter><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R1229" type="Local personnalisable">
+<Titre>Service départemental d'incendie et de secours</Titre>
+<PivotLocal>sdis</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Securite-civile/Documentation-technique/Les-sapeurs-pompiers/Les-services-departementaux-d-incendie-et-de-secours/Coordonnees-des-services-d-incendie-et-de-secours"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment peut-il devenir pompier volontaire ?</Paragraphe>
+</Titre><Paragraphe>À  16 ans, le jeune sapeur-pompier bénévole peut passer le brevet national de jeunes sapeurs-pompiers, qui lui permet de devenir <LienInterne LienPublication="F72" type="Fiche d'information" audience="Particuliers">pompier volontaire</LienInterne> sans avoir à subir une période probatoire, ni à suivre la totalité de la formation initiale.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F72" audience="Particuliers">
+<Titre>Sapeur-pompier volontaire</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<PourEnSavoirPlus type="Information pratique" ID="R44254" URL="http://www.jeunes.gouv.fr/interministeriel/citoyennete/volontariat/article/jeune-pompier-volontaire" audience="Particuliers">
+<Titre>Jeune pompier volontaire</Titre>
+<Source ID="R30901">Ministère en charge de la ville</Source>
+</PourEnSavoirPlus>
+
+</Publication>

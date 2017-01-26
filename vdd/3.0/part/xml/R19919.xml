@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19919" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Recueil de la volonté de la victime d'être informée ou non sur l'exécution de la peine</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Recueil de la volonté de la victime d'être informée ou non sur l'exécution de la peine - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-04</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19919</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N275">Condamnations et peines</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19919" type="Formulaire">Recueil de la volonté de la victime d'être informée ou non sur l'exécution de la peine</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>13633*01</NumeroCerfa>
+<Texte><Paragraphe>À adresser au greffe du juge délégué aux victimes du tribunal de grande instance de votre domicile.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13633.do" format="application/pdf" poids="86.3 KB">
+<Source>Ministère en charge de la justice</Source>
+</LienWeb><NoticeLiee ID="R19918" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13633*01&amp;cerfaNotice=51241" numerocerfa="51241#01" format="application/pdf" poids="79.3 KB">Notice explicative pour le recueil de la volonté de la victime d'être ou de ne pas être informée sur l'exécution de la peine</NoticeLiee>
+
+<FicheLiee ID="F1779" audience="Particuliers" type="Fiche d'information">
+<Titre>Exécution d'une décision du juge pénal</Titre>
+<Dossier ID="N275">Condamnations et peines</Dossier>
+</FicheLiee><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+</ServiceComplementaire>

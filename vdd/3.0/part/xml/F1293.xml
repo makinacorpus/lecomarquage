@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1293" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Retraite du combattant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>La retraite du combattant est un avantage versé en témoignage de la reconnaissance nationale par le ministère en charge des anciens combattants, sous conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1293</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157415&amp;cidTexte=LEGITEXT000006074068, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174239&amp;cidTexte=LEGITEXT000006074068</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N30</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N30">Anciens combattants</Niveau>
+<Niveau ID="F1293" type="Fiche d'information">Retraite du combattant</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere><DossierPere ID="N30">
+<Titre>Anciens combattants</Titre>
+<Fiche ID="F1491">Titre de reconnaissance de la Nation</Fiche>
+<Fiche ID="F1482">Carte du combattant</Fiche>
+<Fiche ID="F1677">Carte d'invalidité des pensionnés de guerre</Fiche>
+<Fiche ID="F1293">Retraite du combattant</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La retraite du combattant est un avantage versé en témoignage de la reconnaissance nationale par le ministère en charge des anciens combattants, sous conditions.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>À partir de 65 ans</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>La retraite du combattant n'est pas une retraite professionnelle. C'est un avantage versé en témoignage de la reconnaissance nationale par le ministère en charge des anciens combattants, sous conditions.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions d'attribution</Paragraphe>
+</Titre><Paragraphe>Être titulaire de la <LienInterne LienPublication="F1482" type="Fiche d'information" audience="Particuliers">carte du combattant</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous devez faire votre demande au service départemental de l'<LienInterne LienPublication="R31438" type="Acronyme">Onac-VG</LienInterne> qui vous a délivré la carte du combattant, au moyen du formulaire cerfa n°10860*03 accompagné des justificatifs demandés.</Paragraphe>
+<ServiceEnLigne ID="R1301" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10860.do" numerocerfa="10860*03" type="Formulaire">
+<Titre>Demande de retraite du combattant</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source><NoticeLiee ID="R1691" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10860*03&amp;cerfaNotice=51465" numerocerfa="51407#02">Notice de la demande de retraite du combattant</NoticeLiee>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R44" type="Local personnalisé sur SP">
+<Titre>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac-VG)</Titre>
+<PivotLocal>onac</PivotLocal>
+<RessourceWeb URL="http://www.onac-vg.fr/fr/carte/domaine/id:4/"/>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>
+<Valeur>702,00 €</Valeur> par an.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Versement</Paragraphe>
+</Titre><Paragraphe>La retraite du combattant est versée semestriellement.</Paragraphe>
+<Paragraphe>Elle se cumule avec les retraites professionnelles. Elle est incessible et insaisissable. Elle n'est pas imposable, ni prise en compte dans le calcul de ressources pour l'obtention d'avantages sociaux.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la retraite du combattant ne peut pas être reversée à l'époux(se) après le décès du bénéficiaire.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Entre 60 et 64 ans</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>La retraite du combattant n'est pas une retraite professionnelle. C'est un avantage versé en témoignage de la reconnaissance nationale par le ministère en charge des anciens combattants, sous conditions. En principe, elle est attribuée à partir de 65 ans mais dans certains cas, elle peut être versée à partir de 60 ans.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions d'attribution</Paragraphe>
+</Titre><Paragraphe>Pour obtenir la retraite du combattant dès 60 ans, la possession de la carte du combattant est nécessaire, mais ne suffit pas.</Paragraphe>
+<Paragraphe>Il faut aussi être au moins dans une des situations suivantes.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Première situation</Paragraphe>
+</Titre><Paragraphe>Vous devez être titulaire de <LienInterne LienPublication="F16871" type="Fiche d'information" audience="Particuliers">l'allocation de solidarité aux personnes âgées (Aspa)</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Deuxième situation</Paragraphe>
+</Titre><Paragraphe>Vous devez être titulaire d'une pension militaire d'invalidité indemnisant une incapacité d'au moins 50% et percevoir l'une des allocations suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="N12230" type="Dossier" audience="Particuliers">l'allocation pour adultes handicapés (AAH)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="N392" type="Dossier" audience="Particuliers">l'allocation d'aide sociale aux personnes âgées</LienInterne> (dite "allocation simple"),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F2544" type="Fiche Question-réponse" audience="Particuliers">l'allocation spéciale vieillesse ou allocation aux vieux travailleurs salariés (AVTS)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Troisième situation</Paragraphe>
+</Titre><Paragraphe> Vous devez être domicilié dans un département ou une collectivité d'outre-mer (<LienIntra LienID="R41207" type="Définition de glossaire">Dom</LienIntra> et <LienIntra LienID="R41254" type="Définition de glossaire">Com</LienIntra>).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Quatrième situation</Paragraphe>
+</Titre><Paragraphe> Vous devez être titulaire d'une pension militaire d'invalidité indemnisant une ou plusieurs infirmités imputables à des services accomplis au cours</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de campagnes de guerre,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de maintien de l'ordre hors métropole.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous devez faire votre demande au service départemental de l'<LienInterne LienPublication="R31438" type="Acronyme">Onac-VG</LienInterne> qui vous a délivré la carte du combattant, au moyen du formulaire cerfa n°10860*03 accompagné des justificatifs demandés.</Paragraphe>
+<ServiceEnLigne ID="R1301" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10860.do" numerocerfa="10860*03" type="Formulaire">
+<Titre>Demande de retraite du combattant</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source><NoticeLiee ID="R1691" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10860*03&amp;cerfaNotice=51465" numerocerfa="51407#02">Notice de la demande de retraite du combattant</NoticeLiee>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R44" type="Local personnalisé sur SP">
+<Titre>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac-VG)</Titre>
+<PivotLocal>onac</PivotLocal>
+<RessourceWeb URL="http://www.onac-vg.fr/fr/carte/domaine/id:4/"/>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>
+<Valeur>702,00 €</Valeur> par an.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Versement</Paragraphe>
+</Titre><Paragraphe>La retraite du combattant est versée semestriellement.</Paragraphe>
+<Paragraphe>Elle se cumule avec les retraites professionnelles. Elle est incessible et insaisissable. Elle n'est pas imposable, ni prise en compte dans le calcul de ressources pour l'obtention d'avantages sociaux.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la retraite du combattant ne peut pas être reversée à l'époux(se) après le décès du bénéficiaire.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R44" type="Local personnalisé sur SP">
+<Titre>Service départemental de l'Office national des anciens combattants et victimes de guerre (Onac-VG)</Titre>
+<Complement>Pour effectuer les démarches</Complement>
+<PivotLocal>onac</PivotLocal>
+<RessourceWeb URL="http://www.onac-vg.fr/fr/carte/domaine/id:4/"/>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157415&amp;cidTexte=LEGITEXT000006074068" ID="R15704">
+<Titre>Code des pensions militaires d'invalidité et des victimes de la guerre : articles L255 à L261</Titre>
+<Complement>Retraite annuelle du combattant (âge, insaisissabilité, etc.)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174239&amp;cidTexte=LEGITEXT000006074068" ID="R15705">
+<Titre>Code des pensions militaires d'invalidité et des victimes de la guerre : articles R236 à R238</Titre>
+<Complement>Procédure d'attribution</Complement>
+</Reference>
+<ServiceEnLigne ID="R1301" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10860.do" numerocerfa="10860*03" type="Formulaire">
+<Titre>Demande de retraite du combattant</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source><NoticeLiee ID="R1691" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10860*03&amp;cerfaNotice=51465" numerocerfa="51407#02">Notice de la demande de retraite du combattant</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R33707" URL="http://www.onac-vg.fr/fr/missions/autres-titres-et-statuts/" audience="Particuliers">
+<Titre>Titres et statuts spécifiques aux guerres de 39-45, d'Indochine et d'Algérie</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R41254">
+<Titre>Collectivités et territoires d'outre-mer (Com et Tom)</Titre>
+<Texte>
+				<Paragraphe>Nouvelle-Calédonie (statut particulier) - Polynésie française - Saint-Barthélemy - Saint-Martin  - Saint-Pierre-et-Miquelon - Terres australes et antarctiques françaises (statut particulier) - Wallis-et-Futuna</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R41207">
+<Titre>Départements d'outre-mer (Dom)</Titre>
+<Texte>
+				<Paragraphe>Guadeloupe - Guyane - Martinique -Mayotte - La Réunion</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R31438" type="Acronyme">
+<Titre>Onac-VG</Titre>
+<Texte>
+<Paragraphe>Office national des anciens combattants et victimes de guerre</Paragraphe>
+</Texte>
+</Abreviation>
+
+</Publication>

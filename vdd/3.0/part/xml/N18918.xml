@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N18918" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Infractions routières</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Infractions routières : Règles de sécurité routière, Sanctions relatives au permis de conduire, Sanctions relatives au véhicule, Amendes</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-05</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N18918</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19812</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N18918" type="Dossier">Infractions routières</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+<SousDossier ID="N18918-1">
+<Titre>Règles de sécurité routière</Titre><Fiche ID="F19460">Vitesse</Fiche>
+<Fiche ID="F2886">Stupéfiants</Fiche>
+<Fiche ID="F2881">Alcoolémie</Fiche>
+<Fiche ID="F19459">Équipements obligatoires</Fiche>
+<Fiche ID="F628">Système de retenue : ceinture, siège enfant</Fiche>
+</SousDossier>
+<SousDossier ID="N18918-2">
+<Titre>Sanctions relatives au permis de conduire</Titre><Fiche ID="F2390">Permis à points : période probatoire</Fiche>
+<Fiche ID="F1685">Perte et récupération de points du permis de conduire</Fiche>
+<Fiche ID="F1704">Obtention d'un nouveau permis après la perte totale des points</Fiche>
+<Fiche ID="F14208">Stage de sensibilisation à la sécurité routière</Fiche>
+<Fiche ID="F1040">Rétention du permis de conduire</Fiche>
+<Fiche ID="F14836">Suspension administrative du permis de conduire</Fiche>
+<Fiche ID="F21761">Suspension judiciaire du permis de conduire</Fiche>
+<Fiche ID="F21774">Annulation du permis de conduire</Fiche>
+</SousDossier>
+<SousDossier ID="N18918-3">
+<Titre>Sanctions relatives au véhicule</Titre><Fiche ID="F12914">Immobilisation d'un véhicule</Fiche>
+<Fiche ID="F21887">Confiscation du véhicule</Fiche>
+<Fiche ID="F12918">Mise en fourrière d'un véhicule</Fiche>
+</SousDossier>
+<SousDossier ID="N18918-4">
+<Titre>Amendes</Titre><Fiche ID="F18509">Amende forfaitaire</Fiche>
+<Fiche ID="F18510">Contestation de l'amende forfaitaire</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N530" audience="Particuliers">
+<Titre>Permis de conduire</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R20704" type="Centre de contact">
+<Titre>Centre d'appel du CNT pour les questions relatives aux avis de contravention</Titre><Texte>
+						
+								<Paragraphe>
+			Donne des informations d'ordre général concernant les avis de contravention et la procédure à suivre en cas de contestation.
+		Les téléconseillers n'ont pas accès aux dossiers individuels.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Pour les infractions concernant les radars automatiques</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0811 10 20 30</MiseEnEvidence>
+      (en moyenne, cet appel est  facturé <Valeur>0,06 €</Valeur> la minute +  le coût de la communication si vous appelez depuis un mobile)
+    
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 18h30 et le samedi de 8h30 à 12h30</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Pour les infractions concernant le procès-verbal électronique (Pve)</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0811 871 871 </MiseEnEvidence>      (en moyenne, cet appel est  facturé <Valeur>0,06 €</Valeur> la minute +  le coût de la communication si vous appelez depuis un mobile)
+    
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 18h30 et le samedi de 8h30 à 12h30</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R13996" type="Centre de contact">
+<Titre>Serveur vocal du service de télépaiement des amendes</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0811 10 10 10
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>24 heures sur 24 </Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R11026" URL="https://www.amendes.gouv.fr/portail/index.jsp" type="Téléservice">
+<Titre>Service de télépaiement des amendes</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20458" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=DICEM" type="Téléservice">
+<Titre>Déclaration de mini moto ou de mini quad</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R39689" URL="https://usagers.antai.gouv.fr/fr/demarches/saisienumeroconsultation" type="Formulaire">
+<Titre>Consultez votre dossier d'infraction</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2765" URL="http://www.securite-routiere.gouv.fr/conseils-pour-une-route-plus-sure/conseils-pratiques/circuler-a-velo/circuler-a-velo-roulez-en-toute-securite" audience="Particuliers">
+<Titre>Circuler à vélo, roulez en toute sécurité</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10787" URL="http://www.securite-routiere.gouv.fr/connaitre-les-regles/reglementation-et-sanctions/alcool" audience="Particuliers">
+<Titre>Réglementation et sanctions</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F15076" audience="Particuliers">Peut-on être dispensé du port de la ceinture de sécurité ?</QuestionReponse>
+<QuestionReponse ID="F17970" audience="Particuliers">Permis de conduire : comment connaître son nombre de points ?</QuestionReponse>
+<QuestionReponse ID="F33513" audience="Particuliers">Peut-on fumer en voiture ?</QuestionReponse>
+<QuestionReponse ID="F16875" audience="Particuliers">Le débridage du moteur d'un 2 roues est-il autorisé ?</QuestionReponse>
+<QuestionReponse ID="F364" audience="Particuliers">Quelles mentions obligatoires doivent figurer sur une contravention ?</QuestionReponse>
+<QuestionReponse ID="F21754" audience="Particuliers">Quelle est la longueur maximale autorisée d'une voiture tractant une remorque ?</QuestionReponse>
+<QuestionReponse ID="F11056" audience="Particuliers">Dépannage sur autoroute : quelles sont les règles et les tarifs ?</QuestionReponse>
+<QuestionReponse ID="F11863" audience="Particuliers">Peut-on perdre tous les points de son permis de conduire en une seule fois ?</QuestionReponse>
+<QuestionReponse ID="F20443" audience="Particuliers">Quelles sanctions en cas d'infraction routière avec un vélo, une voiturette...?</QuestionReponse>
+<QuestionReponse ID="F14855" audience="Particuliers">Qu'est-ce que le "permis blanc " ?</QuestionReponse>
+<QuestionReponse ID="F2671" audience="Particuliers">Qui doit équiper son véhicule d'un éthylotest anti-démarrage (EAD) ?</QuestionReponse>
+<QuestionReponse ID="F31551" audience="Particuliers">Permis de conduire : quel est le barème des points retirés par infraction ?</QuestionReponse>
+<QuestionReponse ID="F31882" audience="Particuliers">Salarié et véhicule professionnel : qui doit payer les amendes ?</QuestionReponse>
+</Publication>

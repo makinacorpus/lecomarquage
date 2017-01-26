@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R33469" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Récépissé d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D - Personne morale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Document remis par la préfecture du département du siège social de la personne morale à la suite de la demande d'enregistrement d'une arme</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R33469</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N287">Armes</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R33469" type="Formulaire">Récépissé d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D - Personne morale</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14253*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Document remis par la préfecture du département du siège social de la personne morale à la suite de la demande d'enregistrement d'une arme</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14253.do">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F2248" audience="Particuliers" type="Fiche d'information">
+<Titre>Arme de catégorie D (en vente libre ou soumise à enregistrement)</Titre>
+<Dossier ID="N287">Armes</Dossier>
+</FicheLiee>
+<Dossier ID="N287">
+<Titre>Armes</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

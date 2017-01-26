@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1475" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>L'aide juridictionnelle peut-elle être retirée ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>L'aide juridictionnelle peut être retirée si elle a été obtenue par fraude ou si vos ressources ont trop augmenté.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-06</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1475</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023380367&amp;cidTexte=JORFTEXT000000537611</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N261</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N261">Accès au droit et à la justice</Niveau>
+<Niveau ID="F1475" type="Fiche Question-réponse">L'aide juridictionnelle peut-elle être retirée ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N261">
+<Titre>Accès au droit et à la justice</Titre>
+<Fiche ID="F18074">Aide juridictionnelle</Fiche>
+<Fiche ID="F1816">Coût d'un procès</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>
+<LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">L'aide juridictionnelle</LienInterne> peut être retirée en totalité ou en partie pour plusieurs motifs : fraude, procédure abusive, augmentation de vos ressources.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Fraude</Paragraphe>
+</Titre><Paragraphe>Si vous avez fourni des fausses pièces et déclarations notamment concernant vos revenus pour obtenir l'aide, celle-ci vous sera retirée en totalité.</Paragraphe>
+<Paragraphe>C'est le bureau d'aide juridictionnelle concerné qui prononce alors le retrait.</Paragraphe>
+<Paragraphe>Vous risquez également une condamnation pour <LienInterne LienPublication="F31612" type="Fiche Question-réponse" audience="Particuliers">faux et usage de faux</LienInterne>.</Paragraphe>
+<Paragraphe>Vous devrez alors rembourser les sommes déjà perçues dans un délai fixé par la décision de retrait.</Paragraphe>
+<Paragraphe>Le retrait de l'aide peut être demandé par toute personne intéressée par l'affaire, notamment la partie adverse ou le procureur de la République. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Procédure abusive</Paragraphe>
+</Titre><Paragraphe>Le tribunal peut vous retirer totalement l'aide s'il estime que votre procédure est abusive (par exemple, si elle estime que votre plainte n'a aucun fondement et vise juste à nuire à une autre personne).</Paragraphe>
+<Paragraphe>Vous devrez alors rembourser les sommes déjà perçues dans un délai fixé par la décision de retrait.</Paragraphe>
+<Paragraphe>Le retrait de l'aide peut être demandé par toute personne intéressée par l'affaire, notamment la partie adverse ou le procureur de la République. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Augmentation de vos ressources</Paragraphe>
+</Titre><Paragraphe>Si vos ressources augmentent largement au cours de la procédure ou si la décision de justice vous accorde de nouvelles ressources, l'aide peut vous être retirée. Ce retrait peut être partiel ou total selon <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">le plafond dépassé</LienInterne>.</Paragraphe>
+<Paragraphe>C'est le bureau d'aide juridictionnelle qui prononce la décision.</Paragraphe>
+<Paragraphe>Vous devrez alors rembourser les sommes déjà perçues dans un délai fixé par la décision de retrait.</Paragraphe>
+<Paragraphe>Le retrait de l'aide peut être demandé par toute personne intéressée par l'affaire, notamment la partie adverse ou le procureur de la République. </Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023380367&amp;cidTexte=JORFTEXT000000537611" ID="R38071">
+<Titre>Loi n°91-647 du 10 juillet 1991 relative à l'aide juridique : articles 50 à 52-1</Titre>
+<Complement>Conditions de retrait et de remboursement</Complement>
+</Reference>
+<QuestionReponse ID="F31623" audience="Particuliers">Peut-on faire un recours en cas de refus de l'aide juridictionnelle ?</QuestionReponse>
+</Publication>

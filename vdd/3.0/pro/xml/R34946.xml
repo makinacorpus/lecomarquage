@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R34946" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Détermination du résultat fiscal de l'entreprise (impôt sur les sociétés et bénéfices industriels et commerciaux)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité, Vente - Commerce</dc:subject>
+<dc:description>Détermination du résultat fiscal de l'entreprise (impôt sur les sociétés et bénéfices industriels et commerciaux) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-11</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R34946</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R34946" type="Formulaire">Détermination du résultat fiscal de l'entreprise (impôt sur les sociétés et bénéfices industriels et commerciaux)</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>10951*18</NumeroCerfa>
+<AutreNumero>2058 A</AutreNumero>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/8904">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F31909" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment déterminer le résultat fiscal d'une entreprise ?</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31957" audience="Professionnels" type="Fiche d'information">
+<Titre>Crédit d'impôt apprentissage</Titre>
+<Dossier ID="N10812">Allégements fiscaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33642" audience="Professionnels" type="Fiche d'information">
+<Titre>Crédit d'impôt en faveur des maîtres-restaurateurs</Titre>
+<Dossier ID="N31358">Restauration - Débit de boisson</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33641" audience="Professionnels" type="Fiche d'information">
+<Titre>Crédit d'impôt export</Titre>
+<Dossier ID="N10812">Allégements fiscaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32966" audience="Professionnels" type="Fiche d'information">
+<Titre>Régime fiscal de la rémunération des comptes courants d'associés</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+</ServiceComplementaire>

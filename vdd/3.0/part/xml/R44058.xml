@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R44058" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modèle de formulaire de refus de participer à la procédure simplifiée de recouvrement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice, Vente - Commerce</dc:subject>
+<dc:description>Modèle de formulaire de refus de participer à la procédure simplifiée de recouvrement - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-01</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R44058</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N269">Procès civil</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R44058" type="Modèle de document">Modèle de formulaire de refus de participer à la procédure simplifiée de recouvrement</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>À l'attention de <Variable>nom de l'huissier et son adresse</Variable>:</Paragraphe>
+<Paragraphe>
+<Variable>Je/Nous</Variable>  vous <Variable>notifie/notifions</Variable> par la présente <Variable>ma/notre</Variable> refus e participer à la procédure simplifiée de recouvrement d'un montant de <Variable>montant total réclamé</Variable> se composant comme suit :</Paragraphe>
+<Paragraphe>- <Variable>montant total en principal</Variable>,</Paragraphe>
+<Paragraphe>- et <Variable>montant total des intérêts</Variable>.</Paragraphe>
+<Paragraphe>invoquée par <Variable>Madame, Monsieur ou raison sociale du créancier</Variable> sur le fondement de <Variable>fondement de la créance : date du contrat ou obligation à caractère statutaire</Variable>.</Paragraphe>
+<Paragraphe>
+<Variable>Signature du (des) destinataire(s) (uniquement en cas de notification du présent formulaire sur papier).</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F1746" audience="Particuliers" type="Fiche d'information">
+<Titre>Injonction de payer - recouvrement de créances</Titre>
+<Dossier ID="N269">Procès civil</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

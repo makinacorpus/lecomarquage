@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R40280" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Calcul de la gratification minimale d'un stagiaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille, Ressources humaines</dc:subject>
+<dc:description>Calcul de la gratification minimale d'un stagiaire - Simulateur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-10</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R40280</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N23482">Formations et diplômes de l'enseignement supérieur</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R40280" type="Simulateur">Calcul de la gratification minimale d'un stagiaire</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Un employeur qui accueille un stagiaire doit lui verser une gratification horaire minimale lorsque, au cours d'une même année d'enseignement, la durée de présence effective du stagiaire dans l'organisme d'accueil est supérieure à 308 heures.</Paragraphe>
+<Paragraphe>Ce simulateur permet de calculer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> le montant de la gratification minimale due pour chaque mois du stage (gratification mensuelle),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> le montant total de la gratification due pour toute la durée du stage (gratification totale),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> le montant mensuel à verser en cas de lissage de la gratification sur la totalité de la durée du stage (gratification mensuelle lissée).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>en cas d'utilisation du navigateur Internet Explorer (IE), cet outil fonctionne uniquement avec les versions 9 et suivantes.</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="/simulateur/calcul/gratification-stagiaire">
+<Source>Direction de l'information légale et administrative (Premier ministre)</Source>
+</LienWeb>
+<FicheLiee ID="F32131" audience="Professionnels" type="Fiche d'information">
+<Titre>Gratification minimale d'un stagiaire</Titre>
+<Dossier ID="N16992">Recrutements spécifiques</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16734" audience="Particuliers" type="Fiche d'information">
+<Titre>Stage en milieu professionnel</Titre>
+<Dossier ID="N23482">Formations et diplômes de l'enseignement supérieur</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F348" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Maladie professionnelle : indemnisation en cas d'incapacité permanente</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Si votre maladie professionnelle entraîne une incapacité permanente, vous avez droit au versement d'une indemnisation spécifique par la CPAM.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F348</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172662&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173455&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006156141&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172216&amp;cidTexte=LEGITEXT000006073189</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N526</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Niveau>
+<Niveau ID="F348" type="Fiche d'information">Maladie professionnelle : indemnisation en cas d'incapacité permanente</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere><DossierPere ID="N526">
+<Titre>Maladie, accident du travail ou invalidité dans le secteur privé</Titre><SousDossier ID="N526-1">
+<Titre>Arrêt maladie</Titre>
+<Fiche ID="F303">Déclaration et obligations du salarié</Fiche>
+<Fiche ID="F3053">Indemnités journalières versées par la sécurité sociale</Fiche>
+<Fiche ID="F2022">Indemnités versées au salarié par l'employeur</Fiche>
+<Fiche ID="F33908">Contrôle du salarié</Fiche>
+<Fiche ID="F144">Reprise du travail</Fiche>
+<Fiche ID="F726">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-2">
+<Titre>Accident du travail</Titre>
+<Fiche ID="F171">Démarches à effectuer</Fiche>
+<Fiche ID="F175">Indemnités journalières pendant l'arrêt de travail</Fiche>
+<Fiche ID="F14840">Indemnisation en cas d'incapacité permanente</Fiche>
+<Fiche ID="F31435">Prestation complémentaire pour recours à tierce personne (PCRTP)</Fiche>
+<Fiche ID="F32157">Reprise du travail du salarié</Fiche>
+<Fiche ID="F15341">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-3">
+<Titre>Maladie professionnelle</Titre>
+<Fiche ID="F176">Démarches à effectuer</Fiche>
+<Fiche ID="F32148">Indemnités journalières en cas d'arrêt de travail</Fiche>
+<Fiche ID="F348">Indemnisation en cas d'incapacité permanente</Fiche>
+<Fiche ID="F32158">Reprise du travail du salarié</Fiche>
+<Fiche ID="F32161">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-4">
+<Titre>Pension d'invalidité</Titre>
+<Fiche ID="F672">Conditions d'attribution et démarches à suivre</Fiche>
+<Fiche ID="F14946">Calcul, montant et versement</Fiche>
+<Fiche ID="F31434">Majoration pour tierce personne (MTP)</Fiche>
+<Fiche ID="F14945">Suspension, révision et suppression</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Maladie professionnelle</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si vous êtes atteint d'une maladie professionnelle, vous pouvez bénéficier d'une indemnisation si votre capacité de travail est définitivement réduite en raison de cette maladie. Une indemnisation complémentaire est versée en cas de faute inexcusable de l'employeur.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Si vous êtes atteint par une maladie professionnelle, vous pouvez conserver des séquelles et souffrir d'une diminution durable de vos capacités physiques ou mentales. Dans ce cas, la <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> détermine un taux d'incapacité permanente (IPP) qui vous permet de percevoir une indemnisation sous forme d'indemnité en capital ou de rente viagère.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fixation du taux d'incapacité</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Incapacité prévisionnelle</Paragraphe>
+</Titre><Paragraphe>Un taux d'incapacité prévisionnelle peut vous être accordé si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> la <LienInterne LienPublication="F176" type="Fiche d'information" audience="Particuliers">reconnaissance du caractère professionnel de la maladie</LienInterne> s'effectue hors du cadre des tableaux des maladies professionnelles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et votre maladie entraîne une IPP d'au moins 25 %.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ce taux est fixé à titre provisoire, jusqu'au terme de l'instruction visant à vous accorder IPP définitive. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Incapacité permanente définitive</Paragraphe>
+</Titre><Paragraphe>La CPAM fixe votre taux d'IPP définitive d'après les informations recueillies. Elle demande avis de son médecin-conseil et, dans certains cas, du médecin du travail (notamment lorsque l'incapacité permanente est susceptible de vous rendre inapte à votre travail).</Paragraphe>
+<Paragraphe>Vous en êtes informés, de même que votre employeur, et pouvez demander communication de l’avis du médecin conseil dans les 10 jours suivant la notification de la décision.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le taux d’IPP définitive peut être révisé en fonction de l'évolution de votre état de santé.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Critères utilisés</Paragraphe>
+</Titre><Paragraphe>Pour déterminer votre taux d'incapacité, la <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> se base sur les critères suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la nature de votre infirmité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre état général,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre âge,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vos facultés physiques et mentales,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vos aptitudes et qualifications professionnelles.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Recours</Paragraphe>
+</Titre><Paragraphe>Vous pouvez contester la décision de la CPAM (de même que votre employeur) devant le <LienInterne LienPublication="F2204" type="Fiche d'information" audience="Particuliers">tribunal du contentieux de l'incapacité</LienInterne>, dans les 2 mois qui suivent sa notification du taux d'IPP.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Indemnisation de l'incapacité</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>Le mode d’indemnisation par la CPAM dépend du taux d’IPP :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si votre taux d’IPP est inférieur à 10%, vous bénéficiez d’une indemnité forfaitaire en capital versée en une seule fois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si votre taux d’IPP est égal ou supérieur à 10%, vous bénéficiez  d’une rente viagère jusqu'à votre décès.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous êtes atteint par une maladie professionnelle liée à l'amiante, vous bénéficiez d'un régime d'<LienInterne LienPublication="F174" type="Fiche Question-réponse" audience="Particuliers">indemnisation spécifique</LienInterne>.</Paragraphe>
+</Attention><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Taux d'incapacité inférieure à 10%</Paragraphe>
+</Titre><Paragraphe>Si la CPAM fixe un taux d'IPP inférieur à 10%, vous percevez une indemnité en capital, dont le montant varie dans les conditions suivantes :</Paragraphe>
+<Tableau>
+<Titre>Montant de l'indemnité en capital versé selon votre taux d'incapacité</Titre>
+<Colonne largeur="32" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Taux d'incapacité permanente</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant de l'indemnité en capital</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>411,12 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>668,20 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>976,44 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>4%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 541,13 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>5%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 952,33 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>6%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 414,71 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>7%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 928,25 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>8%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 493,59 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>9%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 110,06 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Taux d'incapacité d'au moins 10%</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Taux d'incapacité d'au moins 10% et inférieur à 80%</Paragraphe>
+</Titre><Paragraphe>Si la CPAM fixe un taux d'IPP inférieur à 10%, vous percevez une rente. Son montant est calculé sur la base de votre salaire annuel, multiplié par le taux d'incapacité.</Paragraphe>
+<Paragraphe>Votre salaire annuel correspond à la rémunération effective totale perçue au cours des 12 mois précédant l'arrêt de travail consécutif à l'accident ou la maladie.</Paragraphe>
+<Paragraphe>Le salaire annuel de référence pris en compte est au minimum de  <Valeur>18 281,80 €</Valeur> et au maximum de <Valeur>146 254,40 €</Valeur>.</Paragraphe>
+<Paragraphe>Pour déterminer le montant de la rente, votre salaire annuel est pris en compte dans une certaine limite. Au-delà, une partie de votre rémunération est prise en compte soit partiellement, soit pas du tout. La fraction de salaire prise en compte ou non est déterminée dans les conditions suivantes :</Paragraphe>
+<Tableau>
+<Titre>Fraction prise en compte en fonction de votre salaire annuel</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Salaire annuel</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Fraction de salaire prise en compte</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salaire inférieur à <Valeur>36 563,60 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte intégrale</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salaire compris entre <Valeur>36 563,60 €</Valeur> et <Valeur>146 254,40 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte à raison d'un tiers</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salaire supérieur à <Valeur>146 254,40 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas de prise en compte</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Votre taux d'incapacité est déterminé en le réduisant de moitié jusqu'à 50% d'incapacité et en l'augmentant de moitié pour la partie du taux excédant 50%.</Paragraphe>
+<Paragraphe>Par exemple, si votre taux d'IPP est fixé à 75%, le taux retenu pour le calcul de votre rente est de 62,5% (soit (50 : 2) + (25  x 1,5)).</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Taux d'incapacité d'au moins 80%</Paragraphe>
+</Titre><Paragraphe>Votre rente est calculée sur la base de votre salaire annuel, multiplié par le taux d'incapacité.</Paragraphe>
+<Paragraphe>Votre salaire annuel correspond à la rémunération effective totale perçue au cours des 12 mois précédant l'arrêt de travail consécutif à l'accident ou la maladie.</Paragraphe>
+<Paragraphe>Le salaire annuel de référence pris en compte est au minimum de  <Valeur>18 281,80 €</Valeur> et au maximum de <Valeur>146 254,40 €</Valeur>.</Paragraphe>
+<Paragraphe>Pour déterminer le montant de la rente, votre salaire annuel est pris en compte dans une certaine limite. Au-delà, une partie de votre rémunération est prise en compte soit partiellement, soit pas du tout. La fraction de salaire prise en compte ou non est déterminée dans les conditions suivantes :</Paragraphe>
+<Tableau>
+<Titre>Fraction prise en compte en fonction de votre salaire annuel</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Salaire annuel</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Fraction de salaire prise en compte</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salaire inférieur à <Valeur>36 563,60 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte intégrale</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salaire compris entre <Valeur>36 563,60 €</Valeur> et <Valeur>146 254,40 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prise en compte à raison d'un tiers</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salaire supérieur à <Valeur>146 254,40 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas de prise en compte</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Votre taux d'incapacité est déterminé en le réduisant de moitié jusqu'à 50% d'incapacité et en l'augmentant de moitié pour la partie du taux excédant 50%.</Paragraphe>
+<Paragraphe>Par exemple, si votre taux d'IPP est fixé à 75%, le taux retenu pour le calcul de votre rente est de 62,5% (soit (50 : 2) + (25  x 1,5)).</Paragraphe>
+<Paragraphe>Si votre état de santé vous oblige à avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie, vous avez droit au versement de la <LienInterne LienPublication="F31435" type="Fiche d'information" audience="Particuliers">prestation complémentaire pour recours à tierce personne (PCRTP)</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Versement</Paragraphe>
+</Titre><Paragraphe>La rente d'incapacité est versée chaque trimestre (ou chaque mois en cas d'IPP d'au moins 50%).</Paragraphe>
+<Paragraphe>Toutefois, vous pouvez demander à la CPAM qu'une partie de votre rente :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous soit versée sous forme d'un capital,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et/ou serve à constituer une rente viagère réversible (pour moitié au plus) à votre époux(se), en cas de décès.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La procédure de demande varie selon que vous relevez de la Sécurité sociale ou du régime agricole.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Pour demander la conversion de la rente, vous devez adresser à votre <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> le formulaire de demande suivant :</Paragraphe><ServiceEnLigne ID="R1342" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6102.pdf" numerocerfa="12045*01" autrenumero="S6102a" type="Formulaire">
+<Titre>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint (régime général)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Texte><Paragraphe>Permet à l'assuré au régime général de sécurité sociale de demander la conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Cette demande peut être faite à tout moment, à compter de la notification d'attribution de la rente.</Paragraphe>
+<Paragraphe>La CPAM dispose d’un délai de 2 mois pour répondre.</Paragraphe>
+<Paragraphe>En l'absence de réponse à l’issue de ce délai, votre demande est considérée comme acceptée.</Paragraphe>
+<Paragraphe>Si vous demandez à la fois la conversion en capital et le bénéfice de la conversion en rente réversible, les 2 décisions prises par la caisse doivent faire l'objet de notifications distinctes.</Paragraphe>
+<Paragraphe>La transformation de votre rente en capital ou en rente réversible est irrévocable.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Régime agricole</Paragraphe>
+</Titre><Paragraphe>Pour demander la conversion de la rente, vous devez adresser à votre <LienInterne LienPublication="R24583" type="Sigle">CMSA</LienInterne>  le formulaire de demande suivant :</Paragraphe><ServiceEnLigne ID="R33395" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11818.do" numerocerfa="11818*02" type="Formulaire">
+<Titre>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint, du partenaire du Pacs ou du concubin (régime agricole)</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet à l'assuré à la Mutualité sociale agricole (MSA) de demander la conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête de l'époux(se), du partenaire du Pacs ou du concubin.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Indemnisation complémentaire (en cas de faute)</Paragraphe>
+</Titre><Paragraphe>Votre maladie professionnelle peut être la conséquence d'une faute dite <Expression>inexcusable</Expression> de votre employeur. </Paragraphe>
+<Paragraphe>La faute inexcusable est reconnue lorsqu'il est établi que l'employeur avait ou aurait dû avoir conscience du danger auquel vous étiez exposé le salarié et qu'il n'a pas pris les mesures nécessaires pour vous en préserver. C'est à vous de prouver la faute inexcusable de votre employeur.</Paragraphe>
+<Paragraphe>Si la faute inexcusable est reconnue, elle vous permet d'obtenir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une majoration de votre rente d'incapacité permanente,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la réparation intégrale des préjudices subis et non indemnisés par la rente (par exemple : souffrances physiques et morales, préjudices esthétiques et d'agrément, préjudices résultant de la perte ou de la diminution de vos possibilités de promotion professionnelle).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La demande d’indemnisation et de réparation des préjudices doit être faite auprès de la CPAM.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R19040" type="Centre de contact">
+<Titre>Assurance maladie - 3646</Titre>
+<Complement>Pour tout renseignement complémentaire</Complement><Texte>
+						
+								<Paragraphe>
+			Le 36 46 vous permet d'obtenir des renseignements sur vos droits et démarches, de poser une question sur votre dossier, de signaler un changement de situation ou encore de consulter vos remboursements.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3646</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi. Attention : les horaires varient selon votre département. En règle générale, les horaires d'ouverture sont au minimum de 8h30 à 16h. </Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger : +33 (0) 811 70 36 46
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Connectez-vous sur votre
+      <LienExterne URL="http://www.ameli.fr/">compte ameli</LienExterne>
+,      puis sélectionnez l'onglet
+      <Citation>Vos demandes</Citation>
+      et cliquez sur
+      <Citation>Contactez-nous / Vos questions</Citation>
+		.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<Complement>Pour tout renseignement complémentaire</Complement>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11156" type="Local personnalisable">
+<Titre>Caisse régionale d'assurance maladie d'Île-de-France (CRAMIF)</Titre>
+<Complement>Pour tout renseignement complémentaire, si vous résidez dans un département d'Ile-de-France, à l'exception de la Seine-et-Marne</Complement>
+<PivotLocal>cramif</PivotLocal>
+<RessourceWeb URL="http://www.cramif.fr/"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172662&amp;cidTexte=LEGITEXT000006073189" ID="R37181">
+<Titre>Code de la sécurité sociale : articles L434-1 à L434-6</Titre>
+<Complement>Principes généraux</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173455&amp;cidTexte=LEGITEXT000006073189" ID="R37182">
+<Titre>Code de la sécurité sociale : articles R434-1 à R434-9</Titre>
+<Complement>Indemnisation de l'IPP</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006156141&amp;cidTexte=LEGITEXT000006073189" ID="R37183">
+<Titre>Code de la sécurité sociale : articles L452-1 à L452-5</Titre>
+<Complement>Indemnisation complémentaire en cas de faute inexcusable de l'employeur</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172216&amp;cidTexte=LEGITEXT000006073189" ID="R36763">
+<Titre>Code de la sécurité sociale : articles D434-1 à D434-3</Titre>
+<Complement>Montant de l'indemnité en capital</Complement>
+</Reference>
+<ServiceEnLigne ID="R1342" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6102.pdf" numerocerfa="12045*01" autrenumero="S6102a" type="Formulaire">
+<Titre>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint (régime général)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33395" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11818.do" numerocerfa="11818*02" type="Formulaire">
+<Titre>Demande de conversion d'une rente d'incapacité permanente en capital ou en rente réversible sur la tête du conjoint, du partenaire du Pacs ou du concubin (régime agricole)</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+<Abreviation ID="R15469" type="Sigle">
+<Titre>CPAM</Titre>
+<Texte>
+<Paragraphe>Caisse primaire d'assurance maladie</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24583" type="Sigle">
+<Titre>CMSA</Titre>
+<Texte>
+<Paragraphe>Caisse de mutualité sociale agricole</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

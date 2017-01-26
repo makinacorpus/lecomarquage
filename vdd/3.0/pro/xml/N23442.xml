@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N23442" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Recherche</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Recherche</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N23442</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23442" type="Dossier">Recherche</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N22280">Recherche et développement</SousThemePere>
+<Fiche ID="F23533">Crédit d'impôt recherche (CIR)</Fiche>
+<Fiche ID="F31188">Jeune entreprise innovante ou universitaire (JEI - JEU)</Fiche>
+<Fiche ID="F23956">Signes et normes de qualité</Fiche><ServiceEnLigne ID="R44625" URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa14906/" numerocerfa="14906*02" type="Téléservice">
+<Titre>Demande en ligne d'agrément ou de renouvellement d'agrément d'un établissement utilisateur, éleveur ou fournisseur d'animaux utilisés à des fins scientifiques</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32034" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14906.do" numerocerfa="14906*02" type="Formulaire">
+<Titre>Demande d'agrément ou de renouvellement d'agrément d'un établissement utilisateur, éleveur ou fournisseur d'animaux utilisés à des fins scientifiques</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R32603" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51706&amp;cerfaFormulaire=14906" numerocerfa="51706#02">Notice d'information pour les demandeurs d'agrément pour un établissement utilisateur, éleveur ou fournisseur d'animaux utilisés à des fins scientifiques</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17749" URL="http://www.technologie.bpifrance.fr/" type="Téléservice">
+<Titre>Bourse de technologies de Bpifrance (ex-Oséo)</Titre>
+<Source ID="R30755">Bpifrance</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R43474" URL="https://duo.adc.education.fr/duo/connexion.jsp" type="Téléservice">
+<Titre>Déclaration d'utilisation ou demande d'agrément d'utilisation d'OGM en milieu confiné à des fins de recherche, de développement et d'enseignement</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17955" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12536.do" numerocerfa="12536*02" type="Formulaire">
+<Titre>Demande d'agrément d'utilisation confinée d'OGM en thérapie génique</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17956" URL="http://media.enseignementsup-recherche.gouv.fr/file/Entreprises_et_professionnels/85/1/11674v01_version_23_mars_2009_46851.pdf" format="application/pdf" poids="77.6 KB" numerocerfa="11674*02" type="Formulaire">
+<Titre>Demande d'agrément d'utilisation confinée d'OGM de la classe 1 (groupe I)</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17957" URL="http://appliweb.dgri.education.fr/appli_web/codecoh/IdentCodec.jsp" type="Téléservice">
+<Titre>Déclaration ou autorisation des activités de conservation et de préparation à des fins scientifiques d'éléments issus du corps humain</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17958" URL="http://www.enseignementsup-recherche.gouv.fr/cid20560/dossier-d-autorisation.html" type="Formulaire">
+<Titre>Autorisation d'importation et/ou d'exportation d'organes et de cellules issus du corps humain et de leurs dérivés à des fins scientifiques</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19282" URL="http://ansm.sante.fr/Activites/Dispositifs-medicaux-et-dispositifs-medicaux-de-diagnostic-in-vitro/Formulaires-et-modeles-a-telecharger/%28offset%29/3" format="text/html; charset=utf-8" poids="0" type="Formulaire">
+<Titre>Formulaires sur la recherche biomédicale</Titre>
+<Source ID="R30688">Agence nationale de sécurité du médicament et des produits de santé (ANSM)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45512" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10769.do" format="application/pdf" poids="765.5 KB" numerocerfa="10769*03" type="Formulaire">
+<Titre>Demande d'autorisation d'un traitement de recherche dans le domaine de la santé</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R23444" URL="http://www.enseignementsup-recherche.gouv.fr/cid22129/les-poles-de-competitivite.html" audience="Professionnels">
+<Titre>Les pôles de compétitivité en pratique</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R23445" URL="http://competitivite.gouv.fr/un-ecosysteme-des-poles-pour-favoriser-l-innovation-et-la-croissance/la-propriete-industrielle-pi-313.html" audience="Professionnels">
+<Titre>Guide de la propriété intellectuelle dans les pôles de compétitivité</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R23446" URL="http://www.enseignementsup-recherche.gouv.fr/cid5777/les-structures-de-transfert-et-de-diffusion-de-technologies.html" audience="Professionnels">
+<Titre>Structures de transfert et de diffusion des technologies pour les PME</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R23447" URL="http://www.enseignementsup-recherche.gouv.fr/cid5739/les-incubateurs-d-entreprises-innovantes-lies-a-la-recherche-publique.html" audience="Professionnels">
+<Titre>Incubateurs d'entreprises innovantes liés à la recherche publique</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R23448" URL="http://www.enseignementsup-recherche.gouv.fr/cid5733/le-financement-en-capital-des-entreprises-innovantes.html" audience="Professionnels">
+<Titre>Financement en capital des entreprises innovantes</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R23449" URL="http://social-sante.gouv.fr/systeme-de-sante-et-medico-social/recherche-et-innovation/article/la-recherche-biomedicale" audience="Professionnels">
+<Titre>La recherche biomédicale</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+</Publication>

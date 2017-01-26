@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1456" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Information judiciaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Une information judiciaire est une enquête menée par un juge d'instruction. Il peut mener une perquisition ou ordonner des écoutes téléphoniques.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-12-15</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1456</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167421&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006575798&amp;cidTexte=LEGITEXT000006071154&amp;categorieLien=id, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167434&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F1456" type="Fiche d'information">Information judiciaire</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Enquête</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Une information judiciaire est une enquête menée par un juge d'instruction. Il peut mener une perquisition ou ordonner des écoutes téléphoniques.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Ouverture d'une information judiciaire</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Par le procureur de la République</Paragraphe>
+</Titre><Paragraphe>L'information judiciaire est ouverte par un réquisitoire du <LienIntra LienID="R1123" type="Définition de glossaire">procureur de la République</LienIntra> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>suite à une <LienInterne LienPublication="F1435" type="Fiche d'information" audience="Particuliers">plainte simple</LienInterne> de la part de la victime (l'information reste ouverte même si la plainte est <LienInterne LienPublication="F16862" type="Fiche Question-réponse" audience="Particuliers"> retirée</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou au constat d'une infraction par un officier de police judiciaire (par exemple, pour un trafic de drogues).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe> L'ouverture d'une information judiciaire est obligatoire uniquement en cas de <LienInterne LienPublication="F1157" type="Fiche Question-réponse" audience="Particuliers">crime</LienInterne> (meurtre, viol...). Dans les autres cas, le procureur de la République est libre de saisir ou non le juge d'instruction.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Par la victime</Paragraphe>
+</Titre><Paragraphe>Une victime peut demander directement auprès d'un juge d'instruction l'ouverture d'une information judiciaire, grâce à une plainte avec <LienInterne LienPublication="F20798" type="Fiche d'information" audience="Particuliers">constitution de partie civile</LienInterne>.</Paragraphe>
+<Paragraphe>Cette procédure est possible uniquement si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F1435" type="Fiche d'information" audience="Particuliers">plainte simple</LienInterne> pour les mêmes faits a été classée sans suite,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une plainte simple a déjà été déposée depuis 3 mois sans qu'aucune suite n'ait été donnée, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou en cas de crime, de délit de presse (<LienInterne LienPublication="F32077" type="Fiche d'information" audience="Particuliers">injure</LienInterne>, <LienInterne LienPublication="F32079" type="Fiche d'information" audience="Particuliers">diffamation</LienInterne>...) ou d'infraction au code électoral (achat de voix...).  </Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pouvoirs du juges d'instruction</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Moyens d'enquête</Paragraphe>
+</Titre><Paragraphe>Le juge d'instruction procède à tous les actes qu'il estime utiles à la manifestation de la vérité.</Paragraphe>
+<Paragraphe>Il peut faire ces actes lui-même comme :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>perquisitionner, saisir des preuves, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>interroger, confronter, auditionner des <LienInterne LienPublication="F1489" type="Fiche d'information" audience="Particuliers">témoins</LienInterne> et les parties civiles.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il peut aussi demander à la police ou à la gendarmerie de procéder à certains actes à sa place. Il les saisit grâce à une commission rogatoire.</Paragraphe>
+<Paragraphe>Il peut aussi demander des <LienInterne LienPublication="F2515" type="Fiche d'information" audience="Particuliers">écoutes téléphoniques</LienInterne> ou ordonner des expertises, des prélèvements ADN, etc.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Moyens de contrainte</Paragraphe>
+</Titre><Paragraphe>Le juge d'instruction dispose de moyens de contrainte sur les personnes impliquées, tels que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>prononcer des <LienInterne LienPublication="F1470" type="Fiche d'information" audience="Particuliers">mises en examen</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>délivrer un mandat de recherche, de comparution, d'amener ou d'arrêt,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ordonner un <LienInterne LienPublication="F2902" type="Fiche d'information" audience="Particuliers">contrôle judiciaire</LienInterne>, une assignation à résidence sous <LienInterne LienPublication="F2007" type="Fiche d'information" audience="Particuliers">surveillance électronique</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander au juge des libertés et de la détention de prononcer une <LienInterne LienPublication="F1042" type="Fiche d'information" audience="Particuliers">détention provisoire</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>il est possible de demander l'annulation de sa  mise en examen devant la chambre de l'instruction de la <LienInterne LienPublication="F2224" type="Fiche avec liens externes" audience="Particuliers">cour d'appel</LienInterne>.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fin de l'instruction</Paragraphe>
+</Titre><Paragraphe>L'instruction ne prend fin que lorsque l'enquête est terminée, sous réserve que sa durée reste raisonnable. Le juge rend alors une ordonnance de non-lieu ou de renvoi.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Non-lieu</Paragraphe>
+</Titre><Paragraphe>Le non-lieu signifie que le juge renonce à renvoyer la ou les personnes mises en examen devant un tribunal.</Paragraphe>
+<Paragraphe>Il peut être prononcé par le juge, si au moins une des conditions suivantes est remplie :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le juge estime que les faits ne constituent pas une <LienIntra LienID="R10272" type="Définition de glossaire">infraction</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>il n'y a pas d'auteur probable identifié de l'infraction,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>il n'existe pas de charges suffisantes contre la personne mise en examen.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si l'enquête a établi que le mis en examen a agi en état de <LienInterne LienPublication="F1766" type="Fiche Question-réponse" audience="Particuliers">légitime défense</LienInterne>, le juge prononce également un non-lieu. Cependant, l'ordonnance précise s'il existe des charges suffisantes établissant que l'intéressé a commis les faits en cause. Elle dira, par exemple, s'il existe bien des preuves que la victime a été blessée par le mis en examen, même si celui-ci n'a fait que se défendre.</Paragraphe>
+<Paragraphe>Si le mis en examen meurt avant la fin de l'enquête, l'ordonnance de non-lieu précise également s'il existait des charges suffisantes à son encontre.</Paragraphe>
+<Paragraphe>Le procureur peut demander la réouverture de l'enquête si de nouvelles preuves apparaissent (témoins, preuves matérielles...). Lui seul peut demander cette réouverture, les parties civiles ne peuvent s'adresser directement au juge.</Paragraphe>
+<Paragraphe>Le juge ne peut pas prononcer de non-lieu pour la seule raison que le mis en examen est atteint de troubles psychiques. L'affaire sera quand même jugée.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Renvoi</Paragraphe>
+</Titre><Paragraphe>S'il ne prononce pas le non-lieu, le juge, suivant la gravité des faits :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ordonne le renvoi de la personne mise en examen devant le tribunal de police (pour une contravention),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la renvoie devant le <LienInterne LienPublication="F1485" type="Fiche d'information" audience="Particuliers">tribunal correctionnel</LienInterne> (pour un délit),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la met en accusation devant la <LienInterne LienPublication="F1487" type="Fiche d'information" audience="Particuliers">cour d'assises</LienInterne> (pour un crime). </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<Complement>Pour se faire assister</Complement>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167421&amp;cidTexte=LEGITEXT000006071154" ID="R19532">
+<Titre>Code de procédure pénale : articles 79 à 84</Titre>
+<Complement>Pouvoirs du juge d'instruction</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006575798&amp;cidTexte=LEGITEXT000006071154&amp;categorieLien=id" ID="R38315">
+<Titre>Code de procédure pénale : article 177</Titre>
+<Complement>Non-lieu</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167434&amp;cidTexte=LEGITEXT000006071154" ID="R38316">
+<Titre>Code de procédure pénale : articles 188 à 189</Titre>
+<Complement>Réouverture de l'enquête en cas de nouvelles preuves</Complement>
+</Reference>
+<Definition ID="R10272">
+<Titre>Infraction</Titre>
+<Texte>
+				<Paragraphe>Acte interdit par la loi et passible de sanctions pénales</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1123">
+<Titre>Procureur de la République</Titre>
+<Texte>
+				<Paragraphe>Magistrat à la tête du parquet (ou ministère public) au sein d'un tribunal de grande instance (TGI). Il est destinataire des plaintes et signalements. Il dirige les enquêtes, décide des poursuites et veille à l'application de la loi.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F16862" audience="Particuliers">Peut-on retirer une plainte et quelles en sont les conséquences ?</QuestionReponse>
+</Publication>

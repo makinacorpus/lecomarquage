@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F869" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Logement social : conditions d'attribution</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les logements sociaux sont attribués sous certaines conditions essentiellement de ressources. les logements sociaux situés dans les Dom font l'objet de plafonds de ressources spécifiques qui ne sont pas présentés sur cette page.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F869</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/./affichCode.do?idSectionTA=LEGISCTA000006176320&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024141716&amp;cidTexte=LEGITEXT000006074096, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033681769, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000294318, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029574683, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337646, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000235756, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023361782&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027061195</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F869" type="Fiche d'information">Logement social : conditions d'attribution</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès au logement social</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les logements sociaux sont attribués sous certaines conditions essentiellement de ressources. les logements sociaux situés dans les <LienIntra LienID="R41207" type="Définition de glossaire">Dom</LienIntra> font l'objet de plafonds de ressources spécifiques qui ne sont pas présentés sur cette page.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Plafonds de ressources</Paragraphe>
+</Titre><Paragraphe>Les plafonds de ressources sont fixées en fonction des critères suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les financements obtenus par le bailleur lors de la construction ou de la rénovation du logement concerné, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la localisation du logement souhaité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et la composition de votre foyer.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Certaines dépenses sont également prises en compte. Il s'agit des frais engagés pour l'hébergement de votre époux(se), concubin(e) ou partenaire de <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne> dans un <LienInterne LienPublication="F763" type="Fiche d'information" audience="Particuliers">établissement d'hébergement pour personnes âgées dépendantes (Ehpad)</LienInterne>.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Île de France</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Paris ou commune limitrophe</Paragraphe>
+</Titre><Tableau>
+<Titre>Plafond de ressources pour un HLM à Paris et communes limitrophes (équivalent zones A et A bis pour les plafonds PLI)</Titre>
+<Colonne largeur="27" type="header"/>
+<Colonne largeur="20" type="header"/>
+<Colonne largeur="16" type="normal"/>
+<Colonne largeur="12" type="normal"/>
+<Colonne largeur="12" type="normal"/>
+<Colonne largeur="17" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2" fusionHorizontale="2">
+<Paragraphe>Foyer</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="4">
+<Paragraphe>Mode de financement du logement </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Prêt locatif aidé d'intégration
+		(PLAI)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif à usage social
+		(PLUS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif social
+		(PLS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif intermédiaire (PLI)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Une personne </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>12 733 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23 146 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>30 090 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>41 663 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Couple  </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> Cas général (somme des âges &gt;55 ans)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>20 756 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>34 593 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>44 971 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>62 267 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienIntra LienID="R46620" type="Définition de glossaire">Jeune ménage</LienIntra> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>27 207 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>45 347 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>58 951 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>74 849 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Couple ou personne seule + 1 personne à charge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>27 207 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>45 347 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>58 951 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>74 849 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Couple ou personne seule + 2 personnes à charge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>29 781 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>54 141 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>70 383 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>89 656 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Couple ou personne seule + 3 personnes à charge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>35 427 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>64 417 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>83 742 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>106 135 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Couple ou personne seule + 4 personnes à charge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>39 868 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>72 486 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>94 232 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>119 435 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Personne supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>4 442 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>8 077 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>10 500 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>13 307 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si votre logement a été construit grâce à un PLI obtenu après le 1<Exposant>er</Exposant> janvier 2015, les plafonds de ressources sont les mêmes que pour le <LienInterne LienPublication="F31151" type="Fiche d'information" audience="Particuliers">dispositif Pinel</LienInterne>.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autre commune d'Île de France</Paragraphe>
+</Titre><Tableau>
+<Titre>Plafond de ressources pour un HLM en île-de-France ( équivalent zones B et B1 pour les plafonds PLI)</Titre>
+<Colonne largeur="25" type="header"/>
+<Colonne largeur="21" type="normal"/>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="21" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Composition du foyer</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="4">
+<Paragraphe>Mode de financement du logement </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Prêt locatif aidé d'intégration
+		(PLAI)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif à usage social
+		(PLUS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif social
+		(PLS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif intermédiaire (PLI)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 personne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>12 733 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>23 146 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>30 090 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>32 197 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple : Cas général </Paragraphe>
+<Paragraphe>(somme des âges &gt;55 ans)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>20 756 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>34 593 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>44 971 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>42 995 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple :  <LienIntra LienID="R46620" type="Définition de glossaire">Jeune ménage</LienIntra>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>24 949 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>41 583 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>54 058 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>51 706 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 1 personne à charge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>24 949 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>41 583 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>54 058 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>51 706 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 2 personnes à charge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>27 394 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>49 809 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>64 752 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>62 421 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 3 personnes à charge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>32 432 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>58 964 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>76 653 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>73 432 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 4 personnes à charge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>36 495 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>66 353 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>86 259</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>82 757 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par personne supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>4 065 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>7 393 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>9 611 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>9 230 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si votre logement a été construit grâce à un PLI obtenu après le 1<Exposant>er</Exposant> janvier 2015, les plafonds de ressources sont les mêmes que pour le <LienInterne LienPublication="F31151" type="Fiche d'information" audience="Particuliers">dispositif Pinel</LienInterne>.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autre région</Paragraphe>
+</Titre><Tableau>
+<Titre>Plafond de ressources pour un HLM hors Paris et Ile-de-France (équivalent zone C pour les plafonds PLI)</Titre>
+<Colonne largeur="26" type="header"/>
+<Colonne largeur="23" type="normal"/>
+<Colonne largeur="23" type="normal"/>
+<Colonne largeur="23" type="normal"/>
+<Colonne largeur="24" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Composition du foyer</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="4">
+<Paragraphe>Mode de financement du logement </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Prêt locatif aidé d'intégration
+		(PLAI)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif à usage social
+		(PLUS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif social
+		(PLS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prêt locatif intermédiaire (PLI)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 personne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>11 067 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>20 123 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>26 160 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28 172 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple  : Cas général </Paragraphe>
+<Paragraphe>(somme des âges &gt;55 ans)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>16 125 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>26 872 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>34 934 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>37 621 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple  : <LienIntra LienID="R46620" type="Définition de glossaire">Jeune ménage</LienIntra>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>19 390 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>32 316 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>42 011 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>45 242 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 1 personne à charge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>19 390 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>32 316 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>42 011 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>45 242 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 2 personnes à charge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>21 575 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>39 013 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>50 717 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>54 618 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 3 personnes à charge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>25 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>45 895 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>59 664 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>64 253 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple ou personne seule + 4 personnes à charge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>28 448 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>51 723 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>67 240 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>72 412 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Par personne supplémentaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>3 173 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>5 769 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>7 500 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>+ <Valeur>8 077 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si votre logement a été construit grâce à un PLI obtenu après le 1<Exposant>er</Exposant> janvier 2015, les plafonds de ressources sont les mêmes que pour le <LienInterne LienPublication="F31151" type="Fiche d'information" audience="Particuliers">dispositif Pinel</LienInterne>.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>il est possible de louer des logements de type intermédiaires avec des plafonds de ressources plus élevés.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Calcul des ressources</Paragraphe>
+</Titre><Paragraphe>Les ressources prises en compte sont les revenus fiscaux de référence figurant sur les avis d'imposition de chaque personne vivant dans votre foyer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de l'année n-2, pour 2017, il s'agit des revenus de  2015,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de l'année n-1 (revenus de 2016 pour 2017), lorsque les ressources concernées ont diminué d'au minimum 10 % par rapport à l'année n-2. Cette diminution des ressources doit être justifiée par tous moyens, à l'exception d'attestation sur l'honneur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par exception, seules vos ressources personnelles sont prises en compte si vous êtes  en instance de divorce. L'instance de divorce doit être attestée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> par une ordonnance de non-conciliation, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>par le prononcé de mesures urgentes ordonnées par le juge aux affaires familiales,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> par une copie de l'acte de saisine du juge aux affaires familiales.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou, jusqu'au 26 mars 2019, si vous divorcez par consentement mutuel, d'une attestation d'une procédure de divorce délivrée par un organisme de médiation familiale.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>De même, seules vos ressources personnelles sont prises en compte si vous êtes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>partenaire d'un <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne> dont la rupture a été déclarée au greffe du tribunal d'instance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou victime de violences au sein de votre couple, attestées par le récépissé d'un dépôt de plainte.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Autres conditions</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Condition de nationalité</Paragraphe>
+</Titre><Paragraphe>Vous devez être :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de nationalité française,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et ou un étranger justifiant d'un titre de séjour valable en France.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Personnes prioritaires</Paragraphe>
+</Titre><Paragraphe>Vous êtes prioritaires pour obtenir un logement social si vous êtes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en situation de handicap ou si vous avez à charge une personne en situation de handicap,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en situation d'urgence (difficultés particulières à trouver un logement pour des raisons d'ordre financier, logé dans un <LienInterne LienPublication="F16158" type="Fiche d'information" audience="Particuliers">logement insalubre</LienInterne>, expulsé ou menacé d'expulsion),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>hébergé ou logé temporairement dans un <LienIntra LienID="R21203" type="Définition de glossaire">établissement ou logement de transition</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>victime de violences au sein de votre couple (mariés, pacsés, concubins).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F10007" audience="Particuliers">
+<Titre>Demande d'un logement social (HLM)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20142" type="Local">
+<Titre>Organismes pouvant proposer un logement social</Titre>
+<RessourceWeb URL="http://union-habitat.org/les-hlm-de-%C3%A0-z/annuaire-des-organismes"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/./affichCode.do?idSectionTA=LEGISCTA000006176320&amp;cidTexte=LEGITEXT000006074096" ID="R19446">
+<Titre>Code de la construction et de l'habitation : articles L441 à L441-2-9</Titre>
+<Complement>Conditions d'attribution</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024141716&amp;cidTexte=LEGITEXT000006074096" ID="R35240">
+<Titre>Code de la construction et de l'habitation : article R441-1</Titre>
+<Complement>Conditions de ressources</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033681769" ID="R42721">
+<Titre>Arrêté du 22 décembre 2016 relatif aux plafonds de ressources pour accéder à un logement social</Titre>
+<Complement>Plafonds de ressources</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000294318" ID="R31683">
+<Titre>Arrêté du 29 juillet 1987 relatif aux plafonds de ressources des bénéficiaires de la législation sur les HLM et des nouvelles aides de l'État</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029574683" ID="R15107">
+<Titre>Arrêté du 30 septembre 2014 relatif au classement des communes par zone applicable à certaines aides au logement</Titre>
+<Complement>Zonage logements intermédiaires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337646" ID="R37990">
+<Titre>Arrêté du 1er août 2014 relatif au zonage géographique des communes dit A/B/C)</Titre>
+<Complement>Zonage prêt locatif intermédiaire (depuis le 1er février 2015)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000235756" ID="R35440">
+<Titre>Arrêté du 29 juillet 2004 relatif aux prêts locatifs intermédiaires</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023361782&amp;cidTexte=LEGITEXT000006074096" ID="R31428">
+<Titre>Code de la construction et de l'habitation : article R304-1</Titre>
+<Complement>Détermination du classement des communes par zone applicable</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027061195" ID="R1017">
+<Titre>Arrêté du 1er février 2013 fixant la liste des titres de séjour pour les étrangers en vue de l'obtention d'un logement social</Titre>
+</Reference>
+<ServiceEnLigne ID="R149" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14069.do" numerocerfa="14069*02" type="Formulaire">
+<Titre>Demande de logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source><NoticeLiee ID="R145" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=514&amp;cerfaFormulaire=14069" numerocerfa="51423#02">Notice explicative de demande de logement social</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R18722" URL="http://www.logement.gouv.fr/Rechercher-un-logement-social" audience="Particuliers">
+<Titre>Rechercher un logement social</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<Definition ID="R21203">
+<Titre>Établissement ou logement de transition</Titre>
+<Texte>
+				<Paragraphe>Logement relevant du secteur privé ou public loué à certains organismes (associations et centres communaux d'action sociale) pour être sous-loué à titre temporaire à des personnes en difficulté</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R46620">
+<Titre>Jeune ménage</Titre>
+<Texte>
+				<Paragraphe>Couple sans enfant  dont la somme des âges n'excède pas  55 ans</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R41207">
+<Titre>Départements d'outre-mer (Dom)</Titre>
+<Texte>
+				<Paragraphe>Guadeloupe - Guyane - Martinique -Mayotte - La Réunion</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R45368" type="Sigle">
+<Titre>Pacs</Titre>
+<Texte>
+<Paragraphe>Pacte civil de solidarité</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

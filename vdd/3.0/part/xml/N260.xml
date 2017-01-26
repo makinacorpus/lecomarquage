@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N260" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mineur victime</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Mineur victime</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-04-20</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N260</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19807</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N260" type="Dossier">Mineur victime</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20279">Justice des mineurs</SousThemePere>
+<Fiche ID="F20283">Vol ou racket</Fiche>
+<Fiche ID="F952">Mauvais traitements</Fiche>
+<Fiche ID="F2274">Infraction sexuelle</Fiche>
+<Fiche ID="F2532">Prostitution infantile</Fiche>
+<Fiche ID="F31985">Harcèlement à l'école</Fiche><Partenaire ID="R1857" URL="http://www.justice.gouv.fr/"/>
+<PourEnSavoirPlus type="Information pratique" ID="R41472" URL="http://www.ado.justice.gouv.fr/index.php" audience="Particuliers">
+<Titre>La justice des mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1567" audience="Particuliers">Comment un mineur peut-il porter plainte ?</QuestionReponse>
+<QuestionReponse ID="F17777" audience="Particuliers">Que peut faire un juge des enfants pour protéger un mineur en danger ?</QuestionReponse>
+
+</Publication>

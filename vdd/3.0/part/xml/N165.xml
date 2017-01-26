@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N165" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Obsèques et modes de sépulture</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Obsèques et modes de sépulture</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-08</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N165</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Senior</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N165" type="Dossier">Obsèques et modes de sépulture</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N31161">Décès</SousThemePere>
+<Fiche ID="F909">Déclaration de décès</Fiche>
+<Fiche ID="F14935">Inhumation</Fiche>
+<Fiche ID="F1558">Crémation</Fiche><VoirAussi important="non">
+<Dossier ID="N441" audience="Particuliers">
+<Titre>Don du sang, don du corps, don d'organes</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N171" audience="Particuliers">
+<Titre>Règlement d'une succession</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R42838" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=etatCivil" type="Téléservice">
+<Titre>Demande d'acte de décès (survenu en France) - Service gratuit</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1405" URL="https://pastel.diplomatie.gouv.fr/Dali/index2.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24128" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=declarationDeces" type="Téléservice">
+<Titre>Déclaration du décès d'un proche aux organismes de protection sociale auxquels le défunt était affilié</Titre>
+<Source ID="R30711">Secrétariat général pour la modernisation de l'action publique (SGMAP)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42403" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15456.do" numerocerfa="15456*01" type="Formulaire">
+<Titre>Requête aux fins de déclaration judiciaire de décès</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R42404" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52036%2301&amp;cerfaFormulaire=15456*01" numerocerfa="52036*01">Notice relative à la requête aux fins de déclaration judiciaire de décès</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R24084" URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Prestations-funeraires" audience="Particuliers">
+<Titre>Prestations funéraires</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41637" URL="http://www.cimetieres-de-france.fr/" audience="Particuliers">
+<Titre>Site d'information sur les cimetières de France</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F12695" audience="Particuliers">Que faire en cas de désaccord sur l'organisation des funérailles ?</QuestionReponse>
+<QuestionReponse ID="F17059" audience="Particuliers">Qui doit payer les funérailles ?</QuestionReponse>
+<QuestionReponse ID="F911" audience="Particuliers">Que faire en cas de décès d'un proche à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F31001" audience="Particuliers">Qu'est-ce qu'une concession funéraire ?</QuestionReponse>
+<QuestionReponse ID="F12691" audience="Particuliers">Peut-on vendre, donner ou léguer une concession funéraire dans un cimetière ?</QuestionReponse>
+<QuestionReponse ID="F1114" audience="Particuliers">Peut-on enterrer une personne en dehors d'un cimetière ?</QuestionReponse>
+<QuestionReponse ID="F1115" audience="Particuliers">Dans quel cas peut-on procéder à l'exhumation d'un corps ?</QuestionReponse>
+<QuestionReponse ID="F19224" audience="Particuliers">Enfant décédé à la naissance : quelles sont les règles d'état civil ?</QuestionReponse>
+<QuestionReponse ID="F31715" audience="Particuliers">Comment savoir si une personne perdue de vue est encore en vie ?</QuestionReponse>
+<CommentFaireSi ID="F16507">Je dois faire face au décès d'un proche</CommentFaireSi>
+</Publication>

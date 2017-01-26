@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10555" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quel nom de famille pour un enfant en cas de désaccord entre les parents ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Si les parents ne sont pas d'accord sur le choix du nom de l'enfant, l'enfant portera un double nom. Ce double nom sera composé du nom de chacun</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-11-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10555</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424851&amp;idSectionTA=LEGISCTA000006150015&amp;cidTexte=LEGITEXT000006070721, http://legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006061111, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006053798</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N151</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N151">Nom et prénom</Niveau>
+<Niveau ID="F10555" type="Fiche Question-réponse">Quel nom de famille pour un enfant en cas de désaccord entre les parents ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N151">
+<Titre>Nom et prénom</Titre><SousDossier ID="N151-1">
+<Titre>Nom de famille</Titre>
+<Fiche ID="F10505">Choix du nom de l'enfant à sa naissance : mère, père ou double-nom</Fiche>
+<Fiche ID="F10506">Changement du nom de l'enfant après sa naissance</Fiche>
+<Fiche ID="F1656">Changement de nom pour motif légitime</Fiche>
+</SousDossier>
+<SousDossier ID="N151-2">
+<Titre>Prénom</Titre>
+<Fiche ID="F882">Choix du prénom de l'enfant</Fiche>
+<Fiche ID="F885">Changement de prénom</Fiche>
+</SousDossier>
+<SousDossier ID="N151-3">
+<Titre>Nom d'usage</Titre>
+<Fiche ID="F868">Utilisation du nom de son mari ou de sa femme</Fiche>
+<Fiche ID="F1343">Utilisation du nom des deux parents</Fiche>
+</SousDossier>
+<SousDossier ID="N151-4">
+<Titre>Adoption</Titre>
+<Fiche ID="F2668">Nom de famille et adoption plénière</Fiche>
+<Fiche ID="F2621">Nom de famille et adoption simple</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Les parents peuvent donner à leur enfant : le nom de la mère, le nom du père ou les deux noms accolés suivant l'ordre qu'ils ont choisi et dans la limite d'un seul nom de famille par parent.</Paragraphe>
+<Paragraphe>Si les parents ne sont pas d'accord sur le nom que portera leur enfant, l'un des parents doit le signaler lors de la <LienInterne LienPublication="F10505" type="Fiche d'information" audience="Particuliers">déclaration de naissance</LienInterne> à l'officier de l'état civil, agent chargé de rédiger les actes de naissance. L'officier de l'état civil compétent est celui de la mairie de naissance de l'enfant.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>Ce signalement doit ce faire par écrit. Cet écrit est ensuite signé par l'officier de l'état civil qui le remet au parent déclarant.</Paragraphe>
+<Paragraphe>L'enfant portera alors un double nom composé du nom de chacun de ses parents accolés selon l'ordre alphabétique.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si un parent a lui même un double-nom, c'est la première partie qui est choisie pour composer le nom de l'enfant.</Paragraphe>
+</ANoter>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424851&amp;idSectionTA=LEGISCTA000006150015&amp;cidTexte=LEGITEXT000006070721" ID="R12161">
+<Titre>Code civil : article 311-21 à 311-24</Titre>
+<Complement>Nom de famille d'un enfant</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006061111" ID="R18533">
+<Titre>Décret n°62-921 du 3 août 1962 modifiant certaines règles relatives aux actes de l'état civil</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006053798" ID="R15449">
+<Titre>Arrêté du 1er juin 2006 fixant le modèle de livret de famille</Titre>
+</Reference>
+</Publication>

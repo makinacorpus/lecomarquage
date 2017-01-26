@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31909" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment déterminer le résultat fiscal d'une entreprise ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Les résultats fiscaux dégagés par l'activité d'une entreprise constituent les revenus qui seront soumis à l'impôt, soit l'impôt sur les sociétés (pour une société de capitaux), soit l'impôt sur le revenu (pour une entreprise individuelle). Le résultat fiscal permet de déterminer la base imposable pour l'impôt sur les sociétés ou sur le revenu.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2015-03-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31909</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199533&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191365&amp;cidTexte=LEGITEXT000006069574</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13442</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="F31909" type="Fiche Question-réponse">Comment déterminer le résultat fiscal d'une entreprise ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13442">
+<Titre>Imposition des sociétés</Titre><SousDossier ID="N13442-1">
+<Titre>Impôt sur les sociétés (IS)</Titre>
+<Fiche ID="F23575">Entreprises concernées et taux d'imposition</Fiche>
+<Fiche ID="F23510">Déclaration et paiement</Fiche>
+<Fiche ID="F23628">Report de déficit</Fiche>
+<Fiche ID="F32166">Entreprises relevant de la Direction des grandes entreprises (DGE)</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-2">
+<Titre>Imposition des rémunérations</Titre>
+<Fiche ID="F33816">Rémunération des dirigeants de société</Fiche>
+<Fiche ID="F32963">Distribution de dividendes</Fiche>
+<Fiche ID="F32966">Rémunération des comptes courants d'associé</Fiche>
+<Fiche ID="F33162">Plus-values professionnelles</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-3">
+<Titre>Autres impositions des sociétés</Titre>
+<Fiche ID="F32042">Société civile de moyens (SCM)</Fiche>
+<Fiche ID="F22790">Taxe sur les surfaces commerciales (Tascom)</Fiche>
+<Fiche ID="F31607">Taxe sur la valeur vénale des immeubles</Fiche>
+<Fiche ID="F31973">Charges déductibles ou non du résultat fiscal d'une entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les résultats fiscaux dégagés par l'activité d'une entreprise constituent les revenus qui seront soumis à l'impôt, soit l'impôt sur les sociétés (pour une société de capitaux), soit l'impôt sur le revenu (pour une entreprise individuelle). Le résultat fiscal permet de déterminer la base imposable pour l'impôt sur les sociétés ou sur le revenu.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Calcul du résultat fiscal</Paragraphe>
+</Titre><Paragraphe>L'impôt dû sur la période d'imposition est calculé en multipliant le  résultat fiscal dégagé par l'entreprise par le <LienInterne LienPublication="F23575" type="Fiche d'information" audience="Professionnels">taux d'imposition</LienInterne>.</Paragraphe>
+<Paragraphe>Le résultat fiscal ne doit pas être confondu avec le résultat courant ou résultat comptable de l'entreprise (correspondant à la différence entre les produits et les charges). Il existe en effet des différences entre les règles comptables, déterminées par le plan comptable général (PCG), ou règlement n°99-03 du comité de la réglementation comptable, et les règles fiscales, précisées par le code général des impôts (CGI).</Paragraphe>
+<Paragraphe>Le calcul du résultat fiscal  se fait à partir du résultat comptable. Le résultat imposable est un résultat comptable corrigé.</Paragraphe>
+<Paragraphe>En cours d'exercice, les opérations sont enregistrées en appliquant les règles comptables, sans tenir compte des règles fiscales.</Paragraphe>
+<Paragraphe>C'est seulement en fin d'exercice, lorsque le résultat comptable est dégagé, que l'on détermine le résultat imposable. Cette détermination du résultat fiscal se fait extra-comptablement dans la liasse fiscale de l'entreprise :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pour une société ou une entreprise individuelle imposée sous le régime des <LienInterne LienPublication="R24381" type="Sigle">BIC</LienInterne> : sur l'imprimé <LienInterne LienPublication="R34946" type="Formulaire" audience="Professionnels">n°2058 A</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pour une entreprise individuelle imposée sous le régime des <LienInterne LienPublication="R24380" type="Sigle">BNC</LienInterne> : sur les imprimés <LienInterne LienPublication="R18262" type="Formulaire" audience="Professionnels">n°2035 A</LienInterne> et <LienInterne LienPublication="R18263" type="Formulaire" audience="Professionnels"> n°2035 B</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La détermination du résultat fiscal consiste à déduire des produits (produits non imposables ou bénéficiant de régime de faveur, ou étalement d'une imposition dans le temps) ou à réintégrer des charges (charges non déductibles fiscalement ou déductibles l'année du règlement) qui ont été comptabilisées.</Paragraphe>
+<Paragraphe>Il s'agit de retraitements, et non pas d'un double enregistrement.</Paragraphe>
+<Paragraphe>Résultat fiscal = résultat comptable + réintégrations extra-comptables - déductions extra-comptables</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réintégrations</Paragraphe>
+</Titre><Paragraphe>Les réintégrations extra-comptables sont pour l'essentiel les neutralisations de dépenses engagées par l'entreprise et enregistrées en charges en comptabilité, diminuant d'autant le résultat, mais qui ne remplissent pas les conditions de déductibilité au plan fiscal (soit temporairement, soit définitivement). </Paragraphe>
+<Paragraphe>Elles ont pour effet principal de différer la déduction d'une charge ou d'empêcher sa déduction.</Paragraphe>
+<Paragraphe>Doivent ainsi être réintégrées dans le résultat fiscal les charges non déductibles suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>rémunération de l'exploitant dans une entreprise individuelle</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>amortissement excédentaire pour un véhicule de tourisme</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F22203" type="Fiche d'information" audience="Professionnels">taxe sur les véhicules de tourisme des sociétés (TVS)</LienInterne> due par les sociétés soumises à l'impôt sur les sociétés</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>impôt sur les sociétés</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>amende et pénalités.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déductions</Paragraphe>
+</Titre><Paragraphe>Les déductions extra-comptables correspondent essentiellement à des produits qui sont enregistrés en comptabilité, augmentant d'autant le résultat, mais qui ne sont pas imposables au plan fiscal (soit temporairement, soit définitivement) ou qui ont été imposés antérieurement (reprise de provision réintégrée lors d'un exercice précédent).</Paragraphe>
+<Paragraphe>Elles ont pour effet principal de différer l'imposition d'un produit, d'empêcher son imposition ou de l'imposer à un taux différent du taux normal (par exemple,  quote-part de pertes d'une société de personne, créance de <TermeEtranger langue="en">carry-back</TermeEtranger> ou plus-values sur titres de participation, qui sont imposées à un taux différent du taux normal...).</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F31973" audience="Professionnels">
+<Titre>Charges déductibles ou non du résultat fiscal d'une entreprise</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199533&amp;cidTexte=LEGITEXT000006069577" ID="R34948">
+<Titre>Code général des impôts : articles 53 A à 55</Titre>
+<Complement>Régime de l'imposition d'après le bénéfice réel</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191365&amp;cidTexte=LEGITEXT000006069574" ID="R34949">
+<Titre>Code général des impôts, annexe 3 : article 40 A</Titre>
+<Complement>Bénéfices des professions non commerciales</Complement>
+</Reference>
+<ServiceEnLigne ID="R34946" URL="https://www.impots.gouv.fr/portail/node/8904" numerocerfa="10951*18" autrenumero="2058 A" type="Formulaire">
+<Titre>Détermination du résultat fiscal de l'entreprise (impôt sur les sociétés et bénéfices industriels et commerciaux)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18262" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11177*19" autrenumero="2035-A-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Compte de résultat fiscal</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18263" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11178*19" autrenumero="2035 B" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Compte de résultat fiscal 2e partie</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Abreviation ID="R24380" type="Sigle">
+<Titre>BNC</Titre>
+<Texte>
+<Paragraphe>Bénéfices non commerciaux</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24381" type="Sigle">
+<Titre>BIC</Titre>
+<Texte>
+<Paragraphe>Bénéfices industriels et commerciaux</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

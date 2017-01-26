@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2018" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Foyer de jeunes : "jeunes travailleurs" ou "habitat jeunes"</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Un foyer de jeunes (également appelé foyer pour jeunes travailleurs ou habitat jeunes) est une résidence qui loue des chambres aux jeunes entre 16 et 25 ans (parfois 30 ans).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-20</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2018</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159114&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006160660&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17160</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N17160">Hébergement social</Niveau>
+<Niveau ID="F2018" type="Fiche d'information">Foyer de jeunes : "jeunes travailleurs" ou "habitat jeunes"</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20271">Hébergement</SousThemePere><DossierPere ID="N17160">
+<Titre>Hébergement social</Titre>
+<Fiche ID="F2018">Foyer de jeunes : "jeunes travailleurs" ou "habitat jeunes"</Fiche>
+<Fiche ID="F17912">Logement-foyer de travailleurs migrants</Fiche>
+<Fiche ID="F20343">Droit au logement opposable (Dalo)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Un foyer de jeunes (également appelé <Expression>foyer pour jeunes travailleurs</Expression> ou <Expression>habitat jeunes</Expression>) est une résidence qui loue des chambres aux jeunes entre 16 et 25 ans (parfois 30 ans).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Ce type d'hébergement propose un hébergement temporaire comportant à la fois des chambres et des espaces communs (restaurant, laverie...).</Paragraphe>
+<Paragraphe>Chaque résident signe un contrat.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Personnes concernées</Paragraphe>
+</Titre><Paragraphe>Ce type d'hébergement s'adresse principalement aux jeunes travailleurs vivant seuls âgés de 16 à 25 ans (parfois 30 ans), exerçant une activité professionnelle, en stage ou en apprentissage.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>certains établissements  accueillent les étudiants ou demandeurs d'emploi. </Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Vous pouvez déposer votre demande directement auprès du foyer de votre choix dont les coordonnées peuvent être obtenues en mairie.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Signature d'un contrat</Paragraphe>
+</Titre><Paragraphe>Vous devez signer un contrat avec le gestionnaire du foyer. Ce contrat doit mentionner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les conditions d'admission dans l'établissement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sa date de prise d'effet,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les modalités et conditions de résiliation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant de la redevance mensuelle ainsi que l'ensemble des prestations annexes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant du dépôt de garantie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et la désignation des locaux et équipements à usage privatif dont vous avez la jouissance, ainsi que les espaces collectifs mis à votre disposition.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût de l'hébergement</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Frais à payer</Paragraphe>
+</Titre><Paragraphe>Ils comprennent généralement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le versement de frais d'inscription,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le versement d'un dépôt de garantie égal à 1 mois de loyer, hors charges,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le versement d'une redevance mensuelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et une participation individuelle aux frais de blanchisserie, activités de loisirs...</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Tout ou partie de vos frais d'hébergement peuvent être pris en charge au titre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de <LienInterne LienPublication="F12006" type="Fiche d'information" audience="Particuliers">l'aide personnalisée au logement (APL)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et/ou d'une aide versée par le <LienInterne LienPublication="F1334" type="Fiche Question-réponse" audience="Particuliers">fonds de solidarité pour le logement (FSL)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de l'hébergement</Paragraphe>
+</Titre><Paragraphe>La durée de l'hébergement est généralement de 2 ans maximum.</Paragraphe>
+<Paragraphe>Vous pouvez héberger un ou plusieurs tiers dans votre chambre.</Paragraphe>
+<Paragraphe>La durée maximum de l'hébergement est d'au maximum 3 mois pour un même tiers hébergé.</Paragraphe>
+<Paragraphe>Vous avez l'obligation d'informer le gestionnaire de votre foyer l'arrivée de tiers en déclarant préalablement et oralement leur identité.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le règlement intérieur peut prévoir le paiement d'un montant forfaitaire correspondant à une participation aux charges supplémentaires occasionnées par l'hébergement d'un ou plusieurs tiers.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fin de l'hébergement</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Résiliation à l'initiative du résident</Paragraphe>
+</Titre><Paragraphe>Vous pouvez  résilier à tout moment votre contrat, par lettre recommandée avec avis de réception, sous réserve de respecter un délai de préavis de 8 jours. </Paragraphe>
+<Paragraphe>Le préavis commence le jour où votre gestionnaire reçoit votre courrier et signe l'accusé de réception. Si le gestionnaire signe l'accusé le 1<Exposant>er</Exposant> mars, vous pourrez partir le 9 mars.</Paragraphe>
+<Paragraphe>Durant cette période de préavis, vous restez redevable du paiement de la redevance.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Résiliation à l'initiative du gestionnaire du foyer</Paragraphe>
+</Titre><Paragraphe>Le gestionnaire du foyer peut résilier à tout moment votre contrat, par lettre recommandée avec avis de réception, sous réserve de respecter un délai de préavis :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'1 mois en cas d'inexécution contractuelle  ou en cas de manquement grave ou répété au règlement intérieur (la résiliation peut notamment être effectuée lorsque 3 redevances sont restées impayées),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de 3 mois lorsque vous cessez de remplir les conditions d'admission dans l'établissement telles qu'elles sont précisées dans le contrat ou lorsque l'établissement cesse son activité.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N175" audience="Particuliers">
+<Titre>Parcours éducatifs alternatifs</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159114&amp;cidTexte=LEGITEXT000006074096" ID="R35210">
+<Titre>Code de la construction et de l'habitation : articles L633-1 à L633-5</Titre>
+<Complement>Droits des personnes logées en foyer (contrat, résiliation...)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006160660&amp;cidTexte=LEGITEXT000006074096" ID="R35211">
+<Titre>Code de la construction et de l'habitation : articles R633-1 à R633-9</Titre>
+<Complement>Droits des personnes logées en foyer (contrat, résiliation...)</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R44247" URL="http://www.jeunes.gouv.fr/interministeriel/logement-et-transports/trouver-un-logement/article/foyers-de-jeunes" audience="Particuliers">
+<Titre>Hébergement des jeunes</Titre>
+<Source ID="R30704">Ministère en charge de la jeunesse</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1334" audience="Particuliers">Quelles aides peut octroyer le fonds de solidarité pour le logement (FSL) ?</QuestionReponse>
+<QuestionReponse ID="F2003" audience="Particuliers">Quels établissements peuvent héberger une personne en situation précaire ?</QuestionReponse>
+<CommentFaireSi ID="F21829">Je veux gagner en autonomie avant 18 ans</CommentFaireSi>
+</Publication>

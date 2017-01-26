@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14621" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Biens à double usage : autorisation générale d'exportation de l'Union europénne</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>Remplace le cerfa n°11892*01, qui n'est plus en vigueur. Concerne les types d'autorisation n°EU001, EU002, EU003 (exportation après réparation/remplacement), EU004 (exportation temporaire pour foire ou exposition), EU005 (télécommunications), EU006 (produits chimiques).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14621</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N31361">Autres commerces</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14621" type="Formulaire">Biens à double usage : autorisation générale d'exportation de l'Union europénne</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14458*03</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Remplace le cerfa n°11892*01, qui n'est plus en vigueur. Concerne les types d'autorisation n°EU001, EU002, EU003 (exportation après réparation/remplacement), EU004 (exportation temporaire pour foire ou exposition), EU005 (télécommunications), EU006 (produits chimiques). </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14458.do" format="application/force-download" poids="279.7 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F23676" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Formalités douanières</Titre>
+<Dossier ID="N22281">Importation - Exportation</Dossier>
+</FicheLiee><OuSAdresser ID="R22333" type="Local personnalisable">
+<Titre>Services douaniers en France et en Union européenne (recette de douane, bureau de garantie, direction régionale...)</Titre>
+<PivotLocal>douane_metropole</PivotLocal>
+<RessourceWeb URL="https://pro.douane.gouv.fr/rush/API_Service.asp?sid=&amp;app="/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Dossier ID="N31361">
+<Titre>Autres commerces</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

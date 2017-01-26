@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F322" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-06-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F322</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020616249&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N173</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N173">Héritage : ordre et droits des héritiers</Niveau>
+<Niveau ID="F322" type="Fiche Question-réponse">L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20090">Succession</SousThemePere><DossierPere ID="N173">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Fiche ID="F1270">Défunt ayant eu des enfants</Fiche>
+<Fiche ID="F1632">Défunt sans enfant</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, s'il est dans le besoin, l'époux survivant peut demander une pension alimentaire prélevée sur la succession du défunt.</Paragraphe>
+<Paragraphe>L'époux survivant doit remplir les 3 conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Être marié avec le défunt au moment du décès (ou séparé de corps mais pas divorcé)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Être dans le besoin au moment du décès</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Apporter la preuve de sa situation financière</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si l'état de besoin de l'époux survivant intervient après le décès, il ne lui est pas possible d'obtenir une pension alimentaire.</Paragraphe>
+</ASavoir><Paragraphe>Le délai pour demander la pension est d'1 an :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>À partir du décès</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Ou à partir du  moment où les <LienIntra LienID="R12469" type="Définition de glossaire">héritiers</LienIntra> ont cessé de verser la pension alimentaire</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas d'<LienIntra LienID="R12717" type="Définition de glossaire">indivision</LienIntra> avec les héritiers, le délai se prolonge jusqu'à l'achèvement du partage de la succession.</Paragraphe>
+<Paragraphe>La pension alimentaire est prélevée sur la succession. Elle est supportée par tous les héritiers en dehors de leurs biens personnels.</Paragraphe>
+<Paragraphe>À défaut d'accord, l'époux survivant peut saisir le tribunal de grande instance qui déterminera s'il y a lieu d'attribuer une pension et qui en fixera le montant.</Paragraphe>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>La pension alimentaire peut être :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Réévaluée périodiquement</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Révisée si les ressources du bénéficiaire varient à la hausse comme à la baisse</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Supprimée si l'état de besoin n'existe plus</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N173" audience="Particuliers">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31160" audience="Particuliers">
+<Titre>Droits de succession et de donation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F2010" audience="Particuliers">
+<Titre>Réévaluation de la pension alimentaire</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F21023" audience="Particuliers">
+<Titre>Révision du montant de la pension alimentaire</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020616249&amp;cidTexte=LEGITEXT000006070721" ID="R2276">
+<Titre>Code civil : article 767</Titre>
+</Reference>
+<Definition ID="R12469">
+<Titre>Héritier</Titre>
+<Texte>
+				<Paragraphe>Personne désignée par la loi pour recueillir la succession d'une personne décédée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136269&amp;cidTexte=LEGITEXT000006070721" ID="R38485">
+<Titre>Code civil : articles 731 et 732</Titre>
+</Reference>
+</Definition>
+<Definition ID="R12717">
+<Titre>Indivision</Titre>
+<Texte>
+				<Paragraphe>Situation dans laquelle deux ou plusieurs personnes sont propriétaires ensemble d'une même chose ou d'un même ensemble de choses (exemples : maison, portefeuille de titres, meubles, bijoux)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136538&amp;cidTexte=LEGITEXT000006070721" ID="R18644">
+<Titre>Code civil : articles 815 à 815-1</Titre>
+</Reference>
+</Definition>
+</Publication>

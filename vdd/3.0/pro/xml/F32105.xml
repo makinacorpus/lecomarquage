@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32105" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Bénéfices non commerciaux (BNC) : régimes fiscaux et déclarations</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Les bénéfices non commerciaux (BNC) constituent une catégorie de l'impôt sur le revenu, applicable aux personnes qui exercent une activité professionnelle non commerciale, à titre individuel ou comme associées de sociétés, et font partie du revenu imposable. Aucune distinction n'est faite entre le bénéfice de l'entreprise individuelle et la rémunération du professionnel. Ils sont soumis à des obligations déclaratives qui dépendent du régime fiscal applicable : micro BNC ou normal.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32105</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024189476&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199053&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000026348033&amp;idSectionTA=LEGISCTA000006191365&amp;cidTexte=LEGITEXT000006069574</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23456</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Profession libérale, Artiste</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N23456">Impôt sur le revenu pour les professionnels</Niveau>
+<Niveau ID="F32105" type="Fiche d'information">Bénéfices non commerciaux (BNC) : régimes fiscaux et déclarations</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N23456">
+<Titre>Impôt sur le revenu pour les professionnels</Titre>
+<Fiche ID="F32919">Bénéfices industriels et commerciaux (BIC) : régimes fiscaux et déclarations</Fiche>
+<Fiche ID="F32105">Bénéfices non commerciaux (BNC) : régimes fiscaux et déclarations</Fiche>
+<Fiche ID="F32155">Bénéfices non commerciaux (BNC) : détermination du résultat imposable</Fiche>
+<Fiche ID="F23267">Imposition du micro-entrepreneur (régime micro-fiscal et micro-social)</Fiche>
+<Fiche ID="F32805">Régime fiscal du loueur en meublé professionnel (LMP)</Fiche>
+<Fiche ID="F24315">Bénéfices agricoles</Fiche>
+<Fiche ID="F33814">Déduction des frais de déplacement du résultat fiscal d'une entreprise</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les bénéfices non commerciaux (BNC) constituent une catégorie de l'impôt sur le revenu, applicable aux personnes qui exercent une activité professionnelle non commerciale, à titre individuel ou comme associées de  sociétés, et font partie du revenu imposable.  Aucune distinction n'est faite entre le bénéfice de l'entreprise individuelle et la rémunération du professionnel. Ils sont soumis à des obligations déclaratives qui dépendent du régime fiscal applicable : micro BNC ou normal.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Activités et statuts juridiques concernés</Paragraphe>
+</Titre><Paragraphe>Sont soumis à l'imposition sur les bénéfices non commerciaux (BNC) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> bénéfices des <LienInterne LienPublication="F23458" type="Fiche d'information" audience="Professionnels">professions libérales</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> revenus des charges et offices (notaires, huissiers, greffiers, commissaires-priseurs, par exemple)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31984" type="Fiche Question-réponse" audience="Professionnels">droits d'auteur</LienInterne> et revenus de certaines professions des secteurs de la communication et de l'information (créateur publicitaire par exemple)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>revenus de la propriété industrielle perçus par un particulier</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>revenus des prêtres</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>revenus des intermédiaires ou agents transparents qui agissent au nom et pour le compte de leurs clients</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> revenus accessoires perçus par les professions non commerciales dans le prolongement de leur activité, etc.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les professionnels libéraux  peuvent recourir à différents <LienInterne LienPublication="F23458" type="Fiche d'information" audience="Professionnels">statuts</LienInterne> : entrepreneur individuel, société classique, mais aussi structures spécifiques, comme la société civile professionnelle (SCP) ou la société d'exercice libéral (SEL).</Paragraphe>
+<Paragraphe>Les <LienInterne LienPublication="F23458" type="Fiche d'information" audience="Professionnels">sociétés d'exercice libéral</LienInterne> sont soumises au régime des sociétés de capitaux et assujetties à l'impôt sur les sociétés, sauf <LienInterne LienPublication="F31265" type="Fiche Question-réponse" audience="Professionnels">option contraire</LienInterne> (option possible pour une <LienInterne LienPublication="R38722" type="Sigle">EURL</LienInterne>ou une <LienInterne LienPublication="R24383" type="Sigle">SARL</LienInterne> de famille).</Paragraphe>
+<Paragraphe>Des revenus commerciaux ou agricoles, perçus dans le cadre d'une profession libérale, peuvent aussi être imposés dans la catégorie des BNC, à condition de découler de l'activité non commerciale, dont les recettes doivent rester prépondérantes.</Paragraphe>
+<Paragraphe>Sont toutefois imposés dans la catégorie des traitements et salaires :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> les médecins salariés d'un établissement, avocats salariés d'un cabinet, etc. quand ils exercent leur activité en état de subordination vis-à-vis d'un employeur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> les écrivains et compositeurs, quand les <LienInterne LienPublication="F31984" type="Fiche Question-réponse" audience="Professionnels">droits d'auteur</LienInterne> sont intégralement déclarés par des tiers.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Régimes fiscaux des BNC</Paragraphe>
+</Titre><Paragraphe>Le bénéfice imposable est variable selon le chiffre d'affaires annuel (chiffre d'affaires effectivement encaissé).</Paragraphe>
+<Tableau>
+<Colonne largeur="33" type="header"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule/>
+<Cellule>
+<Paragraphe>Régime spécial BNC (micro-entreprise ou micro BNC)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration contrôlée</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Conditions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Chiffre d'affaires annuel hors taxe (CAHT) inférieur à <Valeur>33 100 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>CAHT supérieur à <Valeur>33 100 €</Valeur>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou sur option avant le 2e jour ouvré suivant le 1er mai de l'année suivante (option valable 2 ans). </Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Détermination du bénéfice imposable</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Application d'un abattement forfaitaire pour frais professionnels de 34 %, avec un minimum d'abattement de <Valeur>305 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Imposition assise sur les bénéfices nets </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Revenu à déclarer</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Recettes brutes (hors TVA, sans déduire aucun abattement) + éventuelles plus ou moins-values réalisées</Paragraphe>
+</Cellule>
+<Cellule/>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Déclarations fiscales</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe> <LienInterne LienPublication="R36751" type="Formulaire" audience="Professionnels">n°2042 C pro</LienInterne> dans la rubrique « régime spécial BNC »</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="R1281" type="Formulaire" audience="Professionnels">n°2042</LienInterne> en cas d'option pour le versement libératoire (auto-entrepreneur)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="R36751" type="Formulaire" audience="Professionnels">n°2042 C pro</LienInterne> dans la rubrique « régime de la déclaration contrôlée »</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration de résultat des BNC <LienInterne LienPublication="R14113" type="Formulaire" audience="Professionnels">n°2035</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>détermination du résultat fiscal au moyen de <LienInterne LienPublication="R18262" type="Formulaire" audience="Professionnels">l'annexe n°2035 A</LienInterne> et   <LienInterne LienPublication="R18263" type="Formulaire" audience="Professionnels">l'annexe n°2035 B</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Un professionnel, soumis au micro BNC, peut opter pour le <LienInterne LienPublication="F23267" type="Fiche d'information" audience="Professionnels">versement libératoire de l'impôt sur le revenu</LienInterne>. L'impôt sur le revenu correspond à 2,2 % du chiffre d'affaires.</Paragraphe>
+<Paragraphe>Quel que soit le chiffre d'affaires, la déclaration n°2035 doit être obligatoirement effectuée en ligne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par la <LienExterne URL="http://www2.impots.gouv.fr/e_service_pro/edi/intro.htm">procédure EDI-TDFC</LienExterne>
+
+, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit sur le <LienInterne LienPublication="R14668" type="Téléservice" audience="Professionnels">compte fiscal en ligne pour les professionnels (mode EFI)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les sociétés et groupements, non soumis à l'impôt sur les sociétés (IS) et placés sous le régime de la déclaration contrôlée, doivent souscrire l'annexe <LienInterne LienPublication="R36852" type="Formulaire" audience="Professionnels">n°2035 AS</LienInterne> destinée à faire apparaître la répartition des résultats entre les associés.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe> les BNC sont inclus dans le revenu imposable du foyer fiscal, qui prend en compte le montant total des BNC :  la déduction forfaitaire automatique de 10 % représentative de frais professionnels, valable  pour les salaires, n'est pas applicable aux bénéfices des professionnels.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F23458" audience="Professionnels">
+<Titre>Déclaration d'activité pour les professions libérales</Titre>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F32042" audience="Professionnels">
+<Titre>Régime fiscal d'une société civile de moyens (SCM)</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024189476&amp;cidTexte=LEGITEXT000006069577" ID="R37043">
+<Titre>Code général des impôts : article 102 ter</Titre>
+<Complement>Régime spécial des BNC (micro BNC)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199053&amp;cidTexte=LEGITEXT000006069577" ID="R37041">
+<Titre>Code général des impôts : articles 96 à 100 bis</Titre>
+<Complement>Régime de la déclaration contrôlée</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000026348033&amp;idSectionTA=LEGISCTA000006191365&amp;cidTexte=LEGITEXT000006069574" ID="R37042">
+<Titre>Code général des impôts, annexe 3 : articles 40 A à 41-0 bis</Titre>
+<Complement>Déclarations des BNC</Complement>
+</Reference>
+<ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36751" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_279.pdf" format="application/pdf" poids="148.4 KB" numerocerfa="11222*19" autrenumero="2042-C-PRO" type="Formulaire">
+<Titre>Déclaration 2016 complémentaire des revenus des professions non salariées</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1281" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_268.pdf" format="application/pdf" poids="178.4 KB" numerocerfa="10330*20" autrenumero="2042" type="Formulaire">
+<Titre>Déclaration 2016 des revenus (papier)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R15720" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-notmv/2016/2041-notmv_27.pdf" numerocerfa="50796#16" format="application/pdf" poids="614.7 KB">Notice générale pour remplir les déclarations n°2042, 2042-C et 2042-C-PRO</NoticeLiee>
+<NoticeLiee ID="R40459" URL="https://www.impots.gouv.fr/portail/node/9143" numerocerfa="15018*03 (2041 FDC)">Déclaration des revenus - Fiche facultative de calculs</NoticeLiee>
+<NoticeLiee ID="R36611" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gv/2016/2041-gv_570.pdf" numerocerfa="50988#12" format="application/pdf" poids="0">Notice revenus 2015 : résidence alternée d'enfants mineurs</NoticeLiee>
+<NoticeLiee ID="R36724" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gp/2016/2041-gp_551.pdf" numerocerfa="50688#18" format="application/pdf" poids="103.5 KB">Notice revenus 2015 : allocations pour frais d'emploi</NoticeLiee>
+<NoticeLiee ID="R36723" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gt/2016/2041-gt_566.pdf" numerocerfa="50883#15">Notice revenus de 2015 : plafonnement des effets du quotient familial</NoticeLiee>
+<NoticeLiee ID="R36692" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gh/2016/2041-gh_531.pdf" numerocerfa="50149#20" format="application/pdf" poids="65.3 KB">Notice N°2041-GH - Revenus exceptionnels ou différés et cas particuliers</NoticeLiee>
+<NoticeLiee ID="R40371" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gn/2016/2041-gn_578.pdf" numerocerfa="50154#21" format="application/pdf" poids="118.8 KB">Notice revenus 2015 : revenus des valeurs et capitaux mobiliers (RCM)</NoticeLiee>
+<NoticeLiee ID="R36721" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gr/2016/2041-gr_555.pdf" numerocerfa="50794#17" format="application/pdf" poids="330.1 KB">Notice revenus 2015 : Travaux dans l'habitation principale</NoticeLiee>
+<NoticeLiee ID="R36677" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gm/2016/2041-gm_547.pdf" numerocerfa="50153#21">Notice revenus 2015 : BIC non professionnels : revenus de locations meublées et autres activités BIC non professionnelles</NoticeLiee>
+<NoticeLiee ID="R43226" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-e/2016/2041-e_251.pdf" numerocerfa="50318#19" format="application/pdf" poids="257.7 KB">Notice revenus 2015 : personnes fiscalement domiciliées hors de France</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14113" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11176*19" autrenumero="2035-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Régime de la déclaration contrôlée</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18262" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11177*19" autrenumero="2035-A-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Compte de résultat fiscal</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18263" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11178*19" autrenumero="2035 B" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Compte de résultat fiscal 2e partie</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36852" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="10299*16" autrenumero="2035-AS-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Annexe de la déclaration contrôlée concernant les associés</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18264" URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4853&amp;typePage=ifi01" numerocerfa="11700*16" autrenumero="2035-E-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Détermination de la valeur ajoutée produite au cours de l'exercice</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18265" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11701*17" autrenumero="2035-F-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Composition du capital social</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18266" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11703*17" autrenumero="2035-G-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Liste des filiales et participations</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41021" URL="https://www.impots.gouv.fr/portail/node/9692" audience="Professionnels" format="application/pdf" poids="0">
+<Titre>Comment déclarer le résultat BNC en ligne ?</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17208" URL="https://www.impots.gouv.fr/portail/www2/precis/precis.html" audience="Professionnels">
+<Titre>L'essentiel sur les BNC</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R24383" type="Sigle">
+<Titre>SARL</Titre>
+<Texte>
+<Paragraphe>Société à responsabilité limitée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R38722" type="Sigle">
+<Titre>EURL</Titre>
+<Texte>
+<Paragraphe>Entreprise unipersonnelle à responsabilité limitée</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F32353" audience="Professionnels">Micro-entrepreneur : que se passe-t-il en cas de dépassement du seuil du chiffre d'affaires ?</QuestionReponse>
+<QuestionReponse ID="F31984" audience="Professionnels">Quelle est l'imposition des droits d'auteur ?</QuestionReponse>
+<QuestionReponse ID="F23629" audience="Professionnels">Quels revenus doivent déclarer les professionnels soumis à l'impôt sur le revenu ?</QuestionReponse>
+<QuestionReponse ID="F23543" audience="Professionnels">Quelles déclarations fiscales professionnelles doivent être dématérialisées ?</QuestionReponse>
+<QuestionReponse ID="F31212" audience="Professionnels">Un professionnel peut-il déduire ses frais de repas ?</QuestionReponse>
+<QuestionReponse ID="F23257" audience="Professionnels">Micro-entrepreneur : quand déclarer son chiffre d'affaires ?</QuestionReponse>
+</Publication>

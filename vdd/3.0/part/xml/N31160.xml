@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N31160" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Droits de succession et de donation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Droits de succession et de donation : Droits de succession, Droits de donation</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-10</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N31160</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N31160" type="Dossier">Droits de succession et de donation</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere>
+<SousDossier ID="N31160-1">
+<Titre>Droits de succession</Titre><Fiche ID="F80">Déclaration</Fiche>
+<Fiche ID="F17456">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14198">Calcul et paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N31160-2">
+<Titre>Droits de donation</Titre><Fiche ID="F10203">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14205">Calcul et paiement</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N173" audience="Particuliers">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N16265" audience="Particuliers">
+<Titre>Préparer sa succession : testament</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31162" audience="Particuliers">
+<Titre>Préparer sa succession : donation</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N171" audience="Particuliers">
+<Titre>Règlement d'une succession</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31080" audience="Particuliers">
+<Titre>Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales sur les droits à régler</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R41461" URL="http://www.impots.gouv.fr" audience="Particuliers">
+<Titre>Le site des impôts : impots.gouv.fr</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F14203" audience="Particuliers">Quels abattements et tarifs s'appliquent aux bénéficiaires d'une donation ?</QuestionReponse>
+<QuestionReponse ID="F32272" audience="Particuliers">Rapport civil et rapport fiscal dans une succession : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F1265" audience="Particuliers">Quelles sont les démarches fiscales à effectuer en cas de don manuel ?</QuestionReponse>
+<QuestionReponse ID="F418" audience="Particuliers">Quel contrôle le fisc peut-il exercer sur une déclaration de succession ?</QuestionReponse>
+
+</Publication>

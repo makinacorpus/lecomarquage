@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N32" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance automobile (véhicule)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Assurance automobile (véhicule) : Souscription et vie du contrat, Prime, Sinistre, Indemnisation du sinistre</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-09</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N32</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N32" type="Dossier">Assurance automobile (véhicule)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20263">Assurance</SousThemePere>
+<SousDossier ID="N32-1">
+<Titre>Souscription et vie du contrat</Titre><Fiche ID="F31325">Souscription du contrat</Fiche>
+<Fiche ID="F2628">Assurance obligatoire ou "au tiers"</Fiche>
+<Fiche ID="F2622">Assurances facultatives et "tous risques"</Fiche>
+<Fiche ID="F1362">Attestation et certificat d'assurance</Fiche>
+<Fiche ID="F2595">Modification du contrat</Fiche>
+<Fiche ID="F2659">Résiliation du contrat</Fiche>
+<Fiche ID="F3052">Recours et litiges</Fiche>
+</SousDossier>
+<SousDossier ID="N32-2">
+<Titre>Prime</Titre><Fiche ID="F2599">Tarifs, cotisations et durée du contrat</Fiche>
+<Fiche ID="F2655">Bonus-malus</Fiche>
+<Fiche ID="F2663">Jeunes conducteurs et surprime d'assurance</Fiche>
+</SousDossier>
+<SousDossier ID="N32-3">
+<Titre>Sinistre</Titre><Fiche ID="F2149">Accident et constat</Fiche>
+<Fiche ID="F2685">Vol du véhicule</Fiche>
+<Fiche ID="F2630">Accident sous l'emprise de l'alcool ou de stupéfiants</Fiche>
+</SousDossier>
+<SousDossier ID="N32-4">
+<Titre>Indemnisation du sinistre</Titre><Fiche ID="F2152">Indemnisation des dégâts matériels</Fiche>
+<Fiche ID="F2677">Indemnisation des victimes de dommages corporels</Fiche>
+<Fiche ID="F2692">Indemnisation du vol du véhicule</Fiche>
+<Fiche ID="F2679">Indemnisation par le FGAO</Fiche>
+</SousDossier><ServiceEnLigne ID="R20365" URL="http://www.conso.net/content/vous-r%C3%A9siliez-votre-contrat-%C3%A0-la-suite-de-la-vente-de-votre-v%C3%A9hicule-0" type="Modèle de document">
+<Titre>Résilier son assurance à la suite de la vente de son véhicule</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F2706" audience="Particuliers">Franchise d'assurance : comment fonctionne-t-elle ?</QuestionReponse>
+<QuestionReponse ID="F2694" audience="Particuliers">Mon assurance auto couvre-t-elle un voyage à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F21616" audience="Particuliers">La collision avec un animal sauvage est-elle indemnisée ?</QuestionReponse>
+<QuestionReponse ID="F31258" audience="Particuliers">Qu'est-ce que la garantie responsabilité civile ?</QuestionReponse>
+<QuestionReponse ID="F2632" audience="Particuliers">Quelle assurance en cas de prêt d'un véhicule entre particuliers ?</QuestionReponse>
+<QuestionReponse ID="F17611" audience="Particuliers">Doit-on informer son assureur de l'annulation de son permis de conduire ?</QuestionReponse>
+<QuestionReponse ID="F31403" audience="Particuliers">Quelle assurance pour pratiquer le covoiturage ?</QuestionReponse>
+<QuestionReponse ID="F31329" audience="Particuliers">Dois-je assurer moi-même un véhicule en leasing ?</QuestionReponse>
+<QuestionReponse ID="F2697" audience="Particuliers">Doit-on s'assurer lorsqu'on circule à vélo ?</QuestionReponse>
+<QuestionReponse ID="F1113" audience="Particuliers">Quels documents faut-il pour circuler en 2 roues (scooter, cyclo...) ?</QuestionReponse>
+<QuestionReponse ID="F2635" audience="Particuliers">Est-on assuré quand on utilise son véhicule personnel à titre professionnel ?</QuestionReponse>
+<QuestionReponse ID="F23420" audience="Particuliers">Quelle assurance pour une location occasionnelle ?</QuestionReponse>
+<QuestionReponse ID="F2626" audience="Particuliers">Comment assurer un tracteur ou un engin automoteur agricole ?</QuestionReponse>
+<QuestionReponse ID="F2662" audience="Particuliers">Dois-je modifier le contrat pour mon enfant en conduite accompagnée?</QuestionReponse>
+<QuestionReponse ID="F21619" audience="Particuliers">Comment assurer une caravane ?</QuestionReponse>
+<QuestionReponse ID="F31416" audience="Particuliers">Faut-il une assurance pour conduire une voiture sans permis ?</QuestionReponse>
+<QuestionReponse ID="F2682" audience="Particuliers">Assurance : que devient le véhicule accidenté ?</QuestionReponse>
+<QuestionReponse ID="F2660" audience="Particuliers">Que faire si les assurances refusent d'assurer un véhicule ?</QuestionReponse>
+<QuestionReponse ID="F23499" audience="Particuliers">Un véhicule doit-il être assuré même s'il n'est pas utilisé ?</QuestionReponse>
+<QuestionReponse ID="F31417" audience="Particuliers">Faut-il assurer une voiture de collection ?</QuestionReponse>
+<QuestionReponse ID="F31259" audience="Particuliers">Quel est le délai de prescription en matière d'assurance ?</QuestionReponse>
+<QuestionReponse ID="F2664" audience="Particuliers">Assurance : que faire si vous vendez votre véhicule ?</QuestionReponse>
+<QuestionReponse ID="F31268" audience="Particuliers">Comment se déroule l'expertise ?</QuestionReponse>
+<QuestionReponse ID="F31609" audience="Particuliers">Assurance auto : est-on indemnisé du préjudice indirect causé par un accident ?</QuestionReponse>
+</Publication>

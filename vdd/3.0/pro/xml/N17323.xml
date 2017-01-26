@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N17323" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Assurance</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N17323</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24266</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N17323" type="Dossier">Assurance</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31389">Financement - Assurances</SousThemePere>
+<Fiche ID="F23667">Obligation d'assurance des entreprises</Fiche>
+<Fiche ID="F22259">Agriculteurs : indemnisation des pertes occasionnées par des aléas climatiques</Fiche><VoirAussi important="non">
+<Fiche ID="F2034" audience="Professionnels">
+<Titre>Garantie décennale en assurance construction</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R13044" URL="https://www.orias.fr/welcome" type="Téléservice">
+<Titre>Consultation du registre des intermédiaires en assurance</Titre>
+<Source ID="R30744">Organisme pour le registre des intermédiaires en assurance (Orias)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R17327" URL="http://www.ffa-assurance.fr/glossaire/letter_a" audience="Professionnels">
+<Titre>Le vocabulaire de l'assurance</Titre>
+<Source ID="R30626">Fédération française des sociétés d'assurances (FFSA)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F23668" audience="Professionnels">Un micro-entrepreneur doit-il être obligatoirement assuré ?</QuestionReponse>
+<QuestionReponse ID="F2626" audience="Professionnels">Comment assurer un tracteur ou un engin automoteur agricole ?</QuestionReponse>
+<QuestionReponse ID="F32258" audience="Professionnels">Que devient la garantie décennale en cas de dépôt de bilan du constructeur ?</QuestionReponse>
+</Publication>

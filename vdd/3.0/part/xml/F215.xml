@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F215" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'une école de reconversion professionnelle de l'Onac-VG ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>L'école de l'Office national des anciens combattants et victimes de guerre (Onac-VG) propose des formations diplômantes afin de favoriser le retour à l'emploi de personnes en situation de handicap. Il existe 9 écoles en France.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F215</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N198</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N198">Formation des personnes handicapées</Niveau>
+<Niveau ID="F215" type="Fiche Question-réponse">Qu'est-ce qu'une école de reconversion professionnelle de l'Onac-VG ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20176">Formation</SousThemePere><DossierPere ID="N198">
+<Titre>Formation des personnes handicapées</Titre>
+<Fiche ID="F219">Contrat d'apprentissage</Fiche>
+<Fiche ID="F211">Centre de pré-orientation</Fiche>
+<Fiche ID="F212">Contrat ou stage de rééducation professionnelle</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'école de l'Office national des anciens combattants et victimes de guerre (Onac-VG) propose des formations diplômantes afin de favoriser le retour à l'emploi de personnes en situation de handicap. Il existe 9 écoles en France.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>L'école offre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une formation permettant d'obtenir un diplôme ou une <LienInterne LienPublication="F199" type="Fiche Question-réponse" audience="Particuliers">certification de niveau V (CAP) à III (BTS)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et un accompagnement médical, social et professionnel (par exemples, démarche de validation des acquis de l'expérience, entraînement à la recherche d'un emploi).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Bénéficiaire</Paragraphe>
+</Titre><Paragraphe>L'école est ouverte à toute personne <LienInterne LienPublication="F1650" type="Fiche Question-réponse" audience="Particuliers">reconnue travailleur handicapé</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Vous devez dans un 1<Exposant>er</Exposant> temps prendre contact avec le responsable de l'<LienIntra LienID="R41285" type="National">établissement choisi</LienIntra> afin de vous informer sur les spécificités de la formation (durée et calendrier, contenu...).</Paragraphe>
+<Paragraphe>Vous pourrez ensuite passer éventuellement des tests d'évaluation de compétences.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût de la formation</Paragraphe>
+</Titre><Paragraphe>Gratuit</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R41285" type="National">
+<Titre>École de reconversion professionnelle de l'Onac-VG</Titre>
+<Complement>Pour faire la démarche d'inscription</Complement>
+<RessourceWeb URL="http://www.onac-vg.fr/fr/carte/domaine/id:2/"/>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</OuSAdresser>
+<QuestionReponse ID="F221" audience="Particuliers">Quelles formations sont accessibles à une personne en situation de handicap ?</QuestionReponse>
+<QuestionReponse ID="F1650" audience="Particuliers">Comment être reconnu "travailleur handicapé" ?</QuestionReponse>
+</Publication>

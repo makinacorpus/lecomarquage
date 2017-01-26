@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N24265" type="Theme" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Fiscalité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Fiscalité</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Thème</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N24265</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Thème</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265" type="Theme">Fiscalité</Niveau>
+</FilDAriane>
+<SousTheme ID="N10736">
+<Titre>Impôts liés au chiffre d'affaires</Titre><Dossier ID="N13442">Imposition des sociétés</Dossier>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</SousTheme>
+<SousTheme ID="N22249">
+<Titre>Impôts locaux</Titre><Dossier ID="N13443">Contribution économique territoriale (CET)</Dossier>
+<Dossier ID="N22470">Taxes foncières</Dossier>
+<Dossier ID="N22471">Taxes et redevances locales</Dossier>
+</SousTheme>
+<SousTheme ID="N23457">
+<Titre>Autres impôts et taxes</Titre><Dossier ID="N13444">Taxes liées aux salaires</Dossier>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</SousTheme>
+<SousTheme ID="N22251">
+<Titre>Relations avec l'administration fiscale</Titre><Dossier ID="N23594">Réclamations - Contentieux fiscaux</Dossier>
+<Dossier ID="N10812">Allégements fiscaux</Dossier>
+</SousTheme><VoirAussi important="non">
+<Fiche ID="F31190" audience="Professionnels">
+<Titre>Quels sont les numéros d'identification des entreprises ?</Titre>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+</Publication>

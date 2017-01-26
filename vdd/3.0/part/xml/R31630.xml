@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31630" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander réparation en cas de tromperie suite à l'achat d'une voiture d'occasion</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Permet à l'acheteur, qui a été trompé sur l'état réel du véhicule qu'il a acheté d'occasion, de demander au vendeur de prendre en charge les réparations chez le garagiste ou de reprendre le véhicule et d'obtenir le remboursement de la somme versée</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-30</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31630</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N24253">Véhicule</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31630" type="Modèle de document">Demander réparation en cas de tromperie suite à l'achat d'une voiture d'occasion</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet à l'acheteur, qui a été trompé sur l'état réel du véhicule qu'il a acheté d'occasion, de demander au vendeur de prendre en charge les réparations chez le garagiste ou de reprendre le véhicule et d'obtenir le remboursement de la somme versée</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.conso.net/content/vous-avez-%C3%A9t%C3%A9-tromp%C3%A9e-sur-l%E2%80%99%C3%A9tat-r%C3%A9el-du-v%C3%A9hicule-que-vous-venez-d%E2%80%99acheter-d%E2%80%99occasion">
+<Source>Institut national de la consommation (INC)</Source>
+</LienWeb>
+<FicheLiee ID="F24254" audience="Particuliers" type="Fiche avec liens externes">
+<Titre>Achat d'un véhicule chez un professionnel</Titre>
+<Dossier ID="N24253">Véhicule</Dossier>
+</FicheLiee>
+<Dossier ID="N24253">
+<Titre>Véhicule</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

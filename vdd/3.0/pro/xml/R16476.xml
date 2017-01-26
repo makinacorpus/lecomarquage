@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R16476" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'aide du contrat unique d'insertion (CUI)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Demande d'aide du contrat unique d'insertion (CUI) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-24</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R16476</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N23663">Aides à l'embauche</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R16476" type="Formulaire">Demande d'aide du contrat unique d'insertion (CUI)</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14818*02</NumeroCerfa>
+<Texte><Paragraphe>Un exemplaire est remis à chaque signataire. L'original est adressé à l'Agence de services et de paiement (ASP), qui se charge ensuite du versement mensuel de l'aide. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>ce formulaire n'est pas à remplir si la demande d'aide est effectuée auprès de Pôle emploi ou d'une mission locale, la demande d'aide s'effectue alors auprès du conseiller.</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14818.do">
+<Source>Ministère en charge du travail</Source>
+</LienWeb><NoticeLiee ID="R12881" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51681&amp;cerfaFormulaire=14818" numerocerfa="51681#02">Notice de la demande d'aide du contrat unique d'insertion (CUI)</NoticeLiee>
+
+<FicheLiee ID="F33329" audience="Professionnels" type="Fiche d'information">
+<Titre>Contrat unique d'insertion (CUI)</Titre>
+<Dossier ID="N23663">Aides à l'embauche</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

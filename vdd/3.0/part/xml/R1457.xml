@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1457" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Étranger mineur - Demande d'un titre d'identité républicain (TIR) ou d'un document de circulation (DCEM)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Spécimen : ce modèle est communiqué à titre d'information, afin que l'usager puisse en prendre connaissance préalablement à sa démarche. Il reste indispensable d'utiliser les documents directement fournis par les services administratifs, en vertu des textes applicables à cette procédure. Permet à l'enfant étranger, après un voyage à l'étranger, d'être réadmis en France ou aux frontières extérieures de l'Espace Schengen.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-02</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1457</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N110">Titres, documents de séjour et de circulation des étrangers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1457" type="Formulaire">Étranger mineur - Demande d'un titre d'identité républicain (TIR) ou d'un document de circulation (DCEM)</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11203*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>
+Spécimen : ce modèle est communiqué à titre d'information, afin que l'usager puisse en prendre connaissance préalablement à sa démarche. Il reste indispensable d'utiliser les documents directement fournis par les services administratifs, en vertu des textes applicables à cette procédure.</Paragraphe>
+<Paragraphe>Permet à l'enfant étranger, après un voyage à l'étranger, d'être réadmis en France ou aux frontières extérieures de l'Espace <Expression>Schengen</Expression>.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.interieur.gouv.fr/content/download/32948/245762/file/cerfa-11203-02.pdf" format="application/octet-stream" poids="18.0 KB">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb><NoticeLiee ID="R24630" URL="http://www.interieur.gouv.fr/content/download/32949/245767/file/notice-50626-01.pdf" numerocerfa="50626#01" format="application/octet-stream" poids="39.7 KB">Pièces exigées pour une demande de titre d'identité républicain (TIR) ou de document de circulation (DCEM)</NoticeLiee>
+
+<FicheLiee ID="F2718" audience="Particuliers" type="Fiche d'information">
+<Titre>Document de circulation pour étranger mineur (DCEM)</Titre>
+<Dossier ID="N110">Titres, documents de séjour et de circulation des étrangers</Dossier>
+</FicheLiee>
+<FicheLiee ID="F297" audience="Particuliers" type="Fiche d'information">
+<Titre>Mineur étranger né en France : titre d'identité républicain (TIR)</Titre>
+<Dossier ID="N110">Titres, documents de séjour et de circulation des étrangers</Dossier>
+</FicheLiee>
+<Dossier ID="N110">
+<Titre>Titres, documents de séjour et de circulation des étrangers</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

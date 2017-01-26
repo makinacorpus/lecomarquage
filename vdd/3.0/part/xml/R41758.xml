@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R41758" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de copie de documents fonciers (pour la période antérieure au 1er janvier 1956)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Cet imprimé permet à tout usager de demander des copies de documents pour la période antérieure au 1 exposant er janvier 1956 (voir notice n° 3241-NOT-SD).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-05</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R41758</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R41758" type="Formulaire">Demande de copie de documents fonciers (pour la période antérieure au 1er janvier 1956)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11273*04</NumeroCerfa>
+<AutreNumero>3231-SD</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Cet imprimé permet à tout usager de demander des copies de documents pour la période antérieure au 1<Exposant>er</Exposant> janvier 1956 (voir notice n° 3241-NOT-SD).</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/9065">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F2618" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Que faire lorsque l'on a perdu son acte de propriété ?</Titre>
+<Dossier ID="N23245">Achat ou vente d'un logement</Dossier>
+</FicheLiee><OuSAdresser ID="R16801" type="Local personnalisé sur SP">
+<Titre>Centre des impôts fonciers et cadastre</Titre>
+<PivotLocal>centre_impots_fonciers</PivotLocal>
+<RessourceWeb URL="https://www.impots.gouv.fr/portail/contacts"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+</ServiceComplementaire>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R10191" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'ensemble des revenus des non-salariés agricoles et des cotisants solidaires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Concerne les revenus de 2014 (forfait) et 2015 (réel)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-03</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R10191</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N10805">Régimes sociaux des travailleurs indépendants</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R10191" type="Formulaire">Déclaration d'ensemble des revenus des non-salariés agricoles et des cotisants solidaires</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>10053*18</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Concerne les revenus de 2014 (forfait) et 2015 (réel)</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10053.do" format="application/pdf" poids="241.9 KB">
+<Source>Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</LienWeb><NoticeLiee ID="R3159" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50821&amp;cerfaFormulaire=10053" numerocerfa="50821#16">Notice explicative pour la déclaration des revenus des non-salariés agricoles et des cotisants solidaires</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="10781*17">
+<Titre>Feuille annexe de calcul pour la déclaration de revenus professionnels des non-salariés agricoles et des cotisants solidaires</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10781.do" format="application/pdf" poids="211.4 KB"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F23787" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisations et contributions sociales des exploitants agricoles</Titre>
+<Dossier ID="N10805">Régimes sociaux des travailleurs indépendants</Dossier>
+</FicheLiee><OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

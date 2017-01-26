@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2863" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Étudiant étranger : inscription directe auprès de l'université</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Si vous êtes étranger et voulez commencer une 1re année de licence en France, vous devez normalement demander votre admission préalable à l'université. Vous pouvez toutefois en être dispensé au vu de votre diplôme, de votre nationalité ou de la filière choisie. Vous pouvez directement vous inscrire dans l'enseignement supérieur, en suivant différentes procédures. Si vous souhaitez continuer vos études en France (2e année de licence, master...), vous devez aussi vous inscrire directement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-07</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2863</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000215117, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027864420&amp;cidTexte=LEGITEXT000006071191, http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029675463</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31346</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N31346">Étudiant étranger en France</Niveau>
+<Niveau ID="F2863" type="Fiche d'information">Étudiant étranger : inscription directe auprès de l'université</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N31346">
+<Titre>Étudiant étranger en France</Titre>
+<Fiche ID="F2864">Demande d'admission préalable à l'université</Fiche>
+<Fiche ID="F2863">Inscription directe à l'université</Fiche>
+<Fiche ID="F463">Faire comparer ou reconnaître un diplôme obtenu à l'étranger</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous êtes étranger et voulez commencer une 1re année de licence en France, vous devez normalement demander votre admission préalable à l'université. Vous pouvez toutefois en être  dispensé au vu de votre diplôme, de votre nationalité ou de la filière choisie. Vous pouvez directement vous inscrire dans l'enseignement supérieur, en suivant différentes procédures. Si vous souhaitez continuer vos études en France (2e année de licence, master...), vous devez aussi vous inscrire directement.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Commencer ses études en France</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Inscription en 1re année de licence</Paragraphe>
+</Titre><Paragraphe>Vous pouvez vous inscrire directement en 1re année de licence si vous êtes Européen (d'un pays de <LienIntra LienID="R42218" type="Définition de glossaire">l'Espace économique européen</LienIntra>), Suisse, Monégasque ou d'Andorre.</Paragraphe>
+<Paragraphe>L'inscription directe vous concerne aussi si vous êtes étranger hors <LienInterne LienPublication="R24622" type="Sigle">EEE</LienInterne> et dans un cas suivants : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>titulaire du bac français (ou d'un diplôme français admis en dispense) ou du bac européen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>venu  étudier en France dans le cadre d'un programme défini par un accord inter-gouvernemental ou par une convention inter-universitaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>enfant de diplomate en poste en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>boursier du gouvernement français, d'un organisme international ou d'un gouvernement étranger dont les bourses sont gérées par un organisme français agréé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ancien inscrit d'une formation post-bac dispensée par une école française.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La procédure d'inscription s'effectue en ligne via le site admission-postbac.fr.</Paragraphe><ServiceEnLigne ID="R19176" URL="https://dossier.admission-postbac.fr/Postbac/authentification" type="Téléservice">
+<Titre>Accéder à votre dossier d'inscription postbac</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+<Introduction>
+<Texte><Paragraphe>Pour suivre votre dossier d'admission postbac</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Paragraphe>Si vous êtes dans une autre situation, vous devez suivre la <LienInterne LienPublication="F2864" type="Fiche d'information" audience="Particuliers">procédure de demande d'admission préalable (DAP)</LienInterne>.</Paragraphe>
+<Paragraphe>Si vous êtes <LienInterne LienPublication="F15402" type="Fiche Question-réponse" audience="Particuliers">apatride</LienInterne> ou <LienInterne LienPublication="F15376" type="Fiche d'information" audience="Particuliers">réfugié ou bénéficiaire de la protection subsidiaire</LienInterne> par l'<LienInterne LienPublication="R31591" type="Acronyme">Ofpra</LienInterne>, vous êtes dispensé  de la <LienInterne LienPublication="F23476" type="Fiche d'information" audience="Particuliers">procédure d'admission post bac</LienInterne> et de la <LienInterne LienPublication="F2864" type="Fiche d'information" audience="Particuliers">demande d'admission préalable à l’université</LienInterne>. Vous devez candidater directement auprès de l'établissement.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Inscription en filière sélective universitaire (DUT, DEUST, DU)</Paragraphe>
+</Titre><Paragraphe>Pour vous pré-inscrire en filière sélective universitaire (<LienInterne LienPublication="R32377" type="Sigle">DUT</LienInterne>, <LienInterne LienPublication="R32378" type="Sigle">DEUST</LienInterne>, <LienInterne LienPublication="R32379" type="Sigle">DU</LienInterne>), 2 procédures sont prévues suivant votre pays :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si vous <LienExterne URL="http://www.campusfrance.org/fr/page/a-partir-dun-pays-a-procedure-cef">dépendez d'un pays relevant du dispositif Campus France</LienExterne>
+
+, vous devez vous inscrire en ligne sur l'espace Campus France de votre pays. </Paragraphe><ServiceEnLigne ID="R18575" URL="http://www.campusfrance.org/fr/page/procedure-cef-creez-votre-dossier" type="Téléservice">
+<Titre>Inscription dans l'enseignement supérieur français / demande de visa « étudiant » (procédure CEF) : création de compte Campus France</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</ServiceEnLigne>
+
+<Paragraphe>La procédure Campus France (CEF) concerne une trentaine de nationalités. Il existe une exception : si vous possédez un bac français ou européen, vous devez passer par le site admission-postbac.fr,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous dépendez d'un pays ne relevant pas du dispositif Campus France, vous devez effectuer votre inscription en ligne, via  le site admission-postbac.fr.</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R19176" URL="https://dossier.admission-postbac.fr/Postbac/authentification" type="Téléservice">
+<Titre>Accéder à votre dossier d'inscription postbac</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+<Introduction>
+<Texte><Paragraphe>Pour suivre votre dossier d'admission postbac</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Inscription en filière sélective non universitaire (BTS, grandes écoles...)</Paragraphe>
+</Titre><Paragraphe>Vous devez vous inscrire via  le site admission-postbac.fr si vous envisagez d'étudier dans une des filières suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>section de technicien supérieur (STS),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>classe préparatoire aux grandes écoles (CPGE),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>filière recrutant par voie de concours, jury d'admission ou sur titres ou dans tout autre établissement spécifique.</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R19176" URL="https://dossier.admission-postbac.fr/Postbac/authentification" type="Téléservice">
+<Titre>Accéder à votre dossier d'inscription postbac</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+<Introduction>
+<Texte><Paragraphe>Pour suivre votre dossier d'admission postbac</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Poursuivre ses études en France</Paragraphe>
+</Titre><Paragraphe>Vous êtes soumis aux mêmes règles  que l'étudiant français pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une 2e inscription en 1re année de licence,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une inscription en 2e ou 3e année de licence,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une inscription en master,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une inscription en doctorat.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous devez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe><LienExterne URL="http://www.campusfrance.org/fr/page/a-partir-dun-pays-a-procedure-cef">si vous relevez d'un pays Campus France</LienExterne>
+
+, vous inscrire en ligne sur l'espace Campus France de votre pays,</Paragraphe>
+</Item>
+</Liste><ServiceEnLigne ID="R18575" URL="http://www.campusfrance.org/fr/page/procedure-cef-creez-votre-dossier" type="Téléservice">
+<Titre>Inscription dans l'enseignement supérieur français / demande de visa « étudiant » (procédure CEF) : création de compte Campus France</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</ServiceEnLigne>
+
+<Liste type="puce">
+<Item>
+<Paragraphe>si vous ne relevez pas d'un pays Campus France, vous adresser directement auprès de l'université concernée.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les universités peuvent vérifier que votre niveau de compréhension du français est compatible avec la formation que vous envisagez.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à fournir pour l'inscription (tout niveau)</Paragraphe>
+</Titre><Paragraphe>Vous devez vous renseigner, suivant votre cas, sur   le site <LienInterne LienPublication="R19176" type="Téléservice" audience="Particuliers">admission-postbac.fr</LienInterne> ou sur <LienInterne LienPublication="R18575" type="Téléservice" audience="Particuliers">l'espace Campus France de votre pays</LienInterne> ou auprès de l'université choisie pour connaître la liste des pièces à fournir.</Paragraphe>
+<Paragraphe>Les copies certifiées conformes des titres donnant accès dans le pays d'origine à la formation envisagée et leur traduction en français sont toujours demandées.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réponse à la demande d'inscription (tout niveau)</Paragraphe>
+</Titre><Paragraphe>Vous recevez normalement une réponse écrite à votre demande d'inscription.</Paragraphe>
+<Paragraphe>Toutefois en l'absence de réponse écrite, votre demande d'inscription  : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>est refusée en filière sélective (BTS, IUT, grandes écoles ...),  si l'établissement ne vous a pas répondu dans un délai de 2 mois, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>est acceptée en filière non-sélective (licence, master...) si l'établissement ne vous a pas répondu dans un délai de 2 mois.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F23476" audience="Particuliers">
+<Titre>Procédure Admission Post Bac (APB) </Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<Complement>Pour toute information</Complement>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000215117" ID="R1754">
+<Titre>Loi n°2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations</Titre>
+<Complement>Accord en cas de silence gardé par l'administration plus de 2 mois sur une demande d'inscription en filière non-sélective...(article 21)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027864420&amp;cidTexte=LEGITEXT000006071191" ID="R11203">
+<Titre>Code de l'éducation : articles D612-11 à D612-18</Titre>
+<Complement>Étrangers dispensés de la procédure de demande d'admission préalable à l'université (articles D612-13 et D612-14)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029675463" ID="R38794">
+<Titre>Décret n°2014-1274 du 23 octobre 2014 relatif aux exceptions à l'application du principe "le silence vaut acceptation" (éducation et enseignement supérieur)</Titre>
+<Complement>Rejet en cas de silence gardé par l'administration pendant plus de 2 mois sur une demande d'inscription en filière sélective</Complement>
+</Reference>
+<ServiceEnLigne ID="R18575" URL="http://www.campusfrance.org/fr/page/procedure-cef-creez-votre-dossier" type="Téléservice">
+<Titre>Inscription dans l'enseignement supérieur français / demande de visa « étudiant » (procédure CEF) : création de compte Campus France</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19176" URL="https://dossier.admission-postbac.fr/Postbac/authentification" type="Téléservice">
+<Titre>Accéder à votre dossier d'inscription postbac</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R14784" URL="http://www.enseignementsup-recherche.gouv.fr/pid24759/venir-etudier-en-france.html" audience="Particuliers">
+<Titre>Venir étudier en France</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41769" URL="http://www.campusfrance.org/fr/page/a-partir-dun-pays-a-procedure-cef" audience="Particuliers">
+<Titre>Nationalités concernées par la procédure d'inscription en ligne Campus France</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R14783" URL="http://www.education.gouv.fr/pid8/le-systeme-educatif.html" audience="Particuliers">
+<Titre>Système éducatif en France</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<Definition ID="R42218">
+<Titre>Pays de l'Espace économique européen (EEE)</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Islande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède.</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R32377" type="Sigle">
+<Titre>DUT</Titre>
+<Texte>
+<Paragraphe>Diplôme universitaire de technologie</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R32378" type="Sigle">
+<Titre>DEUST</Titre>
+<Texte>
+<Paragraphe>Diplôme d'études universitaires scientifiques et techniques</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R31591" type="Acronyme">
+<Titre>Ofpra</Titre>
+<Texte>
+<Paragraphe>Office français de protection des réfugiés et apatrides</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R32379" type="Sigle">
+<Titre>DU</Titre>
+<Texte>
+<Paragraphe>Diplôme universitaire</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24622" type="Sigle">
+<Titre>EEE</Titre>
+<Texte>
+<Paragraphe>Espace économique européen</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F33980" audience="Particuliers">Un réfugié doit-il faire une demande d'acceptation préalable à l'université ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32456" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles aides peut percevoir un étudiant ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Selon sa situation, un étudiant peut bénéficier de certaines aides.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32456</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20398</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N20398">Bourses et aides pour l'étudiant</Niveau>
+<Niveau ID="F32456" type="Fiche Question-réponse">Quelles aides peut percevoir un étudiant ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N20398">
+<Titre>Bourses et aides pour l'étudiant</Titre>
+<Fiche ID="F12214">Bourse sur critères sociaux</Fiche>
+<Fiche ID="F1010">Aide au mérite</Fiche>
+<Fiche ID="F380">Aide à la mobilité internationale</Fiche>
+<Fiche ID="F1024">Allocation spécifique annuelle pour étudiant en difficulté</Fiche>
+<Fiche ID="F34073">Aide spécifique ponctuelle pour étudiant en difficulté</Fiche>
+<Fiche ID="F33845">Aide à la recherche d'un premier emploi (Arpe)</Fiche>
+<Fiche ID="F17482">Allocation pour la diversité dans la fonction publique</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Selon sa situation, un étudiant peut bénéficier de certaines aides.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Aides auxquelles un étudiant peut prétendre</Titre>
+<Colonne largeur="15" type="header"/>
+<Colonne largeur="15" type="normal"/>
+<Colonne largeur="12" type="normal"/>
+<Colonne largeur="14" type="normal"/>
+<Colonne largeur="21" type="normal"/>
+<Colonne largeur="14" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Type d'allocation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Situation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Âge maximum</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant de l'aide annuelle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Cumul possible</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Conditions</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Bourse sur critères sociaux (BCS)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Étudiant qui rencontre des difficultés matérielles pour poursuivre ses études</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>28 ans, sauf cas d’exception</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>6 661 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Aide au mérite,</Paragraphe>
+<Paragraphe>Allocation pour la diversité dans la fonction publique,</Paragraphe>
+<Paragraphe>Aide à la mobilité internationale,</Paragraphe>
+<Paragraphe>Aide d'urgence ponctuelle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F12216" type="Fiche Question-réponse" audience="Particuliers">Conditions d'attribution de la BCS</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aide au mérite</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Étudiant boursier ayant obtenu la mention <Expression>Très bien</Expression> au Bac</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>28 ans, sauf cas d'exception</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>900 €</Valeur> et <Valeur>1 800 €</Valeur> selon votre situation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Bourse sur critères sociaux,</Paragraphe>
+<Paragraphe>Aide à la mobilité internationale,</Paragraphe>
+<Paragraphe>Aide d'urgence</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1010" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'aide au mérite</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation pour la diversité dans la fonction publique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Étudiant préparant un concours de la fonction publique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>-</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Bourse sur critères sociaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F17482" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'allocation pour la diversité</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aide à la mobilité internationale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Étudiant souhaitant suivre une formation supérieure à l'étranger ou faire un stage international</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>28 ans, sauf cas d'exception</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>3 600 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Bourse sur critères sociaux,</Paragraphe>
+<Paragraphe>Aide au mérite,</Paragraphe>
+<Paragraphe>Aide d'urgence annuelle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F380" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'aide à la mobilité</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Aide d'urgence</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Étudiant rencontrant des difficultés financières</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>35 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>4 778 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>S'il s'agit d"une aide ponctuelle :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Bourse sur critères sociaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Aide à la mobilité internationale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Aide au mérite</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1024" type="Fiche d'information" audience="Particuliers">Conditions d'attribution de l'aide d'urgence</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>l'étudiant peut également bénéficier sous condition d'aides ou d'allocations locales, mais aussi selon sa situation d'<LienInterne LienPublication="F1563" type="Fiche Question-réponse" audience="Particuliers">aide au logement</LienInterne>.</Paragraphe>
+</ANoter>
+</Texte><VoirAussi important="non">
+<Dossier ID="N20398" audience="Particuliers">
+<Titre>Bourses et aides pour l'étudiant</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R16797" type="Local personnalisé sur SP">
+<Titre>Crous</Titre>
+<Complement>Pour des renseignements complémentaires</Complement>
+<PivotLocal>crous</PivotLocal>
+<RessourceWeb URL="http://www.cnous.fr/_cnous__dossier_3.17.66.htm" commentaireLien="Centre régional des oeuvres universitaires et scolaires"/>
+<Source ID="R30627">Centre national des oeuvres universitaires et scolaires (CNOUS)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<Complement>Pour des informations complémentaires</Complement>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+<ServiceEnLigne ID="R16390" URL="https://www.messervices.etudiant.gouv.fr/envole/portal/index.php#tab/1" commentaireLien="Sélectionnez Demande DSE (bourse/logement)" type="Téléservice">
+<Titre>Portail MesServices.etudiant.gouv.fr</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18296" URL="http://www.etudiant.gouv.fr/cid97527/simulateur-de-bourse.html" type="Simulateur">
+<Titre>Étudiant : calculer votre droit à bourse sur critères sociaux</Titre>
+<Source ID="R30627">Centre national des oeuvres universitaires et scolaires (CNOUS)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R35460" URL="https://www.legifrance.gouv.fr/eli/arrete/2016/7/22/MENS1618452A/jo#JORFARTI000032950793" audience="Particuliers">
+<Titre>Plafonds de ressources à ne pas dépasser pour bénéficier d'une bourse étudiante</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F12216" audience="Particuliers">Bourse étudiante : comment préparer le DSE (dossier social étudiant) ?</QuestionReponse>
+</Publication>

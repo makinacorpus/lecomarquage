@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1387" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels sont les recours possibles après un jugement du conseil de prud'hommes ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Trois différentes voies de recours sont prévues pour contester le jugement du conseil de prud'hommes (CPH) : appel, cassation et opposition.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-27</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1387</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018535942&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018535970&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018535936&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018536024&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N470</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N470">Conflits du travail dans le secteur privé</Niveau>
+<Niveau ID="F1387" type="Fiche Question-réponse">Quels sont les recours possibles après un jugement du conseil de prud'hommes ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19966">Relations individuelles et collectives de travail</SousThemePere><DossierPere ID="N470">
+<Titre>Conflits du travail dans le secteur privé</Titre>
+<Fiche ID="F117">Droit de grève</Fiche>
+<Fiche ID="F2234">Sanctions disciplinaires</Fiche>
+<Fiche ID="F2360">Saisine du conseil de prud'hommes (CPH)</Fiche>
+<Fiche ID="F1052">Déroulement d'une affaire aux prud'hommes</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Trois différentes voies de recours sont prévues pour contester le jugement du conseil de prud'hommes (CPH) : appel, cassation et opposition. Ces voies de recours sont ouvertes aux parties à des conditions qui varient selon les cas.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>La partie qui le souhaite peut <LienInterne LienPublication="F1384" type="Fiche d'information" audience="Particuliers">faire appel</LienInterne> du jugement rendu par le CPH. Le délai d'appel est fixé à 1 mois (ou 15 jours, si l'appel fait suite à une ordonnance de référé).</Paragraphe>
+<Paragraphe>Les actes de la procédure d'appel sont accomplis par l'avocat ou le défenseur syndical qui représente chaque partie. En appel, la représentation par un avocat ou un défenseur syndical est obligatoire.</Paragraphe>
+<Paragraphe>À l'issue du jugement en appel, il est possible de former un <LienInterne LienPublication="F1382" type="Fiche d'information" audience="Particuliers">pourvoi en cassation</LienInterne>, dans les 2 mois.</Paragraphe>
+<Paragraphe>Toutefois, si le défendeur n'a pas comparu (sans motif légitime) lors de l'audience devant le bureau de jugement, il peut former un recours en  <LienIntra LienID="R10914" type="Définition de glossaire">opposition</LienIntra> devant le bureau de jugement. Le délai d'opposition est fixé à 1 mois. Si la partie qui a fait opposition ne se présente pas à l'audience, il ne peut pas utiliser cette voie de recours une seconde fois.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Demande ne dépassant pas 4 000€</Paragraphe>
+</Titre><Paragraphe>Si les prétentions du demandeur ne dépassent pas  <Valeur>4 000 €</Valeur>, le CPH statue en dernier ressort. Dans ce cas, l'appel n'est pas possible.</Paragraphe>
+<Paragraphe>La partie qui conteste le jugement du conseil de prud'hommes peut alors former un <LienInterne LienPublication="F1382" type="Fiche d'information" audience="Particuliers">pourvoi en cassation</LienInterne>. Le délai de pourvoi en cassation est fixé à 2 mois.</Paragraphe>
+<Paragraphe>Toutefois, si le défendeur n'a pas comparu (sans motif légitime) lors de l'audience devant le bureau de jugement, il peut former un recours en  <LienIntra LienID="R10914" type="Définition de glossaire">opposition</LienIntra> devant le bureau de jugement. Le délai d'opposition est fixé à 1 mois. Si la partie qui a fait opposition ne se présente pas à l'audience, il ne peut pas utiliser cette voie de recours une seconde fois.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Demande reconventionnelle</Paragraphe>
+</Titre><Paragraphe>Le pourvoi en cassation s'impose en cas de <LienIntra LienID="R37479" type="Définition de glossaire">demande reconventionnelle</LienIntra> en dommage-intérêts (même supérieure à <Valeur>4 000 €</Valeur>). Cette demande doit être fondée exclusivement sur la demande initiale.</Paragraphe>
+<Paragraphe>Toutefois, si le défendeur n'a pas comparu (sans motif légitime) lors de l'audience devant le bureau de jugement, il peut former un recours en  <LienIntra LienID="R10914" type="Définition de glossaire">opposition</LienIntra> devant le bureau de jugement. Le délai d'opposition est fixé à 1 mois. Si la partie qui a fait opposition ne se présente pas à l'audience, il ne peut pas utiliser cette voie de recours une seconde fois.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Documents non remis par l'employeur</Paragraphe>
+</Titre><Paragraphe>Si le recours au CPH porte sur la remise par l'employeur des documents obligatoires (certificats de travail, bulletin de paie...), le CPH statue en dernier ressort. Dans ce cas, l'appel n'est pas possible.</Paragraphe>
+<Paragraphe>La partie qui conteste le jugement du conseil de prud'hommes peut alors former un <LienInterne LienPublication="F1382" type="Fiche d'information" audience="Particuliers">pourvoi en cassation</LienInterne>. Le délai de pourvoi en cassation est fixé à 2 mois.</Paragraphe>
+<Paragraphe>Toutefois, si le défendeur n'a pas comparu (sans motif légitime) lors de l'audience devant le bureau de jugement, il peut former un recours en  <LienIntra LienID="R10914" type="Définition de glossaire">opposition</LienIntra> devant le bureau de jugement. Le délai d'opposition est fixé à 1 mois. Si la partie qui a fait opposition ne se présente pas à l'audience, il ne peut pas utiliser cette voie de recours une seconde fois.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R15" type="Local personnalisé sur SP">
+<Titre>Conseil de prud'hommes</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>prudhommes</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-conseils-de-prudhommes-21779.html"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018535942&amp;cidTexte=LEGITEXT000006072050" ID="R2528">
+<Titre>Code du travail : articles R1461-1 à R1461-2</Titre>
+<Complement>Appel d'un jugement</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018535970&amp;cidTexte=LEGITEXT000006072050" ID="R10831">
+<Titre>Code du travail : articles R1455-9 à R1455-11</Titre>
+<Complement>Appel après un référé (article R1455-11)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018535936&amp;cidTexte=LEGITEXT000006072050" ID="R42454">
+<Titre>Code du travail : articles R1462-1 à R1462-3</Titre>
+<Complement>Pourvoi en cassation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018536024&amp;cidTexte=LEGITEXT000006072050" ID="R15956">
+<Titre>Code du travail : articles R1454-19 à R1454-28</Titre>
+<Complement>Opposition</Complement>
+</Reference>
+<Definition ID="R10914">
+<Titre>Opposition</Titre>
+<Texte>
+				<Paragraphe>Voie de recours en justice, civile ou pénale, ouverte aux personnes n'ayant pas eu connaissance d'un procès à leur encontre, et qui leur permet d'être à nouveau jugées par le même tribunal</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R37479">
+<Titre>Demande reconventionnelle</Titre>
+<Texte>
+				<Paragraphe>Demande de réparation formulée par la partie qui n'est pas à l'origine de la saisine du juge</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006410169&amp;cidTexte=LEGITEXT000006070716" ID="R37480">
+<Titre>Code de procédure civile : article 64</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F1379" audience="Particuliers">Comment obtenir la copie d'un jugement ?</QuestionReponse>
+</Publication>

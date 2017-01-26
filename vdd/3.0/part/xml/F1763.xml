@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1763" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Saisie-appréhension : livraison ou restitution d'un bien</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>La saisie-appréhension permet de restituer ou de livrer un bien réclamé par le demandeur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-10</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1763</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025025870&amp;idSectionTA=LEGISCTA000025026588&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938731&amp;idSectionTA=LEGISCTA000025938729&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025938733&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938747&amp;idSectionTA=LEGISCTA000025938745&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938757&amp;idSectionTA=LEGISCTA000025938755&amp;cidTexte=LEGITEXT000025024948</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N277</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N277">Saisies et recouvrements</Niveau>
+<Niveau ID="F1763" type="Fiche d'information">Saisie-appréhension : livraison ou restitution d'un bien</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20385">Réparation du préjudice</SousThemePere><DossierPere ID="N277">
+<Titre>Saisies et recouvrements</Titre><SousDossier ID="N277-1">
+<Titre>Saisie d'argent</Titre>
+<Fiche ID="F1850">Saisie sur compte bancaire</Fiche>
+<Fiche ID="F31716">Avis à tiers détenteur (ATD)</Fiche>
+<Fiche ID="F115">Saisie sur salaire (ou rémunération)</Fiche>
+<Fiche ID="F1437">Solde bancaire insaisissable (SBI)</Fiche>
+</SousDossier>
+<SousDossier ID="N277-2">
+<Titre>Saisie d'un bien</Titre>
+<Fiche ID="F1748">Saisie conservatoire</Fiche>
+<Fiche ID="F1751">Saisie-vente</Fiche>
+<Fiche ID="F1752">Saisie du véhicule</Fiche>
+<Fiche ID="F1763">Saisie-appréhension : livraison ou restitution d'un bien</Fiche>
+<Fiche ID="F16987">Saisie immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N277-3">
+<Titre>Recouvrement</Titre>
+<Fiche ID="F2272">Créance : recouvrement par un tiers</Fiche>
+<Fiche ID="F1744">Dommages-intérêts : aide au recouvrement</Fiche>
+<Fiche ID="F783">Calcul de l'intérêt légal</Fiche>
+<Fiche ID="F998">Pension alimentaire : recouvrement par paiement direct</Fiche>
+<Fiche ID="F2319">Pension alimentaire : recouvrement par saisie sur salaire</Fiche>
+<Fiche ID="F1000">Pension alimentaire : recouvrement par le biais du Trésor public</Fiche>
+<Fiche ID="F1002">Pension alimentaire : recouvrement par la Caf ou la MSA</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Saisie d'un bien</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La saisie-appréhension permet de restituer ou de livrer un bien réclamé par le demandeur.
+		
+			C'est le cas par exemple lorsqu'un magasin refuse de livrer un objet déjà payé ou lorsqu'une personne, une fois livrée, ne paie pas le reliquat. Cette saisie s'effectue dans le respect de procédures qui varient selon que l'huissier dispose ou non d'un titre exécutoire.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Procédure en l'absence de titre exécutoire</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Saisir le tribunal</Paragraphe>
+</Titre><Paragraphe>Si le <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra> ne détient pas de <LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra> ordonnant la remise du bien, il doit <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">saisir le juge de l'exécution</LienInterne> du <LienInterne LienPublication="R32853" type="Sigle">TGI</LienInterne> du domicile du <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra>, par <LienIntra LienID="R12542" type="Définition de glossaire">requête</LienIntra>.</Paragraphe>
+<Paragraphe>Il doit y joindre la description du bien réclamé et tous les documents justificatifs.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Ordonnance du juge</Paragraphe>
+</Titre><Paragraphe>Après réception de la demande, le juge rend une ordonnance d'injonction de délivrer ou de restituer le bien.</Paragraphe>
+<Paragraphe>L'ordonnance est adressée au débiteur, qui dispose de 15 jours :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit pour délivrer ou restituer le bien (à ses frais),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit pour former un recours auprès du même juge.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>En l'absence de livraison ou de restitution du bien</Paragraphe>
+</Titre><Paragraphe>Si le débiteur forme un recours, le créancier saisit de nouveau le juge de l'exécution, qui statue sur la délivrance ou la restitution du bien.</Paragraphe>
+<Paragraphe>Si le débiteur ne forme pas de recours (ou s'il n'est pas recevable), le créancier obtient alors une ordonnance revêtue de la formule exécutoire.</Paragraphe>
+<Paragraphe>La suite de la procédure est la même qu'en cas de possession d'un titre exécutoire.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Procédure en présence d'un titre exécutoire</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>En cas de saisie auprès du débiteur</Paragraphe>
+</Titre><Paragraphe>Si le créancier dispose d'un <LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra>, il peut s'adresser directement à un  <LienInterne LienPublication="F2158" type="Fiche d'information" audience="Particuliers">huissier de justice</LienInterne>.</Paragraphe>
+<Paragraphe>L'huissier adresse au débiteur un commandement de restituer ou de délivrer. Le document contient les éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la mention du titre exécutoire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'obligation faite au débiteur de restituer ou livrer le bien sous 8 jours, sous peine de saisie-appréhension à ses frais,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des informations sur les voies de recours de débiteur (possibilité de saisir le juge de l'exécution pour contester le commandement).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le bien peut aussi être appréhendé immédiatement, sans commandement préalable :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> si le débiteur est présent lors de la visite de l'huissier et sur présentation du titre exécutoire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et si le débiteur refuse de transporter à ses frais le bien dans un lieu indiqué par le commandement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Un acte de la remise volontaire ou de l'appréhension du bien est remis au débiteur.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>En cas de saisie auprès d'un tiers</Paragraphe>
+</Titre><Paragraphe>Si le bien est détenu par un tiers, l'huissier doit lui <LienIntra LienID="R10915" type="Définition de glossaire">signifier</LienIntra> une sommation de remettre ce bien. Elle est également adressée au débiteur par lettre recommandée avec accusé de réception (LRAR). Elle contient les éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une copie du titre exécutoire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une injonction de remettre le bien dans un délai de 8 jours ou de transmettre les raisons de son refus,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une information sur les voies de recours.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À l'issue du délai de 8 jours, en l'absence de remise volontaire du bien, le créancier peut demander au juge de l'exécution du TGI d'ordonner la remise de ce bien. Le juge doit être saisi dans le mois qui suit la sommation.</Paragraphe>
+<Paragraphe>Si le juge l'ordonne, le bien pourra être saisi.</Paragraphe>
+<Paragraphe>Un acte de saisie est adressé au tiers et au débiteur.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>Pour saisir le juge en l'absence de titre exécutoire ou en cas de recours contre la saisie</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025025870&amp;idSectionTA=LEGISCTA000025026588&amp;cidTexte=LEGITEXT000025024948" ID="R33208">
+<Titre>Code des procédures civiles d'exécution : article L222-1</Titre>
+<Complement>Principes généraux</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938731&amp;idSectionTA=LEGISCTA000025938729&amp;cidTexte=LEGITEXT000025024948" ID="R33209">
+<Titre>Code des procédures civiles d'exécution : article R222-1</Titre>
+<Complement>Principes généraux</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025938733&amp;cidTexte=LEGITEXT000025024948" ID="R33210">
+<Titre>Code des procédures civiles d'exécution : articles R222-2 à R222-6</Titre>
+<Complement>En cas de saisie auprès du débiteur</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938747&amp;idSectionTA=LEGISCTA000025938745&amp;cidTexte=LEGITEXT000025024948" ID="R33211">
+<Titre>Code des procédures civiles d'exécution : articles R222-7 à R222-10</Titre>
+<Complement>En cas de saisie auprès d'un tiers</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938757&amp;idSectionTA=LEGISCTA000025938755&amp;cidTexte=LEGITEXT000025024948" ID="R33212">
+<Titre>Code des procédures civiles d'exécution : articles R222-11 à R222-16</Titre>
+<Complement>Procédure en l'absence de titre exécutoire</Complement>
+</Reference>
+<Definition ID="R12542">
+<Titre>Requête</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant de saisir une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1056">
+<Titre>Titre exécutoire</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant au créancier d'obtenir le recouvrement forcé de sa créance (saisie des biens)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12468">
+<Titre>Débiteur</Titre>
+<Texte>
+				<Paragraphe>Personne tenue envers une autre d'exécuter une obligation (qui peut être une somme d'argent)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10915">
+<Titre>Signification</Titre>
+<Texte>
+				<Paragraphe>Acte par lequel une partie informe son adversaire d'un acte ou d'une décision de justice par l'intermédiaire d'un huissier de justice</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R32853" type="Sigle">
+<Titre>TGI</Titre>
+<Texte>
+<Paragraphe>Tribunal de grande instance</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

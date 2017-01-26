@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10720" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un enfant qui déménage dans une nouvelle commune doit-il changer d'école ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Un enfant qui déménage dans une nouvelle commune doit-il changer d'école ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-08</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10720</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182379&amp;cidTexte=LEGITEXT000006071191, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166564&amp;cidTexte=LEGITEXT000006071191</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N54</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N54">École primaire (maternelle et élémentaire)</Niveau>
+<Niveau ID="F10720" type="Fiche Question-réponse">Un enfant qui déménage dans une nouvelle commune doit-il changer d'école ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N54">
+<Titre>École primaire (maternelle et élémentaire)</Titre><SousDossier ID="N54-1">
+<Titre>Inscription à l'école</Titre>
+<Fiche ID="F1864">À l'école maternelle</Fiche>
+<Fiche ID="F1865">À l'école primaire</Fiche>
+<Fiche ID="F1881">Déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N54-2">
+<Titre>Programme scolaire</Titre>
+<Fiche ID="F32926">Programmes scolaires à l'école maternelle</Fiche>
+<Fiche ID="F24484">Programmes scolaires de l'école primaire (élémentaire)</Fiche>
+</SousDossier>
+<SousDossier ID="N54-3">
+<Titre>Vie quotidienne</Titre>
+<Fiche ID="F24490">Horaire d'une journée à l'école</Fiche>
+<Fiche ID="F19364">Accueil en cas d'absence du professeur</Fiche>
+<Fiche ID="F424">Surveillance et sécurité des élèves</Fiche>
+<Fiche ID="F24570">Restauration scolaire</Fiche>
+<Fiche ID="F21765">Sortie et voyage scolaire</Fiche>
+<Fiche ID="F1879">Santé à l'école primaire</Fiche>
+<Fiche ID="F31006">Participation financière de la famille</Fiche>
+</SousDossier>
+<SousDossier ID="N54-4">
+<Titre>Passage et redoublement</Titre>
+<Fiche ID="F32111">Passage, redoublement ou saut de classe</Fiche>
+<Fiche ID="F1870">Passage de l'école au collège, du CM2 à la 6e</Fiche>
+</SousDossier>
+<SousDossier ID="N54-5">
+<Titre>Rôle et participation des parents</Titre>
+<Fiche ID="F1391">Information des parents sur la scolarité des enfants</Fiche>
+<Fiche ID="F1880">Représentants des parents d'élèves</Fiche>
+<Fiche ID="F1399">Conseil d'école</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Si votre enfant a commencé l'année scolaire dans une école avant votre déménagement, vous n'êtes pas obligé de le changer d'établissement, tant qu'il n'a pas terminé un cycle scolaire. L'enfant, en maternelle ou en primaire, peut finir sa scolarité  dans la même école.</Paragraphe>
+
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour un complément d'information et signaler un changement de résidence si vous habitez ailleurs qu'à Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour un complément d'information et signaler un changement de résidence si vous habitez Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R24" type="Local personnalisé sur SP">
+<Titre>Direction des services départementaux de l'éducation nationale</Titre>
+<Complement>Pour des renseignements complémentaires</Complement>
+<PivotLocal>inspection_academique</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-et-services-departementaux-de-l-education-nationale.html#Les_coordonnées%20des%20rectorats%20et%20des%20services%20départementaux%20de%20l%27éducation%20nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182379&amp;cidTexte=LEGITEXT000006071191" ID="R2683">
+<Titre>Code de l'éducation : articles L212-1 à L212-9</Titre>
+<Complement>Écoles et classes élémentaires et maternelles (article L212-8)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166564&amp;cidTexte=LEGITEXT000006071191" ID="R21285">
+<Titre>Code de l'éducation : articles L131-1 à L131-12</Titre>
+<Complement>L'obligation scolaire</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R32278" URL="http://www.education.gouv.fr/cid50506/les-parents-a-l-ecole.html" audience="Particuliers">
+<Titre>Les parents à l'école</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1410" audience="Particuliers">Comment s'effectue le passage du privé au public ?</QuestionReponse>
+</Publication>

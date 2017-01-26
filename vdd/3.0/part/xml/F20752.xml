@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F20752" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Opérations bancaires (virement, prélèvement, chèque...)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Les opérations bancaires (virement ou prélèvement par exemple) doivent suivre des règles précises. Elles doivent notamment être précisément autorisées, enregistrées et notifiées. À défaut, elles peuvent être contestées et annulées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-23</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F20752</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020866785&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861577&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861571&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020933697</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N98</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="F20752" type="Fiche d'information">Opérations bancaires (virement, prélèvement, chèque...)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N98">
+<Titre>Comptes bancaires</Titre><SousDossier ID="N98-1">
+<Titre>Types de compte</Titre>
+<Fiche ID="F2413">Compte individuel</Fiche>
+<Fiche ID="F10412">Compte joint</Fiche>
+<Fiche ID="F2812">Compte indivis</Fiche>
+</SousDossier>
+<SousDossier ID="N98-2">
+<Titre>Droit au compte</Titre>
+<Fiche ID="F2417">Refus d'ouverture de compte</Fiche>
+<Fiche ID="F31456">Clôture d'un compte par la banque</Fiche>
+</SousDossier>
+<SousDossier ID="N98-3">
+<Titre>Problèmes de trésorerie</Titre>
+<Fiche ID="F31423">Découvert autorisé</Fiche>
+<Fiche ID="F18777">Incidents de paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N98-4">
+<Titre>Opérations bancaires</Titre>
+<Fiche ID="F20752">Opérations bancaires (virement, prélèvement, chèque...)</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Opérations bancaires</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les opérations bancaires (virement ou prélèvement par exemple)  doivent suivre des règles précises.
+			Elles doivent notamment être précisément autorisées, enregistrées et notifiées.
+		
+			À défaut, elles peuvent être contestées et annulées.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Autorisation préalable</Paragraphe>
+</Titre><Paragraphe>La banque tenant le compte  ne peut réaliser une opération de paiement que si elle est explicitement autorisée par le ou les titulaires du compte. Celui-ci doit avoir donné son consentement préalable à son exécution.</Paragraphe>
+<Paragraphe>Les opérations concernées sont notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les <LienInterne LienPublication="F2384" type="Fiche d'information" audience="Particuliers">virements</LienInterne> (l'accord peut être donné sur support papier ou par internet selon la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne> signée avec la banque),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les <LienInterne LienPublication="F2384" type="Fiche d'information" audience="Particuliers">prélèvements</LienInterne> (il est alors nécessaire de signer une autorisation de prélèvement),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les paiements par <LienInterne LienPublication="F2402" type="Fiche d'information" audience="Particuliers">chèque</LienInterne> ou par <LienInterne LienPublication="F2424" type="Fiche d'information" audience="Particuliers">carte</LienInterne> (l'utilisation d'un de ces instruments vaut consentement).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le consentement peut être retiré tant que l'opération de paiement n'a pas eu lieu.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les annulations d'ordre de paiement par carte bancaire sont difficiles à obtenir (sauf <LienInterne LienPublication="F2428" type="Fiche d'information" audience="Particuliers">blocage de la carte</LienInterne> général et irréversible).</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délais</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Enregistrement par la banque : date d'opération</Paragraphe>
+</Titre><Paragraphe>La date d'opération est la date à laquelle une opération de débit ou de crédit est enregistrée par la banque : dépôt d'un chèque, réception d'un ordre de virement...</Paragraphe>
+<Paragraphe>Si l'opération de paiement est ordonnée à une heure proche de la fin du <LienIntra LienID="R17508" type="Définition de glossaire">jour ouvrable</LienIntra>, tout ordre reçu est considéré comme reçu le jour ouvrable suivant.</Paragraphe>
+<Paragraphe>Si le moment de réception n'est pas un jour ouvrable (par exemple en cas d'ordre donné par internet), l'ordre de paiement est considéré comme reçu le jour ouvrable suivant.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Point de départ du calcul des intérêts : date de valeur</Paragraphe>
+</Titre><Paragraphe>La date de valeur sert aux calculs des intérêts. Exemple : si vous virez de l'argent vers un compte épargne ou pour calculer le durée d'un <LienInterne LienPublication="F18777" type="Fiche d'information" audience="Particuliers">découvert</LienInterne>.</Paragraphe>
+<Paragraphe>Pour les paiements par chèque, la date de valeur peut être différente de la date d'exécution. Cependant, ces deux dates ne peuvent pas différer de plus d'1 jour ouvrable.  Par exemple, si vous déposez un chèque le lundi pour renflouer votre compte à découvert, votre banque considérera votre solde comme positif à partir du mardi suivant.</Paragraphe>
+<Paragraphe>Dans les autres cas, il ne peut pas y avoir de différence entre la date d'opération et la date de valeur. Si vous faites un virement le lundi sur votre <LienInterne LienPublication="F2365" type="Fiche d'information" audience="Particuliers">livret A</LienInterne>, les intérêts dus seront calculés à partir de ce même lundi.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Notification</Paragraphe>
+</Titre><Paragraphe>L'exécution de chaque opération de paiement est notifiée aux titulaires des 2 comptes concernés (compte crédité et compte débité).</Paragraphe>
+<Paragraphe>Les modalités de notification sont convenues entre chaque titulaire de compte et sa banque.</Paragraphe>
+<Paragraphe>En pratique, les notifications sont réalisées par lots de façon périodique, par le moyen de relevés de compte adressés par la banque, par courrier ou par courriel, au(x) titulaire(x) du compte.</Paragraphe>
+<Paragraphe>La périodicité des notifications est fixée dans les conventions de compte. Elle peut être quotidienne, bimensuelle, mensuelle, semestrielle, annuelle, etc.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contestation</Paragraphe>
+</Titre><Paragraphe>Le titulaire du compte doit signaler à sa banque, dans un délai de 8 semaines,  une opération de paiement dont le montant dépasse le montant auquel il pouvait raisonnablement s'attendre.</Paragraphe>
+<Paragraphe>Pour les opérations non autorisées ou mal exécutées, le délai est de  13 mois au plus suivant la date de débit sous peine de forclusion.</Paragraphe>
+<Paragraphe>Ce délai est ramené à 70 jours (éventuellement prorogé par contrat sans toutefois dépasser 120 jours) lorsque l'établissement du bénéficiaire du paiement se situe en dehors de l'Union Européenne ou de l'Espace Économique Européen - EEE. </Paragraphe>
+<Paragraphe> Ces délais ne s'appliquent pas si la banque ne lui a pas fourni ou n'a pas mis à sa disposition les informations relatives à cette opération de paiement (relevé de compte).</Paragraphe>
+<Paragraphe>Sauf dans les cas où l'utilisateur est une personne physique agissant pour des besoins non professionnels, les parties peuvent convenir d'un délai de contestation distinct.</Paragraphe>
+<Paragraphe>La banque ne peut pas imputer de frais au titulaire du compte pour l'accomplissement de ses obligations d'information ni pour l'exécution des mesures correctives et préventives.</Paragraphe>
+<Paragraphe>Quand elle provient du ou des titulaires du compte, la contestation prend souvent la forme d'un <LienInterne LienPublication="R13321" type="Modèle de document" audience="Particuliers">courrier de adressé à la banque</LienInterne>.</Paragraphe>
+<Paragraphe>Si la contestation n'a pas abouti à des rectificatifs qui satisfassent et la banque et le titulaire du compte, il est possible de recourir au <LienInterne LienPublication="F20523" type="Fiche Question-réponse" audience="Particuliers">médiateur bancaire</LienInterne>.</Paragraphe>
+<Paragraphe>L'action en justice devant les <LienInterne LienPublication="N253" type="Dossier" audience="Particuliers">juridictions civiles</LienInterne> est envisageable pendant 5 ans, à partir de la date d'exécution de l'opération.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe> les conditions générales concernant les relevés de compte des banques précisent souvent que les écritures passées sur le compte sont considérées comme approuvées dans un délai donné, souvent entre 1 et 3 mois, à défaut de contestation venant du titulaire du compte.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000020866785&amp;cidTexte=LEGITEXT000006072026" ID="R10741">
+<Titre>Code monétaire et financier : article L314-1</Titre>
+<Complement>Autorisation d'opérations bancaires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861577&amp;cidTexte=LEGITEXT000006072026" ID="R368">
+<Titre>Code monétaire et financier : articles L133-23 à L133-24</Titre>
+<Complement>Modalités pratiques et délais en cas d'opérations de paiement non autorisées ou mal exécutées</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861571&amp;cidTexte=LEGITEXT000006072026" ID="R366">
+<Titre>Code monétaire et financier : articles L133-25 à L133-25-2</Titre>
+<Complement>Remboursement d'une opération de paiement</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020933697" ID="R10961">
+<Titre>Arrêté du 29 juillet 2009 relatif aux obligations d'informations des utilisateurs de services de paiement</Titre>
+</Reference>
+<ServiceEnLigne ID="R13321" URL="" type="Modèle de document">
+<Titre>Contester une opération figurant sur son relevé de compte</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<Definition ID="R17508">
+<Titre>Jour ouvrable</Titre>
+<Texte>
+				<Paragraphe>Correspond à tous les jours de la semaine, à l'exception du jour de repos hebdomadaire (généralement le dimanche) et des jours fériés habituellement non travaillés dans l'entreprise.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

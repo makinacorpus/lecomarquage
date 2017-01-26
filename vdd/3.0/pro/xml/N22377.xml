@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N22377" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Protection de la faune et de la flore</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Protection de la faune et de la flore</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N22377</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N22377" type="Dossier">Protection de la faune et de la flore</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N10810">Environnement</SousThemePere>
+<Fiche ID="F31667">Autorisation de défrichement</Fiche>
+<Fiche ID="F22371">Dérogations à la protection du loup</Fiche><VoirAussi important="non">
+<Fiche ID="F31202" audience="Professionnels">
+<Titre>Taxes d'embarquement sur les passagers</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R44606" URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa12530/" numerocerfa="12530*03" type="Téléservice">
+<Titre>Demande en ligne d'autorisation administrative de coupe de bois ou d'abattage d'arbres</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18249" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12530.do" format="application/pdf" poids="81.7 KB" numerocerfa="12530*03" type="Formulaire">
+<Titre>Demande d'autorisation administrative de coupe de bois ou d'abattage d'arbres</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10713" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11632.do" numerocerfa="11632*02" type="Formulaire">
+<Titre>Demande d'autorisation de production, de commercialisation ou d'importation de spécimens d'espèces végétales protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21292" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11633.do" format="application/pdf" poids="26.4 KB" numerocerfa="11633*02" type="Formulaire">
+<Titre>Demande d'autorisation pour la récolte, l'utilisation, le transport ou la cession de spécimens d'espèces végétales protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1924" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13617.do" numerocerfa="13617*01" type="Formulaire">
+<Titre>Demande de dérogation pour la coupe, l'arrachage, la cueillette ou l'enlèvement, de spécimens d'espèces végétales protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R22119" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14367.do" numerocerfa="14367*01" type="Formulaire">
+<Titre>Attestation de cession d'animaux d'espèces non domestiques</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14389" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12446.do" numerocerfa="12446*01" type="Formulaire">
+<Titre>Déclaration de marquage d'un animal d'espèce non domestique</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14390" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12448.do" numerocerfa="12448*01" type="Formulaire">
+<Titre>Registre des entrées et sorties d'animaux d'espèces non domestiques dans un élevage d'agrément</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15890" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11629.do" numerocerfa="11629*02" type="Formulaire">
+<Titre>Demande d'autorisation de transport de spécimens d'espèces animales protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10790" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11630.do" format="application/pdf" poids="26.4 KB" numerocerfa="11630*02" type="Formulaire">
+<Titre>Demande d'autorisation de transport en vue de relacher dans la nature des spécimens d'espèces animales protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21291" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11628.do" numerocerfa="11628*02" type="Formulaire">
+<Titre>Demande de dérogation pour la naturalisation ou l'exposition de spécimens d'animaux morts d'espèces protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21439" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13614.do" numerocerfa="13614*01" type="Formulaire">
+<Titre>Demande de dérogation pour la destruction de sites de reproduction ou d'aires de repos d'animaux d'espèces animales protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21440" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13615.do" numerocerfa="13615*01" type="Formulaire">
+<Titre>Demande de dérogation pour l'utilisation et la commercialisation de spécimens d'animaux ou de végétaux d'espèces protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2501" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13616.do" numerocerfa="13616*01" type="Formulaire">
+<Titre>Demande de dérogation pour la capture, l'enlèvement, la destruction, la pertubation intentionnelle de spécimens d'espèces animales protégées</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R14554" URL="http://propluvia.developpement-durable.gouv.fr/propluvia/faces/index.jsp" audience="Professionnels">
+<Titre>Propluvia : suivi de la sécheresse et consultation des arrêtés de restriction d'eau</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R37100" URL="http://www.vigicrues.gouv.fr/" audience="Professionnels">
+<Titre>Vigicrues : carte de vigilance nationale des crues</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+</Publication>

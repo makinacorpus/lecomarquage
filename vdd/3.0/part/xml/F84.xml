@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F84" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Doit-on déclarer l'achat d'une télévision aux Impôts ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Acheter télé - Redevance - Impôts</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-06</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F84</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162694&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/6836-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N206</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N206">Impôts locaux</Niveau>
+<Niveau ID="F84" type="Fiche Question-réponse">Doit-on déclarer l'achat d'une télévision aux Impôts ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N206">
+<Titre>Impôts locaux</Titre>
+<Fiche ID="F42">Taxe d'habitation</Fiche>
+<Fiche ID="F88">Contribution à l'audiovisuel public (redevance télé)</Fiche>
+<Fiche ID="F59">Taxe foncière sur les propriétés bâties</Fiche>
+<Fiche ID="F31638">Taxe foncière sur les propriétés non bâties</Fiche>
+<Fiche ID="F22393">Taxe sur la vente de terrains agricoles rendus constructibles</Fiche>
+<Fiche ID="F17293">Taxe d'habitation sur les logements vacants (THLV)</Fiche>
+<Fiche ID="F2847">Taxe sur les logements vacants applicable à certaines communes (TLV)</Fiche>
+<Fiche ID="F22730">Taxe ou redevance d'enlèvement des ordures ménagères</Fiche>
+<Fiche ID="F22429">Taxe sur les résidences mobiles</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Non.</Paragraphe>
+<Paragraphe>Lorsque vous achetez une télévision ou un dispositif assimilé (lecteur de DVD par exemple), le commerçant vous fait remplir une déclaration qu'il doit adresser lui-même à l'administration fiscale.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N206" audience="Particuliers">
+<Titre>Impôts locaux</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F88" audience="Particuliers">
+<Titre>Contribution à l'audiovisuel public (redevance télé)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service local gestionnaire de votre dossier (les coordonnées figurent sur vos avis d'imposition et déclarations de revenus)</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162694&amp;cidTexte=LEGITEXT000006069577" ID="R18614">
+<Titre>Code général des impôts : articles 1605 à 1605 quater</Titre>
+<Complement>Obligations du commerçant lors de la vente d'un téléviseur ou dispositif assimilé (article 1605 quater)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/6836-PGP" ID="R31163">
+<Titre>BOFIP-Impôts n° BOI-PAT-CAP-20120912 relatif à la contribution à l'audiovisuel public due par les particuliers</Titre>
+</Reference>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41461" URL="http://www.impots.gouv.fr" audience="Particuliers">
+<Titre>Le site des impôts : impots.gouv.fr</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R11279" URL="http://www2.impots.gouv.fr/documentation/2015/idl/index.html" audience="Particuliers">
+<Titre>Brochure pratique - impôts locaux 2015</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+</Publication>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31890" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le port d'un badge spécifique est-il obligatoire pour un pharmacien  ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Le port d'un badge spécifique est-il obligatoire pour un pharmacien  ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des affaires sociales</dc:contributor>
+<dc:date>modified 2016-01-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31890</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025123121&amp;idSectionTA=LEGISCTA000020890194&amp;cidTexte=LEGITEXT000006072665, http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028352138&amp;cidTexte=LEGITEXT000006072665, http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028350751&amp;cidTexte=LEGITEXT000006072665, http://legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000671736</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17972</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Commerçant</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N17972">Santé</Niveau>
+<Niveau ID="F31890" type="Fiche Question-réponse">Le port d'un badge spécifique est-il obligatoire pour un pharmacien  ?</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N23450">Autres secteurs</SousThemePere><DossierPere ID="N17972">
+<Titre>Santé</Titre>
+<Fiche ID="F13777">Conditions d'ouverture d'une pharmacie</Fiche>
+<Fiche ID="F981">Maladies à déclaration obligatoire</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Afin d'informer le clientèle de l'officine,  les pharmaciens et préparateurs en pharmacie doivent obligatoirement porter un insigne indiquant leur qualité :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>caducée s'il s'agit d'un pharmacien ou un étudiant en pharmacie habilité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>mortier et son pilon, s'il s'agit d'un préparateur en pharmacie.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Une inscription apparente dans l'officine doit informer le public de leur signification.</Paragraphe>
+<Paragraphe>Le fait, pour un pharmacien ou pour toute personne légalement autorisée à le seconder pour la délivrance des médicaments dans une officine de pharmacie, de ne pas porter cet insigne, fait l'objet d'une sanction financière, fixée par le directeur général de l'<LienInterne LienPublication="R31273" type="Sigle">ARS</LienInterne>, dont le montant ne peut dépasser <Valeur>150 000 €</Valeur> pour une personne physique ou 10 % du chiffre d'affaires pour une personne morale.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025123121&amp;idSectionTA=LEGISCTA000020890194&amp;cidTexte=LEGITEXT000006072665" ID="R2223">
+<Titre>Code de la santé publique : articles L5125-1 à L5125-32</Titre>
+<Complement>Article L5125-29 : obligation du port d'un insigne distinctif</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028352138&amp;cidTexte=LEGITEXT000006072665" ID="R34694">
+<Titre>Code de la santé publique : article L5424-4</Titre>
+<Complement>Pénalisation du non-port du badge de pharmacien</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028350751&amp;cidTexte=LEGITEXT000006072665" ID="R38952">
+<Titre>Code de la santé publique : article L5472-1</Titre>
+<Complement>Montant de la sanction financière</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000671736" ID="R34695" format="text/html;charset=iso-8859-1" poids="0">
+<Titre>Arrêté du 19 octobre 1978 précisant les caractéristiques de l'insigne des pharmaciens</Titre>
+</Reference>
+<Abreviation ID="R31273" type="Sigle">
+<Titre>ARS</Titre>
+<Texte>
+<Paragraphe>Agence régionale de santé</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

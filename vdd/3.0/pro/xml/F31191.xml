@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31191" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment immatriculer une entreprise étrangère en France ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Les démarches qu'une entreprise étrangère, dont le siège social est situé à l'étranger, doit effectuer pour exercer une activité en France sont différentes selon qu'elle possède un établissement stable ou qu'elle emploie des salariés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2016-07-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31191</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16178</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="F31191" type="Fiche Question-réponse">Comment immatriculer une entreprise étrangère en France ?</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere><DossierPere ID="N16178">
+<Titre>Formalités de la création d'entreprise</Titre><SousDossier ID="N16178-1">
+<Titre>Commerçant</Titre>
+<Fiche ID="F22632">Ouverture d'un commerce</Fiche>
+<Fiche ID="F23573">Gérance d'un commerce</Fiche>
+<Fiche ID="F22537">Franchise</Fiche>
+<Fiche ID="F22494">Commerçant ou artisan étranger</Fiche>
+<Fiche ID="F23962">Vendeur à domicile</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-2">
+<Titre>Autres statuts</Titre>
+<Fiche ID="F23264">Auto-entrepreneur</Fiche>
+<Fiche ID="F23887">Artisan</Fiche>
+<Fiche ID="F23458">Profession libérale</Fiche>
+<Fiche ID="F31498">Entreprise individuelle à responsabilité limitée (EIRL)</Fiche>
+<Fiche ID="F32266">Conjoint du chef d'entreprise</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-3">
+<Titre>Autres secteurs d'activités</Titre>
+<Fiche ID="F23633">Entreprise de services à la personne</Fiche>
+<Fiche ID="F19087">Formateur ou organisme de formation</Fiche>
+<Fiche ID="F33830">Société de domiciliation d'entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte>
+<Paragraphe>Les démarches qu'une entreprise étrangère, dont le siège social est situé à l'étranger, doit effectuer pour exercer une activité en France sont différentes selon qu'elle possède un établissement stable ou qu'elle emploie des salariés.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Avec implantation d'un établissement en France</Paragraphe>
+</Titre><Paragraphe>Une entreprise étrangère qui souhaite implanter un établissement ou une filiale en France doit s'immatriculer au répertoire des entreprises et des établissements Sirene, en s'adressant au centre de formalités des entreprises (CFE) dont elle dépend en fonction de son activité.</Paragraphe>
+<Paragraphe>Que ce soit d'un point de vue fiscal ou en matière de déclarations sociales, l'entreprise étrangère a les mêmes obligations d'immatriculation qu'une entreprise française.</Paragraphe>
+<Paragraphe>Voir notre dossier des <LienInterne LienPublication="N16178" type="Dossier" audience="Professionnels">formalités de la création d'entreprise</LienInterne>
+</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sans établissement stable en France</Paragraphe>
+</Titre><Paragraphe>Une entreprise étrangère qui n'a pas d'établissement en France, mais qui emploie des salariés relevant du régime social français, doit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>demander son immatriculation au centre national des firmes étrangères (CNFE),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>effectuer les <LienInterne LienPublication="F23107" type="Fiche d'information" audience="Professionnels">formalités d'embauche de salariés</LienInterne> (déclaration préalable à l'embauche, établissement de bulletin de paie, paiement des cotisations et contributions sociales...).</Paragraphe>
+</Item>
+</Liste>
+<BlocCas type="modalite" affichage="onglet">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R44797" URL="http://www.tfe.urssaf.fr/tfeweb/informatif/accueil/accueil.do" type="Téléservice">
+<Titre>Titre firmes étrangères (TFE)</Titre>
+<Source ID="R30863">Urssaf</Source>
+<Introduction>
+<Texte><Paragraphe>Permet aux entreprises de moins de 20 salariés sans établissement en France de s'immatriculer auprès de l'Urssaf pour l'emploi de l'ensemble de leurs salariés en France, d'accomplir les formalités liées à l'embauche (déclaration préalable à l'embauche - DPAE - et contrat de travail) et d'effectuer les déclarations sociales permettant le paiement des cotisations set contributions sociales.</Paragraphe>
+<Paragraphe>Service gratuit après inscription préalable et création d'un compte personnel en ligne.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R17437" URL="http://www.net-entreprises.fr/html/documents/formulaire_E0.pdf" format="application/pdf" poids="53.9 KB" type="Formulaire">
+<Titre>Déclaration E0 d'inscription d'une entreprise employant du personnel salarié et ne comportant pas d'établissement en France</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+<Introduction>
+<Texte><Paragraphe>Permet d'obtenir l'immatriculation auprès des organismes de sécurité sociale et de l'Insee, de recevoir un numéro Siret et de déclarer les salariés employés par l'entreprise.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>Cette situation ne doit pas être confondue avec celle d'une entreprise  établie à l'étranger, qui peut détacher temporairement des salariés en France pour une mission précise et doit transmettre, avant le début de sa prestation de service, une <LienInterne LienPublication="F32160" type="Fiche d'information" audience="Professionnels">déclaration préalable de détachement transnational</LienInterne> à l'inspection du travail dont dépend le lieu de son intervention.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sans établissement, ni salariés en France</Paragraphe>
+</Titre><Paragraphe>Une entreprise étrangère, sans établissement ni salariés en France, qui réalise des opérations imposables en France (TVA, impôts sur les sociétés...), doit s'adresser au service des impôts des entreprises étrangères (SIEE).</Paragraphe><ServiceEnLigne ID="R42497" URL="https://www.impots.gouv.fr/portail/node/8844" numerocerfa="15415*01" autrenumero="1984-SD" type="Formulaire">
+<Titre>Déclaration d'inscription en France par un assujetti établi en Union européenne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Introduction>
+<Texte><Paragraphe>Déclaration d'inscription en France par un assujetti établi dans un état membre de l'Union européenne autre que la France ne disposant pas d'établissement stable en France et réalisant des opérations imposables à la TVA en France ou devant y accomplir des obligations déclaratives.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+<OuSAdresser ID="R19514" type="Centre de contact">
+<Titre>Service des impôts des entreprises étrangères (SIEE)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>
+			siee.dresg(at)dgfip.finances.gouv.fr</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service des impôts des entreprises étrangères (SIEE) </Paragraphe>
+								<Paragraphe>Direction des résidents à l'étranger et des services généraux (DRESG)</Paragraphe>
+								<Paragraphe>
+			10, rue du Centre</Paragraphe>
+								<Paragraphe>TSA 20011</Paragraphe>
+								<Paragraphe>93465 Noisy-le-Grand Cedex </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 57 33 85 00</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi de 9h à 12h30 et de 13h30 à 16h
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte><OuSAdresser ID="R31518" type="Centre de contact">
+<Titre>Centre national des firmes étrangères (CNFE)</Titre>
+<Source ID="R30863">Urssaf</Source><Texte>
+						
+								<Paragraphe>Permet aux entreprises étrangères sans établissement en France d'employer un ou plusieurs salariés sur le territoire français, de les  affilier au régime français de Sécurité sociale et de payer les cotisations et contributions pour financer leur protection sociale.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>Urssaf Alsace </Paragraphe>
+								<Paragraphe>16, rue Contades</Paragraphe>
+								<Paragraphe>67945 Strasbourg Cedex 9 </Paragraphe>
+								<Paragraphe>France</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>39 57</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par fax</Paragraphe>
+</Titre>
+								<Paragraphe> +33 3 69 32 30 08</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>cnfe.strasbourg@urssaf.fr</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R19514" type="Centre de contact">
+<Titre>Service des impôts des entreprises étrangères (SIEE)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>
+			siee.dresg(at)dgfip.finances.gouv.fr</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service des impôts des entreprises étrangères (SIEE) </Paragraphe>
+								<Paragraphe>Direction des résidents à l'étranger et des services généraux (DRESG)</Paragraphe>
+								<Paragraphe>
+			10, rue du Centre</Paragraphe>
+								<Paragraphe>TSA 20011</Paragraphe>
+								<Paragraphe>93465 Noisy-le-Grand Cedex </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 57 33 85 00</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi de 9h à 12h30 et de 13h30 à 16h
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R44797" URL="http://www.tfe.urssaf.fr/tfeweb/informatif/accueil/accueil.do" type="Téléservice">
+<Titre>Titre firmes étrangères (TFE)</Titre>
+<Source ID="R30863">Urssaf</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42497" URL="https://www.impots.gouv.fr/portail/node/8844" numerocerfa="15415*01" autrenumero="1984-SD" type="Formulaire">
+<Titre>Déclaration d'inscription en France par un assujetti établi en Union européenne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17437" URL="http://www.net-entreprises.fr/html/documents/formulaire_E0.pdf" format="application/pdf" poids="53.9 KB" type="Formulaire">
+<Titre>Déclaration E0 d'inscription d'une entreprise employant du personnel salarié et ne comportant pas d'établissement en France</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17438" URL="http://www.net-entreprises.fr/html/societes_etrangeres.htm#Formulaire-E2" autrenumero="E2/E4" type="Formulaire">
+<Titre>Déclaration de modification ou de cessation d'une entreprise employant du personnel salarié et ne comportant pas d'établissement en France</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34182" URL="http://www.net-entreprises.fr/html/foreign_companies.htm#E0_Form" autrenumero="EO form" type="Formulaire">
+<Titre>Declaration of registration of a business with employees but no fixed establishment in France (English version)</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source><NoticeLiee ID="R34184" URL="http://www.net-entreprises.fr/html/documents/guide_form_E0.pdf" format="application/pdf" poids="0">Guide of instructions for completing Form E0</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R31519" URL="http://www2.impots.gouv.fr/dresg/accueil.htm" audience="Professionnels">
+<Titre>Obligations fiscales des entreprises étrangères en France</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R34185" URL="http://www.net-entreprises.fr/html/foreign_companies.htm" audience="Professionnels">
+<Titre>How to register a foreign company in France?</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</PourEnSavoirPlus>
+</Publication>

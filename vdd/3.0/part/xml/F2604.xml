@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2604" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Vente d'un bien en copropriété (lot de copropriété)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le propriétaire qui vend un lot de copropriété doit informer l'acquéreur sur les caractéristiques de bien qu'il projette d'acheter. Le syndic de l'immeuble doit également être tenu informé de la vente.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2604</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006471659&amp;cidTexte=LEGITEXT000006068256, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006472158&amp;cidTexte=LEGITEXT000006068256, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000028779401&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000027168466&amp;cidTexte=LEGITEXT000006061423, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022493567&amp;cidTexte=LEGITEXT000006068256, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488281&amp;cidTexte=LEGITEXT000006061423, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000027168471&amp;cidTexte=LEGITEXT000006061423, http://questions.assemblee-nationale.fr/q14/14-57834QE.htm</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23245</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="F2604" type="Fiche d'information">Vente d'un bien en copropriété (lot de copropriété)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N23245">
+<Titre>Achat ou vente d'un logement</Titre><SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre>
+<Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre>
+<Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Logement existant</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le propriétaire qui vend un lot de copropriété doit informer l'acquéreur sur les caractéristiques de bien qu'il projette d'acheter. Le syndic de l'immeuble doit également être tenu informé de la vente. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Information de l'acheteur</Paragraphe>
+</Titre><Paragraphe>La vente d'un <LienIntra LienID="R38693" type="Définition de glossaire">lot de copropriété</LienIntra> s'effectue dans les conditions de <LienInterne LienPublication="N23245" type="Dossier" audience="Particuliers">vente classique</LienInterne>. Toutefois, certains documents et informations spécifiques à la copropriété doivent être remis à l'acquéreur</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>au plus tard à la date de signature de la <LienInterne LienPublication="F2965" type="Fiche d'information" audience="Particuliers">promesse de vente</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou, à défaut de promesse de vente, au projet d'<LienInterne LienPublication="F2962" type="Fiche d'information" audience="Particuliers">acte authentique</LienInterne> de vente.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La remise des documents peut être faite par tous moyens et sur tous supports, y compris par voie électronique sous réserve de l'acceptation expresse de l'acquéreur. En cas de promesse de vente effectuée <LienIntra LienID="R17852" type="Définition de glossaire">sous seing privé</LienIntra>, la remise des documents doit être attestée par l'acquéreur par écrit dans un document daté et signé.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Superficie</Paragraphe>
+</Titre><Paragraphe>Si le lot mis en vente est un logement, sa superficie doit être mentionnée (superficie dite <Expression>Carrez</Expression>, en pratique publiée au sein de <LienInterne LienPublication="F32061" type="Fiche Question-réponse" audience="Particuliers">l'annonce</LienInterne>).</Paragraphe>
+<Paragraphe>À défaut, la nullité de la vente peut être invoquée par l'acquéreur dans le mois suivant <LienIntra LienID="R17851" type="Définition de glossaire">l'acte authentique</LienIntra>. </Paragraphe>
+<Paragraphe>Si la superficie annoncée est supérieure de 5 % à la superficie réelle, l'acquéreur peut engager une action en diminution du prix proportionnelle.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la mention de la superficie n'est pas obligatoire pour les caves, garages, emplacement de stationnement et, d'une manière générale, les lots ou fraction de lots inférieurs à 8 m<Exposant>2</Exposant>.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Organisation de l'immeuble</Paragraphe>
+</Titre><Paragraphe>Certains documents concernant l'organisation de l'immeuble doivent être remis à l'acquéreur parmi lesquels :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la <LienInterne LienPublication="F34051" type="Fiche d'information" audience="Particuliers">fiche synthétique de la copropriété</LienInterne> regroupant les données financières et techniques essentielles relatives à la copropriété et à son bâti,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne> et l'état descriptif de division ainsi que les actes les modifiant, s'ils ont été publiés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les procès-verbaux des assemblées générales des 3 dernières années sauf lorsque le copropriétaire vendeur n'a pas été en mesure d'obtenir ces documents auprès du syndic,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le <LienInterne LienPublication="F2665" type="Fiche d'information" audience="Particuliers">carnet d'entretien de l'immeuble</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> une notice d'information relative aux droits et obligations des copropriétaires ainsi qu'au fonctionnement des instances du syndicat de copropriété,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les conclusions du <LienInterne LienPublication="F32059" type="Fiche d'information" audience="Particuliers">diagnostic technique global (DTG)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En l'absence de ces documents lors de la vente, le délai de <LienInterne LienPublication="F2965" type="Fiche d'information" audience="Particuliers">rétractation</LienInterne> ou de <LienInterne LienPublication="F2962" type="Fiche d'information" audience="Particuliers">réflexion</LienInterne> commence à courir le lendemain de la communication de ces documents à l'acquéreur.</Paragraphe>
+<Paragraphe>Toutefois, ces documents ne sont pas exigés lorsque l'acquéreur est déjà propriétaire d'au moins un lot dans la même copropriété.</Paragraphe>
+<Paragraphe>En cas de vente ou de cession d'un droit réel immobilier relatif à un lot ou une fraction de lot annexe (emplacement de parking, cave, garage...), les documents suivants ne sont pas non plus exigés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>procès-verbaux des assemblées générales,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>carnet d'entretien,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et notice d'information.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>État financier de la copropriété</Paragraphe>
+</Titre><Paragraphe>Certaines informations financières relatives à la copropriété doivent être communiquées à l'acquéreur parmi lesquelles :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le montant des charges courantes du  <LienInterne LienPublication="F20586" type="Fiche d'information" audience="Particuliers">budget prévisionnel</LienInterne> et des charges hors budget prévisionnel payées par le copropriétaire vendeur au titre des 2 exercices comptables précédant la vente,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les sommes susceptibles d'être dues par l'acquéreur au syndicat des copropriétaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'état global des impayés de charges au sein du syndicat des copropriétaires et de la dette vis-à-vis des fournisseurs,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>lorsque le syndicat des copropriétaires dispose d'un fonds de travaux, le montant de la part du fonds de travaux rattachée au lot principal vendu et le montant de la dernière cotisation au fonds versée par le copropriétaire vendeur au titre de son lot.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En l'absence de ces documents lors de la vente, le délai de <LienInterne LienPublication="F2965" type="Fiche d'information" audience="Particuliers">rétractation</LienInterne> ou de <LienInterne LienPublication="F2962" type="Fiche d'information" audience="Particuliers">réflexion</LienInterne> commence à courir le lendemain de la communication de ces informations à l'acquéreur.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>État daté des charges</Paragraphe>
+</Titre><Paragraphe>Avant la vente, le  <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic</LienInterne> remet, à la demande du vendeur ou du notaire, un état daté qui fait le bilan des charges de copropriété liées au lot vendu.</Paragraphe>
+<Paragraphe>Ce document récapitule, sous réserve de l'apurement des comptes, les sommes pouvant rester dues par le vendeur au titre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des provisions exigibles du <LienInterne LienPublication="F20586" type="Fiche d'information" audience="Particuliers">budget prévisionnel</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des provisions exigibles des dépenses non comprises dans le budget prévisionnel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des éventuelles charges impayées,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'un éventuel emprunt collectif signé par la copropriété,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des charges différées restant dues,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des avances exigibles.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il indique par ailleurs et dans les mêmes conditions les sommes dont le syndicat pourrait être débiteur à l'égard du vendeur (avances) ainsi que les sommes qui seront à la charge de l'acheteur.</Paragraphe>
+<Paragraphe>Enfin, l'état daté indique :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la somme des charges de copropriété correspondant au lot pour les deux derniers exercices,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'objet et l'état des procédures judiciaires éventuellement en cours (impayés par exemple).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Certificat du syndic</Paragraphe>
+</Titre><Paragraphe>Avant la signature de l'acte de vente chez le notaire, le vendeur doit présenter un certificat délivré par le <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic</LienInterne> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>datant de moins d'un mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et attestant que le vendeur est libre de toute obligation à l'égard du <LienInterne LienPublication="F2606" type="Fiche d'information" audience="Particuliers">syndicat</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À défaut, le notaire adresse au syndic un avis de mutation par lettre recommandée avec accusé de réception dans les 15 jours qui suivent l'acte de vente.</Paragraphe>
+<Paragraphe>À l'expiration d'un délai de 15 jours suivant la réception de l'avis de mutation, le syndic peut obtenir le paiement des sommes restant dues par l'ancien propriétaire sur le prix de vente.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Information du syndic</Paragraphe>
+</Titre><Paragraphe>Le syndic doit être informé par le notaire, le vendeur ou l'acheteur du changement de propriétaire dès que la vente est réalisée (après la signature chez le notaire).</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Notification</Paragraphe>
+</Titre><Paragraphe>Le changement de propriétaire doit être notifié au syndic :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sans délai à compter de l'acte de vente,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>par lettre recommandée avec accusé de réception.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contenu de la notification</Paragraphe>
+</Titre><Paragraphe>Le courrier adressé au syndic doit préciser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les nom, prénoms et domicile de l'acquéreur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ceux du mandataire prévu dans le cadre d'un bien vendu en indivision ou usufruit le cas échéant,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les accords éventuellement conclus concernant les modalités de remboursement de l'emprunt collectif en cours le cas échéant.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement des charges en cours</Paragraphe>
+</Titre><Paragraphe>Le paiement des charges en cours au moment d'une vente obéit à une <LienInterne LienPublication="F32920" type="Fiche Question-réponse" audience="Particuliers">réglementation spécifique</LienInterne>. </Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006471659&amp;cidTexte=LEGITEXT000006068256" ID="R33674">
+<Titre>Loi n°65-557 du 10 juillet 1965 : article 20</Titre>
+<Complement>Certificat du syndic</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006472158&amp;cidTexte=LEGITEXT000006068256" ID="R33675">
+<Titre>Loi n°65-557 du 10 juillet 1965 : article 46</Titre>
+<Complement>Information sur la superficie du lot</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000028779401&amp;cidTexte=LEGITEXT000006074096" ID="R36640">
+<Titre>Code de la construction et de l'habitation : articles L721-1 à L721-3</Titre>
+<Complement>Informations générales des acquéreurs</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000027168466&amp;cidTexte=LEGITEXT000006061423" ID="R33668">
+<Titre>Décret n°67-223 du 17 mars 1967 : article 5</Titre>
+<Complement>Contenu de l'état daté</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022493567&amp;cidTexte=LEGITEXT000006068256" ID="R33673">
+<Titre>Loi n°65-557 du 10 juillet 1965 : article 10-1</Titre>
+<Complement>Frais relatifs à l'état daté</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488281&amp;cidTexte=LEGITEXT000006061423" ID="R33669">
+<Titre>Décret n°67-223 du 17 mars 1967 : article 5-1</Titre>
+<Complement>Opposition du syndic à la délivrance du certificat de syndic</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000027168471&amp;cidTexte=LEGITEXT000006061423" ID="R33670">
+<Titre>Décret n°67-223 du 17 mars 1967 : article 6</Titre>
+<Complement>Notification de la vente au syndic</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://questions.assemblee-nationale.fr/q14/14-57834QE.htm" ID="R38902">
+<Titre>Réponse ministérielle n°57834 du 16 septembre 2014 relative aux informations financières à fournir à l'acheteur d'un lot de copropriété</Titre>
+</Reference>
+<Definition ID="R17851">
+<Titre>Acte authentique</Titre>
+<Texte>
+				<Paragraphe>Document établi par un officier public compétent (notaire, huissier, officier d'état civil), rédigé selon les formalités exigées par la loi et dont le contenu  peut avoir la même force qu'une décision judiciaire</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17852">
+<Titre>Acte sous seing privé</Titre>
+<Texte>
+				<Paragraphe>Acte rédigé et signé par des particuliers, sans la présence d'un notaire (par exemple, un contrat)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032037833&amp;cidTexte=LEGITEXT000006070721" ID="R2270">
+<Titre>Code civil : articles 1372 à 1377</Titre>
+</Reference>
+</Definition>
+<Definition ID="R38693">
+<Titre>Lot de copropriété</Titre>
+<Texte>
+				<Paragraphe>Partie privative à l'usage exclusif de chaque copropriétaire et fraction de part des parties communes réservée à tous ou à certains d'entre eux seulement</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31531" audience="Particuliers">Qui est prioritaire pour acheter un bien dans un immeuble en copropriété ?</QuestionReponse>
+<QuestionReponse ID="F32061" audience="Particuliers">Que doit préciser l'annonce de vente d'un appartement en copropriété ?</QuestionReponse>
+</Publication>

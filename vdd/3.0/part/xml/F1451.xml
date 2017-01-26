@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1451" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que devient un compte bancaire en cas de décès ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Que devient un compte bancaire en cas de décès ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-25</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1451</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020866609&amp;cidTexte=LEGITEXT000006072026, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030591552</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N98</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="F1451" type="Fiche Question-réponse">Que devient un compte bancaire en cas de décès ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N98">
+<Titre>Comptes bancaires</Titre><SousDossier ID="N98-1">
+<Titre>Types de compte</Titre>
+<Fiche ID="F2413">Compte individuel</Fiche>
+<Fiche ID="F10412">Compte joint</Fiche>
+<Fiche ID="F2812">Compte indivis</Fiche>
+</SousDossier>
+<SousDossier ID="N98-2">
+<Titre>Droit au compte</Titre>
+<Fiche ID="F2417">Refus d'ouverture de compte</Fiche>
+<Fiche ID="F31456">Clôture d'un compte par la banque</Fiche>
+</SousDossier>
+<SousDossier ID="N98-3">
+<Titre>Problèmes de trésorerie</Titre>
+<Fiche ID="F31423">Découvert autorisé</Fiche>
+<Fiche ID="F18777">Incidents de paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N98-4">
+<Titre>Opérations bancaires</Titre>
+<Fiche ID="F20752">Opérations bancaires (virement, prélèvement, chèque...)</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>En cas de décès, le devenir d'un compte bancaire varie suivant le type de compte concerné (compte individuel, compte joint ou compte indivis.</Paragraphe>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Compte individuel</Paragraphe>
+</Titre><Paragraphe>Dès que la banque a connaissance de façon certaine du décès du titulaire (par les proches ou par un notaire), elle bloque le compte.</Paragraphe>
+<Paragraphe>Elle n'y enregistre plus aucune opération de dépôt ou de retrait, à l'exception de celles correspondant au <LienInterne LienPublication="F17059" type="Fiche Question-réponse" audience="Particuliers">règlement des frais relatifs aux funérailles</LienInterne> (et dans la limite de <Valeur>5 000 €</Valeur>).</Paragraphe>
+<Paragraphe>Les procurations éventuelles cessent d'être effectives.</Paragraphe>
+<Paragraphe>Le devenir du solde (positif ou négatif) est réglé en même temps que la <LienInterne LienPublication="N171" type="Dossier" audience="Particuliers">succession</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Compte joint</Paragraphe>
+</Titre><Paragraphe>Le devenir du compte est précisé dans la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>.</Paragraphe>
+<Paragraphe>En règle générale, 2 dispositions sont prévues :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le compte n'est pas bloqué, sauf opposition des héritiers du cotitulaire défunt,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le compte continue à être le compte des cotitulaires survivants (ou devient automatiquement un compte bancaire individuel, s'il n'y a plus qu'un cotitulaire survivant).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de solde positif au jour du décès, la question de la détermination et du sort de la part appartenant au défunt fait partie du règlement général de la succession.</Paragraphe>
+<Paragraphe>En cas de solde négatif, la banque peut demander au(x) titulaire(s) survivant(s) de couvrir la totalité des sommes correspondantes.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Compte indivis</Paragraphe>
+</Titre><Paragraphe>Dès que la banque a connaissance de façon certaine du décès d'un cotitulaire (par les proches ou par un notaire), elle bloque le compte : elle n'y enregistre plus aucune opération de dépôt ou de retrait.</Paragraphe>
+<Paragraphe>Cette immobilisation ne connaît pas d'exception même en présence d'un mandataire et peu importe le lien entre le défunt et le cotitulaire du compte.</Paragraphe>
+<Paragraphe>Le devenir du compte indivis et de son solde (positif ou négatif) est réglé en même temps que l'ensemble de la succession.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020866609&amp;cidTexte=LEGITEXT000006072026" ID="R10336">
+<Titre>Code monétaire et financier : articles L312-1-1 à L312-1-8</Titre>
+<Complement>Article L312-1-4</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030591552" ID="R34819">
+<Titre>Arrêté du 7 mai 2015 relatif au règlement des frais funéraires</Titre>
+</Reference>
+<QuestionReponse ID="F2909" audience="Particuliers">Que contient une convention de compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F1474" audience="Particuliers">Comment établir une procuration pour un compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F17059" audience="Particuliers">Qui doit payer les funérailles ?</QuestionReponse>
+</Publication>

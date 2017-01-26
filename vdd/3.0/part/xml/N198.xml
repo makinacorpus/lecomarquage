@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N198" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Formation des personnes handicapées</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>En plus des dispositifs généraux de formation, une personne handicapée peut entrer en apprentissage pour obtenir une qualification et bénéficier d'aménagements particuliers. Elle peut aussi bénéficier d'une formation dans un centre de pré-orientation si elle rencontre des difficultés d'orientation. Enfin, elle peut bénéficier d'un contrat de rééducation ou suivre un stage pour se réaccoutumer à son ancien emploi si elle est devenue inapte à exercer sa profession, ou apprendre un nouveau métier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N198</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Personne handicapée</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N198" type="Dossier">Formation des personnes handicapées</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20176">Formation</SousThemePere>
+<Fiche ID="F219">Contrat d'apprentissage</Fiche>
+<Fiche ID="F211">Centre de pré-orientation</Fiche>
+<Fiche ID="F212">Contrat ou stage de rééducation professionnelle</Fiche>
+<Introduction>
+<Texte><Paragraphe>En plus des dispositifs généraux de formation, une personne handicapée peut entrer en apprentissage pour obtenir une qualification et bénéficier d'aménagements particuliers. Elle peut aussi bénéficier d'une formation dans un centre de pré-orientation si elle rencontre des difficultés d'orientation. Enfin, elle peut bénéficier d'un contrat de rééducation ou suivre un stage pour se réaccoutumer à son ancien emploi si elle est devenue inapte à exercer sa profession, ou apprendre un nouveau métier. </Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N11240" audience="Particuliers">
+<Titre>Alternance</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N177" audience="Particuliers">
+<Titre>Formation des salariés du secteur privé</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N175" audience="Particuliers">
+<Titre>Parcours éducatifs alternatifs</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N186" audience="Particuliers">
+<Titre>Formation professionnelle dans la fonction publique</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F2401" audience="Particuliers">
+<Titre>Validation des acquis de l'expérience (VAE) </Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<QuestionReponse ID="F1660" audience="Particuliers">Peut-on encore percevoir la prime de reclassement pour personnes handicapées ?</QuestionReponse>
+<QuestionReponse ID="F221" audience="Particuliers">Quelles formations sont accessibles à une personne en situation de handicap ?</QuestionReponse>
+<QuestionReponse ID="F215" audience="Particuliers">Qu'est-ce qu'une école de reconversion professionnelle de l'Onac-VG ?</QuestionReponse>
+</Publication>

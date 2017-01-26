@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R35818" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Télépoints : demande de code (département 45 ou 92 uniquement)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Si vous êtes résident du département du Loiret (45) ou des Hauts-de-Seine (92), vous pouvez faire votre demande de code télépoint directement en ligne.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-24</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R35818</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N530">Permis de conduire</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R35818" type="Téléservice">Télépoints : demande de code (département 45 ou 92 uniquement)</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Si vous êtes résident du département du Loiret (45) ou  des Hauts-de-Seine (92), vous pouvez  faire votre demande de code télépoint directement en ligne. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://permisdeconduire.ants.gouv.fr/Services-associes/Demande-de-votre-code-Telepoints">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<Dossier ID="N530">
+<Titre>Permis de conduire</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

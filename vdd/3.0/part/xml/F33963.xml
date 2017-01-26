@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33963" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carte de stationnement résidentiel</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>La carte de stationnement résidentiel est un document qui permet de stationner à des conditions préférentielles à proximité de son domicile.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-08</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33963</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20444</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N20444">Cartes de transport</Niveau>
+<Niveau ID="F33963" type="Fiche d'information">Carte de stationnement résidentiel</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N20444">
+<Titre>Cartes de transport</Titre>
+<Fiche ID="F34049">Carte mobilité inclusion</Fiche>
+<Fiche ID="F2446">Carte d'invalidité</Fiche>
+<Fiche ID="F15066">Carte de priorité d'accès aux lieux publics</Fiche>
+<Fiche ID="F2891">Carte européenne de stationnement</Fiche>
+<Fiche ID="F33963">Carte de stationnement résidentiel</Fiche>
+<Fiche ID="F15292">Carte famille nombreuse</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La carte de stationnement résidentiel est un document qui permet de stationner à des conditions préférentielles à proximité de son domicile.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Ce document permet de stationner à un tarif préférentiel à proximité de son domicile dans les rues ouvertes au stationnement résidentiel.</Paragraphe>
+<Paragraphe>Il peut prendre la forme d'une carte ou d'une vignette.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Votre demande doit être faite directement auprès du service voirie de votre mairie. La carte est faite sur place généralement sur présentation des pièces suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>carte grise de votre véhicule à votre nom et prénom et  à l'adresse de votre <LienIntra LienID="R1064" type="Définition de glossaire">résidence principale</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dernier avis de la taxe d'habitation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>justificatif de domicile datant de moins de 3 mois (facture d'électricité, d'eau, de gaz ou de téléphone...).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour connaître avec exactitude la liste des pièces à fournir, vous devez vous renseigner auprès de votre mairie.</Paragraphe>
+<Paragraphe>Vous pouvez demander jusqu'à 2 cartes maximum pour votre foyer.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>certaines mairies proposent d'effectuer la demande de carte de stationnement sur leur site internet. </Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Variable : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>gratuit dans certaines communes et pour certaines personnes (par exemple, personne non soumise à l'impôt sur le revenu), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>payant (montant variable) dans d'autres.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Utilisation</Paragraphe>
+</Titre><Paragraphe>La carte est valable pour une durée variant de 1 à 3 ans selon les communes. Le renouvellement n'est pas automatique : vous devez en faire la demande en présentant les mêmes pièces justificatives actualisées.</Paragraphe>
+<Paragraphe>La carte (ou vignette) doit être glissée dans l'étui plastique fourni avec la carte et être apposée sur le pare-brise de votre véhicule (côté droit). Les tickets de paiement délivrés par l'horodateur doivent être glissés dans le 2<Exposant>e</Exposant> compartiment de l'étui plastique, à côté de la carte de stationnement.</Paragraphe>
+<Paragraphe>Les zones concernées par le stationnement résidentiel vous sont communiquées au moment de l'obtention de la carte. Ces zones peuvent également être consultées sur le site internet de votre mairie.</Paragraphe>
+<Paragraphe>Il est toutefois recommandé de vérifier quotidiennement que le stationnement est toujours autorisé, car certains arrêtés peuvent le suspendre temporairement (par exemple, pour travaux de voirie).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En cas de changement de véhicule ou de domicile</Paragraphe>
+</Titre><Paragraphe>Vous devez faire une nouvelle demande en présentant les mêmes pièces justificatives actualisées.</Paragraphe>
+<Paragraphe>Une nouvelle carte (ou vignette) vous sera délivrée en échange de la précédente.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N20444" audience="Particuliers">
+<Titre>Cartes de transport</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N367" audience="Particuliers">
+<Titre>Carte grise (certificat d'immatriculation)</Titre>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<Definition ID="R1064">
+<Titre>Résidence principale (droit immobilier)</Titre>
+<Texte>
+				<Paragraphe>Logement occupé au moins 8 mois par an (sauf obligation professionnelle, raison de santé ou cas de force majeure), soit par le preneur (le locataire) ou la personne avec laquelle il vit, soit par une personne à charge</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F33371" audience="Particuliers">Qu'est-ce que le certificat qualité de l'air appelé Crit'Air ?</QuestionReponse>
+
+</Publication>

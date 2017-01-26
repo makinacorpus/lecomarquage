@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R612" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Contrat d'insertion dans la vie sociale (Civis)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Modèle de contrat permettant de conclure un contrat d'insertion dans la vie sociale (Civis)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-21</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R612</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N443">Contrats d'insertion</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R612" type="Formulaire">Contrat d'insertion dans la vie sociale (Civis)</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12547*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Modèle de contrat permettant de conclure un contrat d'insertion dans la vie sociale (Civis)</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://travail-emploi.gouv.fr/IMG/pdf/contrat_civis_circ_2006-30.pdf">
+<Source>Ministère en charge de la formation professionnelle</Source>
+</LienWeb>
+<FicheLiee ID="F12289" audience="Particuliers" type="Fiche d'information">
+<Titre>Contrat d'insertion dans la vie sociale (Civis)</Titre>
+<Dossier ID="N443">Contrats d'insertion</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

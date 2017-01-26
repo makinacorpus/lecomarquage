@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23744" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Déclaration d'une cessation d'activité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Une société, un entrepreneur individuel ou un travailleur indépendant qui cesse son activité doit effectuer des démarches de radiation afin que sa cessation d'activité soit effective. La cessation d'activité d'une entreprise peut avoir de multiples raisons : départ en retraite, vente de l'entreprise, décès de l'exploitant, etc.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2016-04-06</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23744</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025559457&amp;idSectionTA=LEGISCTA000006162526&amp;cidTexte=LEGITEXT000006069577, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173215&amp;cidTexte=LEGITEXT000006073189</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16594</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16594">Cessation, transmission et reprise d'entreprise</Niveau>
+<Niveau ID="F23744" type="Fiche d'information">Déclaration d'une cessation d'activité</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31376">Modification - Cessation</SousThemePere><DossierPere ID="N16594">
+<Titre>Cessation, transmission et reprise d'entreprise</Titre><SousDossier ID="N16594-1">
+<Titre>Cessation d'activité</Titre>
+<Fiche ID="F23744">Déclaration d'une cessation d'activité</Fiche>
+<Fiche ID="F32703">Cessation temporaire d'activité ou mise en sommeil d'une entreprise</Fiche>
+</SousDossier>
+<SousDossier ID="N16594-2">
+<Titre>Cession de fonds de commerce</Titre>
+<Fiche ID="F22532">Formalités de cession</Fiche>
+<Fiche ID="F23507">Déclarations fiscales</Fiche>
+<Fiche ID="F31427">Cession d'une entreprise aux salariés : exonérations pour les cédants</Fiche>
+</SousDossier>
+<SousDossier ID="N16594-3">
+<Titre>Transmission</Titre>
+<Fiche ID="F23891">Transmission ou reprise d'une entreprise</Fiche>
+<Fiche ID="F32307">Transmission d'entreprise : exonération de la plus-value professionnelle</Fiche>
+<Fiche ID="F23670">Transmission d'une exploitation agricole</Fiche>
+</SousDossier>
+<SousDossier ID="N16594-4">
+<Titre>Reprise</Titre>
+<Fiche ID="F31837">Réductions et exonérations fiscales pour les repreneurs d'entreprise</Fiche>
+<Fiche ID="F31406">Reprise d'entreprise par transformation en Scop</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Cessation d'activité</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Une société, un entrepreneur individuel ou un travailleur indépendant qui cesse son activité doit effectuer des démarches de radiation afin que sa cessation d'activité soit effective. La cessation d'activité d'une entreprise peut avoir de multiples raisons : départ en retraite, vente de l'entreprise, décès de l'exploitant, etc.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Radiation ou dissolution de l'entreprise</Paragraphe>
+</Titre><Paragraphe>Que l'activité soit commerciale, artisanale, libérale ou agricole, la cessation d'activité  doit être déclarée <MiseEnEvidence>dans les 30 jours</MiseEnEvidence> suivant la fin de l'activité auprès du <LienInterne LienPublication="R24399" type="Sigle">CFE</LienInterne> dont dépend l'entreprise et auprès duquel le début d'activité avait été déclaré.</Paragraphe>
+<Paragraphe>Cette déclaration entraîne la radiation de l'entreprise :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des registres légaux : <LienInterne LienPublication="R24403" type="Sigle">RCS</LienInterne>, répertoire des métiers et de l'artisanat, registre spécial des agents commerciaux ou registre spécial des <LienInterne LienPublication="R24384" type="Sigle">EIRL</LienInterne> (RSEIRL),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du répertoire Sirene,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> des fichiers des affiliés professionnels des organismes sociaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> des fichiers des professionnels actifs gérés par l'administration fiscale.</Paragraphe>
+</Item>
+</Liste>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Personne morale (société commerciale ou civile...)</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R31618" URL="https://www.infogreffe.fr/societes/formalites-entreprise/formalites.html" type="Téléservice">
+<Titre>Démarches en ligne auprès des greffes des tribunaux de commerce</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R17347" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11685.do" numerocerfa="11685*02" autrenumero="M4" type="Formulaire">
+<Titre>Déclaration de radiation d'une entreprise - Personne morale (M4)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11681*02">
+<Titre>Intercalaire - Suite des imprimés M2, M2 agricole, M4, M4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11681.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Entrepreneur individuel (artisan, commerçant, etc.)</Paragraphe>
+</Titre><ServiceEnLigne ID="R17345" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11679.do" format="application/force-download" poids="339.1 KB" numerocerfa="11679*02" autrenumero="P4 CMB" type="Formulaire">
+<Titre>Déclaration de radiation d'une entreprise - Personne physique (P4 CMB)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<Introduction>
+<Texte><Paragraphe>Pour les commerçants, les artisans et les métiers de la batellerie</Paragraphe>
+</Texte>
+</Introduction>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11677*01">
+<Titre>Intercalaire P' - Suite de l'imprimé P2, P2 agricole, P4, P4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11677.do" format="application/pdf" poids="2.1 MB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<OuSAdresser ID="R29" type="Local personnalisé sur SP">
+<Titre>Greffe du tribunal de commerce</Titre>
+<PivotLocal>tribunal_commerce</PivotLocal>
+<RessourceWeb URL="https://www.infogreffe.fr/societes/recherche-greffe-tribunal/chercher-greffe-tribunal-de-commerce.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R37" type="Local personnalisé sur SP">
+<Titre>Chambre de métiers et de l'artisanat (CMA)</Titre>
+<PivotLocal>chambre_metier</PivotLocal>
+<RessourceWeb URL="http://annuairecma.artisanat.fr/"/>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Profession libérale,  vendeur à domicile ou autre travailleur indépendant</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R17455" URL="https://www.cfe.urssaf.fr/saisiepl/" numerocerfa="13231*01" type="Téléservice">
+<Titre>Déclaration d'activité, modification ou radiation en ligne pour les professions libérales, les artistes auteurs et les vendeurs à domicile</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+<Texte><Paragraphe>Permet d'effectuer en ligne les déclarations suivantes auprès de l'Urssaf :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déclaration d'activité, modification de situation (notamment transfert du siège social ou changement d'adresse) ou d'activité pour une profession libérale ou assimilée (liasse papier P2PL),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>radiation ou cessation définitive d'activité (ou déclaration de décès) pour une profession libérale ou assimilée (liasse papier P4PL),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration d'activité, modification de situation pour un artiste auteur, un taxi-locataire ou un vendeur à domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>radiation ou cessation définitive d'activité pour un artiste auteur, un taxi-locataire ou un vendeur à domicile.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R18032" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11932.do" format="application/force-download" poids="301.2 KB" numerocerfa="11932*02" autrenumero="P4 PL" type="Formulaire">
+<Titre>Déclaration de cessation d'activité - Personne physique (P4 PL)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Artiste auteur</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R17455" URL="https://www.cfe.urssaf.fr/saisiepl/" numerocerfa="13231*01" type="Téléservice">
+<Titre>Déclaration d'activité, modification ou radiation en ligne pour les professions libérales, les artistes auteurs et les vendeurs à domicile</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+<Texte><Paragraphe>Permet d'effectuer en ligne les déclarations suivantes auprès de l'Urssaf :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déclaration d'activité, modification de situation (notamment transfert du siège social ou changement d'adresse) ou d'activité pour une profession libérale ou assimilée (liasse papier P2PL),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>radiation ou cessation définitive d'activité (ou déclaration de décès) pour une profession libérale ou assimilée (liasse papier P4PL),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration d'activité, modification de situation pour un artiste auteur, un taxi-locataire ou un vendeur à domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>radiation ou cessation définitive d'activité pour un artiste auteur, un taxi-locataire ou un vendeur à domicile.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+<Paragraphe>Vous devez transmettre à la Maison des artistes (MDA) une copie de la déclaration faite sur le site de l'Urssaf dans les 2 mois qui suivent la cessation d'activité, dans votre <LienInterne LienPublication="R40000" type="Téléservice" audience="Professionnels">espace privé MDA</LienInterne>, rubrique "Mes documents", "Déposer un document", en choisissant le type de document "P0/P2/P4 Urssaf" dans le menu déroulant.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R18032" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11932.do" format="application/force-download" poids="301.2 KB" numerocerfa="11932*02" autrenumero="P4 PL" type="Formulaire">
+<Titre>Déclaration de cessation d'activité - Personne physique (P4 PL)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<Paragraphe>Vous devez transmettre à la Maison des artistes (MDA) une copie de la déclaration faite à l'Urssaf dans les 2 mois qui suivent la cessation d'activité.</Paragraphe><OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Agent commercial </Paragraphe>
+</Titre><ServiceEnLigne ID="R33063" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14354.do" format="application/force-download" poids="297.7 KB" numerocerfa="14354*01" autrenumero="AC4" type="Formulaire">
+<Titre>Déclaration de radiation pour un agent commercial</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Exploitant agricole</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Personne morale (société commerciale ou civile...)</Paragraphe>
+</Titre><ServiceEnLigne ID="R18034" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11929.do" format="application/force-download" poids="305.6 KB" numerocerfa="11929*02" autrenumero="M4 agricole" type="Formulaire">
+<Titre>Déclaration de radiation d'une entreprise agricole - Personne morale (M4 agricole)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11681*02">
+<Titre>Intercalaire - Suite des imprimés M2, M2 agricole, M4, M4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11681.do" format="application/pdf" poids="138.8 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<OuSAdresser ID="R35" type="Local personnalisé sur SP">
+<Titre>Chambre d'agriculture</Titre>
+<PivotLocal>chambre_agriculture</PivotLocal>
+<RessourceWeb URL="http://www.chambres-agriculture.fr/chambres-dagriculture/nous-connaitre/lannuaire-des-chambres-dagriculture/"/>
+<Source ID="R30771">Assemblée permanente des chambres d'agriculture (APCA)</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Personne physique</Paragraphe>
+</Titre><ServiceEnLigne ID="R18033" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11936.do" format="application/force-download" poids="308.0 KB" numerocerfa="11936*02" autrenumero="P4 agricole" type="Formulaire">
+<Titre>Déclaration de cessation d'activité d'une entreprise agricole - Personne physique (P4 agricole)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11677*01">
+<Titre>Intercalaire P' - Suite de l'imprimé P2, P2 agricole, P4, P4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11677.do" format="application/pdf" poids="2.1 MB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<OuSAdresser ID="R35" type="Local personnalisé sur SP">
+<Titre>Chambre d'agriculture</Titre>
+<PivotLocal>chambre_agriculture</PivotLocal>
+<RessourceWeb URL="http://www.chambres-agriculture.fr/chambres-dagriculture/nous-connaitre/lannuaire-des-chambres-dagriculture/"/>
+<Source ID="R30771">Assemblée permanente des chambres d'agriculture (APCA)</Source>
+</OuSAdresser>
+
+<Paragraphe>Afin de faciliter la <LienInterne LienPublication="F23670" type="Fiche d'information" audience="Professionnels">transmission des exploitations agricoles</LienInterne> sans repreneur, l'agriculteur doit adresser à la chambre d'agriculture <MiseEnEvidence>18 mois</MiseEnEvidence> avant l'âge requis pour la retraite une déclaration d'intention de cessation d'activité agricole-DICAA.</Paragraphe><ServiceEnLigne ID="R11212" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14453.do" format="application/pdf" poids="69.7 KB" numerocerfa="14453*02" type="Formulaire">
+<Titre>Déclaration d'intention de cessation d'activité agricole (DICAA)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R1184" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=14453&amp;cerfaNotice=51542" numerocerfa="51542#02" format="application/pdf" poids="67.0 KB">Notice explicative pour la déclaration d'intention de cessation d'activité agricole</NoticeLiee>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le formulaire P2 P4i (cerfa n°11996*02), qui permettait la déclaration de radiation des activités non salariées relevant du CFE impôt (artiste, auteur, taxi-locataire, vendeur à domicile...), n'est plus en vigueur.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration fiscale de résultat ou des revenus</Paragraphe>
+</Titre><Paragraphe>La cessation d'activité entraîne l'imposition immédiate :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des bénéfices ou des recettes réalisés depuis le dernier exercice clos (ou depuis le 1<Exposant>er</Exposant> janvier pour les exercices clos au 31 décembre), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des bénéfices en sursis d'imposition (provisions constituées avant la cessation, plus-values dont l'imposition avait été différée),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> des plus-values réalisées sur la vente des immobilisations.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La déclaration de résultats, imposés d'après le régime du bénéfice réel normal ou simplifié, doit être télétransmise dans les <MiseEnEvidence>60 jours</MiseEnEvidence> suivant la cessation.</Paragraphe>
+<Paragraphe>Le délai débute à partir de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la publication de la cession du fonds de commerce dans un <LienInterne LienPublication="F31972" type="Fiche Question-réponse" audience="Professionnels">journal d'annonces légales</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la fermeture définitive de l'établissement où l'activité était exercée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la cessation effective d'une activité libérale ou indépendante (artiste auteur par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'il s'agit d'une profession réglementée, la publication au <Expression>Journal officiel</Expression> de la nomination du nouveau titulaire de la charge ou de l'office, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la prise effective de la direction de l'exploitation par l'acquéreur de l'entreprise.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le formulaire de télédéclaration de résultats dépend du statut juridique de l'entreprise ou du travailleur indépendant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pour une personne morale ou une société : <LienInterne LienPublication="R19525" type="Formulaire" audience="Professionnels">(imprimé n°2065 et ses annexes)</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pour une entreprise individuelle (commerçant, artisan, etc.) soumise à l'impôt sur le revenu dans la catégorie des <LienInterne LienPublication="R24381" type="Sigle">BIC</LienInterne> :   <LienInterne LienPublication="R14120" type="Formulaire" audience="Professionnels">(imprimé n°2031 et ses annexes)</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pour une entreprise individuelle (profession libérale par exemple) ou une société soumise à l'impôt sur le revenu dans la catégorie des <LienInterne LienPublication="R24380" type="Sigle">BNC</LienInterne> : <LienInterne LienPublication="R14113" type="Formulaire" audience="Professionnels">(imprimé n°2035 et ses annexes)</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pour les bénéfices agricoles : régime agricole simplifié <LienInterne LienPublication="R14117" type="Formulaire" audience="Professionnels">(imprimé n°2139)</LienInterne> ou régime réel normal <LienInterne LienPublication="R14118" type="Formulaire" audience="Professionnels">(imprimé n°2143)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les éventuelles plus-values, réalisées lors de la cession du fonds de commerce par exemple, peuvent être exonérées d'imposition <LienInterne LienPublication="F23507" type="Fiche d'information" audience="Professionnels">sous certaines conditions.</LienInterne>
+</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si la cessation est liée au décès de l'exploitant, les héritiers ou ayants droit ont <MiseEnEvidence>6 mois</MiseEnEvidence> pour déposer ces déclarations.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration de la taxe sur la valeur ajoutée (TVA)</Paragraphe>
+</Titre><Paragraphe>La cessation d'activité entraîne le paiement de la TVA pour les redevables qui y sont assujettis.</Paragraphe>
+<Paragraphe>Dans ce cas, doit être télétransmise une déclaration de TVA  dans un délai de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>30 jours pour le régime d'imposition au réel normal : <LienInterne LienPublication="R14660" type="Formulaire" audience="Professionnels">déclaration CA3</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>60 jours pour le régime d'imposition réel simplifié : <LienInterne LienPublication="R14665" type="Formulaire" audience="Professionnels">déclaration CA12</LienInterne> ou <LienInterne LienPublication="R14664" type="Formulaire" audience="Professionnels">CA 12 A</LienInterne> pour un agriculteur</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Taxe sur les salaires</Paragraphe>
+</Titre><Paragraphe>L'employeur est tenu de souscrire dans les 60 jours, et au plus tard le 15 janvier de l'année suivante, la déclaration annuelle de liquidation et de régularisation de la <LienInterne LienPublication="F22576" type="Fiche d'information" audience="Professionnels">taxe sur les salaires</LienInterne>.</Paragraphe>
+<Paragraphe>En cas de décès de l'employeur, la déclaration doit être effectuée dans les 6 mois du décès et au plus tard le 15 janvier de l'année suivante.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contribution économique territoriale (CET)</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Cotisation foncière des entreprises (CFE)</Paragraphe>
+</Titre><Paragraphe>La date de cessation détermine les modalités d'imposition de la CFE :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si l'activité est cessée au 31 décembre, la totalité de la cotisation due pour l'année de cessation doit être payée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si la cessation de l'activité intervient en cours d'année, il est possible de demander au SIE une réduction de la cotisation au prorata du temps d'activité.</Paragraphe>
+</Item>
+</Liste><ServiceEnLigne ID="R14697" URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4808&amp;typePage=ifi01" numerocerfa="14031*06" autrenumero="1447-M-SD" type="Formulaire">
+<Titre>Déclaration de modification pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>En cas de modification de la surface des locaux, de demande d'exonération ou  de modification survenue au cours de la période de référence d'un élément quelconque de la précédente déclaration déposée.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Cotisation sur la valeur ajoutée des entreprises (CVAE)</Paragraphe>
+</Titre><Paragraphe>Pour la cotisation sur la valeur ajoutée des entreprises (CVAE), la <LienInterne LienPublication="R14698" type="Formulaire" audience="Professionnels">déclaration de la valeur ajoutée et des effectifs salariés</LienInterne> et la <LienInterne LienPublication="R18059" type="Formulaire" audience="Professionnels">déclaration de liquidation et de régularisation</LienInterne> doivent être adressées dans les <MiseEnEvidence>60 jours</MiseEnEvidence> suivant la cessation.</Paragraphe>
+<Paragraphe>La CVAE est due uniquement par les entreprises, ou personnes exerçant une activité professionnelle non salariée, qui réalisent plus de 500.000 € de chiffre d'affaires hors taxe, quel que soit leur statut juridique, leur activité ou leur régime d'imposition.</Paragraphe>
+<Paragraphe>Cependant, toutes les entreprises dont le chiffre d'affaires est supérieur à <Valeur>152 500 €</Valeur> doivent effectuer la déclaration de valeur ajoutée et des effectifs salariés qui sert à en déterminer la base d'imposition, même si elles ne sont pas redevables de la CVAE.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclarations sociales</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Demande de radiation</Paragraphe>
+</Titre><Paragraphe>Il est inutile d'effectuer une demande de radiation auprès de sa caisse d'assurance sociale :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> le RSI pour le travailleur indépendant qui cesse une activité commerciale, artisanale, industrielle ou libérale, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la MSA pour l'exploitant agricole.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>C'est en effet le CFE, auprès duquel la cessation d'activité a été déclarée, qui leur transmet l'information. L'assuré reçoit dans les 30 jours une notification de radiation lui indiquant la situation de son compte (débiteur ou créditeur). La procédure de radiation s'engage automatiquement à la date de la cessation d'activité. </Paragraphe>
+<Paragraphe>Le cotisant dispose de <MiseEnEvidence>90 jours</MiseEnEvidence> suivant la date d'effet de la radiation, pour déclarer ses revenus pour l'année de cessation et l'année précédente au moyen de la déclaration sociale des indépendants (DSI).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>pour les artistes auteurs, la transmission n'est pas automatique : l'artiste auteur qui cesse son activité doit transmettre à la Maison des artistes ou à l'Agessa une copie de la déclaration faite à l'Urssaf dans les deux mois qui suivent la cessation d'activité.</Paragraphe>
+</Attention><BlocCas type="modalite" affichage="onglet" personnalisable="personnalisable">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R17834" URL="http://www.net-entreprises.fr/html/dsi.htm" numerocerfa="12158*05" type="Téléservice">
+<Titre>Déclaration sociale des professions indépendantes (DSI) en ligne</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+<Texte><Paragraphe>Permet aux entrepreneurs individuels, artisans, industriels, commerçants, professionnels libéraux, dirigeants non salariés de société, de déclarer leur revenu servant de base au calcul de toutes les cotisations et contributions obligatoires (assurance maladie, assurance vieillesse, allocations familiales, CSG et CRDS). </Paragraphe>
+<Paragraphe>Service gratuit avec inscription préalable. </Paragraphe>
+<Paragraphe>Remplace la déclaration commune des revenus des professions indépendantes (DCR).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si votre revenu de l'année 2014 était supérieur à <Valeur>7 846 €</Valeur>, la déclaration doit être obligatoirement effectuée en ligne.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R17441" URL="https://www.rsi.fr/fileadmin/mediatheque/.Phototheque/Images_evenementielles/Dossiers_Zoom/DSI/DSI_declaration_revenus_N-1.pdf" format="application/pdf" poids="488.6 KB" numerocerfa="10020*20" autrenumero="S2223a" type="Formulaire">
+<Titre>Déclaration sociale des indépendants (DSI)</Titre>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+<Texte><Paragraphe>Permet aux travailleurs indépendants (artisans, commerçants, professions libérales, entrepreneurs individuels et gérants non salariés de société), ou leurs mandataires (experts-comptables, associations et centres de gestion agréés), de déclarer leurs revenus à la caisse du régime social des indépendants (RSI) pour établir la base de calcul des cotisations et contributions obligatoires (maladie, vieillesse, allocations familiales, CSG et CRDS) dues pour leur activité indépendante.</Paragraphe>
+<Paragraphe>Remplace la déclaration commune des revenus des professions indépendantes (DCR) et la  déclaration complémentaire des revenus agricoles (cerfa 12235*19).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si votre revenu de l'année 2014 était supérieur à <Valeur>7 846 €</Valeur>, la déclaration de vos revenus 2015 doit être obligatoirement effectuée en ligne.</Paragraphe>
+</Attention>
+</Texte>
+</ServiceEnLigne>
+<OuSAdresser ID="R14093" type="Local personnalisable">
+<Titre>Caisse régionale du Régime social des indépendants (RSI)</Titre>
+<PivotLocal>rsi</PivotLocal>
+<RessourceWeb URL="http://www.rsi.fr/adresses-utiles/caisses-rsi.html"/>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Régularisation des cotisations</Paragraphe>
+</Titre><Paragraphe>Les cotisations d'assurance maladie-maternité, d'allocations familiales et retraite de base font l'objet d'une régularisation, avec avis de paiement.</Paragraphe>
+<Paragraphe>Étant donné que les cotisations sont provisionnelles (les cotisations maladie-maternité, invalidité-décès, indemnités journalières, retraite de base et complémentaire, allocations familiales et CSG-CRDS sont calculées sur le revenu professionnel de l'année précédente N-1), si vous déclarez une cessation d'activité en 2016, vous avez versé les cotisations et contributions calculées sur les revenus de l'année 2014 et vous êtes redevable des cotisations et contributions calculées sur les revenus des années  2015 et 2016, déduction faite des éventuels versements déjà effectués.</Paragraphe>
+<Paragraphe>Pour acquitter le paiement des cotisations et contributions, le cotisant dispose d'un délai de <MiseEnEvidence>30 jours</MiseEnEvidence> suivant la date d'envoi de l'avis d'appel établi sur la base de la DSI déclarée après la radiation.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Caisse de retraite</Paragraphe>
+</Titre><Paragraphe>Parallèlement, l'assuré doit procéder à sa radiation au régime d'assurance vieillesse dont il dépend :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>commerçant ou artisan : la cotisation provisionnelle est calculée jusqu'au dernier jour du trimestre au cours duquel a lieu la cessation d'activité (par exemple, pour une cessation intervenant le 15 janvier, le calcul est effectué jusqu'au 31 mars) et est régularisée sur les revenus de l'année de cessation d'activité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>profession libérale : la cotisation est calculée jusqu'au dernier jour du trimestre qui suit la date de la cessation d'activité (pour une cessation ayant lieu le 15 janvier, la cotisation est due jusqu'au 30 juin).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F31263" audience="Professionnels">
+<Titre>Accompagnement au départ à la retraite (ADR) des travailleurs indépendants</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<Complement>Pour accéder au CFE dont vous dépendez</Complement>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<Complement>Pour la déclaration de cessation d'activité d'une profession libérale</Complement>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R37" type="Local personnalisé sur SP">
+<Titre>Chambre de métiers et de l'artisanat (CMA)</Titre>
+<Complement>Pour la déclaration de cessation d'activité d'un artisan</Complement>
+<PivotLocal>chambre_metier</PivotLocal>
+<RessourceWeb URL="http://annuairecma.artisanat.fr/"/>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R35" type="Local personnalisé sur SP">
+<Titre>Chambre d'agriculture</Titre>
+<Complement>Pour la déclaration de cessation d'activité d'un exploitant agricole</Complement>
+<PivotLocal>chambre_agriculture</PivotLocal>
+<RessourceWeb URL="http://www.chambres-agriculture.fr/chambres-dagriculture/nous-connaitre/lannuaire-des-chambres-dagriculture/"/>
+<Source ID="R30771">Assemblée permanente des chambres d'agriculture (APCA)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R29" type="Local personnalisé sur SP">
+<Titre>Greffe du tribunal de commerce</Titre>
+<Complement>Pour la déclaration de cessation d'activité d'un commerçant et radiation du RCS</Complement>
+<PivotLocal>tribunal_commerce</PivotLocal>
+<RessourceWeb URL="https://www.infogreffe.fr/societes/recherche-greffe-tribunal/chercher-greffe-tribunal-de-commerce.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour les déclarations fiscales et la déclaration de cessation d'activité d'un travailleur indépendant relevant du CFE impôt</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14093" type="Local personnalisable">
+<Titre>Caisse régionale du Régime social des indépendants (RSI)</Titre>
+<Complement>Pour des renseignements concernant la protection sociale</Complement>
+<PivotLocal>rsi</PivotLocal>
+<RessourceWeb URL="http://www.rsi.fr/adresses-utiles/caisses-rsi.html"/>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025559457&amp;idSectionTA=LEGISCTA000006162526&amp;cidTexte=LEGITEXT000006069577" ID="R32358">
+<Titre>Code général des impôts : articles 201 à 204</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173215&amp;cidTexte=LEGITEXT000006073189" ID="R43603">
+<Titre>Code de la sécurité sociale : articles R131-1 à R131-8</Titre>
+<Complement>Voir l'article R131-6</Complement>
+</Reference>
+<ServiceEnLigne ID="R31457" URL="https://www.pple.fr/" type="Téléservice">
+<Titre>Portail de la publicité légale des entreprises (PPLE)</Titre>
+<Source ID="R31458">Groupement d'intérêt public GIP-PPLE</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17347" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11685.do" numerocerfa="11685*02" autrenumero="M4" type="Formulaire">
+<Titre>Déclaration de radiation d'une entreprise - Personne morale (M4)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11681*02">
+<Titre>Intercalaire - Suite des imprimés M2, M2 agricole, M4, M4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11681.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20462" URL="http://www.bodacc.fr/" type="Téléservice">
+<Titre>Consultation du Bulletin officiel des annonces civiles et commerciales (Bodacc)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17345" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11679.do" format="application/force-download" poids="339.1 KB" numerocerfa="11679*02" autrenumero="P4 CMB" type="Formulaire">
+<Titre>Déclaration de radiation d'une entreprise - Personne physique (P4 CMB)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11677*01">
+<Titre>Intercalaire P' - Suite de l'imprimé P2, P2 agricole, P4, P4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11677.do" format="application/pdf" poids="2.1 MB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17488" URL="http://www.guichet-entreprises.fr" type="Téléservice">
+<Titre>Guichet-entreprises : guichet unique pour la création d'entreprise</Titre>
+<Source ID="R30812">Service Guichet entreprises</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18032" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11932.do" format="application/force-download" poids="301.2 KB" numerocerfa="11932*02" autrenumero="P4 PL" type="Formulaire">
+<Titre>Déclaration de cessation d'activité - Personne physique (P4 PL)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33063" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14354.do" format="application/force-download" poids="297.7 KB" numerocerfa="14354*01" autrenumero="AC4" type="Formulaire">
+<Titre>Déclaration de radiation pour un agent commercial</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13751" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11924.do" format="application/force-download" poids="711.6 KB" numerocerfa="11924*01" autrenumero="F CMB" type="Formulaire">
+<Titre>Déclaration d'exploitation en commun - Création, modification ou cessation (F CMB)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18034" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11929.do" format="application/force-download" poids="305.6 KB" numerocerfa="11929*02" autrenumero="M4 agricole" type="Formulaire">
+<Titre>Déclaration de radiation d'une entreprise agricole - Personne morale (M4 agricole)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11681*02">
+<Titre>Intercalaire - Suite des imprimés M2, M2 agricole, M4, M4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11681.do" format="application/pdf" poids="138.8 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18033" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11936.do" format="application/force-download" poids="308.0 KB" numerocerfa="11936*02" autrenumero="P4 agricole" type="Formulaire">
+<Titre>Déclaration de cessation d'activité d'une entreprise agricole - Personne physique (P4 agricole)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11677*01">
+<Titre>Intercalaire P' - Suite de l'imprimé P2, P2 agricole, P4, P4 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11677.do" format="application/pdf" poids="2.1 MB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13750" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11923.do" format="application/force-download" poids="258.3 KB" numerocerfa="11923*02" autrenumero="F agricole" type="Formulaire">
+<Titre>Déclaration d'exploitation en commun d'une entreprise agricole - Création, modification ou cessation (F agricole)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R13766" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11923*02&amp;cerfaNotice=50875%2302" numerocerfa="50875#02" format="application/pdf" poids="114.2 KB">Notice pour la déclaration d'exploitation en commun d'une entreprise agricole (notice)</NoticeLiee>
+<NoticeLiee ID="R18891" URL="https://www.impots.gouv.fr/portail/formulaire/974-sd/guide-pratique-fiscal-declarations-p0-m0-f-p1-ac0-g0-et-p-eirl-creation" numerocerfa="50812#15 - 974A">Notice d'information fiscale des créateurs d'exploitations agricoles</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17438" URL="http://www.net-entreprises.fr/html/societes_etrangeres.htm#Formulaire-E2" autrenumero="E2/E4" type="Formulaire">
+<Titre>Déclaration de modification ou de cessation d'une entreprise employant du personnel salarié et ne comportant pas d'établissement en France</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19525" URL="https://www.impots.gouv.fr/portail/node/8908" numerocerfa="11084*17" autrenumero="2065" type="Formulaire">
+<Titre>Déclaration d'impôt sur les sociétés</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14120" URL="https://www.impots.gouv.fr/portail/node/8851" numerocerfa="11085*19" autrenumero="2031-SD" type="Formulaire">
+<Titre>Bénéfices industriels et commerciaux (BIC) - Déclaration de résultats</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14113" URL="https://www.impots.gouv.fr/portail/node/8854" numerocerfa="11176*19" autrenumero="2035-SD" type="Formulaire">
+<Titre>Bénéfices non commerciaux (BNC) - Régime de la déclaration contrôlée</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14117" URL="https://www.impots.gouv.fr/portail/node/8985" numerocerfa="11144*18" autrenumero="2139-SD" type="Formulaire">
+<Titre>Bénéfices agricoles - Régime du bénéfice réel simplifié</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14118" URL="https://www.impots.gouv.fr/portail/node/8988" numerocerfa="11148*18" autrenumero="2143-SD" type="Formulaire">
+<Titre>Bénéfices agricoles - Régime réel normal d'imposition - Déclaration</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14660" URL="https://www.impots.gouv.fr/portail/node/9079" numerocerfa="10963*21" autrenumero="3310-CA3" type="Formulaire">
+<Titre>Déclaration de la taxe sur la valeur ajoutée (TVA) - Régime normal</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14665" URL="https://www.impots.gouv.fr/portail/node/9095" numerocerfa="11417*17" autrenumero="3517-S - CA 12" type="Formulaire">
+<Titre>Déclaration annuelle de régularisation de TVA - Régime simplifié</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14664" URL="https://www.impots.gouv.fr/portail/formulaire/3517-agr-sd/declaration-annuelle-de-regularisation-de-tva-regime-simplifie-agricole" numerocerfa="10968*16" autrenumero="3517-AGR - CA12A" type="Formulaire">
+<Titre>Déclaration annuelle de régularisation de TVA - Régime simplifié agricole</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14697" URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4808&amp;typePage=ifi01" numerocerfa="14031*06" autrenumero="1447-M-SD" type="Formulaire">
+<Titre>Déclaration de modification pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14698" URL="https://www.impots.gouv.fr/portail/node/8828" numerocerfa="14030*07" autrenumero="1330-CVAE-SD" type="Formulaire">
+<Titre>Cotisation sur la valeur ajoutée des entreprises (CVAE) - Déclaration de la valeur ajoutée et des effectifs salariés</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R11212" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14453.do" format="application/pdf" poids="69.7 KB" numerocerfa="14453*02" type="Formulaire">
+<Titre>Déclaration d'intention de cessation d'activité agricole (DICAA)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R1184" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=14453&amp;cerfaNotice=51542" numerocerfa="51542#02" format="application/pdf" poids="67.0 KB">Notice explicative pour la déclaration d'intention de cessation d'activité agricole</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19328" URL="http://travail-emploi.gouv.fr/IMG/pdf/formulaire_66607.pdf" format="application/pdf" poids="0" numerocerfa="61-2183" type="Formulaire">
+<Titre>Déclaration de création, modification ou cessation d'activité d'une entreprise de travail temporaire (interim)</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R20139" URL="https://www.infogreffe.fr/societes/formalites-entreprise/radiation-rcs.html" audience="Professionnels">
+<Titre>Formalités de radiation du RCS</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R24380" type="Sigle">
+<Titre>BNC</Titre>
+<Texte>
+<Paragraphe>Bénéfices non commerciaux</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24399" type="Sigle">
+<Titre>CFE</Titre>
+<Texte>
+<Paragraphe>Centre de formalités des entreprises</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24403" type="Sigle">
+<Titre>RCS</Titre>
+<Texte>
+<Paragraphe>Registre du commerce et des sociétés</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24381" type="Sigle">
+<Titre>BIC</Titre>
+<Texte>
+<Paragraphe>Bénéfices industriels et commerciaux</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24384" type="Sigle">
+<Titre>EIRL</Titre>
+<Texte>
+<Paragraphe>Entreprise individuelle à responsabilité limitée</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F20678" audience="Professionnels">Comment un micro-entrepreneur doit-il déclarer sa cessation d'activité ?</QuestionReponse>
+<QuestionReponse ID="F21000" audience="Professionnels">Comment se procurer un extrait K ou Kbis ?</QuestionReponse>
+</Publication>

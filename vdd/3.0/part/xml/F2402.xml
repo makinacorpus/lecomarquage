@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2402" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Paiement par chèque</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le paiement par chèque est soumis à certaines règles comme l'obligation de le dater le jour de sa rédaction. Un commerçant peut refuser un paiement par ce moyen.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-12</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2402</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170823&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170826&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170831&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170833&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F2402" type="Fiche d'information">Paiement par chèque</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Chèques</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le paiement par chèque est soumis à certaines règles comme l'obligation de le dater le jour de sa rédaction. Un commerçant peut refuser un paiement par ce moyen. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Rédaction d'un chèque</Paragraphe>
+</Titre><Paragraphe>Celui qui rédige le chèque et paie la somme est l'émetteur. Celui qui doit toucher la somme est le bénéficiaire.</Paragraphe>
+<Paragraphe>Le chèque doit respecter les règles de forme suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>il ne doit y avoir aucun blanc avant ou après l'inscription de la somme,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la somme doit être portée en chiffres et en lettres : en cas de non-concordance, c'est la somme en lettres qui prime,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le nom du bénéficiaire doit être lisible,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la signature doit être conforme au modèle connu par l'établissement bancaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le chèque doit être daté du jour de sa rédaction : s'il est postdaté, l’émetteur encourt une amende égale à 6 % du montant du chèque (avec un minimum de <Valeur>0,75 €</Valeur>).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Un commerçant peut exiger de l'émetteur la présentation d'une ou 2 pièces d'identité avec photographie.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>l'émission d'un <LienInterne LienPublication="F1930" type="Fiche Question-réponse" audience="Particuliers">chèque sans provision</LienInterne> (ou <Expression>chèque en bois</Expression>) peut être sanctionnée.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Encaissement d'un chèque</Paragraphe>
+</Titre><Paragraphe>La durée de validité d'un chèque est de 1 an et 8 jours. Au delà de ce délai, son bénéficiaire ne peut plus l'encaisser sur son compte bancaire.</Paragraphe>
+<Paragraphe>Pour pouvoir disposer de l'argent correspondant, son bénéficiaire doit l'endosser, c'est-à-dire le signer au verso, et le remettre à une banque avant ce délai.</Paragraphe>
+<Paragraphe>C'est lors de l'encaissement du chèque que le compte de l'émetteur est débité.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>il est possible que le bénéficiaire ne puisse pas toucher la somme due si le chèque encaissé est  <LienInterne LienPublication="F1930" type="Fiche Question-réponse" audience="Particuliers">sans provision</LienInterne>. Certains <LienInterne LienPublication="F2403" type="Fiche d'information" audience="Particuliers">types de chèque</LienInterne> permettent de garantir le paiement de la somme due.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Droit de refus</Paragraphe>
+</Titre><Paragraphe>Un commerçant peut refuser un paiement par chèque ou exiger un montant minimal ou maximal à condition d'en avoir  clairement informé sa clientèle. Cette information se fait par voie d'affichage ou dans ses conditions générales de vente avec une mention du type :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Citation>les chèques ne sont pas acceptés</Citation>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> <Citation>ne sont acceptés qu'à partir de......</Citation>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou <Citation>sont acceptés jusqu'à</Citation>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Toutefois, s'il est adhérent d'un centre de gestion agréé, le commerçant est obligé d'accepter tous les chèques quel que soit leur montant. Dans ce cas, une affichette doit le mentionner dans le magasin.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement à l'étranger</Paragraphe>
+</Titre><Paragraphe>Vous ne pouvez utiliser votre chéquier en euro que dans les <LienInterne LienPublication="F17519" type="Fiche Question-réponse" audience="Particuliers">pays de la zone euro</LienInterne> et que si le commerçant l'accepte.</Paragraphe>
+<Paragraphe>Votre établissement bancaire peut vous prélever des frais.</Paragraphe>
+<Paragraphe>Ces frais sont variables d'un établissement à l'autre.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170823&amp;cidTexte=LEGITEXT000006072026" ID="R22185">
+<Titre>Code monétaire et financier : articles L131-2 à L131-15</Titre>
+<Complement>Création et forme du chèque</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170826&amp;cidTexte=LEGITEXT000006072026" ID="R396">
+<Titre>Code monétaire et financier : articles L131-31 à L131-43</Titre>
+<Complement>Présentation et paiement</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170831&amp;cidTexte=LEGITEXT000006072026" ID="R32721">
+<Titre>Code monétaire et financier : articles L131-59 à L131-60</Titre>
+<Complement>Délai de prescription</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170833&amp;cidTexte=LEGITEXT000006072026" ID="R402">
+<Titre>Code monétaire et financier : articles L131-69 à L131-87</Titre>
+<Complement>Incidents de paiement et sanctions</Complement>
+</Reference>
+<QuestionReponse ID="F1930" audience="Particuliers">Comment régulariser un chèque sans provision ?</QuestionReponse>
+<QuestionReponse ID="F17519" audience="Particuliers">Dans quels pays peut-on payer en euros ?</QuestionReponse>
+</Publication>

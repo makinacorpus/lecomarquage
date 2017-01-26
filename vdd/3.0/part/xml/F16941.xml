@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16941" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dans quelles conditions un couple peut-il bénéficier de l'Aspa et de l'Asi ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>L'allocation de solidarité aux personnes âgées (Aspa) et l'allocation supplémentaire d'invalidité (Asi) sont accordées sous conditions de ressources.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16941</dc:identifier>
+<dc:source>http://www.legislation.cnav.fr/Pages/texte.aspx?Nom=CR_CN_2007015_01022007, http://www.legislation.cnav.fr/Pages/texte.aspx?Nom=circulaire_cnav_2014_028_09042014</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N392</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="F16941" type="Fiche Question-réponse">Dans quelles conditions un couple peut-il bénéficier de l'Aspa et de l'Asi ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Fiche ID="F10009">Allocation personnalisée d'autonomie (Apa)</Fiche>
+<Fiche ID="F16871">Allocation de solidarité aux personnes âgées (Aspa)</Fiche>
+<Fiche ID="F16940">Allocation supplémentaire d'invalidité (Asi)</Fiche>
+<Fiche ID="F2572">Allocation simple</Fiche>
+<Fiche ID="F245">Aide-ménagère à domicile</Fiche>
+<Fiche ID="F248">Prise en charge des repas</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'allocation de solidarité aux personnes âgées (Aspa) et l'allocation supplémentaire d'invalidité (Asi) sont accordées sous conditions de ressources. Dans le cas d'un couple dont l'un est bénéficiaire de l'Aspa et l'autre de l'Asi, le montant de chaque allocation dépend des ressources du couple et de leur situation juridique : marié, pacsé ou concubin. L'examen porte sur les ressources des 3 mois précédant la date d'effet de l'allocation.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Couple marié</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants Aspa/Asi pour un couple marié</Titre>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="35" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Ressources mensuelles du couple</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant mensuel de l’Aspa</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant mensuel de l’Asi</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieures ou égales à <Valeur>288,15 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>622 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> <Valeur>333,47 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Comprises entre <Valeur>288,15 €</Valeur> et <Valeur>1 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Différence entre  <Valeur>622 €</Valeur> et la moitié des ressources annuelles excédant <Valeur>288,15 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Différence entre <Valeur>333,47 €</Valeur> et la moitié des ressources annuelles excédant <Valeur>288,15 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieures à <Valeur>1 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d’allocation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d’allocation</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Couple pacsé</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants Aspa/Asi pour un couple pacsé</Titre>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Ressources mensuelles du couple</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant mensuel de l’Aspa</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant mensuel de l’Asi</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieures ou égales à <Valeur>217,45 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> <Valeur>622 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>404,17 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Comprises entre <Valeur>217,45 €</Valeur>
+</Paragraphe>
+<Paragraphe> et <Valeur>1 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Différence entre <Valeur>622 €</Valeur>  et la moitié des ressources  excédant <Valeur>217,45 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Différence entre  <Valeur>404,17 €</Valeur> et la moitié des ressources excédant <Valeur>217,45 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieures à  <Valeur>1 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d’allocation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d’allocation</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Union libre (concubins)</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants Aspa/Asi pour un couple  en concubinage</Titre>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Ressources mensuelles du couple</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant mensuel de l’Aspa</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant mensuel de l’Asi</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieures ou égales à <Valeur>217,45 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> <Valeur>622 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>404,17 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Comprises entre <Valeur>217,45 €</Valeur>
+</Paragraphe>
+<Paragraphe> et <Valeur>1 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Différence entre <Valeur>622 €</Valeur>  et la moitié des ressources  excédant <Valeur>217,45 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Différence entre  <Valeur>404,17 €</Valeur> et la moitié des ressources excédant <Valeur>217,45 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieures à  <Valeur>1 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d’allocation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas d’allocation</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legislation.cnav.fr/Pages/texte.aspx?Nom=CR_CN_2007015_01022007" ID="R16937">
+<Titre>Circulaire Cnav n°2007/15 du 1er février 2007 relative à la simplification du minimum vieillesse</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legislation.cnav.fr/Pages/texte.aspx?Nom=circulaire_cnav_2014_028_09042014" ID="R20364">
+<Titre>Circulaire Cnav 2014-28 du 9 avril 2014 sur la revalorisation à compter du 1er avril 2014</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</Reference>
+</Publication>

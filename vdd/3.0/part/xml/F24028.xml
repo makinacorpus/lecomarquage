@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24028" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas de morsure par un animal ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Une plaie causée par animal peut être dangereuse pour l'homme. L'animal causant la plaie doit être surveillée en milieu vétérinaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24028</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167711&amp;cidTexte=LEGITEXT000006071367, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006193831&amp;cidTexte=LEGITEXT000006071367</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18944</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N18944">Animaux</Niveau>
+<Niveau ID="F24028" type="Fiche Question-réponse">Que faire en cas de morsure par un animal ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N150">Temps libre</SousThemePere><DossierPere ID="N18944">
+<Titre>Animaux</Titre><SousDossier ID="N18944-1">
+<Titre>Entrée et sortie de France d'un animal de compagnie</Titre>
+<Fiche ID="F806">Venir ou revenir en France avec un animal de compagnie</Fiche>
+<Fiche ID="F21374">Voyage à l'étranger avec un animal de compagnie</Fiche>
+</SousDossier>
+<SousDossier ID="N18944-2">
+<Titre>Chiens susceptibles d'être dangereux</Titre>
+<Fiche ID="F1839">Chiens concernés, interdictions et obligations</Fiche>
+<Fiche ID="F20759">Permis de détention d'un chien dangereux</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Pour la victime </Paragraphe>
+</Titre><Paragraphe>Une plaie causée par un animal  peut entraîner des infections (staphylocoque, rage, etc.) et des séquelles esthétiques.</Paragraphe>
+<Paragraphe>Vous devez nettoyer la plaie, la désinfecter et la panser avec des compresses stériles sans la suturer.</Paragraphe>
+<Paragraphe>Vous devez aller voir un médecin ou aller aux urgences si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> si votre vaccin contre le tétanos n'est pas à jour : il faudra  faire un rappel de vaccination antitétanique</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou si l'animal est inconnu,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si les plaies sont importantes.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R17898" type="Local personnalisable">
+<Titre>Médecin</Titre>
+<PivotLocal>medecin</PivotLocal>
+<RessourceWeb URL="http://www.conseil-national.medecin.fr/"/>
+</OuSAdresser>
+
+<OuSAdresser ID="R2041" type="Local personnalisable">
+<Titre>Hôpital</Titre>
+<PivotLocal>hopital</PivotLocal>
+<RessourceWeb URL="http://etablissements.hopital.fr/index.php" commentaireLien="Liste des hôpitaux"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour l'animal</Paragraphe>
+</Titre><Paragraphe>3 visites sont obligatoires après une morsure avec le carnet de vaccinations de l'animal :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à 24 heures, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>7 jours,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et 15 jours (ou 30 jours pour un animal sauvage apprivoisé ou tenu en captivité). </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si l'animal meurt, une autopsie est faite. </Paragraphe>
+<Paragraphe>Pendant la durée de la surveillance, vous ne pouvez pas vous dessaisir de l'animal, ni l'abattre sans l'autorisation des services vétérinaires.</Paragraphe>
+<Paragraphe>En cas de non présentation de l’animal à une de ces visites, la police peut intervenir et engager votre responsabilité pénale. </Paragraphe>
+<Paragraphe>Vous devez aussi soumettre, pendant cette période, votre animal à une évaluation comportementale.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>pendant cette surveillance, toute injection du vaccin contre la rage à votre animal est interdite.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167711&amp;cidTexte=LEGITEXT000006071367" ID="R37121">
+<Titre>Code rural et de la pêche maritime : articles L223-1 à L223-8</Titre>
+<Complement>Rage (contamination, abattage, surveillance, etc.)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006193831&amp;cidTexte=LEGITEXT000006071367" ID="R37066">
+<Titre>Code rural et de la pêche maritime : article R223-25</Titre>
+<Complement>Définition de la rage</Complement>
+</Reference>
+
+</Publication>

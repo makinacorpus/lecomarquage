@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1269" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le PTZ est-il réservé exclusivement à l'achat de sa résidence principale ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le PTZ est-il réservé exclusivement à l'achat de sa résidence principale ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-12</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1269</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023356576&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023361850&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20373</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="F1269" type="Fiche Question-réponse">Le PTZ est-il réservé exclusivement à l'achat de sa résidence principale ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere><DossierPere ID="N20373">
+<Titre>Crédit immobilier</Titre><SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre>
+<Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre>
+<Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe> Oui. Le prêt à taux zéro (PTZ) s'adresse aux personnes qui achètent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> leur résidence principale, ou un logement qui le deviendra au plus tard 1 an après la fin des travaux ou l'achat du logement</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou un logement qui va devenir leur résidence principale au moment de la retraite. Cependant, dans ce cas, le fait que le logement devienne la résidence principale ne doit pas intervenir dans plus de 6 ans.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R42728" type="Centre de contact">
+<Titre>Informations sur le PTZ</Titre>
+<Complement>Pour un complément d'information</Complement><Texte>
+						
+								<Paragraphe>Un conseiller vous informera sur le PTZ</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>08 06 120 120</Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023356576&amp;cidTexte=LEGITEXT000006074096" ID="R10859">
+<Titre>Code de la construction et de l'habitation : articles L31-10-2 à L31-10-5</Titre>
+<Complement>Conditions du PTZ</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000023361850&amp;cidTexte=LEGITEXT000006074096" ID="R23644">
+<Titre>Code de la construction et de l'habitation : article R31-10-2 à R31-10-5</Titre>
+<Complement>Condition d'un prêt pour financer la primo-accession à la propriété</Complement>
+</Reference>
+<ServiceEnLigne ID="R2974" URL="http://www.logement.gouv.fr/spip.php?page=article-sous-site&amp;id_article=313&amp;sommaire=88" type="Simulateur">
+<Titre>Simulateur - Prêt à taux zéro (PTZ)</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F1529" audience="Particuliers">Peut-on bénéficier du PTZ si on est déjà propriétaire d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F22110" audience="Particuliers">Que devient le PTZ en cas de revente du logement ?</QuestionReponse>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23999" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>À partir de quand un auto-entrepreneur est-il soumis à la CFE ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>À partir de quand un auto-entrepreneur est-il soumis à la CFE ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2015-11-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23999</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179812&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13443</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Auto-entrepreneur</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13443">Contribution économique territoriale (CET)</Niveau>
+<Niveau ID="F23999" type="Fiche Question-réponse">À partir de quand un auto-entrepreneur est-il soumis à la CFE ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N22249">Impôts locaux</SousThemePere><DossierPere ID="N13443">
+<Titre>Contribution économique territoriale (CET)</Titre>
+<Fiche ID="F23546">Cotisation sur la valeur ajoutée des entreprises (CVAE)</Fiche>
+<Fiche ID="F23547">Cotisation foncière des entreprises (CFE)</Fiche>
+<Fiche ID="F23548">Plafonnement de la CET en fonction de la valeur ajoutée</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>À partir des impositions établies au titre de 2015, les nouveaux auto-entrepreneurs et micro-entrepreneurs sont imposés à la cotisation foncière des entreprises (CFE) dans les mêmes conditions que tout créateur d'entreprise et ne bénéficient plus d'exonération spécifique.</Paragraphe>
+<Paragraphe>Jusqu'en 2012, les auto-entrepreneurs bénéficiaient d'une exonération de CFE pour une période de 2 ans (1 an pour les créations en 2013) à partir de l'année qui suit celle de la création de l'entreprise.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>La CFE n'est pas due au titre de l'année de début d'activité</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Un auto-entrepreneur n'est imposé à la CFE qu'à partir de l'année suivant celle au cours de laquelle il a pour la première fois réalisé du chiffre d'affaires, c'est-à-dire encaissé des recettes. Ce qui déclenche l'imposition à la CFE n'est  pas  l'immatriculation de l'auto-entrepreneur, mais le fait que l'entreprise réalise un chiffre d'affaires ou encaisse des recettes.</Paragraphe>
+<Paragraphe>Par exemple, un auto-entrepreneur qui a déclaré son activité en 2015 et a pour la première fois réalisé du chiffre d'affaires ou des recettes en 2015 est exonéré de CFE pour l'année 2015. En 2016, la CFE devient exigible.</Paragraphe>
+<Paragraphe>En revanche, une micro-entreprise qui a effectué son immatriculation en 2014, sans réaliser de chiffre d'affaires ou de recettes ni en 2014 ni en 2015, n'est pas soumise à la CFE. Cependant, si pendant de 2 ans (soit 24 mois civils ou 8 trimestres civils consécutifs), le chiffre d'affaires (ou les recettes) déclaré est nul, le travailleur indépendant perd le bénéfice de ce régime. </Paragraphe>
+<Paragraphe>Pour bénéficier de l'exonération de la première année d'activité, l'auto-entrepreneur doit, comme toute nouvelle entreprise, effectuer une déclaration initiale avant le 31 décembre de l'année de début d'activité.</Paragraphe><ServiceEnLigne ID="R17761" URL="https://www.impots.gouv.fr/portail/node/8830" numerocerfa="14187*07" autrenumero="1447-C-SD" type="Formulaire">
+<Titre>Déclaration initiale pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux (IFER)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+
+<Paragraphe>En revanche, restent exonérés de CFE de <LienInterne LienPublication="F31913" type="Fiche Question-réponse" audience="Professionnels">façon permanente</LienInterne> les professionnels suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les exploitants agricoles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les pêcheurs,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les artistes : peintres, sculpteurs, graveurs, dessinateurs, photographes auteurs, auteurs, compositeurs, artistes lyriques et dramatiques,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les artisans (sous conditions).</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179812&amp;cidTexte=LEGITEXT000006069577" ID="R15227">
+<Titre>Code général des impôts : articles 1449 à 1466</Titre>
+</Reference>
+<ServiceEnLigne ID="R17761" URL="https://www.impots.gouv.fr/portail/node/8830" numerocerfa="14187*07" autrenumero="1447-C-SD" type="Formulaire">
+<Titre>Déclaration initiale pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux (IFER)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F31913" audience="Professionnels">Qui est exonéré de la cotisation foncière des entreprises (CFE) ?</QuestionReponse>
+<QuestionReponse ID="F32389" audience="Professionnels">Un professionnel qui exerce à domicile ou à l'extérieur est-il redevable de la CFE ?</QuestionReponse>
+</Publication>

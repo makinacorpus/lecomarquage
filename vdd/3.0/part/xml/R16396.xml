@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R16396" type="Téléservice personnalisé sur SP" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'inscription sur les listes électorales</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Accessible avec un compte personnel service-public.fr Se munir de ses identifiants et de la version numérisée des pièces justificatives à fournir.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-21</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R16396</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R16396" type="Téléservice personnalisé sur SP">Demande d'inscription sur les listes électorales</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<PivotLocal>ILE</PivotLocal>
+<Introduction>
+<Texte><Paragraphe>Accessible avec un compte personnel service-public.fr</Paragraphe>
+<Paragraphe>Se munir de ses identifiants et de la version numérisée des pièces justificatives à fournir.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>L'inscription en ligne sur les listes électorales est une démarche gratuite.</Paragraphe>
+<Paragraphe>Attention à ne pas utiliser de sites internet privés.  En effet, ceux-ci  ne sont pas raccordés aux services de votre commune,  votre demande d'inscription ne pourra donc pas aboutir.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.service-public.fr/particuliers/vosdroits/R16396">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R16024" audience="Particuliers" type="Formulaire">
+<Titre>Demande d'inscription sur les listes électorales</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F1937" audience="Particuliers" type="Fiche d'information">
+<Titre>Élections : droit de vote d'un citoyen européen</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1372" audience="Particuliers" type="Fiche d'information">
+<Titre>Inscription sur les listes électorales : déménagement</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1961" audience="Particuliers" type="Fiche d'information">
+<Titre>Listes électorales : inscription d'office à 18 ans</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1367" audience="Particuliers" type="Fiche d'information">
+<Titre>Listes électorales : nouvelle inscription</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+<Dossier ID="N47">
+<Titre>Élections</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

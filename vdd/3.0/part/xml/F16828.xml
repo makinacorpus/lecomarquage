@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16828" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Élections politiques : déroulement du scrutin</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Le bureau de vote ouvre à 8 heures. Il ferme à 18 heures, mais peut être retardé jusqu'à 20 heures.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-27</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16828</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164058&amp;cidTexte=LEGITEXT000006070239, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006354559&amp;idSectionTA=LEGISCTA000006164050&amp;cidTexte=LEGITEXT000006070239, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028339327, http://circulaires.legifrance.gouv.fr/pdf/2009/04/cir_3785.pdf, http://circulaires.legifrance.gouv.fr/pdf/2012/02/cir_34611.pdf, http://www.textes.justice.gouv.fr/art_pix/JUSC1208997C.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N47</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N47">Élections</Niveau>
+<Niveau ID="F16828" type="Fiche d'information">Élections politiques : déroulement du scrutin</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere><DossierPere ID="N47">
+<Titre>Élections</Titre><SousDossier ID="N47-1">
+<Titre>Inscription sur les listes électorales</Titre>
+<Fiche ID="F1961">Inscription d'office à 18 ans</Fiche>
+<Fiche ID="F1367">Nouvelle inscription</Fiche>
+<Fiche ID="F1372">Déménagement</Fiche>
+<Fiche ID="F1937">Citoyen européen</Fiche>
+<Fiche ID="F1962">Carte électorale</Fiche>
+</SousDossier>
+<SousDossier ID="N47-2">
+<Titre>Opérations de vote</Titre>
+<Fiche ID="F16828">Déroulement du scrutin</Fiche>
+<Fiche ID="F16904">Vote d'un Français de l'étranger</Fiche>
+<Fiche ID="F1604">Vote par procuration</Fiche>
+</SousDossier>
+<SousDossier ID="N47-3">
+<Titre>Élections et référendums</Titre>
+<Fiche ID="F1944">Européennes</Fiche>
+<Fiche ID="F1940">Présidentielle</Fiche>
+<Fiche ID="F1943">Législatives</Fiche>
+<Fiche ID="F1958">Départementales - Régionales</Fiche>
+<Fiche ID="F1952">Municipales</Fiche>
+<Fiche ID="F1964">Référendum</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Opérations de vote</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le jour de scrutin, le déroulement des opérations électorales est encadré par des règles précises depuis l'ouverture du bureau jusqu'à la proclamation des résultats.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Ouverture du bureau de vote</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Horaires</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Élection présidentielle</Paragraphe>
+</Titre><Paragraphe>Le scrutin se déroule de 8 heures à 19 heures. Par arrêté, l'heure d'ouverture peut être  avancée ou l'heure de fermeture peut être retardée, sans aller au-delà de 20 heures. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autres élections</Paragraphe>
+</Titre><Paragraphe>Le scrutin se déroule de 8 heures à 18 heures, mais il peut être avancé ou retardé par arrêté préfectoral.</Paragraphe>
+<Paragraphe>Ainsi, dans les grandes villes, il est souvent clos à 20 heures.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Pour connaître les horaires dans votre commune, vous pouvez contacter votre mairie.</Paragraphe>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Ouverture au public</Paragraphe>
+</Titre><Paragraphe>Le bureau de vote n'est pas un endroit ouvert à tous.</Paragraphe>
+<Paragraphe>Les seules personnes qui peuvent y pénétrer sont les membres et électeurs du bureau, les délégués et les personnes chargées du contrôle des opérations de vote.</Paragraphe>
+<Paragraphe>Par ailleurs, les électeurs sont soumis à certaines restrictions. Ils n'ont pas le droit d'entrer dans le bureau de vote avec une arme. Toute discussion ou délibération d'électeurs à l'intérieur du bureau est également interdite.</Paragraphe>
+<Paragraphe>Le président du bureau de vote peut faire expulser un électeur qui troublerait ou ralentirait les opérations.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Documents à présenter</Paragraphe>
+</Titre><Paragraphe>Pour voter, vous devez vous présenter au bureau de vote indiqué sur votre carte électorale.</Paragraphe>
+<Paragraphe>Les documents à présenter dépendent de la taille de la commune : </Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Dans une ville  de 1 000 habitants ou plus </Paragraphe>
+</Titre><Paragraphe>Vous pouvez voter en présentant :
+		</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+			
+                  soit votre
+                  <LienInterne LienPublication="F1962" type="Fiche d'information" audience="Particuliers">carte d'électeur</LienInterne>
+                  + une
+                  <LienInterne LienPublication="F1361" type="Fiche Question-réponse" audience="Particuliers">pièce d'identité,</LienInterne>
+		</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+			
+                  soit une
+                  <LienInterne LienPublication="F1361" type="Fiche Question-réponse" audience="Particuliers">pièce d'identité</LienInterne>
+                  seulement.
+                  </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Moins de 1 000 habitants </Paragraphe>
+</Titre><Paragraphe>Vous pouvez voter en présentant :
+		</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+			
+                  soit votre
+                  <LienInterne LienPublication="F1962" type="Fiche d'information" audience="Particuliers">carte d'électeur</LienInterne>
+                  + une
+                  <LienInterne LienPublication="F1361" type="Fiche Question-réponse" audience="Particuliers">pièce d'identité,</LienInterne>
+		</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+			
+                  soit une
+                  <LienInterne LienPublication="F1361" type="Fiche Question-réponse" audience="Particuliers">pièce d'identité</LienInterne>
+                  seulement,
+                
+		</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+			
+                  soit votre
+                  <LienInterne LienPublication="F1962" type="Fiche d'information" audience="Particuliers">carte d'électeur</LienInterne>
+                  seulement.
+                
+		</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Opération de vote</Paragraphe>
+</Titre><Paragraphe>Le personnel vérifie que vous êtes bien inscrit dans le bureau de vote.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre><Paragraphe>Le personnel vérifie que vous êtes bien inscrit dans le bureau de vote.</Paragraphe>
+<Paragraphe>Vous devez prendre une enveloppe et au moins 2 bulletins de vote (pour préserver la confidentialité du choix). Vous pouvez aussi voter avec un bulletin reçu à domicile.</Paragraphe>
+<Paragraphe>Vous vous rendez ensuite obligatoirement à l'isoloir avant de vous présenter devant l'urne.</Paragraphe>
+<Paragraphe>Les membres du bureau vérifient votre identité et s'assurent que vous n'avez qu'une enveloppe, puis l'urne est ouverte pour vous permettre d'introduire l'enveloppe. À cette étape, vous êtes le seul à avoir le droit de toucher l'enveloppe.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Machine à voter </Paragraphe>
+</Titre><Paragraphe>Le personnel vérifie que vous êtes bien inscrit dans le bureau de vote.</Paragraphe>
+<Paragraphe>Les membres du bureau vérifient votre identité.</Paragraphe>
+<Paragraphe>Vous vous rendez ensuite obligatoirement à l'isoloir et vous votez en sélectionnant le numéro qui correspond à la liste ou au candidat.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Vous signez ensuite la liste d'émargement. En cas de refus, la personne chargée des émargements le fera à votre place. Si vous n'en n'êtes pas capable, un électeur de votre choix peut signer en inscrivant <Citation>"l'électeur ne peut signer lui-même"</Citation> .</Paragraphe>
+<Paragraphe>Enfin, la date du scrutin est apposé sur votre carte qui vous est rendue.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous avez été oublié ou radié à tort de la liste électorale, vous pouvez saisir le tribunal d'instance jusqu'à l'heure de fermeture du bureau.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dépouillement des votes</Paragraphe>
+</Titre><Paragraphe>Le dépouillement commence dès la clôture du scrutin. Il se déroule publiquement par les scrutateurs sollicités au cours de la journée.</Paragraphe>
+<Paragraphe>Il se décompose en plusieurs étapes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les membres du bureau dénombrent les émargements. L'urne est ouverte, le nombre d'enveloppes, ainsi que de bulletins sans enveloppe, est vérifié et comparé au nombre d'émargements.</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les enveloppes contenant les bulletins sont regroupées par paquet de 100 et sont introduites dans des grandes enveloppes. Ces enveloppes de centaine sont cachetées et signées par le président et au moins 2 assesseurs.</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les enveloppes de centaine sont réparties entre les tables de dépouillement et ouvertes par les scrutateurs.</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Le premier scrutateur ouvre chaque enveloppe de vote. Il déplie le bulletin et le passe à un second scrutateur qui le lit à voix haute et intelligible. Les 2 derniers scrutateurs notent le nombre de votes sur des feuilles de résultat.</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les scrutateurs signent les feuilles de pointage. Ils les remettent au bureau avec les bulletins et enveloppes dont la validité a paru douteuse. C'est le bureau qui décide alors de la validité d'un bulletin ou d'une enveloppe.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>un vote blanc (absence de nom de candidat) ou nul (bulletin annoté, déchiré ...), est comptabilisé dans le nombre des votants mais pas dans les suffrages exprimés.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Résultats</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Procès-verbal</Paragraphe>
+</Titre><Paragraphe>Le procès-verbal est rédigé par le secrétaire du bureau immédiatement après le dépouillement et en présence des électeurs.</Paragraphe>
+<Paragraphe>Il comporte notamment le nombre de suffrages exprimés, le nombre des suffrages blancs et nuls et le nombre de suffrages obtenus par chaque candidat ou liste.</Paragraphe>
+<Paragraphe>Il retrace le déroulement des opérations, et éventuellement toute réclamation des électeurs ou des délégués.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Proclamation des résultats</Paragraphe>
+</Titre><Paragraphe>Une fois le procès-verbal établi, le résultat est proclamé en public par le président du bureau et affiché dans la salle de vote.</Paragraphe>
+<Paragraphe>Il indique le nombre d'électeurs inscrits, le nombre de votants, le nombre de suffrages exprimés et les suffrages recueillis pour chaque candidat ou liste.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164058&amp;cidTexte=LEGITEXT000006070239" ID="R16517">
+<Titre>Code électoral : articles L54 à L70</Titre>
+<Complement>Opérations de vote</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006354559&amp;idSectionTA=LEGISCTA000006164050&amp;cidTexte=LEGITEXT000006070239" ID="R541">
+<Titre>Code électoral : articles R42 à R71</Titre>
+<Complement>Composition du bureau de vote</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028339327" ID="R500">
+<Titre>Arrêté du 12 décembre 2013 relatif aux justificatifs d'identité et de domicile pour les opérations électorales</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2009/04/cir_3785.pdf" ID="R15897" format="application/pdf" poids="12.0 MB">
+<Titre>Circulaire du 20 décembre 2007 sur le déroulement des opérations électorales des élections au suffrage universel direct</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2012/02/cir_34611.pdf" ID="R12476" format="application/pdf" poids="1.1 MB">
+<Titre>Circulaire du 8 février 2012 relative à l'élection du Président de la République</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.textes.justice.gouv.fr/art_pix/JUSC1208997C.pdf" ID="R542" format="application/pdf" poids="187.0 KB">
+<Titre>Circulaire du 27 mars 2012 relative au vote par procuration et à l'inscription sur la liste électorale - Élections présidentielle et législatives</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R325" URL="http://www.vie-publique.fr/decouverte-institutions/citoyen/participation/voter/droit-vote/abstention-vote-blanc-vote-nul-quelles-differences.html" audience="Particuliers">
+<Titre>Abstention, vote blanc ou vote nul : quelles différences ?</Titre>
+<Source ID="R30718">Vie-publique.fr</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16524" URL="http://www.social-sante.gouv.fr/IMG/pdf/Memento_Organisateurs.pdf" audience="Particuliers">
+<Titre>Élections : guide sur l'accès des personnes en situation de handicap</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1361" audience="Particuliers">Quelle pièce d'identité peut-on présenter pour voter ?</QuestionReponse>
+<QuestionReponse ID="F1939" audience="Particuliers">Quelles sont les dates des prochaines élections ?</QuestionReponse>
+</Publication>

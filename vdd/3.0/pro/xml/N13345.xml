@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N13345" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Urbanisme - BTP</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Urbanisme - BTP : Autorisations d'urbanisme, Déclarations de travaux, Établissement recevant du public (ERP), Exercice de l'architecture</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N13345</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13345" type="Dossier">Urbanisme - BTP</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N23450">Autres secteurs</SousThemePere>
+<SousDossier ID="N13345-1">
+<Titre>Autorisations d'urbanisme</Titre><Fiche ID="F1633">Certificat d'urbanisme</Fiche>
+<Fiche ID="F1986">Permis de construire</Fiche>
+<Fiche ID="F19450">Permis de construire modificatif</Fiche>
+<Fiche ID="F17665">Permis d'aménager</Fiche>
+<Fiche ID="F2698">Transfert d'un permis de construire ou d'aménager</Fiche>
+<Fiche ID="F17669">Permis de démolir</Fiche>
+<Fiche ID="F32190">Travaux sur un monument historique ou aux abords d'un monument historique</Fiche>
+<Fiche ID="F33368">Installation d'une éolienne domestique ou agricole</Fiche>
+</SousDossier>
+<SousDossier ID="N13345-2">
+<Titre>Déclarations de travaux</Titre><Fiche ID="F17578">Déclaration préalable</Fiche>
+<Fiche ID="F23491">Déclaration de travaux à proximité de réseaux (DT-DICT)</Fiche>
+<Fiche ID="F23509">Permission de voirie pour travaux</Fiche>
+<Fiche ID="F1992">Déclaration d'ouverture de chantier</Fiche>
+<Fiche ID="F1997">Déclaration d'achèvement</Fiche>
+<Fiche ID="F2034">Garantie décennale en assurance construction</Fiche>
+</SousDossier>
+<SousDossier ID="N13345-3">
+<Titre>Établissement recevant du public (ERP)</Titre><Fiche ID="F32351">Définition d'un ERP</Fiche>
+<Fiche ID="F31687">Procédures d'autorisation des ERP</Fiche>
+<Fiche ID="F31684">Règles de sécurité des ERP</Fiche>
+<Fiche ID="F32873">Obligation d'accessibilité des ERP aux personnes handicapées</Fiche>
+<Fiche ID="F33668">Homologation d'un équipement sportif ouvert au public</Fiche>
+</SousDossier>
+<SousDossier ID="N13345-4">
+<Titre>Exercice de l'architecture</Titre><Fiche ID="F31902">Conditions d'exercice de l'architecture</Fiche>
+<Fiche ID="F31915">Droits et obligations de l'architecte</Fiche>
+<Fiche ID="F31970">Régime fiscal et social des architectes</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N22471" audience="Professionnels">
+<Titre>Taxes et redevances locales</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F33599" audience="Professionnels">
+<Titre>Carte d'identification des salariés du BTP</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31667" audience="Professionnels">
+<Titre>Autorisation de défrichement</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F24364" audience="Professionnels">
+<Titre>Publicité sur une bâche de chantier</Titre>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R14584" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6206.pdf" format="application/pdf" poids="90.8 KB" numerocerfa="12276*01" autrenumero="S6206" type="Formulaire">
+<Titre>Avis d'ouverture d'un chantier du bâtiment ou des travaux publics</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31894" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14983.do" format="application/pdf" poids="96.8 KB" numerocerfa="14983*01" type="Formulaire">
+<Titre>Recensement des entreprises pour la défense et la sécurité civile</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source><NoticeLiee ID="R14314" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51726&amp;cerfaFormulaire=14983" numerocerfa="51726#01">Notice pour le recensement des entreprises pour la défense et la sécurité civile</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13226" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14528.do" numerocerfa="14528*01" type="Formulaire">
+<Titre>Attestation de conformité d'un réseau de distribution de gaz combustible</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18351" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14498.do" format="application/pdf" poids="332.8 KB" numerocerfa="14498*01" type="Formulaire">
+<Titre>Récolement relatif au diagnostic portant sur la gestion des déchets issus de la démolition</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Synthèse du diagnostic de gestion des déchets issus de la démolition (à faire en amont du formulaire de recollement)</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=14498&amp;cerfaNotice=annexe" format="application/pdf" poids="169.0 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15289" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14734.do" format="application/force-download" poids="1.5 MB" numerocerfa="14734*03" type="Formulaire">
+<Titre>Demande d'examen préalable à la réalisation d'une étude d'impact</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source><NoticeLiee ID="R31005" URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=annexe&amp;cerfaFormulaire=14734" format="application/pdf" poids="67.5 KB">Informations nominatives relatives au maître d'ouvrage ou pétitionnaire (annexe n°1)</NoticeLiee>
+<NoticeLiee ID="R15440" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51656&amp;cerfaFormulaire=14734" numerocerfa="51656#02" format="application/pdf" poids="457.0 KB">Notice explicative pour les demandes d'examen au cas par cas</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33057" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14100.do" format="application/pdf" poids="240.6 KB" numerocerfa="14100*02" type="Formulaire">
+<Titre>Déclaration de la taxe sur la terre cuite</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33058" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14101.do" format="application/pdf" poids="410.2 KB" numerocerfa="14101*02" type="Formulaire">
+<Titre>Déclaration trimestrielle de la taxe roches ornementales et de construction</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R11632" URL="http://www.economie.gouv.fr/cessions" audience="Professionnels">
+<Titre>Sélection des cessions immobilières proposées par l'État</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F33813" audience="Professionnels">Que faire en cas de découverte en sous-sol ou sous la mer ?</QuestionReponse>
+<QuestionReponse ID="F32251" audience="Professionnels">Professionnels du bâtiment : comment obtenir le label RGE ?</QuestionReponse>
+<QuestionReponse ID="F32295" audience="Professionnels">En quoi consiste la déclaration préalable de coordination d'opérations de bâtiment et de génie civil ?</QuestionReponse>
+<QuestionReponse ID="F2082" audience="Professionnels">Urbanisme : quelle est la durée de validité d'une autorisation ?</QuestionReponse>
+<QuestionReponse ID="F31201" audience="Professionnels">Faut-il une autorisation pour installer une caravane de chantier ?</QuestionReponse>
+<QuestionReponse ID="F31923" audience="Professionnels">Faut-il une autorisation d'urbanisme pour poser des panneaux solaires au sol ?</QuestionReponse>
+<QuestionReponse ID="F662" audience="Professionnels">Faut-il une autorisation d'urbanisme pour installer un abri de jardin ?</QuestionReponse>
+<QuestionReponse ID="F31689" audience="Professionnels">Le diagnostic de performance énergétique est-il obligatoire pour les ERP ? </QuestionReponse>
+<QuestionReponse ID="F20568" audience="Professionnels">Dans quel cas doit-on avoir recours à un architecte ?</QuestionReponse>
+<QuestionReponse ID="F3131" audience="Professionnels">Quelles sont les règles pour l'implantation de clôtures ?</QuestionReponse>
+<QuestionReponse ID="F31911" audience="Professionnels">Quelles aides peut-on toucher pour réaliser des travaux d'économie d'énergie ?</QuestionReponse>
+<QuestionReponse ID="F32380" audience="Professionnels">Comment des travaux sur un monument historique sont-ils financés ?</QuestionReponse>
+<QuestionReponse ID="F32879" audience="Professionnels">Comment déposer un dossier d'Agenda d'accessibilité programmée (Ad'ap) ?</QuestionReponse>
+</Publication>

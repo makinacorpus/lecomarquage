@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F704" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Vaccination : diphtérie, tétanos, poliomyélite (DTP)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>La vaccination contre la diphtérie, le tétanos et la poliomyélite est obligatoire ou simplement recommandée selon l'âge et la situation de la personne. La simple négligence ou le refus de vaccination peut entraîner des sanctions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-22</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F704</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171171&amp;cidTexte=LEGITEXT000006072665, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171177&amp;cidTexte=LEGITEXT000006072665, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190436&amp;cidTexte=LEGITEXT000006072665, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190452&amp;cidTexte=LEGITEXT000006072665, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006072761</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N434</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N434">Prévention - Vaccinations</Niveau>
+<Niveau ID="F704" type="Fiche d'information">Vaccination : diphtérie, tétanos, poliomyélite (DTP)</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20180">Santé</SousThemePere><DossierPere ID="N434">
+<Titre>Prévention - Vaccinations</Titre><SousDossier ID="N434-1">
+<Titre>Bilans et examens gratuits</Titre>
+<Fiche ID="F170">Bilan de santé gratuit</Fiche>
+<Fiche ID="F243">Examens et soins bucco-dentaires pour les jeunes</Fiche>
+<Fiche ID="F218">Test de dépistage du Sida</Fiche>
+</SousDossier>
+<SousDossier ID="N434-2">
+<Titre>Vaccinations</Titre>
+<Fiche ID="F724">Calendrier des vaccinations</Fiche>
+<Fiche ID="F704">Vaccination : diphtérie, tétanos, poliomyélite (DTP)</Fiche>
+<Fiche ID="F714">Vaccin contre la grippe saisonnière</Fiche>
+<Fiche ID="F723">Vaccinations contre l'hépatite</Fiche>
+<Fiche ID="F700">Vaccin contre la tuberculose (BCG)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Vaccinations</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La vaccination contre la diphtérie, le tétanos et la poliomyélite est obligatoire ou simplement recommandée selon l'âge et la situation de la personne. La simple négligence ou le refus de vaccination peut entraîner des sanctions. </Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Cas général</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Calendrier des vaccinations</Paragraphe>
+</Titre><Tableau>
+<Titre>Vaccins obligatoires et rappels (obligatoires ou recommandés) fixés par le calendrier vaccinal de 2016</Titre>
+<Colonne largeur="18" type="header"/>
+<Colonne largeur="17" type="normal"/>
+<Colonne largeur="18" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2" fusionHorizontale="2">
+<Paragraphe>Vaccin</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>Rappels</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Obligatoire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Recommandé</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Diphtérie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1<Exposant>re</Exposant> injection  à 2 mois</Paragraphe>
+<Paragraphe>2<Exposant>e</Exposant> injection à 4 mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À 11 mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>à 6 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>entre 11 et 13 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 25 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 45 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 65 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>puis tous les 10 ans</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Tétanos</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1<Exposant>re</Exposant> injection  à 2 mois</Paragraphe>
+<Paragraphe>2<Exposant>e</Exposant> injection à 4 mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À 11 mois</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>à 6 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>entre 11 et 13 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 25 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 45 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 65 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>puis tous les 10 ans</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Poliomyélite</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1<Exposant>re</Exposant> injection à 2 mois</Paragraphe>
+<Paragraphe>2<Exposant>e</Exposant> injection à 4 mois </Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>à 11 mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 6 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et entre 11 et 13 ans. </Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>à 25 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 45 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 65 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>puis tous les 10 ans</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Le vaccin est acheté en pharmacie.</Paragraphe>
+<Paragraphe>L'achat des vaccins contre la diphtérie, le tétanos et la poliomyélite est remboursé, sur prescription médicale, à 65 % par la Sécurité sociale.</Paragraphe>
+<Paragraphe>L'injection du vaccin est :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>payante chez un médecin, et remboursée à 70 % par la Sécurité sociale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>gratuite dans un établissement public de santé.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sanctions en l'absence de vaccination</Paragraphe>
+</Titre><Paragraphe>La personne qui exerce l'autorité parentale (les parents généralement) doit s'assurer que son enfant est à jour des vaccins obligatoires. En cas de manquement, elle peut être punie de  <Valeur>1 500 €</Valeur>.</Paragraphe>
+<Paragraphe>En outre, la personne qui exerce l'autorité parentale et refuse de faire vacciner son enfant ou entrave son exécution peut être punie de 6 mois de prison et de <Valeur>3 750 €</Valeur> d'amende.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Personnels de santé</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Calendrier des vaccinations</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Vaccins obligatoires</Paragraphe>
+</Titre><Paragraphe>Les vaccinations contre la diphtérie, le tétanos et la poliomyélite sont obligatoires pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les élèves et étudiants d'un établissement préparant à l'exercice des professions médicales et autres professions de santé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le personnel de santé, selon l'avis du médecin du travail.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Vaccins recommandés</Paragraphe>
+</Titre><Paragraphe>Des rappels de vaccin sont également recommandés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à 25 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à 45 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et 65 ans (en fonction de la poursuite de l'activité).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Le vaccin est acheté en pharmacie.</Paragraphe>
+<Paragraphe>L'achat des vaccins contre la diphtérie, le tétanos et la poliomyélite est remboursé, sur prescription médicale, à 65 % par la Sécurité sociale.</Paragraphe>
+<Paragraphe>L'injection du vaccin est :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>payante chez un médecin, et remboursée à 70 % par la Sécurité sociale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>gratuite dans un établissement public de santé.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sanctions en l'absence de vaccination</Paragraphe>
+</Titre><Paragraphe>Travailler dans un établissement public ou privé de prévention ou de soins sans être vacciné peut être puni de <Valeur>1 500 €</Valeur>.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F724" audience="Particuliers">
+<Titre>Calendrier des vaccinations</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F714" audience="Particuliers">
+<Titre>Vaccin contre la grippe saisonnière</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F723" audience="Particuliers">
+<Titre>Vaccinations contre l'hépatite</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F700" audience="Particuliers">
+<Titre>Vaccin contre la tuberculose (BCG)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R26" type="Local personnalisé sur SP">
+<Titre>Centre de protection maternelle et infantile (PMI)</Titre>
+<Complement>Pour obtenir des informations et/ou se faire vacciner</Complement>
+<PivotLocal>pmi</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Centre+de+protection+maternelle+et+infantile+%28PMI%29&amp;where="/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171171&amp;cidTexte=LEGITEXT000006072665" ID="R1704">
+<Titre>Code de la santé publique : articles L3111-1 à L3111-11</Titre>
+<Complement>Précisions sur les vaccins obligatoires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171177&amp;cidTexte=LEGITEXT000006072665" ID="R34773">
+<Titre>Code de la santé publique : articles L3116-1 à L3116-6</Titre>
+<Complement>Sanctions</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190436&amp;cidTexte=LEGITEXT000006072665" ID="R10841">
+<Titre>Code de la santé publique : articles R3111-1 à R3111-5</Titre>
+<Complement>Précisions sur les vaccins obligatoires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190452&amp;cidTexte=LEGITEXT000006072665" ID="R34778">
+<Titre>Code de la santé publique : articles R3116-1 à R3116-8</Titre>
+<Complement>Sanctions</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006072761" ID="R42790">
+<Titre>Arrêté du 19 mars 1965 relatif à la vaccination antipoliomyélitique obligatoire</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R2248" URL="http://social-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_2016.pdf" audience="Particuliers" format="application/pdf" poids="5.5 MB">
+<Titre>Calendrier vaccinal 2016</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F767" audience="Particuliers">Faut-il faire vacciner son enfant pour l'inscrire en collectivité ?</QuestionReponse>
+<QuestionReponse ID="F2366" audience="Particuliers">Quelles sont les vaccinations obligatoires pour les personnels de santé ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21829" type="Fiche Comment faire si" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Je veux gagner en autonomie avant 18 ans</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Seul le jeune majeur dispose d'une indépendance pleine et entière. Toutefois, le jeune mineur peut bénéficier d'une forme d'autonomie sans attendre ses 18 ans. L'accord des parents (ou du tuteur) est souvent nécessaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-18</dc:date>
+<dc:type>Comment faire si...</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21829</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Comment faire si...</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="commentFaireSi" type="Liste - Comment faire si">Comment faire si</Niveau>
+<Niveau ID="F21829" type="Fiche Comment faire si">Je veux gagner en autonomie avant 18 ans</Niveau>
+</FilDAriane>
+<Introduction>
+<Texte><Paragraphe>Seul le jeune majeur dispose d'une indépendance pleine et entière. Toutefois, le jeune mineur peut bénéficier d'une forme d'autonomie sans attendre ses 18 ans. L'accord des parents (ou du tuteur) est souvent nécessaire.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Droits et justice</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="79" type="normal"/>
+<Colonne largeur="16" type="normal"/>
+<Colonne largeur="26" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Que peut faire un jeune ? </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir de quel âge </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Seul ou avec l'accord des parents </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1567" type="Fiche Question-réponse" audience="Particuliers"> Porter plainte</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À tout âge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Seul</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Se renseigner sur ses droits dans une maison de justice et du droit ou un centre départemental d'accès au droit (CDAD)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À tout âge</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Seul</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule/>
+<Cellule/>
+<Cellule/>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À tout âge</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Seul</Paragraphe>
+</Titre><Paragraphe>Je peux : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1567" type="Fiche Question-réponse" audience="Particuliers"> porter plainte</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> me rendre dans une maison de justice et du droit,</Paragraphe>
+</Item>
+</Liste>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Liste type="puce">
+<Item>
+<Paragraphe>me rendre dans un centre départemental d'accès au droit (CDAD),</Paragraphe>
+</Item>
+</Liste>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisable">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Liste type="puce">
+<Item>
+<Paragraphe>bénéficier de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F10479" type="Fiche Question-réponse" audience="Particuliers">être entendu par un juge dans une procédure civile </LienInterne> (par exemple juge aux affaires familiales si mes parents divorcent, juge des enfants si je suis en danger, <LienInterne LienPublication="F2139" type="Fiche d'information" audience="Particuliers">juge des tutelles</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> <LienInterne LienPublication="F1489" type="Fiche d'information" audience="Particuliers">témoigner</LienInterne> ou <LienInterne LienPublication="N23248" type="Dossier" audience="Particuliers">être entendu, jugé et éventuellement condamné</LienInterne> dans le cadre    d'une procédure pénale, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>saisir gratuitement le <LienInterne LienPublication="F1628" type="Fiche Question-réponse" audience="Particuliers">Défenseur des droits</LienInterne> d'une réclamation,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>exercer mes <LienInterne LienPublication="F2024" type="Fiche d'information" audience="Particuliers">droits d'accès, de rectification et d'opposition aux fichiers informatiques</LienInterne> contenant des informations me concernant,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si je suis étranger, demander <LienInterne LienPublication="F2232" type="Fiche d'information" audience="Particuliers">l'asile</LienInterne> en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>maîtriser le risque de grossesse non désirée :  <LienInterne LienPublication="F707" type="Fiche d'information" audience="Particuliers">moyens de contraception</LienInterne> (y compris <LienInterne LienPublication="F1100" type="Fiche d'information" audience="Particuliers">d'urgence</LienInterne>),   <LienInterne LienPublication="F3136" type="Fiche d'information" audience="Particuliers">accouchement sous X</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F887" type="Fiche d'information" audience="Particuliers">reconnaître mon enfant</LienInterne> et exercer  <LienInterne LienPublication="F3132" type="Fiche d'information" audience="Particuliers">l'autorité parentale,</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander une <LienInterne LienPublication="F183" type="Fiche d'information" audience="Particuliers">carte de donneur d'organes</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Avec l'accord de mes parents ou de mon tuteur</Paragraphe>
+</Titre><Paragraphe>Je peux avoir des papiers personnels : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> une <LienInterne LienPublication="F1342" type="Fiche d'information" audience="Particuliers">carte nationale d'identité</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F1051" type="Fiche d'information" audience="Particuliers">certificat de nationalité française,</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F14930" type="Fiche d'information" audience="Particuliers">passeport</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> un <LienInterne LienPublication="F297" type="Fiche d'information" audience="Particuliers">titre d'identité républicain</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F2718" type="Fiche d'information" audience="Particuliers">document de circulation pour étranger mineur,</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F213" type="Fiche d'information" audience="Particuliers">carte européenne d'assurance-maladie</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Je peux aussi : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>détenir un <LienInterne LienPublication="F21035" type="Fiche Question-réponse" audience="Particuliers">compte bancaire ou un livret d'épargne</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>posséder une <LienInterne LienPublication="F24415" type="Fiche Question-réponse" audience="Particuliers">carte de retrait,</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>acquérir et utiliser des <LienInterne LienPublication="F2404" type="Fiche Question-réponse" audience="Particuliers">chèques de voyage,</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>détenir un <LienInterne LienPublication="N89" type="Dossier" audience="Particuliers">contrat d'assurance-vie</LienInterne> à mon nom,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être autorisé à <LienInterne LienPublication="F21766" type="Fiche d'information" audience="Particuliers">sortir du collège ou du lycée,</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>préparer mon <LienInterne LienPublication="N56" type="Dossier" audience="Particuliers">orientation scolaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être <LienInterne LienPublication="F1370" type="Fiche d'information" audience="Particuliers">délégué de classe</LienInterne> et organiser des réunions dans mon <LienInterne LienPublication="F1363" type="Fiche Question-réponse" audience="Particuliers">collège</LienInterne> ou <LienInterne LienPublication="F1364" type="Fiche Question-réponse" audience="Particuliers">lycée</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être temporairement autonome si j'ai une activité de <LienInterne LienPublication="F944" type="Fiche Question-réponse" audience="Particuliers">scoutisme</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>me faire <LienInterne LienPublication="F22481" type="Fiche Question-réponse" audience="Particuliers">des tatouages et des piercings</LienInterne> par un professionnel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avoir mon propre logement (faire signer un <LienInterne LienPublication="F1220" type="Fiche Question-réponse" audience="Particuliers">bail de location</LienInterne> par mes parents et percevoir une <LienInterne LienPublication="N20360" type="Dossier" audience="Particuliers">allocation logement</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F3142" type="Fiche Question-réponse" audience="Particuliers">accéder à mes origines personnelles</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>obtenir la <LienInterne LienPublication="F2214" type="Fiche d'information" audience="Particuliers">réintégration dans la nationalité française</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À partir de 12 ans</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Seul</Paragraphe>
+</Titre><Paragraphe>Je peux <LienInterne LienPublication="N89" type="Dossier" audience="Particuliers">m'opposer à la souscription par un tiers d'une assurance-vie</LienInterne> garantissant le versement d'un capital ou d'une rente suite à mon décès.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Avec l'accord de mes parents ou de mon tuteur</Paragraphe>
+</Titre><Paragraphe>Je peux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>demander<LienInterne LienPublication="F21035" type="Fiche Question-réponse" audience="Particuliers"> l'ouverture d'un livret jeune  et avoir une carte de retrait</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>accepter la souscription par un tiers d'une assurance-vie garantissant le versement d'un capital ou d'une rente suite à mon décès.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À partir de 13 ans</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Seul</Paragraphe>
+</Titre><Paragraphe>Je peux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>m'opposer au prélèvement de mes organes à mon décès en m'inscrivant sur <LienInterne LienPublication="F183" type="Fiche d'information" audience="Particuliers">le registre national des refus</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>accepter ou refuser mon <LienInterne LienPublication="N133" type="Dossier" audience="Particuliers">adoption simple ou plénière</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>accepter ou refuser le changement de mon <LienInterne LienPublication="F885" type="Fiche d'information" audience="Particuliers">prénom</LienInterne> ou de mon <LienInterne LienPublication="F1656" type="Fiche d'information" audience="Particuliers">nom</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si je suis <LienInterne LienPublication="F295" type="Fiche d'information" audience="Particuliers">né en France de parents étrangers consentir à l'acquisition de la nationalité française</LienInterne> réclamée pour moi par mes parents.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Avec l'accord de mes parents ou de mon tuteur</Paragraphe>
+</Titre><Paragraphe>Je peux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>fréquenter <LienInterne LienPublication="F22387" type="Fiche d'information" audience="Professionnels">seul un bar ou un café sans alcool</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si je suis en décrochage scolaire, demander à bénéficier <LienInterne LienPublication="F229" type="Fiche Question-réponse" audience="Particuliers">d'un parcours d'insertion professionnelle</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À partir de 14 ans</Paragraphe>
+</Titre><Paragraphe> Je peux, avec l'accord de mes parents ou de mon tuteur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1649" type="Fiche Question-réponse" audience="Particuliers">travailler pendant les vacances scolaires</LienInterne>, sous certaines conditions,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>passer le <LienInterne LienPublication="F2890" type="Fiche d'information" audience="Particuliers">brevet de sécurité routière (catégorie AM du permis de conduire)</LienInterne> et conduire un cyclomoteur de 50 cm³ maximum ou  un quadricycle léger comme une voiturette.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À partir de 15 ans</Paragraphe>
+</Titre><Paragraphe>Je peux, avec l'accord de mes parents ou de mon tuteur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>intégrer un <LienInterne LienPublication="F232" type="Fiche d'information" audience="Particuliers">dispositif d'initiation aux métiers en alternance (Dima)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>conclure un <LienInterne LienPublication="F2918" type="Fiche d'information" audience="Particuliers">contrat d'apprentissage sous certaines conditions</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>apprendre de manière anticipée à<LienInterne LienPublication="F2826" type="Fiche d'information" audience="Particuliers"> conduire en conduite accompagnée</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>pour financer les frais d'auto-école, je peux être aidé par le <LienInterne LienPublication="F13609" type="Fiche Question-réponse" audience="Particuliers">dispositif du permis à 1 €</LienInterne>.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À partir de 16 ans</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Seul</Paragraphe>
+</Titre><Paragraphe>Je peux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>effectuer mon <LienInterne LienPublication="F870" type="Fiche d'information" audience="Particuliers">recensement citoyen</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>m'occuper des questions touchant à ma santé (<LienInterne LienPublication="F225" type="Fiche Question-réponse" audience="Particuliers">immatriculation</LienInterne>  à la sécurité sociale, <LienInterne LienPublication="F265" type="Fiche d'information" audience="Particuliers">carte vitale</LienInterne>, <LienInterne LienPublication="F163" type="Fiche d'information" audience="Particuliers">choix d'un médecin traitant</LienInterne>, ouverture <LienInterne LienPublication="F10872" type="Fiche Question-réponse" audience="Particuliers">d'un dossier médical personnel</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>participer à la <LienInterne LienPublication="F3109" type="Fiche Comment faire si" audience="Associations">création d'une association</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>participer à la direction d'une <LienInterne LienPublication="F1364" type="Fiche Question-réponse" audience="Particuliers">maison des lycéens</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander un <LienInterne LienPublication="F1051" type="Fiche d'information" audience="Particuliers">certificat de nationalité française</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>entrer <LienInterne LienPublication="F20104" type="Fiche d'information" audience="Particuliers"> dans un bar (toutefois je ne peux ni acheter, ni me voir offrir de l'alcool)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si je suis étranger, je peux également : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>demander  une <LienInterne LienPublication="F2687" type="Fiche Question-réponse" audience="Particuliers">carte de séjour</LienInterne> pour travailler,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander  la nationalité française (si je suis <LienInterne LienPublication="F295" type="Fiche d'information" audience="Particuliers">né en France de parents étrangers</LienInterne> ou si j'ai fait<LienInterne LienPublication="F3070" type="Fiche d'information" audience="Particuliers"> l'objet d'une adoption simple</LienInterne>  ou <LienInterne LienPublication="F31919" type="Fiche d'information" audience="Particuliers">ai été recueilli</LienInterne> en France),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander ma <LienInterne LienPublication="F2214" type="Fiche d'information" audience="Particuliers">réintégration dans la nationalité française</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Avec l'accord de mes parents ou de mon tuteur</Paragraphe>
+</Titre><Paragraphe>Je peux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>obtenir <LienInterne LienPublication="F1194" type="Fiche d'information" audience="Particuliers"> mon émancipation</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>obtenir le <LienInterne LienPublication="F2088" type="Fiche d'information" audience="Particuliers">permis de chasser</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>faire un <LienInterne LienPublication="F770" type="Fiche d'information" audience="Particuliers">testament</LienInterne> (en respectant certaines contraintes),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>préparer le <LienInterne LienPublication="F18988" type="Fiche d'information" audience="Particuliers"/>permis moto légère (<LienInterne LienPublication="F2832" type="Fiche d'information" audience="Particuliers">permis A1</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>m'engager dans un <LienInterne LienPublication="F13278" type="Fiche d'information" audience="Particuliers">service civique (ESC)</LienInterne> ou, sous certaines conditions, dans un <LienInterne LienPublication="F119" type="Fiche d'information" audience="Particuliers">service volontaire européen (SVE)</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être <LienInterne LienPublication="F72" type="Fiche d'information" audience="Particuliers">pompier volontaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>quitter le système scolaire et <LienInterne LienPublication="F32846" type="Fiche Question-réponse" audience="Particuliers">entamer des démarches d'insertion pour travailler</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>bénéficier d'une formation pour jeunes : <LienInterne LienPublication="F12289" type="Fiche d'information" audience="Particuliers">contrat d'insertion dans la vie sociale (Civis)</LienInterne> ou <LienInterne LienPublication="F232" type="Fiche d'information" audience="Particuliers">dispositif d'initiation aux métiers en alternance (Dima)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si je travaille, je bénéficie de réglementations spécifiques  en matière de <LienInterne LienPublication="F2300" type="Fiche d'information" audience="Particuliers">rémunération minimum</LienInterne>, de <LienInterne LienPublication="F1688" type="Fiche d'information" audience="Particuliers">travail de nuit</LienInterne>, de  <LienInterne LienPublication="F2216" type="Fiche d'information" audience="Particuliers">durée de travail et  jours de repos</LienInterne>.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À partir de 17 ans</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Seul</Paragraphe>
+</Titre><Paragraphe>Je peux <LienInterne LienPublication="F295" type="Fiche d'information" audience="Particuliers">décliner la nationalité française</LienInterne>, si je suis né en France de parents étrangers.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Avec l'accord de mes parents ou de mon tuteur</Paragraphe>
+</Titre><Paragraphe>Je peux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>m'inscrire à <LienInterne LienPublication="F2824" type="Fiche d'information" audience="Particuliers">l'examen du permis de conduire (permis B)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être <LienInterne LienPublication="F1292" type="Fiche d'information" audience="Particuliers">volontaire dans les armées</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>devenir <LienInterne LienPublication="F1188" type="Fiche d'information" audience="Particuliers">réserviste militaire (réserve opérationnelle),</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>m'engager dans la <LienInterne LienPublication="F1189" type="Fiche d'information" audience="Particuliers">réserve citoyenne</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>passer le   <LienInterne LienPublication="F2111" type="Fiche d'information" audience="Particuliers">brevet d'aptitude aux fonctions d'animateur (Bafa)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>partir <LienInterne LienPublication="F1664" type="Fiche d'information" audience="Particuliers">travailler au pair à l'étranger</LienInterne> (dans certains pays seulement).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R11" type="Local personnalisé sur SP">
+<Titre>Information jeunesse</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>cij</PivotLocal>
+<RessourceWeb URL="http://www.cidj.com/reseau-ij/france-metropolitaine"/>
+<Source ID="R30855">Centre d'information et de documentation jeunesse (CIDJ)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R238" type="Centre de contact">
+<Titre>Fil santé jeunes</Titre><Texte>
+						
+								<Paragraphe>
+			Service de renseignement à destination des jeunes (12-25 ans) dans le domaine de la santé : sexualité, nutrition, contraception, drogues, mal de vivre...</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0800 23 52 36</MiseEnEvidence>
+      appel et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0)1 44 93 30 74</MiseEnEvidence> (depuis un téléphone mobile, au prix d'un appel local)
+		</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au dimanche de 9h à 23h</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R33479" URL="https://www.educnum.fr/fr/10-conseils-pour-rester-net-sur-le-web" audience="Particuliers">
+<Titre>Dix conseils pour rester net sur le web</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41773" URL="http://www.jeunes.gouv.fr" audience="Particuliers">
+<Titre>Site jeunes.gouv</Titre>
+<Source ID="R30704">Ministère en charge de la jeunesse</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41774" URL="http://www.educnum.fr" audience="Particuliers">
+<Titre>Espace jeunes du site de la Cnil</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F21035" audience="Particuliers">Un mineur peut-il avoir un compte bancaire ou un livret d'épargne ?</QuestionReponse>
+<QuestionReponse ID="F1837" audience="Particuliers">Quelles mesures et sanctions pénales sont appliquées aux mineurs ?</QuestionReponse>
+<QuestionReponse ID="F1922" audience="Particuliers">Avec quels documents un mineur français peut-il voyager à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F905" audience="Particuliers">Comment se règle une succession quand l'héritier est un enfant mineur ?</QuestionReponse>
+</Publication>

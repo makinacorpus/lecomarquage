@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11475" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dans quel délai reçoit-on sa carte grise (ou l'étiquette de nouvelle adresse) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Dans quel délai reçoit-on sa carte grise (ou l'étiquette de nouvelle adresse) ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-04</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11475</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N367</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="F11475" type="Fiche Question-réponse">Dans quel délai reçoit-on sa carte grise (ou l'étiquette de nouvelle adresse) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre><SousDossier ID="N367-1">
+<Titre>Immatriculer un véhicule</Titre>
+<Fiche ID="F10293">Immatriculer un véhicule neuf</Fiche>
+<Fiche ID="F1050">Immatriculer un véhicule d'occasion</Fiche>
+<Fiche ID="F1480">Hériter d'un véhicule</Fiche>
+<Fiche ID="F1726">Duplicata de la carte grise : perte, vol ou détérioration</Fiche>
+<Fiche ID="F1360">Obtenir un certificat de non gage</Fiche>
+<Fiche ID="F19211">Coût de la carte grise</Fiche>
+</SousDossier>
+<SousDossier ID="N367-2">
+<Titre>Titulaire du certificat et modification de sa situation</Titre>
+<Fiche ID="F10477">Titulaire et cotitulaire de la carte grise</Fiche>
+<Fiche ID="F12118">Changement d'adresse</Fiche>
+<Fiche ID="F10613">Ajouter une autre personne sur sa carte grise</Fiche>
+<Fiche ID="F31218">Retirer un nom au certificat</Fiche>
+<Fiche ID="F16876">Changement du nom du titulaire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-3">
+<Titre>Modifications du véhicule</Titre>
+<Fiche ID="F1754">Carte grise d'un véhicule retiré de la circulation</Fiche>
+<Fiche ID="F1473">Véhicule accidenté</Fiche>
+<Fiche ID="F1478">Véhicule transformé</Fiche>
+<Fiche ID="F1468">Véhicule à détruire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-4">
+<Titre>Plaques d'immatriculation</Titre>
+<Fiche ID="F20319">Plaques d'immatriculation</Fiche>
+<Fiche ID="F18679">Vol ou usurpation de plaques d'immatriculation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Demande de carte grise</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande et production du document</Paragraphe>
+</Titre><BlocCas type="modalite" affichage="onglet">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><Paragraphe>L'enregistrement a lieu le jour même, que vous ayez fait la démarche à la préfecture, à la sous-préfecture ou auprès d'un professionnel agréé dans l'application SIV.</Paragraphe>
+<Paragraphe>Après enregistrement, la demande est transmise à l'Imprimerie nationale, qui produit le titre.</Paragraphe>
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Si vous avez transmis votre dossier par correspondance :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le délai de traitement pour enregistrement dans l'application SIV peut être de plusieurs jours ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si votre dossier est incomplet, il ne pourra pas être enregistré dans l'application SIV.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Après enregistrement, la demande est transmise à l'Imprimerie nationale, qui produit le titre.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>vous pouvez aussi suivre l'état d'avancement de la réalisation de votre carte grise.</Paragraphe><ServiceEnLigne ID="R20907" URL="https://immatriculation.ants.gouv.fr/Services-associes/Ou-en-est-votre-certificat-d-immatriculation" type="Téléservice">
+<Titre>Suivez votre demande de carte grise (certificat d'immatriculation)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de savoir où en est votre demande de carte grise (appelée <Expression>certificat d'immatriculation</Expression>).
+Munissez-vous du certificat provisoire d'immatriculation (CPI).</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Envoi du document</Paragraphe>
+</Titre><Paragraphe>La carte grise vous sera envoyée à votre domicile en lettre <Expression>expert</Expression> remise contre signature (du titulaire).</Paragraphe>
+<Paragraphe>Le délai de réception varie selon que vous avez obtenu un certificat provisoire d'immatriculation (CPI) ou non.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous attendez votre carte grise et vous n'avez pas obtenu de CPI</Paragraphe>
+</Titre><Paragraphe>Vous recevrez votre carte grise dans un délai variant d'1 à 3 semaines après  l'enregistrement de votre demande dans l'application SIV sous <LienIntra LienID="R23562" type="Définition de glossaire">pli sécurisé</LienIntra>.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si le délai de 3 semaines est dépassé, contactez <LienInterne LienPublication="R23383" type="Centre de contact" audience="Particuliers">l'Agence nationale des titres sécurisés (ANTS)</LienInterne>.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous attendez votre carte grise et vous avez obtenu un CPI</Paragraphe>
+</Titre><Paragraphe>Vous recevrez votre carte sous <LienIntra LienID="R23562" type="Définition de glossaire">pli sécurisé</LienIntra> dans les  10 jours qui suivent  l'enregistrement de la demande dans l'application SIV.</Paragraphe>
+<Paragraphe>Vous pouvez suivre l'état d'avancement de votre dossier sur le site de l'ANTS.</Paragraphe><ServiceEnLigne ID="R20907" URL="https://immatriculation.ants.gouv.fr/Services-associes/Ou-en-est-votre-certificat-d-immatriculation" type="Téléservice">
+<Titre>Suivez votre demande de carte grise (certificat d'immatriculation)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de savoir où en est votre demande de carte grise (appelée <Expression>certificat d'immatriculation</Expression>).
+Munissez-vous du certificat provisoire d'immatriculation (CPI).</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous n'avez pas reçu votre carte grise 10 jours après l'obtention du CPI,  contactez <LienInterne LienPublication="R23383" type="Centre de contact" audience="Particuliers">l'Agence nationale des titres sécurisés (ANTS)</LienInterne>.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+<Paragraphe>Si vous êtes absent lors du passage du  facteur, un avis de passage vous sera déposé. Vous avez ensuite 15 jours pour récupérer votre document à La Poste (ou donner procuration à un tiers pour le faire à votre place). Passé ce délai, le titre est renvoyé à l'expéditeur. Vous devrez contacter l'ANTS pour qu'il vous soit renvoyé.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Demande d'étiquette de nouvelle adresse</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande et production du document</Paragraphe>
+</Titre><BlocCas type="modalite" affichage="onglet">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><Paragraphe>L'enregistrement de votre demande a lieu le jour du dépôt de votre demande  à la préfecture ou la sous-préfecture de votre choix.</Paragraphe>
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Si vous avez adressé votre demande par courrier à la  préfecture ou à la sous-préfecture, le délai de prise en compte est variable, de l'ordre de quelques jours.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Envoi du document</Paragraphe>
+</Titre><Paragraphe>L'étiquette  vous sera envoyée sous un délai d'une semaine environ  sous <LienIntra LienID="R23562" type="Définition de glossaire">pli sécurisé</LienIntra>.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous n'avez pas reçu votre étiquette après ce délai,  contactez <LienInterne LienPublication="R23383" type="Centre de contact" audience="Particuliers">l'Agence nationale des titres sécurisés (ANTS)</LienInterne>.</Paragraphe>
+</ASavoir><Paragraphe>Si vous êtes absent lors du passage du  facteur, un avis de passage vous sera déposé. Vous avez ensuite 15 jours pour récupérer votre document à La Poste (ou donner procuration à un tiers pour le faire à votre place). Passé ce délai, l'étiquette sera renvoyée à l'expéditeur. Vous devrez contacter l'ANTS pour qu'il vous soit renvoyé.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R23383" type="Centre de contact">
+<Titre>Agence nationale des titres sécurisés (ANTS) - Certificat d'immatriculation (particuliers)</Titre>
+<Complement>Si vous n'avez pas reçu votre document dans les délais, pour vous renseigner</Complement>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source><Texte>
+						
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>Si vous avez un certificat provisoire (CPI) et  que vous n'avez pas reçu le certificat d'immatriculation définitif au bout de 10 jours</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>Si vous n'avez pas de  CPI et que vous n'avez pas reçu le certificat d'immatriculation définitif après expiration du délai <Citation>(privilégier la demande via le formulaire en ligne)</Citation>
+</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>Dans tous les cas : si vous étiez absent lors du passage du facteur que vous n'avez pas récupéré votre certificat d'immatriculation définitif au bureau de Poste dans le délai imparti</Paragraphe>
+									</Item>
+								</Liste>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0811 105 716</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>Du lundi au vendredi de 7h45 à 20 heures et le samedi de 8h à 17 heures.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+      <LienExterne URL="https://immatriculation.ants.gouv.fr/Nous-contacter">formulaire en ligne</LienExterne>
+
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R20907" URL="https://immatriculation.ants.gouv.fr/Services-associes/Ou-en-est-votre-certificat-d-immatriculation" type="Téléservice">
+<Titre>Suivez votre demande de carte grise (certificat d'immatriculation)</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</ServiceEnLigne>
+<Definition ID="R23562">
+<Titre>Pli sécurisé</Titre>
+<Texte>
+				<Paragraphe>Courrier suivi remis contre signature</Paragraphe>
+			</Texte>
+</Definition>
+
+
+
+</Publication>

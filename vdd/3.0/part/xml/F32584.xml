@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32584" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment un détenu est-il suivi après sa sortie de prison ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Une personne condamnée peut être soumis à certaines mesures de suivi suite à une libération conditionnelle ou, dans certains cas, après la fin de sa peine.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-02-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32584</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167539&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N275</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N275">Condamnations et peines</Niveau>
+<Niveau ID="F32584" type="Fiche Question-réponse">Comment un détenu est-il suivi après sa sortie de prison ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20334">Sanctions pénales</SousThemePere><DossierPere ID="N275">
+<Titre>Condamnations et peines</Titre><SousDossier ID="N275-1">
+<Titre>Peines principales et complémentaires</Titre>
+<Fiche ID="F32803">Amendes</Fiche>
+<Fiche ID="F14148">Prison ferme</Fiche>
+<Fiche ID="F1406">Infraction pénale : peines complémentaires</Fiche>
+<Fiche ID="F1407">Travail d'intérêt général (TIG)</Fiche>
+<Fiche ID="F32312">Contrainte pénale</Fiche>
+</SousDossier>
+<SousDossier ID="N275-2">
+<Titre>Exécution des condamnations</Titre>
+<Fiche ID="F1779">Exécution d'une décision du juge pénal</Fiche>
+<Fiche ID="F1531">Sursis</Fiche>
+</SousDossier>
+<SousDossier ID="N275-3">
+<Titre>Suivi des anciens détenus</Titre>
+<Fiche ID="F1278">Surveillance de sûreté pour les criminels</Fiche>
+<Fiche ID="F18535">Rétention de sûreté pour les criminels</Fiche>
+<Fiche ID="F32562">Libération conditionnelle - Libération sous contrainte</Fiche>
+</SousDossier>
+<SousDossier ID="N275-4">
+<Titre>Casier judiciaire</Titre>
+<Fiche ID="F14710">Contenu du casier</Fiche>
+<Fiche ID="F1420">Demande de bulletin numéro 3</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Une personne condamnée peut être soumis à certaines mesures de suivi suite à une libération conditionnelle ou, dans certains cas, après la fin de sa peine.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Si le détenu sort avant la fin de sa peine</Paragraphe>
+</Titre><Paragraphe>Un détenu sortant de prison avant la fin de sa peine subit des mesures de contrôle en cas de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32562" type="Fiche d'information" audience="Particuliers">libération conditionnelle</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de <LienInterne LienPublication="F32562" type="Fiche d'information" audience="Particuliers">libération sous contrainte</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de surveillance judiciaire. Cette mesure de suivi concerne le détenu condamné à 7 ans de prison ou plus (ou à 5 ans pour un récidiviste) et qui a bénéficié de <LienInterne LienPublication="F1779" type="Fiche d'information" audience="Particuliers">réductions de peine</LienInterne>. Elle est accordée par le tribunal de l'application des peines en cas de risque de récidive. Elle dure le temps des réductions de peine accordées.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dans tous les cas</Paragraphe>
+</Titre><Paragraphe>Après une peine de prison pour un crime particulièrement grave et s'il y a un fort risque de récidive, le détenu peut être soumis à :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F1278" type="Fiche d'information" audience="Particuliers">surveillance de sûreté</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une <LienInterne LienPublication="F18535" type="Fiche d'information" audience="Particuliers">rétention de sûreté</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ces mesures peuvent être mises en place même si le détenu a effectuée la totalité de la peine prévue par le tribunal.</Paragraphe>
+<Paragraphe>De plus, les personnes condamnées pour infractions sexuelles (viol, attouchements...) ou violentes (tortures et actes de barbaries...) seront inscrites dans le <LienInterne LienPublication="R39597" type="Sigle">FIJAIS</LienInterne>. Ce fichier permet le suivi et la localisation des personnes condamnées après leur sortie de prison.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167539&amp;cidTexte=LEGITEXT000006071154" ID="R39599">
+<Titre>Code de procédure pénale : articles 723-29 à 723-39</Titre>
+<Complement>Placement sous surveillance judiciaire</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R39585" URL="http://www.avocats.paris/la-liberation-conditionnelle" audience="Particuliers">
+<Titre>La libération conditionnelle</Titre>
+<Source ID="R46553">Barreau de Paris</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39583" URL="http://www.vie-publique.fr/politiques-publiques/prison-reinsertion-detenu/alternatives-prison/" audience="Particuliers">
+<Titre>Les mesures alternatives à la prison</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39598" URL="http://www.cidj.com/les-fichiers-de-police/le-fichier-judiciaire-automatise-des-auteurs-d-infractions-sexuelles-ou-violentes-fijaisv" audience="Particuliers">
+<Titre>Le fichier judiciaire automatisé des auteurs d'infractions sexuelles</Titre>
+<Source ID="R30855">Centre d'information et de documentation jeunesse (CIDJ)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R39597" type="Sigle">
+<Titre>FIJAIS</Titre>
+<Texte>
+<Paragraphe>Fichier judiciaire automatisé des auteurs d'infractions sexuelles ou violentes</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

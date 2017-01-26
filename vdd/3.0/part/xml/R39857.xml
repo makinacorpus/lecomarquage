@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R39857" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Ouverture du compte personnel de formation (CPF)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Social - Santé</dc:subject>
+<dc:description>Ouverture du compte personnel de formation (CPF) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-05</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R39857</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31131">Chômage : aides à la formation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R39857" type="Téléservice">Ouverture du compte personnel de formation (CPF)</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="https://espaceprive.moncompteformation.gouv.fr/sl5-portail-web/login">
+<Source>Ministère en charge du travail</Source>
+</LienWeb>
+<FicheLiee ID="F12382" audience="Particuliers" type="Fiche d'information">
+<Titre>Chômage : compte personnel de formation (CPF) d'un demandeur d'emploi</Titre>
+<Dossier ID="N31131">Chômage : aides à la formation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F10705" audience="Particuliers" type="Fiche d'information">
+<Titre>Compte personnel de formation (CPF) </Titre>
+<Dossier ID="N177">Formation des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32471" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelles sont les principales différences entre le Dif et le CPF ?</Titre>
+<Dossier ID="N177">Formation des salariés du secteur privé</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

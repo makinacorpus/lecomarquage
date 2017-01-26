@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15392" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment prouver qu'on est le père ou la mère d'un enfant ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>preuve de filiation acte de naissance acte de reconnaissance acte de notoriété</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-04-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15392</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006421246&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006424527&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424546&amp;idSectionTA=LEGISCTA000006136169&amp;cidTexte=LEGITEXT000006070721, http://circulaires.legifrance.gouv.fr/pdf/2011/11/cir_34124.pdf, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165320&amp;cidTexte=LEGITEXT000006070719</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N15660</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N15660">Naissance</Niveau>
+<Niveau ID="F15392" type="Fiche Question-réponse">Comment prouver qu'on est le père ou la mère d'un enfant ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N15660">
+<Titre>Naissance</Titre><SousDossier ID="N15660-1">
+<Titre>Formalités pour le couple</Titre>
+<Fiche ID="F961">Déclaration de naissance</Fiche>
+<Fiche ID="F15393">Filiation de l'enfant d'un couple marié : présomption de paternité</Fiche>
+<Fiche ID="F887">Filiation de l'enfant d'un couple non marié : reconnaissance</Fiche>
+</SousDossier>
+<SousDossier ID="N15660-2">
+<Titre>Démarches judiciaires</Titre>
+<Fiche ID="F15882">Recherche de paternité</Fiche>
+<Fiche ID="F15395">Établissement de la filiation par possession d'état</Fiche>
+<Fiche ID="F1230">Action aux fins de subsides en l'absence de filiation paternelle</Fiche>
+<Fiche ID="F940">Contestation de la filiation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>La filiation se prouve :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">l’acte de naissance</LienInterne> de l’enfant,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>par <LienInterne LienPublication="F887" type="Fiche d'information" audience="Particuliers">l’acte de reconnaissance</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou par l’acte de notoriété constatant la <LienInterne LienPublication="F15395" type="Fiche d'information" audience="Particuliers">possession d’état</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Tant qu'elle n'a pas été contestée en justice, la filiation légalement établie fait obstacle à l'établissement d'une autre filiation qui la contredirait.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>Toute convention portant sur le lien de filiation est interdite (par exemple, une convention de maternité portant sur la gestation pour le compte d'autrui).</Paragraphe>
+</Attention><Paragraphe>Dans certains  cas,  l'établissement de la filiation est impossible</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Enfant né sans vie</Paragraphe>
+</Titre><Paragraphe>Pour que l'établissement de la  filiation soit recevable, l'enfant doit être né vivant et viable, certificat médical à l'appui.</Paragraphe>
+<Paragraphe>Dans le cas contraire, vous ne pouvez faire établir de lien de filiation à l'égard de cet enfant.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Inceste</Paragraphe>
+</Titre><Paragraphe>En cas d'inceste absolu (entre père et fille, mère et fils ou frère et sœur), seul un des parents de l'enfant peut légalement établir la filiation.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour se renseigner</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006421246&amp;cidTexte=LEGITEXT000006070721" ID="R19234">
+<Titre>Code civil : article 79-1</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006424527&amp;cidTexte=LEGITEXT000006070721" ID="R15699">
+<Titre>Code civil : article 310</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006424546&amp;idSectionTA=LEGISCTA000006136169&amp;cidTexte=LEGITEXT000006070721" ID="R15695">
+<Titre>Code civil : articles 310-1 et 310-2</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2011/11/cir_34124.pdf" ID="R2316" format="application/pdf" poids="1.0 MB">
+<Titre>Circulaire du 28 octobre 2011 portant sur divers actes de l'état civil relatifs à la naissance et à la filiation</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165320&amp;cidTexte=LEGITEXT000006070719" ID="R32359">
+<Titre>Code pénal : articles 227-12 à 227-14</Titre>
+</Reference>
+<QuestionReponse ID="F18605" audience="Particuliers">Comment prouver l'autorité parentale ?</QuestionReponse>
+</Publication>

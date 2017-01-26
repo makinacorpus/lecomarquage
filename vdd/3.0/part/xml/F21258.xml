@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21258" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Passeport : comment acheter un timbre fiscal ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Les timbres fiscaux peuvent être achetés en ligne (timbres dématérialisés ou électroniques), dans un bureau de tabac ou auprès de certaines administrations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-07</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21258</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179554&amp;cidTexte=LEGITEXT000006069576</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N360">Passeport</Niveau>
+<Niveau ID="F21258" type="Fiche Question-réponse">Passeport : comment acheter un timbre fiscal ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N360">
+<Titre>Passeport</Titre><SousDossier ID="N360-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F14929">Première demande</Fiche>
+<Fiche ID="F21091">Renouvellement</Fiche>
+<Fiche ID="F21246">Passeport perdu</Fiche>
+<Fiche ID="F21247">Passeport volé</Fiche>
+<Fiche ID="F1373">Passeport en urgence</Fiche>
+</SousDossier>
+<SousDossier ID="N360-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F14930">Première demande</Fiche>
+<Fiche ID="F21092">Renouvellement</Fiche>
+<Fiche ID="F21244">Passeport perdu</Fiche>
+<Fiche ID="F21245">Passeport volé</Fiche>
+<Fiche ID="F1035">Passeport en urgence</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les timbres fiscaux peuvent être achetés en ligne (timbres dématérialisés ou <Expression>électroniques</Expression>), dans un bureau de tabac ou auprès de certaines administrations.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R39812" URL="https://timbres.impots.gouv.fr/pages/achat/choixTimbres.jsp" type="Téléservice">
+<Titre>Achat en ligne du timbre fiscal - Passeport</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Introduction>
+<Texte><Paragraphe>Se munir d'une carte bancaire</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le timbre électronique peut prendre 2 formes : un code 2D et un identifiant à 16 chiffres.</Paragraphe>
+<Paragraphe>Il peut être délivré sur 2 supports :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> un document PDF avec un code 2D qui peut également être scanné directement depuis un téléphone, une tablette par le service chargé de recevoir votre demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un SMS contenant l'identifiant à 16 chiffres du timbre qui sera accepté par l'agent chargé de traiter votre dossier.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+<Paragraphe>Le timbre électronique  peut être délivré sur 2 supports :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> un document PDF avec un code 2D qui peut également être scanné directement depuis un téléphone, une tablette par le service chargé de recevoir votre demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un SMS contenant l'identifiant à 16 chiffres du timbre qui sera accepté par l'agent chargé de traiter votre dossier.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Dans un bureau de tabac</Paragraphe>
+</Titre><Paragraphe>Vous pouvez acheter un timbre fiscal dans un bureau de tabac si ce commerce le propose.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Auprès d'une administration</Paragraphe>
+</Titre>
+						<Paragraphe>Le  timbre  fiscal peut être acheté :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>dans  certains centres des finances publiques,  trésoreries,   services des impôts des entreprises (SIE)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe> ou dans certaines  préfectures ou sous-préfectures.</Paragraphe>
+							</Item>
+						</Liste>
+						<Paragraphe>Avant de vous déplacer, renseignez vous auprès de ces administrations pour savoir si leurs services vendent des timbres fiscaux.</Paragraphe>
+					
+						<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+						<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+					
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>pour demander le remboursement d'un timbre fiscal, suite à une erreur de montant par exemple, il convient de prendre contact avec votre service des impôts.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179554&amp;cidTexte=LEGITEXT000006069576" ID="R14083">
+<Titre>Code général des impôts, annexe 4 : articles 121 KM à 121 KM ter</Titre>
+</Reference>
+<ServiceEnLigne ID="R39812" URL="https://timbres.impots.gouv.fr/pages/achat/choixTimbres.jsp" type="Téléservice">
+<Titre>Achat en ligne du timbre fiscal - Passeport</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42969" URL="https://timbres.impots.gouv.fr/pages/remboursement/remboursement.jsp" type="Téléservice">
+<Titre>Demande de remboursement d'un timbre électronique pour un passeport</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+
+
+
+</Publication>

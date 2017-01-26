@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F20789" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire si on est victime d'une infraction ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Si vous êtes victime d'une infraction pénale (vol, agression, cambriolage...), vous pouvez plainte pour demander une enquête. Vous pouvez aussi demander directement un procès. Il est également possible de demander une indemnisation. Des associations de victimes peuvent vous aider.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-12-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F20789</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006167418&amp;cidTexte=LEGITEXT000006071154&amp;dateTexte=vig, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167422&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182902&amp;cidTexte=LEGITEXT000006071154, https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721&amp;idSectionTA=LEGISCTA000032021488</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F20789" type="Fiche Question-réponse">Que faire si on est victime d'une infraction ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous êtes victime d'une infraction pénale (vol, agression, cambriolage...), vous pouvez plainte pour demander une enquête. Vous pouvez aussi demander directement un procès. Il est également possible de demander une indemnisation. Des associations de victimes peuvent vous aider.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Porter plainte</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Plainte simple</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="F1435" type="Fiche d'information" audience="Particuliers">plainte simple</LienInterne> permet de saisir <LienIntra LienID="R1123" type="Définition de glossaire">procureur de la République</LienIntra> et de demander une enquête pénale. L'enquête sera réalisée par la police ou la gendarmerie en vue d'un éventuel procès.</Paragraphe>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre>
+										<Paragraphe>Vous devez vous adresser à un commissariat de police ou une brigade de gendarmerie.</Paragraphe>
+										<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+										<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+										<Paragraphe>La réception de la plainte ne peut pas vous être refusée.</Paragraphe>
+										<Paragraphe>La plainte est ensuite transmise au procureur de la République.</Paragraphe>
+									
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre>
+										<Paragraphe>Vous devez écrire directement au procureur de la République. Il faut envoyer une <LienInterne LienPublication="R11469" type="Modèle de document" audience="Particuliers">lettre sur papier libre</LienInterne> au tribunal de grande instance du lieu de l'infraction ou du domicile de l'auteur de l'infraction.</Paragraphe>
+										<Paragraphe>La lettre doit préciser :</Paragraphe>
+										<Liste type="puce">
+											<Item>
+												<Paragraphe>l'état civil complet du plaignant et ses coordonnées complètes (adresse et numéro de téléphone),</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>le récit détaillé des faits, la date et le lieu de l'infraction,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>le nom de l'auteur présumé s'il est connu du plaignant (à défaut, il convient de déposer plainte contre X),</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>les noms et adresses des éventuels témoins de cette infraction,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>la description et l'estimation provisoire ou définitive du préjudice,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>les documents de preuve  : certificats médicaux constatant les blessures, arrêts de travail, factures diverses, constats en cas de dégâts matériels.</Paragraphe>
+												<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+											</Item>
+										</Liste>
+									
+										<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+									
+										<Paragraphe>Vous pouvez envoyer votre plainte en lettre recommandée avec accusé de réception mais ce n'est pas obligatoire, vous pouvez envoyer une lettre simple. Dans tous les cas, un récépissé vous sera remis dès que le procureur aura enregistré votre plainte.</Paragraphe>
+									
+</Cas>
+</BlocCas>
+
+<Paragraphe>L'auteur des faits pourra être condamné à une peine de prison et/ou une amende.</Paragraphe>
+<Paragraphe>Le <LienInterne LienPublication="F31982" type="Fiche Question-réponse" audience="Particuliers">délai pour porter plainte</LienInterne> est d'1 an pour une contravention, 3 ans pour un délit, 10 ans pour un crime. Ces délais peuvent varier pour certaines catégories d'infractions.</Paragraphe>
+<Paragraphe>Vous pouvez demander l'aide d'un avocat.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Les frais peuvent prise en charge par <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>une victime a le droit à l'assistance d'un avocat si elle est confrontée avec une personne <LienInterne LienPublication="F14837" type="Fiche d'information" audience="Particuliers">gardée à vue</LienInterne> ou interrogée comme <LienInterne LienPublication="F32124" type="Fiche Question-réponse" audience="Particuliers">suspect libre</LienInterne>.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Plainte avec constitution de partie civile</Paragraphe>
+</Titre><Paragraphe>Vous pouvez porter plainte <LienInterne LienPublication="F20798" type="Fiche d'information" audience="Particuliers"> avec constitution de partie civile</LienInterne> auprès d'un juge d'instruction  :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si votre plainte simple est classé sans suite,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si votre plainte simple est restée sans réponse du procureur pendant 3 mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou sans condition en cas de <LienInterne LienPublication="F1157" type="Fiche Question-réponse" audience="Particuliers">crime</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez demander l'aide d'un avocat.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Les frais peuvent prise en charge par <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demander directement un procès</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="F1455" type="Fiche d'information" audience="Particuliers">citation directe</LienInterne> est une procédure rapide qui permet à la victime de saisir directement la justice pénale. Il y aura un procès immédiat sans enquête de police ou de gendarmerie.</Paragraphe>
+<Paragraphe>Vous devez connaître l'auteur des faits et avoir des preuves solides.</Paragraphe>
+<Paragraphe>L'auteur des faits pourra être condamné à une peine de prison et/ou une amende. Il devra également indemniser la victime.</Paragraphe>
+<Paragraphe>Vous pouvez demander l'aide d'un avocat.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Les frais peuvent prise en charge par <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demander une indemnisation</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="F1422" type="Fiche d'information" audience="Particuliers">demande d'indemnisation</LienInterne> peut s'ajouter à une plainte ou à un procès pénal.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Indemnisation par la commission d'indemnisation</Paragraphe>
+</Titre><Paragraphe>Sans attendre un éventuel procès, il est également possible de demander une indemnisation auprès de la <LienInterne LienPublication="F2313" type="Fiche d'information" audience="Particuliers">Commission d'indemnisation des victimes d'infraction (Civi)</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Procès civil</Paragraphe>
+</Titre><Paragraphe>Vous pouvez saisir un tribunal civil pour demander à votre adversaire la <LienInterne LienPublication="F1422" type="Fiche d'information" audience="Particuliers">réparation de votre préjudice</LienInterne>.</Paragraphe>
+<Paragraphe>Il n'y aura pas d'enquête de police ou de gendarmerie. Le responsable des faits ne pourra pas être condamné à une peine de prison ou d'amende.</Paragraphe>
+
+						<Paragraphe>La juridiction compétente dépend des sommes en jeu dans le litige.</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Pour un  litige   inférieur à <Valeur>4 000 €</Valeur>, c'est le  <LienInterne LienPublication="F1785" type="Fiche d'information" audience="Particuliers">juge de proximité</LienInterne>.</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Pour un  litige  compris entre <Valeur>4 000 €</Valeur> et  <Valeur>10 000 €</Valeur>, c'est  le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance (TI</LienInterne>).</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Pour un  litige  supérieur à <Valeur>10 000 €</Valeur>, c'est le  <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">tribunal de grande instance (TGI)</LienInterne>.</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Paragraphe>Vous pouvez demander l'aide d'un avocat.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Les frais peuvent prise en charge par <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Obtenir des conseils</Paragraphe>
+</Titre><Paragraphe>Plusieurs dispositifs existent pour obtenir des <LienInterne LienPublication="F20706" type="Fiche Question-réponse" audience="Particuliers">conseils gratuits</LienInterne> de la part d'un avocat.</Paragraphe>
+<Paragraphe>Vous pouvez aussi obtenir de l'aide auprès d'une association du réseau Inavem (Institut Aide aux Victimes et Médiation).</Paragraphe><OuSAdresser ID="R1883" type="Local personnalisable">
+<Titre>Réseau Inavem</Titre>
+<PivotLocal>association_violence_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.inavem.org/index.php/component/association"/>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez également appeler le 08 Victimes.</Paragraphe><OuSAdresser ID="R167" type="Centre de contact">
+<Titre>08 Victimes</Titre>
+<Source ID="R30797">Institut national d'aide aux victimes et de médiation (Inavem)</Source><Texte>
+						
+								<Paragraphe>
+			
+      Écoute, informe et conseille les victimes d'infractions ainsi que leurs proches.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>08 842 846 37</MiseEnEvidence>
+      depuis la France métropolitaine</Paragraphe>
+								<Paragraphe>Ouvert 7 jours sur 7 de 9h à 21h</Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>+33 (0)1 41 83 42 08</MiseEnEvidence> depuis l'outre-mer ou l'étranger</Paragraphe>
+								<Paragraphe>Ouvert 7 jours sur 7 de 9h à 21h</Paragraphe>
+								<Paragraphe>
+			Coût d'un appel local depuis un poste fixe</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>En utilisant le <LienExterne URL="http://www.inavem.org/index.php/component/chronoforms5/?chronoform=contact_victimes">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F18074" audience="Particuliers">
+<Titre>Aide juridictionnelle</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour obtenir des conseils</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R167" type="Centre de contact">
+<Titre>08 Victimes</Titre>
+<Complement>Pour obtenir des conseils</Complement>
+<Source ID="R30797">Institut national d'aide aux victimes et de médiation (Inavem)</Source><Texte>
+						
+								<Paragraphe>
+			
+      Écoute, informe et conseille les victimes d'infractions ainsi que leurs proches.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>08 842 846 37</MiseEnEvidence>
+      depuis la France métropolitaine</Paragraphe>
+								<Paragraphe>Ouvert 7 jours sur 7 de 9h à 21h</Paragraphe>
+								<Paragraphe>Numéro gris ou banalisé : coût d'un appel vers un fixe et service gratuit, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>+33 (0)1 41 83 42 08</MiseEnEvidence> depuis l'outre-mer ou l'étranger</Paragraphe>
+								<Paragraphe>Ouvert 7 jours sur 7 de 9h à 21h</Paragraphe>
+								<Paragraphe>
+			Coût d'un appel local depuis un poste fixe</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>En utilisant le <LienExterne URL="http://www.inavem.org/index.php/component/chronoforms5/?chronoform=contact_victimes">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R1883" type="Local personnalisable">
+<Titre>Réseau Inavem</Titre>
+<Complement>Pour obtenir des conseils</Complement>
+<PivotLocal>association_violence_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.inavem.org/index.php/component/association"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006167418&amp;cidTexte=LEGITEXT000006071154&amp;dateTexte=vig" ID="R19558">
+<Titre>Code de procédure pénale : articles 39 à 44-1</Titre>
+<Complement>Pouvoirs du procureur de la République</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167422&amp;cidTexte=LEGITEXT000006071154" ID="R19559">
+<Titre>Code de procédure pénale : articles 85 à 91-1</Titre>
+<Complement>Dépôt d'une plainte avec constitution de partie civile</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182902&amp;cidTexte=LEGITEXT000006071154" ID="R2254">
+<Titre>Code de procédure pénale : articles 389 à 392-1</Titre>
+<Complement>Procédure de citation directe</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721&amp;idSectionTA=LEGISCTA000032021488" ID="R610">
+<Titre>Code civil : articles 1240 à 1244</Titre>
+<Complement>Indemnisation du préjudice</Complement>
+</Reference>
+<Definition ID="R1123">
+<Titre>Procureur de la République</Titre>
+<Texte>
+				<Paragraphe>Magistrat à la tête du parquet (ou ministère public) au sein d'un tribunal de grande instance (TGI). Il est destinataire des plaintes et signalements. Il dirige les enquêtes, décide des poursuites et veille à l'application de la loi.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1766" audience="Particuliers">Qu'est-ce que la légitime défense?</QuestionReponse>
+<QuestionReponse ID="F1157" audience="Particuliers">Quelles sont les différences entre une contravention, un délit et un crime ?</QuestionReponse>
+<QuestionReponse ID="F1154" audience="Particuliers">Le procureur est-il tenu d'engager des poursuites à la suite d'une plainte ?</QuestionReponse>
+<QuestionReponse ID="F16862" audience="Particuliers">Peut-on retirer une plainte et quelles en sont les conséquences ?</QuestionReponse>
+
+
+</Publication>

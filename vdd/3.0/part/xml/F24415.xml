@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24415" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carte de retrait ou carte bancaire : quelles différences ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Contrairement à une carte bancaire, une carte de retrait permet uniquement de retirer de l'argent liquide dans les distributeurs de billets du réseau de sa banque.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24415</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F24415" type="Fiche Question-réponse">Carte de retrait ou carte bancaire : quelles différences ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Contrairement à une carte bancaire, une carte de retrait permet uniquement de retirer de l'argent liquide dans les distributeurs de billets du réseau de sa banque. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Différence entre une carte de retrait et une carte bancaire</Titre>
+<Colonne largeur="13" type="header"/>
+<Colonne largeur="28" type="header"/>
+<Colonne largeur="29" type="normal"/>
+<Colonne largeur="41" type="normal"/>
+<Rangée type="header">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Objet</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Carte de retrait</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Carte bancaire</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Prix</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gratuit</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Le plus souvent payant. Les tarifs dépendent de la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Retrait d'espèces</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Uniquement dans les distributeurs de sa banque</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dans tous les distributeurs</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionHorizontale="2">
+<Paragraphe>Paiement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Impossible</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2424" type="Fiche d'information" audience="Particuliers">Possible</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="6">
+<Paragraphe>Comptes associés</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2413" type="Fiche d'information" audience="Particuliers">Compte bancaire</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2365" type="Fiche d'information" audience="Particuliers">Livret A</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2368" type="Fiche d'information" audience="Particuliers">Livret de développement durable (LDD)</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2367" type="Fiche d'information" audience="Particuliers">Livret d'épargne populaire (LEP)</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2904" type="Fiche d'information" audience="Particuliers">Livret jeune</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2436" type="Fiche d'information" audience="Particuliers">Crédit renouvelable</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Texte><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R39930" URL="http://www.abe-infoservice.fr/banque/moyens-de-paiement/carte-bancaire/quelques-conseils-dusage-a-lattention-des-detenteurs-de-carte-bancaire.html" audience="Particuliers">
+<Titre>Utilisation d'une carte bancaire</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39931" URL="http://www.abe-infoservice.fr/banque/moyens-de-paiement/carte-bancaire/la-fraude-a-la-carte-bancaire-ce-quil-faut-savoir.html" audience="Particuliers">
+<Titre>En cas de fraude à la carte bancaire</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+</Publication>

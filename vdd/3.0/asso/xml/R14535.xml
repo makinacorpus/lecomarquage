@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14535" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Guichet unique du spectacle occasionnel (Guso)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association, Ressources humaines</dc:subject>
+<dc:description>Guichet unique du spectacle occasionnel (Guso) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-18</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14535</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Associations</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14535" type="Téléservice">Guichet unique du spectacle occasionnel (Guso)</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Permet d'accomplir l'ensemble des formalités liées à l'emploi d'un artiste ou d'un technicien du spectacle. </Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.guso.fr/webguso/accueil">
+<Source>Pôle emploi</Source>
+</LienWeb>
+<FicheLiee ID="F1928" audience="Associations" type="Fiche d'information">
+<Titre>Guichet unique du spectacle occasionnel (Guso)</Titre>
+<Dossier ID="N22150">Bénévoles, volontaires et salariés d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22793" audience="Professionnels" type="Fiche d'information">
+<Titre>Recrutement et emploi d'un artiste ou technicien du spectacle</Titre>
+<Dossier ID="N16992">Recrutements spécifiques</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

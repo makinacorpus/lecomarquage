@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24332" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment calculer les effectifs d'une entreprise ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>En matière de déclarations sociales ou d'obligations de l'employeur, le calcul de l'effectif de l'entreprise doit se baser sur le nombre de salariés liés par un contrat de travail au 31 décembre précédent, tous établissements confondus. Pour déterminer la périodicité des cotisations, le décompte de l'effectif s'effectue selon l'effectif global, alors que, pour l'appréciation de l'assujettissement aux contributions ou pour certaines exonérations, il faut compter selon l'effectif moyen.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24332</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000019353569&amp;idSectionTA=LEGISCTA000006177833&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000022391432&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N10779</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N10779">Cotisations et contributions sociales de l'employeur</Niveau>
+<Niveau ID="F24332" type="Fiche Question-réponse">Comment calculer les effectifs d'une entreprise ?</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+<SousThemePere ID="N23430">Protection sociale</SousThemePere><DossierPere ID="N10779">
+<Titre>Cotisations et contributions sociales de l'employeur</Titre><SousDossier ID="N10779-1">
+<Titre>Déclarations sociales</Titre>
+<Fiche ID="F24013">Déclaration et paiement des cotisations sociales</Fiche>
+<Fiche ID="F23892">Déclaration annuelle des données sociales (DADS)</Fiche>
+<Fiche ID="F22524">Déclaration des mouvements de main-d'œuvre (DMMO)</Fiche>
+<Fiche ID="F22523">Déclaration obligatoire d'emploi des travailleurs handicapés (DOETH)</Fiche>
+<Fiche ID="F23769">Déclaration des congés spectacles (DCS)</Fiche>
+<Fiche ID="F24005">Déclaration pour la retraite complémentaire</Fiche>
+</SousDossier>
+<SousDossier ID="N10779-2">
+<Titre>Cotisations et contributions</Titre>
+<Fiche ID="F22726">Contribution sociale de solidarité des sociétés (C3S)</Fiche>
+<Fiche ID="F32872">Contribution solidarité autonomie (CSA)</Fiche>
+<Fiche ID="F31532">Forfait social</Fiche>
+<Fiche ID="F31031">Versement transport</Fiche>
+<Fiche ID="F33308">Contribution patronale au financement des organisations syndicales</Fiche>
+<Fiche ID="F31409">Cotisation au régime de garantie des salaires (AGS)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En matière de déclarations sociales ou d'obligations de l'employeur, le calcul de l'effectif de l'entreprise doit se baser sur le nombre de salariés liés par un contrat de travail au 31 décembre précédent, tous établissements confondus. Pour déterminer la périodicité des cotisations, le décompte de l'effectif s'effectue selon l'effectif global, alors que, pour l'appréciation de l'assujettissement aux  contributions ou pour certaines exonérations, il faut compter selon l'effectif moyen.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Modalités de décompte des salariés</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir calculer l'effectif global et l'effectif moyen, il faut opérer un décompte.</Paragraphe>
+<Paragraphe>Pour le calcul de l'effectif mensuel, il faut tenir compte de tous les salariés titulaires d'un contrat de travail le dernier jour de chaque mois, y compris les salariés absents.</Paragraphe>
+<Tableau>
+<Titre>Modes de décompte des salariés</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Catégories </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Modes de décompte </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salariés en <LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne> à temps plein, qu'ils soient présents ou absents pour maladie ou congé</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sont comptés pour une unité chacun :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les salariés ayant travaillé la totalité du mois</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les salariés en forfait jours, quelle que soit la durée de leur forfait</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les salariés dont le contrat de travail est suspendu (congé de maternité, d'adoption ou congé parental d'éducation par exemple)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Travailleurs à domicile</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Les salariés ayant travaillé la totalité du mois sont comptés pour une unité chacun</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salariés en <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les salariés ayant travaillé la totalité du mois sont comptés pour une unité chacun</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Les salariés ayant travaillé une partie du mois sont comptés au prorata de leur temps de travail</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Les salariés ne sont pas pris en compte dans le calcul de l'effectif moyen en cas de remplacement d'un salarié absent ou dont le contrat est suspendu du fait d'un congé de maternité, d'un congé d'adoption ou d'un congé parental d'éducation</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salariés intermittents</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les salariés ayant travaillé la totalité du mois sont comptés pour une unité chacun</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Les salariés ayant travaillé une partie du mois sont comptés au prorata de leur temps de travail</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salariés mis à disposition par une entreprise extérieure et présents depuis au moins 1 an, ainsi que les salariés d'un contrat de travail temporaire (intérimaires)</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Les salariés ayant travaillé la totalité du mois sont comptés pour une unité chacun</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Les salariés ayant travaillé une partie du mois sont comptés au prorata de leur temps de travail</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Les salariés ne sont pas pris en compte dans le calcul de l'effectif moyen en cas de remplacement d'un salarié absent ou dont le contrat est suspendu du fait d'un congé de maternité, d'un congé d'adoption ou d'un congé parental d'éducation</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Salariés à temps partiel, quelle que soit la nature de leur contrat de travail</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Chaque salarié est pris en compte au prorata de son temps de travail (somme totale des horaires inscrits dans le contrat de travail / durée légale ou conventionnelle du travail)</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Ne sont pas pris en compte dans le calcul des effectifs les personnes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en <LienInterne LienPublication="F22424" type="Fiche d'information" audience="Professionnels">contrat d'apprentissage</LienInterne> (apprentis),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> en contrat unique d'insertion (CUI)  ou contrat d'accès à l'emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en contrat d'accompagnement dans l'emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> en contrat de professionnalisation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F20559" type="Fiche d'information" audience="Professionnels">stagiaires étudiants</LienInterne> ou stagiaires en formation professionnelle</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il existe des cas particuliers :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les VRP multicartes sont exclus de l'effectif global mais compris dans l'effectif moyen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les salariés embauchés dans le cadre du <LienInterne LienPublication="F23154" type="Fiche d'information" audience="Professionnels">titre emploi service entreprise (Tese)</LienInterne> et du chèque emploi associatif (CEA) sont exclus de l'effectif global, mais inclus dans l'effectif moyen,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les personnes handicapées employées par un centre d'aide par le travail (CAT) appartiennent à l'effectif de l'association gestionnaire du CAT,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les travailleurs temporaires (intérimaires) sont comptabilisés dans l'effectif de l'entreprise de travail temporaire, et non dans celui de l'entreprise utilisatrice, lorsqu'ils remplacent un salarié absent ou dont le contrat de travail est suspendu ou lorsqu'ils ont été liés par contrat de travail temporaire pendant une durée totale de trois mois au cours de la dernière année civile (ce qui signifie que la durée cumulée de tous les contrats effectués au cours de l'année civile précédente est au moins égale à 455 heures)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les salariés détachés ou mis à disposition d'une autre entreprise (<LienInterne LienPublication="F22542" type="Fiche d'information" audience="Professionnels">prêt de main-d'œuvre</LienInterne>) sont comptés dans l'entreprise qui a conclu le contrat de travail.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Effectif global et effectif moyen annuel</Paragraphe>
+</Titre><Paragraphe>Pour calculer l'<MiseEnEvidence>effectif global</MiseEnEvidence>, il faut prendre en compte le nombre de salariés présents dans l'entreprise au 31 décembre. Chaque salarié compte pour une unité, quelles que soient la durée et les conditions de travail.</Paragraphe>
+<Paragraphe>Pour calculer l'<MiseEnEvidence>effectif moyen annuel</MiseEnEvidence>, il faut tout d'abord calculer les effectifs pour chaque mois de l'année civile au prorata de leur temps de travail.</Paragraphe>
+<Tableau>
+<Titre>Exemple des effectifs pour un mois donné </Titre>
+<Colonne largeur="46" type="normal"/>
+<Colonne largeur="46" type="normal"/>
+<Rangée type="header">
+<Cellule/>
+<Cellule>
+<Paragraphe>Nombre de salariés à retenir dans le calcul </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>10 <LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne> à temps complet</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2 <LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne> ayant travaillé chacun 65 heures (65 x 2)/151,67</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,86</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne> à temps complet pour augmentation d'activité</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1 apprenti</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Effectif du mois</MiseEnEvidence> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>11,86</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Pour calculer le nombre d'heures correspondant à un temps plein, il faut considérer le temps de travail non pas sur la semaine, mais sur l'année : 35 h x 52 semaines = 1 820 heures pour l'année, ce qui fait 1 820 h/12 mois = 151,67 heures par mois. <MiseEnEvidence>Donc, 151,67 heures par mois correspondent à 35 heures hebdomadaires</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Ensuite, il faut calculer la moyenne des effectifs mensuels au 31 décembre, en additionnant le nombre moyen de salariés présents chaque mois et diviser par 12 mois.</Paragraphe>
+<Tableau>
+<Titre>Exemple d'une moyenne d'effectifs mensuels</Titre>
+<Colonne largeur="7" type="normal"/>
+<Colonne largeur="7" type="normal"/>
+<Colonne largeur="5" type="normal"/>
+<Colonne largeur="5" type="normal"/>
+<Colonne largeur="4" type="normal"/>
+<Colonne largeur="4" type="normal"/>
+<Colonne largeur="6" type="normal"/>
+<Colonne largeur="5" type="normal"/>
+<Colonne largeur="5" type="normal"/>
+<Colonne largeur="5" type="normal"/>
+<Colonne largeur="5" type="normal"/>
+<Colonne largeur="5" type="normal"/>
+<Colonne largeur="11" type="normal"/>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Janvier</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Février</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mars</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avril</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mai</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Juin</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Juillet</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Août</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sept.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oct.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Nov.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déc.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>Total</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>14,86</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>11</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>9</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>11</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>13</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<MiseEnEvidence>118,86</MiseEnEvidence>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Donc, l'effectif moyen annuel est égal à 118,86/ 12 = 9,90. Le chiffre est arrondi au centième le plus proche.</Paragraphe>
+<Paragraphe>Pour une entreprise créée en cours d'année, il faut faire la somme des effectifs mensuels depuis la création d'entreprise jusqu'au 31 décembre et diviser par le nombre réel de mois.</Paragraphe>
+<Paragraphe>En fin d'année, l'employeur doit indiquer les effectifs de son entreprise sur la <LienInterne LienPublication="F23892" type="Fiche d'information" audience="Professionnels">déclaration annuelle des données sociales (DADS)</LienInterne>.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les mois au cours desquels aucun salarié n'est employé ne sont pas pris en compte dans le calcul de l'effectif moyen. Par exemple, si aucun salarié n'est embauché durant le mois de juin, il faut diviser la somme des effectifs mensuels par 11 (et non 12).</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R20" type="Local personnalisé sur SP">
+<Titre>Unité départementale de la Direccte</Titre>
+<PivotLocal>direccte_ut</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Unit%C3%A9+territoriale+de+la+Direccte&amp;where="/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000019353569&amp;idSectionTA=LEGISCTA000006177833&amp;cidTexte=LEGITEXT000006072050" ID="R22634">
+<Titre>Code du travail : articles L1111-1 à L1111-3</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000022391432&amp;cidTexte=LEGITEXT000006072050" ID="R24334">
+<Titre>Code du travail : article L5522-16</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R37800" URL="https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif.html" audience="Professionnels">
+<Titre>Calcul des effectifs d'une entreprise</Titre>
+<Source ID="R30863">Urssaf</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

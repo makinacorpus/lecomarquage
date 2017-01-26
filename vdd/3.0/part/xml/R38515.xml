@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R38515" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander une attestation de comparabilité d'un diplôme étranger</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Permet d'obtenir auprès du centre Enic-Naric France une attestation de comparabilité pour un ou plusieurs diplôme(s) étranger(s). Cette attestation est délivrée lorsqu'un diplôme peut être comparé avec un niveau de formation de la nomenclature française des niveaux de formation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-25</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R38515</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N31346">Étudiant étranger en France</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R38515" type="Téléservice">Demander une attestation de comparabilité d'un diplôme étranger</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet d'obtenir auprès du centre Enic-Naric France une attestation de comparabilité pour un ou plusieurs diplôme(s) étranger(s). Cette attestation est délivrée lorsqu'un diplôme peut être comparé avec un niveau de formation de la nomenclature française des niveaux de formation. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://phoenix.ciep.fr/inscriptions/inscription.wse.aspx">
+<Source>Centre international d'études pédagogiques - Réseau Enic-Naric</Source>
+</LienWeb><NoticeLiee ID="R38516" URL="http://www.ciep.fr/sites/default/files/atoms/files/enic-naric-mode-emploi-demande-de-reconnaissance-en-ligne.pdf" format="application/pdf" poids="56.9 KB">Instructions pour demander une attestation de comparabilité d'un diplôme étranger</NoticeLiee>
+
+<FicheLiee ID="F463" audience="Particuliers" type="Fiche d'information">
+<Titre>Faire comparer ou reconnaître un diplôme obtenu à l'étranger</Titre>
+<Dossier ID="N31346">Étudiant étranger en France</Dossier>
+</FicheLiee><OuSAdresser ID="R14785" type="Centre de contact">
+<Titre>Centre international d'études pédagogiques - Réseau Enic-Naric</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Pour envoyer le dossier</Paragraphe>
+</Titre>
+								<Paragraphe>CIEP</Paragraphe>
+								<Paragraphe>Département de reconnaissance des diplômes - Centre ENIC-NARIC France</Paragraphe>
+								<Paragraphe>1 avenue Léon-Journault</Paragraphe>
+								<Paragraphe>92318 Sèvres Cedex</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Pour s'informer</Paragraphe>
+</Titre>
+								<Paragraphe>Si vous n'avez pas obtenu de réponse à votre question sur la
+      <LienExterne URL="http://www.ciep.fr/enic-naricfr/">rubrique Enic-Naric du site du Ciep</LienExterne>
+, vous pouvez contacter ses services :
+    
+		</Paragraphe>
+								<Liste type="puce">
+									<Item>
+										<Paragraphe>par téléphone : <MiseEnEvidence>+33 (0)1 45 07 60 00</MiseEnEvidence>
+</Paragraphe>
+									</Item>
+									<Item>
+										<Paragraphe>ou par messagerie : accès au
+      <LienExterne URL="http://www.ciep.fr/contact/enic_naric.php">formulaire de contact</LienExterne>
+. 
+    
+		</Paragraphe>
+									</Item>
+								</Liste>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+<Dossier ID="N31346">
+<Titre>Étudiant étranger en France</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

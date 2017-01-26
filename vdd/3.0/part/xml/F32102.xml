@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32102" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un salarié peut-il bénéficier d'un dispositif de préretraite ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Il est possible d'adhérer à un dispositif de préretraite (préretraite amiante ou préretraite d'entreprise...), sous conditions d'accès.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32102</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N381</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N381">Retraite des salariés du secteur privé</Niveau>
+<Niveau ID="F32102" type="Fiche Question-réponse">Un salarié peut-il bénéficier d'un dispositif de préretraite ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20166">Retraite</SousThemePere><DossierPere ID="N381">
+<Titre>Retraite des salariés du secteur privé</Titre><SousDossier ID="N381-1">
+<Titre>Avant la retraite</Titre>
+<Fiche ID="F24617">Droit à l'information sur la retraite</Fiche>
+<Fiche ID="F15675">Rachat de trimestres</Fiche>
+</SousDossier>
+<SousDossier ID="N381-2">
+<Titre>Âge de départ à la retraite</Titre>
+<Fiche ID="F14043">Âge minimum de départ à la retraite</Fiche>
+<Fiche ID="F12842">Retraite progressive</Fiche>
+</SousDossier>
+<SousDossier ID="N381-3">
+<Titre>Départ à la retraite anticipé</Titre>
+<Fiche ID="F13845">Carrière longue</Fiche>
+<Fiche ID="F14101">Pénibilité du travail</Fiche>
+<Fiche ID="F16337">Handicap</Fiche>
+<Fiche ID="F2110">Préretraite amiante</Fiche>
+</SousDossier>
+<SousDossier ID="N381-4">
+<Titre>Trimestres de retraite</Titre>
+<Fiche ID="F1761">Durée d'assurance</Fiche>
+<Fiche ID="F16336">Majoration pour enfant</Fiche>
+<Fiche ID="F32126">Majoration pour congé parental d'éducation</Fiche>
+<Fiche ID="F32127">Majoration pour enfant handicapé</Fiche>
+<Fiche ID="F19666">Décote</Fiche>
+<Fiche ID="F2574">Assurance vieillesse des parents au foyer (AVPF)</Fiche>
+</SousDossier>
+<SousDossier ID="N381-5">
+<Titre>Pension de retraite</Titre>
+<Fiche ID="F21552">Calcul de la pension</Fiche>
+<Fiche ID="F14044">Retraite à taux plein</Fiche>
+<Fiche ID="F19643">Majoration de la pension</Fiche>
+<Fiche ID="F15522">Montants minimum et maximum de la pension</Fiche>
+<Fiche ID="F13243">Cumul emploi-retraite</Fiche>
+<Fiche ID="F15396">Retraite complémentaire</Fiche>
+<Fiche ID="F16344">Versement de la pension</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Certains dispositifs de préretraite permettent à leur bénéficiaires d'arrêter leur activité professionnelle jusqu'à leur départ en retraite, tout en étant rémunéré.</Paragraphe>
+<Paragraphe>Les conditions d'accès et de rémunération varient en fonction des dispositifs, qui sont les suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la  <LienInterne LienPublication="F2110" type="Fiche d'information" audience="Particuliers">préretraite amiante</LienInterne> (pour les salariés exposés à l'amiante durant leur activité professionnelle),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la  <LienInterne LienPublication="F223" type="Fiche Question-réponse" audience="Particuliers">préretraite-licenciement</LienInterne>  (dispositif fermé à de nouveaux bénéficiaires depuis le 10 octobre 2011),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la préretraite d'entreprise, également appelé <Expression>préretraite maison</Expression>, qui peut être proposé par l'employeur, notamment dans le cadre d'un plan de sauvegarde de l'emploi (PSE). Le dispositif est intégralement financé par l'employeur, qui est libre d'établir les conditions d'accès et les prestations proposées aux bénéficiaires.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R3040" type="Centre de contact">
+<Titre>Votre direction des ressources humaines (DRH)</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R756" type="Centre de contact">
+<Titre>Vos représentants du personnel</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+</Publication>

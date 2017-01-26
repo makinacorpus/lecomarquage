@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1780" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Exécution d'une décision du juge civil</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Une fois le jugement prononcé, l'exécution de la décision n'est pas immédiate. Il faut encore que la partie condamnée en ait été informée. Il faut aussi que le jugement soit exécutoire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-12-08</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1780</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135889&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/./affichCode.do?idArticle=LEGIARTI000006410809&amp;idSectionTA=LEGISCTA000006135893&amp;cidTexte=LEGITEXT000006070716, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025026751&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006193925&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N269">Procès civil</Niveau>
+<Niveau ID="F1780" type="Fiche d'information">Exécution d'une décision du juge civil</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N269">
+<Titre>Procès civil</Titre><SousDossier ID="N269-1">
+<Titre>Saisine des tribunaux civils</Titre>
+<Fiche ID="F1785">Litige de moins de 4000 € - Juge de proximité</Fiche>
+<Fiche ID="F1783">Entre 4000 € et 10 000 € - Tribunal d'instance (TI)</Fiche>
+<Fiche ID="F20851">Plus de 10 000 € - Tribunal de grande instance (TGI)</Fiche>
+</SousDossier>
+<SousDossier ID="N269-2">
+<Titre>Déroulement d'une affaire</Titre>
+<Fiche ID="F20852">Devant le juge de proximité</Fiche>
+<Fiche ID="F1789">Devant le tribunal d'instance</Fiche>
+<Fiche ID="F1791">Devant le tribunal de grande instance (TGI)</Fiche>
+<Fiche ID="F1792">Devant le tribunal de commerce</Fiche>
+<Fiche ID="F1793">Devant le tribunal paritaire des baux ruraux</Fiche>
+<Fiche ID="F1538">Audition des témoins</Fiche>
+</SousDossier>
+<SousDossier ID="N269-3">
+<Titre>Mesures prononcées par le tribunal</Titre>
+<Fiche ID="F1787">Injonction de faire</Fiche>
+<Fiche ID="F1746">Injonction de payer - recouvrement de créances</Fiche>
+<Fiche ID="F1780">Exécution d'une décision du juge civil</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Mesures prononcées par le tribunal</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Une fois le jugement prononcé, l'exécution de la décision n'est  pas immédiate. Il faut encore que la partie condamnée en ait été informée. Il faut aussi que le jugement soit exécutoire.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Exécution définitive</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Principe</Paragraphe>
+</Titre><Paragraphe>L'exécution d'un jugement est l'application effective et définitive de la décision du tribunal : par exemple, le paiement de <LienInterne LienPublication="F1422" type="Fiche d'information" audience="Particuliers">dommages-intérêts</LienInterne>, la livraison d'un produit...</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Information de la partie condamnée</Paragraphe>
+</Titre>
+<Paragraphe>Pour être mis à exécution, le jugement doit avoir été <LienIntra LienID="R14732" type="Définition de glossaire">notifié</LienIntra> à la partie condamnée.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Force exécutoire du jugement</Paragraphe>
+</Titre><Paragraphe>Pour être exécuté, un jugement doit avoir force exécutoire, c’est-à-dire qu'il est applicable immédiatement.</Paragraphe>
+<Paragraphe>Au moins l'une des conditions suivantes doit être remplie :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le juge a explicitement assorti sa décision d'une exécution provisoire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les parties ont renoncé à faire un <LienInterne LienPublication="F1384" type="Fiche d'information" audience="Particuliers">recours en appel</LienInterne>. En revanche, un <LienInterne LienPublication="F1382" type="Fiche d'information" audience="Particuliers">pourvoi en cassation</LienInterne> n'empêche pas l'exécution des décisions en matière civile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des voies de recours permettant de suspendre le jugement  pouvaient être utilisées (<LienInterne LienPublication="F1384" type="Fiche d'information" audience="Particuliers">appel</LienInterne> ou <LienInterne LienPublication="F1386" type="Fiche d'information" audience="Particuliers">opposition</LienInterne>), mais les délais d'exercice sont dépassés ou la partie condamnée a notifié son acceptation du jugement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La preuve de la force exécutoire se fait par présentation du jugement ou de sa <LienInterne LienPublication="F1379" type="Fiche Question-réponse" audience="Particuliers">copie</LienInterne>. Si c'est nécessaire, cette preuve doit être accompagnée d'un certificat de non-opposition ou de non-appel.</Paragraphe>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><Paragraphe>Pour obtenir un certificat de non-appel, il faut remplir le formulaire cerfa 12821*01. </Paragraphe><ServiceEnLigne ID="R18606" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12821" numerocerfa="12821*01" type="Téléservice">
+<Titre>Demande de certificat de non-appel</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R16928" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=12821&amp;cerfaNotice=51438" numerocerfa="51438#02">Notice de demande d'un certificat de non-appel</NoticeLiee>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><Paragraphe>Pour obtenir un certificat de non-appel, il faut remplir le formulaire cerfa 12821*01. </Paragraphe><ServiceEnLigne ID="R18606" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12821" numerocerfa="12821*01" type="Téléservice">
+<Titre>Demande de certificat de non-appel</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R16928" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=12821&amp;cerfaNotice=51438" numerocerfa="51438#02">Notice de demande d'un certificat de non-appel</NoticeLiee>
+</ServiceEnLigne>
+
+<Paragraphe>Il doit être envoyé à la cour d'appel compétente.</Paragraphe><OuSAdresser ID="R11624" type="Local personnalisé sur SP">
+<Titre>Cour d'appel</Titre>
+<PivotLocal>cour_appel</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-cours-dappel-21767.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délais</Paragraphe>
+</Titre><Paragraphe>Les décisions de justice peuvent être exécutées dès que toutes les conditions sont remplies.</Paragraphe>
+<Paragraphe>La partie condamnée dispose alors d'un <LienInterne LienPublication="F31111" type="Fiche Question-réponse" audience="Particuliers">délai</LienInterne> de <MiseEnEvidence>2 mois</MiseEnEvidence> pour payer ce qu'elle doit avant que les sommes dues ne soient majorées.</Paragraphe>
+<Paragraphe>S'il n'est procédé à aucun acte visant à obtenir l'exécution de la décision, celle-ci devient inapplicable passé un délai de <MiseEnEvidence>10 ans</MiseEnEvidence>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Exécution provisoire</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Principe</Paragraphe>
+</Titre><Paragraphe>Il est possible d'obtenir l'exécution du jugement avant que celui-ci ne soit devenu <LienIntra LienID="R19325" type="Définition de glossaire">définitif</LienIntra>. Si l'exécution provisoire est prononcée, la décision est exécutée immédiatement, sans attendre l'expiration des délais de recours.</Paragraphe>
+<Paragraphe>L'exécution provisoire peut porter
+        sur tout ou partie
+        de la décision. L'exécution provisoire est prononcée en même temps que le jugement.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exécution provisoire automatique</Paragraphe>
+</Titre><Paragraphe>Il existe des cas dans lesquels l'exécution provisoire est accordée sans que les parties aient à en faire la demande. Il en va ainsi notamment   pour l'exécution :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des <LienInterne LienPublication="F1378" type="Fiche Question-réponse" audience="Particuliers">ordonnances de référé</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des mesures provisoires pour le cours de l'instance (exemple : les mesures contenues dans une <LienIntra LienID="R40685" type="Définition de glossaire">ordonnance de non-conciliation</LienIntra> en cas de divorce),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des ordonnances du <LienInterne LienPublication="F2176" type="Fiche avec liens externes" audience="Particuliers">juge de la mise en état</LienInterne> accordant au créancier une provision (exemple : si le juge demande au débiteur de rembourser une partie de sa dette).</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>à l'inverse dans certains cas, l'exécution provisoire est formellement interdite.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Exécution provisoire soumise à appréciation</Paragraphe>
+</Titre><Paragraphe>Lorsque l'exécution provisoire n'est ni interdite, ni de plein droit, elle peut être demandée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par les parties,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par le juge, qui l'ordonne d'office s'il l'estime nécessaire et compatible avec la nature de l'affaire.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Versement d'une garantie par le demandeur</Paragraphe>
+</Titre>
+<Paragraphe>Le tribunal peut exiger que le demandeur verse une garantie. Elle vise à couvrir d'éventuelles restitutions ou réparations au profit de la partie perdante si la justice (le juge d'appel, par exemple) revenait sur la décision exécutée provisoirement.</Paragraphe>
+<Paragraphe>Il s'agit le plus souvent d'une somme d'argent.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>à tout moment, le juge peut réévaluer le montant de la garantie.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Voies de recours</Paragraphe>
+</Titre><Paragraphe>En cas de contestation, il convient de saisir le premier président de la cour d'appel ou le
+        juge de la mise en état
+        pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>contester la décision de recourir à l'exécution provisoire ou son refus,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander l'exécution provisoire si elle n'a pas été demandée au moment du jugement ou si le juge n'a pas statué,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>contester le montant, la nature, les conditions de la garantie.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En cas de litige sur l'exécution de la décision</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Recours à un huissier de justice</Paragraphe>
+</Titre><Paragraphe>Si la partie adverse ne répond pas ou refuse de s'exécuter, il est possible, en cas de possession d'un <LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra>, de
+        
+          s'adresser à un <LienInterne LienPublication="F2158" type="Fiche d'information" audience="Particuliers">huissier de justice</LienInterne> qui seul peut mettre en œuvre l'exécution forcée de la décision de justice.</Paragraphe><OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le coût de l'huissier est à la charge de la partie adverse. Mais dans le cas d'une dette, le créancier (celui qui réclame de l'argent) doit quand même payer des <LienInterne LienPublication="F10404" type="Fiche Question-réponse" audience="Particuliers">droits de recouvrement</LienInterne>.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Saisine du juge de l'exécution</Paragraphe>
+</Titre><Paragraphe>Le juge de l'exécution est compétent pour régler les difficultés liées à l'exécution d'une décision de justice ou d'un titre exécutoire, notamment en matière de saisie des comptes bancaires ou des biens d'un débiteur.</Paragraphe>
+<Paragraphe>Il est le seul à pouvoir autoriser le créancier à prendre des mesures conservatoires lorsque celui-ci estime sa créance menacée.</Paragraphe>
+<Paragraphe>Le juge de l'exécution est saisi
+        par <LienIntra LienID="R12538" type="Définition de glossaire">assignation</LienIntra> faite par un huissier de justice.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135889&amp;cidTexte=LEGITEXT000006070716" ID="R639">
+<Titre>Code de procédure civile : articles 502 à 508</Titre>
+<Complement>Conditions générales de l'exécution</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/./affichCode.do?idArticle=LEGIARTI000006410809&amp;idSectionTA=LEGISCTA000006135893&amp;cidTexte=LEGITEXT000006070716" ID="R638">
+<Titre>Code de procédure civile : articles 514 à 526</Titre>
+<Complement>Exécution provisoire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025026751&amp;cidTexte=LEGITEXT000025024948" ID="R37046">
+<Titre>Code des procédures civiles d'exécution : articles L111-1 et L111-8</Titre>
+<Complement>Titre exécutoire et frais d'huissier</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006193925&amp;cidTexte=LEGITEXT000006072026" ID="R15934">
+<Titre>Code monétaire et financier : articles L313-2 à L313-3</Titre>
+<Complement>Majoration des sommes dues</Complement>
+</Reference>
+<ServiceEnLigne ID="R19762" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12820" numerocerfa="12820*02" type="Téléservice">
+<Titre>Demande d'un certificat de non-opposition</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18606" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12821" numerocerfa="12821*01" type="Téléservice">
+<Titre>Demande de certificat de non-appel</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R16928" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=12821&amp;cerfaNotice=51438" numerocerfa="51438#02">Notice de demande d'un certificat de non-appel</NoticeLiee>
+</ServiceEnLigne>
+<Definition ID="R12538">
+<Titre>Assignation</Titre>
+<Texte>
+				<Paragraphe>Acte d'huissier de justice informant une personne qu'un procès est engagé contre elle et la convoquant devant une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R40685">
+<Titre>Ordonnance de non-conciliation</Titre>
+<Texte>
+				<Paragraphe>Décision par laquelle le juge aux affaires familiales constate qu'il n'a pas pu mettre d'accord les époux dans une procédure de divorce. Elle autorise la poursuite de la procédure de divorce et fixe les mesures provisoires.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1056">
+<Titre>Titre exécutoire</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant au créancier d'obtenir le recouvrement forcé de sa créance (saisie des biens)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R19325">
+<Titre>Jugement définitif</Titre>
+<Texte>
+				<Paragraphe>Jugement dont toutes les voies de recours (opposition, appel, cassation) ont été utilisées ou que les délais pour faire opposition, appel ou de pourvoir en cassation sont expirés</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1379" audience="Particuliers">Comment obtenir la copie d'un jugement ?</QuestionReponse>
+<QuestionReponse ID="F31111" audience="Particuliers">Comment se décompte un délai dans une procédure civile ?</QuestionReponse>
+</Publication>

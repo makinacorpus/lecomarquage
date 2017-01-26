@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N10805" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Régimes sociaux des travailleurs indépendants</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>La protection sociale du dirigeant de l'entreprise ou du travailleur indépendant dépend du statut juridique choisi : entrepreneur individuel, commerçant, salarié ou non, gérant, auteur, artiste...</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N10805</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24267</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N10805" type="Dossier">Régimes sociaux des travailleurs indépendants</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+<SousThemePere ID="N23430">Protection sociale</SousThemePere>
+<SousDossier ID="N10805-1">
+<Titre>Travailleurs indépendants</Titre><Fiche ID="F23890">Cotisations et contributions sociales des commerçants, artisans et industriels</Fiche>
+<Fiche ID="F33351">Prestations sociales pour les commerçants et les artisans indépendants</Fiche>
+<Fiche ID="F31263">Accompagnement au départ à la retraite (ADR) des travailleurs indépendants</Fiche>
+<Fiche ID="F31233">Cotisations et contributions sociales des professions libérales</Fiche>
+</SousDossier>
+<SousDossier ID="N10805-2">
+<Titre>Agriculteurs</Titre><Fiche ID="F23787">Cotisations et contributions sociales des exploitants agricoles</Fiche>
+<Fiche ID="F23817">Prestations sociales pour les exploitants agricoles</Fiche>
+</SousDossier>
+<SousDossier ID="N10805-3">
+<Titre>Artistes, intermittents du spectacle et auteurs</Titre><Fiche ID="F23749">Affiliation et cotisations sociales des artistes auteurs</Fiche>
+<Fiche ID="F23750">Prestations sociales pour les artistes auteurs</Fiche>
+<Fiche ID="F2261">Indemnisation chômage des intermittents du spectacle</Fiche>
+<Fiche ID="F14098">Indemnisation chômage des intermittents du spectacle : conditions à remplir</Fiche>
+</SousDossier>
+<Introduction>
+<Texte>
+<Paragraphe>
+			La protection sociale du dirigeant de l'entreprise ou du travailleur indépendant dépend du statut juridique choisi : entrepreneur individuel, commerçant, salarié ou non, gérant, auteur, artiste...</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F23267" audience="Professionnels">
+<Titre>Cotisations sociales de l'auto-entrepreneur (régime micro-social)</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R14262" type="Centre de contact">
+<Titre>Caisse nationale d'assurance vieillesse des professions libérales (CNAVPL)</Titre>
+<Source ID="R30765">Caisse nationale d'assurance vieillesse des professions libérales (CNAVPL)</Source><Texte>
+						
+								<Paragraphe>
+			Régime d'assurance vieillesse des professions libérales
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			cnavpl.info@cnavpl.fr
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			102, rue de Miromesnil - 75008 Paris
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 (0)1 44 95 01 50
+		</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi de 9h30 à 12h30 et de 14h à 16h30
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par télécopie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 (0)1 45 61 91 37
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14093" type="Local personnalisable">
+<Titre>Caisse régionale du Régime social des indépendants (RSI)</Titre>
+<PivotLocal>rsi</PivotLocal>
+<RessourceWeb URL="http://www.rsi.fr/adresses-utiles/caisses-rsi.html"/>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R17687" type="Centre de contact">
+<Titre>Institution de retraite complémentaire de l'enseignement et de la création (Ircec)</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+      <LienExterne URL="http://www.ircec.fr/fr/service-cotisations-383">formulaire en ligne</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>9 rue de Vienne - CS 70012 - 75379 Paris Cedex 08</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Pour les cotisants :
+      <MiseEnEvidence>+33 1 44 95 68 30</MiseEnEvidence>
+		</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi de 14h à 16h30
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R45" type="Local personnalisé sur SP">
+<Titre>Urssaf</Titre>
+<PivotLocal>urssaf</PivotLocal>
+<RessourceWeb URL="http://www.contact.urssaf.fr/categorie.do"/>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R17964" URL="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/Guides%20et%20formulaires/attest-retraite-progressive.pdf" format="text/html; charset=UTF-8" poids="4.5 KB" numerocerfa="13362*02" autrenumero="S5205b" type="Formulaire">
+<Titre>Attestation d'employeur pour la retraite progressive</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18339" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12754" numerocerfa="12754*01" type="Téléservice">
+<Titre>Demande en ligne d'un dossier de retraite pour un marin</Titre>
+<Source ID="R30636">Établissement national des invalides de la marine (Enim)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F23994" audience="Professionnels">Un travailleur indépendant a-t-il droit à une assurance-chômage ?</QuestionReponse>
+<QuestionReponse ID="F23369" audience="Professionnels">Quels sont les droits à la retraite des micro-entrepreneurs ?</QuestionReponse>
+<QuestionReponse ID="F33339" audience="Professionnels">Peut-on cumuler plusieurs activités indépendantes ?</QuestionReponse>
+<QuestionReponse ID="F23756" audience="Professionnels">Quel est le régime social des redevances d'artistes ?</QuestionReponse>
+<QuestionReponse ID="F23992" audience="Professionnels">À quoi sert le numéro d'objet ?</QuestionReponse>
+<QuestionReponse ID="F12416" audience="Professionnels">Comment sont calculées les allocations chômage des intermittents du spectacle ?</QuestionReponse>
+<QuestionReponse ID="F33535" audience="Professionnels">Comment sont calculées les cotisations de retraite complémentaire des artistes auteurs ?</QuestionReponse>
+<QuestionReponse ID="F21209" audience="Professionnels">Quels sont les délais de prescription en matière de cotisations sociales ?</QuestionReponse>
+<QuestionReponse ID="F33429" audience="Professionnels">Quels sont les taux de cotisations sociales du conjoint collaborateur d'un micro-entrepreneur ?</QuestionReponse>
+<QuestionReponse ID="F33595" audience="Professionnels">Intermittents : quelles sont les périodes prises en compte pour l'indemnisation jusqu'à la retraite ?</QuestionReponse>
+</Publication>

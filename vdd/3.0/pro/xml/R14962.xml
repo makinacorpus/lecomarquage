@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14962" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de médiation auprès du médiateur des ministères en charge de l'économie et des finances</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Fiscalité</dc:subject>
+<dc:description>Demande de médiation auprès du médiateur des ministères en charge de l'économie et des finances - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-15</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14962</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N23594">Réclamations - Contentieux fiscaux</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14962" type="Téléservice">Demande de médiation auprès du médiateur des ministères en charge de l'économie et des finances</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Pour adresser votre demande au médiateur des ministères économiques et financiers (formulaire de saisine en ligne).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>avant de saisir le médiateur, vous devez au préalable avoir effectué une 1<Exposant>ère</Exposant> démarche auprès du service concerné et ne pas avoir obtenu satisfaction.</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="http://www.economie.gouv.fr/mediateur/demande-mediation/personnes-physiques">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb>
+<FicheLiee ID="F103" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Médiateur des ministères économiques et financiers : comment y recourir ?</Titre>
+<Dossier ID="N31080">Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32477" audience="Particuliers" type="Fiche d'information">
+<Titre>Recours amiable en matière d'impôt</Titre>
+<Dossier ID="N31080">Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Dossier>
+</FicheLiee>
+<Dossier ID="N31080">
+<Titre>Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R32585" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'aide financière en qualité d'ancien combattant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Permet à un ancien combattant ou à une victime de guerre de demander un secours financier auprès du service départemental de l'Office national des anciens combattants et victimes de guerre (Onac-VG).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-01</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R32585</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N30">Anciens combattants</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R32585" type="Formulaire">Demande d'aide financière en qualité d'ancien combattant</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet à un ancien combattant ou à une victime de guerre de demander un secours financier auprès du service départemental de l'Office national des anciens combattants et victimes de guerre (Onac-VG).</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.onac-vg.fr/files/uploads/file/ONACVG_demandes_aides_financieres.pdf" format="application/pdf" poids="102.5 KB">
+<Source>Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</LienWeb>
+<FicheLiee ID="F1491" audience="Particuliers" type="Fiche d'information">
+<Titre>Titre de reconnaissance de la Nation</Titre>
+<Dossier ID="N30">Anciens combattants</Dossier>
+</FicheLiee><OuSAdresser ID="R43093" type="Local personnalisé sur SP">
+<Titre>Office national des anciens combattants et victimes de guerre (onac-vg)</Titre>
+<PivotLocal>Onac-vg</PivotLocal>
+<RessourceWeb URL="http://www.onac-vg.fr/fr/carte/"/>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R10289" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de complément de libre choix de mode de garde - Prestation d'accueil du jeune enfant (Paje)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Demande de complément de libre choix de mode de garde - Prestation d'accueil du jeune enfant (Paje) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-12</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R10289</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N156">Allocations destinées aux familles</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R10289" type="Formulaire">Demande de complément de libre choix de mode de garde - Prestation d'accueil du jeune enfant (Paje)</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12323*03 et 11423*06 et 10397*18</NumeroCerfa>
+<Texte><Paragraphe>Pour obtenir le formulaire, cliquez d'abord pour sélectionner le mode de garde de votre enfant puis votre lieu de résidence. Ce formulaire vous donne également accès au formulaire cerfa n°11423*06 de déclaration de situation et n°10397*18 de déclaration de ressources (à remplir pour effectuer la demande).</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/complementlibrechoixmodedegarde">
+<Source>Caisse nationale des allocations familiales (Cnaf)</Source>
+</LienWeb>
+<FicheLiee ID="F345" audience="Particuliers" type="Fiche d'information">
+<Titre>Complément de libre choix du mode de garde (Cmg) - Assistante maternelle</Titre>
+<Dossier ID="N156">Allocations destinées aux familles</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31101" audience="Particuliers" type="Fiche d'information">
+<Titre>Complément de libre choix du mode de garde (Cmg) - Garde à domicile</Titre>
+<Dossier ID="N156">Allocations destinées aux familles</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33648" audience="Particuliers" type="Fiche d'information">
+<Titre>Complément de libre choix du mode de garde (Cmg) - Micro-crèche</Titre>
+<Dossier ID="N156">Allocations destinées aux familles</Dossier>
+</FicheLiee><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+
+<Dossier ID="N156">
+<Titre>Allocations destinées aux familles</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N137">
+<Titre>Garde d'enfants en bas âge</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

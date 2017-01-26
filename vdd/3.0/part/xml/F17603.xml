@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17603" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Est-il obligatoire d'assurer son animal domestique ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Vous n'êtes pas obligé d'assurer votre animal de compagnie, mais êtes responsable des dommages matériels/corporels qu'il pourrait causer à un tiers.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17603</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000019960713&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18944</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N18944">Animaux</Niveau>
+<Niveau ID="F17603" type="Fiche Question-réponse">Est-il obligatoire d'assurer son animal domestique ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N150">Temps libre</SousThemePere><DossierPere ID="N18944">
+<Titre>Animaux</Titre><SousDossier ID="N18944-1">
+<Titre>Entrée et sortie de France d'un animal de compagnie</Titre>
+<Fiche ID="F806">Venir ou revenir en France avec un animal de compagnie</Fiche>
+<Fiche ID="F21374">Voyage à l'étranger avec un animal de compagnie</Fiche>
+</SousDossier>
+<SousDossier ID="N18944-2">
+<Titre>Chiens susceptibles d'être dangereux</Titre>
+<Fiche ID="F1839">Chiens concernés, interdictions et obligations</Fiche>
+<Fiche ID="F20759">Permis de détention d'un chien dangereux</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Non, vous n'êtes pas obligé de prendre une assurance pour votre animal de compagnie.</Paragraphe>
+<Paragraphe>Cependant, vous êtes responsable  des dommages matériels et corporels que votre animal pourrait causer à un tiers, que cet animal soit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sous votre garde,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>échappé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou égaré.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En pratique, <LienInterne LienPublication="N44" type="Dossier" audience="Particuliers">les assurances habitation</LienInterne> prévoient une garantie responsabilité civile qui permet de couvrir les dommages susceptibles d'être causés par votre animal. À défaut d'assurance, vous êtes responsable du paiement des dégradations et dommages survenus du fait de cet animal.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000019960713&amp;cidTexte=LEGITEXT000006070716" ID="R36782">
+<Titre>Code de procédure civile : articles 1382 à 1391</Titre>
+<Complement>Responsabilité du propriétaire de l'animal</Complement>
+</Reference>
+
+</Publication>

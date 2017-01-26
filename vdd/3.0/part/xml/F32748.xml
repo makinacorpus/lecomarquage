@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32748" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Santé : qu'est-ce qu'une "personne de confiance" ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Une personne de confiance peut vous accompagner dans vos démarches, assister aux entretiens médicaux, aider à prendre des décisions sur votre santé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32748</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006685773&amp;cidTexte=LEGITEXT000006072665, https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033275531&amp;cidTexte=LEGITEXT000006074069&amp;dateTexte=vig</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N432</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N432">Hospitalisation et soins à domicile</Niveau>
+<Niveau ID="F32748" type="Fiche Question-réponse">Santé : qu'est-ce qu'une "personne de confiance" ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20180">Santé</SousThemePere><DossierPere ID="N432">
+<Titre>Hospitalisation et soins à domicile</Titre>
+<Fiche ID="F725">Hospitalisation</Fiche>
+<Fiche ID="F761">Hospitalisation pour troubles mentaux</Fiche>
+<Fiche ID="F246">Services de soins à domicile pour personnes âgées</Fiche>
+<Fiche ID="F732">Hospitalisation à domicile (HAD)</Fiche>
+<Fiche ID="F32010">Directives anticipées pour la fin de vie</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>La <Expression>personne de confiance</Expression> peut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous accompagner dans vos démarches et vous assister lors de vos rendez-vous médicaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et être consultée par les médecins pour rendre compte de vos volontés si vous n'êtes pas en mesure d'être vous-même consulté.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans le cas où votre état de santé ne vous permet plus de donner votre avis ou de faire part de vos décisions, le médecin ou l'équipe médicale consulte en priorité la <Expression>personne de confiance</Expression>. </Paragraphe>
+<Paragraphe>Son avis guide le médecin pour prendre ses décisions. Elle doit donc connaître vos volontés et les exprimer lorsqu'elle est appelée à le faire.</Paragraphe>
+<Paragraphe>Les <LienInterne LienPublication="F32010" type="Fiche d'information" audience="Particuliers">directives anticipées</LienInterne> peuvent également lui être confiées.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>la <Expression>personne de confiance</Expression> ne doit pas être confondue avec la <Expression>personne à prévenir</Expression> qui est alertée par téléphone en cas d'aggravation de votre état de santé.</Paragraphe>
+</Attention><Paragraphe>Tout personne de l'entourage (parent, proche, médecin traitant) en qui vous avez confiance et qui accepte de jouer ce rôle peut être désignée <Expression>personne de confiance</Expression>.</Paragraphe>
+<Paragraphe>Vous pouvez désigner une <Expression>personne de confiance</Expression> à tout moment.</Paragraphe>
+<Paragraphe>Celle-ci est généralement désignée dans le cadre d'une hospitalisation ou en  <LienInterne LienPublication="F763" type="Fiche d'information" audience="Particuliers">établissement d'hébergement pour personnes âgées dépendantes (Ehpad)</LienInterne>.</Paragraphe>
+<Paragraphe>Cette désignation se fait par écrit, lors de votre admission ou au cours de votre hospitalisation, sur les formulaires qui vous seront donnés à cet effet. À défaut, cette désignation peut s'effectuer sur <LienInterne LienPublication="R40462" type="Modèle de document" audience="Particuliers">papier libre</LienInterne>.</Paragraphe>
+<Paragraphe>La désignation peut être annulée ou modifiée à tout moment.</Paragraphe>
+<Paragraphe>Votre médecin traitant doit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>s'assurer que vous êtes informé de la possibilité de désigner une <Expression>personne de confiance</Expression>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou alors vous inviter à le faire.</Paragraphe>
+</Item>
+</Liste>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la personne désignée comme <Expression>personne de confiance</Expression> peut également être celle qui est désignée comme <Expression>personne à prévenir</Expression> en cas de nécessité.</Paragraphe>
+</ANoter>
+</Texte><VoirAussi important="non">
+<Dossier ID="N17179" audience="Particuliers">
+<Titre>Information du patient : dossier médical, montant des prestations, ...</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N333" audience="Particuliers">
+<Titre>Hébergement des personnes âgées</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006685773&amp;cidTexte=LEGITEXT000006072665" ID="R40002">
+<Titre>Code de la santé publique : article L1111-6</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033275531&amp;cidTexte=LEGITEXT000006074069&amp;dateTexte=vig" ID="R45608">
+<Titre>Code de l'action sociale et des familles : annexe 4-10</Titre>
+<Complement>Notice d'information relative à la désignation de la personne de confiance</Complement>
+</Reference>
+<ServiceEnLigne ID="R40462" URL="" type="Modèle de document">
+<Titre>Désignation d'une personne de confiance</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R40003" URL="http://social-sante.gouv.fr/IMG/pdf/la_personne_de_confiance.pdf" audience="Particuliers" format="application/pdf" poids="481.0 KB">
+<Titre>Guide pratique de la personne de confiance</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F748" audience="Particuliers">Hospitalisation : quels sont les droits du patient ?</QuestionReponse>
+</Publication>

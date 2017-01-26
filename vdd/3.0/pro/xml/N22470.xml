@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N22470" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Taxes foncières</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Taxes foncières</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-08</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N22470</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24265</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N22470" type="Dossier">Taxes foncières</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N22249">Impôts locaux</SousThemePere>
+<Fiche ID="F31638">Taxe foncière sur les propriétés non bâties</Fiche>
+<Fiche ID="F59">Taxe foncière sur les propriétés bâties</Fiche>
+<Fiche ID="F22393">Taxe sur la vente de terrains agricoles rendus constructibles</Fiche>
+<Fiche ID="F32847">Taxes pour frais de chambre consulaire</Fiche>
+<Fiche ID="F32939">Contribution sur les revenus locatifs (CRL)</Fiche><OuSAdresser ID="R16801" type="Local personnalisé sur SP">
+<Titre>Centre des impôts fonciers et cadastre</Titre>
+<PivotLocal>centre_impots_fonciers</PivotLocal>
+<RessourceWeb URL="https://www.impots.gouv.fr/portail/contacts"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<QuestionReponse ID="F32090" audience="Professionnels">Quels changements doit déclarer le propriétaire d'un local commercial ?</QuestionReponse>
+<QuestionReponse ID="F24658" audience="Professionnels">Les locaux à usage professionnel sont-ils soumis à la taxe d'habitation ?</QuestionReponse>
+<QuestionReponse ID="F32345" audience="Professionnels">Dans quelles conditions un local inoccupé peut-il être exonéré de taxe foncière ?</QuestionReponse>
+<QuestionReponse ID="F263" audience="Professionnels">Qui est imposable à la taxe foncière en cas d'indivision ?</QuestionReponse>
+<QuestionReponse ID="F31046" audience="Professionnels">Comment est fixée la nouvelle valeur locative d'un local professionnel ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F143" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Fonction publique : situation de l'agent mis à disposition</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>La mise à disposition a des effets sur la situation et la gestion administratives de l'agent concerné et prend fin selon des règles précises.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-11</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F143</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068830, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000320434, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068965, http://legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006065164, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019025536, http://legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006066951, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006065701, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006066415, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006077231, http://www.circulaires.gouv.fr/pdf/2009/04/cir_2943.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31057</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N31057">Mobilité dans la fonction publique</Niveau>
+<Niveau ID="F143" type="Fiche d'information">Fonction publique : situation de l'agent mis à disposition</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19962">Contrats et carrière</SousThemePere><DossierPere ID="N31057">
+<Titre>Mobilité dans la fonction publique</Titre><SousDossier ID="N31057-1">
+<Titre>Mobilité en position d'activité</Titre>
+<Fiche ID="F459">Mutation</Fiche>
+<Fiche ID="F11683">Intégration directe</Fiche>
+</SousDossier>
+<SousDossier ID="N31057-2">
+<Titre>Détachement</Titre>
+<Fiche ID="F14678">Cas de détachement</Fiche>
+<Fiche ID="F543">Procédure</Fiche>
+<Fiche ID="F14679">Situation du fonctionnaire détaché</Fiche>
+<Fiche ID="F14680">Fin du détachement</Fiche>
+</SousDossier>
+<SousDossier ID="N31057-3">
+<Titre>Disponibilité</Titre>
+<Fiche ID="F544">Motifs et durées de la mise en disponibilité</Fiche>
+<Fiche ID="F101">Situation du fonctionnaire en disponibilité</Fiche>
+<Fiche ID="F431">Réintégration</Fiche>
+<Fiche ID="F1690">Disponibilité d'office pour raisons de santé</Fiche>
+</SousDossier>
+<SousDossier ID="N31057-4">
+<Titre>Mise à disposition</Titre>
+<Fiche ID="F551">Cas de mise à disposition</Fiche>
+<Fiche ID="F143">Situation de l'agent mis à disposition</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Mise à disposition</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La mise à disposition  a des effets  sur la situation et la gestion administratives de l'agent concerné et prend fin selon des règles précises.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Durée</Paragraphe>
+</Titre><Paragraphe>La mise à disposition est prononcée pour 3 ans maximum et peut être renouvelée :</Paragraphe>
+<Tableau>
+<Titre>Durée de la mise à disposition pour les fonctionnaires et contractuels en CDI</Titre>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="18" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Catégories d'agents</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Renouvellement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée totale maximum</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Fonctionnaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pas de limite</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contractuel  en <LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>  10 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Rémunération</Paragraphe>
+</Titre><Paragraphe>Vous continuez à être rémunéré par votre administration d'origine. Cette dernière est remboursée par l'organisme d'accueil. Toutefois, les 2 administrations peuvent décider le contraire.</Paragraphe>
+<Paragraphe>Vous pouvez percevoir un complément de rémunération par l'organisme d'accueil. Le complément de rémunération doit être justifié au regard des fonctions exercées.</Paragraphe>
+<Paragraphe>Vous pouvez être indemnisé par l'administration  d'accueil des frais et <LienIntra LienID="R1098" type="Définition de glossaire">sujétions</LienIntra> auxquels vous êtes soumis pour exercer vos fonctions.</Paragraphe>
+<Paragraphe>La convention de mise à disposition précise les  conditions de remboursement de votre rémunération  par l'organisme d'accueil ou les éventuelles dérogations (par exemple, prise en charge du Dif).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Gestion de l'agent</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Congés</Paragraphe>
+</Titre><Paragraphe>L'organisme d'accueil gère les congés annuels et congés bonifiés sauf :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si la mise à disposition concerne un temps partiel égal ou inférieur à 50 %. Dans ce cas, c'est l'administration d'origine qui gère ces congés.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en cas de pluralité d'organismes d'accueil. Dans ce cas, les congés sont gérés par l'administration d'origine ou par l'organisme choisi dans la convention de mise à disposition.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il informe l'administration d'origine des absences pour fait de grève pour le calcul de la rémunération.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Arrêt de travail</Paragraphe>
+</Titre><Paragraphe>L'organisme d'accueil gère les congés de maladie ordinaire, sauf :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si la mise à disposition concerne un temps partiel égal ou inférieur à 50 %. Dans ce cas, c'est l'administration d'origine qui gère ces congés.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en cas de pluralité d'organismes d'accueil. Dans ce cas, les congés sont gérés par l'administration d'origine ou par l'organisme choisi dans la convention de mise à disposition.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Votre administration d'origine gère les congés  de longue durée, de maternité ou d'adoption.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Formation</Paragraphe>
+</Titre><Paragraphe>L'organisme d'accueil paye les dépenses liées aux  formations organisées à son initiative.</Paragraphe>
+<Paragraphe>Par contre, l'administration d'origine accorde et finance, après avis de l'organisme d'accueil, le droit individuel à la formation (Dif) et <LienInterne LienPublication="F14018" type="Fiche d'information" audience="Particuliers">le congé individuel de formation (Cif)</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Évaluation</Paragraphe>
+</Titre><Paragraphe>Votre supérieur hiérarchique fait un rapport sur votre manière de servir après un entretien individuel. Ce rapport vous est transmis. Il est aussi transmis à votre administration d'origine. Si nécessaire, la notation est établie par l'administration d'origine, au vu du rapport sur la manière de servir établi par l'administration d'accueil. </Paragraphe>
+<Paragraphe>L'administration d'origine exerce le pouvoir disciplinaire.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fin de la mise à disposition</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Fin à la date prévue</Paragraphe>
+</Titre><Paragraphe>Au terme de la  mise à disposition, vous reprenez vos précédentes fonctions  ou, à défaut, un emploi équivalent.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renouvellement</Paragraphe>
+</Titre><Paragraphe>Votre mise à disposition peut être renouvelée si l'administration d'origine, l'organisme d'accueil et vous-même êtes d'accord.  Toutefois, vous n'avez aucun droit au renouvellement de la mise à disposition.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Fin anticipée</Paragraphe>
+</Titre><Paragraphe>La mise à disposition peut prendre fin avant le terme prévu, à la demande de l'administration d'origine,  d'accueil ou de l'agent. Il faut dans ce cas respecter  les règles de préavis prévues dans la convention de mise à disposition.</Paragraphe>
+<Paragraphe>Si vous êtes mis  à disposition auprès de plusieurs organismes, la fin anticipée peut s'appliquer à une partie seulement d'entre eux. Dans ce cas, les autres organismes d'accueil en sont informés.</Paragraphe>
+<Paragraphe>En cas de faute disciplinaire, il peut être mis fin sans préavis à la mise à disposition par accord entre l'administration d'origine et l'organisme d'accueil.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Intégration du fonctionnaire dans l'organisme d'accueil</Paragraphe>
+</Titre><Paragraphe>Si vous êtes mis à disposition d'une administration relevant de votre fonction publique, cette administration d'accueil doit vous proposer une mobilité :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si la mise à disposition se poursuit au-delà de 3 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et qu'il existe un corps ou un cadre d'emplois de niveau comparable à votre <LienInterne LienPublication="F12344" type="Fiche Question-réponse" audience="Particuliers">corps ou cadre d'emplois</LienInterne> d'origine.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'administration d'accueil doit vous proposer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans la fonction publique d'État (FPE), un détachement ou une intégration directe,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans la fonction publique territoriale (FPT), une mutation, un détachement ou une intégration directe,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans la fonction publique hospitalière (FPH), une intégration par la voie du changement d'établissement. Dans ce cas, votre durée de service  pendant la mise à disposition est prise en compte dans le calcul de l'ancienneté requise en vue de l'intégration.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068830" ID="R1819">
+<Titre>Loi n°84-16 du 11 janvier 1984 relative au statut de la fonction publique de l'État (FPE)</Titre>
+<Complement>Articles 41 à 44</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000320434" ID="R1820">
+<Titre>Loi n°84-53 du 26 janvier 1984 relative au statut de la fonction publique territoriale (FPT)</Titre>
+<Complement>Articles 61 à 63</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068965" ID="R1821">
+<Titre>Loi n°86-33 du 9 janvier 1986 relative au statut de la fonction publique hospitalière (FPH)</Titre>
+<Complement>Articles 48 à 50</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006065164" ID="R13186">
+<Titre>Décret n°85-986 du 16 septembre 1985 relatif à certaines positions administratives dans la fonction publique d'État (FPE)</Titre>
+<Complement>Articles 1 à 13</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019025536" ID="R19060">
+<Titre>Décret n°2008-580 du 18 juin 2008 relatif au régime de la mise à disposition applicable aux collectivités territoriales et aux établissements publics administratifs locaux</Titre>
+<Complement>Articles 1 à 12</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006066951" ID="R13189">
+<Titre>Décret n°88-976 du 13 octobre 1988 relatif à certaines positions administratives dans la fonction publique hospitalière (FPH)</Titre>
+<Complement>Articles 1 à 12</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006065701" ID="R13139">
+<Titre>Décret n°86-83 du 17 janvier 1986 relatif aux agents contractuels de la fonction publique d'État (FPE)</Titre>
+<Complement>Article 33-1</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006066415" ID="R13140">
+<Titre>Décret n°88-145 du 15 février 1988 relatif aux agents non titulaires de la fonction publique territoriale (FPT)</Titre>
+<Complement>Article 35-1</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006077231" ID="R13141">
+<Titre>Décret n°91-155 du 6 février 1991 relatif aux agents contractuels de la fonction publique hospitalière (FPH)</Titre>
+<Complement>Article 31-1</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.circulaires.gouv.fr/pdf/2009/04/cir_2943.pdf" ID="R19923">
+<Titre>Circulaire n°2167 du 5 août 2008 relative à la réforme du régime de la mise à disposition des fonctionnaires de l'État</Titre>
+</Reference>
+<Definition ID="R1098">
+<Titre>Sujétion</Titre>
+<Texte>
+				<Paragraphe>Contrainte particulière liée à un emploi ou un poste de travail (astreinte, travail de nuit ou le dimanche...)</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F12344" audience="Particuliers">Catégorie, corps, cadre d'emploi, grade et échelon : quelles différences ?</QuestionReponse>
+</Publication>

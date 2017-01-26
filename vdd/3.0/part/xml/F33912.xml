@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33912" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Hébergement temporaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>L'hébergement temporaire permet à une personne âgée qui vit à domicile de trouver des solutions d'hébergement pour une courte durée. Il est possible d'être hébergé temporairement dans un établissement pour personnes âgées ou chez un accueillant familial.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-04</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33912</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N333</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N333">Hébergement des personnes âgées</Niveau>
+<Niveau ID="F33912" type="Fiche avec liens externes">Hébergement temporaire</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20271">Hébergement</SousThemePere><DossierPere ID="N333">
+<Titre>Hébergement des personnes âgées</Titre>
+<Fiche ID="F33912">Hébergement temporaire</Fiche>
+<Fiche ID="F763">Établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Fiche>
+<Fiche ID="F2444">Aide sociale à l'hébergement (ASH)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'hébergement temporaire permet à une personne âgée qui vit à domicile de trouver des solutions d'hébergement pour une courte durée. Il est possible d'être hébergé temporairement dans un établissement pour personnes âgées ou chez un accueillant familial.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.pour-les-personnes-agees.gouv.fr/vivre-ailleurs-temporairement/lhebergement-temporaire">Hébergement temporaire</LienExterne>
+
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.pour-les-personnes-agees.gouv.fr/vivre-ailleurs-temporairement/dans-quelles-situations-faire-appel-un-hebergement-temporaire">Dans quelles situations faire appel à un hébergement temporaire ?</LienExterne>
+
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.pour-les-personnes-agees.gouv.fr/vivre-ailleurs-temporairement/choisir-un-hebergement-temporaire">Choisir un hébergement temporaire</LienExterne>
+
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.pour-les-personnes-agees.gouv.fr/vivre-ailleurs-temporairement/etre-heberge-temporairement-chez-un-proche">Etre hébergé temporairement chez un proche</LienExterne>
+
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</LienExterneCommente><VoirAussi important="non">
+<Fiche ID="F763" audience="Particuliers">
+<Titre>Établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2444" audience="Particuliers">
+<Titre>Personne âgée : aide sociale à l'hébergement (ASH)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<QuestionReponse ID="F255" audience="Particuliers">Quels types d'établissements hébergent des personnes âgées ?</QuestionReponse>
+<QuestionReponse ID="F861" audience="Particuliers">Que faire devant une situation de maltraitance d'une personne âgée ?</QuestionReponse>
+<QuestionReponse ID="F261" audience="Particuliers">Personnes âgées : quelles sont les conditions d'hébergement en établissement ?</QuestionReponse>
+<QuestionReponse ID="F32748" audience="Particuliers">Santé : qu'est-ce qu'une "personne de confiance" ?</QuestionReponse>
+</Publication>

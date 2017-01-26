@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32362" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelle sanction s'applique en cas de congé frauduleux donné par un bailleur ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>En cas de congé frauduleux du bailleur, le locataire peut obtenir du juge des dommages et intérêts. Le bailleur encourt aussi une amende pénale.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32362</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000024025816&amp;cidTexte=LEGITEXT000006069108</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N339">Location immobilière : fin du bail</Niveau>
+<Niveau ID="F32362" type="Fiche Question-réponse">Quelle sanction s'applique en cas de congé frauduleux donné par un bailleur ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N339">
+<Titre>Location immobilière : fin du bail</Titre>
+<Fiche ID="F1168">Congé donné par le locataire</Fiche>
+<Fiche ID="F929">Congé donné par le bailleur</Fiche>
+<Fiche ID="F33671">État des lieux de sortie</Fiche>
+<Fiche ID="F282">Achat d'un logement social</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Si le propriétaire a donné congé à son locataire pour un motif  (reprise pour habiter  ou congé pour vendre) ne correspondant pas à la réalité, le locataire peut  contester ce congé devant le juge. Le bailleur peut être condamné à verser des dommages et intérêts au locataire, et à payer une  amende pénale.  </Paragraphe>
+<Paragraphe>Le locataire peut contester le motif de reprise pour habiter si, après avoir quitté les lieux, il apporte la preuve :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>que le logement n'est pas habité par la ou les personnes mentionnées dans la lettre de congé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou que le logement est vide,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou que le logement est utilisé comme résidence secondaire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il peut alors demander au <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> de lui accorder des dommages et intérêts en réparation du préjudice subi : </Paragraphe><OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Depuis le 27 mars 2014, le bailleur qui délivre un congé pour vendre ou pour habiter frauduleusement risque une amende pénale pouvant aller jusqu'à <Valeur>6 000 €</Valeur> (<Valeur>30 000 €</Valeur> s'il s'agit d'une personne morale).</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F929" audience="Particuliers">
+<Titre>Congé donné par le bailleur</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+
+<OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000024025816&amp;cidTexte=LEGITEXT000006069108" ID="R32654">
+<Titre>Loi n° 89-462 du 6 juillet 1989 relative aux rapports locatifs : article 15</Titre>
+</Reference>
+</Publication>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33335" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le débiteur doit-il payer un droit de recouvrement à l'huissier de justice ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le débiteur doit payer un droit de recouvrement à l'huissier de justice.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33335</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032115547&amp;categorieLien=id, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032115195</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N277</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N277">Saisies et recouvrements</Niveau>
+<Niveau ID="F33335" type="Fiche Question-réponse">Le débiteur doit-il payer un droit de recouvrement à l'huissier de justice ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20385">Réparation du préjudice</SousThemePere><DossierPere ID="N277">
+<Titre>Saisies et recouvrements</Titre><SousDossier ID="N277-1">
+<Titre>Saisie d'argent</Titre>
+<Fiche ID="F1850">Saisie sur compte bancaire</Fiche>
+<Fiche ID="F31716">Avis à tiers détenteur (ATD)</Fiche>
+<Fiche ID="F115">Saisie sur salaire (ou rémunération)</Fiche>
+<Fiche ID="F1437">Solde bancaire insaisissable (SBI)</Fiche>
+</SousDossier>
+<SousDossier ID="N277-2">
+<Titre>Saisie d'un bien</Titre>
+<Fiche ID="F1748">Saisie conservatoire</Fiche>
+<Fiche ID="F1751">Saisie-vente</Fiche>
+<Fiche ID="F1752">Saisie du véhicule</Fiche>
+<Fiche ID="F1763">Saisie-appréhension : livraison ou restitution d'un bien</Fiche>
+<Fiche ID="F16987">Saisie immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N277-3">
+<Titre>Recouvrement</Titre>
+<Fiche ID="F2272">Créance : recouvrement par un tiers</Fiche>
+<Fiche ID="F1744">Dommages-intérêts : aide au recouvrement</Fiche>
+<Fiche ID="F783">Calcul de l'intérêt légal</Fiche>
+<Fiche ID="F998">Pension alimentaire : recouvrement par paiement direct</Fiche>
+<Fiche ID="F2319">Pension alimentaire : recouvrement par saisie sur salaire</Fiche>
+<Fiche ID="F1000">Pension alimentaire : recouvrement par le biais du Trésor public</Fiche>
+<Fiche ID="F1002">Pension alimentaire : recouvrement par la Caf ou la MSA</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Oui, sous conditions. Ce droit de recouvrement à la charge du <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra> s'ajoute au droit de recouvrement à la charge du <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra>.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le droit de recouvrement est dû à l'huissier lorsqu'il agit sur le fondement d'un <LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra> ou d'une décision de justice.</Paragraphe>
+<Paragraphe>La somme que le débiteur doit payer à l'huissier varie en fonction du type de créance (créance alimentaire ou non) et du montant dû. Cette somme est calculée sur la base d'un pourcentage des sommes encaissées ou recouvrées par l'huissier de justice au titre de la créance en principal, ou le montant de la condamnation (à l'exclusion des <LienInterne LienPublication="F1816" type="Fiche d'information" audience="Particuliers">dépens</LienInterne>).</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>S'il s'agit d'une créance alimentaire (ex : retard de paiement d'une pension)</Paragraphe>
+</Titre><Paragraphe>Le montant à la charge du débiteur ne peut pas être inférieur à <Valeur>4,29 €</Valeur>,  ni supérieur à <Valeur>550 €</Valeur>.</Paragraphe>
+<Paragraphe>Son montant varie en fonction des sommes encaissées ou recouvrées. </Paragraphe>
+<Paragraphe>Si les sommes encaissées ou recouvrées  sont  inférieures ou égales à <Valeur>44 €</Valeur>, le droit de recouvrement est de <Valeur>4,29 €</Valeur>.</Paragraphe>
+<Paragraphe>Au delà du seuil de <Valeur>44 €</Valeur>, le droit de recouvrement est calculé, par tranche, de la manière suivante :</Paragraphe>
+<Tableau>
+<Titre>Taux dû par le débiteur, variable en fonction du montant des sommes recouvrées</Titre>
+<Colonne largeur="34" type="normal"/>
+<Colonne largeur="8" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Tranche</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De 0 et jusqu'à  <Valeur>125 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>19,5 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Au-delà de  <Valeur>125 €</Valeur> et jusqu'à <Valeur>610 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>12,68 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Au-delà de <Valeur>610 €</Valeur> et jusqu'à <Valeur>1 525 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,82 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Au-delà de <Valeur>1 525 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,58 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Par exemple : si une personne doit payer une créance alimentaire de <Valeur>4 000 €</Valeur>, le droit de recouvrement de l'huissier est calculé de la façon suivante : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>calcul de la 1<Exposant>re</Exposant> tranche : 125*19,5 % = 24,38</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>calcul de la 2<Exposant>e</Exposant> tranche : (610-125)*12,68 % = 61,50</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>calcul de la 3<Exposant>e</Exposant> tranche : (1 525-610)*6,82 % = 62,40</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>calcul de la 4<Exposant>e</Exposant> tranche : (4 000-1 525)*0,58 %  = 14,36</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En additionnant les sommes dues pour chaque tranche, le droit de recouvrement est de : 24,38 + 61,50 + 62,40 + 14,36 = <Valeur>162,64 €</Valeur>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>S'il s'agit d'une autre créance</Paragraphe>
+</Titre><Paragraphe>Le montant à la charge du débiteur ne peut pas être inférieur à <Valeur>4,29 €</Valeur>,  ni supérieur à <Valeur>550 €</Valeur>.</Paragraphe>
+<Paragraphe>Son montant varie en fonction des sommes encaissées ou recouvrées. </Paragraphe>
+<Paragraphe>Si les sommes encaissées ou recouvrées  sont  inférieures ou égales à <Valeur>44 €</Valeur>, le droit de recouvrement est de <Valeur>4,29 €</Valeur>.</Paragraphe>
+<Paragraphe>Au delà du seuil de <Valeur>44 €</Valeur>, le droit de recouvrement est calculé, par tranche, de la manière suivante :</Paragraphe>
+<Tableau>
+<Titre>Taux dû par le débiteur, variable en fonction du montant des sommes recouvrées</Titre>
+<Colonne largeur="34" type="normal"/>
+<Colonne largeur="6" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Tranche</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De 0 et jusqu'à  <Valeur>125 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9,75 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Au-delà de  <Valeur>125 €</Valeur> et jusqu'à <Valeur>610 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6,34 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Au-delà de <Valeur>610 €</Valeur> et jusqu'à <Valeur>1 525 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3,41 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Au-delà de <Valeur>1 525 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,29 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Par exemple : si une personne doit payer une dette de <Valeur>4 000 €</Valeur>, le droit de recouvrement de l'huissier est calculé de la façon suivante : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>calcul de la 1<Exposant>re</Exposant> tranche : 125*9,75 % = 12,19</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>calcul de la 2<Exposant>e</Exposant> tranche : (610-125)*6,34 % = 30,75</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>calcul de la 3<Exposant>e</Exposant> tranche : (1 525-610)*3,41 % = 31,20</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>calcul de la 4<Exposant>e</Exposant> tranche : (4 000-1 525)*0,29 % = 7,18</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En additionnant les sommes dues pour chaque tranche, le droit de recouvrement est de : 12,19 + 30,75 + 31,20 + 7,18 = <Valeur>81,27 €</Valeur>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032115547&amp;categorieLien=id" ID="R43299">
+<Titre>Arrêté du 26 février 2016 fixant les tarifs réglementés des huissiers de justice</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032115195" ID="R43234">
+<Titre>Décret n°2016-230 du 26 février 2016 relatif aux tarifs de certains professionnels du droit</Titre>
+</Reference>
+<Definition ID="R1056">
+<Titre>Titre exécutoire</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant au créancier d'obtenir le recouvrement forcé de sa créance (saisie des biens)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12468">
+<Titre>Débiteur</Titre>
+<Texte>
+				<Paragraphe>Personne tenue envers une autre d'exécuter une obligation (qui peut être une somme d'argent)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F10404" audience="Particuliers">Le créancier doit-il payer un droit de recouvrement à l'huissier de justice ?</QuestionReponse>
+</Publication>

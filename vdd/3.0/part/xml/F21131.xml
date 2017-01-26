@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21131" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Fichier national des chèques irréguliers (FNCI)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le fichier national des chèques irréguliers (FNCI) rassemble les données relatives aux interdits bancaires ainsi qu'aux pertes et vols de chèques.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-28</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21131</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N85</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N85">Fichiers bancaires</Niveau>
+<Niveau ID="F21131" type="Fiche d'information">Fichier national des chèques irréguliers (FNCI)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N85">
+<Titre>Fichiers bancaires</Titre>
+<Fiche ID="F2233">Fichier des comptes bancaires (Ficoba)</Fiche>
+<Fiche ID="F2411">Fichier central des chèques (FCC)</Fiche>
+<Fiche ID="F21131">Fichier national des chèques irréguliers (FNCI)</Fiche>
+<Fiche ID="F17608">Fichier incidents de remboursement - Crédits des particuliers (FICP)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le fichier national des chèques irréguliers (FNCI) rassemble les données relatives aux interdits bancaires ainsi qu'aux pertes et vols de chèques.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Que contient le fichier ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Informations bancaires</Paragraphe>
+</Titre><Paragraphe>Le Fichier national des chèques irréguliers (FNCI) centralise les déclarations de perte ou de vol (et les déclarations d' <LienInterne LienPublication="F2409" type="Fiche d'information" audience="Particuliers">opposition pour perte ou vol</LienInterne>).</Paragraphe>
+<Paragraphe>Le FNCI enregistre aussi :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les numéros de compte bancaire des <LienInterne LienPublication="F31388" type="Fiche d'information" audience="Particuliers">            interdits bancaires</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les références des comptes clos,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les caractéristiques des faux chèques.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Contrairement au <LienInterne LienPublication="F2411" type="Fiche d'information" audience="Particuliers">fichier central des chèques (FCC) </LienInterne>,  le FNCI ne recense pas les noms des titulaires des comptes bancaires concernés.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Collecte des données</Paragraphe>
+</Titre><Paragraphe>Les banques transmettent à la Banque de France les données dans les 2 <LienIntra LienID="R17509" type="Définition de glossaire">jours ouvrés</LienIntra> suivant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le refus de paiement d'un chèque,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou l'opposition pour perte ou vol d'un chèque ou d'un chéquier.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour les interdictions bancaires décidées par la justice, le tribunal notifie ces données immédiatement à la Banque de France.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les données concernant la déclaration de perte ou de vol sont effacées au bout de 48 heures si cette déclaration n'est pas confirmée par une <LienInterne LienPublication="F2409" type="Fiche d'information" audience="Particuliers">opposition formulée par écrit</LienInterne> au banquier.</Paragraphe>
+</Attention>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui peut accéder au fichier ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Accès à l'ensemble du fichier</Paragraphe>
+</Titre><Paragraphe>Les bénéficiaires de chèque (essentiellement les commerçants) peuvent avoir accès à l'ensemble du fichier. Ils doivent être pour cela abonnés au service Vérifiance-FNCI géré par la Banque de France. </Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Accès limité à ses propres données</Paragraphe>
+</Titre><Paragraphe>Toute personne, qui souhaite savoir si les coordonnées du compte qu'elle détient sont enregistrées dans ce fichier et vérifier les informations la concernant.</Paragraphe>
+<Paragraphe>Ce droit d'accès et de rectification peut s'exercer  :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en se rendant dans une succursale de la <LienIntra LienID="R10518" type="Local personnalisé sur SP">Banque de France</LienIntra>, et en présentant sa pièce d'identité avec photographie, ainsi qu'un <LienIntra LienID="R11497" type="Définition de glossaire">relevé d'identité bancaire</LienIntra> (ou un chèque annulé),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou en écrivant au <LienInterne LienPublication="R21002" type="Centre de contact" audience="Particuliers">FNCI</LienInterne>, en joignant une photocopie recto-verso de la carte nationale d'identité et un relevé d'identité bancaire (ou un chèque annulé).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R10518" type="Local personnalisé sur SP">
+<Titre>Banque de France, succursale</Titre>
+<Complement>Pour effectuer une démarche au guichet</Complement>
+<PivotLocal>banque_de_france</PivotLocal>
+<RessourceWeb URL="http://www.banque-france.fr/la-banque-de-france/organisation/implantations-de-la-banque.html"/>
+<Source ID="R30618">Banque de France</Source>
+</OuSAdresser>
+<OuSAdresser ID="R21002" type="Centre de contact">
+<Titre>Fichier national des chèques irréguliers (FNCI)</Titre>
+<Complement>Pour effectuer une démarche par courrier</Complement>
+<Source ID="R30618">Banque de France</Source><Texte>
+						
+								<Paragraphe>
+			BDF - FNCI
+		</Paragraphe>
+								<Paragraphe>
+			86067 POITIERS Cedex 9
+		</Paragraphe>
+							
+					</Texte>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R31469" URL="https://particuliers.banque-france.fr/fichiers-dincidents/les-trois-fichiers-dincidents-fcc-ficp-fnci/le-fichier-national-des-cheques-irreguliers-fnci" audience="Particuliers">
+<Titre>Fichier national des chèques irréguliers (FNCI)</Titre>
+<Source ID="R30618">Banque de France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39914" URL="http://www.abe-infoservice.fr/banque/fichiers-dincidents-bancaires.html" audience="Particuliers">
+<Titre>Les différents fichiers bancaires</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R17509">
+<Titre>Jour ouvré</Titre>
+<Texte>
+				<Paragraphe>Jour effectivement travaillé dans une entreprise ou une administration.
+		Le plus souvent, on compte 5 jours ouvrés par semaine (par exemple, du lundi au vendredi ou du mardi au samedi).</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R11497">
+<Titre>Relevé d'identité bancaire (Rib)</Titre>
+<Texte>
+				<Paragraphe>Document permettant d'identifier un compte bancaire (numéro, banque, titulaire)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

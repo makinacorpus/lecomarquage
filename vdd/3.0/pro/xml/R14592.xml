@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14592" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Feuille d'accident du travail ou de maladie professionnelle (spécimen)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Feuille d'accident du travail ou de maladie professionnelle (spécimen) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-14</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14592</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N14601">Santé et sécurité au travail</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14592" type="Formulaire">Feuille d'accident du travail ou de maladie professionnelle (spécimen)</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11383*02</NumeroCerfa>
+<AutreNumero>S6201c</AutreNumero>
+<Texte><Paragraphe>Attention, cette version est un spécimen, qui est fourni uniquement à titre d'information.</Paragraphe>
+<Paragraphe>Pour votre démarche, le formulaire original vous est remis par l'employeur en cas d'accident du travail ou par la CPAM lorsqu'une maladie professionnelle est déclarée.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6201.pdf">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F171" audience="Particuliers" type="Fiche d'information">
+<Titre>Accident du travail : démarches à effectuer</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24246" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'accident du travail par l'employeur</Titre>
+<Dossier ID="N14601">Santé et sécurité au travail</Dossier>
+</FicheLiee>
+<FicheLiee ID="F176" audience="Particuliers" type="Fiche d'information">
+<Titre>Maladie professionnelle : démarches à effectuer</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

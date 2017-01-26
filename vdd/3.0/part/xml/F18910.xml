@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F18910" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mise à jour du livret de famille</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>La mise à jour du livret de famille est obligatoire et elle incombe à son titulaire. Tout changement dans votre état civil ou situation de famille doit y être intégré. Dans certains cas, un nouveau livret peut vous être délivré.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-09-14</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F18910</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006062197, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006053798, http://www.textes.justice.gouv.fr/art_pix/1_circulaire_filiation_20080630.pdf, http://questions.assemblee-nationale.fr/q14/14-1462QE.htm, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165450&amp;cidTexte=LEGITEXT000006070719, http://circulaire.legifrance.gouv.fr/pdf/2014/07/cir_38565.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N359</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N359">État civil</Niveau>
+<Niveau ID="F18910" type="Fiche d'information">Mise à jour du livret de famille</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N359">
+<Titre>État civil</Titre><SousDossier ID="N359-1">
+<Titre>Acte de naissance, de mariage et de décès</Titre>
+<Fiche ID="F1427">Acte de naissance</Fiche>
+<Fiche ID="F1432">Acte de mariage</Fiche>
+<Fiche ID="F1444">Acte de décès</Fiche>
+<Fiche ID="F1177">Rectification d'une erreur sur un acte d'état civil</Fiche>
+</SousDossier>
+<SousDossier ID="N359-2">
+<Titre>Livret de famille</Titre>
+<Fiche ID="F1345">Délivrance du livret lors du mariage</Fiche>
+<Fiche ID="F11991">Délivrance du livret à la naissance du premier enfant</Fiche>
+<Fiche ID="F18910">Mise à jour du livret</Fiche>
+<Fiche ID="F11996">Délivrance d'un second livret lors d'une séparation</Fiche>
+<Fiche ID="F11994">Perte, vol ou destruction du livret</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Livret de famille</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La mise à jour du livret de famille est obligatoire et elle incombe à son titulaire. Tout changement dans votre état civil ou situation de famille doit y être intégré. Dans certains cas, un nouveau livret peut vous être délivré.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Naissance et adoption</Paragraphe>
+</Titre><Paragraphe>L'arrivée d'un enfant dans un couple marié  (naissance ou adoption) doit être inscrite dans le  livret de famille.</Paragraphe>
+<Paragraphe> L'extrait d'acte de naissance de chaque enfant commun du couple est intégré au livret de famille.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le titulaire du livret doit s'adresser à l'autorité qui a établi l'acte occasionnant la mise à jour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie du lieu de naissance de l'enfant s'il est né en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit le Service central d'état civil si l'enfant est né à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R192" type="Centre de contact">
+<Titre>Service central d'état civil - Ministère en charge des affaires étrangères</Titre><Texte>
+						
+								<Paragraphe>
+			État civil des Français pour une naissance, un mariage ou un décès survenu à l'étranger. </Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Le service n'accueille pas de public.</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 826 08 06 04</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 12h et de 13h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Depuis l'étranger,</MiseEnEvidence> composer le +33 1 41 86 42 47</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au
+      <LienExterne URL="http://pastel.diplomatie.gouv.fr/Dali/index2.html">téléservice</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service central d'état civil du ministère des affaires étrangères </Paragraphe>
+								<Paragraphe>
+			11, rue de la Maison Blanche
+		</Paragraphe>
+								<Paragraphe>
+			44941 Nantes Cedex 09
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Paragraphe>Pour faciliter vos démarches, la mairie de votre domicile peut se charger de transmettre le livret aux autorités concernées.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>l'indication d'enfant sans vie ainsi que la date et le lieu de l'accouchement peuvent être apposés sur le livret de famille.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre><Paragraphe>L'utilisation d'un livret de famille falsifié ou non mis à jour peut entraîner des poursuites pénales et la condamnation à une amende de <Valeur>1 500 €</Valeur>, ou <Valeur>3 000 €</Valeur> en cas de récidive.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Reconnaissance d'un enfant</Paragraphe>
+</Titre><Paragraphe>Si un père reconnaît un enfant après la délivrance du livret de famille, l'extrait d'acte de naissance du père doit en principe y être intégré.</Paragraphe>
+<Paragraphe>Lorsque d'autres enfants figurent déjà sur le livret de famille mais qu'ils n'ont aucun lien de filiation avec l'auteur de la reconnaissance, le livret de famille doit être restitué. Deux autres livrets sont alors délivrés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'un mentionnant les enfants communs à l'auteur de la reconnaissance et à la mère de l'enfant reconnu,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'autre mentionnant les enfants dont la filiation n'est établie qu'à l'égard de la mère (et d'un autre père le cas échéant).</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>en cas de changement dans la filiation, un nouveau livret peut être remis sur demande contre restitution du premier, sans qu'il ne soit fait aucune référence aux anciennes mentions.</Paragraphe>
+</ANoter>
+<SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le titulaire du livret doit s'adresser à l'autorité qui a établi l'acte occasionnant la mise à jour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie du lieu de naissance de l'enfant s'il est né en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit le Service central d'état civil si l'enfant est né à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R192" type="Centre de contact">
+<Titre>Service central d'état civil - Ministère en charge des affaires étrangères</Titre><Texte>
+						
+								<Paragraphe>
+			État civil des Français pour une naissance, un mariage ou un décès survenu à l'étranger. </Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Le service n'accueille pas de public.</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 826 08 06 04</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 12h et de 13h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Depuis l'étranger,</MiseEnEvidence> composer le +33 1 41 86 42 47</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au
+      <LienExterne URL="http://pastel.diplomatie.gouv.fr/Dali/index2.html">téléservice</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service central d'état civil du ministère des affaires étrangères </Paragraphe>
+								<Paragraphe>
+			11, rue de la Maison Blanche
+		</Paragraphe>
+								<Paragraphe>
+			44941 Nantes Cedex 09
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Paragraphe> Pour faciliter vos démarches, la mairie de votre domicile peut se charger de transmettre le livret aux autorités concernées.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre><Paragraphe>L'utilisation d'un livret de famille falsifié ou non mis à jour peut entraîner des poursuites pénales et la condamnation à une amende de <Valeur>1 500 €</Valeur>, ou <Valeur>3 000 €</Valeur> en cas de récidive.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Mariage des parents</Paragraphe>
+</Titre><Paragraphe>L'extrait d'acte de mariage des parents est inscrit au sein du livret de famille <LienInterne LienPublication="F11991" type="Fiche d'information" audience="Particuliers">délivré lors de la naissance de leur premier enfant</LienInterne>.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le titulaire du livret doit s'adresser à l'autorité qui a établi l'acte occasionnant la mise à jour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie  du lieu de mariage
+		s'il a été célébré en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit le Service central d'état civil si le mariage a été célébré à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R192" type="Centre de contact">
+<Titre>Service central d'état civil - Ministère en charge des affaires étrangères</Titre><Texte>
+						
+								<Paragraphe>
+			État civil des Français pour une naissance, un mariage ou un décès survenu à l'étranger. </Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Le service n'accueille pas de public.</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 826 08 06 04</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 12h et de 13h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Depuis l'étranger,</MiseEnEvidence> composer le +33 1 41 86 42 47</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au
+      <LienExterne URL="http://pastel.diplomatie.gouv.fr/Dali/index2.html">téléservice</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service central d'état civil du ministère des affaires étrangères </Paragraphe>
+								<Paragraphe>
+			11, rue de la Maison Blanche
+		</Paragraphe>
+								<Paragraphe>
+			44941 Nantes Cedex 09
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Paragraphe>Pour faciliter vos démarches, la mairie de votre domicile peut se charger de transmettre le livret aux autorités concernées.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre><Paragraphe>L'utilisation d'un livret de famille falsifié ou non mis à jour peut entraîner des poursuites pénales et la condamnation à une amende de <Valeur>1 500 €</Valeur>, ou <Valeur>3 000 €</Valeur> en cas de récidive.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Nationalité française</Paragraphe>
+</Titre><Paragraphe>Les mentions relatives à l'acquisition, la perte de la nationalité française ou la réintégration dans cette nationalité, peuvent être portées sur le livret de famille à la demande de l'intéressé.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le titulaire du livret doit s'adresser à l'autorité qui a établi l'acte de naissance de la personne concernée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie  du lieu de naissance
+		si la personne  est née en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit le Service central d'état civil si la personne est née  à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R192" type="Centre de contact">
+<Titre>Service central d'état civil - Ministère en charge des affaires étrangères</Titre><Texte>
+						
+								<Paragraphe>
+			État civil des Français pour une naissance, un mariage ou un décès survenu à l'étranger. </Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Le service n'accueille pas de public.</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 826 08 06 04</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 12h et de 13h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Depuis l'étranger,</MiseEnEvidence> composer le +33 1 41 86 42 47</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au
+      <LienExterne URL="http://pastel.diplomatie.gouv.fr/Dali/index2.html">téléservice</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service central d'état civil du ministère des affaires étrangères </Paragraphe>
+								<Paragraphe>
+			11, rue de la Maison Blanche
+		</Paragraphe>
+								<Paragraphe>
+			44941 Nantes Cedex 09
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Paragraphe>Pour faciliter vos démarches, la mairie de votre domicile peut se charger de transmettre le livret aux autorités concernées.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre><Paragraphe>L'utilisation d'un livret de famille falsifié ou non mis à jour peut entraîner des poursuites pénales et la condamnation à une amende de <Valeur>1 500 €</Valeur>, ou <Valeur>3 000 €</Valeur> en cas de récidive.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Changement de nom et prénom</Paragraphe>
+</Titre><Paragraphe>Tout changement d'état civil (rectification par le tribunal ou changement de nom de famille) doit être signalé.</Paragraphe>
+<Paragraphe>Les informations relatives à la déclaration conjointe de choix de nom de famille ou de la déclaration conjointe d'adjonction de nom doivent également être inscrites sur le livret.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>un second livret de famille intégrant les modifications peut vous être remis gratuitement à votre demande, en échange du précédant, sans qu'il soit fait référence aux anciennes mentions.</Paragraphe>
+</ASavoir>
+<SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le titulaire du livret doit s'adresser à l'autorité qui a établi l'acte occasionnant la mise à jour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie  du lieu de naissance
+		si le demandeur est né en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit le Service central d'état civil si le demandeur est né à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R192" type="Centre de contact">
+<Titre>Service central d'état civil - Ministère en charge des affaires étrangères</Titre><Texte>
+						
+								<Paragraphe>
+			État civil des Français pour une naissance, un mariage ou un décès survenu à l'étranger. </Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Le service n'accueille pas de public.</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 826 08 06 04</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 12h et de 13h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Depuis l'étranger,</MiseEnEvidence> composer le +33 1 41 86 42 47</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au
+      <LienExterne URL="http://pastel.diplomatie.gouv.fr/Dali/index2.html">téléservice</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service central d'état civil du ministère des affaires étrangères </Paragraphe>
+								<Paragraphe>
+			11, rue de la Maison Blanche
+		</Paragraphe>
+								<Paragraphe>
+			44941 Nantes Cedex 09
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Paragraphe>Pour faciliter vos démarches, la mairie de votre domicile peut se charger de transmettre le livret aux autorités concernées.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre><Paragraphe>L'utilisation d'un livret de famille falsifié ou non mis à jour peut entraîner des poursuites pénales et la condamnation à une amende de <Valeur>1 500 €</Valeur>, ou <Valeur>3 000 €</Valeur> en cas de récidive.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Divorce</Paragraphe>
+</Titre><Paragraphe>Les mentions de divorce et de séparation de corps apparaissent sur le livret avec la mention de l'extrait d'acte de mariage.</Paragraphe>
+<Paragraphe>En cas de divorce ou de séparation, un <LienInterne LienPublication="F11996" type="Fiche d'information" audience="Particuliers">second livret</LienInterne> peut être remis à celui qui en est dépourvu.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le titulaire du livret doit s'adresser à l'autorité qui a établi l'acte occasionnant la mise à jour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie  du lieu de mariage
+		s'il a été célébré en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit le Service central d'état civil si le mariage a été célébré à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R192" type="Centre de contact">
+<Titre>Service central d'état civil - Ministère en charge des affaires étrangères</Titre><Texte>
+						
+								<Paragraphe>
+			État civil des Français pour une naissance, un mariage ou un décès survenu à l'étranger. </Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Le service n'accueille pas de public.</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 826 08 06 04</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 12h et de 13h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Depuis l'étranger,</MiseEnEvidence> composer le +33 1 41 86 42 47</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au
+      <LienExterne URL="http://pastel.diplomatie.gouv.fr/Dali/index2.html">téléservice</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service central d'état civil du ministère des affaires étrangères </Paragraphe>
+								<Paragraphe>
+			11, rue de la Maison Blanche
+		</Paragraphe>
+								<Paragraphe>
+			44941 Nantes Cedex 09
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Paragraphe>Pour faciliter vos démarches, la mairie de votre domicile peut se charger de transmettre le livret aux autorités concernées.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre><Paragraphe>L'utilisation d'un livret de famille falsifié ou non mis à jour peut entraîner des poursuites pénales et la condamnation à une amende de <Valeur>1 500 €</Valeur>, ou <Valeur>3 000 €</Valeur> en cas de récidive.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décès</Paragraphe>
+</Titre><Paragraphe>Le décès d'un époux, d'un parent ou d'un enfant mineur doit être inscrit sur le livret de famille.</Paragraphe>
+<Paragraphe>L'extrait de l'acte de décès retranscrit dans le livret mentionne uniquement le lieu et la date du décès.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Décès en France</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Pour mettre à jour le livret, il faut contacter : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie du lieu du décès,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit la mairie du domicile du défunt.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Paris, Lyon et Marseille</Paragraphe>
+</Titre><Paragraphe>Si le défunt habitait à Paris, à Lyon ou à Marseille, pour mettre à jour le livret, il faut contacter la mairie du lieu du décès.</Paragraphe><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Décès à l'étranger</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>soit la mairie du domicile du défunt,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit le Service central d'état civil.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R192" type="Centre de contact">
+<Titre>Service central d'état civil - Ministère en charge des affaires étrangères</Titre><Texte>
+						
+								<Paragraphe>
+			État civil des Français pour une naissance, un mariage ou un décès survenu à l'étranger. </Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Le service n'accueille pas de public.</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+<MiseEnEvidence>0 826 08 06 04</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>Ouvert du lundi au vendredi de 9h à 12h et de 13h à 16h30</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+<MiseEnEvidence>Depuis l'étranger,</MiseEnEvidence> composer le +33 1 41 86 42 47</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par internet</Paragraphe>
+</Titre>
+								<Paragraphe>Accès au
+      <LienExterne URL="http://pastel.diplomatie.gouv.fr/Dali/index2.html">téléservice</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Service central d'état civil du ministère des affaires étrangères </Paragraphe>
+								<Paragraphe>
+			11, rue de la Maison Blanche
+		</Paragraphe>
+								<Paragraphe>
+			44941 Nantes Cedex 09
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>Pour faciliter vos démarches, la mairie de votre domicile peut se charger de transmettre le livret aux autorités concernées.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions</Paragraphe>
+</Titre><Paragraphe>L'utilisation d'un livret de famille falsifié ou non mis à jour peut entraîner des poursuites pénales et la condamnation à une amende de <Valeur>1 500 €</Valeur>, ou <Valeur>3 000 €</Valeur> en cas de récidive.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006062197" ID="R750">
+<Titre>Décret n°74-449 du 15 mai 1974 relatif au livret de famille</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006053798" ID="R15449">
+<Titre>Arrêté du 1er juin 2006 fixant le modèle de livret de famille</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.textes.justice.gouv.fr/art_pix/1_circulaire_filiation_20080630.pdf" ID="R15448" format="pdf" poids="410.2 KB">
+<Titre>Circulaire du 30 juin 2006 relative à la réforme de la filiation et au livret de famille</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://questions.assemblee-nationale.fr/q14/14-1462QE.htm" ID="R843">
+<Titre>Réponse ministérielle du 1er janvier 2013 relatif à la non-inscription du décès d'un enfant majeur sur le livret de famille</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165450&amp;cidTexte=LEGITEXT000006070719" ID="R32463">
+<Titre>Code pénal : article R645-8</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaire.legifrance.gouv.fr/pdf/2014/07/cir_38565.pdf" ID="R38148" format="application/pdf" poids="249.4 KB">
+<Titre>Circulaire du 23 juillet 2014 relative à l'état civil</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</Reference>
+<QuestionReponse ID="F1431" audience="Particuliers">Comment contester un refus de la mairie en matière d'état civil ?</QuestionReponse>
+</Publication>

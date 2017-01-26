@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N16178" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Formalités de la création d'entreprise</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Formalités de la création d'entreprise : Commerçant, Autres statuts, Autres secteurs d'activités</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N16178</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24264</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178" type="Dossier">Formalités de la création d'entreprise</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere>
+<SousDossier ID="N16178-1">
+<Titre>Commerçant</Titre><Fiche ID="F22632">Ouverture d'un commerce</Fiche>
+<Fiche ID="F23573">Gérance d'un commerce</Fiche>
+<Fiche ID="F22537">Franchise</Fiche>
+<Fiche ID="F22494">Commerçant ou artisan étranger</Fiche>
+<Fiche ID="F23962">Vendeur à domicile</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-2">
+<Titre>Autres statuts</Titre><Fiche ID="F23264">Auto-entrepreneur</Fiche>
+<Fiche ID="F23887">Artisan</Fiche>
+<Fiche ID="F23458">Profession libérale</Fiche>
+<Fiche ID="F31498">Entreprise individuelle à responsabilité limitée (EIRL)</Fiche>
+<Fiche ID="F32266">Conjoint du chef d'entreprise</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-3">
+<Titre>Autres secteurs d'activités</Titre><Fiche ID="F23633">Entreprise de services à la personne</Fiche>
+<Fiche ID="F19087">Formateur ou organisme de formation</Fiche>
+<Fiche ID="F33830">Société de domiciliation d'entreprise</Fiche>
+</SousDossier><VoirAussi important="non">
+<Fiche ID="F22388" audience="Professionnels">
+<Titre>Déclaration d'activité d'un artiste-auteur</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F21856" audience="Professionnels">
+<Titre>Commerce ambulant (activité non sédentaire)</Titre>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F32847" audience="Professionnels">
+<Titre>Taxes pour frais de chambre consulaire</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F33830" audience="Professionnels">
+<Titre>Société de domiciliation d'entreprise</Titre>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R29" type="Local personnalisé sur SP">
+<Titre>Greffe du tribunal de commerce</Titre>
+<PivotLocal>tribunal_commerce</PivotLocal>
+<RessourceWeb URL="https://www.infogreffe.fr/societes/recherche-greffe-tribunal/chercher-greffe-tribunal-de-commerce.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R2547" URL="http://ec.europa.eu/internal_market/eu-go/index_fr.htm" type="Téléservice">
+<Titre>Création d'une entreprise de services : guichets uniques dans les pays de l'Union européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18767" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13486" numerocerfa="13486*01" type="Téléservice">
+<Titre>Demande de rendez-vous pour la prestation d'un serment professionnel</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R1582" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13486&amp;cerfaNotice=51210" numerocerfa="51210#01" format="application/pdf" poids="164.4 KB">Notice de la demande de rendez-vous pour la prestation d'un serment professionnel</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13746" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12241.do" numerocerfa="12241*01" autrenumero="P1" type="Formulaire">
+<Titre>Déclaration d'immatriculation au titre d'une activité relevant d'un nouveau secteur professionnel - Personne physique (P1)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R13759" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=12241&amp;cerfaNotice=50966" numerocerfa="50966#01">Notice pour la déclaration d'immatriculation</NoticeLiee>
+<NoticeLiee ID="R18893" URL="https://www.impots.gouv.fr/portail/node/9855" numerocerfa="50813#12 - 974" format="text/html; charset=utf-8" poids="0">Guide pratique fiscal pour la déclaration de création d'entreprise BIC/BNC</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13749" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11922.do" numerocerfa="11922*03" autrenumero="PO agricole - P0 agricole" type="Formulaire">
+<Titre>Déclaration de création d'une entreprise agricole - Personne physique (P0 agricole)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R12926" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11922&amp;cerfaNotice=50873" numerocerfa="50873#03">Notice pour la déclaration de création d'une entreprise agricole - Personne physique</NoticeLiee>
+<NoticeLiee ID="R18891" URL="https://www.impots.gouv.fr/portail/formulaire/974-sd/guide-pratique-fiscal-declarations-p0-m0-f-p1-ac0-g0-et-p-eirl-creation" numerocerfa="50812#15 - 974A">Notice d'information fiscale des créateurs d'exploitations agricoles</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11771*02">
+<Titre>Intercalaire P0' - Suite de l'imprimé P0 agricole</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11771.do"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11926*03 - NSP agricole">
+<Titre>Volet social - Personne physique relevant du régime des non-salariés agricoles</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11926.do" format="application/force-download" poids="342.0 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19328" URL="http://travail-emploi.gouv.fr/IMG/pdf/formulaire_66607.pdf" format="application/pdf" poids="0" numerocerfa="61-2183" type="Formulaire">
+<Titre>Déclaration de création, modification ou cessation d'activité d'une entreprise de travail temporaire (interim)</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R43657" URL="https://media.apce.com/file/48/8/guide_pratique_du_createur_2016.93488.pdf" audience="Professionnels" format="application/pdf" poids="0">
+<Titre>Guide pratique du créateur d'entreprise</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16248" URL="https://www.impots.gouv.fr/portail/le-livret-fiscal-du-createur-dentreprise" audience="Professionnels" format="text/html; charset=utf-8" poids="0">
+<Titre>Livret fiscal de la création d'entreprise</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R21928" URL="http://www.rsi.fr/fileadmin/mediatheque/.Espace_telechargement/Crea_entreprise/guide_objectif_entreprise_synthetique.pdf" audience="Professionnels" format="application/pdf" poids="652.0 KB">
+<Titre>Objectif entreprise : guide de la création d'entreprise</Titre>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17478" URL="https://www.impots.gouv.fr/portail/node/4615" audience="Professionnels">
+<Titre>Obligations fiscales lors de l'année de création d'une entreprise</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17462" URL="http://www.entreprises.cci-paris-idf.fr/web/reglementation/developpement-entreprise/droit-affaires/comment-evaluer-un-fonds-de-commerce?p_p_id=webcontentdisplay_WAR_cmsportlet_INSTANCE_vS5S&amp;total=6&amp;id=909026&amp;Pos=5&amp;categoryName=Vendeur%20d%27un%20fonds%20de%20commerce&amp;idArticle4=70567&amp;idArticle3=70525&amp;idArticle6=70609&amp;idArticle5=70630&amp;idArticle2=70504&amp;idArticle1=70457#parcours-nav-anchor" audience="Professionnels">
+<Titre>Comment évaluer un fonds de commerce ?</Titre>
+<Source ID="R30737">Chambre de commerce et d'industrie de Paris (CCIP)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17436" URL="https://www.cfe-metiers.com/HTM/activites.aspx" audience="Professionnels">
+<Titre>Quelles sont les activités relevant de l'artisanat ?</Titre>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32266" URL="https://www.infogreffe.fr/societes/documents-officiels/infogreffe-gratuit.html" audience="Professionnels">
+<Titre>Tarifs des formalités auprès des greffes des tribunaux de commerce</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F23282" audience="Professionnels">Combien coûte la création d'une entreprise ou la déclaration d'une activité?</QuestionReponse>
+<QuestionReponse ID="F32232" audience="Professionnels">Comment faire enregistrer les statuts d'une société ?</QuestionReponse>
+<QuestionReponse ID="F32333" audience="Professionnels">Comment effectuer un dépôt de capital social ?</QuestionReponse>
+<QuestionReponse ID="F31190" audience="Professionnels">Quels sont les numéros d'identification des entreprises ?</QuestionReponse>
+<QuestionReponse ID="F31972" audience="Professionnels">Comment trouver un journal d'annonces légales (JAL) ?</QuestionReponse>
+<QuestionReponse ID="F31627" audience="Professionnels">À partir de quel âge peut-on créer une entreprise ?</QuestionReponse>
+<QuestionReponse ID="F22428" audience="Professionnels">Un artiste peut-il être micro-entrepreneur ?</QuestionReponse>
+<QuestionReponse ID="F24023" audience="Professionnels">À quoi sert un centre de formalités des entreprises (CFE) ?</QuestionReponse>
+<QuestionReponse ID="F23283" audience="Professionnels">Nom commercial, raison ou dénomination sociale, enseigne : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F31191" audience="Professionnels">Comment immatriculer une entreprise étrangère en France ?</QuestionReponse>
+<QuestionReponse ID="F31194" audience="Professionnels">Quelles sont les conditions juridiques pour exercer une activité commerciale ?</QuestionReponse>
+<QuestionReponse ID="F31328" audience="Professionnels">Quelles sont les caractéristiques d'une Scop ?</QuestionReponse>
+<QuestionReponse ID="F31538" audience="Professionnels">Comment effectuer une déclaration d'affectation pour une EIRL ?</QuestionReponse>
+<QuestionReponse ID="F31594" audience="Professionnels">Comment déclarer le nom de domaine d'un site internet ?</QuestionReponse>
+<QuestionReponse ID="F31701" audience="Professionnels">Comment obtenir une licence d'agence de mannequins ?</QuestionReponse>
+<QuestionReponse ID="F31964" audience="Professionnels">Quels sont les organismes dispensés de la condition d'activité exclusive ?</QuestionReponse>
+<QuestionReponse ID="F31965" audience="Professionnels">Qu'est-ce que l'agrément par équivalence ?</QuestionReponse>
+<QuestionReponse ID="F32135" audience="Professionnels">Comment obtenir un numéro Siren ou Siret ?</QuestionReponse>
+<QuestionReponse ID="F32275" audience="Professionnels">Comment obtenir l'agrément ESUS (entreprise solidaire d'utilité sociale) ?</QuestionReponse>
+<QuestionReponse ID="F32290" audience="Professionnels">Dans quelles conditions un artiste peut-il enseigner ?</QuestionReponse>
+<QuestionReponse ID="F32353" audience="Professionnels">Micro-entrepreneur : que se passe-t-il en cas de dépassement du seuil du chiffre d'affaires ?</QuestionReponse>
+<QuestionReponse ID="F33339" audience="Professionnels">Peut-on cumuler plusieurs activités indépendantes ?</QuestionReponse>
+<CommentFaireSi ID="F32886">Créer une société</CommentFaireSi>
+</Publication>

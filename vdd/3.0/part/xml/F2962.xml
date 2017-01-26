@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2962" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Acte de vente d'un logement existant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Dès que toutes les conditions pour la réalisation de la vente sont réunies, un acte de vente doit être réalisé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-11</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2962</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006824639&amp;idSectionTA=LEGISCTA000006176357&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23245</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="F2962" type="Fiche d'information">Acte de vente d'un logement existant</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N23245">
+<Titre>Achat ou vente d'un logement</Titre><SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre>
+<Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre>
+<Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Logement existant</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Dès que toutes les conditions pour la réalisation de la vente sont réunies, un acte de vente doit être réalisé.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Contenu de l'acte de vente</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Information concernant les parties</Paragraphe>
+</Titre><Paragraphe>L'acte de vente doit mentionner les coordonnées du vendeur et de l'acquéreur.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Informations concernant le bien</Paragraphe>
+</Titre><Paragraphe>L'acte de vente doit mentionner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'adresse du bien, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'origine du bien (date du précédent acte de vente, nom du précédent propriétaire, acte notarié...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le descriptif détaillé du bien, de ses équipements et de ses annexes, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'existence d'une <LienIntra LienID="R12443" type="Définition de glossaire">hypothèque</LienIntra> et/ou <LienIntra LienID="R1069" type="Définition de glossaire">servitude</LienIntra>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'acte de vente doit obligatoirement être accompagné du  <LienInterne LienPublication="F10798" type="Fiche Question-réponse" audience="Particuliers">dossier de diagnostics techniques immobiliers</LienInterne>.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>lorsque le logement est situé dans une copropriété, l'acte de vente doit en plus contenir les <LienInterne LienPublication="F2604" type="Fiche d'information" audience="Particuliers">documents et informations spécifiques à la copropriété</LienInterne>.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Informations concernant la vente</Paragraphe>
+</Titre><Paragraphe>L'acte de vente doit mentionner :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le montant des honoraires du professionnel chargé de la vente et à qui en incombe le paiement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le prix de vente et ses modalités de paiement (avec ou sans l'aide d'un prêt immobilier),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la date de disponibilité du bien, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F188" type="Fiche Question-réponse" audience="Particuliers">conditions suspensives</LienInterne>  lorsqu'il en existe.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Signature et notification de l'acte de vente</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Signature</Paragraphe>
+</Titre><Paragraphe>L'acte de vente doit être signé devant un notaire.</Paragraphe>
+<Paragraphe>Le notaire doit assurer la publicité foncière en publiant l'acte de vente au fichier immobilier situé au Service des hypothèques (ex-Conservation des hypothèques) dont dépend le bien.</Paragraphe>
+<Paragraphe>La remise des clés se fait lors de la signature de l'acte de vente, sauf si l'acquéreur et le vendeur en décide autrement.</Paragraphe>
+<Paragraphe>Le notaire ayant rédigé l'acte de vente en garde un original, appelé <Expression>la minute</Expression>. Il doit remettre une copie à l'acquéreur qui doit la conserver.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Notification</Paragraphe>
+</Titre><Paragraphe>L'acte de vente doit être remis en main propre ou envoyé par lettre recommandée avec avis de réception.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai de réflexion</Paragraphe>
+</Titre><Paragraphe>Si l'acte de vente n'est pas précédé d'une promesse unilatérale ou d'un compromis de vente, l'acquéreur dispose d'un délai de réflexion de 10 jours pour revenir sur son engagement. </Paragraphe>
+<Paragraphe>Ce délai commence le lendemain :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la remise de l'acte en main propre,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou de la 1<Exposant>re</Exposant> présentation de la lettre recommandée lui notifiant l'acte.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si le dernier jour du délai de réflexion est un samedi, un dimanche, un jour férié ou chômé, le délai est prolongé jusqu'au 1<Exposant>er</Exposant> <LienIntra LienID="R17508" type="Définition de glossaire">jour ouvrable</LienIntra> suivant.</Paragraphe>
+<Paragraphe>La renonciation de la vente doit être notifiée au vendeur, avant l'expiration du délai de réflexion, par lettre recommandée avec accusé de réception.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>aucune somme ne peut être réclamée durant le délai de réflexion.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Règlement de la vente</Paragraphe>
+</Titre><Paragraphe>
+<LienInterne LienPublication="R16181" type="Simulateur" audience="Particuliers">Le solde du prix de vente ainsi que les frais d'acte notarié</LienInterne> doivent être versés à la signature de l'acte de vente. </Paragraphe>
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour signer un acte de vente</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006824639&amp;idSectionTA=LEGISCTA000006176357&amp;cidTexte=LEGITEXT000006074096" ID="R469">
+<Titre>Code de la construction et de l'habitation : articles L271-1 à L271-3</Titre>
+<Complement>Protection de l'acquéreur</Complement>
+</Reference>
+<ServiceEnLigne ID="R16181" URL="https://www.immobilier.notaires.fr/fr/frais-de-notaire" type="Simulateur">
+<Titre>Calculer le montant des frais d'acquisition d'un bien immobilier</Titre>
+<Source ID="R30632">Notaires de France</Source>
+</ServiceEnLigne>
+<Definition ID="R12443">
+<Titre>Hypothèque</Titre>
+<Texte>
+				<Paragraphe>Droit accordé à un créancier sur un bien immobilier en garantie du paiement de sa créance</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17508">
+<Titre>Jour ouvrable</Titre>
+<Texte>
+				<Paragraphe>Correspond à tous les jours de la semaine, à l'exception du jour de repos hebdomadaire (généralement le dimanche) et des jours fériés habituellement non travaillés dans l'entreprise.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1069">
+<Titre>Servitude</Titre>
+<Texte>
+				<Paragraphe>Charge imposée à une propriété au profit d'une autre propriété (par exemple, un droit de passage)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

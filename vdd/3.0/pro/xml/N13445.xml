@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N13445" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Taxe sur la valeur ajoutée (TVA)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>L'entreprise ou le professionnel indépendant qui réalise de manière habituelle des opérations économiques payantes en Union européenne est assujetti à la TVA. Cette taxe est directement facturée aux clients sur les biens qu'ils consomment ou les services qu'ils utilisent. C'est aux professionnels de la collecter sur ces opérations imposables et la déclarer.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N13445</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24265</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13445" type="Dossier">Taxe sur la valeur ajoutée (TVA)</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere>
+<SousDossier ID="N13445-1">
+<Titre>Taux applicables</Titre><Fiche ID="F23567">Application des différents taux de TVA</Fiche>
+<Fiche ID="F22399">Restauration et débits de boisson</Fiche>
+<Fiche ID="F23568">Travaux de rénovation d'un logement</Fiche>
+<Fiche ID="F20558">Vente en détaxe aux touristes</Fiche>
+<Fiche ID="F20781">Secteur culturel (œuvres d'art et spectacles vivants)</Fiche>
+<Fiche ID="F32113">Droits d'auteur</Fiche>
+<Fiche ID="F31596">Services à la personne</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-2">
+<Titre>Déclaration de la TVA</Titre><Fiche ID="F23566">Déclaration et paiement de la TVA</Fiche>
+<Fiche ID="F21746">Franchise en base de TVA</Fiche>
+<Fiche ID="F23569">Déduction de la TVA sur les achats professionnels</Fiche>
+<Fiche ID="F24026">Contributions et taxes assimilées à la TVA</Fiche>
+<Fiche ID="F31983">Autoliquidation de la TVA en cas de sous-traitance dans le BTP</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-3">
+<Titre>Commerce international et TVA</Titre><Fiche ID="F33340">TVA applicable aux échanges européens</Fiche>
+<Fiche ID="F23570">Numéro de TVA intracommunautaire</Fiche>
+<Fiche ID="F31673">Remboursement de la TVA intracommunautaire</Fiche>
+<Fiche ID="F33167">Autoliquidation de la TVA due à l'importation</Fiche>
+</SousDossier>
+<Introduction>
+<Texte>
+<Paragraphe>L'entreprise ou le professionnel indépendant qui réalise de manière habituelle des opérations économiques payantes en Union européenne est assujetti à la TVA.
+		Cette taxe est directement facturée aux clients sur les biens qu'ils consomment ou les services qu'ils utilisent. C'est aux professionnels de la collecter sur ces opérations imposables et la déclarer. </Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F31118" audience="Professionnels">
+<Titre>TVA à l'export et procédures de dédouanement</Titre>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R18373" URL="https://www.impots.gouv.fr/portail/node/9097" numerocerfa="10158*18" autrenumero="3520" type="Formulaire">
+<Titre>Remboursement forfaitaire aux exploitants agricoles non imposés à la TVA</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R22301" URL="https://www.impots.gouv.fr/portail/node/9130" numerocerfa="10480*10" autrenumero="940-SD" type="Formulaire">
+<Titre>Déclaration spéciale d'achèvement d'un immeuble valant déclaration provisoire de livraison à soi-même</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R17205" URL="https://www.impots.gouv.fr/portail/professionnel/tva" audience="Professionnels">
+<Titre>L'essentiel sur la TVA</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R19813" URL="https://www.impots.gouv.fr/portail/node/4648" audience="Professionnels">
+<Titre>Remboursement de crédit de TVA</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32231" audience="Professionnels">Dans quelles conditions un formateur ou un enseignant est-il exonéré de TVA ?</QuestionReponse>
+<QuestionReponse ID="F24271" audience="Professionnels">Comment calculer un prix hors taxes à partir d'un prix TTC ?</QuestionReponse>
+<QuestionReponse ID="F31412" audience="Professionnels">Quelles sont les dates d'exigibilité en matière de TVA ?</QuestionReponse>
+<QuestionReponse ID="F22764" audience="Professionnels">Quelle est la définition fiscale du livre ?</QuestionReponse>
+<QuestionReponse ID="F23579" audience="Professionnels">À quel taux de TVA les produits agricoles et piscicoles sont-ils soumis ?</QuestionReponse>
+<QuestionReponse ID="F32310" audience="Professionnels">Les aides et subventions publiques sont-elles soumises à TVA ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F20237" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le bénéficiaire du RSA a-t-il des droits connexes (Puma, transports...) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>En tant que bénéficiaire du RSA, vous disposez de plusieurs autres droits. Vous êtes notamment affilié à la Puma et pouvez bénéficier de la CMU-C. Des réductions de transports ou de téléphone peuvent aussi vous être accordées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-13</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F20237</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N19775">Revenu de solidarité active (RSA)</Niveau>
+<Niveau ID="F20237" type="Fiche Question-réponse">Le bénéficiaire du RSA a-t-il des droits connexes (Puma, transports...) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N19775">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Fiche ID="F19778">RSA - Demandeur de 25 ans ou plus</Fiche>
+<Fiche ID="F15553">RSA parent isolé</Fiche>
+<Fiche ID="F286">RSA jeune actif</Fiche>
+<Fiche ID="F33692">RSA jeunes parents</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En tant que bénéficiaire du RSA, vous disposez de plusieurs autres droits. Vous êtes notamment affilié à la Puma et pouvez bénéficier de la CMU-C. Des réductions de transports ou de téléphone peuvent aussi vous être accordées.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Protection universelle maladie (Puma)</Paragraphe>
+</Titre><Paragraphe>Vous êtes affilié à la <LienInterne LienPublication="F1072" type="Fiche avec liens externes" audience="Particuliers">Puma</LienInterne> si vous n'êtes pas couvert contre les risques maladie-maternité à un autre titre. Vous n'aurez pas de cotisation à payer.</Paragraphe>
+<Paragraphe>Vous devez vous rapprocher de votre caisse primaire d'assurance maladie (CPAM).</Paragraphe>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Couverture maladie universelle complémentaire (CMU-C)</Paragraphe>
+</Titre><Paragraphe>En tant qu'allocataire du <LienInterne LienPublication="N19775" type="Dossier" audience="Particuliers">RSA</LienInterne>, vous pouvez bénéficier de la <LienInterne LienPublication="F10027" type="Fiche d'information" audience="Particuliers">CMU-C</LienInterne>. Vous devez remplir le formulaire cerfa n° 12504*04 et l'envoyer à votre caisse primaire d'assurance maladie (CPAM).</Paragraphe><ServiceEnLigne ID="R1471" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12504.do" format="application/force-download" poids="2.8 MB" numerocerfa="12504*05" autrenumero="S3711g" type="Formulaire">
+<Titre>Demande de couverture maladie universelle complémentaire (CMU-C) ou d'Aide pour une complémentaire santé (ACS)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Texte><Paragraphe>Permet de demander la CMU-C ou l'ACS. Vous n'avez pas de choix à faire entre la CMU-C et l'ACS. Les droits accordés dépendent du montant de vos ressources.</Paragraphe>
+<Paragraphe>Le formulaire indique   la liste des pièces justificatives à produire et les informations à renseigner concernant la composition et les ressources de votre foyer, les situations particulières liées au RSA et le choix de l'organisme complémentaire.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>vous n'avez pas à remplir la déclaration de ressources, il vous suffira de dater et de signer l'encadré réservé à cet effet, mais pensez à compléter la rubrique "Choix de l'organisme complémentaire chargé de gérer votre CMU-C".</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Taxe d'habitation et redevance audiovisuelle</Paragraphe>
+</Titre><Paragraphe>Vous n'êtes pas  automatiquement exonéré de la <LienInterne LienPublication="F42" type="Fiche d'information" audience="Particuliers">taxe d'habitation</LienInterne> et de la contribution à l'audiovisuel public (ex-redevance audiovisuelle). </Paragraphe>
+<Paragraphe>Si vous ne disposez d'aucune ressource imposable (hors du RSA non imposable), vous ne payez pas la taxe d’habitation.</Paragraphe>
+<Paragraphe>Si vous disposez de faibles ressources, vous pouvez bénéficier d'un plafonnement du montant de la taxe d'habitation.</Paragraphe>
+<Paragraphe>Si vous êtes exonéré de la taxe d'habitation, vous êtes aussi exonéré de la contribution à l'audiovisuel public.</Paragraphe>
+<Paragraphe>Vous pouvez vous renseigner auprès du service des impôts.</Paragraphe>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réduction sociale téléphonique</Paragraphe>
+</Titre><Paragraphe>Vous pouvez bénéficier d’une <LienInterne LienPublication="F1337" type="Fiche d'information" audience="Particuliers">réduction</LienInterne> du tarif de votre abonnement téléphonique.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Droits locaux (gratuité des transports, cantine, etc.)</Paragraphe>
+</Titre><Paragraphe>Vous pouvez bénéficier de tarifs réduits ou de la gratuité de certains services. Pour ce faire, vous devez contacter directement le service concerné (mairie, 
+      conseil départemental, etc.) selon le type de droit.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Allocation logement</Paragraphe>
+</Titre><Paragraphe>
+<LienInterne LienPublication="F1280" type="Fiche d'information" audience="Particuliers">L'allocation logement</LienInterne> est accordée en fonction des ressources, sans prendre en compte le RSA.</Paragraphe>
+<Paragraphe>Ainsi, si vous n'avez aucune ressource, en dehors du RSA, ou des ressources très limitées, vous bénéficiez des allocations logement à taux plein.</Paragraphe>
+<Paragraphe>Sinon, les allocations sont calculées en proportion de vos revenus.</Paragraphe>
+<Paragraphe>Vous devez vous rapprocher de votre Caf ou CMSA.</Paragraphe>
+<OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte>
+</Publication>

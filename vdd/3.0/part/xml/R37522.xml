@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R37522" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Notification dématérialisée d'un projet de licenciement économique avec mise en œuvre d'un plan de sauvegarde de l'emploi (PSE)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Notification dématérialisée d'un projet de licenciement économique avec mise en œuvre d'un plan de sauvegarde de l'emploi (PSE) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-07</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R37522</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N481">Licenciement économique</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R37522" type="Téléservice">Notification dématérialisée d'un projet de licenciement économique avec mise en œuvre d'un plan de sauvegarde de l'emploi (PSE)</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Permet à l'employeur de notifier à la Direccte les projets de licenciement économique et faire homologuer  le projet de licenciement économique collectif donnant lieu à un PSE en cas de licenciement de 10 salariés ou plus dans une entreprise à partir de 50 salariés.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.portail-pse.emploi.gouv.fr/PortailPublic/jcms/j_5/fr/accueil">
+<Source>Ministère en charge du travail</Source>
+</LienWeb>
+<FicheLiee ID="F2811" audience="Particuliers" type="Fiche d'information">
+<Titre>Licenciement économique : plan de sauvegarde de l'emploi (PSE)</Titre>
+<Dossier ID="N481">Licenciement économique</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

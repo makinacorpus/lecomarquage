@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32320" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Caution locative étudiante (CLÉ)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le dispositif CLÉ (Caution locative étudiante) permet aux candidats locataires étudiants sans caution, de bénéficier de la caution de l'État.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-19</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32320</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F32320" type="Fiche avec liens externes">Caution locative étudiante (CLÉ)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès au logement privé</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le dispositif CLÉ (Caution locative étudiante) permet aux candidats locataires étudiants sans caution, de bénéficier de la caution de l'État. </Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.lokaviz.fr/n/a-qui-s-adresse-la-cle/n:473">Lokaviz : étudiants concernés</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.lokaviz.fr/n/pour-quel-type-de-logement/n:474">Lokaviz : logements concernés</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.lokaviz.fr/n/faire-une-demande-de-caution-locative-etudiante-cle/n:513">Lokaviz : inscription</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.lokaviz.fr/n/schema-de-fonctionnement-simplifie/n:475">Lokaviz : procédure</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.lokaviz.fr/n/quels-loyers/n:476">Lokaviz : loyer couvert</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente><OuSAdresser ID="R38378" type="Local">
+<Titre>Lokaviz</Titre>
+<RessourceWeb URL="http://www.lokaviz.fr/contactez-nous/n:69"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+</Publication>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N56" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Collège et lycée</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Collège et lycée : Inscription au collège et au lycée, Horaires et programmes, Vie quotidienne, Parcours scolaire et orientation, Fonctionnement de l'établissement, Participation des élèves à la vie scolaire, Participation des parents à la vie scolaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-30</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N56</dc:identifier>
+<dc:source>http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720, http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100761, http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=73659</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Jeune, Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N56" type="Dossier">Collège et lycée</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere>
+<SousDossier ID="N56-1">
+<Titre>Inscription au collège et au lycée</Titre><Fiche ID="F2322">Inscription au collège</Fiche>
+<Fiche ID="F2323">Inscription au lycée</Fiche>
+<Fiche ID="F20393">Changement d'établissement scolaire en cours d'année</Fiche>
+<Fiche ID="F1867">Internat</Fiche>
+</SousDossier>
+<SousDossier ID="N56-2">
+<Titre>Horaires et programmes</Titre><Fiche ID="F31099">Collège</Fiche>
+<Fiche ID="F32924">Lycée</Fiche>
+<Fiche ID="F32925">Voie professionnelle</Fiche>
+</SousDossier>
+<SousDossier ID="N56-3">
+<Titre>Vie quotidienne</Titre><Fiche ID="F1409">Règlement intérieur</Fiche>
+<Fiche ID="F24569">Restauration scolaire</Fiche>
+<Fiche ID="F21766">Surveillance et sécurité des élèves</Fiche>
+<Fiche ID="F22575">Sorties et voyages scolaires</Fiche>
+<Fiche ID="F197">Santé</Fiche>
+</SousDossier>
+<SousDossier ID="N56-4">
+<Titre>Parcours scolaire et orientation</Titre><Fiche ID="F112">Collège</Fiche>
+<Fiche ID="F111">Lycée général ou technologique</Fiche>
+<Fiche ID="F20395">Lycée professionnel</Fiche>
+<Fiche ID="F232">Dispositif d'initiation aux métiers en alternance (Dima)</Fiche>
+<Fiche ID="F23476">Procédure Admission Post Bac (APB) </Fiche>
+</SousDossier>
+<SousDossier ID="N56-5">
+<Titre>Fonctionnement de l'établissement</Titre><Fiche ID="F1394">Conseil de classe</Fiche>
+<Fiche ID="F1393">Conseil d'administration</Fiche>
+<Fiche ID="F1396">Conseil de discipline</Fiche>
+<Fiche ID="F315">Commission éducative</Fiche>
+</SousDossier>
+<SousDossier ID="N56-6">
+<Titre>Participation des élèves à la vie scolaire</Titre><Fiche ID="F1370">Délégués de classe</Fiche>
+<Fiche ID="F1388">Conseil des délégués pour la vie lycéenne (CVL)</Fiche>
+<Fiche ID="F1443">Représentants des lycéens au niveau académique et national</Fiche>
+</SousDossier>
+<SousDossier ID="N56-7">
+<Titre>Participation des parents à la vie scolaire</Titre><Fiche ID="F21287">Information des parents</Fiche>
+<Fiche ID="F1389">Représentants des parents d'élèves</Fiche>
+<Fiche ID="F31024">Participation financière des familles</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N10481" audience="Particuliers">
+<Titre>Diplômes</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N58" audience="Particuliers">
+<Titre>Inscription dans l'enseignement supérieur</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720" ID="R18647">
+<Titre>Circulaire n°2016-058 du 13 avril 2016 de rentrée scolaire 2016</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100761" ID="R19312">
+<Titre>Circulaire n°2016-054 du 13 avril 2016 relative à la liste des fournitures scolaires pour l'année 2016-2017</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=73659" ID="R33825">
+<Titre>Circulaire n°2013-144 du 6 septembre 2013 relative à la charte de la laïcité à l'École</Titre>
+</Reference>
+<ServiceEnLigne ID="R18626" URL="ftp://trf.education.gouv.fr/pub/edutel/bo/2003/34/annexe2.pdf" format="application/pdf" poids="127.5 KB" type="Formulaire">
+<Titre>Modèle de convention relative à l'organisation de séquence d'observation en milieu professionnel</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18613" URL="ftp://trf.education.gouv.fr/pub/edutel/bo/2003/34/annexe1.pdf" format="application/pdf" poids="124.8 KB" type="Formulaire">
+<Titre>Modèle de convention relative à l'organisation de visite d'information en milieu professionnel</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2250" URL="http://www.education.gouv.fr/cid2570/la-voie-generale-au-lycee.html" audience="Particuliers">
+<Titre>Présentation des classes du lycée général et technologique</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18649" URL="http://www.education.gouv.fr/pid290/les-differentes-voies.html" audience="Particuliers">
+<Titre>Entrée au lycée : les différentes voies de formation et diplômes</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18334" URL="http://www.education.gouv.fr/cid5509/la-carte-scolaire.html" audience="Particuliers">
+<Titre>Fonctionnement de la carte scolaire</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18921" URL="http://www.education.gouv.fr/cid2503/les-rythmes-scolaires.html" audience="Particuliers">
+<Titre>Les rythmes scolaires (école primaire, collège, lycée)</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18645" URL="http://www.education.gouv.fr/cid187/l-education-prioritaire.html" audience="Particuliers">
+<Titre>Éducation prioritaire</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17410" URL="http://www.education.gouv.fr/cid5677/accompagnement-educatif.html" audience="Particuliers">
+<Titre>L'école après les cours : l'accompagnement éducatif</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1416" URL="http://www.formation.terre.defense.gouv.fr/Accueil/Decouverte/ODF/Lycees/Index.htm" audience="Particuliers">
+<Titre>Lycées de la Défense</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32761" audience="Particuliers">Qu'est-ce que l'accompagnement personnalisé de l'élève au collège ou au lycée ?</QuestionReponse>
+<QuestionReponse ID="F23512" audience="Particuliers">Collège - Quelles sont les orientations possibles après la classe de troisième ?</QuestionReponse>
+<QuestionReponse ID="F32846" audience="Particuliers">Que peut faire un jeune de plus de 16 ans déscolarisé et sans emploi ?</QuestionReponse>
+<QuestionReponse ID="F229" audience="Particuliers">Que peut faire un jeune de moins de 16 ans en décrochage scolaire ?</QuestionReponse>
+<QuestionReponse ID="F32709" audience="Particuliers">Peut-on entrer en apprentissage après la classe de troisième ?</QuestionReponse>
+<QuestionReponse ID="F21057" audience="Particuliers">Quelles sont les sanctions ou punitions applicables au collège ou au lycée ?</QuestionReponse>
+<QuestionReponse ID="F32752" audience="Particuliers">Qu'est-ce qu'une classe Segpa et comment l'intégrer ?</QuestionReponse>
+<QuestionReponse ID="F1366" audience="Particuliers">Quels sont les droits d'un lycéen majeur ?</QuestionReponse>
+<QuestionReponse ID="F199" audience="Particuliers">Quels sont les niveaux de qualification et à quoi correspondent-ils ?</QuestionReponse>
+<QuestionReponse ID="F1872" audience="Particuliers">Comment bénéficier des transports en commun scolaires ?</QuestionReponse>
+<QuestionReponse ID="F23151" audience="Particuliers">L'établissement scolaire intervient-il en matière d'éducation à la sexualité ?</QuestionReponse>
+<QuestionReponse ID="F2325" audience="Particuliers">Comment se déroule la scolarité d'une jeune fille enceinte ?</QuestionReponse>
+<QuestionReponse ID="F1882" audience="Particuliers">Stage ou observation d'un jeune de moins de 16 ans : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F857" audience="Particuliers">Collège et lycée : qu'est-ce qu'un projet d'établissement ?</QuestionReponse>
+<QuestionReponse ID="F1897" audience="Particuliers">Médiateur de l'éducation nationale : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F32777" audience="Particuliers">Que faire si un élève n'a pas de lycée d'affectation après sa troisième ?</QuestionReponse>
+<QuestionReponse ID="F32778" audience="Particuliers">Lycée : peut-on changer de voie ou de spécialité ?</QuestionReponse>
+<QuestionReponse ID="F32844" audience="Particuliers">Un élève qui déménage doit-il changer de collège ou de lycée ?</QuestionReponse>
+<QuestionReponse ID="F1363" audience="Particuliers">Quels sont les droits et obligations du collégien ?</QuestionReponse>
+<QuestionReponse ID="F1364" audience="Particuliers">Quels sont les droits et obligations du lycéen ?</QuestionReponse>
+<QuestionReponse ID="F34038" audience="Particuliers">Peut-on utiliser son téléphone portable au collège ou au lycée ?</QuestionReponse>
+</Publication>

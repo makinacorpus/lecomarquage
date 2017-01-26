@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R41138" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Sylaé : saisie en ligne des états de présence des contrats aidés</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Permet à l'employeur bénéficiant de contrats aidés (contrat unique d'insertion-CUI, Emplois d'avenir-EAv ou aide à la première embauche par exemple) de déclarer les états de présence des salariés concernés (attestation de présence). L'utilisation de SYLAé est obligatoire depuis le 1 exposant er juillet 2015.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-06</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R41138</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N23663">Aides à l'embauche</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R41138" type="Téléservice">Sylaé : saisie en ligne des états de présence des contrats aidés</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet à l'employeur bénéficiant de contrats aidés (contrat unique d'insertion-CUI, Emplois d'avenir-EAv ou aide à la première embauche par exemple) de déclarer les états de présence des salariés concernés (attestation de présence).</Paragraphe>
+<Paragraphe>L'utilisation de SYLAé est obligatoire depuis le 1<Exposant>er</Exposant> juillet 2015.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://sylae.asp-public.fr/sylae/">
+<Source>Agence de services et de paiement (ASP)</Source>
+</LienWeb>
+<FicheLiee ID="F23556" audience="Professionnels" type="Fiche d'information">
+<Titre>Aides à l'embauche pour un contrat d'apprentissage</Titre>
+<Dossier ID="N23663">Aides à l'embauche</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

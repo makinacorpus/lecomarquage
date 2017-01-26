@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31300" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Obligation du locataire : assurance habitation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le locataire est tenu de s'assurer contre les risques locatifs.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-10</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31300</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032320582</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19424</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Propriétaire, Locataire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N19424">Location immobilière : obligations du locataire</Niveau>
+<Niveau ID="F31300" type="Fiche d'information">Obligation du locataire : assurance habitation</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N19424">
+<Titre>Location immobilière : obligations du locataire</Titre><SousDossier ID="N19424-1">
+<Titre>Dépenses locatives</Titre>
+<Fiche ID="F1214">Loyer</Fiche>
+<Fiche ID="F31272">Impayés et expulsion</Fiche>
+<Fiche ID="F947">Charges</Fiche>
+<Fiche ID="F31300">Assurance habitation</Fiche>
+</SousDossier>
+<SousDossier ID="N19424-2">
+<Titre>Usage du logement</Titre>
+<Fiche ID="F1874">Travaux et jouissance des lieux</Fiche>
+<Fiche ID="F31697">Entretien et réparations</Fiche>
+<Fiche ID="F2449">Sous-location</Fiche>
+<Fiche ID="F32305">Abandon de logement</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Dépenses locatives</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le locataire est tenu de s'assurer contre les risques locatifs. S'il ne le fait pas, le bailleur peut résilier le bail ou souscrire une assurance à la place du locataire en lui répercutant le montant de la cotisation sur le loyer. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Obligation d'assurance</Paragraphe>
+</Titre><Paragraphe>Le locataire doit souscrire une <LienInterne LienPublication="F2591" type="Fiche d'information" audience="Particuliers">assurance habitation</LienInterne> auprès de la compagnie d'assurance de son choix.</Paragraphe>
+<Paragraphe>Cette assurance sert à le couvrir contre les risques locatifs (principalement, dégâts des eaux, incendie, explosion).</Paragraphe>
+<Paragraphe>Le locataire justifie obligatoirement de cette assurance lors de la remise des clefs (attestation d'assurance), puis chaque année à la demande du bailleur.</Paragraphe>
+<Paragraphe>Si le locataire ne s'assure pas, le bailleur doit lui envoyer un commandement par huissier lui demandant de prendre une assurance.</Paragraphe><OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+<Paragraphe>Si un mois après la délivrance de ce commandement, le locataire ne s'est pas assuré, le bailleur peut</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>résilier le bail si une clause du bail le prévoit,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<MiseEnEvidence>ou</MiseEnEvidence> souscrire lui-même une assurance en lieu et place du locataire, ce dernier devant rembourser les cotisations. Si cette solution est choisie, le bail ne peut pas être résilié.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si le locataire n'est pas assuré</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Résiliation du bail</Paragraphe>
+</Titre><Paragraphe>Une clause peut prévoir la résiliation du bail si le locataire n'est pas assuré.</Paragraphe>
+<Paragraphe>Dans ce cas, le bailleur doit lui envoyer un commandement par huissier lui demandant de prendre une assurance.</Paragraphe><OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+<Paragraphe>Si un mois après la délivrance de ce commandement le locataire ne s'est pas assuré, le bail est résilié directement.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Souscription par le bailleur</Paragraphe>
+</Titre><Paragraphe>Le bailleur peut souscrire une assurance à la place de son locataire, en cas de défaut d'assurance de ce dernier.</Paragraphe>
+<Paragraphe>Pour cela, le bailleur doit d'abord envoyer à son locataire une courrier recommandé avec avis de réception indiquant sa volonté de prendre une assurance à sa place. Le locataire aura alors 1 mois pour prendre une assurance.</Paragraphe>
+<Paragraphe>L'envoi de ce courrier ne permet pas de résilier le bail en cas de défaut d'assurance même si une clause le permet.</Paragraphe>
+<Paragraphe>Si le locataire n'est toujours assuré passé le délai de 1 mois, le bailleur peut souscrire lui-même à une assurance.</Paragraphe>
+<Paragraphe>Le montant total de la prime annuelle souscrite par le bailleur, éventuellement majorée dans la limite de 10%, est ensuite récupérable par le bailleur par 1/12<Exposant>ème</Exposant> chaque mois au moment du paiement du loyer. Le montant ainsi récupéré doit être inscrit sur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'avis d'échéance,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et la quittance remise au locataire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Une copie de l'attestation d'assurance est remise au locataire.</Paragraphe>
+<Paragraphe>Si le locataire quitte le logement avant l'échéance du contrat d'assurance, le bailleur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>doit résilier le contrat </Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et peut récupérer la fraction de prime exigible auprès du locataire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le locataire peut toujours mettre fin à l'assurance souscrite par le bailleur en s'assurant lui même.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108" ID="R32255">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 7</Titre>
+<Complement>Obligation d'assurance du locataire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032320582" ID="R43552">
+<Titre>Décret du 30 mars 2016 fixant le montant maximal de la majoration de la prime annuelle d'assurance pour compte du locataire</Titre>
+</Reference>
+</Publication>

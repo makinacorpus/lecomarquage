@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1249" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire si la pension alimentaire n'est pas payée ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Si le débiteur ne vous verse pas la pension alimentaire, vous disposez de différents moyens pour obtenir le recouvrement des arriérés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1249</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000019017112&amp;idSectionTA=LEGISCTA000019017116&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165318&amp;cidTexte=LEGITEXT000006070719</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N18775">Séparation des parents</Niveau>
+<Niveau ID="F1249" type="Fiche Question-réponse">Que faire si la pension alimentaire n'est pas payée ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N18775">
+<Titre>Séparation des parents</Titre><SousDossier ID="N18775-1">
+<Titre>Relations avec l'enfant</Titre>
+<Fiche ID="F3133">Autorité parentale</Fiche>
+<Fiche ID="F18786">Droit de visite et d'hébergement</Fiche>
+<Fiche ID="F18785">Résidence de l'enfant</Fiche>
+<Fiche ID="F1774">Opposition et interdiction de sortie du territoire de l'enfant</Fiche>
+<Fiche ID="F1223">Relations de l'enfant avec sa famille ou ses proches</Fiche>
+</SousDossier>
+<SousDossier ID="N18775-2">
+<Titre>Pension alimentaire</Titre>
+<Fiche ID="F991">Fixation et versement</Fiche>
+<Fiche ID="F2010">Réévaluation</Fiche>
+<Fiche ID="F21023">Révision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>En tant que <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra>, vous pouvez obtenir le recouvrement des arriérés d'une pension alimentaire, fixée par une décision judiciaire, si votre <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra> ne verse pas ou verse irrégulièrement la pension alimentaire.</Paragraphe>
+<Paragraphe>Vous disposez de plusieurs moyens pour obtenir ce paiement : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1002" type="Fiche d'information" audience="Particuliers">Aide de la caisse d'allocations familiales (Caf)</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F998" type="Fiche d'information" audience="Particuliers">Paiement direct</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F2319" type="Fiche d'information" audience="Particuliers">Saisie sur salaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1850" type="Fiche d'information" audience="Particuliers">Saisie des comptes bancaires</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1000" type="Fiche d'information" audience="Particuliers">Recouvrement par le Trésor Public</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le délai de prescription d'une action en paiement des arriérés de la pension alimentaire est de 5 ans. Vous pouvez donc obtenir le recouvrement des mensualités impayées sur une période maximale de 5 ans avant la date de votre demande.</Paragraphe>
+<Paragraphe>Le débiteur défaillant peut faire l'objet d'une saisie (par exemple, une <LienInterne LienPublication="F1751" type="Fiche d'information" audience="Particuliers">saisie-vente</LienInterne>).</Paragraphe>
+<Paragraphe>Le délit d'abandon de famille pourra, également, être retenu à l'encontre du débiteur. Ce délit est passible de 2 ans d'emprisonnement et <Valeur>15 000 €</Valeur> d'amende.</Paragraphe>
+<OuSAdresser ID="R46655" type="Local">
+<Titre>Agence de recouvrement des impayés de pensions alimentaires (Aripa)</Titre>
+<RessourceWeb URL="https://www.pension-alimentaire.caf.fr/fr/web/guest/home"/>
+</OuSAdresser>
+
+
+</Texte>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000019017112&amp;idSectionTA=LEGISCTA000019017116&amp;cidTexte=LEGITEXT000006070721" ID="R18924">
+<Titre>Code civil : article 2224</Titre>
+<Complement>Délai de droit commun et son point de départ</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165318&amp;cidTexte=LEGITEXT000006070719" ID="R255">
+<Titre>Code pénal : articles 227-3 à 227-4-1</Titre>
+<Complement>Abandon de famille</Complement>
+</Reference>
+<Definition ID="R12468">
+<Titre>Débiteur</Titre>
+<Texte>
+				<Paragraphe>Personne tenue envers une autre d'exécuter une obligation (qui peut être une somme d'argent)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1004" audience="Particuliers">Comment recouvrer une pension alimentaire dont le débiteur est à l'étranger ?</QuestionReponse>
+</Publication>

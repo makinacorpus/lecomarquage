@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32001" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un propriétaire peut-il vendre un logement occupé par un locataire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Oui, un bailleur peut vendre un logement occupé par un locataire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-20</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32001</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023276582&amp;cidTexte=LEGITEXT000006069108</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N339">Location immobilière : fin du bail</Niveau>
+<Niveau ID="F32001" type="Fiche Question-réponse">Un propriétaire peut-il vendre un logement occupé par un locataire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N339">
+<Titre>Location immobilière : fin du bail</Titre>
+<Fiche ID="F1168">Congé donné par le locataire</Fiche>
+<Fiche ID="F929">Congé donné par le bailleur</Fiche>
+<Fiche ID="F33671">État des lieux de sortie</Fiche>
+<Fiche ID="F282">Achat d'un logement social</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, un bailleur peut vendre un logement occupé par un locataire. </Paragraphe>
+<Paragraphe>Dans ce cas, le locataire reste dans les lieux et voit son bail se poursuivre aux <LienInterne LienPublication="F920" type="Fiche d'information" audience="Particuliers">mêmes conditions</LienInterne> avec le nouveau propriétaire.</Paragraphe>
+<Paragraphe>Le nouveau propriétaire doit alors informer le locataire de ses coordonnées et il lui appartiendra de restituer le <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">dépôt de garantie</LienInterne> si la location prend fin.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le nouveau propriétaire doit respecter un délai de carence avant de donner congé au locataire en place s'il souhaite <LienInterne LienPublication="F929" type="Fiche d'information" audience="Particuliers">vendre le logement ou le reprendre pour y habiter</LienInterne>. </Paragraphe>
+</Attention>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023276582&amp;cidTexte=LEGITEXT000006069108" ID="R32947">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 3</Titre>
+<Complement>Obligation d'information du locataire par le nouveau bailleur</Complement>
+</Reference>
+</Publication>

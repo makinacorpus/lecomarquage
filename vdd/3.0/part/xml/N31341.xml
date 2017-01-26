@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N31341" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assemblée générale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les copropriétaires doivent se réunir au moins une fois par an pour décider des travaux et des orientations qu'ils souhaitent pour leur immeuble. La tenue des assemblée générales obéit à des règles très précises. Chaque décision fait l'objet d'un vote dont les règles varient selon la nature des décisions à prendre.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-12</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N31341</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31341" type="Dossier">Assemblée générale</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere>
+<SousDossier ID="N31341-1">
+<Titre>Réunion de copropriétaires (assemblée générale)</Titre><Fiche ID="F2615">Organisation de l'assemblée générale des copropriétaires</Fiche>
+<Fiche ID="F2619">Copropriété : déroulement d'une assemblée générale</Fiche>
+<Fiche ID="F2636">Compte-rendu d'assemblée générale des copropriétaires (procès-verbal)</Fiche>
+</SousDossier>
+<SousDossier ID="N31341-2">
+<Titre>Prise de décision en copropriété (règles de vote)</Titre><Fiche ID="F32065">Copropriété : décisions nécessitant un vote à la majorité simple</Fiche>
+<Fiche ID="F32066">Copropriété : décisions nécessitant un vote à la majorité absolue</Fiche>
+<Fiche ID="F2137">Copropriété : décisions votées à la double majorité ou à l'unanimité</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Les copropriétaires doivent se réunir au moins une fois par an pour décider des travaux et des orientations qu'ils souhaitent pour leur immeuble. La tenue des assemblée générales obéit à des règles très précises. Chaque décision fait l'objet d'un vote dont les règles varient selon la nature des décisions à prendre.</Paragraphe>
+</Texte>
+</Introduction><QuestionReponse ID="F1107" audience="Particuliers">Pour quels travaux doit-on solliciter l'autorisation de la copropriété ?</QuestionReponse>
+<QuestionReponse ID="F31537" audience="Particuliers">Travaux d'accessibilité dans son logement : faut-il l'accord de la copropriété ?</QuestionReponse>
+<QuestionReponse ID="F3107" audience="Particuliers">Peut-on changer l'affectation d'un lot de copropriété ?</QuestionReponse>
+
+</Publication>

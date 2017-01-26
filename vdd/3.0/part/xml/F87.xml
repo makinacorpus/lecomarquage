@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F87" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Certificat de travail</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le certificat de travail est un document remis par l'employeur au salarié à la date de fin du contrat de travail. Il est dû au salarié pour tout type de contrat de travail (CDI, CDD...), quel que soit le motif de la rupture (démission, licenciement...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-05</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F87</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006195628&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537558&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000027549338&amp;cidTexte=LEGITEXT000006073189</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19611</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="F87" type="Fiche d'information">Certificat de travail</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N19611">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre><SousDossier ID="N19611-1">
+<Titre>Démission</Titre>
+<Fiche ID="F2883">Démission d'un salarié</Fiche>
+<Fiche ID="F89">Allocations chômage</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-2">
+<Titre>Rupture conventionnelle du CDI</Titre>
+<Fiche ID="F19030">Conditions et procédure</Fiche>
+<Fiche ID="F19708">Indemnisation</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-3">
+<Titre>Documents à remettre au salarié</Titre>
+<Fiche ID="F87">Certificat de travail</Fiche>
+<Fiche ID="F2867">Attestation destinée à Pôle emploi</Fiche>
+<Fiche ID="F86">Reçu pour solde de tout compte</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-4">
+<Titre>Ruptures atypiques du contrat de travail</Titre>
+<Fiche ID="F24409">Prise d'acte de la rupture du contrat de travail</Fiche>
+<Fiche ID="F24410">Résiliation judiciaire du contrat de travail</Fiche>
+<Fiche ID="F24411">Départ négocié en cas de difficultés économiques</Fiche>
+<Fiche ID="F24412">Rupture du contrat de travail pour cas de force majeure</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Documents à remettre au salarié</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le certificat de travail est un document remis par l'employeur au salarié à la date de fin du contrat de travail. Il est dû au salarié pour tout type de contrat de travail (<LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne>, <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne>...), quel que soit le motif de la rupture (démission, licenciement...).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Mentions devant figurer dans le certificat</Paragraphe>
+</Titre><Paragraphe>Les mentions devant figurer sur le certificat sont les suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'identité de l'employeur (nom, adresse, raison sociale, siège social),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'identité du salarié (nom, prénom, adresse),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les dates d'entrée et de sortie du salarié,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la nature du ou des emplois successivement occupés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les périodes pendant lesquelles le salarié a occupé ces emplois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le maintien gratuit de la <LienInterne LienPublication="F20744" type="Fiche Question-réponse" audience="Particuliers">couverture santé</LienInterne> pendant toute la période de chômage si le salarié en bénéficiait,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le maintien gratuit des garanties de prévoyance (en cas de décès, incapacité de travail ou invalidité pendant toute la période de chômage si le salarié en bénéficiait,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>date de remise du certificat et lieu de sa rédaction,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>signature de l'employeur.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Date de remise du certificat au salarié</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié effectue son préavis</Paragraphe>
+</Titre><Paragraphe>L'employeur remet au salarié son certificat de travail à la date de fin du contrat de travail.</Paragraphe>
+<Paragraphe>Par exemple, si le contrat de travail s'achève le 30 novembre, le certificat doit être remis au salarié à cette date.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié est dispensé de préavis</Paragraphe>
+</Titre><Paragraphe>L'employeur remet au salarié son certificat de travail à la date de fin du contrat de travail, même si le salarié est dispensé de préavis.</Paragraphe>
+<Paragraphe>Par exemple, si le contrat de travail s'achève le 30 novembre, et que le salarié est dispensé de préavis à compter du 1er octobre, le certificat ne doit être remis qu'en date du 30 novembre.</Paragraphe>
+<Paragraphe>Dans l'attente de la fin du contrat, l'employeur peut lui délivrer  une attestation précisant les éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>date de fin du contrat,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>possibilité pour le salarié, dans l'attente de cette date, d'occuper un autre emploi.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R3040" type="Centre de contact">
+<Titre>Votre direction des ressources humaines (DRH)</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R756" type="Centre de contact">
+<Titre>Vos représentants du personnel</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006195628&amp;cidTexte=LEGITEXT000006072050" ID="R36303">
+<Titre>Code du travail : article L1234-19</Titre>
+<Complement>Remise du certificat de travail</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537558&amp;cidTexte=LEGITEXT000006072050" ID="R37261">
+<Titre>Code du travail : article D1234-6</Titre>
+<Complement>Contenu du certificat de travail</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000027549338&amp;cidTexte=LEGITEXT000006073189" ID="R37262">
+<Titre>Code de la sécurité sociale : article L911-8</Titre>
+<Complement>Bénéfice de la complémentaire santé et de prévoyance à titre gratuit</Complement>
+</Reference>
+<ServiceEnLigne ID="R44593" URL="" type="Modèle de document">
+<Titre>Modèle de certificat de travail</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F20744" audience="Particuliers">Peut-on garder la mutuelle de l'entreprise à la fin du contrat de travail ?</QuestionReponse>
+</Publication>

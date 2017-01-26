@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N44" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance habitation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Assurance habitation : Vie du contrat, Assurance du locataire, Assurance du propriétaire, Sinistre</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-13</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N44</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Locataire, Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N44" type="Dossier">Assurance habitation</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20263">Assurance</SousThemePere>
+<SousDossier ID="N44-1">
+<Titre>Vie du contrat</Titre><Fiche ID="F2591">Souscription d'un contrat</Fiche>
+<Fiche ID="F2598">Tarifs, cotisations et durée du contrat</Fiche>
+<Fiche ID="F2594">Modification du contrat</Fiche>
+<Fiche ID="F19083">Résiliation du contrat</Fiche>
+<Fiche ID="F3050">Recours et litiges</Fiche>
+</SousDossier>
+<SousDossier ID="N44-2">
+<Titre>Assurance du locataire</Titre><Fiche ID="F1349">Assurance de base</Fiche>
+<Fiche ID="F1350">Assurances complémentaires</Fiche>
+<Fiche ID="F21478">Assurance et colocation</Fiche>
+<Fiche ID="F10827">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-3">
+<Titre>Assurance du propriétaire</Titre><Fiche ID="F2023">Assurance du logement</Fiche>
+<Fiche ID="F2027">Assurance et copropriété</Fiche>
+<Fiche ID="F10830">En cas de vente ou d'achat du logement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-4">
+<Titre>Sinistre</Titre><Fiche ID="F2029">Sinistre courant</Fiche>
+<Fiche ID="F2028">Cambriolage</Fiche>
+<Fiche ID="F1352">Assurance et dégât des eaux</Fiche>
+<Fiche ID="F21532">Incendie ou explosion</Fiche>
+<Fiche ID="F3076">Catastrophes naturelles</Fiche>
+<Fiche ID="F3078">Catastrophes technologiques</Fiche>
+</SousDossier><ServiceEnLigne ID="R15689" URL="http://www.conso.net/content/vous-d%C3%A9m%C3%A9nagez-vous-demandez-quelles-sont-les-conditions-pour-assurer-votre-nouveau-logement" type="Modèle de document">
+<Titre>Demander les conditions d'assurance pour assurer son nouveau logement</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16639" URL="http://www.conso.net/content/vous-avez-ete-victime-dun-vol-dans-votre-habitation-et-vous-le-declarez-votre-assurance" type="Modèle de document">
+<Titre>Déclarer à son assureur un vol dans son habitation</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41789" URL="http://www.abe-infoservice.fr/assurance.html" audience="Particuliers">
+<Titre>Informations pratiques sur l'assurance</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32582" audience="Particuliers">Mon assurance peut-elle me sanctionner si je n'ai pas de détecteur de fumée ?</QuestionReponse>
+<QuestionReponse ID="F32556" audience="Particuliers">Doit-on souscrire une assurance spécifique pour des vacances au ski ?</QuestionReponse>
+<QuestionReponse ID="F31257" audience="Particuliers">Comment fonctionne la franchise d'assurance habitation ?</QuestionReponse>
+<QuestionReponse ID="F3077" audience="Particuliers">Assurance habitation : comment déclarer un sinistre ?</QuestionReponse>
+<QuestionReponse ID="F31459" audience="Particuliers">L'assureur peut-il résilier mon contrat assurance habitation après un sinistre ?</QuestionReponse>
+<QuestionReponse ID="F2123" audience="Particuliers">Qu'est-ce que la garantie responsabilité civile ?</QuestionReponse>
+<QuestionReponse ID="F31419" audience="Particuliers">Les appareils mobiles (téléphone, tablette tactile...) sont-ils assurés ?</QuestionReponse>
+<QuestionReponse ID="F769" audience="Particuliers">Cambriolage : comment être indemnisé par l'assurance ?</QuestionReponse>
+<QuestionReponse ID="F21509" audience="Particuliers">Échange de logement ou "home sitting" : comment l'assurer ?</QuestionReponse>
+<QuestionReponse ID="F862" audience="Particuliers">Quel est le délai de prescription ?</QuestionReponse>
+<QuestionReponse ID="F2721" audience="Particuliers">Comment assurer un meublé de tourisme en location saisonnière ?</QuestionReponse>
+<QuestionReponse ID="F2725" audience="Particuliers">Faut-il assurer un bateau de plaisance ?</QuestionReponse>
+<QuestionReponse ID="F3049" audience="Particuliers">Qu'est-ce que la garantie protection juridique ?</QuestionReponse>
+<QuestionReponse ID="F3048" audience="Particuliers">Qu'est-ce que la garantie contre les accidents de la vie privée ?</QuestionReponse>
+<QuestionReponse ID="F3075" audience="Particuliers">Comment se déroule l'expertise ?</QuestionReponse>
+</Publication>

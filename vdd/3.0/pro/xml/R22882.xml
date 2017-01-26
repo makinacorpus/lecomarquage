@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R22882" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Notification pour un produit alimentaire par le producteur ou fabricant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>Notification pour un produit alimentaire par le producteur ou fabricant - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-17</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R22882</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N31446">Litiges liés aux produits ou aux prestations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R22882" type="Formulaire">Notification pour un produit alimentaire par le producteur ou fabricant</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<LienWeb URL="http://www.economie.gouv.fr/files/directions_services/dgccrf/securite/alertes/documents/formulaire_prof.pdf" format="application/pdf" poids="83.4 KB">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb>
+<FicheLiee ID="F22868" audience="Professionnels" type="Fiche d'information">
+<Titre>Signalement des produits défectueux par le fabricant, producteur ou distributeur</Titre>
+<Dossier ID="N31446">Litiges liés aux produits ou aux prestations</Dossier>
+</FicheLiee><OuSAdresser ID="R31345" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge de la cohésion sociale et de la protection des populations (DDCSPP)</Titre>
+<PivotLocal>ddcspp</PivotLocal>
+</OuSAdresser>
+</ServiceComplementaire>

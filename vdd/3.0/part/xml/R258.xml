@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R258" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Saisine du médiateur des communications électroniques</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Saisine du médiateur des communications électroniques - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R258</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20278">Communications électroniques (téléphone, internet, télévision)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R258" type="Formulaire">Saisine du médiateur des communications électroniques</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Formulaire destiné au client qui rencontre un problème avec son opérateur de téléphonie ou son fournisseur d'accès à internet.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le formulaire doit être utilisé lorsque la réclamation aux services clients et consommateurs n'a pas abouti. </Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="http://www.mediateur-telecom.fr/ressources/media/files/Formulaire%20saisine%20web%2009%2001%2014.pdf" format="application/pdf" poids="94.5 KB">
+<Source>Association de médiation des communications électroniques</Source>
+</LienWeb>
+<FicheLiee ID="F14373" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Médiateur des communications électroniques : comment y recourir ?</Titre>
+<Dossier ID="N20278">Communications électroniques (téléphone, internet, télévision)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31111" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment se décompte un délai dans une procédure civile ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice, Vente - Commerce</dc:subject>
+<dc:description>Dans certaines procédures en matière civile, des formalités doivent être réalisées avant ou après l'expiration d'un certain délai.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-03-04</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31111</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135898&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17163</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N17163">Litiges liés au paiement</Niveau>
+<Niveau ID="F31111" type="Fiche Question-réponse">Comment se décompte un délai dans une procédure civile ?</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+</Theme>
+<SousThemePere ID="N31445">Litiges commerciaux</SousThemePere><DossierPere ID="N17163">
+<Titre>Litiges liés au paiement</Titre>
+<Fiche ID="F1746">Injonction de payer - recouvrement de créances</Fiche>
+<Fiche ID="F32084">Procédure européenne de règlement des petits litiges transfrontaliers</Fiche>
+<Fiche ID="F32082">Injonction de payer européenne</Fiche>
+<Fiche ID="F32117">Titre exécutoire européen (TEE)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Dans certaines procédures en matière civile, des formalités doivent être réalisées avant ou après l'expiration d'un certain délai. Le décompte de ce délai diffère légèrement suivant que le délai est exprimé en jours, en mois ou en années.</Paragraphe>
+<Paragraphe>Le jour de départ est celui de l'acte, de l'événement, de la décision ou de la <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> qui fait courir le délai au regard de la loi. Toutefois, lorsque le délai est exprimé en jours, le décompte commence <MiseEnEvidence>le jour suivant</MiseEnEvidence> le jour de l'acte, de l'événement, de la décision ou de la notification.</Paragraphe>
+<Paragraphe>Le dernier jour compte entièrement dans le délai (jusqu'à minuit,  c'est-à-dire jusqu'à 23h59 inclus).</Paragraphe>
+<Paragraphe>Si le délai obtenu après calcul se termine un samedi, un dimanche ou un jour férié, le délai est prolongé jusqu'au 1<Exposant>er</Exposant> jour ouvrable suivant. C'est-à-dire que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si le délai se termine  un samedi ou un dimanche, le dernier jour sera le lundi suivant. Par exemple, si le délai de 3 jours commence le jeudi et finit en principe le samedi, il est prolongé jusqu'au lundi.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si le délai se termine un <LienInterne LienPublication="F24496" type="Fiche d'information" audience="Particuliers">jour férié</LienInterne>, le dernier jour sera le lendemain. Si le lendemain de ce jour férié est un samedi ou un dimanche, le délai se termine le lundi qui suit. Par exemple, si le délai de 3 jours finit le vendredi 1er janvier, il est prolongé jusqu'au lundi 4 janvier.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si après report, le dernier jour obtenu est encore un jour férié, un samedi ou un dimanche, il est à nouveau reporté, selon les mêmes principes.</Paragraphe>
+</ANoter><Paragraphe>Le décompte de ce délai diffère légèrement suivant que le délai est exprimé en jours, en mois ou en années.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Délai exprimé en jours</Paragraphe>
+</Titre><Paragraphe> Exemples pour un délai de 10 jours proche de Noël en 2014. Le jour de départ ne compte pas.</Paragraphe>
+<Tableau>
+<Titre>Exemples pour un délai de 10 jours proche de Noël en 2014</Titre>
+<Colonne largeur="29" type="normal"/>
+<Colonne largeur="39" type="normal"/>
+<Colonne largeur="39" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Jour de départ</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dernier jour théorique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Véritable dernier jour</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jeudi 11 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dimanche 21 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lundi 22 décembre 2014</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Vendredi 12 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> Lundi 22 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lundi 22 décembre 2014</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Lundi 15 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jeudi 25 décembre  2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Vendredi 26 décembre 2014 (ou lundi 29 décembre en Alsace-Moselle)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Mardi 16 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Vendredi 26 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Vendredi 26 décembre 2014 (ou lundi 29 décembre en Alsace-Moselle)</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En mois</Paragraphe>
+</Titre><Paragraphe>Le délai se compte si possible de date à date : il s'achève théoriquement le même jour que celui du départ mais d'un autre mois (le dernier du délai). </Paragraphe>
+<Paragraphe>Si le jour ainsi calculé de fin du délai n'existe pas (30 février, 31 juin, etc.), il est réduit au dernier jour réel du mois concerné. </Paragraphe>
+<Tableau>
+<Titre>Exemples pour un délai de 4 mois commençant fin 2014 - début 2015</Titre>
+<Colonne largeur="28" type="normal"/>
+<Colonne largeur="38" type="normal"/>
+<Colonne largeur="38" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Jour de départ</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dernier jour théorique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Véritable dernier jour</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Mercredi 31 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jour inexistant (31 avril 2015)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jeudi 30 avril 2015</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jeudi 8 janvier 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Vendredi 8 mai 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lundi 11 mai 2015</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Lundi 12 janvier  2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mardi 12 mai 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mardi 12 mai 2015</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe> Vendredi 23 janvier 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Samedi 23 mai 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mardi 26 mai 2015 (le lundi 25 mai étant le lundi de pentecôte)</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si le délai comporte des mois et des jours, il se décompte comme délai exprimé en mois, auquel on ajoute un délai exprimé en jours.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En années</Paragraphe>
+</Titre><Paragraphe>Le délai se compte de date à date : il s'achève théoriquement le même jour et le même mois que celui du départ mais d'une autre année (la dernière du délai)</Paragraphe>
+<Paragraphe>Si le dernier jour est un 29 février mais lors d'une année non bissextile, le dernier jour est le 28 février.</Paragraphe>
+<Tableau>
+<Titre>Exemples pour un délai de 1 an commençant début 2015 ou 2016</Titre>
+<Colonne largeur="29" type="normal"/>
+<Colonne largeur="39" type="normal"/>
+<Colonne largeur="39" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Jour de départ</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dernier jour théorique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Véritable dernier jour</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Lundi 16 février 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mardi 16 février 2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mardi 16 février 2016</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Vendredi 20 février 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Samedi 20 février 2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lundi 22 février 2016</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Lundi 29 février 2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jour inexistant (29 février 2017)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mardi 28 février 2017</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135898&amp;cidTexte=LEGITEXT000006070716" ID="R20291">
+<Titre>Code de procédure civile : articles 640 à 647-1</Titre>
+<Complement>Calcul du délai</Complement>
+</Reference>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

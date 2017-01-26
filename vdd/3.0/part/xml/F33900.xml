@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33900" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Une personne protégée peut-elle subir un acte médical sans son accord ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Tout dépend de la faculté de discernement de la personne protégée (curatelle ou tutelle).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-23</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33900</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165510&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196866&amp;cidTexte=LEGITEXT000006072665, https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000006685776&amp;dateTexte=&amp;categorieLien=cid</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N155</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N155">Protection juridique (tutelle, curatelle...)</Niveau>
+<Niveau ID="F33900" type="Fiche Question-réponse">Une personne protégée peut-elle subir un acte médical sans son accord ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20091">Protection des personnes</SousThemePere><DossierPere ID="N155">
+<Titre>Protection juridique (tutelle, curatelle...)</Titre>
+<Fiche ID="F2075">Sauvegarde de justice</Fiche>
+<Fiche ID="F33367">Habilitation familiale</Fiche>
+<Fiche ID="F2094">Curatelle</Fiche>
+<Fiche ID="F2120">Tutelle d'une personne majeure</Fiche>
+<Fiche ID="F1336">Mesure d'accompagnement social personnalisé (Masp) ou judiciaire (Maj)</Fiche>
+<Fiche ID="F16670">Mandat de protection future</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Tout dépend de la faculté de discernement de la personne protégée (curatelle ou tutelle). </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Si son état le permet,  elle pourra prendre seule les décisions relatives à sa personne. </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si l'état de la personne protégée ne le permet pas, il appartient soit au <LienIntra LienID="R1118" type="Définition de glossaire">juge des tutelles</LienIntra>, soit au conseil de famille, s'il a été constitué, de prévoir qu'elle bénéficiera de l'assistance d'un <LienInterne LienPublication="F2094" type="Fiche d'information" audience="Particuliers">curateur</LienInterne> ou d'un <LienInterne LienPublication="F2120" type="Fiche d'information" audience="Particuliers">tuteur</LienInterne> pour l'ensemble des actes relatifs à sa personne ou à certains actes. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Sauf urgence, la personne chargée de la protection du majeur (curateur ou tuteur) ne peut pas, sans l'autorisation du juge des tutelles (ou du conseil de famille s'il a été constitué), prendre une décision ayant pour effet de porter gravement atteinte à l'intégrité corporelle de la personne protégée ou à l'intimité de sa vie privée. Il s'agit, par exemple, des opérations chirurgicales. </Paragraphe>
+<Paragraphe>De plus, en fonction de sa faculté de discernement, le majeur sous tutelle a le droit de recevoir une information et de participer à la prise de décision le concernant.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F12210" audience="Particuliers">
+<Titre>Dossier médical</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F16033" audience="Particuliers">
+<Titre>Dossier pharmaceutique</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165510&amp;cidTexte=LEGITEXT000006070721" ID="R45321">
+<Titre>Code civil : article 457-1 à 463</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196866&amp;cidTexte=LEGITEXT000006072665" ID="R12197">
+<Titre>Code de la santé publique : articles R1111-1 à R1111-8</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072665&amp;idArticle=LEGIARTI000006685776&amp;dateTexte=&amp;categorieLien=cid" ID="R10843">
+<Titre>Code de la santé publique : article L1111-7</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R45320" URL="https://www.conseil-national.medecin.fr/le-majeur-protege-1223" audience="Particuliers">
+<Titre>Informations médicales relatives à la personne sous curatelle ou tutelle</Titre>
+<Source ID="R38158">Ordre national des médecins</Source>
+</PourEnSavoirPlus>
+<Definition ID="R1118">
+<Titre>Juge des tutelles</Titre>
+<Texte>
+				<Paragraphe>Magistrat chargé d'organiser et de faire fonctionner la tutelle des mineurs (au tribunal de grande instance) et des majeurs (au tribunal d'instance)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F33899" audience="Particuliers">Qui peut accéder aux informations médicales de la personne protégée ?</QuestionReponse>
+<QuestionReponse ID="F3165" audience="Particuliers">Quel est le coût d'une tutelle ou d'une curatelle ?</QuestionReponse>
+<QuestionReponse ID="F10507" audience="Particuliers">Comment les proches peuvent-ils contrôler l'action du tuteur ou du curateur ?</QuestionReponse>
+<QuestionReponse ID="F10424" audience="Particuliers">Tutelle ou curatelle : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F21667" audience="Particuliers">Demande de tutelle, curatelle... : comment obtenir le certificat médical ?</QuestionReponse>
+<QuestionReponse ID="F23595" audience="Particuliers">Qui peut demander l'ouverture d'une sauvegarde de justice, curatelle ou tutelle?</QuestionReponse>
+<QuestionReponse ID="F23693" audience="Particuliers">Comment se déroule la procédure de demande de protection d'un majeur ?</QuestionReponse>
+<QuestionReponse ID="F33815" audience="Particuliers">Comment établir l'inventaire des biens d'un majeur protégé ?</QuestionReponse>
+<QuestionReponse ID="F33832" audience="Particuliers">Comment est vérifié le compte de gestion de curatelle ou de tutelle ?</QuestionReponse>
+</Publication>

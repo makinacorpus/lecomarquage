@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R15689" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander les conditions d'assurance pour assurer son nouveau logement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Permet de demander à son assureur, lors d’un déménagement, quelles sont les conditions pour assurer son nouveau logement</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-05</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R15689</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N44">Assurance habitation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R15689" type="Modèle de document">Demander les conditions d'assurance pour assurer son nouveau logement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de demander à son assureur, lors d’un déménagement, quelles sont les conditions pour assurer son nouveau logement</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.conso.net/content/vous-d%C3%A9m%C3%A9nagez-vous-demandez-quelles-sont-les-conditions-pour-assurer-votre-nouveau-logement">
+<Source>Institut national de la consommation (INC)</Source>
+</LienWeb>
+<FicheLiee ID="F10827" audience="Particuliers" type="Fiche d'information">
+<Titre>Assurance du locataire : en cas de déménagement</Titre>
+<Dossier ID="N44">Assurance habitation</Dossier>
+</FicheLiee>
+<Dossier ID="N44">
+<Titre>Assurance habitation</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

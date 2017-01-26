@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31241" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas de vol ou de perte de sa carte bancaire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Dès le vol ou la perte de votre carte bancaire, vous devez immédiatement faire opposition sur carte bancaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31241</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861605&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861595&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861593&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F31241" type="Fiche Question-réponse">Que faire en cas de vol ou de perte de sa carte bancaire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Dès le vol ou la perte de votre carte bancaire, vous devez immédiatement  faire opposition sur carte bancaire. En cas de vol, vous devez également faire une déclaration de vol auprès des services de police. </Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>En cas de perte</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Opposition</Paragraphe>
+</Titre><Paragraphe>Dès la perte de votre carte bancaire, vous devez immédiatement <LienInterne LienPublication="F2428" type="Fiche d'information" audience="Particuliers"> faire  opposition</LienInterne> auprès de votre banque. Vous devez ensuite <LienInterne LienPublication="R18301" type="Modèle de document" audience="Particuliers">confirmer par écrit l'opposition</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande d'une nouvelle carte</Paragraphe>
+</Titre><Paragraphe>Pour obtenir une nouvelle carte, vous devez en <LienInterne LienPublication="F2420" type="Fiche d'information" audience="Particuliers">faire la demande</LienInterne>. La carte aura un nouveau numéro et un nouveau code secret.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Remboursement des sommes perdues</Paragraphe>
+</Titre><Paragraphe>Suite à l'opposition, plus aucune dépense ne peut être faite avec votre carte.</Paragraphe>
+<Paragraphe>Si une personne trouve votre carte et effectue des dépenses avant l'opposition, le niveau de remboursement dépend des sommes volées et de l'utilisation du code secret.</Paragraphe>
+<Paragraphe>Aucun remboursement ne sera fait en cas de faute de votre part : code inscrit au dos de la carte par exemple.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le code n'a pas été utilisé</Paragraphe>
+</Titre>
+												<Paragraphe>Le remboursement est intégral quelques soient les sommes dépensées.</Paragraphe>
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le code a été utilisé</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Jusqu'à 150 € dépensés</Paragraphe>
+</Titre>
+														<Paragraphe>Aucun remboursement </Paragraphe>
+													
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Plus de 150 € dépensés</Paragraphe>
+</Titre>
+														<Paragraphe>Remboursement partiel.<Valeur> 150 €</Valeur> sont à votre charge, le reste est remboursé. Si <Valeur>200 €</Valeur> ont été volés, votre banque vous rembourse <Valeur>50 €</Valeur>.</Paragraphe>
+													
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les banques peuvent proposer des assurances permettent un remboursement plus important des sommes perdues avant opposition.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>En cas de vol</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Immédiatement</Paragraphe>
+</Titre><Paragraphe>Dès le <LienInterne LienPublication="F1523" type="Fiche d'information" audience="Particuliers">vol</LienInterne> de votre carte bancaire, vous devez immédiatement <LienInterne LienPublication="F2428" type="Fiche d'information" audience="Particuliers"> faire  opposition</LienInterne> auprès de votre banque. Vous devez ensuite <LienInterne LienPublication="R18301" type="Modèle de document" audience="Particuliers">confirmer par écrit l'opposition</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dans les jours qui suivent</Paragraphe>
+</Titre><Paragraphe>Une fois l'opposition enregistrée, en cas de <LienInterne LienPublication="F1523" type="Fiche d'information" audience="Particuliers">vol</LienInterne> de votre carte, vous devez <LienInterne LienPublication="F1435" type="Fiche d'information" audience="Particuliers">porter plainte</LienInterne> auprès des services de police.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la carte bancaire fait exception au principe selon lequel il ne peut y avoir de vol entre époux ni entre un parent et un enfant.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande d'une nouvelle carte</Paragraphe>
+</Titre><Paragraphe>Pour avoir une nouvelle carte, vous devez en faire la demande. La carte aura un nouveau numéro et un nouveau code secret.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Remboursement des sommes perdues</Paragraphe>
+</Titre><Paragraphe>Suite à l'opposition, plus aucune dépense ne peut être faite avec votre carte.</Paragraphe>
+<Paragraphe>Si une personne trouve votre carte et effectue des dépenses avant l'opposition, le niveau de remboursement dépend des sommes volées et de l'utilisation du code secret.</Paragraphe>
+<Paragraphe>Aucun remboursement ne sera fait en cas de faute de votre part : code inscrit au dos de la carte par exemple.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le code n'a pas été utilisé</Paragraphe>
+</Titre>
+												<Paragraphe>Le remboursement est intégral quelques soient les sommes dépensées.</Paragraphe>
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le code a été utilisé</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Jusqu'à 150 € dépensés</Paragraphe>
+</Titre>
+														<Paragraphe>Aucun remboursement </Paragraphe>
+													
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Plus de 150 € dépensés</Paragraphe>
+</Titre>
+														<Paragraphe>Remboursement partiel.<Valeur> 150 €</Valeur> sont à votre charge, le reste est remboursé. Si <Valeur>200 €</Valeur> ont été volés, votre banque vous rembourse <Valeur>50 €</Valeur>.</Paragraphe>
+													
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les banques peuvent proposer des assurances permettent un remboursement plus important des sommes perdues avant opposition.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R86" type="Centre de contact">
+<Titre>Serveur interbancaire d'opposition à carte bancaire</Titre>
+<Complement>Pour déclarer votre opposition</Complement><Texte>
+						
+								<Paragraphe>
+			Permet de faire immédiatement opposition à sa carte bancaire, notamment en cas de vol ou de perte
+		.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 892 705 705</MiseEnEvidence>
+      </Paragraphe>
+								<Paragraphe>Ouvert 7 jours/7 et 24h/24</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe +<MiseEnEvidence> service payant</MiseEnEvidence>, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger, composer le +33 442 605 303</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<Complement>Pour porter plainte en cas de vol de votre carte bancaire</Complement>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<Complement>Pour porter plainte en cas de vol de votre carte bancaire</Complement>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R16071" type="Centre de contact">
+<Titre>Votre banque</Titre>
+<Complement>Pour confirmer votre opposition et demander une nouvelle carte</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861605&amp;cidTexte=LEGITEXT000006072026" ID="R384">
+<Titre>Code monétaire et financier : articles L133-15 à L133-17</Titre>
+<Complement>Opposition</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861595&amp;cidTexte=LEGITEXT000006072026" ID="R378">
+<Titre>Code monétaire et financier : article L133-18</Titre>
+<Complement>Remboursement des sommes volées après opposition</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020861593&amp;cidTexte=LEGITEXT000006072026" ID="R369">
+<Titre>Code monétaire et financier : articles L133-19 à L133-20</Titre>
+<Complement>Remboursement des sommes volées avant opposition</Complement>
+</Reference>
+<ServiceEnLigne ID="R18301" URL="http://www.conso.net/content/votre-carte-bancaire-disparu-vous-faites-opposition-aupr%C3%A8s-de-votre-banque" type="Modèle de document">
+<Titre>Confirmer sa déclaration d'opposition téléphonique à sa carte bancaire</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+
+</Publication>

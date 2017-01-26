@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1181" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Calcul de l'impôt de solidarité sur la fortune (ISF)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Fiscalité</dc:subject>
+<dc:description>Permet de calculer l'impôt de solidarité sur la fortune (ISF) 2015.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-17</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1181</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20074">Impôt de solidarité sur la fortune (ISF)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1181" type="Simulateur">Calcul de l'impôt de solidarité sur la fortune (ISF)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de calculer l'impôt de solidarité sur la fortune (ISF) 2015.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/3983">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F32311" audience="Professionnels" type="Fiche d'information">
+<Titre>Biens professionnels exonérés d'ISF</Titre>
+<Dossier ID="N10812">Allégements fiscaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31444" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt de solidarité sur la fortune (ISF) : déclaration et paiement</Titre>
+<Dossier ID="N20074">Impôt de solidarité sur la fortune (ISF)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F138" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt de solidarité sur la fortune (ISF) : modalités de calcul</Titre>
+<Dossier ID="N20074">Impôt de solidarité sur la fortune (ISF)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F563" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt de solidarité sur la fortune (ISF) : personnes concernées</Titre>
+<Dossier ID="N20074">Impôt de solidarité sur la fortune (ISF)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F562" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Impôt sur la fortune (ISF) : à quelle date s'apprécie le patrimoine ?</Titre>
+<Dossier ID="N20074">Impôt de solidarité sur la fortune (ISF)</Dossier>
+</FicheLiee>
+<Dossier ID="N20074">
+<Titre>Impôt de solidarité sur la fortune (ISF)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

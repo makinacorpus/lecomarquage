@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2444" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Personne âgée : aide sociale à l'hébergement (ASH)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>L'ASH permet de prendre en charge tout ou partie des frais liés à l'hébergement d'une personne âgée en établissement ou chez un accueillant familial. Elle est versée par les services du département.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Caisse nationale de solidarité pour l'autonomie (CNSA)</dc:contributor>
+<dc:date>modified 2017-01-16</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2444</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157562&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157564&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006905607&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N333</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N333">Hébergement des personnes âgées</Niveau>
+<Niveau ID="F2444" type="Fiche d'information">Personne âgée : aide sociale à l'hébergement (ASH)</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20271">Hébergement</SousThemePere><DossierPere ID="N333">
+<Titre>Hébergement des personnes âgées</Titre>
+<Fiche ID="F33912">Hébergement temporaire</Fiche>
+<Fiche ID="F763">Établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Fiche>
+<Fiche ID="F2444">Aide sociale à l'hébergement (ASH)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'ASH permet de prendre en charge tout ou partie des frais liés à l'hébergement d'une personne âgée en établissement ou chez un accueillant familial. Elle est versée par les services du département.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Hébergement en établissement</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions d'attribution</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir bénéficier de l'ASH, il faut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir plus de 65 ans (ou plus de 60 ans si l'on est reconnu inapte au travail),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>résider en France de façon stable et régulière, c'est-à-dire de manière ininterrompue depuis plus de 3 mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> disposer d'un titre de séjour en cours de validité, si la personne âgée est étrangère, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avoir des ressources inférieures au montant des frais d'hébergement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et résider en établissement d'hébergement pour personnes âgées dépendantes (Éhpad), ou en unité de soins de longue durée (USLD), ou résidence autonomie (ex logement-foyer), habilité à recevoir des bénéficiaires de l'ASH. Cette information figure sur l'annuaire des établissements du portail pour les personnes âgées.</Paragraphe>
+</Item>
+</Liste><OuSAdresser ID="R1544" type="Local">
+<Titre>Annuaire des établissements pour personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire?service=hebergement" commentaireLien="Liste des établissements publics et privés (avec mention des établissements conventionnés à l'aide sociale à l'hébergement ou à l'aide personnalisée au logement)"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+
+<Paragraphe>Une personne qui a vécu au moins 5 ans dans un établissement sans y bénéficier de l'ASH, et qui en a besoin à un moment donné, peut bénéficier de l'ASH même si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> elle n'occupe pas une place habilitée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou que l'Éhpad n'est pas habilité à l'aide sociale.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les personnes handicapées vivant en Éhpad peuvent bénéficier du régime de l'ASH pour les personnes handicapées sous certaines conditions.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>La demande d'ASH doit être faite auprès de la mairie.</Paragraphe>
+<Paragraphe>Les dossiers de demande sont à disposition auprès de la mairie.</Paragraphe>
+<Paragraphe>La demande doit être déposée dans la commune du <LienIntra LienID="R39370" type="Définition de glossaire">domicile de secours</LienIntra>.</Paragraphe>
+<Paragraphe>Pour que la prise en charge des frais d'hébergement débute à partir de la date d'entrée dans l'établissement, la demande d'ASH doit être faite dans les 2 mois suivant cette date d'entrée. Il est donc conseillé de faire la demande d'ASH en même temps que les démarches d'admission en établissement.</Paragraphe>
+<Paragraphe>La mairie transmet la demande d'admission auprès des services du département. Les délais d'instruction des dossiers sont susceptibles d'être longs.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décision</Paragraphe>
+</Titre><Paragraphe>La décision d'attribution est <LienIntra LienID="R14732" type="Définition de glossaire">notifiée</LienIntra> à la personne âgée ou à son<LienIntra LienID="R10398" type="Définition de glossaire"> représentant légal</LienIntra>. En cas de refus, la personne dispose d'un délai de 2 mois à partir de la date de notification de la décision pour faire appel devant la Commission départementale d'aide sociale auprès des services du département.</Paragraphe><OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>L'ASH  prend en charge une partie ou la totalité des frais d'hébergement du résident.</Paragraphe>
+<Paragraphe>L'ASH peut aussi financer le <LienInterne LienPublication="F165" type="Fiche d'information" audience="Particuliers">ticket modérateur</LienInterne> acquitté par l'ensemble des résidents en Éhpad et en USLD, quel que soit leur degré de perte d'autonomie.</Paragraphe>
+<Paragraphe>Les services du département fixent le montant de l'ASH en fonction des ressources :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la personne âgée, y compris les biens immobiliers, à l'exception de la retraite combattant et des pensions attachées aux distinctions honorifiques (légion d'honneur),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la personne avec laquelle elle vit en couple,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de ses obligés alimentaires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La personne âgée bénéficiant de l'ASH doit reverser 90 % de ses revenus (allocation logement comprise) à l'établissement. Les 10 % restants sont laissés à sa disposition. Cette somme ne peut pas être inférieure à <Valeur>96 €</Valeur> par mois.</Paragraphe>
+<Paragraphe>Les services du département paient la partie non couverte par les revenus de la personne âgée directement à l'établissement.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Versement</Paragraphe>
+</Titre><Paragraphe>L'ASH est versée par les services du département. Chaque département a son propre règlement d'aide sociale. Les règles de versement sont donc différentes en fonction des départements. En général, les services du département paient la partie non couverte par les revenus du résident et récupèrent ensuite la participation des obligés alimentaires lorsqu'il y en a.</Paragraphe>
+<Paragraphe>En cas de baisse des ressources, soit du demandeur, soit de ses obligés alimentaires, une demande de révision peut être adressée au président des services du département.</Paragraphe><OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<Paragraphe>Les montants d'ASH versés par le conseil départemental sont récupérables du vivant et au décès de la personne bénéficiaire. Le conseil départemental peeut récupérer ces sommes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur la succession du bénéficiaire (sommes versées sur le patrimoine transmis par la personne décédée à ses héritiers),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si la situation financière du bénéficiaire s'améliore (en cas d'héritage, par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sur donation faite par le bénéficiaire dans les 10 ans ayant précédé la demande d'ASH ou après celle-ci.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Chez un accueillant familial</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions d'attribution</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir bénéficier de l'ASH, il faut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir plus de 65 ans (ou plus de 60 ans si l'on est reconnu inapte au travail),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>résider en France de façon stable et régulière, c'est-à-dire de manière ininterrompue depuis plus de 3 mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>disposer d'un titre de séjour en cours de validité, si la personne est étrangère,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avoir des ressources inférieures au montant des frais d'hébergement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et résider chez un <LienInterne LienPublication="N31172" type="Dossier" audience="Particuliers">accueillant familial</LienInterne> agréé par les services du département.  </Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>La demande d'ASH doit être faite auprès de la mairie.</Paragraphe>
+<Paragraphe>Les dossiers de demandes sont à disposition auprès de la mairie.</Paragraphe>
+<Paragraphe>La demande doit être déposée dans la commune du <LienIntra LienID="R39370" type="Définition de glossaire">domicile de secours</LienIntra>.</Paragraphe>
+<Paragraphe>Pour que la prise en charge des frais d'hébergement débute à partir de la date de signature du contrat d'accueil avec l'accueillant familial, la demande d'ASH doit être faite dans les 2 mois suivant cette date.</Paragraphe>
+<Paragraphe>La mairie transmet la demande d'admission aux services du département.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décision</Paragraphe>
+</Titre><Paragraphe>La décision d'attribution est <LienIntra LienID="R14732" type="Définition de glossaire">notifiée</LienIntra> à la personne âgée ou à son <LienIntra LienID="R10398" type="Définition de glossaire">représentant légal</LienIntra>. En cas de refus, la personne dispose d'un délai de 2 mois à partir de la date de notification de la décision pour faire appel devant la Commission départementale d'aide sociale auprès des services du département.</Paragraphe><OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>L'ASH prend en charge une partie des frais d'hébergement de la personne âgée. </Paragraphe>
+<Paragraphe>Les services du département fixent le montant de l'ASH en fonction des ressources :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la personne âgée, y compris les biens immobiliers,  à l'exception de la retraite combattant et des pensions attachées aux distinctions honorifiques (légion d'honneur),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la personne avec laquelle elle vit en couple,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de ses obligés alimentaires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ils déterminent le montant laissé à la disposition de la personne âgée qui doit inclure :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les sommes minimales laissées à la personne âgée, dont le montant ne peut être inférieur à  <Valeur>96 €</Valeur> par mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les cotisations sociales dues à l'Urssaf pour la rémunération de l'accueillant familial,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'assurance responsabilité civile que la personne âgée doit obligatoirement souscrire, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe> les frais d'habillement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la mutuelle.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Versement</Paragraphe>
+</Titre><Paragraphe>Les services du département versent l'ASH à la personne âgée ou à son  <LienIntra LienID="R10398" type="Définition de glossaire">représentant légal</LienIntra>.</Paragraphe>
+<Paragraphe>En cas de baisse des ressources, soit de la personne âgée, soit de ses obligés alimentaires, une demande de révision peut être adressée au président des services du département.</Paragraphe><OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<Paragraphe>Les montants d'ASH versés par le conseil départemental sont récupérables du vivant et au décès de la personne bénéficiaire. Le conseil départemental peur récupérer ces sommes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur la succession du bénéficiaire (sommes versées sur le patrimoine transmis par la personne décédée à ses héritiers),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si la situation financière du bénéficiaire s'améliore (en cas d'héritage, par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sur donation faite par le bénéficiaire dans les 10 ans ayant précédé la demande d'ASH ou après celle-ci.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Dossier ID="N333" audience="Particuliers">
+<Titre>Hébergement des personnes âgées</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R1544" type="Local">
+<Titre>Annuaire des établissements pour personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire?service=hebergement" commentaireLien="Liste des établissements publics et privés (avec mention des établissements conventionnés à l'aide sociale à l'hébergement ou à l'aide personnalisée au logement)"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157562&amp;cidTexte=LEGITEXT000006074069" ID="R13626">
+<Titre>Code de l'action sociale et des familles : articles L132-1 à L132-12</Titre>
+<Complement>Participation financière</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157564&amp;cidTexte=LEGITEXT000006074069" ID="R523">
+<Titre>Code de l'action sociale et des familles : articles L134-1 à L134-10</Titre>
+<Complement>Recours</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006905607&amp;cidTexte=LEGITEXT000006074069" ID="R34719">
+<Titre>Code de l'action sociale et des familles : article R231-6</Titre>
+<Complement>Participation financière et reste à vivre</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R46514" URL="http://www.pour-les-personnes-agees.gouv.fr/dossiers/droits-des-personnes-handicapees-vieillissantes" audience="Particuliers">
+<Titre>Droits des personnes handicapées vieillissantes</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41351" URL="http://www.pour-les-personnes-agees.gouv.fr" audience="Particuliers">
+<Titre>Portail d'information et d'orientation des personnes âgées et leurs proches</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10398">
+<Titre>Représentant légal</Titre>
+<Texte>
+				<Paragraphe>Personne désignée par la loi pour représenter et défendre les intérêts d'une autre personne qu'elle soit physique (par exemple, le père ou la mère d'un enfant  mineur) ou morale (par exemple, une société).</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R39370">
+<Titre>Domicile de secours</Titre>
+<Texte>
+				<Paragraphe>Domicile où vous avez résidé au moins 3 mois avant  d'aller vivre en établissement ou en accueil familial. Cela ne peut pas être une structure médico-sociale ou hospitalière. </Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F255" audience="Particuliers">Quels types d'établissements hébergent des personnes âgées ?</QuestionReponse>
+<QuestionReponse ID="F261" audience="Particuliers">Personnes âgées : quelles sont les conditions d'hébergement en établissement ?</QuestionReponse>
+
+</Publication>

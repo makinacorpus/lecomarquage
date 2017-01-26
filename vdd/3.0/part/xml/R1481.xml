@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1481" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Particulier employeur : gestion des recrutements et des attestations Pôle emploi</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Permet à un particulier employeur depuis son espace personnel et sécurisé sur Pôle emploi de rechercher des candidatures à un emploi à domicile et de créer et obtenir une attestation à remettre à son employé en fin de contrat.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-07</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1481</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1481" type="Téléservice">Particulier employeur : gestion des recrutements et des attestations Pôle emploi</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet à un particulier employeur depuis son espace personnel et sécurisé sur Pôle emploi de rechercher des candidatures à un emploi à domicile  et de créer et obtenir une attestation à remettre à son employé en fin de contrat.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://particulieremployeur.pole-emploi.fr/particulieremployeur/authentification/authentification">
+<Source>Pôle emploi</Source>
+</LienWeb>
+<FicheLiee ID="F16841" audience="Particuliers" type="Fiche d'information">
+<Titre>Contrat de travail et formalités d'embauche de l'assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33164" audience="Particuliers" type="Fiche d'information">
+<Titre>Démission d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32431" audience="Particuliers" type="Fiche d'information">
+<Titre>Démission du salarié à domicile employé par un particulier</Titre>
+<Dossier ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1745" audience="Particuliers" type="Fiche d'information">
+<Titre>Licenciement du salarié à domicile employé par un particulier</Titre>
+<Dossier ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16842" audience="Particuliers" type="Fiche d'information">
+<Titre>Rupture du contrat de travail d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R24078" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Contester auprès d'une société de dépannage l'absence de remise de devis</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Permet de contester auprès de la société de dépannage intervenue chez vous l'absence de remise d'un devis (obligatoire sur demande ou si le montant estimé de l’intervention dépasse 150 euros TTC) et le montant de la facture si vous la jugez excessive</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-13</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R24078</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N24036">Prestations de service</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R24078" type="Modèle de document">Contester auprès d'une société de dépannage l'absence de remise de devis</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de contester auprès de la société de dépannage intervenue chez vous l'absence de remise d'un devis (obligatoire sur demande ou si le montant estimé de l’intervention dépasse 150 euros TTC) et le montant de la facture si vous la jugez excessive</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.conso.net/content/vous-contestez-l%E2%80%99absence-de-remise-d%E2%80%99un-devis-%C3%A0-l%E2%80%99occasion-d%E2%80%99un-d%C3%A9pannage-%C3%A0-domicile">
+<Source>Institut national de la consommation (INC)</Source>
+</LienWeb>
+<FicheLiee ID="F24046" audience="Particuliers" type="Fiche avec liens externes">
+<Titre>Travaux et dépannage à domicile</Titre>
+<Dossier ID="N24036">Prestations de service</Dossier>
+</FicheLiee>
+<Dossier ID="N24036">
+<Titre>Prestations de service</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

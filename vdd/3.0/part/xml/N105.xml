@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N105" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Entrée d'un étranger en France</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Entrée d'un étranger en France : Européen, Étranger d'un autre pays</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-09</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N105</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19804</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étranger en France, Européen en France</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N105" type="Dossier">Entrée d'un étranger en France</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere>
+<SousDossier ID="N105-1">
+<Titre>Européen</Titre><Fiche ID="F13512">Entrée pour un court séjour</Fiche>
+<Fiche ID="F2651">Séjour de plus de 3 mois en tant qu'actif</Fiche>
+<Fiche ID="F12017">Séjour de plus de 3 mois en tant qu'inactif</Fiche>
+<Fiche ID="F21841">Séjour de plus de 3 mois d'un étudiant</Fiche>
+<Fiche ID="F12136">Demandeur d'emploi</Fiche>
+<Fiche ID="F13517">Refus d'entrée et expulsion</Fiche>
+</SousDossier>
+<SousDossier ID="N105-2">
+<Titre>Étranger d'un autre pays</Titre><Fiche ID="F2191">Attestation d'accueil</Fiche>
+<Fiche ID="F16146">Visa de court séjour</Fiche>
+<Fiche ID="F16162">Visa de long séjour</Fiche>
+<Fiche ID="F2190">Refus d'entrée en France</Fiche>
+<Fiche ID="F11144">Zone d'attente</Fiche>
+</SousDossier><ServiceEnLigne ID="R1475" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14571.do" format="application/pdf" poids="248.3 KB" numerocerfa="14571*05" type="Formulaire">
+<Titre>Demande de visa pour un long séjour en France</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1476" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14076.do" format="application/pdf" poids="121.6 KB" numerocerfa="14076*02" type="Formulaire">
+<Titre>Demande de visa Schengen (visa de court séjour)</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10751" URL="http://www.interieur.gouv.fr/content/download/32947/245757/file/cerfa-10798-03.pdf" format="application/octet-stream" poids="532.1 KB" numerocerfa="10798*03" type="Formulaire">
+<Titre>Demande d'attestation d'accueil</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2816" URL="http://www.diplomatie.gouv.fr/fr/venir-en-france-22365/formalites-d-entree-en-france/" audience="Particuliers">
+<Titre>Formalités d'entrée en France</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1681" URL="http://www.diplomatie.gouv.fr/fr/navigation/courrier/article/visas#sommaire_9" audience="Particuliers">
+<Titre>Comment constituer son dossier de demande de visa ?</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2822" URL="http://europa.eu/europedirect/index_fr.htm" audience="Particuliers">
+<Titre>Europe direct : vous avez des questions sur l'UE ?</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41027" URL="http://ec.europa.eu/solvit/site/about/index_fr.htm" audience="Particuliers">
+<Titre>SOLVIT, le réseau de résolution en ligne des problèmes en Europe</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2774" URL="http://www.cleiss.fr/docs/textes/rgt_index.html" audience="Particuliers">
+<Titre>Règlements communautaires en matière de sécurité sociale</Titre>
+<Source ID="R30788">Centre des liaisons européennes et internationales de Sécurité sociale (Cleiss)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2672" audience="Particuliers">Étranger en transit : quel visa demander ?</QuestionReponse>
+<QuestionReponse ID="F32514" audience="Particuliers">Un étranger peut-il être interdit d'entrée en France ?</QuestionReponse>
+<QuestionReponse ID="F21920" audience="Particuliers">Un enfant étranger a-t-il besoin d'un visa pour entrer en France ?</QuestionReponse>
+<QuestionReponse ID="F18141" audience="Particuliers">Combien coûte un visa pour entrer en France ?</QuestionReponse>
+<QuestionReponse ID="F20542" audience="Particuliers">Un étranger doit-il préparer son intégration avant d'entrer en France ?</QuestionReponse>
+<QuestionReponse ID="F16189" audience="Particuliers">Qu'est-ce que le visa de court séjour "étudiant concours" ?</QuestionReponse>
+<QuestionReponse ID="F21921" audience="Particuliers">Un étranger peut-il séjourner en France sans visa ?</QuestionReponse>
+<QuestionReponse ID="F15371" audience="Particuliers">L'enfant d'un ancien combattant de l'armée française a-t-il des droits ?</QuestionReponse>
+<QuestionReponse ID="F12189" audience="Particuliers">Comment revenir en France après être sorti de l'espace Schengen ?</QuestionReponse>
+<QuestionReponse ID="F10610" audience="Particuliers">Voyage en outre-mer : de quel visa a besoin un étranger ?</QuestionReponse>
+<QuestionReponse ID="F1765" audience="Particuliers">Quelles sont les conditions d'entrée et de circulation dans l'espace Schengen ?</QuestionReponse>
+<QuestionReponse ID="F13519" audience="Particuliers">Un étudiant européen peut-il travailler en France ?</QuestionReponse>
+<QuestionReponse ID="F12219" audience="Particuliers">Un Européen peut-il travailler dans la fonction publique française ?</QuestionReponse>
+<QuestionReponse ID="F3141" audience="Particuliers">Peut-on exercer une profession paramédicale en France avec un diplôme étranger ?</QuestionReponse>
+
+</Publication>

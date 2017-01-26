@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32389" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un professionnel qui exerce à domicile ou à l'extérieur est-il redevable de la CFE ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Un professionnel qui exerce à domicile ou à l'extérieur est-il redevable de la CFE ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32389</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179811&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022887949&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/819-PGP.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13443</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13443">Contribution économique territoriale (CET)</Niveau>
+<Niveau ID="F32389" type="Fiche Question-réponse">Un professionnel qui exerce à domicile ou à l'extérieur est-il redevable de la CFE ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N22249">Impôts locaux</SousThemePere><DossierPere ID="N13443">
+<Titre>Contribution économique territoriale (CET)</Titre>
+<Fiche ID="F23546">Cotisation sur la valeur ajoutée des entreprises (CVAE)</Fiche>
+<Fiche ID="F23547">Cotisation foncière des entreprises (CFE)</Fiche>
+<Fiche ID="F23548">Plafonnement de la CET en fonction de la valeur ajoutée</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>La cotisation foncière des entreprises (CFE) est due par les entreprises ou les personnes qui exercent de manière habituelle une activité professionnelle non salariée, quel que soit leur statut juridique, leur activité ou leur régime d'imposition. </Paragraphe>
+<Paragraphe>Un entrepreneur (entrepreneur individuel, artisan, auto-entrepreneur...) exerçant son activité à domicile, ou le dirigeant d'une société domiciliée à sa résidence principale, reste redevable de la CFE, même si la taxe foncière est appliquée au domicile personnel. </Paragraphe>
+<Paragraphe>Un professionnel domicilié fiscalement au lieu de son habitation, même s'il n'y exerce pas son activité professionnelle (s'il exerce hors de son domicile ou au domicile de ses clients par exemple), est redevable de la cotisation minimum de ce lieu. S'il s'agit  d'une simple domiciliation, sans locaux entièrement dédiés à l'activité professionnelle, la CFE est payée sur la base d'une <LienInterne LienPublication="F23547" type="Fiche d'information" audience="Professionnels">cotisation forfaitaire minimale</LienInterne>.</Paragraphe>
+<Paragraphe>Si le montant du chiffre d'affaires annuel de l'auto-entrepreneur ne dépasse pas <Valeur>10 000 €</Valeur>, la CFE due est plafonnée à <Valeur>500 €</Valeur>.</Paragraphe>
+<Paragraphe>Le fait que l'activité soit effectivement exercée hors du domicile du professionnel n'a pas d'incidence, c'est la domiciliation de l'entreprise à son adresse personnelle qui est déterminante.</Paragraphe>
+<Paragraphe>Il existe cependant des <LienInterne LienPublication="F31913" type="Fiche Question-réponse" audience="Professionnels">exonérations permanentes</LienInterne> ou temporaires, notamment pour les <LienInterne LienPublication="F23999" type="Fiche Question-réponse" audience="Professionnels">nouvelles entreprises lors de l'année de création</LienInterne>.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les locaux à usage professionnel soumis à la CFE sont exonérés de la <LienInterne LienPublication="F24658" type="Fiche Question-réponse" audience="Professionnels">taxe d'habitation</LienInterne> dans certaines conditions.</Paragraphe>
+</ASavoir>
+</Texte><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179811&amp;cidTexte=LEGITEXT000006069577" ID="R35416">
+<Titre>Code général des impôts : articles 1447 à 1478</Titre>
+<Complement>Base d'imposition, exonérations, réductions</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022887949&amp;cidTexte=LEGITEXT000006069577" ID="R35415">
+<Titre>Code général des impôts : article 1647 D</Titre>
+<Complement>Cotisation minimale</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/819-PGP.html" ID="R23559">
+<Titre>Bofip-Impôts n°BOI-IF-CFE sur la cotisation foncière des entreprises (CFE)</Titre>
+</Reference>
+<QuestionReponse ID="F23999" audience="Professionnels">À partir de quand un auto-entrepreneur est-il soumis à la CFE ?</QuestionReponse>
+</Publication>

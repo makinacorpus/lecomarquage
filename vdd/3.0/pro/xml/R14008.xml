@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14008" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Consultation de brevets et titres de navigation maritime (STCW 95)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Consultation de brevets et titres de navigation maritime (STCW 95) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-20</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14008</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N18569">Aviation et transport maritime</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14008" type="Téléservice">Consultation de brevets et titres de navigation maritime (STCW 95)</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Donne accès à la base de gestion des titres de la marine marchande (recherche par numéro du titre et par nom du titulaire).</Paragraphe>
+<Paragraphe>Permet de vérifier l'authenticité d'un titre STCW délivré par la France, et leur conformité avec la convention internationale, STCW (Convention on Standards of Training, Certification and Watchkeeping for Seafarers).</Paragraphe>
+<Paragraphe>Consultation des titres en français et en anglais.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.developpement-durable.gouv.fr/spip.php?page=article&amp;id_article=4150">
+<Source>Ministère en charge des transports</Source>
+</LienWeb>
+<FicheLiee ID="F24503" audience="Professionnels" type="Fiche d'information">
+<Titre>Immatriculation des navires de commerce et de plaisance professionnelle</Titre>
+<Dossier ID="N18569">Aviation et transport maritime</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

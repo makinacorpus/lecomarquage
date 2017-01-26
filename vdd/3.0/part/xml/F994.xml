@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F994" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>RSA ou prime d'activité : à quoi correspond la "résidence stable et effective" en France ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Pour percevoir le RSA ou la prime d'activité, vous devez résider en France de manière stable et effective, c'est-à-dire y vivre la plus grande partie de l'année.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-30</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F994</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000020526206&amp;idSectionTA=LEGISCTA000020526213&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N19775">Revenu de solidarité active (RSA)</Niveau>
+<Niveau ID="F994" type="Fiche Question-réponse">RSA ou prime d'activité : à quoi correspond la "résidence stable et effective" en France ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N19775">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Fiche ID="F19778">RSA - Demandeur de 25 ans ou plus</Fiche>
+<Fiche ID="F15553">RSA parent isolé</Fiche>
+<Fiche ID="F286">RSA jeune actif</Fiche>
+<Fiche ID="F33692">RSA jeunes parents</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Pour percevoir le  <LienInterne LienPublication="R24554" type="Sigle">RSA</LienInterne> ou la prime d'activité,
+      vous devez résider en France de manière stable et effective, c'est-à-dire y vivre la plus grande partie de l'année.
+    
+		
+			</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>En cas de séjour(s) hors de France, la durée du ou des séjours ne doit pas dépasser 3 mois par an ou de date à date.
+		
+			En cas de séjour(s) de plus de 3 mois, le RSA ou la prime d'activité n'est versé que pour les seuls mois complets de présence en France.</Paragraphe>
+<Paragraphe>La notion de <Expression>résidence stable et effective</Expression> ne doit pas être confondue avec celle de domicile fixe / sans domicile fixe.
+		
+			
+      Vous pouvez prétendre au RSA ou à la prime d'activité si vous êtes sans domicile fixe si vous vivez effectivement en France. Vous devez pour cela vous <LienInterne LienPublication="F17317" type="Fiche Question-réponse" audience="Particuliers">faire domicilier</LienInterne> auprès d'un <LienInterne LienPublication="R24608" type="Sigle">CCAS</LienInterne> ou d'un organisme agréé.</Paragraphe>
+
+</Texte><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<Complement>Pour s'informer sur le RSA</Complement>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000020526206&amp;idSectionTA=LEGISCTA000020526213&amp;cidTexte=LEGITEXT000006074069" ID="R34093">
+<Titre>Code de l'action sociale et des familles : article R262-5</Titre>
+<Complement>Condition de résidence en France</Complement>
+</Reference>
+<ServiceEnLigne ID="R558" URL="http://www.caf.fr/aides-et-services/les-services-en-ligne/estimer-vos-droits" type="Simulateur">
+<Titre>Simulateur en ligne Caf : pour savoir si vous avez droit au RSA et estimer son montant</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</ServiceEnLigne>
+<Abreviation ID="R24608" type="Sigle">
+<Titre>CCAS</Titre>
+<Texte>
+<Paragraphe>Centre communal d'action sociale </Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24554" type="Sigle">
+<Titre>RSA</Titre>
+<Texte>
+<Paragraphe>Revenu de solidarité active</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F17317" audience="Particuliers">Sans domicile stable ou fixe (SDF) : comment obtenir une domiciliation ?</QuestionReponse>
+</Publication>

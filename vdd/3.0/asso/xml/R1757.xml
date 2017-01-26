@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1757" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Création d'une association (e-création)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association, Associations spécifiques et fondations</dc:subject>
+<dc:description>Service accessible avec un compte service-public.fr</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-14</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1757</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1757" type="Téléservice">Création d'une association (e-création)</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N31406">
+<Titre>Associations spécifiques et fondations</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Service accessible avec un compte service-public.fr</Paragraphe>
+</Texte>
+</Introduction>
+<Texte>
+				<Paragraphe> </Paragraphe>
+			
+<Attention>
+<Titre>Attention</Titre><Paragraphe>ne concerne pas l'Alsace-Moselle.</Paragraphe>
+</Attention><Paragraphe>Permet de : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déclarer la création de votre association ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de demander la publication  au Journal officiel des associations et fondations d'entreprise (JOAFE) sauf si le siège social de l'association est situé en Nouvelle-Calédonie, en Polynésie française ou à Wallis et Futuna.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Munissez-vous des documents suivants, au format numérique (pdf, 700Ko maximum par document) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>procès-verbal de l'assemblée constitutive ou son extrait daté et signé, portant le nom et le prénom du signataire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>statuts de l'association datés et signés par au moins 2 personnes mentionnées sur la liste des dirigeants (bureau ou conseil d'administration), portant leur nom, prénom, et fonction au sein de l'association,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>mandat (le cas échéant) portant la signature, le nom, le prénom et la fonction au sein de l'association de l'une des personnes chargées de l'administration (bureau ou conseil d'administration).</Paragraphe>
+</Item>
+</Liste>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>aucune date de naissance ne doit figurer sur les documents joints (statuts, procès-verbal, mandat) sous peine de rejet de la déclaration.</Paragraphe>
+</ASavoir>
+</Texte>
+<LienWeb URL="https://psl.service-public.fr/asso_mademarche/CR/demarche">
+<Source>Direction de l'information légale et administrative (Premier ministre)</Source>
+</LienWeb>
+<FicheLiee ID="F1119" audience="Associations" type="Fiche d'information">
+<Titre>Déclaration initiale d'une association </Titre>
+<Dossier ID="N19554">Création d'une association</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

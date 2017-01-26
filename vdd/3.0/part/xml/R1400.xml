@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1400" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'aide pour bien vieillir chez soi</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement, Social - Santé</dc:subject>
+<dc:description>Vous êtes retraité du régime général de la sécurité sociale et vous souhaitez bénéficier d’une prise en charge de votre caisse de retraite pour pouvoir recourir à des services vous permettant de rester à votre domicile. Vous trouverez dans ce dossier un formulaire de demande d’aide que vous devez compléter et renvoyer à votre caisse de retraite.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1400</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N321">Aides et prêts pour l'amélioration de l'habitat</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1400" type="Formulaire">Demande d'aide pour bien vieillir chez soi</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<AutreNumero>N3006</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Vous êtes retraité du régime général de la sécurité sociale et vous souhaitez bénéficier d’une prise en charge de votre caisse de retraite pour pouvoir recourir à des services vous permettant de rester à votre domicile. Vous trouverez dans ce dossier un formulaire de demande d’aide que vous devez compléter et renvoyer à votre caisse de retraite.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/Guides%20et%20formulaires/demande-aide-bien-vieillir.pdf">
+<Source>Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</LienWeb>
+<FicheLiee ID="F1613" audience="Particuliers" type="Fiche d'information">
+<Titre>Aide de la caisse de retraite - Travaux d'amélioration dans son logement</Titre>
+<Dossier ID="N321">Aides et prêts pour l'amélioration de l'habitat</Dossier>
+</FicheLiee>
+<FicheLiee ID="F245" audience="Particuliers" type="Fiche d'information">
+<Titre>Aide-ménagère à domicile pour les personnes âgées</Titre>
+<Dossier ID="N392">Allocations et aides aux personnes âgées</Dossier>
+</FicheLiee>
+<FicheLiee ID="F248" audience="Particuliers" type="Fiche d'information">
+<Titre>Prise en charge des repas des personnes âgées</Titre>
+<Dossier ID="N392">Allocations et aides aux personnes âgées</Dossier>
+</FicheLiee>
+<Dossier ID="N321">
+<Titre>Aides et prêts pour l'amélioration de l'habitat</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

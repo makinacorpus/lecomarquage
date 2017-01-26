@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14534" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Chèque emploi associatif (CEA) - espace employeur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Chèque emploi associatif (CEA) - espace employeur - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-28</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14534</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14534" type="Téléservice">Chèque emploi associatif (CEA) - espace employeur</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Texte><Paragraphe>Permet à une association d'adhérer au dispositif chèque emploi associatif grâce à son numéro Siret, qui sert d'identifiant (le numéro Siret s'obtient après immatriculation préalable de l'association auprès de l'Urssaf).</Paragraphe>
+<Paragraphe>Permet aussi , par la suite, d'accomplir l'ensemble des formalités liées à l'emploi d'un salarié (sauf  intermittent du spectacle).</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.cea.urssaf.fr/ceaweb/informatif/accueil/accueil.do?2=1">
+<Source>Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</LienWeb>
+<FicheLiee ID="F766" audience="Associations" type="Fiche d'information">
+<Titre>Chèque emploi-associatif (CEA)</Titre>
+<Dossier ID="N22150">Bénévoles, volontaires et salariés d'une association</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

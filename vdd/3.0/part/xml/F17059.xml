@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17059" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qui doit payer les funérailles ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les frais d'obsèques sont prélevés sur les biens de la succession, sauf si la valeur des biens est insuffisante.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-19</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17059</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150536&amp;cidTexte=LEGITEXT000006070721, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165629&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006192269&amp;cidTexte=LEGITEXT000006070633, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030591552</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N165</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N165">Obsèques et modes de sépulture</Niveau>
+<Niveau ID="F17059" type="Fiche Question-réponse">Qui doit payer les funérailles ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N31161">Décès</SousThemePere><DossierPere ID="N165">
+<Titre>Obsèques et modes de sépulture</Titre>
+<Fiche ID="F909">Déclaration de décès</Fiche>
+<Fiche ID="F14935">Inhumation</Fiche>
+<Fiche ID="F1558">Crémation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les frais d'obsèques sont prélevés sur les biens de la succession, sauf si la valeur des biens est insuffisante.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Prélèvement des frais sur les biens de la succession</Paragraphe>
+</Titre><Paragraphe>Les frais d'obsèques sont normalement, et en priorité, prélevés sur les biens de la succession.</Paragraphe>
+<Paragraphe>Sur présentation de la facture des obsèques, vous pouvez demander à la banque auprès de laquelle votre proche disposait d'un compte, le paiement des frais d'obsèques  dans la limite de <Valeur>5 000 €</Valeur>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Frais d'obsèques assimilés à une dette alimentaire</Paragraphe>
+</Titre><Paragraphe>Lorsque la valeur des biens de la succession est insuffisante, les frais d'obsèques sont assimilés à une dette alimentaire.</Paragraphe>
+<Paragraphe>Ainsi, au sein de la famille du défunt, et même si elles ont renoncé à la succession, les personnes tenues au paiement des frais d'obsèques sont :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ses <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et ses <LienIntra LienID="R12668" type="Définition de glossaire">ascendants</LienIntra>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ces personnes doivent assumer la charge de ces frais dans les conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans la proportion de leurs ressources,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et sous la réserve que la dépense ne soit pas excessive (exemples : commande d'une pierre tombale somptuaire, élévation d'un monument funéraire, etc).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En cas de désaccord</Paragraphe>
+</Titre><Paragraphe>À défaut d'accord, c'est le juge qui fixe la répartition.</Paragraphe>
+<Paragraphe>À l'égard de l'entreprise de pompes funèbres, c'est celui qui a passé la commande qui doit payer la facture. Si nécessaire, il peut ensuite se retourner contre les autres membres de la famille tenus au paiement des frais d'obsèques. En cas de refus de régler leur part, il peut saisir le juge.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Cas d'exonération</Paragraphe>
+</Titre><Paragraphe>Pour les personnes dépourvues de ressources suffisantes, les frais d'obsèques sont pris en charge par la commune du décès.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour les personnes dépourvues de ressources suffisantes : pour s'informer sur la prise en charge des frais</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150536&amp;cidTexte=LEGITEXT000006070721" ID="R34121">
+<Titre>Code civil : articles 804 à 808</Titre>
+<Complement>Renonciation à la succession (article 806)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165629&amp;cidTexte=LEGITEXT000006070721" ID="R40654">
+<Titre>Code civil : article 2331</Titre>
+<Complement>Créances privilégiées</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006192269&amp;cidTexte=LEGITEXT000006070633" ID="R31540">
+<Titre>Code général des collectivités territoriales : articles L2223-19 à L2223-30</Titre>
+<Complement>Service des pompes funèbres (article L2223-27)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030591552" ID="R40631">
+<Titre>Arrêté du 7 mai 2015 relatif au montant maximum des comptes du défunt pour effectuer certaines opérations liées à la succession sur présentation d'une attestation de l'ensemble des héritiers</Titre>
+</Reference>
+<Definition ID="R12668">
+<Titre>Ascendant</Titre>
+<Texte>
+				<Paragraphe>Parents, grands-parents et arrière-grands-parents d'une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1451" audience="Particuliers">Que devient un compte bancaire en cas de décès ?</QuestionReponse>
+<QuestionReponse ID="F12697" audience="Particuliers">Comment prouver sa qualité d'héritier (attestation, acte de notoriété) ?</QuestionReponse>
+</Publication>

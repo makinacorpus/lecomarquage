@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N10253" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Préjudice médical</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Face à un dommage corporel, moral ou matériel résultant d'un acte médical ou chirurgical, il existe plusieurs moyens d'action légaux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-10</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N10253</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Patient</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N10253" type="Dossier">Préjudice médical</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20325">Droits des patients</SousThemePere>
+<SousDossier ID="N10253-1">
+<Titre>Procédure générale</Titre><Fiche ID="F10256">Saisine de la commission des relations avec les usagers</Fiche>
+<Fiche ID="F13318">Accident médical, infection nosocomiale : saisir la commission (CCI)</Fiche>
+<Fiche ID="F10342">Action en justice</Fiche>
+</SousDossier>
+<SousDossier ID="N10253-2">
+<Titre>Préjudices spécifiques</Titre><Fiche ID="F293">Contamination liée à une transfusion (HIV, HTLV, hépatites B et C)</Fiche>
+<Fiche ID="F13284">Préjudice lié à un vaccin</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			Face à un dommage corporel, moral ou matériel résultant d'un acte médical ou chirurgical, il existe plusieurs moyens d'action légaux.
+		
+			Les procédures diffèrent selon qu'il s'agit de contester la qualité de l'accueil ou des soins dispensés par un établissement de santé ou d'obtenir réparation d'un préjudice avéré.
+		
+			Dans ce dernier cas, le patient acquiert le statut de victime qui entraîne, en contrepartie de garanties plus élevées, des formalités plus encadrées.
+		</Paragraphe>
+</Texte>
+</Introduction><ServiceEnLigne ID="R19716" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15031.do" numerocerfa="15031*02" type="Formulaire">
+<Titre>Signalement-patient d'effets indésirables liés à un médicament</Titre>
+<Source ID="R30688">Agence nationale de sécurité du médicament et des produits de santé (ANSM)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R38711" URL="http://www.defenseurdesdroits.fr/fr/publications/guides/usagers-votre-sante-vos-droits" audience="Particuliers">
+<Titre>Défenseur des droits (usagers) : votre santé, vos droits</Titre>
+<Source ID="R30631">Défenseur des droits</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41382" URL="http://www.oniam.fr/" audience="Particuliers">
+<Titre>Site de l'Office national d'indemnisation des accidents médicaux (Oniam)</Titre>
+<Source ID="R30653">Office national d'indemnisation des accidents médicaux (Oniam)</Source>
+</PourEnSavoirPlus>
+</Publication>

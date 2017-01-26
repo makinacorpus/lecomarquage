@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18906" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration préalable d'une vente au déballage</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Financement et fiscalité d'une association, Argent, Vente - Commerce</dc:subject>
+<dc:description>Déclaration préalable d'une vente au déballage - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-02</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18906</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N24033">Information et protection du consommateur pour tout achat</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18906" type="Formulaire">Déclaration préalable d'une vente au déballage</Niveau>
+</FilDAriane>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13939*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13939.do" format="application/force-download" poids="112.4 KB">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb>
+<FicheLiee ID="F1813" audience="Associations" type="Fiche d'information">
+<Titre>Braderies, foires-à-tout et vide-greniers organisés par une association</Titre>
+<Dossier ID="N22179">Activités commerciales d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22397" audience="Particuliers" type="Fiche d'information">
+<Titre>Vente au déballage</Titre>
+<Dossier ID="N24033">Information et protection du consommateur pour tout achat</Dossier>
+</FicheLiee><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour s'informer et effectuer les démarches</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour s'informer et effectuer la démarche à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+<Dossier ID="N22179">
+<Titre>Activités commerciales d'une association</Titre>
+<Audience>Associations</Audience>
+</Dossier>
+</ServiceComplementaire>

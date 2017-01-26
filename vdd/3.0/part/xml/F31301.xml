@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31301" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles sont les voies de recours dans un litige locatif ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>En cas de conflit dans le cadre d'une location immobilière, vous pouvez tenter de trouver une solution amiable. En cas d'échec, il faut saisir le juge. Le tribunal compétent et les délais de saisine dépend de la nature du litige.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31301</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018922267&amp;cidTexte=LEGITEXT000006071164, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000026883378&amp;idSectionTA=LEGISCTA000018922448&amp;cidTexte=LEGITEXT000006071164, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018922472&amp;cidTexte=LEGITEXT000006071164, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018922559&amp;cidTexte=LEGITEXT000006071164, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028777184&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006411324&amp;idSectionTA=LEGISCTA000006117252&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N349</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N349">Location immobilière : contrat de location (bail)</Niveau>
+<Niveau ID="F31301" type="Fiche Question-réponse">Quelles sont les voies de recours dans un litige locatif ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N349">
+<Titre>Location immobilière : contrat de location (bail)</Titre>
+<Fiche ID="F920">Rédaction du contrat</Fiche>
+<Fiche ID="F1686">Clauses abusives</Fiche>
+<Fiche ID="F31269">Dépôt de garantie</Fiche>
+<Fiche ID="F31270">État des lieux</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En cas de conflit dans le cadre d'une location immobilière, vous pouvez tenter de trouver une solution amiable. En cas d'échec, il faut saisir le juge. Le tribunal compétent et les délais de saisine dépend de la nature du litige. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dépôt de garantie</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Recours amiable</Paragraphe>
+</Titre>
+				<Paragraphe>Quel que soit le litige qui vous oppose à votre locataire ou à votre bailleur (ou à son représentant, notamment une agence immobilière), il est toujours préférable de trouver une solution amiable afin de conserver de bons rapports locatifs.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Courrier écrit</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous ne parvenez pas à vous parler, il est conseillé d'adresser un courrier recommandé avec accusé de réception :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>relatant les faits le plus précisément possible,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et accompagné des arguments et preuves pour à étayer votre propos (références juridiques, factures, photos etc...).</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Ce courrier est une première étape préalable incontournable pour engager ensuite un recours éventuel devant le juge.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Conciliation</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous n'obtenez pas gain de cause avec un courrier, il peut être utile de saisir la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+				<Paragraphe>La saisine est obligatoire pour certains litiges liés au loyer (encadrement, loyer sous-évalué, loyer sur-évalué, complément de loyer).</Paragraphe>
+				<Paragraphe>La procédure est gratuite.</Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Recours au juge</Paragraphe>
+</Titre><Paragraphe>Si le litige concerne un dépôt de garantie d'un montant inférieur ou égal à <Valeur>4 000 €</Valeur>, le <LienInterne LienPublication="F1785" type="Fiche d'information" audience="Particuliers">juge de proximité</LienInterne> dont dépend le logement loué doit être saisi.</Paragraphe>
+<Paragraphe>Au-delà de <Valeur>4 000 €</Valeur>, le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> dont dépend le logement loué doit être saisi.</Paragraphe>
+<Paragraphe>Vous avez 3 ans pour saisir le juge à compter du jour où le dépôt de garantie aurait dû vous être versé.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le recours à un avocat n'est jamais obligatoire.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Révision annuelle de loyer</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Recours amiable</Paragraphe>
+</Titre>
+				<Paragraphe>Quel que soit le litige qui vous oppose à votre locataire ou à votre bailleur (ou à son représentant, notamment une agence immobilière), il est toujours préférable de trouver une solution amiable afin de conserver de bons rapports locatifs.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Courrier écrit</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous ne parvenez pas à vous parler, il est conseillé d'adresser un courrier recommandé avec accusé de réception :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>relatant les faits le plus précisément possible,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et accompagné des arguments et preuves pour à étayer votre propos (références juridiques, factures, photos etc...).</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Ce courrier est une première étape préalable incontournable pour engager ensuite un recours éventuel devant le juge.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Conciliation</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous n'obtenez pas gain de cause avec un courrier, il peut être utile de saisir la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+				<Paragraphe>La saisine est obligatoire pour certains litiges liés au loyer (encadrement, loyer sous-évalué, loyer sur-évalué, complément de loyer).</Paragraphe>
+				<Paragraphe>La procédure est gratuite.</Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Recours au juge</Paragraphe>
+</Titre><Paragraphe>En cas de litige sur une <LienInterne LienPublication="F1311" type="Fiche d'information" audience="Particuliers">révision annuelle de loyer</LienInterne>, vous avez 1 an pour saisir le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> à compter de la date de révision du loyer. </Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le recours à un avocat n'est jamais obligatoire.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Complément de loyer</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Recours amiable</Paragraphe>
+</Titre>
+				<Paragraphe>Quel que soit le litige qui vous oppose à votre locataire ou à votre bailleur (ou à son représentant, notamment une agence immobilière), il est toujours préférable de trouver une solution amiable afin de conserver de bons rapports locatifs.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Courrier écrit</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous ne parvenez pas à vous parler, il est conseillé d'adresser un courrier recommandé avec accusé de réception :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>relatant les faits le plus précisément possible,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et accompagné des arguments et preuves pour à étayer votre propos (références juridiques, factures, photos etc...).</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Ce courrier est une première étape préalable incontournable pour engager ensuite un recours éventuel devant le juge.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Conciliation</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous n'obtenez pas gain de cause avec un courrier, il peut être utile de saisir la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+				<Paragraphe>La saisine est obligatoire pour certains litiges liés au loyer (encadrement, loyer sous-évalué, loyer sur-évalué, complément de loyer).</Paragraphe>
+				<Paragraphe>La procédure est gratuite.</Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Recours au juge</Paragraphe>
+</Titre><Paragraphe>En cas de litige sur le montant du <LienIntra LienID="R41335" type="Définition de glossaire">complément de loyer</LienIntra> éventuellement fixé par le bailleur, le locataire a 3 mois pour saisir le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> à compter de la réception de l'avis rendu par la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission de conciliation</LienInterne>.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le recours à un avocat n'est jamais obligatoire.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Loyer surévalué</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Recours amiable</Paragraphe>
+</Titre>
+				<Paragraphe>Quel que soit le litige qui vous oppose à votre locataire ou à votre bailleur (ou à son représentant, notamment une agence immobilière), il est toujours préférable de trouver une solution amiable afin de conserver de bons rapports locatifs.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Courrier écrit</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous ne parvenez pas à vous parler, il est conseillé d'adresser un courrier recommandé avec accusé de réception :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>relatant les faits le plus précisément possible,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et accompagné des arguments et preuves pour à étayer votre propos (références juridiques, factures, photos etc...).</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Ce courrier est une première étape préalable incontournable pour engager ensuite un recours éventuel devant le juge.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Conciliation</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous n'obtenez pas gain de cause avec un courrier, il peut être utile de saisir la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+				<Paragraphe>La saisine est obligatoire pour certains litiges liés au loyer (encadrement, loyer sous-évalué, loyer sur-évalué, complément de loyer).</Paragraphe>
+				<Paragraphe>La procédure est gratuite.</Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Recours au juge</Paragraphe>
+</Titre><Paragraphe>Si vous souhaitez <LienInterne LienPublication="F33066" type="Fiche d'information" audience="Particuliers">contester un loyer surévalué</LienInterne>, vous devez saisir le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> au moins 5 mois avant la date de renouvellement du bail, sachant que la saisine de la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission de conciliation</LienInterne> est un préalable obligatoire. </Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le recours à un avocat n'est jamais obligatoire.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Loyer sous-évalué</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Recours amiable</Paragraphe>
+</Titre>
+				<Paragraphe>Quel que soit le litige qui vous oppose à votre locataire ou à votre bailleur (ou à son représentant, notamment une agence immobilière), il est toujours préférable de trouver une solution amiable afin de conserver de bons rapports locatifs.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Courrier écrit</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous ne parvenez pas à vous parler, il est conseillé d'adresser un courrier recommandé avec accusé de réception :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>relatant les faits le plus précisément possible,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et accompagné des arguments et preuves pour à étayer votre propos (références juridiques, factures, photos etc...).</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Ce courrier est une première étape préalable incontournable pour engager ensuite un recours éventuel devant le juge.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Conciliation</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous n'obtenez pas gain de cause avec un courrier, il peut être utile de saisir la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+				<Paragraphe>La saisine est obligatoire pour certains litiges liés au loyer (encadrement, loyer sous-évalué, loyer sur-évalué, complément de loyer).</Paragraphe>
+				<Paragraphe>La procédure est gratuite.</Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Recours au juge</Paragraphe>
+</Titre><Paragraphe>Le juge du <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> doit impérativement être saisi :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>après l'expiration du délai de 2 mois dont dispose la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission de conciliation</LienInterne> pour rendre son avis (obligatoire),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et avant la date d'échéance du bail.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le recours à un avocat n'est jamais obligatoire.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Encadrement des loyers</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Recours amiable</Paragraphe>
+</Titre>
+				<Paragraphe>Quel que soit le litige qui vous oppose à votre locataire ou à votre bailleur (ou à son représentant, notamment une agence immobilière), il est toujours préférable de trouver une solution amiable afin de conserver de bons rapports locatifs.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Courrier écrit</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous ne parvenez pas à vous parler, il est conseillé d'adresser un courrier recommandé avec accusé de réception :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>relatant les faits le plus précisément possible,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et accompagné des arguments et preuves pour à étayer votre propos (références juridiques, factures, photos etc...).</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Ce courrier est une première étape préalable incontournable pour engager ensuite un recours éventuel devant le juge.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Conciliation</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous n'obtenez pas gain de cause avec un courrier, il peut être utile de saisir la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+				<Paragraphe>La saisine est obligatoire pour certains litiges liés au loyer (encadrement, loyer sous-évalué, loyer sur-évalué, complément de loyer).</Paragraphe>
+				<Paragraphe>La procédure est gratuite.</Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Recours au juge</Paragraphe>
+</Titre><Paragraphe>En cas de litige portant sur l'<LienInterne LienPublication="F1314" type="Fiche Question-réponse" audience="Particuliers">encadrement des loyers</LienInterne>, le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> dont dépend le logement loué doit être saisi, après la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission de conciliation</LienInterne>.</Paragraphe>
+<Paragraphe>La saisine du juge doit être faite dans les 3 ans à compter du jour où le litige est apparu.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le recours à un avocat n'est jamais obligatoire.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Autres litiges</Paragraphe>
+</Titre><Paragraphe>Il s'agit de tous les litiges entre un locataire et son bailleur, notamment ceux relatifs :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>aux impayés de loyer ou de charges,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à la souscription d'une assurance habitation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>au contrat de bail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à une expulsion.</Paragraphe>
+</Item>
+</Liste>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Recours amiable</Paragraphe>
+</Titre>
+				<Paragraphe>Quel que soit le litige qui vous oppose à votre locataire ou à votre bailleur (ou à son représentant, notamment une agence immobilière), il est toujours préférable de trouver une solution amiable afin de conserver de bons rapports locatifs.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Courrier écrit</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous ne parvenez pas à vous parler, il est conseillé d'adresser un courrier recommandé avec accusé de réception :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>relatant les faits le plus précisément possible,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et accompagné des arguments et preuves pour à étayer votre propos (références juridiques, factures, photos etc...).</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Ce courrier est une première étape préalable incontournable pour engager ensuite un recours éventuel devant le juge.</Paragraphe>
+				<Paragraphe>
+<MiseEnEvidence>Conciliation</MiseEnEvidence>
+</Paragraphe>
+				<Paragraphe>Si vous n'obtenez pas gain de cause avec un courrier, il peut être utile de saisir la <LienInterne LienPublication="F1216" type="Fiche Question-réponse" audience="Particuliers">commission départementale de conciliation</LienInterne>.</Paragraphe>
+				<Paragraphe>La saisine est obligatoire pour certains litiges liés au loyer (encadrement, loyer sous-évalué, loyer sur-évalué, complément de loyer).</Paragraphe>
+				<Paragraphe>La procédure est gratuite.</Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Recours au juge</Paragraphe>
+</Titre><Paragraphe>D'une manière générale, tout litige qui porte sur un litige lié à une location immobilière relève de la compétence du <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne> dont dépend le logement loué.</Paragraphe>
+<Paragraphe>La saisine doit être faite dans les 3 ans à compter du jour auquel le litige est apparu.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le recours à un avocat n'est jamais obligatoire.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018922267&amp;cidTexte=LEGITEXT000006071164" ID="R37524">
+<Titre>Code de l'organisation judiciaire : article R231-6</Titre>
+<Complement>Compétence territoriale du juge de proximité</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000026883378&amp;idSectionTA=LEGISCTA000018922448&amp;cidTexte=LEGITEXT000006071164" ID="R37523">
+<Titre>Code de l'organisation judiciaire : articles R221-46 à R221-52</Titre>
+<Complement>Compétence territoriale du tribunal d'instance (R221-48)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018922472&amp;cidTexte=LEGITEXT000006071164" ID="R13434">
+<Titre>Code de l'organisation judiciaire : articles R221-37 à R221-39-1</Titre>
+<Complement>Compétence du tribunal d'instance (R221-38)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018922559&amp;cidTexte=LEGITEXT000006071164" ID="R11608">
+<Titre>Code de l'organisation judiciaire : articles R221-3 à R221-22-1</Titre>
+<Complement>Compétence du juge de proximité (R221-4 et R221-5)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028777184&amp;cidTexte=LEGITEXT000006069108" ID="R36625">
+<Titre>Loi n°89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs : article 7-1</Titre>
+<Complement>Délai de saisine du juge (cas général)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006411324&amp;idSectionTA=LEGISCTA000006117252&amp;cidTexte=LEGITEXT000006070716" ID="R643">
+<Titre>Code de procédure civile : articles 827 à 828</Titre>
+<Complement>Avocat non obligatoire</Complement>
+</Reference>
+<Definition ID="R41335">
+<Titre>Complément de loyer</Titre>
+<Texte>
+				<Paragraphe>Loyer complémentaire au loyer de base pour un logement présentant des caractéristiques de localisation ou de confort particulières (vue imprenable sur un monument historique, grande terrasse...) par rapport à un logement de niveau comparable</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000018093117&amp;cidTexte=LEGITEXT000006069108" ID="R35773">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 17</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F32973" audience="Particuliers">Quel tarif s'applique en cas de recours à un huissier dans un litige locatif ?</QuestionReponse>
+
+</Publication>

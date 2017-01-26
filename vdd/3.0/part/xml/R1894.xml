@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1894" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander le versement de la pension alimentaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>En cas de défaillance dans le règlement des pensions alimentaires, le parent créancier peut adresser une lettre de mise en demeure au parent débiteur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-24</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1894</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N18775">Séparation des parents</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1894" type="Modèle de document">Demander le versement de la pension alimentaire</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>En cas de défaillance dans le règlement des pensions alimentaires, le parent créancier peut adresser une lettre de mise en demeure au parent débiteur.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Variable>Votre nom et adresse</Variable>
+</Paragraphe>
+<Paragraphe>À <Variable>...</Variable>, le <Variable>...</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Nom et adresse du destinataire</Variable>
+</Paragraphe>
+<Paragraphe>Objet : demande de versement de la pension alimentaire</Paragraphe>
+<Paragraphe>(lettre envoyée en recommandée avec accusé de réception)</Paragraphe>
+<Paragraphe>
+<Variable>Prénom de celui qui doit la pension,</Variable>
+</Paragraphe>
+<Paragraphe>Je n'ai toujours pas reçu à ce jour le paiement de la pension alimentaire que tu dois pour <Variable>indiquer le nom de (ou des) l'enfant(s)</Variable> , pour le(s) mois de <Variable>indiquer les mois</Variable> , d'un montant total de <Variable>......</Variable> EUR.</Paragraphe>
+<Paragraphe>La décision du juge aux affaires familiales fixe le versement de la pension au plus tard le <Variable>indiquer la date du jugement ou de l'ordonnance</Variable> .</Paragraphe>
+<Paragraphe>Je te rappelle que le manquement à cette obligation est puni de 2 ans d'emprisonnement et de <Valeur>15 000 €</Valeur>  d'amende (sanction prévue par l'article 227-3 du code pénal).</Paragraphe>
+<Paragraphe>Je te prie donc de me verser, sans délai, la somme de <Variable>indiquer le montant</Variable> .</Paragraphe>
+<Paragraphe>À défaut, je serai contraint(e) d'utiliser les voies d'exécution prévues à cet effet (recouvrement direct).</Paragraphe>
+<Paragraphe>Cordialement,</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F991" audience="Particuliers" type="Fiche d'information">
+<Titre>Pension alimentaire : fixation et versement</Titre>
+<Dossier ID="N18775">Séparation des parents</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

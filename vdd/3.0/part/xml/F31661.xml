@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31661" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Possession d'une arme : quelle démarche en cas de déménagement ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Si vous possédez une arme des catégories B, C ou de la catégorie D soumise à enregistrement et que vous déménagez dans un autre département,</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31661</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025508075&amp;cidTexte=LEGITEXT000025503132</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N287</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N287">Armes</Niveau>
+<Niveau ID="F31661" type="Fiche Question-réponse">Possession d'une arme : quelle démarche en cas de déménagement ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N19969">Chasse et pêche</SousThemePere><DossierPere ID="N287">
+<Titre>Armes</Titre>
+<Fiche ID="F2242">Arme de catégorie A (interdiction sauf autorisation particulière)</Fiche>
+<Fiche ID="F2250">Arme de catégorie B (soumise à autorisation)</Fiche>
+<Fiche ID="F2246">Arme de catégorie C (soumise à déclaration)</Fiche>
+<Fiche ID="F2248">Arme de catégorie D (en vente libre ou soumise à enregistrement)</Fiche>
+<Fiche ID="F2273">Carte européenne d'armes à feu</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Si vous possédez une arme des catégories B, C ou de la catégorie D soumise à enregistrement et que vous déménagez dans un autre département, vous devez déclarer au préfet de ce nouveau département de résidence le nombre et la nature des armes et éléments d'armes que vous détenez.</Paragraphe>
+<Paragraphe>Le fait de ne pas effectuer cette démarche est passible d'une amende prévue pour les contraventions de 4ème classe (<Valeur>135 €</Valeur>).</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>cela ne s'applique pas aux armes soumises à enregistrement acquises et détenues avant le 1<Exposant>er</Exposant> décembre 2011.</Paragraphe>
+</ANoter><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre>
+												<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+												<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre>
+												<OuSAdresser ID="R41907" type="National">
+<Titre>Préfecture de police de Paris - Section armes et explosifs</Titre><Texte>
+						
+								<Paragraphe>
+<MiseEnEvidence>La section armes et explosifs ne reçoit pas les usagers</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>Préfecture de police</Paragraphe>
+								<Paragraphe>Direction de la police générale</Paragraphe>
+								<Paragraphe>Bureau des polices administratives</Paragraphe>
+								<Paragraphe>Section armes et explosifs</Paragraphe>
+								<Paragraphe>36 rue des Morillons</Paragraphe>
+								<Paragraphe>75015 Paris</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>À partir du <LienExterne URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Autres-demarches/Armes-et-explosifs/Contact/Ecrivez-nous">formulaire de contact</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025508075&amp;cidTexte=LEGITEXT000025503132" ID="R33474">
+<Titre>Code de la sécurité intérieure : articles L311-1 à L311-4</Titre>
+<Complement>Classification des armes</Complement>
+</Reference>
+
+</Publication>

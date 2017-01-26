@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F22688" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Organisation de foires et salons (manifestations commerciales)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>Les manifestations commerciales (salons ouverts au public, salons professionnels ou foires) doivent être déclarées auprès des services de la préfecture où la manifestation est prévue, par les exploitants de parcs d'exposition enregistrés, ou, lorsque la déclaration n'a pas pu être faite par l'exploitant du parc d'exposition, par les organisateurs de ces manifestations se tenant dans un parc enregistré.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'économie</dc:contributor>
+<dc:date>modified 2016-02-03</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F22688</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006146142&amp;cidTexte=LEGITEXT000005634379, http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006270558&amp;cidTexte=LEGITEXT000005634379, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006146303&amp;cidTexte=LEGITEXT000005634379</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31354</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Commerçant</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N31354">Pratiques commerciales</Niveau>
+<Niveau ID="F22688" type="Fiche d'information">Organisation de foires et salons (manifestations commerciales)</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+</Theme>
+<SousThemePere ID="N31352">Réglementation du commerce</SousThemePere><DossierPere ID="N31354">
+<Titre>Pratiques commerciales</Titre><SousDossier ID="N31354-1">
+<Titre>Information du consommateur</Titre>
+<Fiche ID="F23175">Règles d'affichage et de réduction des prix</Fiche>
+<Fiche ID="F22823">Pratiques commerciales et anticoncurrentielles interdites</Fiche>
+<Fiche ID="F33729">Publicité comparative</Fiche>
+<Fiche ID="F31857">Obligations en matière de poids et mesures</Fiche>
+<Fiche ID="F33678">Étiquetage des vêtements</Fiche>
+</SousDossier>
+<SousDossier ID="N31354-2">
+<Titre>Promotions</Titre>
+<Fiche ID="F20566">Soldes</Fiche>
+<Fiche ID="F22274">Liquidation des stocks</Fiche>
+<Fiche ID="F22397">Vente au déballage</Fiche>
+</SousDossier>
+<SousDossier ID="N31354-3">
+<Titre>Modalités de vente</Titre>
+<Fiche ID="F22688">Organisation de foires et salons</Fiche>
+<Fiche ID="F23224">Démarchage (à domicile ou hors établissement)</Fiche>
+<Fiche ID="F23455">Vente en ligne (e-commerce)</Fiche>
+<Fiche ID="F22606">Ouverture des commerces le dimanche</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Modalités de vente</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les manifestations commerciales (salons ouverts au public, salons professionnels ou foires) doivent être déclarées auprès des services de la préfecture où la manifestation est prévue, par les exploitants de parcs d'exposition enregistrés, ou, lorsque la déclaration n'a pas pu être faite par l'exploitant du parc d'exposition, par les organisateurs de ces manifestations se tenant dans un parc enregistré.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Enregistrement d'un parc d'exposition</Paragraphe>
+</Titre><Paragraphe>Est concerné le gestionnaire d'un site commercial (parc d'exposition ou palais des congrès) défini comme un ensemble immobilier clos et indépendant, doté d'installations et d'équipements permanents, qui accueille, pendant tout ou partie de l'année, des manifestations commerciales temporaires.</Paragraphe>
+<Paragraphe>L'enregistrement doit être effectué auprès de la préfecture du lieu d'installation du parc, sous peine d'une amende de <Valeur>15 000 €</Valeur> pour une personne physique ou de <Valeur>75 000 €</Valeur> pour une personne morale.</Paragraphe>
+<Paragraphe>Si l'emprise du parc d'exposition s'étend sur plusieurs départements, l'enregistrement doit être effectué dans le département où est situé l'accès principal du site.</Paragraphe>
+<Paragraphe>L'exploitant reçoit, dans un délai d'1 mois à partir de la réception du dossier complet, un récépissé d'enregistrement de la préfecture.</Paragraphe>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R17271" URL="https://www.foiresetsalons.entreprises.gouv.fr/teleprocedure.php" type="Téléservice">
+<Titre>Télédéclaration des manifestations commerciales</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<Texte><Paragraphe>Permet d'effectuer la déclaration des manifestations commerciales et des salons professionnels en préfecture.</Paragraphe>
+<Paragraphe>Le déclarant doit préalablement fournir des informations de base concernant son entreprise pour s'inscrire et choisir un identifiant et un mot de passe. Pour le parc d'exposition, cette inscription permettra de le rapprocher de son enregistrement préalable en préfecture.</Paragraphe>
+<Paragraphe>Accès au calendrier et à la liste de tous les salons professionnels, hors parcs d'exposition, avec une recherche par secteur d'activité, par département et par année.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R17273" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14332.do" format="application/force-download" poids="80.5 KB" numerocerfa="14332*01" type="Formulaire">
+<Titre>Demande d'enregistrement d'un parc d'exposition</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration annuelle du calendrier d'un parc d'exposition</Paragraphe>
+</Titre><Paragraphe>L'exploitant du parc d'exposition enregistré doit déclarer à la préfecture, <MiseEnEvidence>avant le 1<Exposant>er</Exposant> octobre</MiseEnEvidence> de chaque année, le programme des manifestations commerciales prévues l'année civile suivante. </Paragraphe>
+<Paragraphe>La première déclaration de programme annuel peut être effectuée en même temps que la demande d'enregistrement du parc d'exposition.</Paragraphe>
+<Paragraphe>Toute modification du programme annuel (ajout ou annulation d'une manifestation par exemple) doit être également notifiée par une déclaration modificative dès que possible.</Paragraphe>
+<Paragraphe>La déclaration de ces manifestations vaut pour le compte des organisateurs de ces manifestations et des exposants, qui n'ont pas de démarche particulière à effectuer.</Paragraphe>
+<Paragraphe>Dès réception, le récépissé de déclaration du programme annuel (et éventuellement celui des déclarations modificatives) doit être affiché de manière visible à l'entrée principale du parc jusqu'au 31 décembre de l'exercice auquel il se rapporte.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre>
+<Paragraphe>la déclaration annuelle du calendrier des manifestations commerciales prévues doit comporter le numéro du récépissé d'enregistrement du parc d'exposition.</Paragraphe>
+</ANoter><BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R17271" URL="https://www.foiresetsalons.entreprises.gouv.fr/teleprocedure.php" type="Téléservice">
+<Titre>Télédéclaration des manifestations commerciales</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<Texte><Paragraphe>Permet d'effectuer la déclaration des manifestations commerciales et des salons professionnels en préfecture.</Paragraphe>
+<Paragraphe>Le déclarant doit préalablement fournir des informations de base concernant son entreprise pour s'inscrire et choisir un identifiant et un mot de passe. Pour le parc d'exposition, cette inscription permettra de le rapprocher de son enregistrement préalable en préfecture.</Paragraphe>
+<Paragraphe>Accès au calendrier et à la liste de tous les salons professionnels, hors parcs d'exposition, avec une recherche par secteur d'activité, par département et par année.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre><ServiceEnLigne ID="R17274" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14336.do" format="application/force-download" poids="729.8 KB" numerocerfa="14336*01" type="Formulaire">
+<Titre>Déclaration d'un programme de manifestations commerciales se tenant dans un parc d'exposition enregistré</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<Introduction>
+<Texte><Paragraphe>À adresser à la préfecture.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17275" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14337.do" format="application/force-download" poids="728.0 KB" numerocerfa="14337*01" type="Formulaire">
+<Titre>Déclaration modificative d'un programme de manifestations commerciales se tenant dans un parc d'exposition enregistré</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration d'un salon professionnel</Paragraphe>
+</Titre><Paragraphe>Un salon professionnel est une manifestation commerciale qui :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ne propose pas de marchandises à la vente sur place (sauf si leur valeur est limitée à <Valeur>80 €</Valeur>TTC et si elles sont vendues pour les besoins personnels des visiteurs, comme des frais de restauration sur place par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>est consacrée à la promotion d'un ensemble d'activités professionnelles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>est réservée à des visiteurs professionnels justifiant d'un titre d'accès payant ou gratuit.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'organisateur d'un salon professionnel doit en faire la déclaration préalable, 2 mois avant la date prévue, auprès du préfet du département où le salon est prévu, sauf s'il se tient au sein d'un parc d'exposition, auquel cas la déclaration est incluse dans la déclaration du programme annuel du parc.</Paragraphe>
+<Paragraphe>Les manifestations commerciales organisées dans un lieu non prévu pour le commerce relèvent de la procédure de la <LienInterne LienPublication="F22397" type="Fiche d'information" audience="Professionnels">vente au déballage.</LienInterne> </Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>ne sont pas considérées comme des manifestations commerciales les expositions ou manifestations exclusivement artistiques, les fêtes foraines ou les manifestations agricoles lorsque seuls des producteurs ou des éleveurs y sont exposants.</Paragraphe>
+</ASavoir>
+</Chapitre>
+</Texte><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006146142&amp;cidTexte=LEGITEXT000005634379" ID="R22689">
+<Titre>Code de commerce : articles L762-1 à L762-3</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006270558&amp;cidTexte=LEGITEXT000005634379" ID="R42958">
+<Titre>Code de commerce : Article D762-13</Titre>
+<Complement>Plafond prix de vente</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006146303&amp;cidTexte=LEGITEXT000005634379" ID="R22690">
+<Titre>Code de commerce : articles R762-1 à R762-14</Titre>
+</Reference>
+<ServiceEnLigne ID="R17271" URL="https://www.foiresetsalons.entreprises.gouv.fr/teleprocedure.php" type="Téléservice">
+<Titre>Télédéclaration des manifestations commerciales</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17273" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14332.do" format="application/force-download" poids="80.5 KB" numerocerfa="14332*01" type="Formulaire">
+<Titre>Demande d'enregistrement d'un parc d'exposition</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17274" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14336.do" format="application/force-download" poids="729.8 KB" numerocerfa="14336*01" type="Formulaire">
+<Titre>Déclaration d'un programme de manifestations commerciales se tenant dans un parc d'exposition enregistré</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17275" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14337.do" format="application/force-download" poids="728.0 KB" numerocerfa="14337*01" type="Formulaire">
+<Titre>Déclaration modificative d'un programme de manifestations commerciales se tenant dans un parc d'exposition enregistré</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17276" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14338.do" format="application/force-download" poids="367.2 KB" numerocerfa="14338*01" type="Formulaire">
+<Titre>Déclaration d'un salon professionnel se tenant hors d'un parc d'exposition enregistré (première session)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17277" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14339.do" format="application/force-download" poids="362.8 KB" numerocerfa="14339*01" type="Formulaire">
+<Titre>Déclaration d'un salon professionnel se tenant hors d'un parc d'exposition enregistré (nouvelle session)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17278" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14340.do" format="application/force-download" poids="345.8 KB" numerocerfa="14340*01" type="Formulaire">
+<Titre>Déclaration modificative d'un salon professionnel se tenant hors d'un parc d'exposition enregistré</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+</Publication>

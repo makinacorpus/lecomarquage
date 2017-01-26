@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F77" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Une femme mariée peut-elle garder son nom de famille (ou "nom de jeune fille") ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Une femme mariée garde son nom de famille (ou "nom de jeune fille"). Mais chaque époux(se) peut utiliser le nom de l'autre.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-14</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F77</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&amp;dateJO=19860703&amp;pageDebut=08245&amp;pageFin=&amp;pageCourante=08245, http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006423766&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068881</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N151</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N151">Nom et prénom</Niveau>
+<Niveau ID="F77" type="Fiche Question-réponse">Une femme mariée peut-elle garder son nom de famille (ou "nom de jeune fille") ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N151">
+<Titre>Nom et prénom</Titre><SousDossier ID="N151-1">
+<Titre>Nom de famille</Titre>
+<Fiche ID="F10505">Choix du nom de l'enfant à sa naissance : mère, père ou double-nom</Fiche>
+<Fiche ID="F10506">Changement du nom de l'enfant après sa naissance</Fiche>
+<Fiche ID="F1656">Changement de nom pour motif légitime</Fiche>
+</SousDossier>
+<SousDossier ID="N151-2">
+<Titre>Prénom</Titre>
+<Fiche ID="F882">Choix du prénom de l'enfant</Fiche>
+<Fiche ID="F885">Changement de prénom</Fiche>
+</SousDossier>
+<SousDossier ID="N151-3">
+<Titre>Nom d'usage</Titre>
+<Fiche ID="F868">Utilisation du nom de son mari ou de sa femme</Fiche>
+<Fiche ID="F1343">Utilisation du nom des deux parents</Fiche>
+</SousDossier>
+<SousDossier ID="N151-4">
+<Titre>Adoption</Titre>
+<Fiche ID="F2668">Nom de famille et adoption plénière</Fiche>
+<Fiche ID="F2621">Nom de famille et adoption simple</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui. En se mariant, une femme garde son nom de famille.</Paragraphe>
+<Paragraphe>Toutefois, le mariage permet à chaque époux (quel que soit son sexe)  <LienInterne LienPublication="F868" type="Fiche d'information" audience="Particuliers">d'utiliser le nom de l'autre époux(se) ou le double-nom</LienInterne>. </Paragraphe>
+<Paragraphe>Mais il s'agit donc d'un choix volontaire et en aucun cas d'une obligation.</Paragraphe>
+<Paragraphe>Dans tous les cas, la personne gardera son nom de famille, celui indiqué sur son acte de naissance. Il restera son nom de famille officiel et sera toujours inscrit sur ses papiers. Le nom de l'époux(se)  ou le double-nom ne sera qu'un nom d'usage.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&amp;dateJO=19860703&amp;pageDebut=08245&amp;pageFin=&amp;pageCourante=08245" ID="R2417">
+<Titre>Circulaire du 26 juin 1986 relative au nom d'usage</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do;?idArticle=LEGIARTI000006423766&amp;cidTexte=LEGITEXT000006070721" ID="R477">
+<Titre>Code civil : article 264</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068881" ID="R2322">
+<Titre>Loi n°85-1372 du 23 décembre 1985 relative à l'égalité des époux et des parents</Titre>
+</Reference>
+<ServiceEnLigne ID="R1420" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S9104.pdf" numerocerfa="12046*01" autrenumero="S9104" type="Formulaire">
+<Titre>Sécurité sociale - Demande d'utilisation d'un nom d'usage</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19902" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=changementNomUsage" type="Téléservice">
+<Titre>Déclaration de changement de nom d'usage (nom de l'époux ou de l'épouse)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+
+</Publication>

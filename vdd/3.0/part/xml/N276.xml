@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N276" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Prison</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Prison</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-04-07</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N276</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19807</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N276" type="Dossier">Prison</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20334">Sanctions pénales</SousThemePere>
+<Fiche ID="F14149">Vie quotidienne</Fiche>
+<Fiche ID="F14152">Enseignement et formation</Fiche>
+<Fiche ID="F1421">Visiteur de prison</Fiche>
+<Fiche ID="F14153">Travail en prison</Fiche>
+<Fiche ID="F14154">Droits familiaux, civiques et sociaux</Fiche><VoirAussi important="non">
+<Dossier ID="N23248" audience="Particuliers">
+<Titre>Mineur auteur d'infraction</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R10408" type="Local">
+<Titre>Associations d'aide aux personnes détenues et sortants de prison</Titre>
+<RessourceWeb URL="http://www.justice.gouv.fr/index.php?rubrique=10036&amp;ssrubrique=10037&amp;article=12014"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Partenaire ID="R1857" URL="http://www.justice.gouv.fr/"/>
+<ServiceEnLigne ID="R2459" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14454.do" numerocerfa="14454*03" type="Formulaire">
+<Titre>Demande d'indemnisation d'un avocat pour l'assistance d'une personne dans le cadre d'une garde à vue ou d'une retenue</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R22766" URL="http://www.justice.gouv.fr/art_pix/Guide_Je_suis_en_detention_V7_FINAL_opt.pdf" audience="Particuliers" format="application/pdf" poids="3.5 MB">
+<Titre>Guide du détenu arrivant</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1227" audience="Particuliers">Une personne détenue en prison a-t-elle le droit de voter ?</QuestionReponse>
+<QuestionReponse ID="F31728" audience="Particuliers">Contrôleur général des prisons : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F1512" audience="Particuliers">Comment se défendre en cas d'arrestation à l'étranger ?</QuestionReponse>
+
+</Publication>

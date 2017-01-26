@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14156" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'autorisation d'exercer la profession de transport public de marchandises de personnes et de commissionnaires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Demande d'autorisation d'exercer la profession de transport public de marchandises de personnes et de commissionnaires - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14156</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N19470">Automobile-Moto</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14156" type="Formulaire">Demande d'autorisation d'exercer la profession de transport public de marchandises de personnes et de commissionnaires</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14557*03</NumeroCerfa>
+<Texte><Paragraphe>Permet de déposer une demande d'inscription au registre du transport routier, valant autorisation d'exercer les professions :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de transport public routier de marchandises, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de déménagement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> de loueur de véhicules industriels avec conducteur, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de transport public routier de personnes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de commissionnaire de transport.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14557.do" format="application/pdf" poids="178.3 KB">
+<Source>Ministère en charge des transports</Source>
+</LienWeb><NoticeLiee ID="R1450" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50666&amp;cerfaFormulaire=11416" numerocerfa="50666#06" format="application/pdf" poids="57.9 KB">Notice pour l'inscription aux registres des transporteurs routiers de marchandises</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11416*04 (remplace le cerfa n°11415*05)">
+<Titre>Fiche technique relative à la capacité financière</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11416.do" format="application/pdf" poids="53.0 KB"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F33819" audience="Professionnels" type="Fiche d'information">
+<Titre>Créer une entreprise de coursier à deux-roues</Titre>
+<Dossier ID="N19470">Automobile-Moto</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31849" audience="Professionnels" type="Fiche d'information">
+<Titre>Exercice de la profession de transporteur routier de marchandises</Titre>
+<Dossier ID="N18568">Poids-lourds</Dossier>
+</FicheLiee><OuSAdresser ID="R22" type="Local personnalisé sur SP">
+<Titre>Direction régionale de l'environnement, de l'aménagement et du logement (Dreal)</Titre>
+<PivotLocal>dreal</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Direction+r%C3%A9gionale+de+l%27environnement%2C+de+l%27am%C3%A9nagement+et+du+logement+%28Dreal%29&amp;where="/>
+</OuSAdresser>
+<OuSAdresser ID="R38617" type="Local personnalisé sur SP">
+<Titre>Direction de l'environnement, de l'aménagement et du logement (Deal)</Titre>
+<PivotLocal>deal</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Direction+de+l%27environnement%2C+de+l%27am%C3%A9nagement+et+du+logement+%28Deal%29&amp;where="/>
+</OuSAdresser>
+<OuSAdresser ID="R34802" type="Local personnalisé sur SP">
+<Titre>Direction régionale et interdépartementale de l'équipement et de l'aménagement</Titre>
+<PivotLocal>driea_ut</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/ile-de-france#service-driea_ut"/>
+</OuSAdresser>
+</ServiceComplementaire>

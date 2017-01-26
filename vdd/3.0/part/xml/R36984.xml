@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R36984" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de précisions à la Commission de protection des droits</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Demande de précisions à la Commission de protection des droits - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-03</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R36984</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N31138">Infractions liées aux nouvelles technologies</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R36984" type="Téléservice">Demande de précisions à la Commission de protection des droits</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Ce téléservice permet de demander le détail des œuvres incriminées et d'apporter des observations au sujet de la recommandation envoyée. Il est nécessaire de préciser le numéro de dossier figurant sur la recommandation.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://cpdform.hadopi.fr/">
+<Source>Hadopi</Source>
+</LienWeb>
+<FicheLiee ID="F32108" audience="Particuliers" type="Fiche d'information">
+<Titre>Hadopi : avertissement et amende pour téléchargement illégal</Titre>
+<Dossier ID="N31138">Infractions liées aux nouvelles technologies</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N19104" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Hébergement touristique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Hébergement touristique : Hôtel, Meublé de tourisme, Camping et caravanage, Autres types d'hébergement</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-09</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N19104</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19809</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Locataire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N19104" type="Dossier">Hébergement touristique</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N168">Vacances</SousThemePere>
+<SousDossier ID="N19104-1">
+<Titre>Hôtel</Titre><Fiche ID="F31236">Réservation et annulation</Fiche>
+<Fiche ID="F2056">Vol, détérioration ou accident</Fiche>
+</SousDossier>
+<SousDossier ID="N19104-2">
+<Titre>Meublé de tourisme</Titre><Fiche ID="F2043">Déclaration en mairie et classement</Fiche>
+<Fiche ID="F2045">Contrat de location</Fiche>
+<Fiche ID="F2046">Occupation des lieux</Fiche>
+</SousDossier>
+<SousDossier ID="N19104-3">
+<Titre>Camping et caravanage</Titre><Fiche ID="F2058">Camping</Fiche>
+<Fiche ID="F2719">Caravanage</Fiche>
+</SousDossier>
+<SousDossier ID="N19104-4">
+<Titre>Autres types d'hébergement</Titre><Fiche ID="F17452">Chambre d'hôtes</Fiche>
+<Fiche ID="F2069">Auberge de jeunesse</Fiche>
+</SousDossier><VoirAussi important="non">
+<Fiche ID="F32744" audience="Particuliers">
+<Titre>Impôt sur le revenu : revenus locatifs à déclarer (locaux meublés)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R39998" URL="https://www.classement.atout-france.fr/hebergements-classes" type="Téléservice">
+<Titre>Rechercher un hébergement touristique classé</Titre>
+<Source ID="R30681">Atout France - Agence de développement touristique de la France</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17897" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13566.do" numerocerfa="13566*02" type="Formulaire">
+<Titre>Déclaration en mairie de location de chambre d'hôte</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17567" URL="http://www.conso.net/content/lagence-de-voyages-annule-le-sejour-prevu-vous-demandez-un-dedommagement" type="Modèle de document">
+<Titre>Demander une indemnité en cas d'annulation de son voyage à forfait par l'agence</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16631" URL="http://www.conso.net/content/les-prestations-prevues-au-cours-dun-voyage-organise-sont-modifiees-sur-place" format="text/html; charset=utf-8" poids="0" type="Modèle de document">
+<Titre>Demander un remboursement en cas de modification des prestations de son voyage organisé</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16632" URL="http://www.conso.net/content/la-villa-que-vous-avez-lou%C3%A9e-pour-les-vacances-ne-correspond-pas-au-descriptif-re%C3%A7u" type="Modèle de document">
+<Titre>Demander le remboursement d'une location de vacances en cas d'annonce mensongère</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2896" URL="http://www.conso.net/content/certains-objets-vous-ont-%C3%A9t%C3%A9-d%C3%A9rob%C3%A9s-pendant-votre-s%C3%A9jour-dans-un-h%C3%B4tel" type="Modèle de document">
+<Titre>Mise en demeure de l'hôtel en cas de refus d'indemnisation d'objets volés</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15347" URL="http://www.conso.net/content/l%E2%80%99agence-de-voyages-vous-demande-un-suppl%C3%A9ment-pour-un-circuit-r%C3%A9serv%C3%A9-depuis-plusieurs" type="Modèle de document">
+<Titre>Contester l'augmentation du prix de son voyage à forfait moins d'un mois avant le départ</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R3125" URL="http://www.tourisme-handicaps.org/les-labels/" audience="Particuliers">
+<Titre>Label national Tourisme et handicap</Titre>
+<Source ID="R30782">Ministère en charge du tourisme</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41541" URL="http://www.tourisme-handicaps.org/" audience="Particuliers">
+<Titre>Tourisme et handicap</Titre>
+<Source ID="R31680">Association Tourisme et Handicaps</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16426" URL="http://www.entreprises.gouv.fr/marques-nationales-tourisme/presentation-tourisme-et-handicap?language=en-gb" audience="Particuliers">
+<Titre>Établissements labellisés Tourisme et Handicap</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R3126" URL="http://www.gites-de-france.com/produits-gites-de-france.html" audience="Particuliers">
+<Titre>Gîtes de France</Titre>
+<Source ID="R30895">Gîtes de France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R147" URL="http://www.onf.fr/retrouvance/sommaire/gites" audience="Particuliers">
+<Titre>Gîtes de l'Office national des forêts (ONF)</Titre>
+<Source ID="R30772">Office national des forêts (ONF)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17144" URL="http://www.accueil-paysan.com/fr/que-faisons-nous/les-types-daccueil/hebergement/" audience="Particuliers">
+<Titre>Hébergement chez un accueillant d'Accueil Paysan</Titre>
+<Source ID="R30804">Fédération nationale accueil paysan</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41635" URL="http://www.atout-france.fr" audience="Particuliers">
+<Titre>Site de l'Agence de développement touristique de la France</Titre>
+<Source ID="R30681">Atout France - Agence de développement touristique de la France</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F33175" audience="Particuliers">Quelle réglementation s'applique aux locations de vacances entre particuliers ?</QuestionReponse>
+<QuestionReponse ID="F2050" audience="Particuliers">Comment sont classés les hôtels de tourisme ?</QuestionReponse>
+<QuestionReponse ID="F2048" audience="Particuliers">Qu'est-ce que la taxe de séjour ?</QuestionReponse>
+<QuestionReponse ID="F31187" audience="Particuliers">Quelle est la différence entre un acompte et des arrhes ?</QuestionReponse>
+<QuestionReponse ID="F18960" audience="Particuliers">Un hôtel doit-il remettre une facture à ses clients ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18655" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'impôt sur les sociétés et bénéfices industriels et commerciaux (BIC) - Régime réel normal</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Tableau comptable qui retrace les mouvements de l'actif immobilisé, l'actif circulant et des comptes de régularisation, dans le cadre du régime réel normal en matière de bénéfices industriels et commerciaux ou d'impôt sur les sociétés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-08</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18655</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18655" type="Formulaire">Déclaration d'impôt sur les sociétés et bénéfices industriels et commerciaux (BIC) - Régime réel normal</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>10937*18</NumeroCerfa>
+<AutreNumero>2050</AutreNumero>
+<Introduction>
+<Texte><Paragraphe> Tableau comptable qui retrace les mouvements de l'actif immobilisé, l'actif circulant et des comptes de régularisation, dans le cadre du régime réel normal en matière de bénéfices industriels et commerciaux ou d'impôt sur les sociétés. </Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4860&amp;typePage=ifi01">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F32919" audience="Professionnels" type="Fiche d'information">
+<Titre>Bénéfices industriels et commerciaux (BIC) : régimes fiscaux et déclarations</Titre>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23510" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration et paiement de l'impôt sur les sociétés</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32166" audience="Professionnels" type="Fiche d'information">
+<Titre>Entreprises relevant de la Direction des grandes entreprises (DGE)</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+</ServiceComplementaire>

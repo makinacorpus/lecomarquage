@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R44043" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Document unique de marché européen (Dume)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Document unique de marché européen (Dume) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-06</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R44043</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31387">Réponse à un avis de marché public</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R44043" type="Téléservice">Document unique de marché européen (Dume)</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Permet à une entreprise candidate à un marché public de déclarer son statut financier, ses capacités et son aptitude pour participer à la procédure.</Paragraphe>
+<Paragraphe>Si la procédure est électronique, le Dume mis à la disposition des candidats peut être exporté, stocké et envoyé par voie électronique, mais ce formulaire peut aussi être rempli, imprimé et joint au dossier  si l'entreprise veut et peut transmettre sa réponse en version  papier.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://ec.europa.eu/growth/tools-databases/espd/filter?lang=fr">
+<Source>Commission européenne</Source>
+</LienWeb>
+<FicheLiee ID="F32144" audience="Professionnels" type="Fiche d'information">
+<Titre>Présentation du dossier de candidature à un marché public</Titre>
+<Dossier ID="N31387">Réponse à un avis de marché public</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

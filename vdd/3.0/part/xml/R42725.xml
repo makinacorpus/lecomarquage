@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42725" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Simulateur en ligne Caf : pour savoir si vous avez droit à la prime d'activité et estimer son montant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Permet d'estimer le droit au bénéfice de la prime d'activité et le montant auquel l'usager peut prétendre.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-12</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42725</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31477">Prime d'activité</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42725" type="Simulateur">Simulateur en ligne Caf : pour savoir si vous avez droit à la prime d'activité et estimer son montant</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet d'estimer le droit au bénéfice de la prime d'activité et le montant auquel l'usager peut prétendre.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://wwwd.caf.fr/wps/portal/caffr/simulateurpa/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOID_A3dPbyDDdz9A1yNDTxdzQNDXJ19DS0CjYAKIoEKDHAARwNC-sP1o8BK8JhQkBthkO6oqAgArtbX2Q!!/dl5/d5/L0lDU0NTSUtVSkNncFJBISEvb0VvUUFBSVFKQUFNVWdnR0dRWkRncENsd1FBIS80SkNoRDJtWVJ5RUlSU1pDbEdveC9aN182SDRHMTlLMEtPM1EwMEExMFNOOEFWMzBHNC9aNl82SDRHMTlLMEswQ0g3MEFVOThUTzlOMTAwNi9ub3JtYWwvZnJta0NuYWZBY3Rpb24vcmVpbml0aWFsaXNlcg!!/">
+<Source>Ministère en charge des affaires sociales</Source>
+</LienWeb>
+<FicheLiee ID="F2882" audience="Particuliers" type="Fiche d'information">
+<Titre>Prime d'activité : conditions d'attribution et montant</Titre>
+<Dossier ID="N31477">Prime d'activité</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

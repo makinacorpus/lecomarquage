@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F219" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Travailleur handicapé : contrat d'apprentissage</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le jeune travailleur handicapé peut conclure un contrat d'apprentissage qui lui permettra d'obtenir une qualification professionnelle.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F219</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018524058&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018524048&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N198</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N198">Formation des personnes handicapées</Niveau>
+<Niveau ID="F219" type="Fiche d'information">Travailleur handicapé : contrat d'apprentissage</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20176">Formation</SousThemePere><DossierPere ID="N198">
+<Titre>Formation des personnes handicapées</Titre>
+<Fiche ID="F219">Contrat d'apprentissage</Fiche>
+<Fiche ID="F211">Centre de pré-orientation</Fiche>
+<Fiche ID="F212">Contrat ou stage de rééducation professionnelle</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le jeune travailleur handicapé peut entrer en apprentissage et conclure un contrat permettant d'obtenir une qualification professionnelle. Ce contrat se déroule en entreprise et en centre de formation. Le jeune travailleur bénéficie d'aménagements particuliers.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>L'apprentissage repose sur le principe de l'alternance entre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> enseignement théorique en <LienInterne LienPublication="F11244" type="Fiche d'information" audience="Particuliers">centre de formation d'apprentis (CFA)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et enseignement du métier chez l'employeur avec lequel l'apprenti a signé son contrat de travail. Ce contrat est conclu avec l'employeur une fois l'apprenti inscrit dans un CFA.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions pour en bénéficier</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Conditions à remplir par le jeune</Paragraphe>
+</Titre><Paragraphe>Il n'y a pas de limite d'âge pour l'apprenti   <LienInterne LienPublication="F1650" type="Fiche Question-réponse" audience="Particuliers">reconnu travailleur handicapé</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Conditions à remplir par l'employeur</Paragraphe>
+</Titre><Paragraphe>Tout employeur, privé ou public, entreprise, association, profession libérale peut conclure un contrat d'apprentissage avec un jeune. </Paragraphe>
+<Paragraphe>L'employeur nomme, parmi son personnel, un maître d'apprentissage responsable de la formation de l'apprenti. </Paragraphe>
+<Paragraphe>Il peut être le chef d'entreprise lui-même ou l'un des salariés. </Paragraphe>
+<Paragraphe>Le maître d'apprentissage assure la liaison entre le CFA et l'entreprise. </Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le jeune cherche lui-même une entreprise susceptible de l'accueillir en tant qu'apprenti et c'est l'entreprise qui l'inscrit en CFA.</Paragraphe>
+<Paragraphe>Pour trouver une entreprise, le jeune peut faire appel :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à l'association de gestion du fonds pour l'insertion professionelle des personnes handicapées (Agefiph), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à Cap emploi. </Paragraphe>
+</Item>
+</Liste><OuSAdresser ID="R23152" type="Local personnalisé sur SP">
+<Titre>Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (Agefiph)</Titre>
+<PivotLocal>agefiph</PivotLocal>
+<RessourceWeb URL="http://www.agefiph.fr/Annuaire"/>
+<Source ID="R30609">Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (Agefiph)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R20515" type="Local personnalisable">
+<Titre>Cap Emploi</Titre>
+<PivotLocal>cap_emploi</PivotLocal>
+<RessourceWeb URL="http://www.capemploi.com/annuaire"/>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conclusion du contrat</Paragraphe>
+</Titre><Paragraphe>Un contrat d'apprentissage doit être signé par l'employeur et l'apprenti (et par ses parents ou tuteur, si l'apprenti est mineur). </Paragraphe>
+<Paragraphe>Ce contrat doit être conclu au moyen d'un formulaire.</Paragraphe><ServiceEnLigne ID="R1319" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10103.do" commentaireLien="Contrat d'apprentissage ou avenant" numerocerfa="10103*06" autrenumero="FA13" type="Formulaire">
+<Titre>Contrat d'apprentissage</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+<Texte><Paragraphe>À établir en 3 exemplaires originaux (chacun d'eux étant signé par l'apprenti et l'employeur) : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un pour l'employeur, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un pour l'apprenti,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un pour l'organisme d'enregistrement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'établissement de formation doit le compléter, ou  fournir les informations pour la partie formation, et y apposer son visa ou tampon.</Paragraphe>
+
+</Texte><NoticeLiee ID="R13767" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51649&amp;cerfaFormulaire=10103" numerocerfa="51649#03 - FA14">Notice pour le contrat d'apprentissage</NoticeLiee>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déroulement de la formation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Aménagements</Paragraphe>
+</Titre><Paragraphe>Suivant le handicap dont le jeune est atteint, un aménagement de la formation peut être nécessaire, que ce soit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> au niveau d'un matériel pédagogique spécifique,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou d'un aménagement d'une partie des locaux. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si l'apprenti ne peut pas assister à la formation du fait de son handicap, il peut être autorisé à suivre par correspondance un enseignement équivalent à celui dispensé en centre de formation.</Paragraphe>
+<Paragraphe>L'autorisation est  délivrée après un avis favorable de la commission des droits et de l'autonomie des personnes handicapées (CDAPH).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée</Paragraphe>
+</Titre><Paragraphe>La durée maximale du contrat d'apprentissage est de 4 ans.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Rémunération</Paragraphe>
+</Titre><Paragraphe>La rémunération de l'apprenti est calculée selon son âge et l'ancienneté de son contrat.</Paragraphe>
+<Tableau>
+<Titre>Salaire minimal pour un temps complet de 151,67 heures mensuelles au 1er janvier 2017</Titre>
+<Colonne largeur="28" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="26" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Année d'exécution du contrat</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>De 15 à 17 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>De 18 à 20 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>À partir de 21 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1<Exposant>re</Exposant> année</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>370,07 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>606,91 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>784,54 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2<Exposant>è</Exposant> année</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>547,70 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>725,33 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>902,96 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>3<Exposant>è</Exposant> année</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>784,54 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>962,17 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 154,61 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>4<Exposant>è</Exposant> année</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 006,58 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 184,21 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 376,65 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N198" audience="Particuliers">
+<Titre>Formation des personnes handicapées</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R11" type="Local personnalisé sur SP">
+<Titre>Information jeunesse</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>cij</PivotLocal>
+<RessourceWeb URL="http://www.cidj.com/reseau-ij/france-metropolitaine"/>
+<Source ID="R30855">Centre d'information et de documentation jeunesse (CIDJ)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14" type="Local personnalisé sur SP">
+<Titre>Maison départementale des personnes handicapées (MDPH)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>maison_handicapees</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=MDPH&amp;where="/>
+</OuSAdresser>
+<OuSAdresser ID="R23152" type="Local personnalisé sur SP">
+<Titre>Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (Agefiph)</Titre>
+<Complement>Pour trouver une entreprise</Complement>
+<PivotLocal>agefiph</PivotLocal>
+<RessourceWeb URL="http://www.agefiph.fr/Annuaire"/>
+<Source ID="R30609">Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (Agefiph)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R20515" type="Local personnalisable">
+<Titre>Cap Emploi</Titre>
+<Complement>Pour trouver une entreprise</Complement>
+<PivotLocal>cap_emploi</PivotLocal>
+<RessourceWeb URL="http://www.capemploi.com/annuaire"/>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018524058&amp;cidTexte=LEGITEXT000006072050" ID="R31502">
+<Titre>Code du travail : articles R6222-46 à R6222-49</Titre>
+<Complement>Durée du contrat</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018524048&amp;cidTexte=LEGITEXT000006072050" ID="R31503">
+<Titre>Code du travail : articles R6222-50 à R6222-53</Titre>
+<Complement>Aménagement de la formation</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R62" URL="https://www.alternance.emploi.gouv.fr/portail_alternance/jcms/hl_5662//rechercher-une-formation" audience="Particuliers">
+<Titre>Recherche d'une formation en alternance</Titre>
+<Source ID="R30671">Ministère en charge de la formation professionnelle</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R34817" URL="http://www.agefiph.fr/Actualites/Decouvrez-le-guide-Handicap-et-Alternance" audience="Particuliers">
+<Titre>Guide Handicap et Alternance</Titre>
+<Source ID="R30609">Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées (Agefiph)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F221" audience="Particuliers">Quelles formations sont accessibles à une personne en situation de handicap ?</QuestionReponse>
+<QuestionReponse ID="F21615" audience="Particuliers">Peut-on travailler et percevoir l'allocation aux adultes handicapés (AAH) ?</QuestionReponse>
+<QuestionReponse ID="F23149" audience="Particuliers">Handicap : quels travailleurs sont concernés par l'obligation d'emploi ?</QuestionReponse>
+<QuestionReponse ID="F2921" audience="Particuliers">Handicap : peut-on encore toucher la prime d'insertion ?</QuestionReponse>
+<QuestionReponse ID="F32038" audience="Professionnels">Comment fixer la rémunération d'un apprenti ?</QuestionReponse>
+
+</Publication>

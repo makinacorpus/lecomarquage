@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R39502" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Résultats du permis de conduire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Résultats du permis de conduire - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-19</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R39502</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N530">Permis de conduire</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R39502" type="Téléservice">Résultats du permis de conduire</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Permet de connaître le résultat de votre épreuve pratique 48 heures après l'avoir passée.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.securite-routiere.gouv.fr/permis-de-conduire/resultats-du-permis-de-conduire">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F31121" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis C1 : véhicule compris entre 3,5 et 7,5 tonnes</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31124" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis C1E : véhicule entre 3,5 et 7,5 tonnes avec remorque de plus de 750 kg</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2846" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis CE : véhicule de plus de 7,5 tonnes avec remorque de plus de 750 kg</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2844" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis D : transport de personnes - plus de 8 places et plus de 8 mètres</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31128" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis D1 : transport de personnes - 16 places et 8 mètres maximum</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31129" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis D1E : transport de personnes - 16 places et 8 mètres maximum avec remorque de plus de 750 kg</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2848" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis DE : transport de personnes - plus de 16 places et plus de 8 mètres avec remorque de plus de 750 kg</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2828" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis de conduire (catégorie B) - Déroulement de l'examen et délivrance</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2832" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis de conduire A1 (moto légère)</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31083" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis de conduire A2 (permis moto de puissance intermédiaire)</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2845" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis de conduire BE : voiture avec remorque de plus de 750 kg</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2843" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis poids lourds de catégorie C  : plus de 7,5 tonnes</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

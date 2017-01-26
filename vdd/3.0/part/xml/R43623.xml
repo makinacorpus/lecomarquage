@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R43623" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Consultez votre situation fiscale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Consultez votre situation fiscale - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-05</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R43623</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N206">Impôts locaux</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R43623" type="Formulaire">Consultez votre situation fiscale</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="https://cfspart.impots.gouv.fr/LoginMDP">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F155" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Peut-on consulter son dossier fiscal et obtenir une copie de ses déclarations ?</Titre>
+<Dossier ID="N31080">Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F17293" audience="Particuliers" type="Fiche d'information">
+<Titre>Taxe d'habitation sur les logements vacants (THLV)</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2847" audience="Particuliers" type="Fiche d'information">
+<Titre>Taxe sur les logements vacants applicable à certaines communes (TLV)</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

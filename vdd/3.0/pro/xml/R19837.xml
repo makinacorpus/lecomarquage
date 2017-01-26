@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19837" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Micro-entrepreneur : déclaration en ligne de début, de modification ou de cessation d'activité (ex-auto-entrepreneur)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Micro-entrepreneur : déclaration en ligne de début, de modification ou de cessation d'activité (ex-auto-entrepreneur) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-27</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19837</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19837" type="Téléservice">Micro-entrepreneur : déclaration en ligne de début, de modification ou de cessation d'activité (ex-auto-entrepreneur)</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>15253*02</NumeroCerfa>
+<AutreNumero>P0 CMB micro-entrepreneur / PO</AutreNumero>
+<Texte><Paragraphe>Permet de remplir en ligne les éléments constitutifs de la création d'une micro-entreprise et de signaler toute modification (nom, prénoms, changement d'adresse du domicile personnel ou du lieu d'exercice, modification concernant le conjoint collaborateur, ou changement d'activité) ou de déclarer la cessation d'activité, en remplissant en ligne la déclaration qui doit être imprimée, signée, et adressée au CFE compétent de votre département.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.cfe.urssaf.fr/autoentrepreneur/CFE_Bienvenue">
+<Source>Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</LienWeb>
+<FicheLiee ID="F20678" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment un micro-entrepreneur doit-il déclarer sa cessation d'activité ?</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23264" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration de micro-entrepreneur (auto-entrepreneur)</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31479" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration de transfert du siège social d'une entreprise</Titre>
+<Dossier ID="N31143">Modification d'une entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22632" audience="Professionnels" type="Fiche d'information">
+<Titre>Ouverture d'un commerce</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

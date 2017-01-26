@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1410" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Primaire et secondaire : comment s'effectue le passage du privé au public ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Le passage d'un établissement scolaire privé à un établissement public dépend du type d'établissement où se trouve l'enfant (sous ou hors contrat).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-08</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1410</dc:identifier>
+<dc:source>http://circulaire.legifrance.gouv.fr/pdf/2009/04/cir_761.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N54</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N54">École primaire (maternelle et élémentaire)</Niveau>
+<Niveau ID="F1410" type="Fiche Question-réponse">Primaire et secondaire : comment s'effectue le passage du privé au public ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N54">
+<Titre>École primaire (maternelle et élémentaire)</Titre><SousDossier ID="N54-1">
+<Titre>Inscription à l'école</Titre>
+<Fiche ID="F1864">À l'école maternelle</Fiche>
+<Fiche ID="F1865">À l'école primaire</Fiche>
+<Fiche ID="F1881">Déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N54-2">
+<Titre>Programme scolaire</Titre>
+<Fiche ID="F32926">Programmes scolaires à l'école maternelle</Fiche>
+<Fiche ID="F24484">Programmes scolaires de l'école primaire (élémentaire)</Fiche>
+</SousDossier>
+<SousDossier ID="N54-3">
+<Titre>Vie quotidienne</Titre>
+<Fiche ID="F24490">Horaire d'une journée à l'école</Fiche>
+<Fiche ID="F19364">Accueil en cas d'absence du professeur</Fiche>
+<Fiche ID="F424">Surveillance et sécurité des élèves</Fiche>
+<Fiche ID="F24570">Restauration scolaire</Fiche>
+<Fiche ID="F21765">Sortie et voyage scolaire</Fiche>
+<Fiche ID="F1879">Santé à l'école primaire</Fiche>
+<Fiche ID="F31006">Participation financière de la famille</Fiche>
+</SousDossier>
+<SousDossier ID="N54-4">
+<Titre>Passage et redoublement</Titre>
+<Fiche ID="F32111">Passage, redoublement ou saut de classe</Fiche>
+<Fiche ID="F1870">Passage de l'école au collège, du CM2 à la 6e</Fiche>
+</SousDossier>
+<SousDossier ID="N54-5">
+<Titre>Rôle et participation des parents</Titre>
+<Fiche ID="F1391">Information des parents sur la scolarité des enfants</Fiche>
+<Fiche ID="F1880">Représentants des parents d'élèves</Fiche>
+<Fiche ID="F1399">Conseil d'école</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Le passage d'un établissement scolaire privé à un établissement public dépend du type d'établissement privé dans lequel se trouve votre enfant (sous contrat ou hors contrat).</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Si l'établissement privé était sous contrat</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Inscription en primaire</Paragraphe>
+</Titre><Paragraphe>Vous devez vous  adresser à votre mairie avant de contacter l'établissement scolaire :</Paragraphe><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<Paragraphe>Ou à Paris :</Paragraphe><OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+<Paragraphe>Vous devrez ensuite déposer au secrétariat de l'établissement dont vous dépendez le dossier scolaire de votre enfant en précisant la décision notifiée par le conseil de classe où il était inscrit auparavant (passage en classe supérieure ou redoublement). </Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous souhaitez inscrire votre enfant en cours d'année, prenez contact auparavant avec l'établissement. En effet, il peut ne pas avoir de place disponible pour l'accueillir.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Inscription en collège</Paragraphe>
+</Titre><Paragraphe>Vous devrez contacter directement le collège de secteur.</Paragraphe>
+<Paragraphe> Vous devrez déposer au secrétariat de l'établissement le dossier scolaire de votre enfant en précisant la décision notifiée par le conseil de classe où il était inscrit auparavant (passage en classe supérieure ou redoublement). </Paragraphe><OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous souhaitez inscrire votre enfant en cours d'année, prenez contact auparavant avec l'établissement. En effet, il peut ne pas avoir de place disponible pour l'accueillir.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Inscription au lycée</Paragraphe>
+</Titre><Paragraphe>Vous devrez contacter directement le lycée de secteur.</Paragraphe>
+<Paragraphe> Vous devrez déposer au secrétariat de l'établissement le dossier scolaire de votre enfant en précisant la décision notifiée par le conseil de classe où il était inscrit auparavant (passage en classe supérieure ou redoublement). </Paragraphe><OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous souhaitez inscrire votre enfant en cours d'année, prenez contact auparavant avec l'établissement. En effet, il peut ne pas avoir de place disponible pour l'accueillir.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si l'établissement  était  hors contrat</Paragraphe>
+</Titre><Paragraphe>Vous devrez  vous adresser à la direction des services départementaux de l'éducation nationale du lieu de votre résidence.</Paragraphe><OuSAdresser ID="R24" type="Local personnalisé sur SP">
+<Titre>Direction des services départementaux de l'éducation nationale</Titre>
+<PivotLocal>inspection_academique</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-et-services-departementaux-de-l-education-nationale.html#Les_coordonnées%20des%20rectorats%20et%20des%20services%20départementaux%20de%20l%27éducation%20nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+
+<Paragraphe>Si votre enfant est au collège ou au lycée, il devra passer un examen d'admission pour être inscrit dans l'établissement public choisi.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si votre enfant est au collège ou au lycée, il devra passer un examen d'admission pour être inscrit dans l'établissement public choisi.</Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://circulaire.legifrance.gouv.fr/pdf/2009/04/cir_761.pdf" ID="R36124" format="application/pdf" poids="6.5 KB">
+<Titre>Note de service n°81-173 du 16 avril 1981 relative à l'admission dans l'enseignement public des élèves de l'enseignement privé hors contrat</Titre>
+</Reference>
+</Publication>

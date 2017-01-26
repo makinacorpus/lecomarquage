@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F108" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Accès gratuit au musée pour les enseignants</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Le Pass-éducation permet à tous les personnels de l'éducation nationale (enseignants ou non) en école, collège ou lycée d'accéder gratuitement à certains musées et monuments nationaux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-16</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F108</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17914</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N17914">Culture et télévision</Niveau>
+<Niveau ID="F108" type="Fiche d'information">Accès gratuit au musée pour les enseignants</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N150">Temps libre</SousThemePere><DossierPere ID="N17914">
+<Titre>Culture et télévision</Titre>
+<Fiche ID="F20348">Entrée gratuite au musée pour les jeunes</Fiche>
+<Fiche ID="F108">Accès gratuit au musée pour les enseignants</Fiche>
+<Fiche ID="F32297">Téléchargement légal de musique et de films</Fiche>
+<Fiche ID="F32452">Téléchargement légal de jeux vidéo</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le Pass-éducation permet à tous les personnels de l'éducation nationale (enseignants ou non) en école, collège ou lycée d'accéder gratuitement à certains musées et monuments nationaux.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le Pass-éducation vous permet d'accéder gratuitement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>aux collections permanentes <LienExterne URL="http://www.education.gouv.fr/cid24202/pass-education-gratuite-des-musees-et-monuments-nationaux-pour-les-enseignants.html#Liste_des musées et monuments nationaux en académie">des musées nationaux</LienExterne>
+
+ (le musée du Louvre, le Centre Pompidou-Metz...)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et aux monuments nationaux (sont notamment concernés : l'Arc de triomphe, les châteaux de Versailles, Chambord et Fontainebleau, le Mont-Saint-Michel ou encore le Panthéon).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Personnels concernés</Paragraphe>
+</Titre><Paragraphe>Tous les personnels travaillant en école, collège ou lycée dans un établissement public ou privé sous contrat peuvent obtenir le pass-éducation.</Paragraphe>
+<Paragraphe>Que ce soit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les enseignants,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les surveillants,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les personnels de direction,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les conseillers principaux d'éducation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les infirmiers scolaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les assistants de service social,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les conseillers d'orientation,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les personnels administratifs...</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez être titulaire, stagiaire ou contractuel, à temps plein ou partiel.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment l'obtenir ?</Paragraphe>
+</Titre><Paragraphe>Les cartes Pass-éducation sont distribuées par les directeurs d'école et les chefs d'établissement. Vous devez vous renseigner auprès du secrétariat de votre établissement. Vous devrez fournir une photo d'identité.</Paragraphe>
+<Paragraphe>Si vous êtes stagiaire, vous devez vous adressez à l'établissement dans lequel vous faites votre stage.</Paragraphe><OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Date de validité</Paragraphe>
+</Titre><Paragraphe>La carte est valable jusqu'au 31 décembre 2018 quelle que soit la date de demande.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F20348" audience="Particuliers">
+<Titre>Accès gratuit pour les jeunes aux musées et monuments nationaux</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<PourEnSavoirPlus type="Information pratique" ID="R37059" URL="http://www.education.gouv.fr/cid24202/renouvellement-pass-education.html" audience="Particuliers">
+<Titre>Dossier sur le Pass-éducation</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+</Publication>

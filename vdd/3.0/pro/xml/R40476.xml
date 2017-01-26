@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R40476" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'autorisation de prises de vues aériennes</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>L'autorisation est délivrée par la préfecture du département où l'utilisateur est domicilié, ou la préfecture de police pour les personnes résidant à Paris ou à l'étranger.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-01</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R40476</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N18569">Aviation et transport maritime</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R40476" type="Formulaire">Demande d'autorisation de prises de vues aériennes</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>L'autorisation est délivrée par la préfecture du département où l'utilisateur est domicilié, ou  la préfecture de police pour les personnes résidant à Paris ou à l'étranger.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Permet de déposer une demande d'autorisation par toute personne physique ou morale utilisant tout appareil d'enregistrement d'images ou de données en dehors du spectre visible tel que thermographe (caméra infrarouge), radar, etc.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/layout/set/print/content/download/3268/15357/file/prise_vues_aeriennes.pdf" format="application/pdf" poids="22.9 KB">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F32849" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment obtenir l'autorisation de prises de vue aériennes ?</Titre>
+<Dossier ID="N18569">Aviation et transport maritime</Dossier>
+</FicheLiee><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<Complement>Pour toutes régions, sauf Paris</Complement>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R2215" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Site central de Gesvres</Titre>
+<Complement>Pour les personnes résidant à Paris ou à l'étranger</Complement>
+<PivotLocal>paris_ppp_gesvres</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+</ServiceComplementaire>

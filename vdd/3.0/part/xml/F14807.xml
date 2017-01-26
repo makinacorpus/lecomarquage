@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14807" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carte d'identité / Passeport : quel justificatif de domicile ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Pour demander une carte nationale d'identité ou un passeport, il convient de fournir un justificatif de domicile récent (datant de moins d'un an). Le document à produire dépend de votre situation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2016-11-07</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14807</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006117683&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031370017&amp;cidTexte=LEGITEXT000031366350, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006541026&amp;cidTexte=LEGITEXT000006060725, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006286495&amp;cidTexte=LEGITEXT000018763666, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006906187&amp;idSectionTA=LEGISCTA000006160904&amp;cidTexte=LEGITEXT000006074069, http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028090286</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F14807" type="Fiche Question-réponse">Carte d'identité / Passeport : quel justificatif de domicile ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Pour demander une carte nationale d'identité ou un passeport, il convient de fournir un justificatif de domicile récent (datant de moins d'un an).
+		
+			Le document à produire dépend de votre situation.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous avez un justificatif de domicile à votre nom</Paragraphe>
+</Titre><Paragraphe>Un seul justificatif de domicile est nécessaire. Il doit comporter votre nom et votre prénom et doit  être récent : <MiseEnEvidence>moins d'un an</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Il peut s'agir d'un des documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>facture  d'eau, d'électricité, de gaz ou de téléphone (y compris de téléphone mobile),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avis d'imposition ou certificat de  non imposition,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>quittance d'assurance (incendie, risques locatifs ou responsabilité civile) pour le logement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>titre de propriété ou quittance de loyer.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La copie d'une facture électronique est acceptée.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre>
+				<Paragraphe>Un justificatif de domicile sécurisé (comportant un <LienExterne URL="https://ants.gouv.fr/Les-solutions/2D-Doc">code barre 2D-Doc</LienExterne>
+
+) ne peut pas être refusé.</Paragraphe>
+			</ASavoir>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous habitez chez un proche (parent, ami...)</Paragraphe>
+</Titre><Paragraphe>Il faut présenter les 3 documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Photocopie de la pièce d'identité de la personne qui vous héberge,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Lettre de l’hébergeant signée certifiant que vous habitez chez elle de manière stable ou depuis plus de 3 mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Justificatif de domicile récent (moins d'un an) au nom de l'hébergeant</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes sans domicile stable ou fixe (SDF)</Paragraphe>
+</Titre><Paragraphe>Vous pouvez, sous certaines conditions, élire domicile auprès d'une des structures suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit un organisme agréé par le préfet. Il peut s'agir par exemple d'organismes humanitaires menant des actions contre l'exclusion ou pour l'accès aux soins (ATD quart monde, Secours catholique...). Votre mairie peut vous indiquer la liste de ces structures agréées,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit un centre communal (ou intercommunal) d'action sociale (CCAS ou CIAS).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le nom de l'organisme ne figure pas sur la pièce d'identité. Seule son adresse sera indiquée.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous vivez à l'hôtel</Paragraphe>
+</Titre><Paragraphe>Il faut présenter les 2 documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>attestation du gérant ou du directeur de l'hôtel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>document officiel à votre nom indiquant la même adresse (permis de conduire, avis d'imposition, attestation vitale, titre de pension, titre d'allocations familiales, document de Pôle Emploi).</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous vivez dans une caravane</Paragraphe>
+</Titre><Paragraphe>Il faut présenter les 2 documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>acte de propriété du terrain ou contrat de location,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>document officiel, à votre nom indiquant la même adresse.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous n'avez pas de domicile (ou résidence) fixe depuis plus de 6 mois (gens du voyage), il faut produire un livret spécial de circulation ou un livret de circulation en cours de validité.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006117683&amp;cidTexte=LEGITEXT000006070721" ID="R17100">
+<Titre>Code civil : articles 102 à 111</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031370017&amp;cidTexte=LEGITEXT000031366350" ID="R18389">
+<Titre>Code des relations entre le public et l'administration : articles R113-5 à R113-9</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006541026&amp;cidTexte=LEGITEXT000006060725" ID="R1021">
+<Titre>Décret n°55-1397 du 22 octobre 1955 : article 2 - Carte d'identité (domicile)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006286495&amp;cidTexte=LEGITEXT000018763666" ID="R16603">
+<Titre>Décret n°2005-1726 du 30 décembre 2005 : article 6 - Passeport (domicile)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006906187&amp;idSectionTA=LEGISCTA000006160904&amp;cidTexte=LEGITEXT000006074069" ID="R955">
+<Titre>Code de l'action sociale et des familles : articles D264-1 à D264-15</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf" ID="R11425" format="application/pdf" poids="1.6 MB">
+<Titre>Circulaire du 1er mars 2010 relative à la simplification de la délivrance des cartes nationales d'identité et des passeports</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028090286" ID="R393">
+<Titre>Arrêté du 27 septembre 2013 relatif à la sécurisation des pièces justificatives de domicile au moyen d'un dispositif électronique pour garantir son authenticité</Titre>
+<Complement>Dispositif 2D-doc</Complement>
+</Reference>
+<QuestionReponse ID="F32675" audience="Particuliers">Quel justificatif de domicile pour un mineur ?</QuestionReponse>
+<QuestionReponse ID="F12567" audience="Particuliers">Quel recours si mon dossier est rejeté ?</QuestionReponse>
+<QuestionReponse ID="F21224" audience="Particuliers">Doit-on remplacer sa carte d'identité après un déménagement ?</QuestionReponse>
+<QuestionReponse ID="F16872" audience="Particuliers">Peut-on obtenir une carte d'identité en urgence ?</QuestionReponse>
+
+</Publication>

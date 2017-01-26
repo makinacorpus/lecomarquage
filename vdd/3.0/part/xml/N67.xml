@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N67" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Aides financières pour la scolarité</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les aides concernent les enfants du cours primaire (CP) à la terminale.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-25</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N67</dc:identifier>
+<dc:source>http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720, http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100761</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Jeune, Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N67" type="Dossier">Aides financières pour la scolarité</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere>
+<Fiche ID="F1878">Allocation de rentrée scolaire (ARS)</Fiche>
+<Fiche ID="F1883">Bourses de fréquentation scolaire - École primaire (élémentaire)</Fiche>
+<Fiche ID="F984">Bourse des collèges</Fiche>
+<Fiche ID="F616">Bourse de lycée</Fiche>
+<Fiche ID="F32928">Bourse au mérite (au lycée)</Fiche>
+<Fiche ID="F32915">Aides financières pour l'élève inscrit dans la voie professionnelle</Fiche>
+<Fiche ID="F33868">Prime à l'élève boursier reprenant sa formation</Fiche>
+<Fiche ID="F1886">Aides aux élèves en internat</Fiche>
+<Fiche ID="F1025">Fonds social lycéen ou collégien</Fiche>
+<Introduction>
+<Texte>
+<Paragraphe>
+			Les aides concernent les enfants du cours primaire (CP) à la terminale.
+		</Paragraphe>
+</Texte>
+</Introduction><Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720" ID="R18647">
+<Titre>Circulaire n°2016-058 du 13 avril 2016 de rentrée scolaire 2016</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100761" ID="R19312">
+<Titre>Circulaire n°2016-054 du 13 avril 2016 relative à la liste des fournitures scolaires pour l'année 2016-2017</Titre>
+</Reference>
+<ServiceEnLigne ID="R11499" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12539.do" format="application/pdf" poids="148.1 KB" numerocerfa="12539*06" type="Formulaire">
+<Titre>Demande de bourse de collège</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source><NoticeLiee ID="R40722" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51891%2302&amp;cerfaFormulaire=12539*06" numerocerfa="51891#02" format="application/pdf" poids="151.8 KB">Notice - Bourse de collège</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21220" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11779.do" format="application/pdf" poids="158.9 KB" numerocerfa="11779*04" type="Formulaire">
+<Titre>Demande de bourse nationale d'études du second degré (enseignement agricole)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R41081" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15330.do" numerocerfa="15330*01" type="Formulaire">
+<Titre>Demande de bourse d'études - Technicien supérieur des lycées professionnels maritimes</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R41082" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15331.do" numerocerfa="15331*02" type="Formulaire">
+<Titre>Demande de bourse nationale de lycée professionnel maritime</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F1885" audience="Particuliers">Existe-t-il des aides pour financer les études d'un enfant ?</QuestionReponse>
+<QuestionReponse ID="F19294" audience="Particuliers">Peut-on obtenir des aides pour la cantine scolaire ?</QuestionReponse>
+<QuestionReponse ID="F1884" audience="Particuliers">Peut-on encore bénéficier d'une bourse d'enseignement d'adaptation ?</QuestionReponse>
+</Publication>

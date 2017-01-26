@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31808" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mentions obligatoires sur une facture</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>La facture est une note détaillée des prestations ou des marchandises vendues. Pour être valable, elle doit comporter un certain nombre de mentions obligatoires, sous peine d'amende.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-06</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31808</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179228&amp;cidTexte=LEGITEXT000006069569, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006232230&amp;cidTexte=LEGITEXT000005634379, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178892&amp;cidTexte=LEGITEXT000005634379, https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&amp;idArticle=LEGIARTI000022482645&amp;dateTexte=&amp;categorieLien=cid, http://legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000029103760&amp;cidTexte=LEGITEXT000005621315, https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=6C814AD5EA0CC57F319434DE9CF6DE06.tpdila13v_1?cidTexte=JORFTEXT000033338439&amp;dateTexte=&amp;oldAction=rechJO&amp;categorieLien=id&amp;idJO=JORFCONT000033338383</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31384</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31384">Facturation - Paiement</Niveau>
+<Niveau ID="F31808" type="Fiche d'information">Mentions obligatoires sur une facture</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31382">Comptabilité</SousThemePere><DossierPere ID="N31384">
+<Titre>Facturation - Paiement</Titre>
+<Fiche ID="F31144">Devis</Fiche>
+<Fiche ID="F23208">Facturation</Fiche>
+<Fiche ID="F31808">Mentions obligatoires sur une facture</Fiche>
+<Fiche ID="F33527">Conditions générales de vente entre professionnels (CGV)</Fiche>
+<Fiche ID="F23211">Délais de paiement entre professionnels et pénalités de retard</Fiche>
+<Fiche ID="F33369">Se faire payer par carte bancaire</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La facture est une note détaillée des prestations ou des marchandises vendues. Pour être valable, elle doit comporter un certain nombre de mentions obligatoires, sous peine d'amende. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Mentions générales</Paragraphe>
+</Titre><Tableau>
+<Titre>Mentions générales obligatoires pour toutes les factures</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Mentions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Commentaires</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Date d'émission de la facture</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Date à laquelle elle est établie</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Numérotation de la facture </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Numéro unique basé sur une séquence chronologique continue, sans rupture. Il est possible d'émettre des séries distinctes, utilisant par exemple un préfixe par année (2014-XX) ou par année et mois (2014-01-XX).</Paragraphe>
+<Paragraphe>À faire figurer sur toutes les pages, si la facture en comporte plusieurs.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Date de la vente ou de la prestation de service</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Jour effectif de la livraison ou de la fin d'exécution de la prestation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Identité de l'acheteur</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe> Nom (ou dénomination sociale)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Adresse du siège social d'une entreprise ou du domicile d'un particulier (sauf opposition de sa part, pour un particulier)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Identité du vendeur ou prestataire*</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Nom et prénom d'un entrepreneur individuel (suivi éventuellement de son nom commercial)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dénomination sociale d'une société  (suivie du numéro Siren ou Siret)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>numéro RCS pour un commerçant, suivi du nom de la ville où se trouve le greffe d'immatriculation</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>numéro  au Répertoire des métiers pour un artisan (n° Siren + RM + n° du département d'immatriculation)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>adresse du siège social (et non de l'établissement)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si l'entreprise est une société, mention de la forme juridique  (EURL, SARL, SA, SNC, SAS) et du montant du capital social</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23570" type="Fiche d'information" audience="Professionnels">Numéro individuel d'identification à la TVA</LienInterne> du vendeur et du client professionnel, seulement si ce dernier est redevable  de la TVA (auto-liquidation)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sauf pour les factures d'un montant total HT inférieur ou égal à <Valeur>150 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Désignation du produit ou de la prestation</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Nature, marque, référence, etc. des produits</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Prestation : ventilation des matériaux fournis et de la main-d'œuvre</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Décompte détaillé de chaque prestation et produit fourni </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Détail en quantité et prix (facultatif si la prestation de service a fait l'objet d'un devis préalable, descriptif et détaillé, accepté par le client et conforme à la prestation exécutée)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Prix catalogue</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Prix unitaire hors TVA des produits vendus ou taux horaire hors TVA des services fournis</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Majoration éventuelle de prix</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais de transport, d'emballage...</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23567" type="Fiche d'information" audience="Professionnels">Taux de TVA</LienInterne> légalement applicable</Paragraphe>
+<Paragraphe>Montant total de la TVA correspondant </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si les opérations sont soumises à des taux de TVA différents, il faut faire figurer sur chaque ligne le taux correspondant</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Réduction de prix</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Rabais, ristourne, ou remise acquise à la date de la vente ou de la prestation de service et directement liée à cette opération, à l'exclusion des escomptes non prévus sur la facture</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Somme totale à payer hors taxe (HT) et toutes taxes comprises (TTC)</Paragraphe>
+</Cellule>
+<Cellule/>
+</Rangée>
+</Tableau>
+<Paragraphe>* Si l'entreprise est en cours d'immatriculation, la facture doit être établie au nom de la société, avec la mention <Citation>Siret en cours d'attribution</Citation>, et non au nom du créateur, sous peine de rejet de la déduction de la TVA. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe> en plus de la sanction pénale pouvant aller jusqu'à <Valeur>75 000 €</Valeur>, l'entreprise qui ne respecte pas ces obligations s'expose à une amende fiscale de <Valeur>15 €</Valeur> par mention manquante ou inexacte pour chaque facture, plafonnée au 1/4 de son montant.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Mentions pour les factures adressées à un professionnel</Paragraphe>
+</Titre><Tableau>
+<Titre>Si la facture est adressée à un professionnel</Titre>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Mentions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Commentaires</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23211" type="Fiche d'information" audience="Professionnels">Date ou délai de paiement</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Date à laquelle le règlement doit intervenir</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Conditions d'escompte  en cas de paiement anticipé</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>En cas d'absence d'escompte,  mentionner sur la facture : <Expression>Escompte pour paiement anticipé : néant</Expression>)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23211" type="Fiche d'information" audience="Professionnels">Taux des pénalités de retard</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Exigibles en cas de non-paiement à la date de règlement (les pénalités de retard sont exigibles sans qu'un rappel soit nécessaire)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Mention de l'indemnité forfaitaire de <Valeur>40 €</Valeur> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pour frais de recouvrement, en cas de retard de paiement</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Mentions particulières</Paragraphe>
+</Titre><Tableau>
+<Titre>Mentions particulières</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Mentions particulières</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Dans quel cas</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<Citation>Membre d'une association agréée, le règlement par chèque est accepté</Citation>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si le vendeur ou prestataire est membre d'un centre de gestion ou d'une association agréée</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<Citation>TVA non applicable, art. 293 B du CGI</Citation>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si le vendeur ou prestataire bénéficie de la franchise en base de TVA (auto-entrepreneur par exemple), la facture est en hors taxe</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<Citation>Autoliquidation</Citation> </Paragraphe>
+<Paragraphe>Indiquer clairement qu'il s'agit d'un <Citation>montant hors taxe</Citation>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si des travaux sont effectués par un sous-traitant du BTP pour le compte d'un donneur d'ordre assujetti à la TVA, le sous-traitant ne déclare plus la TVA et c'est l'entreprise principale qui la déclare (<LienInterne LienPublication="F31983" type="Fiche d'information" audience="Professionnels">autoliquidation de la TVA</LienInterne>)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Mention de l'assurance souscrite au titre de l'activité, les coordonnées de l'assureur ou du garant, la couverture géographique du contrat ou de la garantie</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Les artisans ou les auto-entrepreneurs exerçant une activité artisanale, pour lesquels une <LienInterne LienPublication="F2034" type="Fiche d'information" audience="Professionnels">assurance professionnelle</LienInterne> est obligatoire (notamment la garantie décennale)</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>À partir du 1<Exposant>e</Exposant>r janvier 2018, le coût de la collecte et du traitement des déchets des pneumatiques devra être indiqué en pied de facture du vendeur.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F23208" audience="Professionnels">
+<Titre>Facturation</Titre>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179228&amp;cidTexte=LEGITEXT000006069569" ID="R1723">
+<Titre>Code général des impôts, annexe 2 : articles 242 nonies et 242 nonies A</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006232230&amp;cidTexte=LEGITEXT000005634379" ID="R1703">
+<Titre>Code de commerce : article L441-3</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178892&amp;cidTexte=LEGITEXT000005634379" ID="R40676">
+<Titre>Code de commerce : articles D123-235 à R123-238</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&amp;idArticle=LEGIARTI000022482645&amp;dateTexte=&amp;categorieLien=cid" ID="R46426">
+<Titre>Code de l'environnement : article L541-10-8</Titre>
+<Complement>Mention spécifique vente de pneumatiques</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000029103760&amp;cidTexte=LEGITEXT000005621315" ID="R37402">
+<Titre>Article 22-2 de la loi n°96-603 du 5 juillet 1996</Titre>
+<Complement>Mention de l'assurance professionnelle obligatoire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=6C814AD5EA0CC57F319434DE9CF6DE06.tpdila13v_1?cidTexte=JORFTEXT000033338439&amp;dateTexte=&amp;oldAction=rechJO&amp;categorieLien=id&amp;idJO=JORFCONT000033338383" ID="R45682">
+<Titre>Décret n° 2016-1478 du 2 novembre 2016 relatif au développement de la facturation électronique</Titre>
+</Reference>
+<QuestionReponse ID="F31190" audience="Professionnels">Quels sont les numéros d'identification des entreprises ?</QuestionReponse>
+<QuestionReponse ID="F31411" audience="Professionnels">Peut-on facturer dans une monnaie étrangère ?</QuestionReponse>
+</Publication>

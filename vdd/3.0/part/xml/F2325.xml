@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2325" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment se déroule la scolarité d'une jeune fille enceinte ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Le fait d'être enceinte ne doit pas empêcher une adolescente de poursuivre sa scolarité. Suivant sa situation, des aménagements peuvent être mis en place.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2325</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N56</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N56">Collège et lycée</Niveau>
+<Niveau ID="F2325" type="Fiche Question-réponse">Comment se déroule la scolarité d'une jeune fille enceinte ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N56">
+<Titre>Collège et lycée</Titre><SousDossier ID="N56-1">
+<Titre>Inscription au collège et au lycée</Titre>
+<Fiche ID="F2322">Inscription au collège</Fiche>
+<Fiche ID="F2323">Inscription au lycée</Fiche>
+<Fiche ID="F20393">Changement d'établissement scolaire en cours d'année</Fiche>
+<Fiche ID="F1867">Internat</Fiche>
+</SousDossier>
+<SousDossier ID="N56-2">
+<Titre>Horaires et programmes</Titre>
+<Fiche ID="F31099">Collège</Fiche>
+<Fiche ID="F32924">Lycée</Fiche>
+<Fiche ID="F32925">Voie professionnelle</Fiche>
+</SousDossier>
+<SousDossier ID="N56-3">
+<Titre>Vie quotidienne</Titre>
+<Fiche ID="F1409">Règlement intérieur</Fiche>
+<Fiche ID="F24569">Restauration scolaire</Fiche>
+<Fiche ID="F21766">Surveillance et sécurité des élèves</Fiche>
+<Fiche ID="F22575">Sorties et voyages scolaires</Fiche>
+<Fiche ID="F197">Santé</Fiche>
+</SousDossier>
+<SousDossier ID="N56-4">
+<Titre>Parcours scolaire et orientation</Titre>
+<Fiche ID="F112">Collège</Fiche>
+<Fiche ID="F111">Lycée général ou technologique</Fiche>
+<Fiche ID="F20395">Lycée professionnel</Fiche>
+<Fiche ID="F232">Dispositif d'initiation aux métiers en alternance (Dima)</Fiche>
+<Fiche ID="F23476">Procédure Admission Post Bac (APB) </Fiche>
+</SousDossier>
+<SousDossier ID="N56-5">
+<Titre>Fonctionnement de l'établissement</Titre>
+<Fiche ID="F1394">Conseil de classe</Fiche>
+<Fiche ID="F1393">Conseil d'administration</Fiche>
+<Fiche ID="F1396">Conseil de discipline</Fiche>
+<Fiche ID="F315">Commission éducative</Fiche>
+</SousDossier>
+<SousDossier ID="N56-6">
+<Titre>Participation des élèves à la vie scolaire</Titre>
+<Fiche ID="F1370">Délégués de classe</Fiche>
+<Fiche ID="F1388">Conseil des délégués pour la vie lycéenne (CVL)</Fiche>
+<Fiche ID="F1443">Représentants des lycéens au niveau académique et national</Fiche>
+</SousDossier>
+<SousDossier ID="N56-7">
+<Titre>Participation des parents à la vie scolaire</Titre>
+<Fiche ID="F21287">Information des parents</Fiche>
+<Fiche ID="F1389">Représentants des parents d'élèves</Fiche>
+<Fiche ID="F31024">Participation financière des familles</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le fait d'être enceinte ne doit pas empêcher une adolescente de poursuivre sa scolarité. Suivant sa situation, des aménagements peuvent être mis en place.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous souhaitez poursuivre votre scolarité</Paragraphe>
+</Titre><Paragraphe>La grossesse ne peut justifier l'exclusion d'un établissement scolaire public. Vous pouvez donc poursuivre votre scolarité normalement.</Paragraphe>
+<Paragraphe>Vous pouvez cependant demander au directeur académique des services de l'éducation nationale (Dasen) d'être dispensée de fréquenter l'établissement scolaire si vous le souhaitez. </Paragraphe><OuSAdresser ID="R24" type="Local personnalisé sur SP">
+<Titre>Direction des services départementaux de l'éducation nationale</Titre>
+<PivotLocal>inspection_academique</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-et-services-departementaux-de-l-education-nationale.html#Les_coordonnées%20des%20rectorats%20et%20des%20services%20départementaux%20de%20l%27éducation%20nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez alors préparer votre examen avec l'aide des cours par correspondance du Centre national d'enseignement à distance (Cned).</Paragraphe><OuSAdresser ID="R57" type="Centre de contact">
+<Titre>Centre national d'enseignement à distance (Cned)</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 (0)5 49 49 94 94 (serveur vocal en dehors des heures d'ouverture)
+		</Paragraphe>
+								<Paragraphe>
+			Novembre à mai : du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Juin à octobre : du lundi au vendredi de 8h30 à 18h30.</Paragraphe>
+								<Paragraphe>
+			Informations sur les formations et les dossiers d'inscription pour les offres de formation du centre national de l'enseignement à distance (Cned).
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+<LienExterne URL="http://www.cned.fr/contact/informations/">      formulaire
+    </LienExterne>
+  de contact par courriel pour poser une question aux équipes du Cned.
+    
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Cned
+		</Paragraphe>
+								<Paragraphe>
+			BP 60200
+		</Paragraphe>
+								<Paragraphe>
+			86980 Futuroscope Chasseneuil CEDEX
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Votre accouchement est prévu pendant une période d'examen</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'examen prévoit une session de rattrapage</Paragraphe>
+</Titre><Paragraphe>Vous pourrez alors en bénéficier. </Paragraphe>
+<Paragraphe>Par exemple, pour le bac, si vous accouchez en juin, au moment des épreuves, vous pourrez être dispensée et passer la session de septembre.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'examen ne prévoit pas de session de rattrapage</Paragraphe>
+</Titre><Paragraphe>Pour un  examen sans  session de rattrapage, vous n'aurez pas d'autre choix que de vous présenter à la session prochaine.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>Après l'accouchement,   vous pouvez reprendre vos études. Votre situation ne peut pas justifier un refus d'inscription.</Paragraphe>
+</ANoter>
+</Texte><OuSAdresser ID="R57" type="Centre de contact">
+<Titre>Centre national d'enseignement à distance (Cned)</Titre>
+<Complement>Pour préparer un examen par correspondance</Complement><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 (0)5 49 49 94 94 (serveur vocal en dehors des heures d'ouverture)
+		</Paragraphe>
+								<Paragraphe>
+			Novembre à mai : du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Juin à octobre : du lundi au vendredi de 8h30 à 18h30.</Paragraphe>
+								<Paragraphe>
+			Informations sur les formations et les dossiers d'inscription pour les offres de formation du centre national de l'enseignement à distance (Cned).
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+<LienExterne URL="http://www.cned.fr/contact/informations/">      formulaire
+    </LienExterne>
+  de contact par courriel pour poser une question aux équipes du Cned.
+    
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Cned
+		</Paragraphe>
+								<Paragraphe>
+			BP 60200
+		</Paragraphe>
+								<Paragraphe>
+			86980 Futuroscope Chasseneuil CEDEX
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R24" type="Local personnalisé sur SP">
+<Titre>Direction des services départementaux de l'éducation nationale</Titre>
+<Complement>Pour demander à être dispensée de fréquenter un établissement</Complement>
+<PivotLocal>inspection_academique</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-et-services-departementaux-de-l-education-nationale.html#Les_coordonnées%20des%20rectorats%20et%20des%20services%20départementaux%20de%20l%27éducation%20nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+<OuSAdresser ID="R10791" type="Local personnalisé sur SP">
+<Titre>Centre d'information sur les droits des femmes (CIDF)</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>cidf</PivotLocal>
+<RessourceWeb URL="http://www.infofemmes.com/v2/p/Contact/Liste-des-CIDFF/73"/>
+</OuSAdresser>
+</Publication>

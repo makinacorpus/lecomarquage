@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14876" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Avec quels documents un Français peut-il se rendre en Tunisie ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Avec quels documents un Français peut-il se rendre en Tunisie ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-10</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14876</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31336</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N31336">Voyager à l'étranger</Niveau>
+<Niveau ID="F14876" type="Fiche Question-réponse">Avec quels documents un Français peut-il se rendre en Tunisie ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20273">Français à l'étranger</SousThemePere><DossierPere ID="N31336">
+<Titre>Voyager à l'étranger</Titre>
+<Fiche ID="F13605">Voyage en Europe</Fiche>
+<Fiche ID="F32833">Voyage dans un autre pays</Fiche>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Voyageur français</Paragraphe>
+</Titre><Paragraphe>Pour un <MiseEnEvidence>voyage individuel</MiseEnEvidence>, il faut posséder un passeport en cours de validité. Le visa n'est pas nécessaire.</Paragraphe>
+<Paragraphe>Pour un <MiseEnEvidence>voyage organisé</MiseEnEvidence>, il faut posséder :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Soit un passeport en cours de validité</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Soit une carte nationale d'identité valide accompagnée du carnet de voyage délivré par l'agence de tourisme</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe> au-delà de trois mois, un visa et une carte de séjour doivent être obtenus auprès du ministère de l'Intérieur.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Franco-tunisien</Paragraphe>
+</Titre><Paragraphe>Si le voyageur possède la <MiseEnEvidence>double nationalité Franco-tunisienne</MiseEnEvidence>, les formalités sont plus strictes : présentation du passeport tunisien à l'arrivée, autorisation du père pour un mineur franco-tunisien qui voyage avec sa mère... Dans ce cas, il convient de se renseigner sur les formalités précises auprès de l'ambassade de Tunisie.</Paragraphe>
+<OuSAdresser ID="R19527" type="National">
+<Titre>Ambassade et consulats de Tunisie en France</Titre>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/spip.php?page=mfe_imprime_fiche&amp;id_rubrique=12318"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Texte><ServiceEnLigne ID="R18974" URL="https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html" type="Téléservice">
+<Titre>Ariane : pour être alerté en cas de crise lors d'un voyage à l'étranger</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R13081" URL="http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/tunisie/" audience="Particuliers">
+<Titre>Conditions d'entrée et de séjour en Tunisie</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+
+</Publication>

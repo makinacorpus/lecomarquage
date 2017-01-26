@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32135" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment obtenir un numéro Siren ou Siret ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Le numéro Siren est le numéro unique d'identification de chaque entreprise. Lors de son immatriculation ou de sa déclaration d'activité auprès d'un centre de formalités des entreprises (CFE), toute entreprise ou entrepreneur individuel se voit attribué ce numéro composé de 9 chiffres.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32135</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16178</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="F32135" type="Fiche Question-réponse">Comment obtenir un numéro Siren ou Siret ?</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere><DossierPere ID="N16178">
+<Titre>Formalités de la création d'entreprise</Titre><SousDossier ID="N16178-1">
+<Titre>Commerçant</Titre>
+<Fiche ID="F22632">Ouverture d'un commerce</Fiche>
+<Fiche ID="F23573">Gérance d'un commerce</Fiche>
+<Fiche ID="F22537">Franchise</Fiche>
+<Fiche ID="F22494">Commerçant ou artisan étranger</Fiche>
+<Fiche ID="F23962">Vendeur à domicile</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-2">
+<Titre>Autres statuts</Titre>
+<Fiche ID="F23264">Auto-entrepreneur</Fiche>
+<Fiche ID="F23887">Artisan</Fiche>
+<Fiche ID="F23458">Profession libérale</Fiche>
+<Fiche ID="F31498">Entreprise individuelle à responsabilité limitée (EIRL)</Fiche>
+<Fiche ID="F32266">Conjoint du chef d'entreprise</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-3">
+<Titre>Autres secteurs d'activités</Titre>
+<Fiche ID="F23633">Entreprise de services à la personne</Fiche>
+<Fiche ID="F19087">Formateur ou organisme de formation</Fiche>
+<Fiche ID="F33830">Société de domiciliation d'entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le numéro Siren est le numéro unique d'identification de chaque entreprise. Lors de son immatriculation ou de sa déclaration d'activité auprès d'un centre de formalités des entreprises (CFE), toute entreprise ou entrepreneur individuel se voit attribué ce numéro composé de 9 chiffres.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Dès que l'immatriculation est effective, l'<LienInterne LienPublication="R12417" type="Acronyme">Insee</LienInterne> envoie un certificat d'inscription au répertoire Sirene, mentionnant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le numéro Siren, qui identifie l'entreprise,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le numéro Siret (composé de 14 chiffres), qui identifie chaque établissement de la même entreprise,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et le code APE, qui identifie la branche d'activité de l'entreprise ou du travailleur indépendant.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le <LienInterne LienPublication="F33050" type="Fiche Question-réponse" audience="Professionnels">code APE</LienInterne> permet notamment de déterminer la convention collective applicable.</Paragraphe>
+<Paragraphe>Pour savoir où en est le traitement d'un dossier d'immatriculation d'une entreprise et connaître son numéro Siren, et si le certificat d'inscription au répertoire Sirene n'a pas encore été reçu, il est possible <LienInterne LienPublication="R37128" type="Formulaire" audience="Professionnels">de contacter l'Insee</LienInterne> (à utiliser uniquement si la démarche date de moins d'1 mois).</Paragraphe>
+<Paragraphe>Si la demande d'immatriculation date de plus d'1 mois, ou en cas d'oubli ou de perte de ces numéros, il faut s'adresser au <LienInterne LienPublication="F24023" type="Fiche Question-réponse" audience="Professionnels">centre des formalités des entreprises (CFE)</LienInterne> auprès duquel la déclaration d'activité a été effectuée.</Paragraphe>
+<Paragraphe>En cas de changement d'activité principale, il est également possible de demander <LienInterne LienPublication="R18901" type="Formulaire" audience="Professionnels">l'attribution d'un nouveau code APE</LienInterne>.</Paragraphe>
+
+</Texte><OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R37128" URL="https://www.insee.fr/fr/information/1972045" type="Formulaire">
+<Titre>Suivi de l'avancement d'un dossier d'immatriculation auprès de l'Insee</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18901" URL="https://www.insee.fr/fr/statistiques/fichier/2015441/formulaire-APEN-V6-recto-verso.pdf" format="application/pdf" poids="0" type="Formulaire">
+<Titre>Demande de modification du code d'activité principale (APE) d'une entreprise</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R31515" URL="http://www.insee.fr/fr/service/default.asp?page=entreprises/demarches-immatriculation.htm" audience="Professionnels">
+<Titre>Comment être immatriculé dans le répertoire Sirene ?</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R12417" type="Acronyme">
+<Titre>Insee</Titre>
+<Texte>
+<Paragraphe>Institut national de la statistique et des études économiques</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F24023" audience="Professionnels">À quoi sert un centre de formalités des entreprises (CFE) ?</QuestionReponse>
+<QuestionReponse ID="F33050" audience="Professionnels">À quoi correspond le code APE ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23546" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Cotisation sur la valeur ajoutée des entreprises (CVAE)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>La cotisation sur la valeur ajoutée (CVAE) est l'une des deux composantes de la contribution économique territoriale (CET). Elle est due par les entreprises et les travailleurs indépendants qui réalisent un chiffre d'affaires à partir d'un certain montant et est calculée en fonction de la valeur ajoutée produite par l'entreprise. Elle est affectée aux collectivités territoriales : les communes et leurs groupements, les départements et les régions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2016-05-02</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23546</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000021641669&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000029042655&amp;idSectionTA=LEGISCTA000006162690&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/7208-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13443</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13443">Contribution économique territoriale (CET)</Niveau>
+<Niveau ID="F23546" type="Fiche d'information">Cotisation sur la valeur ajoutée des entreprises (CVAE)</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N22249">Impôts locaux</SousThemePere><DossierPere ID="N13443">
+<Titre>Contribution économique territoriale (CET)</Titre>
+<Fiche ID="F23546">Cotisation sur la valeur ajoutée des entreprises (CVAE)</Fiche>
+<Fiche ID="F23547">Cotisation foncière des entreprises (CFE)</Fiche>
+<Fiche ID="F23548">Plafonnement de la CET en fonction de la valeur ajoutée</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La cotisation sur la valeur ajoutée (CVAE) est l'une des deux composantes de la contribution économique territoriale (CET). Elle est due par les entreprises et les travailleurs indépendants qui réalisent un chiffre d'affaires à partir d'un certain montant et est calculée en fonction de la valeur ajoutée produite par l'entreprise. Elle est affectée aux collectivités territoriales : les communes et leurs groupements, les départements et les régions.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Entreprises concernées</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="R24407" type="Sigle">CVAE</LienInterne> est due par les entreprises, ou personnes exerçant une activité professionnelle non salariée, qui réalisent plus de <Valeur>500 000 €</Valeur> de chiffre d'affaires hors taxe, quel que soit leur statut juridique, leur activité ou leur régime d'imposition.</Paragraphe>
+<Paragraphe>La CVAE est due par le redevable qui exerce une activité au 1er janvier de l'année d'imposition.</Paragraphe>
+<Paragraphe>Cependant, toutes les entreprises dont le chiffre d'affaires est supérieur à <Valeur>152 500 €</Valeur> doivent effectuer la déclaration de valeur ajoutée et des effectifs salariés qui sert à en déterminer la base d'imposition, même si elles ne sont pas redevables de la
+      CVAE.</Paragraphe>
+<Paragraphe>Les sociétés civiles professionnelles et de moyens, les groupements sont redevables en leur nom de la CVAE et non pas au nom de chacun des membres.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Calcul</Paragraphe>
+</Titre><Paragraphe>Le montant de la CVAE est calculé en fonction de la valeur ajoutée produite, selon l'opération suivante : (valeur ajoutée x taux effectif d'imposition) + [(valeur ajoutée x taux effectif d'imposition) x 1 %].</Paragraphe>
+<Paragraphe>Seuls sont pris en compte les charges et produits relatifs à des activités imposables (dans le champ de la CFE, et qui ne bénéficient pas d'une exonération).</Paragraphe>
+<Paragraphe>Le taux d'imposition effectif (réel et non théorique) appliqué est obtenu selon un barème progressif (après dégrèvement pris en charge par l'État) variable selon le <LienInterne LienPublication="R24382" type="Sigle">CA</LienInterne> réalisé au moment du versement des acomptes et du solde.</Paragraphe>
+<Tableau>
+<Titre>Taux d'imposition de la CVAE en fonction du chiffre d'affaires</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Chiffre d'affaires hors taxe</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux effectif d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de <Valeur>500 000
+	 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>500 000 €</Valeur> et <Valeur>3 millions
+	 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,5 % x [(CA - <Valeur>500 000 €</Valeur>) /<Valeur>2,5 millions €</Valeur>]</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>3 millions €</Valeur> et <Valeur>10 millions
+	 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,5 % + [0,9 % x (CA - <Valeur>3 millions €</Valeur>) /<Valeur>7 millions €</Valeur>]</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>10 millions €</Valeur> et <Valeur>50 millions
+	 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1,4 % + [0,1 % x (CA - <Valeur>10 millions €</Valeur>) / <Valeur>40 millions €</Valeur>]</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de <Valeur>50 millions
+	 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Les entreprises réalisant un chiffre d'affaires supérieur à <Valeur>500 000 €</Valeur> et pour lesquelles le montant de la CVAE serait inférieur à <Valeur>250 €</Valeur> doivent obligatoirement verser une contribution minimum de <Valeur>250 €</Valeur>.</Paragraphe>
+<Paragraphe>Les bases imposables et le montant de l'impôt sont arrondis à l'euro le plus proche ; les montants inférieurs à 0,50 € sont négligés et ceux supérieurs ou égaux à 0,50 € sont comptés pour 1.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>une taxe additionnelle à la CVAE est encaissée, en sus de la cotisation de CVAE, au profit des chambres de commerce et d'industrie (CCI) de région, en complément d'une taxe additionnelle à la CFE : <LienInterne LienPublication="F32847" type="Fiche d'information" audience="Professionnels">taxe pour frais de chambre consulaire</LienInterne>
+</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Télédéclaration</Paragraphe>
+</Titre><Paragraphe>Quelle que soit la date de clôture de l'exercice, la déclaration doit être effectuée de façon dématérialisée au plus tard :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le 2<Exposant>e</Exposant> jour ouvré suivant le 1<Exposant>er</Exposant> mai (soit entre le 3 et le 5 mai) : déclaration de valeur ajoutée et des effectifs salariés <LienInterne LienPublication="R14698" type="Formulaire" audience="Professionnels">n°1330-CVAE</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans les 60 jours suivant la cessation d'activité en cours d'année,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> dans les 60 jours suivant le jugement d'ouverture d'une procédure collective (sauvegarde, redressement ou liquidation judiciaire), sauf si l'ouverture de la procédure ne met pas fin à l'activité (dans ce cas, seule la déclaration <LienInterne LienPublication="R32285" type="Formulaire" audience="Professionnels">n°1329-DEF</LienInterne> doit être transmise dans les 60 jours).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'année suivant celle de l'imposition, le redevable doit procéder à la liquidation définitive de la CVAE sur la déclaration <LienInterne LienPublication="R32285" type="Formulaire" audience="Professionnels">n°1329-DEF</LienInterne> transmise avant le 2<Exposant>e</Exposant> jour ouvré suivant le 1<Exposant>er</Exposant> mai de l'année n+1, accompagnée le cas échéant du versement du solde correspondant.</Paragraphe>
+<Paragraphe>Par exception, l'entreprise peut se dispenser du dépôt de la déclaration n°1330-CVAE et déclarer les éléments afférents à la CVAE sur la déclaration dématérialisée de résultats (n°2065, 2035, 2031 et 2072), sous réserve de remplir les conditions cumulatives suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> ne disposer que d'un seul établissement au sens CFE,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas employer de salariés exerçant leur activité plus de 3 mois hors de l'entreprise,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas exploiter plusieurs activités nécessitant des déclarations de résultat différentes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas être une <LienInterne LienPublication="F32042" type="Fiche d'information" audience="Professionnels">société civile de moyens</LienInterne> (SCM),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas clôturer 2 exercices au cours de l'exercice de référence CVAE,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas être une société membre d'un groupe  fiscal,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas avoir fusionné au cours de l'exercice de référence CVAE,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ne pas être une entreprise étrangère ne disposant pas d'un établissement stable en France.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre><Paragraphe>Les entreprises redevables de la
+      CVAE      doivent obligatoirement en effectuer le paiement par voie électronique.</Paragraphe>
+<Paragraphe>Deux acomptes de 50 % de la cotisation due doivent être versés, au moyen du relevé d'acompte <LienInterne LienPublication="R18059" type="Formulaire" audience="Professionnels">n°1329-AC</LienInterne> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>au plus tard le 15 juin </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>au plus tard le 15 septembre.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il n'y a pas d'acomptes (la CVAE est payée en une seule fois), si le montant de la CVAE ne dépasse pas <Valeur>3 000 €</Valeur>.</Paragraphe>
+<Paragraphe>Le télérèglement de la CVAE est obligatoire pour toutes les entreprises redevables de la CVAE.</Paragraphe>
+<Paragraphe>L'année suivant celle de l'imposition, l'entreprise redevable doit procéder à la liquidation définitive de la CVAE sur la déclaration <LienInterne LienPublication="R32285" type="Formulaire" audience="Professionnels">n°1329-DEF</LienInterne>  transmise de façon dématérialisée au plus tard le 2<Exposant>e</Exposant> jour ouvré suivant le 1<Exposant>er</Exposant> mai de l'année n+1, accompagnée le cas échéant du versement du solde correspondant.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000021641669&amp;cidTexte=LEGITEXT000006069577" ID="R23552">
+<Titre>Code général des impôts : articles 1586 ter à 1586 nonies</Titre>
+<Complement>Cotisation sur la valeur ajoutée des entreprises</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000029042655&amp;idSectionTA=LEGISCTA000006162690&amp;cidTexte=LEGITEXT000006069577" ID="R37483">
+<Titre>Code général des impôts : articles 1600 à 1604</Titre>
+<Complement>Taxe pour frais de chambres de commerce et d'industrie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/7208-PGP" ID="R23553">
+<Titre>Bofip-Impôts n°BOI-CVAE sur l'application de la CVAE</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</Reference>
+<ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14698" URL="https://www.impots.gouv.fr/portail/node/8828" numerocerfa="14030*07" autrenumero="1330-CVAE-SD" type="Formulaire">
+<Titre>Cotisation sur la valeur ajoutée des entreprises (CVAE) - Déclaration de la valeur ajoutée et des effectifs salariés</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R91" URL="https://www.impots.gouv.fr/portail/node/8922" numerocerfa="14027*07" autrenumero="2072-E-SD" type="Formulaire">
+<Titre>Cotisation sur la valeur ajoutée des entreprises (CVAE) - Détermination de la valeur ajoutée produite au cours de l'exercice</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18059" URL="https://www.impots.gouv.fr/portail/node/8826" numerocerfa="14044*07" autrenumero="1329-AC-SD" type="Formulaire">
+<Titre>Cotisation sur la valeur ajoutée des entreprises (CVAE) - Relevé d'acompte</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32285" URL="https://www.impots.gouv.fr/portail/node/8827" numerocerfa="14357*06" autrenumero="1329-DEF" type="Formulaire">
+<Titre>Cotisation sur la valeur ajoutée des entreprises 2015 (CVAE) - Déclaration de liquidation et de régularisation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Abreviation ID="R24382" type="Sigle">
+<Titre>CA</Titre>
+<Texte>
+<Paragraphe>Chiffre d'affaires</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24407" type="Sigle">
+<Titre>CVAE</Titre>
+<Texte>
+<Paragraphe>Cotisation sur la valeur ajoutée des entreprises</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

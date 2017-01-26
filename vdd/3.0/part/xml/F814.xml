@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F814" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carte de libre circulation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>La carte de libre circulation facilite le passage des marchandises en douane.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-15</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F814</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N230</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N230">Douane</Niveau>
+<Niveau ID="F814" type="Fiche d'information">Carte de libre circulation</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N230">
+<Titre>Douane</Titre><SousDossier ID="N230-1">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F794">Argent transféré à l'étranger</Fiche>
+<Fiche ID="F801">Argent transféré en France</Fiche>
+</SousDossier>
+<SousDossier ID="N230-2">
+<Titre>Transfert de marchandises</Titre>
+<Fiche ID="F3161">Marchandises arrivant en France</Fiche>
+<Fiche ID="F799">Marchandises quittant la France</Fiche>
+</SousDossier>
+<SousDossier ID="N230-3">
+<Titre>Droits de douane, taxes et franchises</Titre>
+<Fiche ID="F50">En cas de voyage</Fiche>
+<Fiche ID="F492">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N230-4">
+<Titre>Alcool et tabac</Titre>
+<Fiche ID="F804">Rapporter du tabac de l'étranger</Fiche>
+<Fiche ID="F812">Rapporter de l'alcool de l'étranger</Fiche>
+</SousDossier>
+<SousDossier ID="N230-5">
+<Titre>Contrôles douaniers</Titre>
+<Fiche ID="F816">Contrôle douanier du voyageur</Fiche>
+<Fiche ID="F814">Carte de libre circulation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Contrôles douaniers</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La carte de libre circulation vous permet de voyager avec vos objets usuels lors de déplacements habituels  hors<LienIntra LienID="R45280" type="Définition de glossaire"> Union européenne</LienIntra>. Elle est le passeport de vos objets personnels. Elle facilite votre passage en douane. Vous pouvez l'obtenir auprès de la douane.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Une carte de libre circulation facilite votre passage à la douane lorsque vous revenez d'un pays situé en dehors de l'Union européenne. Elle vous permet notamment de justifier du paiement de la <LienInterne LienPublication="R24379" type="Sigle">TVA</LienInterne>sur les marchandise déjà en votre possession, lors de votre retour en France.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Faire la démarche</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Où la demander ?</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>À l'entrée en France : au poste douanier (dans les aéroports, ports...)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>En France : dans n'importe quel bureau de douane</Paragraphe><OuSAdresser ID="R22333" type="Local personnalisable">
+<Titre>Services douaniers en France et en Union européenne (recette de douane, bureau de garantie, direction régionale...)</Titre>
+<PivotLocal>douane_metropole</PivotLocal>
+<RessourceWeb URL="https://pro.douane.gouv.fr/rush/API_Service.asp?sid=&amp;app="/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Vous devez présenter les objets que vous souhaitez faire inscrire sur votre carte, accompagnés des pièces justificatives (factures, quittances de douane, certificats de garantie...).</Paragraphe>
+<Paragraphe>Tous les objets usuels que vous transportez habituellement (neufs ou usagés, d'origine française ou étrangère) peuvent figurer sur votre carte. Il peut s'agir par exemple de votre appareil photo, de votre téléphone ou ordinateur portable, de vos bijoux.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Gratuit</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment utiliser et modifier la carte ?</Paragraphe>
+</Titre><Paragraphe>Votre carte de libre circulation est <MiseEnEvidence>strictement personnelle</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Si vous prêtez un ou plusieurs objets inscrits sur votre carte, vous devez remettre à l'emprunteur une attestation précisant son identité et les références de votre carte (ou la photocopie de votre carte).</Paragraphe>
+<Paragraphe>Si vous vendez ou donnez un ou plusieurs objets, vous devez faire modifier votre carte.</Paragraphe>
+<Paragraphe>Si vous devenez propriétaire d'objets inscrits sur la carte d'une autre personne, vous devez présenter cette carte pour en obtenir une autre à votre nom.</Paragraphe>
+<Paragraphe>Vous pouvez faire compléter votre carte par le bureau qui l'a établie au fur et à mesure de vos besoins.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Votre carte de libre circulation est valable 10 ans.</Paragraphe>
+<Paragraphe>Elle est renouvelable auprès des services douaniers.</Paragraphe><OuSAdresser ID="R22333" type="Local personnalisable">
+<Titre>Services douaniers en France et en Union européenne (recette de douane, bureau de garantie, direction régionale...)</Titre>
+<PivotLocal>douane_metropole</PivotLocal>
+<RessourceWeb URL="https://pro.douane.gouv.fr/rush/API_Service.asp?sid=&amp;app="/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte><OuSAdresser ID="R16283" type="Centre de contact">
+<Titre>Infos Douane Service</Titre>
+<Complement>Pour toute information complémentaire</Complement><Texte>
+						
+								<Paragraphe>
+			Pour obtenir des informations douanières concernant l'exportation, l'importation, les formulaires douaniers, les transports et le passage aux frontières, les franchises...
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 20 44 44</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi de 8h30 à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Hors métropole ou depuis l'étranger, composer le +33 1 72 40 78 50
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+        Accès au <LienExterne URL="http://www.douane.gouv.fr/contact-et-assistance/contacter-info-douane-service">formulaire de contact</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R1023" URL="http://europa.eu/about-eu/countries/index_fr.htm" audience="Particuliers">
+<Titre>Pays de l'Union européenne</Titre>
+<Source ID="R30856">Toute l'Europe</Source>
+</PourEnSavoirPlus>
+<Definition ID="R45280">
+<Titre>Pays de l'Union européenne</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République Tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R24379" type="Sigle">
+<Titre>TVA</Titre>
+<Texte>
+<Paragraphe>Taxe sur la valeur ajoutée</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

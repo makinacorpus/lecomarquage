@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1663" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Aspa, Asi : faut-il résider en France ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Pour pouvoir bénéficier de certaines allocations (Aspa ou Asi), il faut résider en France de manière stable.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1663</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&amp;idArticle=LEGIARTI000031795401</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N392</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="F1663" type="Fiche Question-réponse">Aspa, Asi : faut-il résider en France ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Fiche ID="F10009">Allocation personnalisée d'autonomie (Apa)</Fiche>
+<Fiche ID="F16871">Allocation de solidarité aux personnes âgées (Aspa)</Fiche>
+<Fiche ID="F16940">Allocation supplémentaire d'invalidité (Asi)</Fiche>
+<Fiche ID="F2572">Allocation simple</Fiche>
+<Fiche ID="F245">Aide-ménagère à domicile</Fiche>
+<Fiche ID="F248">Prise en charge des repas</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Pour pouvoir bénéficier de l'<LienInterne LienPublication="F16871" type="Fiche d'information" audience="Particuliers">allocation de solidarité aux personnes âgées (Aspa)</LienInterne> ou de l'<LienInterne LienPublication="F16940" type="Fiche d'information" audience="Particuliers">allocation supplémentaire d'invalidité (Asi)</LienInterne>, vous devez résidez en France de manière stable.</Paragraphe>
+
+				<Paragraphe>Vous résidez en France de manière stable si vous remplissez l'une des 2 conditions suivantes :</Paragraphe>
+			
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>soit avoir votre foyer permanent en France. Le foyer désigne le lieu où vous habitez normalement, c'est à dire le lieu de votre résidence habituelle, à condition que cette résidence en France ait un caractère permanent.</Paragraphe>
+					</Item>
+				</Liste>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>soit  avoir  en France le lieu de votre séjour principal. C'est le cas  si vous séjournez  en France pendant plus de 6 mois (ou 180 jours)  l'année concernée.</Paragraphe>
+					</Item>
+				</Liste>
+			
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N392" audience="Particuliers">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R198" type="Centre de contact">
+<Titre>Assurance retraite - 39 60</Titre>
+<Complement>Pour tout renseignement concernant l'Aspa</Complement>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source><Texte>
+						
+								<Paragraphe>Pour  s'informer, poser une question sur votre dossier, accéder à des informations personnelles (suivi du dossier, derniers paiements, etc.).</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>39 60</MiseEnEvidence>
+       (ou 
+			09 71 10 39 60 depuis un mobile, une box ou l'étranger)</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Du lundi au vendredi de 8h à 17h</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<Complement>Pour tout renseignement sur la CMUC</Complement>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R41" type="Local personnalisé sur SP">
+<Titre>Caisse d'assurance retraite et de la santé au travail (Carsat)</Titre>
+<Complement>Pour tout renseignement sur l'Asi</Complement>
+<PivotLocal>carsat</PivotLocal>
+<RessourceWeb URL="https://www.lassuranceretraite.fr/portail-info/home/retraites/nos-contacts.html"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&amp;idArticle=LEGIARTI000031795401" ID="R39707">
+<Titre>Code de la sécurité sociale : article R111-2</Titre>
+<Complement>Définition de la notion de résidence en France</Complement>
+</Reference>
+
+</Publication>

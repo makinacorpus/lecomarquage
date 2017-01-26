@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1850" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Saisie sur compte bancaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Si vous devez de l'argent, vous pouvez faire l'objet d'une saisie de tout ou partie de la somme due sur votre compte bancaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-28</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1850</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025025804&amp;idSectionTA=LEGISCTA000025026634&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025026643&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938470&amp;idSectionTA=LEGISCTA000025938468&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938485&amp;idSectionTA=LEGISCTA000025938483&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938495&amp;idSectionTA=LEGISCTA000025938493&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938448&amp;idSectionTA=LEGISCTA000025938440&amp;cidTexte=LEGITEXT000025024948</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N277</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N277">Saisies et recouvrements</Niveau>
+<Niveau ID="F1850" type="Fiche d'information">Saisie sur compte bancaire</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20385">Réparation du préjudice</SousThemePere><DossierPere ID="N277">
+<Titre>Saisies et recouvrements</Titre><SousDossier ID="N277-1">
+<Titre>Saisie d'argent</Titre>
+<Fiche ID="F1850">Saisie sur compte bancaire</Fiche>
+<Fiche ID="F31716">Avis à tiers détenteur (ATD)</Fiche>
+<Fiche ID="F115">Saisie sur salaire (ou rémunération)</Fiche>
+<Fiche ID="F1437">Solde bancaire insaisissable (SBI)</Fiche>
+</SousDossier>
+<SousDossier ID="N277-2">
+<Titre>Saisie d'un bien</Titre>
+<Fiche ID="F1748">Saisie conservatoire</Fiche>
+<Fiche ID="F1751">Saisie-vente</Fiche>
+<Fiche ID="F1752">Saisie du véhicule</Fiche>
+<Fiche ID="F1763">Saisie-appréhension : livraison ou restitution d'un bien</Fiche>
+<Fiche ID="F16987">Saisie immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N277-3">
+<Titre>Recouvrement</Titre>
+<Fiche ID="F2272">Créance : recouvrement par un tiers</Fiche>
+<Fiche ID="F1744">Dommages-intérêts : aide au recouvrement</Fiche>
+<Fiche ID="F783">Calcul de l'intérêt légal</Fiche>
+<Fiche ID="F998">Pension alimentaire : recouvrement par paiement direct</Fiche>
+<Fiche ID="F2319">Pension alimentaire : recouvrement par saisie sur salaire</Fiche>
+<Fiche ID="F1000">Pension alimentaire : recouvrement par le biais du Trésor public</Fiche>
+<Fiche ID="F1002">Pension alimentaire : recouvrement par la Caf ou la MSA</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Saisie d'argent</SousDossierPere>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Vous êtes débiteur</Titre>
+<Texte>
+<Chapitre><Paragraphe>Si vous devez de l'argent, vous êtes <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra>. Vous pouvez faire l'objet d'une saisie de tout ou partie de la somme due sur votre compte bancaire (ou sur plusieurs comptes, si nécessaire). </Paragraphe>
+<Paragraphe>Cette saisie est possible dans le respect des procédures prévues par la loi.</Paragraphe>
+
+</Chapitre><Chapitre>
+<Titre>
+<Paragraphe>Conditions de mise en œuvre</Paragraphe>
+</Titre><Paragraphe>La saisie-attribution sur compte bancaire concerne uniquement des <LienIntra LienID="R12474" type="Définition de glossaire">créances</LienIntra> portant sur des sommes d'argent.</Paragraphe>
+<Paragraphe>Une décision de justice doit avoir reconnu la créance.</Paragraphe>
+<Paragraphe>Un <LienInterne LienPublication="F2158" type="Fiche d'information" audience="Particuliers">huissier de justice</LienInterne> est chargé de dresser l'acte de saisie sur votre compte bancaire (ou plusieurs comptes, si nécessaire), qui sera signifié à votre banque.</Paragraphe>
+<Paragraphe>Vous devez en être informé par acte d'huissier dans les <MiseEnEvidence>8 jours</MiseEnEvidence> qui suivent la <LienIntra LienID="R10915" type="Définition de glossaire">signification</LienIntra> de l'acte de saisie à votre banque. À défaut, la procédure n'est pas valable.</Paragraphe>
+<Paragraphe>Si la saisie concerne un compte joint, chaque titulaire doit être prévenu.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant des sommes saisies</Paragraphe>
+</Titre><Paragraphe>Les sommes saisies correspondent au montant que vous devez au <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra> (auxquelles s'ajoutent les frais d'huissier), sauf si le solde du ou des comptes saisis ne permet pas un paiement intégral. Si le solde de tous vos comptes saisis est négatif, aucune somme ne peut être saisie.</Paragraphe>
+<Paragraphe>Il n'est pas possible de saisir l'intégralité des sommes disponibles sur vos comptes, même si le montant dû est supérieur au solde disponible. En effet, le compte doit obligatoirement rester crédité de la somme de <Valeur>535,17 €</Valeur> : c'est le <LienInterne LienPublication="F1437" type="Fiche d'information" audience="Particuliers">solde bancaire insaisissable (SBI</LienInterne>).</Paragraphe>
+<Paragraphe>Par ailleurs, d'autres sommes sont <LienInterne LienPublication="F31185" type="Fiche Question-réponse" audience="Particuliers">insaisissables</LienInterne> (minima sociaux, prestations familiales...). Vous pouvez donc en disposer, dans la limite de leurs montants. Pour cela, vous devez  fournir à la banque des   justificatifs de l'origine de ces sommes dans les 15 jours.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conséquences sur le compte saisi</Paragraphe>
+</Titre><Paragraphe>Durant les 15 jours qui suivent la date de saisie, le compte bancaire est bloqué afin d'en déterminer les sommes pouvant être saisies. Cependant, votre compte peut être crédité ou débité après la date de saisie si  des opérations ont été effectuées avant cette date.</Paragraphe>
+<Paragraphe>Vous ne pouvez pas effectuer d'opérations sur votre compte durant ces 15 jours. Toutefois, vous pouvez prendre contact avec l'huissier de justice afin d'établir les conditions de la <LienIntra LienID="R2980" type="Définition de glossaire">mainlevée</LienIntra> de la saisie. Par exemple, le déblocage du compte peut être envisagé avant le terme du délai après avoir établi un échéancier de paiement de la dette.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recours</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><Paragraphe>Vous disposez d'un délai d' <MiseEnEvidence>1 mois</MiseEnEvidence> pour contester la saisie auprès du <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">tribunal de grande instance (TGI)</LienInterne> à compter de la notification de la saisie. L'acte de saisie délivré par l'huissier doit désigner la juridiction auprès de laquelle vous pouvez effectuer le recours.</Paragraphe>
+<Paragraphe>Vous devez prévenir de votre recours :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> l'huissier de justice, le même jour et la lettre recommandée avec demande d'avis de réception (LRAR),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre banque, par lettre simple (une copie de ce courrier doit être remise au greffe du tribunal au plus tard le jour de l'audience).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Conséquence sur la saisie</Paragraphe>
+</Titre><Paragraphe>En cas de recours, la saisie est suspendue jusqu'à ce que le juge de l'exécution rende son ordonnance.</Paragraphe>
+<Paragraphe>Si la contestation est acceptée seulement en partie, le juge détermine le montant saisi sur le compte.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement de la somme saisie</Paragraphe>
+</Titre><Paragraphe>Les sommes saisies sont indisponibles jusqu'à la date du paiement.</Paragraphe>
+<Paragraphe>Pour obtenir le paiement, l'huissier de justice doit présenter à la banque :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit un certificat attestant que le débiteur n'a pas présenté de recours pour contester la saisie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit l'ordonnance   déboutant le débiteur après qu'il a présenté un recours en pour contester la saisie.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le paiement de la somme saisie est effectué par la banque.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Vous êtes créancier</Titre>
+<Texte>
+<Chapitre><Paragraphe>Si l'on vous doit de l'argent, vous êtes <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra>. Vous pouvez demander le paiement de la somme due par le biais d'une saisie sur le compte bancaire de votre <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra>. </Paragraphe>
+<Paragraphe>Cette saisie est possible dans le respect des conditions et formalités prévues par la loi.</Paragraphe>
+
+</Chapitre><Chapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><Paragraphe>La saisie-attribution sur compte bancaire s'applique uniquement à des <LienIntra LienID="R12474" type="Définition de glossaire">créances</LienIntra> sur des sommes d'argent.</Paragraphe>
+<Paragraphe>Vous devez être muni d'un <LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra>, constatant une créance liquide (évaluée en argent) et exigible.</Paragraphe>
+<Paragraphe>Vous devez vous adresser à un <LienInterne LienPublication="F2158" type="Fiche d'information" audience="Particuliers">huissier de justice</LienInterne>, qui se chargera d'établir un acte de saisie auprès de la banque du <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra>.</Paragraphe>
+<OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant des sommes saisies</Paragraphe>
+</Titre><Paragraphe>Le montant des sommes saisies correspond au montant dû, sauf si le solde du ou des comptes saisis ne permettent pas le paiement de l'intégralité de ce montant. Si les soldes des comptes de votre <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra> sont négatifs, aucune somme ne peut être saisie.</Paragraphe>
+<Paragraphe>Durant les 15 jours qui suivent la date de saisie, les opérations bancaires effectuées par le débiteur avant cette date peuvent être débitées ou créditées sur les comptes saisis après cette date. Elles peuvent entraîner une réduction des sommes qui vous seront versées.</Paragraphe>
+<Paragraphe>Certaines <LienInterne LienPublication="F115" type="Fiche d'information" audience="Particuliers">sommes sont insaisissables</LienInterne> (minima sociaux, prestations familiales, remboursement des frais médicaux, notamment). Il est également prévu un <LienInterne LienPublication="F1437" type="Fiche d'information" audience="Particuliers">solde bancaire insaisissable (SBI),</LienInterne> qui reste à la disposition du débiteur.</Paragraphe>
+<Paragraphe>Les sommes attribuées ne peuvent pas être prélevées au titre d'autres saisies, quelles qu'elles soient.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement de la somme saisie</Paragraphe>
+</Titre><Paragraphe>En l'absence de contestation de la saisie (dans le délai d'un mois suivant la date de l'acte de saisie), la banque du <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra> procède au paiement de la somme due.</Paragraphe>
+<Paragraphe>Si la saisie est contestée,  le paiement est différé jusqu'à ce que le juge de l'exécution rende son ordonnance. En cas d'acceptation partielle de la contestation, le juge peut autoriser le paiement pour une somme qu'il détermine.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F1437" audience="Particuliers">
+<Titre>Solde bancaire insaisissable (SBI)</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<Complement>Pour demander la saisie du ou des comptes bancaires du débiteur</Complement>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>S'adresser au greffe du tribunal</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025025804&amp;idSectionTA=LEGISCTA000025026634&amp;cidTexte=LEGITEXT000025024948" ID="R33158">
+<Titre>Code des procédures civiles d'exécution : articles L211-1 à L211-5</Titre>
+<Complement>Saisie-attribution (principes)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025026643&amp;cidTexte=LEGITEXT000025024948" ID="R33164">
+<Titre>Code des procédures civiles de l'exécution : articles L162-1 et L162-2</Titre>
+<Complement>Montant des sommes saisies sur le compte bancaire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938470&amp;idSectionTA=LEGISCTA000025938468&amp;cidTexte=LEGITEXT000025024948" ID="R33159">
+<Titre>Code des procédures civiles d'exécution : articles R211-1 à R211-3</Titre>
+<Complement>Procédure de saisie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938485&amp;idSectionTA=LEGISCTA000025938483&amp;cidTexte=LEGITEXT000025024948" ID="R33161">
+<Titre>Code des procédures civiles de l'exécution : articles R211-6 à R211-9</Titre>
+<Complement>Paiement de la somme saisie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938495&amp;idSectionTA=LEGISCTA000025938493&amp;cidTexte=LEGITEXT000025024948" ID="R33162">
+<Titre>Code des procédures civiles de l'exécution : articles R211-10 à R211-13</Titre>
+<Complement>Recours</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025938448&amp;idSectionTA=LEGISCTA000025938440&amp;cidTexte=LEGITEXT000025024948" ID="R33163">
+<Titre>Code des procédures civiles de l'exécution : articles R162-1 à R162-9</Titre>
+<Complement>Paiement de la somme saisie</Complement>
+</Reference>
+<Definition ID="R2980">
+<Titre>Mainlevée</Titre>
+<Texte>
+				<Paragraphe>Acte juridique par lequel il est mis fin à une situation créant un obstacle. Par exemple, saisie, hypothèque.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1056">
+<Titre>Titre exécutoire</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant au créancier d'obtenir le recouvrement forcé de sa créance (saisie des biens)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12468">
+<Titre>Débiteur</Titre>
+<Texte>
+				<Paragraphe>Personne tenue envers une autre d'exécuter une obligation (qui peut être une somme d'argent)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12474">
+<Titre>Créance</Titre>
+<Texte>
+				<Paragraphe>Droit permettant à une personne d'exiger quelque chose d'une autre personne, en général le paiement d'une somme d'argent. Le terme "créance" est souvent utilisé pour désigner la somme due.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10915">
+<Titre>Signification</Titre>
+<Texte>
+				<Paragraphe>Acte par lequel une partie informe son adversaire d'un acte ou d'une décision de justice par l'intermédiaire d'un huissier de justice</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31185" audience="Particuliers">Quelles sont les sources de revenus saisissables ?</QuestionReponse>
+</Publication>

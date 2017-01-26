@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14198" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Droits de succession : calcul et paiement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Pour calculer le montant des droits de succession, plusieurs étapes sont nécessaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-23</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14198</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199543&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199548&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199545&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197326&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199106&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199107&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147247&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147308&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179428&amp;cidTexte=LEGITEXT000006069574, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191452&amp;cidTexte=LEGITEXT000006069574, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179429&amp;cidTexte=LEGITEXT000006069574, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191453&amp;cidTexte=LEGITEXT000006069574, http://bofip.impots.gouv.fr/bofip/3354-PGP.html, http://bofip.impots.gouv.fr/bofip/3451-PGP.html, http://bofip.impots.gouv.fr/bofip/1398-PGP.html, http://bofip.impots.gouv.fr/bofip/3351-PGP.html, http://bofip.impots.gouv.fr/bofip/3369-PGP.html, http://bofip.impots.gouv.fr/bofip/1501-PGP, http://bofip.impots.gouv.fr/bofip/6839-PGP, http://bofip.impots.gouv.fr/bofip/1767-PGP.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31160</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N31160">Droits de succession et de donation</Niveau>
+<Niveau ID="F14198" type="Fiche d'information">Droits de succession : calcul et paiement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N31160">
+<Titre>Droits de succession et de donation</Titre><SousDossier ID="N31160-1">
+<Titre>Droits de succession</Titre>
+<Fiche ID="F80">Déclaration</Fiche>
+<Fiche ID="F17456">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14198">Calcul et paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N31160-2">
+<Titre>Droits de donation</Titre>
+<Fiche ID="F10203">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14205">Calcul et paiement</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Droits de succession</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Pour calculer le montant des droits de succession, plusieurs étapes sont nécessaires. Après avoir fait l'inventaire des biens du défunt et retranché les dettes, il faut déterminer la part de succession qui vous revient.  Un barème fiscal est ensuite appliqué sur votre part,  diminuée au préalable d'un abattement. Enfin, dans certains cas, vous pouvez bénéficier d'une réduction. L'impôt est   à payer lors du dépôt de la déclaration mais vous pouvez demander des délais de paiement sous conditions.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Détermination de l'actif net taxable</Paragraphe>
+</Titre><Paragraphe>Vous devez déterminer <LienIntra LienID="R16422" type="Définition de glossaire">l'actif net taxable</LienIntra>, c'est-à-dire établir l'inventaire des biens du défunt (l'actif), puis en retrancher les dettes (le passif).</Paragraphe>
+<Paragraphe>Deux conditions s'appliquent pour retrancher la dette : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la dette doit exister au jour du décès,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'existence de la dette doit pouvoir être prouvée ; les justificatifs sont donc à conserver (facture, contrat, tout écrit).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Certaines dettes sont déductibles (frais funéraires dans la limite de <Valeur>1 500 €</Valeur>, frais de dernière maladie non encore remboursés, etc.), d'autres non (dettes arrivées à échéance depuis plus de 3 mois avant le décès, sauf preuve contraire apportée par le créancier, dettes reconnues par testament, etc).</Paragraphe>
+<Paragraphe>Les dettes dont vous demandez la déduction doivent être détaillées dans un inventaire à joindre à la <LienInterne LienPublication="F80" type="Fiche d'information" audience="Particuliers">déclaration de succession</LienInterne>.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la notice du formulaire de déclaration de succession détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Calcul de la part revenant à chaque héritier</Paragraphe>
+</Titre><Paragraphe>Vous devez déterminer la part de <LienInterne LienPublication="F2529" type="Fiche Question-réponse" audience="Particuliers">chaque héritier</LienInterne>  en fonction de l'ordre des <LienIntra LienID="R12469" type="Définition de glossaire">héritiers</LienIntra> et <LienInterne LienPublication="F32272" type="Fiche Question-réponse" audience="Particuliers">en tenant compte des éventuelles donations antérieures</LienInterne>.</Paragraphe>
+<Paragraphe>Pour déterminer votre part de la succession, plusieurs éléments sont à prendre en compte : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F2529" type="Fiche Question-réponse" audience="Particuliers">règles de la dévolution légale</LienInterne> (ordre et droits   des héritiers fixés par la loi),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>testament du défunt, si nécessaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>donations déjà reçues,  si nécessaire.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Abattements et droits à payer</Paragraphe>
+</Titre><Paragraphe>Vous pouvez bénéficier <LienIntra LienID="R3018" type="Définition de glossaire">d'abattements</LienIntra> sur votre part d'héritage, notamment selon votre lien de parenté avec le défunt. Une fois l'abattement appliqué sur votre part de la succession, les éventuels droits à payer sont calculés selon un barème progressif d'impôt : votre part taxable est répartie en tranches et un taux d'imposition s'applique sur chacune d'elle. </Paragraphe>
+<Paragraphe>L'administration fiscale tient compte des donations que le défunt vous avait consenties de son vivant pour calculer le montant des abattements et réductions de droits dont vous pouvez bénéficier ainsi que les droits de succession à payer.</Paragraphe>
+<Paragraphe>Toutefois, ce <LienInterne LienPublication="F32272" type="Fiche Question-réponse" audience="Particuliers">rapport fiscal</LienInterne> ne s'applique pas aux donations suivantes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>donations que le défunt vous a consenties depuis plus de 15 ans (délai applicable aux successions ouvertes depuis le 17 août 2012),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F10203" type="Fiche d'information" audience="Particuliers">dons familiaux de sommes d'argent.</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>vous pouvez bénéficier, sous conditions, d'un <LienIntra LienID="R3018" type="Définition de glossaire">abattement</LienIntra> égal au montant des dons réalisés dans les 6 mois suivant le décès à des organismes reconnus d'utilité publique, à l'État, aux collectivités territoriales ou à leurs établissements publics. </Paragraphe>
+</ASavoir><Paragraphe>L'administration fiscale applique un barème sur la part de succession qui vous revient, diminuée au préalable d'un abattement : </Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Époux ou partenaire de Pacs</Paragraphe>
+</Titre><Paragraphe>Vous êtes <LienInterne LienPublication="F17456" type="Fiche d'information" audience="Particuliers">exonéré de droits de succession</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Enfant</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>159 325 €</Valeur> jusqu'au 16 août 2012,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>100 000 €</Valeur> à partir du 17 août 2012.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de succession en ligne directe </Titre>
+<Colonne largeur="41" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Part taxable après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>15 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>30 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>40 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>45 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La <LienInterne LienPublication="R1241" type="Formulaire" audience="Particuliers">notice du formulaire de déclaration de succession</LienInterne> détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+<Paragraphe>Les enfants adoptés par la voie de l'adoption simple paient les mêmes droits que les personnes non parentes (60 %). Toutefois, il y a des exceptions (si l'adopté est mineur au moment du décès de l'adoptant, enfant issu d'un 1<Exposant>er</Exposant> mariage de l'époux de l'adoptant, etc.) :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de successions en ligne collatérale et entre non-parents</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Situation où les montants sont taxables après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Succession entre parents jusqu'au 4<Exposant>e</Exposant> degré inclus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>55 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Succession entre parents au-delà du 4<Exposant>e</Exposant> degré ou entre personnes non parentes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>60 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Ascendant (parents, grands-parents, etc.)</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>159 325 €</Valeur> jusqu'au 16 août 2012,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>100 000 €</Valeur> à partir du 17 août 2012.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de succession en ligne directe </Titre>
+<Colonne largeur="41" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Part taxable après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>15 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>30 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>40 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>45 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La <LienInterne LienPublication="R1241" type="Formulaire" audience="Particuliers">notice du formulaire de déclaration de succession</LienInterne> détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Petit-enfant</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+<Paragraphe>
+<Valeur>1 594 €</Valeur>, sauf si un autre abattement s'applique.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de succession en ligne directe </Titre>
+<Colonne largeur="41" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Part taxable après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>15 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>30 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>40 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>45 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La <LienInterne LienPublication="R1241" type="Formulaire" audience="Particuliers">notice du formulaire de déclaration de succession</LienInterne> détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Arrière-petit-enfant</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+<Paragraphe>
+<Valeur>1 594 €</Valeur>, sauf si un autre abattement s'applique.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de succession en ligne directe </Titre>
+<Colonne largeur="41" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Part taxable après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>15 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>30 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>40 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>45 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La <LienInterne LienPublication="R1241" type="Formulaire" audience="Particuliers">notice du formulaire de déclaration de succession</LienInterne> détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Frère ou sœur</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+<Paragraphe>
+<Valeur>15 932 €</Valeur>, sauf <LienInterne LienPublication="F17456" type="Fiche d'information" audience="Particuliers">cas d'exonération entre frères et sœurs.</LienInterne>
+</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de succession entre frères et sœurs</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Part taxable après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieure à <Valeur>24 430 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>35 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieure à <Valeur>24 430 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>45 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La <LienInterne LienPublication="R1241" type="Formulaire" audience="Particuliers">notice du formulaire de déclaration de succession</LienInterne> détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Neveu ou nièce</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+<Paragraphe>
+<Valeur>7 967 €</Valeur>
+</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de successions en ligne collatérale et entre non-parents</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Situation où les montants sont taxables après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Succession entre parents jusqu'au 4<Exposant>e</Exposant> degré inclus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>55 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Succession entre parents au-delà du 4<Exposant>e</Exposant> degré ou entre personnes non parentes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>60 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La <LienInterne LienPublication="R1241" type="Formulaire" audience="Particuliers">notice du formulaire de déclaration de succession</LienInterne> détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autre situation</Paragraphe>
+</Titre><Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+<Paragraphe>
+<Valeur>1 594 €</Valeur>, sauf si un autre abattement s'applique.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+<Tableau>
+<Titre>Tarifs des droits de successions en ligne collatérale et entre non-parents</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Situation où les montants sont taxables après abattement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Barème d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Succession entre parents jusqu'au 4<Exposant>e</Exposant> degré inclus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>55 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Succession entre parents au-delà du 4<Exposant>e</Exposant> degré ou entre personnes non parentes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>60 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La <LienInterne LienPublication="R1241" type="Formulaire" audience="Particuliers">notice du formulaire de déclaration de succession</LienInterne> détaille chaque étape du calcul des droits de succession et donne des exemples de calcul.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>une personne handicapée a droit à un abattement spécifique de <Valeur>159 325 €</Valeur> qui se cumule avec les autres.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réductions des droits de succession éventuels</Paragraphe>
+</Titre><Paragraphe>Une fois le barème appliqué à votre part de succession, vous pouvez bénéficier d'une réduction sur le montant des droits à payer dans 2 cas. </Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Réduction pour charge de famille</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Successions ouvertes à partir du 1er janvier 2017</Paragraphe>
+</Titre><Paragraphe>Vous n'êtes pas éligible à cette réduction d'impôt.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Successions ouvertes avant le janvier 2017</Paragraphe>
+</Titre><Paragraphe>Vous bénéficiez d'une réduction pour charge de famille pour les successions ouvertes jusqu'au 31 décembre 2016. Le montant de la réduction d'impôt varie en fonction de votre lien de parenté avec le défunt :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>610 €</Valeur> par enfant  à partir du 3ème  si la succession est en ligne directe ou entre époux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>305 €</Valeur> par enfant à partir du 3ème pour les autres successions (frères ou sœurs, tiers, cousins, etc .) ou toute personne n'ayant pas de lien de parenté avec le défunt.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par exemple, si vous héritez de votre père et que vous avez 3 enfants, vous bénéficiez d'une réduction de <Valeur>610 €</Valeur> pour le 3ème enfant.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Réduction pour les mutilés de guerre</Paragraphe>
+</Titre><Paragraphe>Si vous êtes mutilé de guerre (invalide à 50 % au minimum), vous pouvez bénéficier d'une réduction de 50 % des  droits à payer dans la limite de <Valeur>305 €</Valeur>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement des droits de succession</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Personne concernée</Paragraphe>
+</Titre><Paragraphe> En qualité d'<LienIntra LienID="R12469" type="Définition de glossaire">héritier</LienIntra> ou de <LienIntra LienID="R12704" type="Définition de glossaire">légataire</LienIntra> du défunt, <LienInterne LienPublication="F17456" type="Fiche d'information" audience="Particuliers">sauf si vous en êtes exonéré</LienInterne>, vous devez payer les droits de succession.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Date</Paragraphe>
+</Titre><Paragraphe>Vous devez payer les droits de succession au moment du dépôt de <LienInterne LienPublication="F80" type="Fiche d'information" audience="Particuliers">la déclaration de succession</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mode de paiement</Paragraphe>
+</Titre><Paragraphe>Vous pouvez payer les droits de succession <LienIntra LienID="R2399" type="Définition de glossaire">en numéraire</LienIntra>, et sous certaines conditions, en <LienInterne LienPublication="F2370" type="Fiche Question-réponse" audience="Particuliers">valeurs du Trésor</LienInterne>. </Paragraphe>
+<Paragraphe>Sur autorisation ministérielle et si les droits à payer sont au moins égaux à <Valeur>10 000 €</Valeur>, le paiement peut s'effectuer par un don à l'État (remise d'œuvres d'art, livres ou objets de collection ayant un intérêt exceptionnel, ou remise de certains immeubles situés dans des zones d'intervention du Conservatoire de l'espace littoral et des rivages lacustres). L'offre de <LienIntra LienID="R45250" type="Définition de glossaire">dation</LienIntra> n'est pas recevable lorsque les biens offerts en paiement sont détenus depuis moins de 5 ans par l'intéressé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délais de paiement</Paragraphe>
+</Titre><Paragraphe>Vous pouvez demander des délais de paiement, par lettre jointe à votre <LienInterne LienPublication="F80" type="Fiche d'information" audience="Particuliers">déclaration de succession</LienInterne>, à condition d'apporter une offre de garanties (hypothèque sur un immeuble, par exemple), et moyennant le versement d'intérêts.</Paragraphe>
+<Paragraphe>Deux systèmes existent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>paiement différé lorsque la succession comporte des biens en <LienIntra LienID="R37266" type="Définition de glossaire">nue-propriété</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>paiement fractionné (versements des droits sur une période de 1 ou 3 ans).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans le cas d'une transmission d'entreprise, vous pouvez sous certaines conditions différer le paiement des droits pendant 5 ans, puis le fractionner pendant 10 ans à l'issue de ce délai.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N173" audience="Particuliers">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31160" audience="Particuliers">
+<Titre>Droits de succession et de donation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N133" audience="Particuliers">
+<Titre>Adoption</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour s'informer, déposer la déclaration et payer les droits de succession si le défunt résidait en France</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<OuSAdresser ID="R122" type="Centre de contact">
+<Titre>Service des impôts des particuliers non résidents</Titre>
+<Complement>Pour s'informer, déposer la déclaration et payer les droits de succession si le défunt résidait à l'étranger</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0) 1 57 33 83 00
+	</MiseEnEvidence>	</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 9h à 16h</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			sip.nonresidents[@]dgfip.finances.gouv.fr</Paragraphe>
+								<Paragraphe>(précisez vos noms, prénoms, adresse et numéro fiscal que vous trouverez sur votre avis d'imposition)</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+		
+			10, rue du Centre</Paragraphe>
+								<Paragraphe>TSA 10010</Paragraphe>
+								<Paragraphe>93465 Noisy-Le-Grand Cedex </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Si vous faites appel à un notaire pour le règlement de la succession</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199543&amp;cidTexte=LEGITEXT000006069577" ID="R38003">
+<Titre>Code général des impôts : articles 768 à 774</Titre>
+<Complement>Dettes du défunt (articles 768 à 1772), dettes non déductibles (article 773)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199548&amp;cidTexte=LEGITEXT000006069577" ID="R38004">
+<Titre>Code général des impôts : article 775</Titre>
+<Complement>Déduction des dettes : frais funéraires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199545&amp;cidTexte=LEGITEXT000006069577" ID="R38005">
+<Titre>Code général des impôts : article 775 bis</Titre>
+<Complement>Déduction des dettes : rentes et indemnités versées en réparation de dommages corporels</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197326&amp;cidTexte=LEGITEXT000006069577" ID="R35055">
+<Titre>Code général des impôts : articles 777 à 778 bis</Titre>
+<Complement>Tarifs des droits de succession</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199106&amp;cidTexte=LEGITEXT000006069577" ID="R35056">
+<Titre>Code général des impôts : articles 779 à 787 C</Titre>
+<Complement>Abattement (article 779), réduction pour charge de famille (articles 780 et 781), réduction pour les mutilés de guerre (article 782), rappel des donations antérieures (article 784),</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199107&amp;cidTexte=LEGITEXT000006069577" ID="R38053">
+<Titre>Code général des impôts : articles 788 à 789</Titre>
+<Complement>Abattement en cas de dons à certains organismes, montant de l'abattement par défaut (article 788)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147247&amp;cidTexte=LEGITEXT000006069577" ID="R38009">
+<Titre>Code général des impôts : articles 1715 à 1716A</Titre>
+<Complement>Paiement en valeurs du Trésor ou en créances sur l'État</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147308&amp;cidTexte=LEGITEXT000006069577" ID="R38010">
+<Titre>Code général des impôts : article 1716 bis</Titre>
+<Complement>Paiement par don à l'État</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179428&amp;cidTexte=LEGITEXT000006069574" ID="R38011">
+<Titre>Code général des impôts, annexe 3 : articles 396 à 397</Titre>
+<Complement>Paiement fractionné (article 396) et différé (article 397)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191452&amp;cidTexte=LEGITEXT000006069574" ID="R38012">
+<Titre>Code général des impôts, annexe 3 : article 397 A</Titre>
+<Complement>Paiement différé en cas de transmission d'entreprises</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179429&amp;cidTexte=LEGITEXT000006069574" ID="R38013">
+<Titre>Code général des impôts, annexe 3 : articles 398 à 404</Titre>
+<Complement>Crédit de paiement : offre de garanties (articles 399 et 400), versement d'intérêts (article 401)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191453&amp;cidTexte=LEGITEXT000006069574" ID="R41370">
+<Titre>Code général des impôts, annexe 3 : articles 404 A à 404 B</Titre>
+<Complement>Délais de versements des droits en cas de paiement fractionné (article 404 A) ou différé (article 404 B)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3354-PGP.html" ID="R38007">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-10-50 relatif au calcul des droits de succession</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3451-PGP.html" ID="R38008">
+<Titre>Bofip-impôts n°BOI-REC-PART-20-10 relatif au paiement des droits de succession et de l'impôt de solidarité sur la fortune</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/1398-PGP.html" ID="R41371">
+<Titre>Bofip-impôts n°BOI-ENR-DG-50-20-30 relatif aux exceptions au paiement immédiat des droits</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3351-PGP.html" ID="R38016">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-20-30-20-20 relatif aux abattements communs aux donations et aux successions et applicables uniquement aux donations</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3369-PGP.html" ID="R38017">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-10-50-20 relatif aux abattements applicables uniquement aux successions</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/1501-PGP" ID="R35057">
+<Titre>Bofip Impôts n°BOI-ENR-DMTG-10-50-30 relatif aux tarifs des droits de mutation par décès</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/6839-PGP" ID="R35058">
+<Titre>Bofip Impôts n°BOI-ENR-DMTG-10-50-80 relatif aux cas particuliers pour les tarifs des droits de mutation</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/1767-PGP.html" ID="R38060">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-10-50-50 relatif à la liquidation des droits en cas de transmissions à titre gratuit successives entre les mêmes personnes (règle du rapport fiscal)</Titre>
+</Reference>
+<ServiceEnLigne ID="R1241" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2017/2705-sd_47.pdf" format="application/pdf" poids="584.4 KB" numerocerfa="11277*07" autrenumero="2705-SD" type="Formulaire">
+<Titre>Déclaration de succession</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10280" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2017/2705-sd_46.pdf" format="application/pdf" poids="799.8 KB" numerocerfa="12322*02" autrenumero="2705-S" type="Formulaire">
+<Titre>Déclaration de succession (feuille de suite)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1243" URL="https://www.impots.gouv.fr/portail/files/formulaires/2709-sd/2017/2709-sd_33.pdf" format="application/pdf" poids="563.0 KB" numerocerfa="10820*07" autrenumero="2709" type="Formulaire">
+<Titre>Déclaration de succession (feuillet immeuble)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10279" URL="https://www.impots.gouv.fr/portail/formulaire/2705-sd/declaration-partielle-de-succession" numerocerfa="12321*06" autrenumero="2705-A" type="Formulaire">
+<Titre>Déclaration de succession (contrat d'assurance-vie)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R827" URL="https://www.impots.gouv.fr/portail/files/formulaires/2705-sd/2016/2705-sd_45.pdf" numerocerfa="50916#13" format="application/pdf" poids="288.1 KB">Notice explicative relative à la déclaration de succession</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R15673" URL="https://www.impots.gouv.fr/portail/particulier/declarer-une-succesion" audience="Particuliers">
+<Titre>Déclarer une succession</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1923" URL="https://www.impots.gouv.fr/portail/particulier/questions/comment-dois-je-calculer-les-droits-de-succession" audience="Particuliers">
+<Titre>Comment calculer les droits de succession ?</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R46423" URL="https://www.impots.gouv.fr/portail/particulier/questions/comment-puis-je-payer-les-droits-de-succession" audience="Particuliers">
+<Titre>Comment payer les droits de succession ?</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<Definition ID="R12704">
+<Titre>Légataire</Titre>
+<Texte>
+				<Paragraphe>Personne désignée par testament pour recevoir les biens d'une personne décédée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150232&amp;cidTexte=LEGITEXT000006070721" ID="R33146">
+<Titre>Code civil : articles 1002 à 1002-1</Titre>
+</Reference>
+</Definition>
+<Definition ID="R2399">
+<Titre>En numéraire</Titre>
+<Texte>
+				<Paragraphe>Paiement en argent, qui peut être sous forme d'espèces, de chèques, de virements, etc.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R3018">
+<Titre>Abattement</Titre>
+<Texte>
+				<Paragraphe>Somme forfaitaire déduite des revenus</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12469">
+<Titre>Héritier</Titre>
+<Texte>
+				<Paragraphe>Personne désignée par la loi pour recueillir la succession d'une personne décédée</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136269&amp;cidTexte=LEGITEXT000006070721" ID="R38485">
+<Titre>Code civil : articles 731 et 732</Titre>
+</Reference>
+</Definition>
+<Definition ID="R45250">
+<Titre>Dation</Titre>
+<Texte>
+				<Paragraphe>Une dation en paiement est le fait pour le débiteur de se libérer de tout ou partie de sa dette en cédant un bien lui appartenant. La dation permet à certains contribuables de payer leurs impôts en donnant notamment des œuvres d'arts ou objets de collection.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R16422">
+<Titre>Actif successoral</Titre>
+<Texte>
+				<Paragraphe>Valeur totale des biens de la succession (= actif brut) dont on retranche les dettes du défunt pour obtenir l'actif net</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R37266">
+<Titre>Nue-propriété</Titre>
+<Texte>
+				<Paragraphe>Droit d'un propriétaire de disposer d'un bien, sans pouvoir l'utiliser, ni en avoir la jouissance conférée à un usufruitier, ni en tirer un revenu locatif. Le nu-propriétaire peut vendre son droit de propriété, sans vendre la jouissance du bien.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F418" audience="Particuliers">Quel contrôle le fisc peut-il exercer sur une déclaration de succession ?</QuestionReponse>
+<QuestionReponse ID="F795" audience="Particuliers">Quels sont les tarifs des notaires en matière de succession ?</QuestionReponse>
+<QuestionReponse ID="F32272" audience="Particuliers">Rapport civil et rapport fiscal dans une succession : quelles différences ?</QuestionReponse>
+</Publication>

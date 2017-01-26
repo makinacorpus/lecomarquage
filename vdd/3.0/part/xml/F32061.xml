@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32061" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que doit préciser l'annonce de vente d'un appartement en copropriété ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Certaines informations doivent apparaître sur les annonces de vente d'un bien en copropriété.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32061</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000028779401&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488255&amp;cidTexte=LEGITEXT000006061423</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31339">Documents de copropriété</Niveau>
+<Niveau ID="F32061" type="Fiche Question-réponse">Que doit préciser l'annonce de vente d'un appartement en copropriété ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31339">
+<Titre>Documents de copropriété</Titre>
+<Fiche ID="F2589">Règlement de copropriété</Fiche>
+<Fiche ID="F2665">Carnet d'entretien de la copropriété</Fiche>
+<Fiche ID="F34051">Fiche synthétique de la copropriété</Fiche>
+<Fiche ID="F32058">Immatriculation de la copropriété</Fiche>
+<Fiche ID="F32059">Diagnostic technique de l'immeuble en copropriété</Fiche>
+<Fiche ID="F1615">Bilan énergétique d'un immeuble en copropriété (DPE et audit énergétique)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Toute annonce de vente d'un appartement en copropriété doit contenir un certain nombre d'informations spécifiques :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le fait qu'il s'agit d'un bien situé en copropriété,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le nombre de <LienIntra LienID="R38693" type="Définition de glossaire">lots</LienIntra> dans l'immeuble,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant moyen annuel de la quote-part du <LienInterne LienPublication="F20586" type="Fiche d'information" audience="Particuliers">budget prévisionnel</LienInterne> à la charge du vendeur et correspondant aux dépenses courantes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="N357" type="Dossier" audience="Particuliers">les procédures</LienInterne> dont fait éventuellement l'objet la copropriété si elle est en difficulté.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le futur acquéreur peut, s'il le demande, consulter le <LienInterne LienPublication="F2665" type="Fiche d'information" audience="Particuliers">carnet d'entretien</LienInterne> de l'immeuble ainsi que le <LienInterne LienPublication="F32059" type="Fiche d'information" audience="Particuliers">diagnostic technique</LienInterne> s'il existe. </Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2604" audience="Particuliers">
+<Titre>Vente d'un bien en copropriété (lot de copropriété)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000028779401&amp;cidTexte=LEGITEXT000006074096" ID="R36640">
+<Titre>Code de la construction et de l'habitation : articles L721-1 à L721-3</Titre>
+<Complement>Informations obligatoires dans les annonces</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488255&amp;cidTexte=LEGITEXT000006061423" ID="R32964">
+<Titre>Décret n°67-223 du 17 mars 1967 : article 4-4</Titre>
+<Complement>Demande du carnet d'entretien et diagnostic technique</Complement>
+</Reference>
+<Definition ID="R38693">
+<Titre>Lot de copropriété</Titre>
+<Texte>
+				<Paragraphe>Partie privative à l'usage exclusif de chaque copropriétaire et fraction de part des parties communes réservée à tous ou à certains d'entre eux seulement</Paragraphe>
+			</Texte>
+</Definition>
+<CommentFaireSi ID="F15913">J'achète un logement</CommentFaireSi>
+</Publication>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2771" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Paiement de l'impôt en ligne</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Fiscalité</dc:subject>
+<dc:description>Paiement de l'impôt en ligne - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-08</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2771</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2771" type="Téléservice">Paiement de l'impôt en ligne</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Sur le site du paiement de l'impôt, vous pouvez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Souscrire ou modifier votre souscription au prélèvement mensuel (mensualisation) ou au prélèvement à l'échéance de vos impôts</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Payer votre impôt en ligne</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le téléservice explique comment s'y prendre pour effectuer ces démarches.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F31686" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment payer ses impôts locaux ?</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2329" audience="Particuliers" type="Fiche d'information">
+<Titre>Contributions sociales sur les revenus du capital</Titre>
+<Dossier ID="N17580">Contributions sociales (CSG, CRDS)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23547" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisation foncière des entreprises (CFE)</Titre>
+<Dossier ID="N13443">Contribution économique territoriale (CET)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F388" audience="Particuliers" type="Fiche d'information">
+<Titre>Déclaration de revenus en cas de changement de situation en cours d'année</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31130" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>En quoi consiste la contribution exceptionnelle sur les hauts revenus ? </Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32166" audience="Professionnels" type="Fiche d'information">
+<Titre>Entreprises relevant de la Direction des grandes entreprises (DGE)</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31444" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt de solidarité sur la fortune (ISF) : déclaration et paiement</Titre>
+<Dossier ID="N20074">Impôt de solidarité sur la fortune (ISF)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F138" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt de solidarité sur la fortune (ISF) : modalités de calcul</Titre>
+<Dossier ID="N20074">Impôt de solidarité sur la fortune (ISF)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F562" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Impôt sur la fortune (ISF) : à quelle date s'apprécie le patrimoine ?</Titre>
+<Dossier ID="N20074">Impôt de solidarité sur la fortune (ISF)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F358" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : déclaration annuelle</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1226" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : déclaration des avantages en nature</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F52" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : moyens de paiement</Titre>
+<Dossier ID="N219">Impôt sur le revenu : paiement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F3120" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : paiement par acomptes (tiers provisionnels)</Titre>
+<Dossier ID="N219">Impôt sur le revenu : paiement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F3122" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : paiement par prélèvements mensuels (mensualisation)</Titre>
+<Dossier ID="N219">Impôt sur le revenu : paiement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F3124" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu et impôts locaux : difficultés de paiement</Titre>
+<Dossier ID="N31080">Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1225" audience="Particuliers" type="Fiche d'information">
+<Titre>Revenus à déclarer : éléments du salaire imposable</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2613" audience="Particuliers" type="Fiche d'information">
+<Titre>Revenus à déclarer : revenus mobiliers</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F17293" audience="Particuliers" type="Fiche d'information">
+<Titre>Taxe d'habitation sur les logements vacants (THLV)</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F59" audience="Particuliers" type="Fiche d'information">
+<Titre>Taxe foncière sur les propriétés bâties</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31638" audience="Particuliers" type="Fiche d'information">
+<Titre>Taxe foncière sur les propriétés non bâties</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22730" audience="Particuliers" type="Fiche d'information">
+<Titre>Taxe ou redevance d'enlèvement des ordures ménagères</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2847" audience="Particuliers" type="Fiche d'information">
+<Titre>Taxe sur les logements vacants applicable à certaines communes (TLV)</Titre>
+<Dossier ID="N206">Impôts locaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22576" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe sur les salaires</Titre>
+<Dossier ID="N13444">Taxes liées aux salaires</Dossier>
+</FicheLiee>
+<FicheLiee ID="F128" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Tiers provisionnels ou mensualisation : comment moduler les prélèvements ?</Titre>
+<Dossier ID="N219">Impôt sur le revenu : paiement</Dossier>
+</FicheLiee>
+<Dossier ID="N247">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N19785">
+<Titre>Impôt sur le revenu : déductions, réductions et crédits d'impôt</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N31080">
+<Titre>Saisir l'administration fiscale (difficultés de paiement, réclamation, ...)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N219">
+<Titre>Impôt sur le revenu : paiement</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N23456">
+<Titre>Impôt sur le revenu pour les professionnels</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

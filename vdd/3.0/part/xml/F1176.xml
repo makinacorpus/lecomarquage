@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1176" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas d'utilisation abusive d'un barbecue par un voisin ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>En général, l'utilisation occasionnelle d'un barbecue n'est pas considérée comme un trouble anormal de voisinage. Toutefois, elle peut être réglementée par un arrêté municipal ou le règlement de copropriété.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-09</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1176</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171086&amp;cidTexte=LEGITEXT000006072665</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N356</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N356">Troubles de voisinage</Niveau>
+<Niveau ID="F1176" type="Fiche Question-réponse">Que faire en cas d'utilisation abusive d'un barbecue par un voisin ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N356">
+<Titre>Troubles de voisinage</Titre>
+<Fiche ID="F612">Bruits de voisinage</Fiche>
+<Fiche ID="F31117">Bruits d'activité</Fiche>
+<Fiche ID="F19299">Nuisances olfactives</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En général, l'utilisation occasionnelle d'un barbecue n'est pas considérée comme un trouble anormal de voisinage. Toutefois, elle peut être réglementée par un arrêté municipal ou le règlement de copropriété.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Troubles du voisinage</Paragraphe>
+</Titre><Paragraphe>En général, l'utilisation d'un barbecue n'est pas considérée comme un <LienInterne LienPublication="F31117" type="Fiche d'information" audience="Particuliers"> trouble anormal de voisinage</LienInterne> malgré les odeurs dégagées. Son utilisation doit cependant rester occasionnelle. Une utilisation fréquente d'un barbecue sur de longues durées peut être considérée comme une nuisance par la justice.</Paragraphe>
+<Paragraphe>De plus, un barbecue peut causer certains dommages aux propriétés voisines : noircissement de la façade causé par la fumée, projection de cendres.</Paragraphe>
+<Paragraphe>Le voisin qui subit le dommage peut demander des <LienInterne LienPublication="F1422" type="Fiche d'information" audience="Particuliers">dommages-intérêts</LienInterne> devant un tribunal.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réglementation</Paragraphe>
+</Titre><Paragraphe>Le maire a la possibilité de réglementer l'utilisation des barbecues au sein de sa commune. Il convient de contacter sa mairie afin de savoir s'il existe un arrêté municipal à ce sujet.</Paragraphe>
+<Paragraphe>Si votre immeuble est en copropriété, il est également conseillé de vérifier le <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne> pour savoir s'il existe une clause qui réglemente l'utilisation des barbecues.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F19299" audience="Particuliers">
+<Titre>Troubles de voisinage : nuisances olfactives (odeurs)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour s'informer (sauf à Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<Complement>Pour demander réparation du préjudice</Complement>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171086&amp;cidTexte=LEGITEXT000006072665" ID="R34154">
+<Titre>Code de la santé publique : articles L1422-1 et L1422-2</Titre>
+<Complement>Pouvoirs du maire en matière d'hygiène</Complement>
+</Reference>
+</Publication>

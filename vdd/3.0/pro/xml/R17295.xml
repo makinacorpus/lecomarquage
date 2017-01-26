@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17295" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de projet de travaux (DT) et déclaration d'intention de commencement de travaux (DICT)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>À utiliser d'abord par le maître d'ouvrage (ou responsable de projet), qui doit remplir la partie gauche (DT), et ensuite par l'exécutant des travaux (qui peut être une entreprise ou un particulier), qui doit compléter la partie droite (DICT).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-18</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17295</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13345">Urbanisme - BTP</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17295" type="Formulaire">Déclaration de projet de travaux (DT) et déclaration d'intention de commencement de travaux (DICT)</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14434*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>À utiliser d'abord par le maître d'ouvrage (ou responsable de projet), qui doit remplir la partie gauche (DT), et ensuite par l'exécutant des travaux (qui peut être une entreprise ou un particulier), qui doit compléter la partie droite (DICT).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Avant d'effectuer des travaux à proximité d'un ou plusieurs réseaux ou canalisations, il est nécessaire d'adresser une déclaration préalable aux exploitants concernés, après avoir consulté le téléservice de recensement des réseaux ou un prestataire conventionné par le guichet unique.</Paragraphe>
+<Paragraphe>Remplace les cerfa n°13619*01 (ancien 90-0189) et n°13618*01 (ancien 90-0188), qui ne sont plus en vigueur.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14434.do">
+<Source>Ministère en charge de l'environnement</Source>
+</LienWeb><NoticeLiee ID="R23399" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51536&amp;cerfaFormulaire=14434" numerocerfa="51536#03">Notice explicative pour la DT et la DICT</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R23496" audience="Professionnels" type="Téléservice">
+<Titre>Téléservice Réseaux et canalisations</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F23491" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration de travaux à proximité de réseaux (DT-DICT)</Titre>
+<Dossier ID="N13345">Urbanisme - BTP</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

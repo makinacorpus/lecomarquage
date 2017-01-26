@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N99" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Surendettement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Si vous n'arrivez plus à rembourser vos dettes non professionnelles (factures d'eau, loyer, mensualités de crédits, ...) vous pouvez déposer gratuitement un dossier de surendettement. Selon votre situation financière, une solution vous sera proposée : plan de redressement (remboursement total des dettes possible), ou mesures imposées ou recommandées (remboursement partiel des dettes possible), ou procédure de rétablissement personnel (remboursement des dettes impossible, même partiellement).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-08</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N99</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Consommateur</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N99" type="Dossier">Surendettement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere>
+<Fiche ID="F134">Saisir la commission de surendettement</Fiche>
+<Fiche ID="F1946">Examen de la situation d'endettement</Fiche>
+<Fiche ID="F16982">Plan conventionnel de redressement (accord des parties)</Fiche>
+<Fiche ID="F1947">Mesures imposées ou recommandées par la commission</Fiche>
+<Fiche ID="F16978">Procédure de rétablissement personnel</Fiche>
+<Introduction>
+<Texte><Paragraphe>Si vous n'arrivez plus à rembourser vos dettes non professionnelles (factures d'eau, loyer, mensualités de crédits, ...) vous pouvez déposer gratuitement un dossier de surendettement. Selon votre situation financière, une solution vous sera proposée :    plan de redressement (remboursement total des dettes possible), ou mesures imposées ou recommandées (remboursement partiel des dettes possible), ou procédure de rétablissement personnel (remboursement des dettes impossible, même partiellement).</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N96" audience="Particuliers">
+<Titre>Crédit à la consommation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F17608" audience="Particuliers">
+<Titre>Fichier des incidents de remboursement des crédits aux particuliers (FICP)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F16987" audience="Particuliers">
+<Titre>Saisie immobilière</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20363" type="Local personnalisable">
+<Titre>Commission de surendettement</Titre>
+<PivotLocal>commission_surendettement</PivotLocal>
+<RessourceWeb URL="http://www.banque-france.fr/la-banque-de-france/organisation/implantations-de-la-banque.html"/>
+<Source ID="R30618">Banque de France</Source>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R39916" URL="http://www.abe-infoservice.fr/banque/surendettement.html" audience="Particuliers">
+<Titre>Bénéficier de l'aide de la commission de surendettement</Titre>
+<Source ID="R30618">Banque de France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R19901" URL="http://www.banque-france.fr/la-banque-de-france/missions/protection-du-consommateur/surendettement.html" audience="Particuliers">
+<Titre>Principales étapes de la procédure de surendettement</Titre>
+<Source ID="R30618">Banque de France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10769" URL="http://www.lafinancepourtous.com/Banque-au-quotidien/Credit-a-la-consommation" audience="Particuliers">
+<Titre>Crédit à la consommation</Titre>
+<Source ID="R30693">Institut pour l'éducation financière du public (IEFP)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F21680" audience="Particuliers">Comment déposer un dossier de surendettement quand on vit en couple ?</QuestionReponse>
+<QuestionReponse ID="F31604" audience="Particuliers">Peut-on être expulsé de son logement pendant une procédure de surendettement ?</QuestionReponse>
+<QuestionReponse ID="F10434" audience="Particuliers">Peut-on être saisi pendant la procédure de surendettement ?</QuestionReponse>
+<QuestionReponse ID="F22131" audience="Particuliers">Quelles sont les obligations de la banque ?</QuestionReponse>
+<QuestionReponse ID="F2432" audience="Particuliers">Peut-on contester un rétablissement personnel recommandé par la commission de surendettement ?</QuestionReponse>
+<QuestionReponse ID="F790" audience="Particuliers">Peut-on empêcher son époux de faire des dépenses inconsidérées ?</QuestionReponse>
+</Publication>

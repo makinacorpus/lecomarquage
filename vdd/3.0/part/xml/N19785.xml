@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N19785" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Impôt sur le revenu : déductions, réductions et crédits d'impôt</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Impôt sur le revenu : déductions, réductions et crédits d'impôt : Aides fiscales liées à la famille, Aides fiscales liées aux dons, cotisations et souscriptions, Aides fiscales liées aux personnes dépendantes, Aides fiscales liées au logement</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-01-29</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N19785</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Contribuable</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N19785" type="Dossier">Impôt sur le revenu : déductions, réductions et crédits d'impôt</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere>
+<SousDossier ID="N19785-1">
+<Titre>Aides fiscales liées à la famille</Titre><Fiche ID="F446">Pension alimentaire versée à l'époux(se) ou ex-époux(se)</Fiche>
+<Fiche ID="F2">Pension alimentaire versée à un enfant</Fiche>
+<Fiche ID="F444">Pension alimentaire versée à un ascendant</Fiche>
+<Fiche ID="F9">Frais de scolarisation des enfants</Fiche>
+<Fiche ID="F8">Frais de garde de jeunes enfants hors du domicile</Fiche>
+<Fiche ID="F12">Emploi d'un salarié à domicile</Fiche>
+</SousDossier>
+<SousDossier ID="N19785-2">
+<Titre>Aides fiscales liées aux dons, cotisations et souscriptions</Titre><Fiche ID="F426">Dons aux organismes d'intérêt général</Fiche>
+<Fiche ID="F427">Dons aux partis politiques</Fiche>
+<Fiche ID="F1">Cotisations syndicales</Fiche>
+<Fiche ID="F14709">Cotisations retraite</Fiche>
+<Fiche ID="F4">Souscription au capital de SOFICA</Fiche>
+</SousDossier>
+<SousDossier ID="N19785-3">
+<Titre>Aides fiscales liées aux personnes dépendantes</Titre><Fiche ID="F5">Frais d'accueil d'une personne âgée</Fiche>
+<Fiche ID="F17">Frais en établissement pour personnes dépendantes</Fiche>
+<Fiche ID="F18">Primes des contrats de "rente-survie" et d'"épargne handicap"</Fiche>
+</SousDossier>
+<SousDossier ID="N19785-4">
+<Titre>Aides fiscales liées au logement</Titre><Fiche ID="F1224">Dépenses liées à la qualité énergétique de l'habitation principale</Fiche>
+<Fiche ID="F17625">Intérêts d'emprunt pour acquisition de l'habitation principale</Fiche>
+<Fiche ID="F10752">Dépenses d'équipements en faveur de l'aide aux personnes</Fiche>
+<Fiche ID="F31151">Investissements locatifs (Duflot/Pinel)</Fiche>
+</SousDossier><OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1281" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_268.pdf" format="application/pdf" poids="178.4 KB" numerocerfa="10330*20" autrenumero="2042" type="Formulaire">
+<Titre>Déclaration 2016 des revenus (papier)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R15720" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-notmv/2016/2041-notmv_27.pdf" numerocerfa="50796#16" format="application/pdf" poids="614.7 KB">Notice générale pour remplir les déclarations n°2042, 2042-C et 2042-C-PRO</NoticeLiee>
+<NoticeLiee ID="R40459" URL="https://www.impots.gouv.fr/portail/node/9143" numerocerfa="15018*03 (2041 FDC)">Déclaration des revenus - Fiche facultative de calculs</NoticeLiee>
+<NoticeLiee ID="R36611" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gv/2016/2041-gv_570.pdf" numerocerfa="50988#12" format="application/pdf" poids="0">Notice revenus 2015 : résidence alternée d'enfants mineurs</NoticeLiee>
+<NoticeLiee ID="R36724" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gp/2016/2041-gp_551.pdf" numerocerfa="50688#18" format="application/pdf" poids="103.5 KB">Notice revenus 2015 : allocations pour frais d'emploi</NoticeLiee>
+<NoticeLiee ID="R36723" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gt/2016/2041-gt_566.pdf" numerocerfa="50883#15">Notice revenus de 2015 : plafonnement des effets du quotient familial</NoticeLiee>
+<NoticeLiee ID="R36692" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gh/2016/2041-gh_531.pdf" numerocerfa="50149#20" format="application/pdf" poids="65.3 KB">Notice N°2041-GH - Revenus exceptionnels ou différés et cas particuliers</NoticeLiee>
+<NoticeLiee ID="R40371" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gn/2016/2041-gn_578.pdf" numerocerfa="50154#21" format="application/pdf" poids="118.8 KB">Notice revenus 2015 : revenus des valeurs et capitaux mobiliers (RCM)</NoticeLiee>
+<NoticeLiee ID="R36721" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gr/2016/2041-gr_555.pdf" numerocerfa="50794#17" format="application/pdf" poids="330.1 KB">Notice revenus 2015 : Travaux dans l'habitation principale</NoticeLiee>
+<NoticeLiee ID="R36677" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gm/2016/2041-gm_547.pdf" numerocerfa="50153#21">Notice revenus 2015 : BIC non professionnels : revenus de locations meublées et autres activités BIC non professionnelles</NoticeLiee>
+<NoticeLiee ID="R43226" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-e/2016/2041-e_251.pdf" numerocerfa="50318#19" format="application/pdf" poids="257.7 KB">Notice revenus 2015 : personnes fiscalement domiciliées hors de France</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2740" URL="https://www3.impots.gouv.fr/simulateur/calcul_impot/2017/index.htm" type="Simulateur">
+<Titre>Simulateur de calcul pour 2017 : impôt sur les revenus de 2016</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1280" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Déclaration 2016 en ligne des revenus</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2771" URL="https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente" type="Téléservice">
+<Titre>Paiement de l'impôt en ligne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41461" URL="http://www.impots.gouv.fr" audience="Particuliers">
+<Titre>Le site des impôts : impots.gouv.fr</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R40281" URL="http://proxy-pubminefi.diffusion.finances.gouv.fr/pub/document/18/20761.pdf" audience="Particuliers" format="application/pdf" poids="3.0 MB">
+<Titre>Dossier d'information 2016 - impôt sur les revenus 2015</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17502" URL="http://www2.impots.gouv.fr/documentation/2016/brochure_ir/index.html" audience="Particuliers">
+<Titre>Brochure pratique 2016 - Déclaration des revenus de 2015</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R12965" URL="https://www.impots.gouv.fr/portail/particulier/calendrier-fiscal" audience="Particuliers">
+<Titre>Calendrier fiscal des particuliers</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32028" URL="http://www2.impots.gouv.fr/documentation/depliants_pratiques/page/depliants.htm" audience="Particuliers">
+<Titre>Impôt sur le revenu : dépliants d'information</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F823" audience="Particuliers">Qu'est-ce qu'une déduction, une réduction, un crédit d'impôt ?</QuestionReponse>
+<QuestionReponse ID="F13216" audience="Particuliers">Qu'est-ce que le revenu fiscal de référence ?</QuestionReponse>
+<QuestionReponse ID="F31179" audience="Particuliers">En quoi consiste le plafonnement global des niches fiscales ?</QuestionReponse>
+<QuestionReponse ID="F1057" audience="Particuliers">Les frais d'obsèques d'un parent sont-ils déductibles du revenu imposable ?</QuestionReponse>
+<QuestionReponse ID="F32241" audience="Particuliers">Quels sont les avantages fiscaux en cas de travaux sur un monument historique ?</QuestionReponse>
+
+</Publication>

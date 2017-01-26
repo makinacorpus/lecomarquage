@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23543" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles déclarations fiscales professionnelles doivent être dématérialisées ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Les téléprocédures permettent aux professionnels de déclarer et de payer les principaux impôts en ligne, en utilisant internet ou la transmission de fichiers. Le recours aux télédéclarations et au télépaiement est dorénavant obligatoire pour déclarer et payer la plupart des impôts professionnels.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2016-10-19</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23543</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13442</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="F23543" type="Fiche Question-réponse">Quelles déclarations fiscales professionnelles doivent être dématérialisées ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13442">
+<Titre>Imposition des sociétés</Titre><SousDossier ID="N13442-1">
+<Titre>Impôt sur les sociétés (IS)</Titre>
+<Fiche ID="F23575">Entreprises concernées et taux d'imposition</Fiche>
+<Fiche ID="F23510">Déclaration et paiement</Fiche>
+<Fiche ID="F23628">Report de déficit</Fiche>
+<Fiche ID="F32166">Entreprises relevant de la Direction des grandes entreprises (DGE)</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-2">
+<Titre>Imposition des rémunérations</Titre>
+<Fiche ID="F33816">Rémunération des dirigeants de société</Fiche>
+<Fiche ID="F32963">Distribution de dividendes</Fiche>
+<Fiche ID="F32966">Rémunération des comptes courants d'associé</Fiche>
+<Fiche ID="F33162">Plus-values professionnelles</Fiche>
+</SousDossier>
+<SousDossier ID="N13442-3">
+<Titre>Autres impositions des sociétés</Titre>
+<Fiche ID="F32042">Société civile de moyens (SCM)</Fiche>
+<Fiche ID="F22790">Taxe sur les surfaces commerciales (Tascom)</Fiche>
+<Fiche ID="F31607">Taxe sur la valeur vénale des immeubles</Fiche>
+<Fiche ID="F31973">Charges déductibles ou non du résultat fiscal d'une entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les téléprocédures permettent aux professionnels de déclarer et de payer les principaux impôts en ligne, en utilisant internet ou la transmission de fichiers. Le recours aux télédéclarations et au télépaiement est dorénavant obligatoire pour déclarer et payer la plupart des  impôts professionnels.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il existe 2 modes de télétransmission des déclarations fiscales :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>directement sur internet <MiseEnEvidence>en mode EFI</MiseEnEvidence> (Échange de formulaires informatisés)  : les déclarations et les paiements peuvent être effectués directement en ligne à partir de l'<LienInterne LienPublication="R14668" type="Téléservice" audience="Professionnels">espace abonné des professionnels</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>par l'intermédiaire d'un comptable ou d'un prestataire <MiseEnEvidence>en mode EDI</MiseEnEvidence> (Échange de données informatisées) : le comptable, ou un prestataire mandaté par l'entreprise (organisme de gestion agréé, association de gestion comptable...), peut transmettre à l'administration fiscale les données déclaratives (déclarations de résultats) et de paiement des impôts professionnels : <LienInterne LienPublication="R44573" type="Téléservice" audience="Professionnels">Compte fiscal en ligne pour les tiers-déclarants (mode EDI) - Transmission par internet de fichiers TD/Bilatéral</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est possible d'utiliser les deux modes de transmission (EFI et EDI) pour déclarer et payer un même impôt. Par exemple, une entreprise soumise au régime simplifié d'imposition de TVA peut   transmettre par son expert-comptable la déclaration annuelle de TVA CA12 en mode EDI et transmettre ses acomptes en mode EFI.</Paragraphe>
+<Tableau>
+<Titre>Obligations de télédéclaration et télépaiement selon les types d'impôts et d'entreprises</Titre>
+<Colonne largeur="19" type="normal"/>
+<Colonne largeur="43" type="normal"/>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="23" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>En ligne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Obligatoire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mode EFI</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mode EDI</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Déclaration et paiement de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-TVA</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Demande de remboursement de crédit de TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-TVA</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Déclaration de résultats (liasses fiscales)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises </Paragraphe>
+<Paragraphe>(facultatif pour les sociétés immobilières non soumises à l'IS et dont le nombre d'associés est inférieur à 100)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui pour les entreprises soumises à un régime simplifié d'imposition (RSI)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-TDFC (transfert des données fiscales et comptables)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Paiement de l'IS</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises soumises à l'IS</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-paiement</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Paiement de la taxe sur les salaires</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises redevables</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-paiement</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Déclaration de la CVAE</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises redevables</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-TDFC</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Paiement de la CVAE</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises redevables</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-paiement</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Paiement de la CFE</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour toutes les entreprises redevables</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>télérèglement, prélèvement à l'échéance ou prélèvement mensuel</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>EDI-paiement</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Paiement des taxes foncières</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>pour un montant à payer supérieur à <Valeur>30 000 €</Valeur> (facultatif en dessous de ce montant)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>non</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Les entreprises étrangères sont concernées par l'obligation de télédéclaration et de télépaiement.</Paragraphe>
+<Paragraphe>Elles doivent télétransmettre leurs déclarations et leurs paiements soit par l'intermédiaire d'un prestataire extérieur, dénommé partenaire EDI (mode EDI), soit directement sur internet (mode EFI).</Paragraphe>
+<Paragraphe>Les télépaiements sont effectués au format SEPA interentreprises (SEPA 2B2), quel que soit le mode utilisé EFI ou EDI.</Paragraphe>
+<Paragraphe>Le télépaiement est possible à partir d'un compte bancaire détenu auprès d'un établissement étranger atteignable au prélèvement SEPA interentreprises.</Paragraphe>
+
+</Texte><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44573" URL="https://teletd.impots.gouv.fr/teletd/connexionEDI.do" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les tiers-déclarants (mode EDI) - Transmission par internet de fichiers TD/Bilatéral</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R23544" URL="https://www.impots.gouv.fr/portail/node/9834" audience="Professionnels" format="text/html; charset=utf-8" poids="0">
+<Titre>Télétransmission des déclarations fiscales pour les professionnels</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R33898" URL="http://www2.impots.gouv.fr/e_service_pro/edi/intro.htm" audience="Professionnels">
+<Titre>Comment adhérer à la procédure EDI ?</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+</Publication>

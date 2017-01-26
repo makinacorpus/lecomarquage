@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="servicesEnLigne" type="Liste - Service en ligne" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Services en ligne et formulaires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Services en ligne et formulaires : téléservices, formulaires, simulateurs, modèles de document</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-05</dc:date>
+<dc:type>Liste - Service en ligne</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>accueil</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+</FilDAriane>
+<Groupe type="Téléservice">
+<Titre>Téléservice</Titre><ServiceEnLigne ID="R11193" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=JeChangeDeCoordonnees" type="Téléservice">
+<Titre>Changement d'adresse en ligne</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1406" URL="https://mdel.mon.service-public.fr/acte-etat-civil.html" commentaireLien="Demande d'un acte de naissance" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16396" URL="https://www.service-public.fr/particuliers/vosdroits/R16396" type="Téléservice personnalisé sur SP">
+<Titre>Demande d'inscription sur les listes électorales</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+<PivotLocal>ILE</PivotLocal>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R39812" URL="https://timbres.impots.gouv.fr/pages/achat/choixTimbres.jsp" type="Téléservice">
+<Titre>Achat en ligne du timbre fiscal - Passeport</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1270" URL="https://siv.interieur.gouv.fr/map-usg-ui/do/accueil_certificat" commentaireLien="Demande de certificat de non gage" type="Téléservice">
+<Titre>Demande en ligne de certificat de situation administrative (non gage et non opposition)</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Formulaire">
+<Titre>Formulaires</Titre><ServiceEnLigne ID="R17122" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13584.do" format="application/force-download" poids="139.2 KB" numerocerfa="13584*02" type="Formulaire">
+<Titre>Demande d'aide à la création et à la reprise d'une entreprise (Accre)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R21218" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13584*02&amp;cerfaNotice=51223" numerocerfa="51223#02">Notice pour la demande d'aide à la création et à la reprise d'une entreprise (Accre)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10751" URL="http://www.interieur.gouv.fr/content/download/32947/245757/file/cerfa-10798-03.pdf" format="application/octet-stream" poids="532.1 KB" numerocerfa="10798*03" type="Formulaire">
+<Titre>Demande d'attestation d'accueil</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16024" URL="http://www.interieur.gouv.fr/content/download/32977/245942/file/cerfa_12669_01.pdf" numerocerfa="12669*01 + notice n° 51114#01" type="Formulaire">
+<Titre>Demande d'inscription sur les listes électorales</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13567" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13750" numerocerfa="13750*05" type="Formulaire">
+<Titre>Demande de certificat d'immatriculation d'un véhicule</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R13571" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51291&amp;cerfaFormulaire=13754" numerocerfa="51291#01" format="application/pdf" poids="84.3 KB">Notice explicative pour la déclaration de cession et la demande de certificat d'immatriculation</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>À remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13750.do" format="application/force-download" poids="241.3 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1228" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14883.do" numerocerfa="14883*01" type="Formulaire">
+<Titre>Demande de délivrance de permis de conduire par conversion d'un brevet militaire, par validation d'un diplôme professionnel ou levée d'une restriction</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Simulateur">
+<Titre>Simulateurs</Titre><ServiceEnLigne ID="R39696" URL="https://www.service-public.fr/simulateur/calcul/cout-certificat-immatriculation" type="Simulateur">
+<Titre>Simulateur du coût d'une carte grise</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10545" URL="http://www.energie-info.fr/calculettes/evolution-electricite" type="Simulateur">
+<Titre>Calculer l'évolution de sa facture d'électricité</Titre>
+<Source ID="R30745">Médiateur national de l'énergie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2972" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement/" type="Simulateur">
+<Titre>Simulateur Caf - Allocations logement (éligibilité et montant)</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R3038" URL="http://www.marel.fr/" type="Simulateur">
+<Titre>Estimation du montant de la pension de retraite (salarié, fonctionnaire, travailleur indépendant)</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45945" URL="https://www.service-public.fr/simulateur/calcul/pension-alimentaire" type="Simulateur">
+<Titre>Simulateur de calcul de pension alimentaire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Modèle de document">
+<Titre>Modèles de documents</Titre><ServiceEnLigne ID="R34629" URL="" type="Modèle de document">
+<Titre>Modèle de convention de Pacs</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31806" URL="" type="Modèle de document">
+<Titre>Attestation sur l'honneur</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32161" URL="" commentaireLien="Lettre de démission" type="Modèle de document">
+<Titre>Lettre de démission du salarié</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32169" URL="" type="Modèle de document">
+<Titre>Demande de congé parental à temps plein</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R39697" URL="" type="Modèle de document">
+<Titre>Attestation d'hébergement</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36829" URL="" type="Modèle de document">
+<Titre>Procuration - Carte grise (certificat d'immatriculation)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R998" URL="" type="Modèle de document">
+<Titre>Déclaration de concubinage</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R11469" URL="" type="Modèle de document">
+<Titre>Porter plainte auprès du procureur de la République</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+</Groupe>
+</Publication>

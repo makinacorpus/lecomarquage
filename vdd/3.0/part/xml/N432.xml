@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N432" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Hospitalisation et soins à domicile</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Hospitalisation et soins à domicile</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-19</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N432</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Patient</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N432" type="Dossier">Hospitalisation et soins à domicile</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20180">Santé</SousThemePere>
+<Fiche ID="F725">Hospitalisation</Fiche>
+<Fiche ID="F761">Hospitalisation pour troubles mentaux</Fiche>
+<Fiche ID="F246">Services de soins à domicile pour personnes âgées</Fiche>
+<Fiche ID="F732">Hospitalisation à domicile (HAD)</Fiche>
+<Fiche ID="F32010">Directives anticipées pour la fin de vie</Fiche><VoirAussi important="non">
+<Dossier ID="N17179" audience="Particuliers">
+<Titre>Information du patient : dossier médical, montant des prestations, ...</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F200" audience="Particuliers">
+<Titre>Prise en charge d'une hospitalisation par l'Assurance maladie</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2951" audience="Particuliers">
+<Titre>Remboursement des frais de transports par l'assurance maladie</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R33396" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10402.do" numerocerfa="10402*02" type="Formulaire">
+<Titre>Certificat médical - Demande d'information particulière en cas de coupure de courant électrique</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33397" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10401.do" numerocerfa="10401*02" type="Formulaire">
+<Titre>Demande d'information particulière en cas de coupure de courant électrique</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R42530" URL="http://www.scopesante.fr/" audience="Particuliers">
+<Titre>Site Scope Santé - Qualité des hôpitaux et cliniques</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32748" audience="Particuliers">Qu'est-ce qu'une personne de confiance ?</QuestionReponse>
+<QuestionReponse ID="F748" audience="Particuliers">Quels sont les droits du patient hospitalisé ?</QuestionReponse>
+<QuestionReponse ID="F1021" audience="Particuliers">L'hôpital est-il responsable d'un vol dans la chambre d'un patient ?</QuestionReponse>
+<QuestionReponse ID="F1020" audience="Particuliers">Qui doit payer les frais d'hospitalisation d'un malade insolvable ?</QuestionReponse>
+<QuestionReponse ID="F33954" audience="Particuliers">Comment alerter les secours (Samu ou pompiers) en cas d'urgence ?</QuestionReponse>
+</Publication>

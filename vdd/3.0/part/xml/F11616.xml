@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11616" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Feuille de soins</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Pour obtenir le remboursement de vos dépenses de santé, certains documents doivent être transmis à votre organisme d'assurance maladie, par voie électronique ou sur support papier : la feuille de soins et si nécessaire, l'ordonnance.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-19</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11616</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172510&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006742568&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006186377&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000796602</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N418</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418">Assurance maladie : affiliation et remboursements des soins</Niveau>
+<Niveau ID="F11616" type="Fiche d'information">Feuille de soins</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere><DossierPere ID="N418">
+<Titre>Assurance maladie : affiliation et remboursements des soins</Titre><SousDossier ID="N418-1">
+<Titre>Démarches d'affiliation</Titre>
+<Fiche ID="F34047">Protection universelle maladie (Puma)</Fiche>
+<Fiche ID="F675">Étudiant</Fiche>
+<Fiche ID="F16467">Premier emploi</Fiche>
+<Fiche ID="F23671">Agent public</Fiche>
+<Fiche ID="F674">Changement de situation professionnelle</Fiche>
+<Fiche ID="F737">Changement de situation personnelle</Fiche>
+<Fiche ID="F16620">Rattachement d'un enfant</Fiche>
+<Fiche ID="F16622">Rattachement d'un autre ayant-droit</Fiche>
+</SousDossier>
+<SousDossier ID="N418-2">
+<Titre>Conditions du remboursement des soins</Titre>
+<Fiche ID="F163">Parcours de soins coordonnés et médecin traitant</Fiche>
+<Fiche ID="F165">Ticket modérateur, forfait, franchises</Fiche>
+<Fiche ID="F265">Carte Vitale</Fiche>
+<Fiche ID="F33967">Ordonnance</Fiche>
+<Fiche ID="F11616">Feuille de soins</Fiche>
+<Fiche ID="F168">Accord (entente) préalable</Fiche>
+<Fiche ID="F167">Tiers payant</Fiche>
+</SousDossier>
+<SousDossier ID="N418-3">
+<Titre>Remboursement par type de dépense de santé</Titre>
+<Fiche ID="F1069">Consultation médicale</Fiche>
+<Fiche ID="F10874">Consultation médicale d'un enfant</Fiche>
+<Fiche ID="F200">Hospitalisation</Fiche>
+<Fiche ID="F21760">Médicaments</Fiche>
+<Fiche ID="F2951">Frais de transports</Fiche>
+<Fiche ID="F751">Cure thermale</Fiche>
+<Fiche ID="F33950">Lunettes et lentilles</Fiche>
+<Fiche ID="F33956">Soins dentaires</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Conditions du remboursement des soins</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Pour obtenir le remboursement de vos dépenses de santé, certains documents doivent être transmis à votre organisme d'assurance maladie, par voie électronique ou sur support papier : la feuille de soins et si nécessaire, l'ordonnance.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Feuille de soin électronique</Titre>
+<Texte>
+<Chapitre><Paragraphe>Vous remettez au professionnel de santé votre <LienInterne LienPublication="F265" type="Fiche d'information" audience="Particuliers">carte Vitale</LienInterne>.</Paragraphe>
+<Paragraphe> Le professionnel de santé inscrit alors sur son ordinateur les informations qui étaient auparavant indiquées sur la feuille de soins papier (indications sur votre état civil, date et nature des actes effectués, montant des honoraires perçus, etc.). </Paragraphe>
+<Paragraphe>Il transmet ensuite ces informations, par informatique, à <LienInterne LienPublication="F648" type="Fiche Question-réponse" audience="Particuliers">votre organisme d'assurance maladie</LienInterne>. </Paragraphe>
+<Paragraphe>Vous n'avez donc aucune démarche à faire pour être remboursé. </Paragraphe>
+<Paragraphe>En cas d'échec de l'émission de la feuille de soins électronique, vous pouvez demander au professionnel de santé un duplicata (double) de la feuille de soins. </Paragraphe>
+<Paragraphe>La demande est à faire 15 jours au moins et 3 mois au plus tard après la date d'élaboration de la feuille de soins.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Feuille de soins papier</Titre>
+<Texte>
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes l'assuré</Paragraphe>
+</Titre><Paragraphe>Vous devez indiquer votre numéro de Sécurité sociale et signer la feuille de soins avant de l'envoyer à votre organisme d'assurance maladie. </Paragraphe>
+<Paragraphe>Votre numéro de Sécurité sociale figure sur votre <LienInterne LienPublication="F265" type="Fiche d'information" audience="Particuliers">carte Vitale</LienInterne> ou sur <LienInterne LienPublication="F10662" type="Fiche Question-réponse" audience="Particuliers">l'attestation papier</LienInterne>. </Paragraphe>
+<Paragraphe>En cas de feuille de soins perdue ou non parvenue à l'organisme d'assurance maladie, vous pouvez demander au professionnel de santé un duplicata (double) de la feuille de soins. </Paragraphe>
+<Paragraphe>La demande est à faire 15 jours au moins et 3 mois au plus tard après la date d'élaboration de la feuille de soins.</Paragraphe>
+<Paragraphe>Pour remplir la feuille de soins, vous pouvez consulter la notice et demander conseil au professionnel de santé que vous consultez. </Paragraphe>
+<Paragraphe>Les documents ci-dessous sont des spécimens.</Paragraphe><ServiceEnLigne ID="R1334" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3110.pdf" numerocerfa="12541*02" autrenumero="S3110j" type="Formulaire">
+<Titre>Feuille de soins - Médecin</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Introduction>
+<Texte><Paragraphe>Modèle de formulaire mis en ligne pour information. Pour votre démarche, vous devez utiliser le formulaire original remis par votre médecin (exceptée télétransmission Vitale).</Paragraphe>
+<Paragraphe>Le formulaire contient une notice n°51070#02</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R46206" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3115.pdf" format="application/pdf" poids="518.5 KB" numerocerfa="11389*05" autrenumero="S3115h" type="Formulaire">
+<Titre>Feuille de soins - Pharmacien (spécimen)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Texte><Paragraphe>Modèle de formulaire mis en ligne pour information. Pour votre démarche, vous devez utiliser le formulaire original remis par votre médecin (exceptée télétransmission Vitale).</Paragraphe>
+<Paragraphe>Le formulaire contient une notice n°50652#05</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'êtes pas l'assuré</Paragraphe>
+</Titre><Paragraphe>Vous devez indiquer les renseignements suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Nom et prénom du patient</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Numéro de Sécurité sociale du patient (s'il en a  un)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Date de  naissance du patient </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Nom,  prénom, adresse et numéro de sécurité sociale de l'assuré dont vous dépendez </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous devez signer la feuille de soins avant de l'envoyer à votre organisme d'assurance maladie. En cas de feuille de soins perdue ou non parvenue à l'organisme d'assurance maladie, vous pouvez demander au professionnel de santé un duplicata (double) de la feuille de soins. La demande est à faire 15 jours au moins et 3 mois au plus tard après la date d'élaboration de la feuille de soins. </Paragraphe>
+<Paragraphe>Pour remplir la feuille de soins, vous pouvez consulter la notice et demander conseil au professionnel de santé que vous consultez.</Paragraphe>
+<Paragraphe>Les documents ci-dessous sont des spécimens.</Paragraphe><ServiceEnLigne ID="R1334" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3110.pdf" numerocerfa="12541*02" autrenumero="S3110j" type="Formulaire">
+<Titre>Feuille de soins - Médecin</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Introduction>
+<Texte><Paragraphe>Modèle de formulaire mis en ligne pour information. Pour votre démarche, vous devez utiliser le formulaire original remis par votre médecin (exceptée télétransmission Vitale).</Paragraphe>
+<Paragraphe>Le formulaire contient une notice n°51070#02</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R46206" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3115.pdf" format="application/pdf" poids="518.5 KB" numerocerfa="11389*05" autrenumero="S3115h" type="Formulaire">
+<Titre>Feuille de soins - Pharmacien (spécimen)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Texte><Paragraphe>Modèle de formulaire mis en ligne pour information. Pour votre démarche, vous devez utiliser le formulaire original remis par votre médecin (exceptée télétransmission Vitale).</Paragraphe>
+<Paragraphe>Le formulaire contient une notice n°50652#05</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<ServiceEnLigne ID="R1336" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3127.pdf" format="application/pdf" poids="528.6 KB" numerocerfa="11388*04" autrenumero="S3127e" type="Formulaire">
+<Titre>Feuille de soins - Sage-femme</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+<Introduction>
+<Texte><Paragraphe>Modèle de formulaire mis en ligne pour information.
+Pour votre démarche, le formulaire orignal doit être utilisé (sauf en cas de télétransmission Vitale).
+Accès à la notice n°50651#04.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Dossier ID="N418" audience="Particuliers">
+<Titre>Assurance maladie : affiliation et remboursements des soins</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R19040" type="Centre de contact">
+<Titre>Assurance maladie - 3646</Titre>
+<Complement>Pour s'informer sur l'assurance maladie si vous relevez du régime général des salariés</Complement><Texte>
+						
+								<Paragraphe>
+			Le 36 46 vous permet d'obtenir des renseignements sur vos droits et démarches, de poser une question sur votre dossier, de signaler un changement de situation ou encore de consulter vos remboursements.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3646</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi. Attention : les horaires varient selon votre département. En règle générale, les horaires d'ouverture sont au minimum de 8h30 à 16h. </Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger : +33 (0) 811 70 36 46
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Connectez-vous sur votre
+      <LienExterne URL="http://www.ameli.fr/">compte ameli</LienExterne>
+,      puis sélectionnez l'onglet
+      <Citation>Vos demandes</Citation>
+      et cliquez sur
+      <Citation>Contactez-nous / Vos questions</Citation>
+		.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<Complement>Pour joindre votre caisse d'assurance maladie</Complement>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006172510&amp;cidTexte=LEGITEXT000006073189" ID="R32715">
+<Titre>Code de la sécurité sociale : articles L161-28 à L161-36-2</Titre>
+<Complement>Ouverture du droit aux prestations de l'assurance maladie subordonnée à la production de documents (article L161-33)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006742568&amp;cidTexte=LEGITEXT000006073189" ID="R32716">
+<Titre>Code de la sécurité sociale : article L332-1</Titre>
+<Complement>Délai de prescription pour le paiement des prestations</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006186377&amp;cidTexte=LEGITEXT000006073189" ID="R32593">
+<Titre>Code de la sécurité sociale : articles R161-39 à R161-51</Titre>
+<Complement>Documents obligatoires pour l'ouverture du droit aux prestations de l'assurance maladie (feuille de soins, ordonnance)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000796602" ID="R32714">
+<Titre>Arrêté du 10 février 2004 fixant la liste des produits et prestations pour lesquels la signature de la feuille de soins par l'assuré ou le bénéficiaire n'est pas exigée</Titre>
+</Reference>
+<ServiceEnLigne ID="R3049" URL="https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true" type="Téléservice">
+<Titre>Ameli en ligne</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R11260" URL="http://www.ameli.fr/assures/soins-et-remboursements/index.php" audience="Particuliers">
+<Titre>Soins et remboursements</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F648" audience="Particuliers">À quel organisme de sécurité sociale est-on rattaché pour l'assurance maladie ?</QuestionReponse>
+<QuestionReponse ID="F16466" audience="Particuliers">À quelle caisse d'assurance maladie un salarié est-il affilié ?</QuestionReponse>
+<QuestionReponse ID="F17042" audience="Particuliers">Quels sont les tarifs d'un médecin (conventionné ou non) ?</QuestionReponse>
+<QuestionReponse ID="F33078" audience="Particuliers">Que signifie le numéro de sécurité sociale ?</QuestionReponse>
+</Publication>

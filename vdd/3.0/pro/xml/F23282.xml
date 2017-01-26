@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23282" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Combien coûte la création d'une entreprise ou la déclaration d'une activité?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Les formalités de création d'entreprise comportent des coûts qui diffèrent selon le type d'entreprise et la nature de son activité, à la fois pour les procédures obligatoires auprès des centres de formalités des entreprises (immatriculation, annonces légales, rédaction des statuts, etc.), mais aussi des frais annexes (dépôt de marque, signature d'un bail commercial, par exemple).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-06</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23282</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16147</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Artisan, Auto-entrepreneur, Commerçant, Industriel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16147">Préalables à la création d'entreprise</Niveau>
+<Niveau ID="F23282" type="Fiche Question-réponse">Combien coûte la création d'une entreprise ou la déclaration d'une activité?</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere><DossierPere ID="N16147">
+<Titre>Préalables à la création d'entreprise</Titre>
+<Fiche ID="F23281">Étude de marché</Fiche>
+<Fiche ID="F23844">Choix du statut juridique de l'entreprise en création</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>
+			Les formalités de création d'entreprise comportent des coûts qui diffèrent selon le type d'entreprise et la nature de son activité, à la fois pour les procédures obligatoires auprès des centres de formalités des entreprises (immatriculation, annonces légales, rédaction des statuts, etc.), mais aussi des frais annexes (dépôt de marque, signature d'un bail commercial, par exemple).
+</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Coût de création d'une entreprise individuelle (tarifs en vigueur en 2016)</Titre>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Statut juridique de l'entreprise</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Formalité concernée</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Coût</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entreprise individuelle commerciale (commerçant indépendant)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation au <LienInterne LienPublication="R24403" type="Sigle">RCS</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>26,68 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entreprise individuelle artisanale (artisan indépendant)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation au Répertoire des métiers (RM) + <LienInterne LienPublication="F23887" type="Fiche d'information" audience="Professionnels">stage de préparation à l'installation (SPI)</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>en moyenne <Valeur>190 €</Valeur> pour le RM + <Valeur>260 €</Valeur> pour le SPI *</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe> Commerçant en micro-entreprise (ou auto-entrepreneur)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation au <LienInterne LienPublication="R24403" type="Sigle">RCS</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Artisan en micro-entreprise (ou auto-entrepreneur)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation au Répertoire des métiers (RM)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>gratuit pour le RM et  <Valeur>260 €</Valeur> pour le SPI *</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Professionnel libéral</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Inscription à l'Urssaf</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>gratuit</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Agent commercial</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation au Registre spécial des agents commerciaux (RSAC) </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>25,98 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R24383" type="Sigle">SARL</LienInterne> - <LienInterne LienPublication="R38722" type="Sigle">EURL</LienInterne> - <LienInterne LienPublication="R31615" type="Sigle">SNC</LienInterne> - Sociétés civiles</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais de publication (journal d'annonces légales)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>en moyenne <Valeur>200 €</Valeur>*</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Société anonyme (SA) - <LienInterne LienPublication="R38677" type="Sigle">SAS</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais de publication (journal d'annonces légales)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>en moyenne <Valeur>230 €</Valeur> *</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R24383" type="Sigle">SARL</LienInterne> - <LienInterne LienPublication="R38722" type="Sigle">EURL</LienInterne> - <LienInterne LienPublication="R31615" type="Sigle">SNC</LienInterne> - Sociétés civiles - Société anonyme (SA) - <LienInterne LienPublication="R38677" type="Sigle">SAS</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation au <LienInterne LienPublication="R24403" type="Sigle">RCS</LienInterne>, y compris le dépôt d'actes, si activité commerciale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>41,50 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="R24383" type="Sigle">SARL</LienInterne> - <LienInterne LienPublication="R38722" type="Sigle">EURL</LienInterne> - <LienInterne LienPublication="R31615" type="Sigle">SNC</LienInterne> - Sociétés civiles - Société anonyme (SA) - <LienInterne LienPublication="R38677" type="Sigle">SAS</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation au Répertoire des métiers (RM), si activité artisanale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>en moyenne <Valeur>230 €</Valeur> *</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>* ces montants varient selon les départements</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les entreprises assujetties à la double immatriculation RCS/RM doivent régler les frais d'immatriculation à la fois au RM et au RCS.</Paragraphe>
+</Attention>
+</Texte><ServiceEnLigne ID="R21853" URL="https://www.afecreation.fr/pid11436/calculatrice-de-charges-ae.html" type="Simulateur">
+<Titre>Calcul des charges du micro-entrepreneur</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R32266" URL="https://www.infogreffe.fr/societes/documents-officiels/infogreffe-gratuit.html" audience="Professionnels">
+<Titre>Tarifs des formalités auprès des greffes des tribunaux de commerce</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16248" URL="https://www.impots.gouv.fr/portail/le-livret-fiscal-du-createur-dentreprise" audience="Professionnels" format="text/html; charset=utf-8" poids="0">
+<Titre>Livret fiscal de la création d'entreprise</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R31615" type="Sigle">
+<Titre>SNC</Titre>
+<Texte>
+<Paragraphe>Société en nom collectif</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24383" type="Sigle">
+<Titre>SARL</Titre>
+<Texte>
+<Paragraphe>Société à responsabilité limitée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R38677" type="Sigle">
+<Titre>SAS</Titre>
+<Texte>
+<Paragraphe>Société par actions simplifiée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R38722" type="Sigle">
+<Titre>EURL</Titre>
+<Texte>
+<Paragraphe>Entreprise unipersonnelle à responsabilité limitée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24403" type="Sigle">
+<Titre>RCS</Titre>
+<Texte>
+<Paragraphe>Registre du commerce et des sociétés</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F31972" audience="Professionnels">Comment trouver un journal d'annonces légales (JAL) ?</QuestionReponse>
+</Publication>

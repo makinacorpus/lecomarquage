@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F221" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles formations sont accessibles à une personne en situation de handicap ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Handicap : accès aux formations destinées aux salariés et aux demandeurs d'emploi</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F221</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018526183&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N198</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N198">Formation des personnes handicapées</Niveau>
+<Niveau ID="F221" type="Fiche Question-réponse">Quelles formations sont accessibles à une personne en situation de handicap ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20176">Formation</SousThemePere><DossierPere ID="N198">
+<Titre>Formation des personnes handicapées</Titre>
+<Fiche ID="F219">Contrat d'apprentissage</Fiche>
+<Fiche ID="F211">Centre de pré-orientation</Fiche>
+<Fiche ID="F212">Contrat ou stage de rééducation professionnelle</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Une personne en situation de handicap peut accéder  à l'ensemble des actions de formation destinées aux salariés, mais également 			à des actions de formation spécifiques.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dispositifs généraux</Paragraphe>
+</Titre><Paragraphe>La personne en situation de handicap a accès aux <LienInterne LienPublication="N177" type="Dossier" audience="Particuliers">mêmes dispositifs de formation que les autres salariés</LienInterne>. Toutefois, les organismes de formation doivent mettre en place des adaptations en proposant notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un accueil à temps partiel ou discontinu,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une durée de formation adaptée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une évaluation des connaissances et des compétences adaptées.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dispositifs adaptés</Paragraphe>
+</Titre><Paragraphe>Certains dispositifs sont spécifiquement adaptés à la personne en situation de handicap.</Paragraphe>
+<Paragraphe>Ainsi, le jeune  handicapé qui souhaite obtenir une certification professionnelle peut conclure un <LienInterne LienPublication="F219" type="Fiche d'information" audience="Particuliers">contrat d'apprentissage dont certains aménagements sont spécifiques</LienInterne> à sa situation.</Paragraphe>
+<Paragraphe>Une personne handicapée qui rencontre des problèmes d'orientation professionnelle peut également bénéficier <LienInterne LienPublication="F211" type="Fiche d'information" audience="Particuliers">d'aides pour affiner son projet d'insertion professionnelle</LienInterne>.</Paragraphe>
+<Paragraphe>Le travailleur handicapé à la suite d'une maladie ou d'un accident peut </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>recevoir une <LienInterne LienPublication="F212" type="Fiche d'information" audience="Particuliers">aide pour se réinsérer dans le monde professionnel</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou se tourner vers les <LienInterne LienPublication="F215" type="Fiche Question-réponse" audience="Particuliers">écoles de reconversion professionnelle de l'Onac-vg</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F211" audience="Particuliers">
+<Titre>Handicap : accueil en centre de pré-orientation</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R14" type="Local personnalisé sur SP">
+<Titre>Maison départementale des personnes handicapées (MDPH)</Titre>
+<Complement>Pour obtenir un complément d'information</Complement>
+<PivotLocal>maison_handicapees</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=MDPH&amp;where="/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018526183&amp;cidTexte=LEGITEXT000006072050" ID="R31448">
+<Titre>Code du travail : articles D5211-1 à D5211-6</Titre>
+</Reference>
+</Publication>

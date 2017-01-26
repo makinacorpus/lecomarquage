@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23595" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qui peut demander l'ouverture d'une sauvegarde de justice, curatelle ou tutelle?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>L'ouverture d'une sauvegarde de justice, d'une curatelle, ou d'une tutelle peut être demandée au juge des tutelles par différentes personnes.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-25</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23595</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150110&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N155</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N155">Protection juridique (tutelle, curatelle...)</Niveau>
+<Niveau ID="F23595" type="Fiche Question-réponse">Qui peut demander l'ouverture d'une sauvegarde de justice, curatelle ou tutelle?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20091">Protection des personnes</SousThemePere><DossierPere ID="N155">
+<Titre>Protection juridique (tutelle, curatelle...)</Titre>
+<Fiche ID="F2075">Sauvegarde de justice</Fiche>
+<Fiche ID="F33367">Habilitation familiale</Fiche>
+<Fiche ID="F2094">Curatelle</Fiche>
+<Fiche ID="F2120">Tutelle d'une personne majeure</Fiche>
+<Fiche ID="F1336">Mesure d'accompagnement social personnalisé (Masp) ou judiciaire (Maj)</Fiche>
+<Fiche ID="F16670">Mandat de protection future</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>L'ouverture d'une mesure de protection juridique du majeur (sauvegarde de justice, curatelle, tutelle) peut être demandée au juge des tutelles par les personnes suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la personne à protéger elle-même, ou la personne avec qui elle vit en couple (c'est-à-dire l'époux, le partenaire ou le concubin) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un parent ou un <LienIntra LienID="R12901" type="Définition de glossaire">allié</LienIntra> ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une personne entretenant avec le majeur des liens étroits et stables ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la personne qui exerce (déjà) la mesure de protection juridique (curateur ou tuteur). </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La demande peut être également présentée par le <LienIntra LienID="R1123" type="Définition de glossaire">procureur de la République</LienIntra> qui formule cette demande :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> soit de sa propre initiative ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit à la demande d'un tiers (par exemple : médecin, directeur d'établissement de santé, travailleur social).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La mesure est proportionnée et individualisée en fonction du degré d'altération des facultés personnelles de l'intéressé. </Paragraphe>
+
+</Texte>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150110&amp;cidTexte=LEGITEXT000006070721" ID="R497">
+<Titre>Code civil : articles 428 à 432</Titre>
+<Complement>Article 430</Complement>
+</Reference>
+<Definition ID="R12901">
+<Titre>Alliés</Titre>
+<Texte>
+				<Paragraphe>Personnes liées par des liens résultant du mariage et non du sang (par exemple, beau-frère, belle-mère)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1123">
+<Titre>Procureur de la République</Titre>
+<Texte>
+				<Paragraphe>Magistrat à la tête du parquet (ou ministère public) au sein d'un tribunal de grande instance (TGI). Il est destinataire des plaintes et signalements. Il dirige les enquêtes, décide des poursuites et veille à l'application de la loi.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

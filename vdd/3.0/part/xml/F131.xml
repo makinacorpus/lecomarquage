@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F131" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le salarié peut-il revenir sur sa démission ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le salarié peut revenir sur sa démission. La rétractation s'impose à l'employeur si la volonté réelle de démissionner du salarié est remise en cause.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F131</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19611</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="F131" type="Fiche Question-réponse">Le salarié peut-il revenir sur sa démission ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N19611">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre><SousDossier ID="N19611-1">
+<Titre>Démission</Titre>
+<Fiche ID="F2883">Démission d'un salarié</Fiche>
+<Fiche ID="F89">Allocations chômage</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-2">
+<Titre>Rupture conventionnelle du CDI</Titre>
+<Fiche ID="F19030">Conditions et procédure</Fiche>
+<Fiche ID="F19708">Indemnisation</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-3">
+<Titre>Documents à remettre au salarié</Titre>
+<Fiche ID="F87">Certificat de travail</Fiche>
+<Fiche ID="F2867">Attestation destinée à Pôle emploi</Fiche>
+<Fiche ID="F86">Reçu pour solde de tout compte</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-4">
+<Titre>Ruptures atypiques du contrat de travail</Titre>
+<Fiche ID="F24409">Prise d'acte de la rupture du contrat de travail</Fiche>
+<Fiche ID="F24410">Résiliation judiciaire du contrat de travail</Fiche>
+<Fiche ID="F24411">Départ négocié en cas de difficultés économiques</Fiche>
+<Fiche ID="F24412">Rupture du contrat de travail pour cas de force majeure</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, sous conditions. </Paragraphe>
+<Paragraphe>La démission est valable lorsque la volonté de démissionner est claire et non équivoque. Si c'est le cas, le salarié ne peut pas réintégrer l'entreprise (sauf accord de l'employeur).</Paragraphe>
+<Paragraphe>Toutefois, en cas d'ambiguïté sur la volonté réelle de démissionner, le salarié peut revenir sur sa démission de manière valable à condition de le faire rapidement.</Paragraphe>
+<Paragraphe>Cela peut être le cas, par exemple, en cas de démission remise à l'employeur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sous l'emprise de la colère ou sous le coup de l'émotion,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sous l'emprise de troubles psychiques,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou suite à des pressions (menace d'un licenciement pour faute, par exemple).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans ce cas, la rétractation du salarié s'impose à l'employeur. </Paragraphe>
+<Paragraphe>En cas de conflit sur la validité de la rétractation, le <LienInterne LienPublication="F2360" type="Fiche d'information" audience="Particuliers"> conseil de prud'hommes</LienInterne> peut être saisi. Il convient alors de présenter au juge des éléments susceptibles de prouver le vice du consentement (mails, certificat médical, attestations de collègues, courriers...).</Paragraphe>
+<Paragraphe>Le conseil de prud'hommes peut requalifier la démission en licenciement sans cause réelle et sérieuse<LienInterne LienPublication="F24409" type="Fiche d'information" audience="Particuliers"/>.</Paragraphe>
+
+</Texte>
+<QuestionReponse ID="F12604" audience="Particuliers">Est-on dispensé de préavis en cas de démission liée à la mutation du conjoint ?</QuestionReponse>
+<QuestionReponse ID="F1980" audience="Particuliers">Peut-on travailler pour un nouvel employeur avant la fin du préavis ?</QuestionReponse>
+<QuestionReponse ID="F2614" audience="Particuliers">Arrêt maladie pendant le préavis : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F2930" audience="Particuliers">Le salarié peut-il prendre des congés payés pendant son préavis ?</QuestionReponse>
+</Publication>

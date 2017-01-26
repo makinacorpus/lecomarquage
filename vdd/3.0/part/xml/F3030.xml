@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3030" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles dispositions sont prévues pour un fonctionnaire d'État dont l'emploi est supprimé ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le fonctionnaire d'État dont l'emploi est supprimé dispose d'une priorité d'affectation ou de détachement dans sa zone géographique.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3030</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000504704, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068830</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31057</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N31057">Mobilité dans la fonction publique</Niveau>
+<Niveau ID="F3030" type="Fiche Question-réponse">Quelles dispositions sont prévues pour un fonctionnaire d'État dont l'emploi est supprimé ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19962">Contrats et carrière</SousThemePere><DossierPere ID="N31057">
+<Titre>Mobilité dans la fonction publique</Titre><SousDossier ID="N31057-1">
+<Titre>Mobilité en position d'activité</Titre>
+<Fiche ID="F459">Mutation</Fiche>
+<Fiche ID="F11683">Intégration directe</Fiche>
+</SousDossier>
+<SousDossier ID="N31057-2">
+<Titre>Détachement</Titre>
+<Fiche ID="F14678">Cas de détachement</Fiche>
+<Fiche ID="F543">Procédure</Fiche>
+<Fiche ID="F14679">Situation du fonctionnaire détaché</Fiche>
+<Fiche ID="F14680">Fin du détachement</Fiche>
+</SousDossier>
+<SousDossier ID="N31057-3">
+<Titre>Disponibilité</Titre>
+<Fiche ID="F544">Motifs et durées de la mise en disponibilité</Fiche>
+<Fiche ID="F101">Situation du fonctionnaire en disponibilité</Fiche>
+<Fiche ID="F431">Réintégration</Fiche>
+<Fiche ID="F1690">Disponibilité d'office pour raisons de santé</Fiche>
+</SousDossier>
+<SousDossier ID="N31057-4">
+<Titre>Mise à disposition</Titre>
+<Fiche ID="F551">Cas de mise à disposition</Fiche>
+<Fiche ID="F143">Situation de l'agent mis à disposition</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Des mesures particulières ont été prévues pour le fonctionnaire dont l'emploi est supprimé (par exemple à la suite d'une restructuration) et qui ne peut être réaffecté immédiatement sur un autre emploi correspondant à son grade,</Paragraphe>
+<Paragraphe> Dans ce cas, le fonctionnaire bénéficie, sur sa demande explicite, d'une priorité d'<MiseEnEvidence>affectation</MiseEnEvidence> sur tout emploi correspondant à son grade, vacant dans un autre service ou une autre administration de la même zone géographique. La <LienIntra LienID="R44680" type="Définition de glossaire">commission administrative paritaire (CAP)</LienIntra> est consultée sur cette affectation.</Paragraphe>
+<Paragraphe>  Il bénéficie également, et dans les même conditions, d'une priorité de <MiseEnEvidence>détachement</MiseEnEvidence> sur tout poste vacant correspondant à son grade.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le dispositif de réorientation professionnelle créé en 2009 est supprimé depuis le 21 avril 2016.</Paragraphe>
+</ANoter>
+</Texte><VoirAussi important="non">
+<Fiche ID="F543" audience="Particuliers">
+<Titre>Procédure de détachement d'un fonctionnaire</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000504704" ID="R13601">
+<Titre>Loi n°83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068830" ID="R1819">
+<Titre>Loi n°84-16 du 11 janvier 1984 relative au statut de la fonction publique de l'État (FPE)</Titre>
+<Complement>Articles 60 et 62</Complement>
+</Reference>
+<Definition ID="R44680">
+<Titre>Commission administrative paritaire</Titre>
+<Texte>
+				<Paragraphe>Instance de représentation des fonctionnaires titulaires de la fonction publique. Saisie  pour avis sur les questions relatives aux carrières individuelles : titularisation, avancement de grade, promotion,  licenciement pour insuffisance, recours en évaluation. Composée à part égale de représentants du personnel et de l'administration. </Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

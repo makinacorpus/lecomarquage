@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42281" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modèle de lettre pour se porter caution d'un locataire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Permet à une personne de se déclarer comme caution (simple ou solidaire) d'un locataire. Lettre à remettre au bailleur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-05</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42281</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42281" type="Modèle de document">Modèle de lettre pour se porter caution d'un locataire</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet à une personne de se déclarer comme caution (simple ou solidaire) d'un locataire. Lettre à remettre au bailleur.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Variable>Madame/monsieur</Variable>
+</Paragraphe>
+<Paragraphe>Je soussigné(e) <Variable> nom, prénom et date de naissance de la personne se portant caution</Variable> certifie avoir pris connaissance du bail annexé à la présente et déclare me porter caution<Variable> simple/solidaire</Variable> pour <Variable>nom, prénom du locataire</Variable> au profit du bailleur <Variable>nom, prénom, adresse</Variable>.</Paragraphe>
+<Paragraphe>J'ai pris connaissance du montant du loyer de <Variable>montant du loyer</Variable> par <Variable>période de versement</Variable>. Il sera révisé annuellement tous les <Variable>date de révision</Variable> selon  l'indice de référence des loyers publié par l'INSEE de <Variable>date de la période de référence de l'IRL indiquée sur le bail</Variable>.</Paragraphe>
+<Paragraphe>Je m'engage à rembourser sur mes revenus et sur mes biens personnels les sommes dues par le locataire<Variable> nom et prénom</Variable> en cas de défaillance de ce dernier. Je confirme avoir une parfaite connaissance de la nature et de l'étendue de mon engagement.</Paragraphe>
+<Paragraphe>Cet engagement pour une caution <Variable>simple/solidaire</Variable> est valable <Variable>pour une durée indéterminée/jusqu'au ...</Variable> pour le paiement notamment des loyers éventuellement révisés, des charges récupérables, des indemnités d'occupation, des dégradations et réparations locatives et des frais de procédures, indemnités, pénalités et dommages-intérêts. </Paragraphe>
+<Paragraphe>Je reconnais également avoir pris connaissance de l'avant-dernier alinéa de l'article 22-1 de la loi du 6 juillet 1989 ainsi rédigé : "Lorsque le cautionnement d'obligations résultant d'un contrat de location conclu en application du présent titre ne comporte aucune indication de durée ou lorsque la durée du cautionnement est stipulée indéterminée, la caution peut le résilier unilatéralement. La résiliation prend effet au terme du contrat de location, qu'il s'agisse du contrat initial ou d'un contrat reconduit ou renouvelé au cours duquel le bailleur reçoit notification de la résiliation".</Paragraphe>
+<Paragraphe>Fait à<Variable> lieu de rédaction</Variable> le <Variable>date de rédaction</Variable>,</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>Les 4 derniers paragraphes sont à écrire <MiseEnEvidence>obligatoirement à la main par le garant lui-même</MiseEnEvidence>.</Paragraphe>
+</ANoter>
+</Texte>
+<FicheLiee ID="F31267" audience="Particuliers" type="Fiche d'information">
+<Titre>Accès à un logement privé : caution du locataire</Titre>
+<Dossier ID="N292">Location immobilière : candidat locataire</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

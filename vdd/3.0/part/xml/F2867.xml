@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2867" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Attestation destinée à Pôle emploi</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>L'attestation Pôle emploi est un document permettant au salarié en fin de contrat de faire valoir ses droits aux allocations chômage. Il est dû au salarié pour tout salarié en CDI ou CDD, quel que soit le motif de la rupture (démission, licenciement...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-05</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2867</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537548&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000018537466&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19611</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="F2867" type="Fiche d'information">Attestation destinée à Pôle emploi</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N19611">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre><SousDossier ID="N19611-1">
+<Titre>Démission</Titre>
+<Fiche ID="F2883">Démission d'un salarié</Fiche>
+<Fiche ID="F89">Allocations chômage</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-2">
+<Titre>Rupture conventionnelle du CDI</Titre>
+<Fiche ID="F19030">Conditions et procédure</Fiche>
+<Fiche ID="F19708">Indemnisation</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-3">
+<Titre>Documents à remettre au salarié</Titre>
+<Fiche ID="F87">Certificat de travail</Fiche>
+<Fiche ID="F2867">Attestation destinée à Pôle emploi</Fiche>
+<Fiche ID="F86">Reçu pour solde de tout compte</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-4">
+<Titre>Ruptures atypiques du contrat de travail</Titre>
+<Fiche ID="F24409">Prise d'acte de la rupture du contrat de travail</Fiche>
+<Fiche ID="F24410">Résiliation judiciaire du contrat de travail</Fiche>
+<Fiche ID="F24411">Départ négocié en cas de difficultés économiques</Fiche>
+<Fiche ID="F24412">Rupture du contrat de travail pour cas de force majeure</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Documents à remettre au salarié</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>L'attestation Pôle emploi est un document permettant au salarié en fin de contrat de faire valoir ses droits aux allocations chômage. Il est dû au salarié pour tout salarié en <LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne> ou <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne>, quel que soit le motif de la rupture (démission, licenciement...).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Mentions figurant dans l'attestation</Paragraphe>
+</Titre><Paragraphe>L'attestation doit notamment préciser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'identité et qualification du salarié,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le motif de la rupture du contrat de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la durée de l'emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant des rémunérations des 12 derniers mois (salaires, primes, indemnités, montant du solde de tout compte).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>C'est l'employeur qui établit l'attestation. Il en transmet un exemplaire au salarié.</Paragraphe>
+<Paragraphe>En cas de fausse indication (par exemple, un motif de rupture du contrat de travail inexact), le salarié peut prétendre au bénéfice de dommages-intérêts.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Date de remise de l'attestation</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Salarié en CDI ou CDD</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié effectue son préavis</Paragraphe>
+</Titre><Paragraphe>L'employeur remet l'attestation au salarié à la date de fin du contrat de travail.</Paragraphe>
+<Paragraphe>Par exemple, si le contrat de travail s'achève le 30 novembre, le certificat doit être remis au salarié à cette date.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié est dispensé de préavis</Paragraphe>
+</Titre><Paragraphe>L'attestation destinée à Pôle emploi est obligatoirement remise au salarié à la date de fin du contrat de travail, même si le salarié est dispensé de préavis.</Paragraphe>
+<Paragraphe>Par exemple, si le contrat de travail s'achève le 30 novembre, et que le salarié est dispensé de préavis à compter du 1er octobre, le certificat ne doit être remis qu'en date du 30 novembre.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Salarié en intérim</Paragraphe>
+</Titre><Paragraphe>L'employeur n'est pas tenu de remettre une attestation Pôle emploi au salarié dont la mission s'achève, sauf si les 2 conditions suivantes sont remplies :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le contrat de travail mentionne le droit pour le salarié d'obtenir sans délai ces documents dès le jour d'expiration du contrat,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le salarié demande à l'employeur qu'il lui remette l'attestation.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sanction</Paragraphe>
+</Titre><Paragraphe>L'employeur qui ne remet pas l'attestation d'assurance chômage risque une amende de <Valeur>1 500 €</Valeur>.</Paragraphe>
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R3040" type="Centre de contact">
+<Titre>Votre direction des ressources humaines (DRH)</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R756" type="Centre de contact">
+<Titre>Vos représentants du personnel</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537548&amp;cidTexte=LEGITEXT000006072050" ID="R39810">
+<Titre>Code du travail : articles R1234-9 à R1234-12</Titre>
+<Complement>Règles générales</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000018537466&amp;cidTexte=LEGITEXT000006072050" ID="R41818">
+<Titre>Code du travail : article R1238-7</Titre>
+<Complement>Sanction</Complement>
+</Reference>
+<ServiceEnLigne ID="R14578" URL="https://gestion.pole-emploi.fr/espaceemployeur/espaceemployeur/authentification/authentification" type="Téléservice">
+<Titre>Pôle emploi : services en ligne pour les employeurs</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R31882" URL="http://www.pole-emploi.fr/employeur/l-attestation-d-employeur-destinee-a-pole-emploi-@/article.jspz?id=61379" audience="Particuliers">
+<Titre>Comment remplir l'attestation destinée à Pôle emploi</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F20744" audience="Particuliers">Peut-on garder la mutuelle de l'entreprise à la fin du contrat de travail ?</QuestionReponse>
+</Publication>

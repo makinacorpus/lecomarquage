@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2127" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment se procurer la copie d'un règlement de copropriété ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>En cas de perte du règlement de copropriété, il est possible d'en obtenir une copie de différentes manières.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-28</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2127</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023276582&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488221&amp;cidTexte=LEGITEXT000006061423</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31339">Documents de copropriété</Niveau>
+<Niveau ID="F2127" type="Fiche Question-réponse">Comment se procurer la copie d'un règlement de copropriété ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31339">
+<Titre>Documents de copropriété</Titre>
+<Fiche ID="F2589">Règlement de copropriété</Fiche>
+<Fiche ID="F2665">Carnet d'entretien de la copropriété</Fiche>
+<Fiche ID="F34051">Fiche synthétique de la copropriété</Fiche>
+<Fiche ID="F32058">Immatriculation de la copropriété</Fiche>
+<Fiche ID="F32059">Diagnostic technique de l'immeuble en copropriété</Fiche>
+<Fiche ID="F1615">Bilan énergétique d'un immeuble en copropriété (DPE et audit énergétique)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Une copie du <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne> doit être remise à l'acheteur et au locataire d'un appartement. En cas de perte du règlement de copropriété, il est possible de tenter d'obtenir une copie auprès :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de votre bailleur si vous êtes locataire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou d'un autre copropriétaire, notamment membre du <LienInterne LienPublication="F2610" type="Fiche d'information" audience="Particuliers">conseil syndical</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si personne n'a pu vous fournir de copie du règlement de copropriété, vous pouvez l'obtenir auprès :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic</LienInterne> qui n'est pas tenu d'accepter et qui peut par ailleurs prévoir une facturation pour rendre ce service (frais variables en fonction du contrat de syndic),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du service de publicité foncière sur la base d'un formulaire spécifique et moyennant <Valeur>30 €</Valeur>.</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R32955" URL="https://www.impots.gouv.fr/portail/node/9069" numerocerfa="11187*04" autrenumero="3236-SD" type="Formulaire">
+<Titre>Demande de copie de documents fonciers au service de la publicité foncière (pour la période à compter du 1er janvier 1956)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Permet de formuler une demande de copie :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de bordereaux d'inscriptions,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'états descriptifs de division, de modificatifs ou d'un règlement de copropriété. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Uniquement pour la période postérieure au 31 décembre 1955.</Paragraphe>
+<Paragraphe>À  adresser en 2 exemplaires au service de la publicité foncière (ex-conservation des hypothèques) du lieu de situation de l'immeuble.</Paragraphe>
+<Paragraphe>Formalité payante.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R16857" type="Local personnalisé sur SP">
+<Titre>Service de publicité foncière (ex-Conservation des hypothèques)</Titre>
+<PivotLocal>hypotheque</PivotLocal>
+<RessourceWeb URL="http://www2.impots.gouv.fr/contacts/spf/index.htm" commentaireLien="Annuaire des services de publicité foncière"/>
+</OuSAdresser>
+
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F2589" audience="Particuliers">
+<Titre>Règlement de copropriété</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000023276582&amp;cidTexte=LEGITEXT000006069108" ID="R32947">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 3</Titre>
+<Complement>Communication du règlement de copropriété</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488221&amp;cidTexte=LEGITEXT000006061423" ID="R32956">
+<Titre>Décret n°67-223 du 17 mars 1967 : article 4</Titre>
+<Complement>Communication du règlement de copropriété</Complement>
+</Reference>
+<QuestionReponse ID="F17759" audience="Particuliers">Comment obtenir des renseignements immobiliers ?</QuestionReponse>
+</Publication>

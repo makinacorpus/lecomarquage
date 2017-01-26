@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16033" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Dossier pharmaceutique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Le dossier pharmaceutique est un dossier informatique, créé et consulté par votre pharmacien, avec votre accord. Il recense les médicaments qui vous ont été délivrés au cours des 4 derniers mois ainsi que les traitements et prises en cours. Les médicaments figurant sur le dossier peuvent avoir été prescrits par un médecin ou avoir été achetés librement. Le pharmacien peut ainsi contrôler d'éventuels risques de contre-indication et vous conseiller.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-15</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16033</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020890569&amp;cidTexte=LEGITEXT000006072665</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17179</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N17179">Information du patient : dossier médical, montant des prestations, ...</Niveau>
+<Niveau ID="F16033" type="Fiche d'information">Dossier pharmaceutique</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20325">Droits des patients</SousThemePere><DossierPere ID="N17179">
+<Titre>Information du patient : dossier médical, montant des prestations, ...</Titre><SousDossier ID="N17179-1">
+<Titre>Accès aux dossiers médicaux</Titre>
+<Fiche ID="F12210">Dossier médical</Fiche>
+<Fiche ID="F16033">Dossier pharmaceutique</Fiche>
+</SousDossier>
+<SousDossier ID="N17179-2">
+<Titre>Droit à l'information</Titre>
+<Fiche ID="F17180">Sur l'état de santé</Fiche>
+<Fiche ID="F19948">Sur le montant des prestations</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès aux dossiers médicaux</SousDossierPere><Avertissement ID="R44039" date="2016-06-06">
+<Titre>Refonte du dispositif du dossier pharmaceutique</Titre>
+<Texte>
+				<Paragraphe>La <LienExterne URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031912641&amp;dateTexte=&amp;categorieLien=id">loi de modernisation de notre système de santé</LienExterne>
+ modifie les règles relatives au dossier pharmaceutique. </Paragraphe>
+				<Paragraphe>Un décret doit préciser les conditions d'application de cette mesure.</Paragraphe>
+				<Paragraphe>Dans l'attente, les informations contenues dans cette page restent d'actualité.</Paragraphe>
+			</Texte>
+</Avertissement>
+
+<Introduction>
+<Texte><Paragraphe>Le dossier pharmaceutique est un dossier informatique, créé et consulté par votre pharmacien, avec votre accord.
+		
+			Il recense les médicaments qui vous ont été délivrés au cours des 4 derniers mois ainsi que  les traitements et prises en cours. Les médicaments figurant sur le dossier peuvent avoir été prescrits par un médecin ou avoir été achetés librement.
+		
+			Le pharmacien peut ainsi contrôler d'éventuels risques de contre-indication et vous conseiller.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Qui peut créer votre dossier pharmaceutique ?</Paragraphe>
+</Titre><Paragraphe>La création d'un dossier pharmaceutique s'effectue en pharmacie. Cette création  ne peut se faire qu'avec votre <MiseEnEvidence>accord exprès</MiseEnEvidence> ou celui de votre représentant légal.</Paragraphe>
+<Paragraphe>Il vous suffit donc de vous rendre dans n'importe quelle pharmacie de ville et de le demander au pharmacien en lui présentant votre carte Vitale. Si vous avez des enfants mineurs, vous pouvez faire ouvrir un dossier pharmaceutique pour chacun d'eux. La démarche est gratuite.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quel est le contenu du dossier ?</Paragraphe>
+</Titre><Paragraphe>Le dossier pharmaceutique contient des informations vous concernant et les médicaments qui vous sont prescrits.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Éléments sur l'identité du patient</Paragraphe>
+</Titre><Paragraphe>Le dossier pharmaceutique contient des éléments sur votre  identité :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>nom de famille ou nom d'usage, prénom usuel, date de naissance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sexe et, en cas de naissance multiple, rang de naissance.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Éléments sur les médicaments</Paragraphe>
+</Titre><Paragraphe>Il contient par ailleurs des informations sur les médicaments que vous prenez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>leur dénomination et leur quantité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la date à laquelle ils ont été délivrés.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment est-il consulté ?</Paragraphe>
+</Titre><Paragraphe>Toute consultation ou modification du dossier nécessite la carte Vitale ainsi que votre accord. Le refus de consultation du tout ou partie du dossier y est mentionné.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Par qui ?</Paragraphe>
+</Titre><Paragraphe>Le pharmacien consulte votre dossier pour vous conseiller  dans la prise de vos médicaments et pour vous mettre en garde sur d'éventuels contre-indications.</Paragraphe>
+<Paragraphe>Dans votre intérêt, le pharmacien peut ainsi substituer au médicament que vous lui demandez un autre produit pour éviter d'éventuelles interactions dangereuses entre plusieurs traitements. Il peut également refuser de vous dispenser un médicament.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>De quel contrôle disposez-vous ?</Paragraphe>
+</Titre><Paragraphe>La consultation de votre dossier pharmaceutique ne peut se faire qu'avec votre <MiseEnEvidence>accord exprès</MiseEnEvidence> ou celui de votre représentant légal.</Paragraphe>
+<Paragraphe>De même, vous pouvez demander sa clôture à tout moment par n'importe quel pharmacien. Les opérations de création et de clôture donnent lieu à la remise d'une attestation.</Paragraphe>
+<Paragraphe>Quand un dossier est clos, à la demande du bénéficiaire ou en absence de modification pendant un délai de 3 ans, toutes les informations sont détruites.</Paragraphe>
+<Paragraphe>Les données sont enregistrées dans un serveur informatique sécurisé. Aucune information n'est enregistrée ou conservée dans les officines.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R14639" type="Centre de contact">
+<Titre>Santé Info Droits</Titre><Texte>
+						
+								<Paragraphe>
+			Ligne téléphonique créée par un collectif d'associations pour fournir des informations juridiques ou sociales liées à la santé</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 004 333</MiseEnEvidence> coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel ou composez le <MiseEnEvidence>30 08</MiseEnEvidence> (appel gratuit)</Paragraphe>
+								<Paragraphe>
+			<MiseEnEvidence>+33 (0)1 53 62 40 30</MiseEnEvidence>
+		(prix d'un appel local)</Paragraphe>
+								<Paragraphe>Ouvert le lundi, mercredi et vendredi de 14h à 18h et le mardi et jeudi de 14h à 20h </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+      <LienExterne URL="http://www.leciss.org/sante-info-droits/formulaire-sante-info-droits">formulaire</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020890569&amp;cidTexte=LEGITEXT000006072665" ID="R18526">
+<Titre>Code de la santé publique : articles L1111-14 à L1111-24</Titre>
+<Complement>Article L1111-23 (dossier pharmaceutique)</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R2681" URL="http://www.sante.gouv.fr/IMG/pdf/Flyer_A5_bien_utiliser_les_medicaments_patient_2.pdf" audience="Particuliers" format="application/pdf" poids="689.7 KB">
+<Titre>Guide de l'utilisation des médicaments</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+</Publication>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F13218" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que comprend la prestation d'accueil du jeune enfant (Paje) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>La prestation d'accueil du jeune enfant (Paje) comprend plusieurs aides destinées aux parents d'un enfant venant de naître. Elles permettent de faire face aux dépenses ou de compenser une perte de revenus professionnels.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-01-30</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F13218</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N156</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N156">Allocations destinées aux familles</Niveau>
+<Niveau ID="F13218" type="Fiche Question-réponse">Que comprend la prestation d'accueil du jeune enfant (Paje) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N156">
+<Titre>Allocations destinées aux familles</Titre><SousDossier ID="N156-1">
+<Titre>Allocations versées à partir du 1er enfant</Titre>
+<Fiche ID="F2550">Prime à la naissance</Fiche>
+<Fiche ID="F2552">Allocation de base (après la naissance)</Fiche>
+<Fiche ID="F13220">Prime à l'adoption</Fiche>
+<Fiche ID="F31430">Allocation de base (enfant adopté)</Fiche>
+</SousDossier>
+<SousDossier ID="N156-2">
+<Titre>Allocations versées à partir du 2e enfant</Titre>
+<Fiche ID="F13213">À partir de 2 enfants : allocations familiales</Fiche>
+<Fiche ID="F13214">À partir de 3 enfants : complément familial</Fiche>
+<Fiche ID="F2008">À partir de 3 enfants : prime de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N156-3">
+<Titre>Enfant gardé par un tiers</Titre>
+<Fiche ID="F345">Complément de libre choix du mode de garde (Cmg) - Assistante maternelle</Fiche>
+<Fiche ID="F31101">Complément de libre choix du mode de garde (Cmg) - Garde à domicile</Fiche>
+<Fiche ID="F33648">Complément de libre choix du mode de garde (Cmg) - Micro-crèche</Fiche>
+</SousDossier>
+<SousDossier ID="N156-4">
+<Titre>Enfant gardé par un parent</Titre>
+<Fiche ID="F32485">Enfant né depuis 2015 : prestation partagée d'éducation de l'enfant (PreParE)</Fiche>
+<Fiche ID="F313">Enfant né avant 2015 : complément de libre choix d'activité (CLCA)</Fiche>
+<Fiche ID="F15132">Allocation journalière de présence parentale (AJPP)</Fiche>
+</SousDossier>
+<SousDossier ID="N156-5">
+<Titre>Allocation de soutien familial (ASF)</Titre>
+<Fiche ID="F815">Parents séparés</Fiche>
+<Fiche ID="F33645">Enfant non reconnu</Fiche>
+<Fiche ID="F33646">Enfant orphelin</Fiche>
+<Fiche ID="F33647">Enfant recueilli</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La prestation d'accueil du jeune enfant (Paje) comprend plusieurs aides destinées aux parents d'un enfant venant de naître. Elles permettent de faire face aux dépenses ou de compenser une perte de revenus professionnels.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>La prestation d'accueil du jeune enfant (Paje) comprend plusieurs prestations :</Paragraphe>
+<Tableau>
+<Titre>Aides financières proposées par la PAJE</Titre>
+<Colonne largeur="48" type="normal"/>
+<Colonne largeur="48" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Nom de la prestation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>But</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F2550" type="Fiche d'information" audience="Particuliers">Prime à la naissance</LienInterne> ou <LienInterne LienPublication="F13220" type="Fiche d'information" audience="Particuliers">à l'adoption</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Faire face aux premières dépenses liées à la naissance ou à l'adoption d'un enfant et à son entretien</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Allocation de base
+		en cas de <LienInterne LienPublication="F2552" type="Fiche d'information" audience="Particuliers">naissance</LienInterne> ou en cas <LienInterne LienPublication="F31430" type="Fiche d'information" audience="Particuliers">d'adoption</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Faire face aux dépenses liées à la naissance ou à l'adoption d'un enfant, à son entretien et à son éducation</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F313" type="Fiche d'information" audience="Particuliers">Complément de libre choix d'activité (CLCA)</LienInterne> (si l'enfant est né avant 2015)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Permettre à l'un des parents de réduire ou de cesser son activité professionnelle pour s'occuper de son enfant</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F32485" type="Fiche d'information" audience="Particuliers">Prestation partagée d'éducation de l'enfant (PréParE)</LienInterne> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Permettre à l'<MiseEnEvidence>un</MiseEnEvidence> <MiseEnEvidence>ou aux deux</MiseEnEvidence> parents de réduire ou de cesser leur activité professionnelle pour s'occuper de leur enfant</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Complément de libre choix du mode de garde : en cas d'<LienInterne LienPublication="F345" type="Fiche d'information" audience="Particuliers">emploi d'une assistante maternelle</LienInterne> ou d'une <LienInterne LienPublication="F31101" type="Fiche d'information" audience="Particuliers">garde à domicile</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Permettre aux parents qui continuent à travailler de compenser le coût de la garde d'un enfant</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Texte><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<Complement>Pour obtenir plus d'informations</Complement>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<Complement>Pour obtenir plus d'informations (si vous relevez du régime agricole)</Complement>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R1165" URL="https://wwwd.caf.fr" type="Téléservice">
+<Titre>Caisse d'allocations familiales (Caf) en ligne</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18438" URL="http://www.msa.fr/lfr/services-en-ligne/particuliers" type="Téléservice">
+<Titre>MSA Particuliers en ligne</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+</Publication>

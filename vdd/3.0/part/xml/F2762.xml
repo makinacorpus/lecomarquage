@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2762" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment fonctionne une vente ou un achat en viager ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>L'achat en viager consiste à vendre un logement à une personne le débirentier, en échange du versement mensuel d'une rente pendant toute la durée de vie du vendeur le crédirentier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-23</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2762</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150325&amp;cidTexte=LEGITEXT000006070721, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150326&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23245</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="F2762" type="Fiche Question-réponse">Comment fonctionne une vente ou un achat en viager ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N23245">
+<Titre>Achat ou vente d'un logement</Titre><SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre>
+<Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre>
+<Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'achat en viager consiste à vendre un logement à une personne <Expression>le débirentier</Expression>, en échange du versement mensuel d'une rente pendant toute la durée de vie du vendeur <Expression>le crédirentier</Expression>.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>La vente en viager consiste :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pour l'acquéreur à acheter un logement sans avoir à verser la totalité du prix de vente le jour de l'acquisition, mais qu'il ne pourra occuper qu'au décès du vendeur, sauf si ce dernier le libère tout de suite,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et pour le vendeur à percevoir une rente mensuelle jusqu'à son décès en contrepartie de la vente de son logement. </Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><Paragraphe>Toute personne ayant la <LienIntra LienID="R355" type="Définition de glossaire">capacité juridique</LienIntra> peut vendre ou acheter un logement en viager.</Paragraphe>
+<Paragraphe>Pour que la vente en viager soit valable, le décès futur du crédirentier doit être imprévisible. Ainsi, le débirentier ne doit pas avoir eu connaissance d'une maladie dont était atteint le crédirentier au moment de la signature de l'acte de vente. </Paragraphe>
+<Paragraphe>Si le vendeur décède dans les 20 jours qui suivent la signature de l'acte de vente, la loi considère alors que l'événement était prévisible et que la vente n'est pas valable. L’annulation de la vente peut être alors invoquée par les héritiers du crédirentier devant le tribunal de grande instance (TGI).</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Prix de vente et de la rente</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Prix de vente</Paragraphe>
+</Titre><Paragraphe>Le prix de vente est fixé entre les parties sans toutefois pouvoir dépasser la différence entre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la <LienIntra LienID="R32461" type="Définition de glossaire">valeur vénale</LienIntra>, c'est-à-dire l'estimation financière du logement dans une région donnée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et la valeur du logement occupé déterminée par des barèmes en fonction notamment de l'espérance de vie du crédirentier.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ces barèmes peuvent être consultés auprès d'un notaire ou d'une compagnie d'assurance.</Paragraphe><OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Prix de rente</Paragraphe>
+</Titre><Paragraphe>Au moment de la signature de l'acte de vente, le débirentier peut régler au comptant une partie de la vente appelée <Expression>le bouquet</Expression>. Cette somme est alors déduite du montant de la rente. Ainsi, plus le bouquet est important, moins le montant de la rente est élevé.</Paragraphe>
+<Paragraphe>Pour assurer la sécurité du paiement des rentes, le crédirentier peut notamment inscrire dans l'acte de vente :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une <LienIntra LienID="R1061" type="Définition de glossaire">clause résolutoire</LienIntra> qui l'autorise à reprendre son bien si plusieurs rentes ne sont plus versées par le débirentier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et une clause lui permettant de se réserver le droit de conserver le bouquet (s'il a été versé), en cas de résiliation du contrat de vente.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les parties peuvent également insérer dans l'acte de vente une <LienIntra LienID="R2289" type="Définition de glossaire">clause d'indexation</LienIntra> permettant la révision automatique du montant de la rente suivant, par exemple, un indice publié par l'institut national de la statistique et des études économiques (Insee).</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conséquences sur le bien</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Occupation du logement</Paragraphe>
+</Titre><Paragraphe>Le débirentier ne peut occuper le logement qu'au jour du décès du crédirentier.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Entretiens et réparations</Paragraphe>
+</Titre><Paragraphe>Les réparations et entretiens courants du logement restent à la charge du crédirentier sauf s'il libère totalement le bien vendu.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Impôt locaux/factures</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Crédirentier</Paragraphe>
+</Titre><Paragraphe>Le paiement de la <LienInterne LienPublication="F42" type="Fiche d'information" audience="Particuliers">taxe d'habitation</LienInterne> et des <LienInterne LienPublication="N23557" type="Dossier" audience="Particuliers">factures d'énergie</LienInterne> restent à la charge du crédirentier sauf s'il libère totalement le bien vendu.</Paragraphe>
+<Paragraphe>Les rentes viagères sont soumises à <LienInterne LienPublication="F3173" type="Fiche Question-réponse" audience="Particuliers">l'impôt sur le revenu</LienInterne> pour une fraction de leur montant, décroissante avec l'âge du crédirentier.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Débirentier</Paragraphe>
+</Titre><Paragraphe>La taxe foncière est à la charge du débirentier, à moins que les parties en aient décidé autrement.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150325&amp;cidTexte=LEGITEXT000006070721" ID="R41025">
+<Titre>Code civil : articles 1968 à 1976</Titre>
+<Complement>Conditions requises</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150326&amp;cidTexte=LEGITEXT000006070721" ID="R43168">
+<Titre>Code civil : articles 1977 à 1983</Titre>
+<Complement>Fixation de la rente</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41396" URL="http://www.insee.fr/fr/" audience="Particuliers">
+<Titre>Site de l'Insee</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R1061">
+<Titre>Clause résolutoire</Titre>
+<Texte>
+				<Paragraphe>Clause prévoyant la résiliation automatique du contrat en cas de manquement à une obligation contractuelle par l'une des parties (exemple : non-paiement du loyer)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R2289">
+<Titre>Clause d'indexation</Titre>
+<Texte>
+				<Paragraphe>Disposition d’un contrat ou d’un jugement destinée à compenser la dépréciation monétaire (ou à tenir compte de l’inflation) entre le jour où la créance est évaluée et le jour du paiement.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R32461">
+<Titre>Valeur vénale</Titre>
+<Texte>
+				<Paragraphe>Montant estimé du prix qui pourrait être obtenu pour un bien,  en cas de vente dans les conditions normales de marché. Permet d'enregistrer comptablement  des biens entrant dans un patrimoine (succession, donation, transmission d'entreprise, etc.).</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R355">
+<Titre>Capacité juridique</Titre>
+<Texte>
+				<Paragraphe>Aptitude d'une personne à avoir des droits et des obligations et à les exercer elle-même (par exemple, droit de conclure un contrat, droit d'agir en justice...)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136230&amp;cidTexte=LEGITEXT000006070721" ID="R10446">
+<Titre>Code civil : article 414</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F3173" audience="Particuliers">Comment sont imposées les rentes viagères à titre onéreux ?</QuestionReponse>
+<CommentFaireSi ID="F15913">J'achète un logement</CommentFaireSi>
+</Publication>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1820" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mineur délinquant : enquête par le juge des enfants ou le juge d'instruction</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Lorsqu'un mineur est poursuivi pour une infraction, une enquête peut être menée par un juge pour enfants ou un juge d'instruction.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-23</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1820</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000025585639&amp;cidTexte=LEGITEXT000006069158</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23248</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N23248">Mineur auteur d'infraction</Niveau>
+<Niveau ID="F1820" type="Fiche d'information">Mineur délinquant : enquête par le juge des enfants ou le juge d'instruction</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20279">Justice des mineurs</SousThemePere><DossierPere ID="N23248">
+<Titre>Mineur auteur d'infraction</Titre><SousDossier ID="N23248-1">
+<Titre>Mise en accusation</Titre>
+<Fiche ID="F1469">Garde à vue</Fiche>
+<Fiche ID="F1820">Instruction d'une affaire</Fiche>
+<Fiche ID="F1826">Mesures de restriction de liberté</Fiche>
+</SousDossier>
+<SousDossier ID="N23248-2">
+<Titre>Jugement et condamnation</Titre>
+<Fiche ID="F1840">Procédure devant le juge des enfants</Fiche>
+<Fiche ID="F1830">Procédure devant le tribunal pour enfants</Fiche>
+<Fiche ID="F1486">Procédure devant la Cour d'assises des mineurs</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Mise en accusation</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Lorsqu'un mineur est poursuivi pour une infraction, une enquête peut être menée par un juge pour enfants ou un juge d'instruction. Les mineurs de plus de 13 ans peuvent aller en détention provisoire.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Juge compétent</Paragraphe>
+</Titre><Paragraphe>Un juge peut mener une enquête dans une affaire mettant en cause un mineur, et ce quel que soit l'âge du mineur.</Paragraphe>
+<Paragraphe>Le juge compétent dépend de la gravité de l'infraction. Il s'agit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du juge des enfants est compétent pour une <LienInterne LienPublication="F1157" type="Fiche Question-réponse" audience="Particuliers">contravention de 5ème classe</LienInterne> ou un délit d'une moindre gravité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du juge d'instruction des mineurs, qui est compétent pour un  délit grave ou un crime.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>C'est le procureur qui désigne le magistrat compétent.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déroulement de l'instruction</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Enquête</Paragraphe>
+</Titre><Paragraphe>Le juge informe les parents ou le tuteur du mineur des poursuites dont il fait l'objet. Le mineur poursuivi est alors mis en examen.</Paragraphe>
+<Paragraphe>Le juge s'assure que le mineur est assisté d'un <LienInterne LienPublication="F2153" type="Fiche d'information" audience="Particuliers">avocat</LienInterne>. Si ce n'est pas le cas, il en fait désigner un d'office.</Paragraphe>
+<Paragraphe>Le juge mène une enquête sur les faits comme dans n'importe quelle affaire judiciaire : perquisitions, expertises, auditions de témoins... </Paragraphe>
+<Paragraphe>Le juge peut également faire procéder à une enquête sur la personnalité du mineur. Une enquête sociale et familiale et un examen médico-psychologique peuvent notamment être réalisés.</Paragraphe>
+<Paragraphe>Cette enquête de personnalité sera inscrite dans un <Expression>dossier unique de personnalité</Expression> à la disposition du juge. Elles peuvent être complétées par d'enquêtes complémentaires réalisées à l'occasion d'autres affaires pénales mettant en cause le mineur. Ce dossier complète mais ne remplace pas le casier judiciaire, ce dernier ne comportant que les sanctions pénales.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mesures provisoires</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Mineur de plus de 13 ans</Paragraphe>
+</Titre><Paragraphe>Pendant l'instruction, le juge peut prendre à l'encontre du mineur</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des mesures éducatives : <LienIntra LienID="R1055" type="Définition de glossaire">liberté surveillée</LienIntra>, mesure de réparation pénale, placement dans un centre éducatif...,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des mesures de <LienInterne LienPublication="F1826" type="Fiche d'information" audience="Particuliers">privation de liberté</LienInterne> : contrôle judiciaire, placement en centre éducatif fermé, assignation à résidence ou détention provisoire.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mineur de moins de 13 ans</Paragraphe>
+</Titre><Paragraphe>Pendant l'instruction, le juge peut uniquement prendre des mesures éducatives à l'encontre du mineur : <LienIntra LienID="R1055" type="Définition de glossaire">liberté surveillée</LienIntra>, mesure de réparation pénale, placement dans un centre éducatif...</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fin de l'instruction</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Le juge estime que le mineur ne doit pas être poursuivi</Paragraphe>
+</Titre><Paragraphe>Le juge rend une ordonnance de non-lieu. L'affaire s'arrête là. </Paragraphe>
+<Paragraphe>Mais le mineur peut être placé en <LienIntra LienID="R1055" type="Définition de glossaire">liberté surveillée</LienIntra> jusqu'à ses 18 ans.</Paragraphe>
+<Paragraphe>De plus, l'enquête de personnalité menée sur lui restera dans son dossier unique de personnalité. Il pourra être consulté par un autre juge si une autre enquête est ouverte.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Le juge estime que le mineur doit être jugé</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Le mineur a moins de 16 ans</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Il s'agit d'une contravention légère</Paragraphe>
+</Titre><Paragraphe>S'il s'agit d'une <LienInterne LienPublication="F1157" type="Fiche Question-réponse" audience="Particuliers">contravention de la 1ère à la 4ème classe</LienInterne>, le juge renvoie mineur devant le <LienInterne LienPublication="F1457" type="Fiche d'information" audience="Particuliers">tribunal de police</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Il s'agit d'une contravention lourde ou d'un délit peu grave</Paragraphe>
+</Titre><Paragraphe>L'affaire est jugée par  <LienInterne LienPublication="F1840" type="Fiche d'information" audience="Particuliers">le juge des enfants</LienInterne>. </Paragraphe>
+<Paragraphe>Dans ce cas, si c'est le juge des enfants qui est charge de l'enquête, il prend lui-même la décision sur la condamnation. Si c'est le juge d'instruction qui est chargé de l'enquête, il renvoie le dossier vers le juge des enfants.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Il s'agit d'un délit grave ou d'un crime</Paragraphe>
+</Titre><Paragraphe>Il est renvoyé vers le <LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">tribunal pour enfants</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Le mineur a plus de 16 ans</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Il s'agit d'une contravention légère</Paragraphe>
+</Titre><Paragraphe>S'il s'agit d'une <LienInterne LienPublication="F1157" type="Fiche Question-réponse" audience="Particuliers">contravention de la 1ère à la 4ème classe</LienInterne>, le juge renvoie mineur devant le <LienInterne LienPublication="F1457" type="Fiche d'information" audience="Particuliers">tribunal de police</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Il s'agit d'une contravention lourde ou d'un délit peu grave</Paragraphe>
+</Titre><Paragraphe>L'affaire est jugée par  <LienInterne LienPublication="F1840" type="Fiche d'information" audience="Particuliers">le juge des enfants</LienInterne> uniquement si la peine encourue est inférieure à 7 ans de prison (3 ans si le mineur est récidiviste).</Paragraphe>
+<Paragraphe>Dans ce cas, si c'est le juge des enfants qui est charge de l'enquête, il prend lui-même la décision sur la condamnation. Si c'est le juge d'instruction qui est chargé de l'enquête, il renvoie le dossier vers le juge des enfants.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Il s'agit d'un délit grave</Paragraphe>
+</Titre><Paragraphe>Il est renvoyé vers le <LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">tribunal pour enfants</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Il s'agit d'un crime</Paragraphe>
+</Titre><Paragraphe>Il est renvoyé vers la <LienInterne LienPublication="F1486" type="Fiche d'information" audience="Particuliers">cour d'assises des mineurs</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1830" audience="Particuliers">
+<Titre>Mineur délinquant : procédure devant le tribunal pour enfants</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1486" audience="Particuliers">
+<Titre>Procédure devant la cour d'assises des mineurs</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<VoirAussi important="oui">
+<Fiche ID="F1840" audience="Particuliers">
+<Titre>Mineur délinquant : jugement par le juge des enfants</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour obtenir des conseils</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000025585639&amp;cidTexte=LEGITEXT000006069158" ID="R36066">
+<Titre>Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante : articles 8 à 10</Titre>
+<Complement>Procédure</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R10199" URL="http://www.justice.gouv.fr/art_pix/chainepen.pdf" audience="Particuliers" format="application/pdf" poids="17.7 KB">
+<Titre>Juridictions pour les mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41472" URL="http://www.ado.justice.gouv.fr/index.php" audience="Particuliers">
+<Titre>La justice des mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<Definition ID="R1055">
+<Titre>Liberté surveillée</Titre>
+<Texte>
+				<Paragraphe>Mesure éducative prise à l'encontre d'un mineur  ayant pour effet de le placer sous la surveillance et le contrôle d'un éducateur, sous l'autorité du juge des enfants</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1837" audience="Particuliers">Quelles mesures et sanctions pénales sont appliquées aux mineurs ?</QuestionReponse>
+</Publication>

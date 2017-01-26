@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N173" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Héritage : ordre et droits des héritiers</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Héritage : ordre et droits des héritiers</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-23</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N173</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Senior</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N173" type="Dossier">Héritage : ordre et droits des héritiers</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20090">Succession</SousThemePere>
+<Fiche ID="F1270">Défunt ayant eu des enfants</Fiche>
+<Fiche ID="F1632">Défunt sans enfant</Fiche><VoirAussi important="non">
+<Dossier ID="N31160" audience="Particuliers">
+<Titre>Droits de succession et de donation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N171" audience="Particuliers">
+<Titre>Règlement d'une succession</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<QuestionReponse ID="F2529" audience="Particuliers">Quelles sont les règles pour hériter ?</QuestionReponse>
+<QuestionReponse ID="F2128" audience="Particuliers">Quels sont les droits des descendants d'un héritier décédé ?</QuestionReponse>
+<QuestionReponse ID="F2527" audience="Particuliers">Peut-on être exclu d'une succession pour indignité ?</QuestionReponse>
+<QuestionReponse ID="F1725" audience="Particuliers">Quels sont les droits de l'époux survivant sur son logement ?</QuestionReponse>
+<QuestionReponse ID="F2132" audience="Particuliers">L'époux survivant peut-il demander la transformation de l'usufruit en rente ?</QuestionReponse>
+<QuestionReponse ID="F322" audience="Particuliers">L'époux survivant peut-il réclamer une pension alimentaire aux héritiers ?</QuestionReponse>
+<QuestionReponse ID="F16276" audience="Particuliers">Qu'est-ce que le droit de retour des parents en cas de décès de leur enfant ?</QuestionReponse>
+
+</Publication>

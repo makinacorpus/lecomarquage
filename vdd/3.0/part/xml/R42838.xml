@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42838" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'acte de décès (survenu en France) - Service gratuit</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille, Papiers - Citoyenneté</dc:subject>
+<dc:description>Demande d'acte de décès (survenu en France) - Service gratuit - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-22</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42838</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N165">Obsèques et modes de sépulture</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42838" type="Téléservice">Demande d'acte de décès (survenu en France) - Service gratuit</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Attention>
+<Titre>Attention</Titre><Paragraphe>certaines communes ne proposent pas ce téléservice.</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=etatCivil">
+<Source>Direction de l'information légale et administrative (Premier ministre)</Source>
+</LienWeb>
+<FicheLiee ID="F1444" audience="Particuliers" type="Fiche d'information">
+<Titre>Acte de décès</Titre>
+<Dossier ID="N359">État civil</Dossier>
+</FicheLiee>
+<Dossier ID="N165">
+<Titre>Obsèques et modes de sépulture</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

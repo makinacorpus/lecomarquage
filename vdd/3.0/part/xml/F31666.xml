@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31666" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assuré polypensionné : comment calculer le montant de la retraite versée ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>La pension de retraite d'un polypensionné est calculée en additionnant les pensions versées par toutes les caisses de retraite auxquelles il a cotisé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-06</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31666</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N381</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N381">Retraite des salariés du secteur privé</Niveau>
+<Niveau ID="F31666" type="Fiche Question-réponse">Assuré polypensionné : comment calculer le montant de la retraite versée ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20166">Retraite</SousThemePere><DossierPere ID="N381">
+<Titre>Retraite des salariés du secteur privé</Titre><SousDossier ID="N381-1">
+<Titre>Avant la retraite</Titre>
+<Fiche ID="F24617">Droit à l'information sur la retraite</Fiche>
+<Fiche ID="F15675">Rachat de trimestres</Fiche>
+</SousDossier>
+<SousDossier ID="N381-2">
+<Titre>Âge de départ à la retraite</Titre>
+<Fiche ID="F14043">Âge minimum de départ à la retraite</Fiche>
+<Fiche ID="F12842">Retraite progressive</Fiche>
+</SousDossier>
+<SousDossier ID="N381-3">
+<Titre>Départ à la retraite anticipé</Titre>
+<Fiche ID="F13845">Carrière longue</Fiche>
+<Fiche ID="F14101">Pénibilité du travail</Fiche>
+<Fiche ID="F16337">Handicap</Fiche>
+<Fiche ID="F2110">Préretraite amiante</Fiche>
+</SousDossier>
+<SousDossier ID="N381-4">
+<Titre>Trimestres de retraite</Titre>
+<Fiche ID="F1761">Durée d'assurance</Fiche>
+<Fiche ID="F16336">Majoration pour enfant</Fiche>
+<Fiche ID="F32126">Majoration pour congé parental d'éducation</Fiche>
+<Fiche ID="F32127">Majoration pour enfant handicapé</Fiche>
+<Fiche ID="F19666">Décote</Fiche>
+<Fiche ID="F2574">Assurance vieillesse des parents au foyer (AVPF)</Fiche>
+</SousDossier>
+<SousDossier ID="N381-5">
+<Titre>Pension de retraite</Titre>
+<Fiche ID="F21552">Calcul de la pension</Fiche>
+<Fiche ID="F14044">Retraite à taux plein</Fiche>
+<Fiche ID="F19643">Majoration de la pension</Fiche>
+<Fiche ID="F15522">Montants minimum et maximum de la pension</Fiche>
+<Fiche ID="F13243">Cumul emploi-retraite</Fiche>
+<Fiche ID="F15396">Retraite complémentaire</Fiche>
+<Fiche ID="F16344">Versement de la pension</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Vous êtes polypensionné(e) si vous avez cotisé à plusieurs régimes de retraite  (par exemple, en tant que salarié et fonctionnaire).</Paragraphe>
+<Paragraphe>Toutes les caisses de retraite (régime de base et complémentaire) auprès desquelles vous avez cotisé versent une pension dont le montant varie en fonction des formules de calcul fixées par chacune d'elles.</Paragraphe>
+<Paragraphe>Le montant total de votre retraite est déterminé en additionnant le montant de ces pensions accordées.</Paragraphe>
+<Paragraphe>Vous pouvez effectuer une simulation du montant de votre pension, si vous avez exercé en tant que salarié, travailleur indépendant ou fonctionnaire, en utilisant le simulateur du GIP Info retraite.</Paragraphe><ServiceEnLigne ID="R3038" URL="http://www.marel.fr/" type="Simulateur">
+<Titre>Estimation du montant de la pension de retraite (salarié, fonctionnaire, travailleur indépendant)</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+
+
+</Texte><ServiceEnLigne ID="R3038" URL="http://www.marel.fr/" type="Simulateur">
+<Titre>Estimation du montant de la pension de retraite (salarié, fonctionnaire, travailleur indépendant)</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+</Publication>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N186" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Formation professionnelle dans la fonction publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Formation professionnelle dans la fonction publique : Fonction publique d'État (FPE), Fonction publique territoriale (FPT), Fonction publique hospitalière (FPH)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-12</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N186</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000504704</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Agent de la fonction publique</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N186" type="Dossier">Formation professionnelle dans la fonction publique</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20176">Formation</SousThemePere>
+<SousDossier ID="N186-1">
+<Titre>Fonction publique d'État (FPE)</Titre><Fiche ID="F20094">Entretien de formation</Fiche>
+<Fiche ID="F3019">Formation initiale et formation continue</Fiche>
+<Fiche ID="F3021">Préparation aux examens et concours</Fiche>
+<Fiche ID="F3026">Congé de formation professionnelle</Fiche>
+<Fiche ID="F2749">Période de professionnalisation</Fiche>
+<Fiche ID="F18090">Droit individuel à la formation (Dif)</Fiche>
+<Fiche ID="F3027">Bilan de compétences</Fiche>
+</SousDossier>
+<SousDossier ID="N186-2">
+<Titre>Fonction publique territoriale (FPT)</Titre><Fiche ID="F32165">Livret individuel de formation</Fiche>
+<Fiche ID="F18460">Formation initiale et formation continue</Fiche>
+<Fiche ID="F18464">Préparation aux examens et concours</Fiche>
+<Fiche ID="F3040">Droit individuel à la formation (Dif)</Fiche>
+<Fiche ID="F3042">Congé de formation professionnelle</Fiche>
+<Fiche ID="F2282">Bilan de compétences</Fiche>
+</SousDossier>
+<SousDossier ID="N186-3">
+<Titre>Fonction publique hospitalière (FPH)</Titre><Fiche ID="F3044">Entretien et passeport de formation</Fiche>
+<Fiche ID="F3033">Formation initiale et formation continue</Fiche>
+<Fiche ID="F3046">Préparation aux examens et concours</Fiche>
+<Fiche ID="F3063">Période de professionnalisation</Fiche>
+<Fiche ID="F3080">Droit individuel à la formation (Dif)</Fiche>
+<Fiche ID="F3054">Congé de formation professionnelle</Fiche>
+<Fiche ID="F33300">Bilan de compétences</Fiche>
+</SousDossier><VoirAussi important="non">
+<Fiche ID="F2401" audience="Particuliers">
+<Titre>Validation des acquis de l'expérience (VAE) </Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000504704" ID="R13601">
+<Titre>Loi n°83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires</Titre>
+<Complement>Article 22</Complement>
+</Reference>
+<QuestionReponse ID="F20275" audience="Particuliers">Qu'est-ce qu'une disponibilité pour études ou recherches ?</QuestionReponse>
+<QuestionReponse ID="F31038" audience="Particuliers">Un agent public qui change de situation conserve-t-il ses droits au Dif ?</QuestionReponse>
+</Publication>

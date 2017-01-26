@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23629" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels revenus doivent déclarer les professionnels soumis à l'impôt sur le revenu ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Les professionnels qui sont imposés en tant que personnes physiques (entrepreneur individuel, commerçant ou artisan indépendant, auto-entrepreneur, etc.) sont soumis à l'impôt sur le revenu.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23629</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23456</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N23456">Impôt sur le revenu pour les professionnels</Niveau>
+<Niveau ID="F23629" type="Fiche Question-réponse">Quels revenus doivent déclarer les professionnels soumis à l'impôt sur le revenu ?</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N23456">
+<Titre>Impôt sur le revenu pour les professionnels</Titre>
+<Fiche ID="F32919">Bénéfices industriels et commerciaux (BIC) : régimes fiscaux et déclarations</Fiche>
+<Fiche ID="F32105">Bénéfices non commerciaux (BNC) : régimes fiscaux et déclarations</Fiche>
+<Fiche ID="F32155">Bénéfices non commerciaux (BNC) : détermination du résultat imposable</Fiche>
+<Fiche ID="F23267">Imposition du micro-entrepreneur (régime micro-fiscal et micro-social)</Fiche>
+<Fiche ID="F32805">Régime fiscal du loueur en meublé professionnel (LMP)</Fiche>
+<Fiche ID="F24315">Bénéfices agricoles</Fiche>
+<Fiche ID="F33814">Déduction des frais de déplacement du résultat fiscal d'une entreprise</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les professionnels qui sont imposés en tant que personnes physiques (entrepreneur individuel, commerçant ou artisan indépendant, auto-entrepreneur, etc.) sont soumis à l'impôt sur le revenu.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Les revenus imposables à déclarer par les professionnels sont :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les traitements et salaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les pensions, retraites et rentes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les rémunérations de certains dirigeants de sociétés (gérants majoritaires de SARL notamment),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les revenus des placements financiers,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les plus-values et gains divers (ventes de valeurs mobilières…),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les bénéfices industriels et commerciaux (BIC),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les bénéfices non commerciaux des professions libérales et assimilées (BNC),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les bénéfices agricoles,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les revenus fonciers.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><ServiceEnLigne ID="R36751" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_279.pdf" format="application/pdf" poids="148.4 KB" numerocerfa="11222*19" autrenumero="2042-C-PRO" type="Formulaire">
+<Titre>Déclaration 2016 complémentaire des revenus des professions non salariées</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+</Publication>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2023" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance logement du propriétaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>L'assurance habitation n'est pas obligatoire pour les propriétaires, sauf si le logement est situé dans une copropriété. Le propriétaire d'un bien, s'il le loue, doit le louer en bon état. Il devra pendant toute la durée du bail effectuer les réparations indispensables à le maintenir en bon état (à l'exception des réparations locatives à la charge du locataire). Sa responsabilité peut donc être engagée si un sinistre est dû à un défaut d'entretien ou à un vice de construction.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-10</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2023</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068256, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N44</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N44">Assurance habitation</Niveau>
+<Niveau ID="F2023" type="Fiche d'information">Assurance logement du propriétaire</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20263">Assurance</SousThemePere><DossierPere ID="N44">
+<Titre>Assurance habitation</Titre><SousDossier ID="N44-1">
+<Titre>Vie du contrat</Titre>
+<Fiche ID="F2591">Souscription d'un contrat</Fiche>
+<Fiche ID="F2598">Tarifs, cotisations et durée du contrat</Fiche>
+<Fiche ID="F2594">Modification du contrat</Fiche>
+<Fiche ID="F19083">Résiliation du contrat</Fiche>
+<Fiche ID="F3050">Recours et litiges</Fiche>
+</SousDossier>
+<SousDossier ID="N44-2">
+<Titre>Assurance du locataire</Titre>
+<Fiche ID="F1349">Assurance de base</Fiche>
+<Fiche ID="F1350">Assurances complémentaires</Fiche>
+<Fiche ID="F21478">Assurance et colocation</Fiche>
+<Fiche ID="F10827">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-3">
+<Titre>Assurance du propriétaire</Titre>
+<Fiche ID="F2023">Assurance du logement</Fiche>
+<Fiche ID="F2027">Assurance et copropriété</Fiche>
+<Fiche ID="F10830">En cas de vente ou d'achat du logement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-4">
+<Titre>Sinistre</Titre>
+<Fiche ID="F2029">Sinistre courant</Fiche>
+<Fiche ID="F2028">Cambriolage</Fiche>
+<Fiche ID="F1352">Assurance et dégât des eaux</Fiche>
+<Fiche ID="F21532">Incendie ou explosion</Fiche>
+<Fiche ID="F3076">Catastrophes naturelles</Fiche>
+<Fiche ID="F3078">Catastrophes technologiques</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Assurance du propriétaire</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>L'assurance habitation n'est pas obligatoire pour les propriétaires, sauf si le logement est situé dans une copropriété.
+		
+			Le propriétaire d'un bien, s'il le loue, doit le louer en bon état. Il devra pendant toute la durée du bail effectuer les réparations indispensables à le maintenir en bon état (à l'exception des réparations locatives à la charge du locataire).
+		
+			Sa responsabilité peut donc être engagée si un sinistre est dû à un défaut d'entretien ou à un vice de construction.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Propriétaire occupant son logement</Titre>
+<Texte>
+<Chapitre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Propriétaire non assuré</Paragraphe>
+</Titre><Paragraphe>Le propriétaire qui occupe son logement n'est pas obligé d'assurer son bien, mais devra alors prendre en charge l'indemnisation de tous les préjudices que lui et son bien pourrait causer.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si le logement fait partie d'une copropriété, il doit <MiseEnEvidence>obligatoirement</MiseEnEvidence> être assuré, au moins en ce qui concerne la partie responsabilité civile.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Propriétaire assuré avec une assurance multirisques habitation</Paragraphe>
+</Titre><Paragraphe>L'assurance multirisques habitation couvre les sinistres liés aux incendies, explosions, dégâts des eaux, vols, sur :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les biens immobiliers (maison individuelle, appartement) y compris les embellissements et aménagements intérieurs,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les biens mobiliers et les objets de valeur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Elle couvre, au titre de la responsabilité civile, la réparation des dommages corporels et matériels causés par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le propriétaire du bien, la personne avec qui il vit,  ses enfants, ceux dont il a la garde et les personnes qui sont à son service (apprentis, employés par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ses animaux et ceux dont il a la garde.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le contrat peut cependant préciser des exclusions de garantie, par exemple pour le chien dressé à l'attaque ou pour la pratique d'une activité professionnelle.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Propriétaire louant son logement</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Location du logement</Paragraphe>
+</Titre><Paragraphe>Le propriétaire qui loue son bien peut se contenter d'assurer sa <LienInterne LienPublication="F2123" type="Fiche Question-réponse" audience="Particuliers">responsabilité civile</LienInterne>.</Paragraphe>
+<Paragraphe>Il sera couvert en cas de préjudice consécutif à un vice de construction ou un défaut d'entretien, en choisissant la garantie :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Expression>recours des locataires</Expression>, si c'est un locataire qui a subi le préjudice,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Expression>recours des voisins et des tiers</Expression>, si c'est un de ses voisins ou une tierce personne qui en est victime.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>avant de s'engager auprès d'un assureur, le propriétaire d'un appartement doit vérifier que le contrat proposé ne fait pas double emploi avec celui souscrit par le <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic de copropriété </LienInterne> pour l'immeuble.</Paragraphe>
+</ANoter><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Logement vide</Paragraphe>
+</Titre><Paragraphe>Le locataire doit remettre au propriétaire à la remise des clefs et ensuite chaque année une attestation d'assurance. </Paragraphe>
+<Paragraphe>S'il ne lui remet pas, le propriétaire doit alors le mettre en demeure de le faire. </Paragraphe>
+<Paragraphe>Si un mois après cette mise en demeure, si le propriétaire ne dispose toujours pas de l'attestation, il doit souscrire une assurance pour le compte du locataire (en responsabilité civile). </Paragraphe>
+<Paragraphe>Le montant de la prime d'assurance sera payé par le locataire, en plus du loyer, au propriétaire mensuellement.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si le logement se situe dans une copropriété, le propriétaire doit obligatoirement s'assurer  en  <LienInterne LienPublication="F2123" type="Fiche Question-réponse" audience="Particuliers">responsabilité civile</LienInterne>.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Logement meublé</Paragraphe>
+</Titre><Paragraphe>Le propriétaire qui souhaite louer son bien meublé peut choisir de laisser au locataire la charge de l'assurance, avec l'accord de celui-ci.</Paragraphe>
+<Paragraphe>Cependant, il a également la possibilité d'assurer dans un seul contrat le logement, son contenu et ses responsabilités. Il s'agit alors de l'assurance <Citation>pour le compte de qui il appartiendra</Citation> , qui permet de couvrir le locataire. Cette solution est particulièrement adaptée aux locations de courte durée.</Paragraphe>
+<Paragraphe>Enfin, le propriétaire peut assurer la résidence à l'année. Il s'agit de <Citation>l'abandon de recours</Citation> , dans lequel il s'engage, avec son assureur, à ne pas faire de recours contre son locataire en cas d’incendie ou de dégâts des eaux. Ceci est mentionné dans le contrat de location. En revanche, la responsabilité du locataire vis-à-vis des voisins et des tiers n'est pas garantie. Cette solution d'assurance, comme la précédente, est souvent utilisée dans la <LienInterne LienPublication="F2721" type="Fiche Question-réponse" audience="Particuliers">location meublée de tourisme</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Assurances et loyers impayés</Paragraphe>
+</Titre><Paragraphe>Selon l'âge  et  son  <LienIntra LienID="R42871" type="Définition de glossaire">taux d'effort</LienIntra> du locataire, le propriétaire peut  souscrire la <LienInterne LienPublication="F33453" type="Fiche d'information" audience="Particuliers">garantie Visale</LienInterne>. Celle-ci lui permettra de se prémunir contre certains risques liés à la location (la défaillance du locataire par exemple).</Paragraphe>
+<Paragraphe>Pour les autres cas, les compagnies d'assurance proposent des contrats protégeant les propriétaires bailleurs contre le risque de loyers impayés.</Paragraphe>
+<Paragraphe>Cependant, ces contrats d'assurance ne s’appliquent pas aux locations saisonnières.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe> le propriétaire qui a souscrit la <LienInterne LienPublication="F17847" type="Fiche d'information" audience="Particuliers">garantie universelle des risques locatifs (GRL)</LienInterne> avant le 31 décembre 2015 peut renouveler son contrat en 2016 pour un an maximum.</Paragraphe>
+</ASavoir>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R19751" type="Centre de contact">
+<Titre>Assurance Banque Épargne Info Service</Titre>
+<Complement>Pour des informations complémentaires</Complement><Texte>
+						
+								<Paragraphe>
+			Informations sur les démarches et les relations contractuelles dans le domaine de l'assurance, de la banque et de l'épargne
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			ABE Info Service
+		</Paragraphe>
+								<Paragraphe>
+			61 rue Taitbout
+		</Paragraphe>
+								<Paragraphe>
+			75436 Paris Cedex 09
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Via le <LienExterne URL="http://www.abe-infoservice.fr/abe-info-service/nous-contacter.html">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R2699" type="Centre de contact">
+<Titre>Votre assureur</Titre>
+<Complement>Pour des informations sur les contrats d'assurance</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068256" ID="R15198">
+<Titre>Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis</Titre>
+<Complement>Article 9-1 sur l'obligation du copropriétaire de s'assurer</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108" ID="R32255">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 7</Titre>
+<Complement>Obligation du locataire de fournir une attestation d'assurance</Complement>
+</Reference>
+<Definition ID="R42871">
+<Titre>Taux d'effort</Titre>
+<Texte>
+				<Paragraphe>Rapport entre la dépense en logement d'une personne et son revenu. Cet indicateur permet de mesurer le poids de la dépense liée à l'occupation du logement sur le budget de cette personne.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F21509" audience="Particuliers">Échange de logement ou "home sitting" : comment l'assurer ?</QuestionReponse>
+<QuestionReponse ID="F2721" audience="Particuliers">Comment assurer un meublé de tourisme en location saisonnière ?</QuestionReponse>
+<QuestionReponse ID="F769" audience="Particuliers">Cambriolage : comment être indemnisé par l'assurance ?</QuestionReponse>
+<QuestionReponse ID="F17603" audience="Particuliers">Est-il obligatoire d'assurer son animal domestique ?</QuestionReponse>
+</Publication>

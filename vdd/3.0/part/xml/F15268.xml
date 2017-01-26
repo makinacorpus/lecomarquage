@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15268" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Contrat d'assurance vie : souscription</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>L'assurance vie est un contrat par lequel l'assureur s'engage, en contrepartie du paiement de primes, à verser une rente ou un capital à une ou plusieurs personnes déterminées. Le souscripteur a le choix entre un contrat en cas de vie, en cas de décès, ou un contrat vie et décès. Assureur et souscripteur doivent respecter des conditions, liées notamment à l'information sur le contrat et la désignation du bénéficiaire. Le souscripteur dispose d'un délai de renonciation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-13</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15268</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157199&amp;cidTexte=LEGITEXT000006073984, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157200&amp;cidTexte=LEGITEXT000006073984, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174038&amp;cidTexte=LEGITEXT000006073984, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006175333&amp;cidTexte=LEGITEXT000006073984, http://www.legifrance.com/affichCode.do?idSectionTA=LEGISCTA000006173954&amp;cidTexte=LEGITEXT000006073984, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150236&amp;cidTexte=LEGITEXT000006070721, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032008380&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150248&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N89</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N89">Assurance vie</Niveau>
+<Niveau ID="F15268" type="Fiche d'information">Contrat d'assurance vie : souscription</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20375">Épargne</SousThemePere><DossierPere ID="N89">
+<Titre>Assurance vie</Titre>
+<Fiche ID="F15268">Souscription</Fiche>
+<Fiche ID="F15274">Fonctionnement</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'assurance vie est un contrat par lequel l'assureur s'engage, en contrepartie du paiement de <LienIntra LienID="R41398" type="Définition de glossaire">primes</LienIntra>, à verser une rente ou un capital à une ou plusieurs personnes déterminées. Le souscripteur a le choix entre  un contrat en cas de vie, en cas de décès, ou un contrat  vie et décès. Assureur et souscripteur doivent respecter des conditions, liées notamment à l'information sur le contrat et la désignation du bénéficiaire. Le souscripteur dispose d'un délai de renonciation. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>L'assurance vie est un contrat par lequel l'assureur s'engage, en contrepartie du paiement de <LienIntra LienID="R41398" type="Définition de glossaire">primes</LienIntra>, à verser une rente ou un capital à une ou plusieurs personnes déterminées.</Paragraphe>
+<Paragraphe>Selon l’objectif recherché, vous avez le choix, en qualité de <LienIntra LienID="R43922" type="Définition de glossaire">souscripteur</LienIntra>, entre 3 catégories de contrats : en cas de vie, en cas de décès, ou un contrat mixte, vie et décès.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Contrat en cas de vie</Paragraphe>
+</Titre><Paragraphe>L'assureur s'engage à verser un capital ou une rente à <LienIntra LienID="R43923" type="Définition de glossaire">l'assuré</LienIntra> s'il est en vie au terme du contrat.</Paragraphe>
+<Paragraphe>Vous déterminez librement la durée du contrat. Des <LienInterne LienPublication="F22414" type="Fiche Question-réponse" audience="Particuliers">avantages fiscaux sont accordés après 8 ans</LienInterne>. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Contrat en cas de décès</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Assurance temporaire</Paragraphe>
+</Titre><Paragraphe>Le risque décès est couvert pendant la durée du contrat ou jusqu'à une date définie dans le contrat. </Paragraphe>
+<Paragraphe>L'assureur verse un capital ou une rente uniquement si <LienIntra LienID="R43923" type="Définition de glossaire">l'assuré</LienIntra> meurt avant une certaine date, par exemple avant que ses enfants aient terminé leurs études.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Assurance vie entière</Paragraphe>
+</Titre><Paragraphe>Le risque décès est couvert sans date limite. </Paragraphe>
+<Paragraphe>Cela signifie que l'assureur verse un capital ou une rente au <LienIntra LienID="R44019" type="Définition de glossaire">bénéficiaire</LienIntra> quelle que soit la date de décès de <LienIntra LienID="R43923" type="Définition de glossaire">l'assuré</LienIntra>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Contrat obsèques</Paragraphe>
+</Titre><Paragraphe>Le contrat obsèques garantit au <LienIntra LienID="R44019" type="Définition de glossaire">bénéficiaire</LienIntra> du contrat le versement d'un capital permettant de financer les obsèques de <LienIntra LienID="R43923" type="Définition de glossaire">l'assuré</LienIntra> décédé. Certains contrats peuvent prévoir l'organisation des prestations funéraires.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Contrat vie et décès</Paragraphe>
+</Titre><Paragraphe>Le contrat vie et décès (assurance mixte) couvre à la fois le risque vie et le risque décès. </Paragraphe>
+<Paragraphe>L'assureur s'engage à verser un capital ou une rente :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Soit à <LienIntra LienID="R43923" type="Définition de glossaire">l'assuré</LienIntra> s'il est en vie à la date prévue au contrat</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Soit au <LienIntra LienID="R44019" type="Définition de glossaire">bénéficiaire</LienIntra> désigné en cas de décès de l'assuré avant la date prévue au contrat</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conditions à remplir</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Assureur</Paragraphe>
+</Titre><Paragraphe>L’assureur doit respecter les obligations suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Vous informer et vous conseiller</MiseEnEvidence>. L’assureur recueille des éléments quant à votre profil familial et financier afin de vous proposer un contrat adapté à votre situation et à vos attentes.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Vous remettre une proposition d’assurance</MiseEnEvidence> (ou projet de contrat) incluant un projet de lettre de renonciation. Ce document précise notamment l’objet du contrat, les obligations respectives de chaque partie, les frais facturés, les modalités de <LienInterne LienPublication="F2386" type="Fiche Question-réponse" audience="Particuliers">désignation du bénéficiaire</LienInterne>, et si nécessaire les possibilités de rachat ou de transfert.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Vous remettre une note d’information</MiseEnEvidence> qui récapitule les caractéristiques essentielles du contrat. Cette note d'information n'est pas obligatoire pour les contrats comportant une <LienIntra LienID="R291" type="Définition de glossaire">valeur de rachat</LienIntra> ou de transfert. Dans ce cas, un encadré doit figurer sur la 1<Exposant>ère</Exposant> page du contrat, indiquant clairement ses caractéristiques essentielles.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Souscripteur</Paragraphe>
+</Titre><Paragraphe>En qualité de <LienIntra LienID="R43922" type="Définition de glossaire">souscripteur</LienIntra>, vous devez  remplir les conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Avoir la capacité juridique de souscrire un contrat (ainsi, les mineurs et les majeurs en tutelle ne peuvent pas souscrire, seuls, un contrat d'assurance vie)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Respecter les limites d’âge imposées par l'assureur</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Vous engager à payer les
+<LienIntra LienID="R41398" type="Définition de glossaire">            primes</LienIntra> prévues par le contrat</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Remplir de manière exhaustive et sincère le <LienInterne LienPublication="F22394" type="Fiche Question-réponse" audience="Particuliers">questionnaire médical</LienInterne> remis par l'assureur</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>plusieurs personnes peuvent souscrivent ensemble un contrat d'assurance vie (souscription conjointe).</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Assuré</Paragraphe>
+</Titre><Paragraphe>
+<LienIntra LienID="R43923" type="Définition de glossaire">L'assuré</LienIntra> est la personne dont le décès ou la survie est garanti par le contrat :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Soit vous êtes à la fois le <LienIntra LienID="R43922" type="Définition de glossaire">souscripteur</LienIntra> et <LienIntra LienID="R43923" type="Définition de glossaire">l'assuré</LienIntra> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Soit vous souscrivez un contrat en cas de décès d’une autre personne.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans ce 2<Exposant>e</Exposant> cas, l'assuré est protégé par les 2 dispositions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>L'assuré doit donner son consentement écrit</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>L'assuré doit avoir au moins 12 ans (jusqu'à sa majorité, l'accord écrit des parents ou du tuteur est  obligatoire).</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai de rétractation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Une fois le contrat signé, vous avez 30 jours <LienIntra LienID="R1092" type="Définition de glossaire">calendaires</LienIntra> pour revenir sur votre décision, par lettre recommandée avec <LienInterne LienPublication="R39324" type="Sigle">AR</LienInterne>.</Paragraphe>
+<Paragraphe>Ce délai court à partir de la date à laquelle vous avez été informé de la conclusion du contrat.</Paragraphe>
+<Paragraphe>Ce délai de 30 jours peut être prolongé si les informations et documents obligatoires ne vous ont pas été remis.</Paragraphe>
+<ServiceEnLigne ID="R13625" URL="http://www.conso.net/content/vous-renoncez-au-contrat-d%E2%80%99assurance-vie-ou-de-capitalisation-que-vous-aviez-souscrit" type="Modèle de document">
+<Titre>Demander à renoncer à un contrat d'assurance-vie</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+<Texte><Paragraphe>Modèle de lettre pour renoncer à un contrat d'assurance vie signé avec son assureur.</Paragraphe>
+<Paragraphe>La renonciation doit s'effectuer par lettre recommandée avec avis de réception dans un délai de 30 jours à partir de la date à laquelle vous avez été informé de la conclusion du contrat.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>pour les contrats souscrits depuis le 1<Exposant>er</Exposant> mars 2006, la prolongation du délai pour renoncer au contrat est limitée dans le temps. Vous devez exercer cette faculté au plus tard dans les 8 ans à partir de la conclusion du contrat.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Conséquences de la renonciation</Paragraphe>
+</Titre>
+<Paragraphe>L'assureur vous restitue l'intégralité des sommes versées sur le contrat dans les 30 jours qui suivent la réception de la renonciation.</Paragraphe>
+<Paragraphe>Passé ce délai, les sommes produisent des intérêts au <LienInterne LienPublication="F20688" type="Fiche Question-réponse" audience="Particuliers">taux légal</LienInterne> majoré de 50% durant les 2 premiers mois, puis au-delà de ce délai, au double du taux légal.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Clause bénéficiaire</Paragraphe>
+</Titre><Paragraphe>La clause bénéficiaire permet de désigner les personnes qui, selon le cas, percevront le capital ou la rente après le décès de <LienIntra LienID="R43923" type="Définition de glossaire">l'assuré</LienIntra>.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Désignation par le souscripteur</Paragraphe>
+</Titre><Paragraphe>En qualité de <LienIntra LienID="R43922" type="Définition de glossaire">souscripteur</LienIntra>, vous pouvez désigner un ou plusieurs <LienIntra LienID="R44019" type="Définition de glossaire">bénéficiaires</LienIntra>, des 3 manières suivantes, selon la procédure indiquée dans votre contrat :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Par mention dans le contrat d'assurance</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Par testament olographe ou authentique</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Par simple lettre à l'assureur</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Tout au long du contrat, <LienInterne LienPublication="F2386" type="Fiche Question-réponse" audience="Particuliers">vous pouvez modifier, sous conditions, le ou les personnes désignées comme bénéficiaires</LienInterne>.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous avez souscrit un contrat non pour vous-même, mais en cas de décès d’une autre personne, son accord est nécessaire concernant la désignation du <LienIntra LienID="R44019" type="Définition de glossaire">bénéficiaire</LienIntra>.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Acceptation du bénéficiaire</Paragraphe>
+</Titre><Paragraphe>Le <LienIntra LienID="R44019" type="Définition de glossaire">bénéficiaire</LienIntra> peut manifester son accord concernant cette désignation afin de lui donner un caractère <LienIntra LienID="R3083" type="Définition de glossaire">irrévocable</LienIntra>.</Paragraphe>
+<Paragraphe>Toutefois, il ne peut faire cette démarche qu'à l'issue d'un délai de 30 jours à partir de la conclusion du contrat.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N89" audience="Particuliers">
+<Titre>Assurance vie</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F770" audience="Particuliers">
+<Titre>Établir un testament</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<VoirAussi important="oui">
+<Fiche ID="F15274" audience="Particuliers">
+<Titre>Contrat d'assurance-vie : fonctionnement</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R19751" type="Centre de contact">
+<Titre>Assurance Banque Épargne Info Service</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informations sur les démarches et les relations contractuelles dans le domaine de l'assurance, de la banque et de l'épargne
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			ABE Info Service
+		</Paragraphe>
+								<Paragraphe>
+			61 rue Taitbout
+		</Paragraphe>
+								<Paragraphe>
+			75436 Paris Cedex 09
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Via le <LienExterne URL="http://www.abe-infoservice.fr/abe-info-service/nous-contacter.html">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R16071" type="Centre de contact">
+<Titre>Votre banque</Titre>
+<Complement>Pour s'informer et souscrire un contrat</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R2699" type="Centre de contact">
+<Titre>Votre assureur</Titre>
+<Complement>Pour s'informer et souscrire un contrat</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R37502" type="Local">
+<Titre>Conseiller en investissements financiers (CIF)</Titre>
+<Complement>Pour s'informer</Complement>
+<RessourceWeb URL="https://www.orias.fr/web/guest/search"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157199&amp;cidTexte=LEGITEXT000006073984" ID="R517">
+<Titre>Code des assurances : articles L112-1 à L112-10</Titre>
+<Complement>Informations contenues dans la police d'assurance (article L112-4)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157200&amp;cidTexte=LEGITEXT000006073984" ID="R13611">
+<Titre>Code des assurances : articles L113-1 à L113-17</Titre>
+<Complement>Obligations de l'assureur et de l'assuré</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174038&amp;cidTexte=LEGITEXT000006073984" ID="R32370">
+<Titre>Code des assurances : articles L132-1 à L132-27-2</Titre>
+<Complement>Conditions liées à la souscription (articles L132-1 à L132-5), renonciation (article L132-5-1), obligations en matière d'information (articles L132-5-2 à L132-5-3), bénéficiaires (articles L132-8 à L132-19)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006175333&amp;cidTexte=LEGITEXT000006073984" ID="R32371">
+<Titre>Code des assurances : articles R132-2 à R132-5-7</Titre>
+<Complement>Mentions du contrat d'assurance sur la vie (article R132-4)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.com/affichCode.do?idSectionTA=LEGISCTA000006173954&amp;cidTexte=LEGITEXT000006073984" ID="R34670">
+<Titre>Code des assurances : articles A132-1 à A132-9-3</Titre>
+<Complement>Information du souscripteur et tarification</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150236&amp;cidTexte=LEGITEXT000006070721" ID="R35332">
+<Titre>Code civil : articles 1109 à 1122</Titre>
+<Complement>Consentement du bénéficiaire (article 1121)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032008380&amp;cidTexte=LEGITEXT000006070721" ID="R22092">
+<Titre>Code civil : articles 1145 à 1152</Titre>
+<Complement>Capacité juridique de souscrire un contrat (article 1123)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150248&amp;cidTexte=LEGITEXT000006070721" ID="R35333">
+<Titre>Code civil : articles 1165 à 1167</Titre>
+<Complement>Consentement du bénéficiaire (article 1165)</Complement>
+</Reference>
+<ServiceEnLigne ID="R13625" URL="http://www.conso.net/content/vous-renoncez-au-contrat-d%E2%80%99assurance-vie-ou-de-capitalisation-que-vous-aviez-souscrit" type="Modèle de document">
+<Titre>Demander à renoncer à un contrat d'assurance-vie</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41465" URL="http://www.lafinancepourtous.com" audience="Particuliers">
+<Titre>Le site de la finance pour tous</Titre>
+<Source ID="R30693">Institut pour l'éducation financière du public (IEFP)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39921" URL="http://www.abe-infoservice.fr/assurance/assurance-vie/la-clause-beneficiaire-en-assurance-vie.html" audience="Particuliers">
+<Titre>Assurance vie : la clause bénéficiaire</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R44857" URL="http://www.conso.net/content/le-contrat-dassurance-vie-les-fondamentaux" audience="Particuliers">
+<Titre>Contrat d'assurance vie : les fondamentaux</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R43923">
+<Titre>Assuré</Titre>
+<Texte>
+				<Paragraphe>Personne dont la vie, les actes ou les biens sont garantis par un contrat d'assurance. </Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R41398">
+<Titre>Prime (assurance vie)</Titre>
+<Texte>
+				<Paragraphe>Montant versé ou placé sur le contrat. En cas de risque particulier ou important, un montant, appelé surprime, peut s'ajouter à la prime fixée initialement.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R44019">
+<Titre>Bénéficiaire d'un contrat d'assurance vie</Titre>
+<Texte>
+				<Paragraphe>Personne(s) désignée(s) par le souscripteur du contrat, qui, selon le cas, percevront le capital ou la rente en cas de décès de l'assuré. En général le souscripteur est également l'assuré.</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174038&amp;cidTexte=LEGITEXT000006073984" ID="R32370">
+<Titre>Code des assurances : articles L132-1 à L132-27-2</Titre>
+</Reference>
+</Definition>
+<Definition ID="R1092">
+<Titre>Jour calendaire</Titre>
+<Texte>
+				<Paragraphe>Correspond à la totalité des jours du calendrier de l'année civile, du 1<Exposant>er</Exposant> janvier au 31 décembre, y compris les jours fériés
+		ou chômés. </Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R291">
+<Titre>Valeur de rachat (assurance-vie)</Titre>
+<Texte>
+				<Paragraphe>Valeur de remboursement du capital en cas de dénouement anticipé du contrat</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.com/affichCode.do?idSectionTA=LEGISCTA000006173954&amp;cidTexte=LEGITEXT000006073984" ID="R34670">
+<Titre>Code des assurances : articles A132-1 à A132-9-3</Titre>
+</Reference>
+</Definition>
+<Definition ID="R3083">
+<Titre>Irrévocable</Titre>
+<Texte>
+				<Paragraphe>Définitif, sur lequel on ne peut revenir</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R43922">
+<Titre>Souscripteur</Titre>
+<Texte>
+				<Paragraphe>Personne qui conclut le contrat avec l'assureur. Aussi appelé contractant.</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R39324" type="Sigle">
+<Titre>AR</Titre>
+<Texte>
+<Paragraphe>Accusé de réception</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F22395" audience="Particuliers">Quels sont les risques exclus de l'assurance-vie en cas de décès ?</QuestionReponse>
+<QuestionReponse ID="F2386" audience="Particuliers">Peut-on modifier le bénéficiaire d'un contrat d'assurance vie ?</QuestionReponse>
+<QuestionReponse ID="F22414" audience="Particuliers">Faut-il déclarer aux impôts les revenus d'un contrat d'assurance-vie ?</QuestionReponse>
+<QuestionReponse ID="F22394" audience="Particuliers">Assurance décès : que faut-il déclarer dans un questionnaire médical ?</QuestionReponse>
+<QuestionReponse ID="F20688" audience="Particuliers">Qu'est-ce que l'intérêt légal ?</QuestionReponse>
+</Publication>

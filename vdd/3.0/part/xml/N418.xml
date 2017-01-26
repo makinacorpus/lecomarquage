@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N418" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance maladie : affiliation et remboursements des soins</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Les informations contenues sur cette page s’adressent principalement aux personnes relevant du régime général de la Sécurité sociale. Les règles et formalités particulières des autres régimes n’y sont pas développées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-12-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N418</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Salarié du secteur privé</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N418" type="Dossier">Assurance maladie : affiliation et remboursements des soins</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20272">Sécurité sociale</SousThemePere>
+<SousDossier ID="N418-1">
+<Titre>Démarches d'affiliation</Titre><Fiche ID="F34047">Protection universelle maladie (Puma)</Fiche>
+<Fiche ID="F675">Étudiant</Fiche>
+<Fiche ID="F16467">Premier emploi</Fiche>
+<Fiche ID="F23671">Agent public</Fiche>
+<Fiche ID="F674">Changement de situation professionnelle</Fiche>
+<Fiche ID="F737">Changement de situation personnelle</Fiche>
+<Fiche ID="F16620">Rattachement d'un enfant</Fiche>
+<Fiche ID="F16622">Rattachement d'un autre ayant-droit</Fiche>
+</SousDossier>
+<SousDossier ID="N418-2">
+<Titre>Conditions du remboursement des soins</Titre><Fiche ID="F163">Parcours de soins coordonnés et médecin traitant</Fiche>
+<Fiche ID="F165">Ticket modérateur, forfait, franchises</Fiche>
+<Fiche ID="F265">Carte Vitale</Fiche>
+<Fiche ID="F33967">Ordonnance</Fiche>
+<Fiche ID="F11616">Feuille de soins</Fiche>
+<Fiche ID="F168">Accord (entente) préalable</Fiche>
+<Fiche ID="F167">Tiers payant</Fiche>
+</SousDossier>
+<SousDossier ID="N418-3">
+<Titre>Remboursement par type de dépense de santé</Titre><Fiche ID="F1069">Consultation médicale</Fiche>
+<Fiche ID="F10874">Consultation médicale d'un enfant</Fiche>
+<Fiche ID="F200">Hospitalisation</Fiche>
+<Fiche ID="F21760">Médicaments</Fiche>
+<Fiche ID="F2951">Frais de transports</Fiche>
+<Fiche ID="F751">Cure thermale</Fiche>
+<Fiche ID="F33950">Lunettes et lentilles</Fiche>
+<Fiche ID="F33956">Soins dentaires</Fiche>
+</SousDossier>
+<Introduction>
+<Texte>
+<Paragraphe>
+			Les informations contenues sur cette page s’adressent principalement aux personnes relevant du régime général de la Sécurité sociale.
+		</Paragraphe>
+<Paragraphe>
+			Les règles et formalités particulières des autres régimes n’y sont pas développées.
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N10805" audience="Professionnels">
+<Titre>Régimes sociaux des travailleurs indépendants</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R3049" URL="https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_somtc=true" type="Téléservice">
+<Titre>Ameli en ligne</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16671" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3705.pdf" format="application/pdf" poids="710.4 KB" numerocerfa="14445*02" autrenumero="S3705" type="Formulaire">
+<Titre>Demande de rattachement des enfants à l'un ou aux deux parents - Assurances maladie et maternité</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1334" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3110.pdf" numerocerfa="12541*02" autrenumero="S3110j" type="Formulaire">
+<Titre>Feuille de soins - Médecin</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1336" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3127.pdf" format="application/pdf" poids="528.6 KB" numerocerfa="11388*04" autrenumero="S3127e" type="Formulaire">
+<Titre>Feuille de soins - Sage-femme</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2120" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3326.pdf" numerocerfa="12708*02" autrenumero="S3326b" type="Formulaire">
+<Titre>Ordonnance de médicaments ou de produits et prestations d'exception</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R973" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3321.pdf" format="application/pdf" poids="135.3 KB" numerocerfa="14465*01" autrenumero="S3321b" type="Formulaire">
+<Titre>Ordonnance bizone</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1432" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11162.do" format="application/force-download" poids="1.3 MB" numerocerfa="11162*03" autrenumero="S3140c" type="Formulaire">
+<Titre>Demande de remboursement des frais de transports pour motif médical en véhicule personnel et/ou transports en commun</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1958" URL="http://www.dmp.gouv.fr/documentation/demande-copie" format="application/pdf" poids="643.4 KB" type="Formulaire">
+<Titre>Demande de copie de votre dossier médical personnel (DMP)</Titre>
+<Source ID="R30700">GIP Asip Santé</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1431" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3604.pdf" numerocerfa="11164*04" autrenumero="S3604d" type="Formulaire">
+<Titre>Demande d'accord préalable pour grand appareillage</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32743" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3135.pdf" numerocerfa="12042*02" autrenumero="S3135b" type="Formulaire">
+<Titre>Prescription médicale pour grand appareillage</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38700" URL="http://www.ameli.fr/fileadmin/user_upload/documents/declaration_perte_vol_carte_vitale.pdf" format="application/pdf" poids="112.8 KB" type="Formulaire">
+<Titre>Carte vitale : perte, vol ou dysfonctionnement - Déclaration sur l'honneur</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1382" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11359.do" format="application/pdf" poids="715.1 KB" numerocerfa="11359*08" type="Formulaire">
+<Titre>Demande d'affiliation à la sécurité sociale militaire (CNMSS) en qualité de militaire retraité</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source><NoticeLiee ID="R46300" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50606-08&amp;cerfaFormulaire=11359" numerocerfa="50606*08" format="application/pdf" poids="190.5 KB">Notice demande d'affiliation à la sécurité sociale</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32225" URL="http://www.formulaires.modernisation.gouv.fr/gf/cerfa_12622.do" numerocerfa="12622*03" type="Formulaire">
+<Titre>Demande d'affiliation à la Caisse nationale militaire de sécurité sociale (CNMSS) en qualité d'orphelin de militaire</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1990" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10074.do" format="application/pdf" poids="454.3 KB" numerocerfa="10074*07" type="Formulaire">
+<Titre>Demande d'affiliation d'une veuve (veuf) titulaire d'une pension militaire de réversion</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source><NoticeLiee ID="R1683" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50015&amp;cerfaFormulaire=10074" numerocerfa="50015#05">Notice pour la demande d'affiliation d'une(e) veuve (veuf) titulaire d'une pension militaire de réversion</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42102" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14510.do" numerocerfa="14510*03" type="Formulaire">
+<Titre>Demande d'accord préalable pour dispositifs médicaux relevant de la liste des produits et prestations remboursables - personnes relevant de la caisse nationale militaire de sécurité sociale</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32226" URL="http://www.formulaires.modernisation.gouv.fr/gf/cerfa_14473.do" numerocerfa="14473*02" type="Formulaire">
+<Titre>Demande d'accord préalable soins médicaux gratuits - Article L115 du code des pensions militaires d'invalidité et des victimes de guerre</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32228" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14415.do" numerocerfa="14415*05" type="Formulaire">
+<Titre>Demande de cure thermale - Article L115 du code des pensions militaires d'invalidité et des victimes de la guerre</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2277" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14611.do" numerocerfa="14611*02" type="Formulaire">
+<Titre>Demande de réquisition de passage - article L115 du Code des pensions militaires d'invalidité et des victimes de guerre</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33426" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10083.do" numerocerfa="10083*03" type="Formulaire">
+<Titre>Autorisation de transport de certains médicaments</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source><NoticeLiee ID="R33410" URL="http://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50018%2303&amp;cerfaFormulaire=10083*03">Autorisation de transport</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17330" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11353.do" numerocerfa="11353*03" type="Formulaire">
+<Titre>Procuration sous seing privé valable trois mois pour un seul paiement</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R43963" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15529.do" format="application/pdf" poids="395.2 KB" numerocerfa="15529*01" type="Formulaire">
+<Titre>Études de droits aux prestations hors de France ou à Mayotte</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R351" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14094.do" format="application/pdf" poids="341.9 KB" numerocerfa="14094*05" type="Formulaire">
+<Titre>Déclaration concernant une carte Vitale (Caisse nationale militaire de sécurité nationale)</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R11479" URL="http://www.vie-publique.fr/decouverte-institutions/finances-publiques/protection-sociale/definition/comment-protection-sociale-est-elle-organisee-france.html" audience="Particuliers">
+<Titre>Comment la protection sociale est-elle organisée en France ?</Titre>
+<Source ID="R30718">Vie-publique.fr</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16451" URL="http://www.ameli.fr/assures/droits-et-demarches/par-situation-personnelle" audience="Particuliers">
+<Titre>Protection sociale par situation personnelle</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16998" URL="http://www.ameli.fr/assures/droits-et-demarches/par-situation-professionnelle" audience="Particuliers">
+<Titre>Protection sociale par situation professionnelle</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2899" URL="http://www.ameli.fr/assures/droits-et-demarches/par-situation-medicale/vous-etes-victime-d-un-accident/accident-cause-par-un-tiers.php" audience="Particuliers">
+<Titre>Victime d'un accident ? Déclarez-le à l'Assurance Maladie</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F225" audience="Particuliers">En quoi consiste l'adhésion à la Sécurité sociale ?</QuestionReponse>
+<QuestionReponse ID="F648" audience="Particuliers">À quel organisme de sécurité sociale est-on rattaché pour l'assurance maladie ?</QuestionReponse>
+<QuestionReponse ID="F16466" audience="Particuliers">À quelle caisse d'assurance maladie un salarié est-il affilié ?</QuestionReponse>
+<QuestionReponse ID="F739" audience="Particuliers">Faut-il avoir travaillé un minimum pour bénéficier du remboursement des soins ?</QuestionReponse>
+<QuestionReponse ID="F20014" audience="Particuliers">Non respect des règles de la Sécurité sociale : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F10662" audience="Particuliers">Comment obtenir une attestation de droits (attestation Vitale) ?</QuestionReponse>
+<QuestionReponse ID="F21742" audience="Particuliers">Quelles informations contient la carte Vitale ?</QuestionReponse>
+<QuestionReponse ID="F13842" audience="Particuliers">Sécurité sociale : comment prouver sa situation régulière en France ?</QuestionReponse>
+<QuestionReponse ID="F17042" audience="Particuliers">Quels sont les tarifs d'un médecin (conventionné ou non) ?</QuestionReponse>
+<QuestionReponse ID="F164" audience="Particuliers">Qui peut bénéficier d'une prise en charge à 100% par l'Assurance maladie ?</QuestionReponse>
+<QuestionReponse ID="F18734" audience="Particuliers">Peut-on refuser un médicament générique ?</QuestionReponse>
+<QuestionReponse ID="F13905" audience="Particuliers">Un demandeur d'emploi est-il remboursé de ses frais de santé en cas de maladie ?</QuestionReponse>
+<QuestionReponse ID="F677" audience="Particuliers">En prison, bénéficie-t-on de l'assurance maladie (sécurité sociale) ?</QuestionReponse>
+<QuestionReponse ID="F10872" audience="Particuliers">En quoi consiste le dossier médical personnel (DMP) ?</QuestionReponse>
+<QuestionReponse ID="F33078" audience="Particuliers">Que signifie le numéro de sécurité sociale ?</QuestionReponse>
+<QuestionReponse ID="F34068" audience="Particuliers">Qu'est-ce qu'une affection de longue durée (ALD) ?</QuestionReponse>
+</Publication>

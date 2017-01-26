@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17337" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Diagnostic immobilier : état de l'installation intérieure de gaz</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>L'état de l'installation intérieure de gaz est un document qui donne un aperçu de la sécurité des installations d'un bien immobilier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-25</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17337</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006176358&amp;cidTexte=LEGITEXT000006074096, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000462365, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033026422</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20591</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20591">Diagnostics immobiliers</Niveau>
+<Niveau ID="F17337" type="Fiche d'information">Diagnostic immobilier : état de l'installation intérieure de gaz</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N323">Protection et sécurité de l'habitat</SousThemePere><DossierPere ID="N20591">
+<Titre>Diagnostics immobiliers</Titre>
+<Fiche ID="F16096">Diagnostic de performance énergétique</Fiche>
+<Fiche ID="F1142">Constat de risque d'exposition au plomb</Fiche>
+<Fiche ID="F742">État d'amiante</Fiche>
+<Fiche ID="F3150">État relatif à la présence de termites</Fiche>
+<Fiche ID="F17337">État de l'installation intérieure de gaz</Fiche>
+<Fiche ID="F18692">État de l'installation intérieure d'électricité</Fiche>
+<Fiche ID="F31685">État de l'installation d'assainissement non collectif</Fiche>
+<Fiche ID="F12239">État des risques naturels, miniers et technologiques</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'état de l'installation intérieure de gaz est un document qui donne un aperçu de la sécurité des installations d'un bien immobilier.  Il vise à informer l'acquéreur sur le bien qu'il projette d'acheter ou de louer. L'obligation de fournir un état du gaz en cas de location ne concerne que les baux conclus à partir d'une certaine date.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>En cas de vente</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>L'état de l'installation intérieure de gaz est un diagnostic de l'installation de gaz du logement et ses dépendances.</Paragraphe>
+<Paragraphe>L'initiative de faire réaliser ce diagnostic appartient au vendeur du logement. </Paragraphe>
+<Paragraphe>L'état de l'installation intérieure de gaz doit être intégré au sein d'un dossier de diagnostic technique (DDT) et être remis à <LienInterne LienPublication="F10798" type="Fiche Question-réponse" audience="Particuliers">l'acquéreur</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Logements concernés </Paragraphe>
+</Titre><Paragraphe>Les logements concernés sont ceux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> dont l'installation du gaz a plus de 15 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou dont le dernier certificat de conformité date de plus de 15 ans.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'état de l'installation intérieure de gaz permet d'évaluer les risques pouvant compromettre la sécurité des occupants tandis que le certificat de conformité constitue un contrôle de conformité de l'installation vis-à-vis de la réglementation.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui doit réaliser le diagnostic ?</Paragraphe>
+</Titre><Paragraphe>Le diagnostic doit être réalisé  par un professionnel certifié.</Paragraphe><OuSAdresser ID="R10247" type="Local personnalisable">
+<Titre>Professionnel certifié pour effectuer les diagnostics immobiliers</Titre>
+<PivotLocal>professionnel_certifie</PivotLocal>
+<RessourceWeb URL="http://www.cofrac.fr/fr/organismes/?zone_recherche=programme&amp;input_organisme=4-4-11"/>
+<Source ID="R30666">Comité français d'accréditation (Cofrac)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment est réalisé le diagnostic ?</Paragraphe>
+</Titre><Paragraphe>Le diagnostic doit être effectué sur l'ensemble des éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>appareils fixes de chauffage et de production d'eau chaude sanitaire ou mettant en œuvre un moteur thermique, alimentés par le gaz,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tuyauteries fixes d'alimentation en gaz et leurs accessoires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>locaux où fonctionnent les appareils à gaz, permettant l'aération de ces locaux et l'évacuation des produits de combustion.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le diagnostic doit être réalisé sans démontage des installations.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Le diagnostic a une durée de validité de 3 ans.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conséquence en son absence</Paragraphe>
+</Titre><Paragraphe>Si le vendeur ne fournit pas l'état de l'installation intérieure de gaz et que l'acquéreur découvre que l'installation est défectueuse, il peut engager la responsabilité du vendeur devant le tribunal de grande instance (TGI) pour vices cachés (défauts cachés de l'installation).</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>En cas de location</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>L'état de l'installation intérieure de gaz est un diagnostic de l'ensemble de l'installation de gaz du logement et ses dépendances.</Paragraphe>
+<Paragraphe>L'initiative de faire réaliser ce diagnostic appartient au bailleur du logement. </Paragraphe>
+<Paragraphe>L'état de l'installation intérieure de gaz doit être intégré au sein d'un dossier de diagnostic technique (DDT) et être remis au <LienInterne LienPublication="F33463" type="Fiche Question-réponse" audience="Particuliers">locataire</LienInterne>.</Paragraphe>
+<Paragraphe>Le bailleur n'a toutefois pas à fournir un état de l'installation intérieure du gaz s'il est en mesure de présenter :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un état de l'installation intérieure du gaz réalisé depuis moins de 6 ans, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un état de l'installation intérieure de gaz réalisée depuis moins de 6 ans par un professionnel certifié par <LienInterne LienPublication="F17376" type="Fiche Question-réponse" audience="Particuliers">un organisme accrédité par le comité français d'accréditation (Cofrac)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Logements et baux concernés</Paragraphe>
+</Titre><Paragraphe>Les logements concernés sont ceux :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> dont l'installation du gaz a plus de 15 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou dont le dernier certificat de conformité date de plus de 15 ans.</Paragraphe>
+</Item>
+</Liste>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Logements dont le permis de construire a été délivré avant le 1er janvier 1975</Paragraphe>
+</Titre><Paragraphe>L'obligation de fournir l'état de l'installation intérieure du gaz concerne les contrats de location signés à partir du 1<Exposant>er</Exposant> juillet 2017.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autres logements</Paragraphe>
+</Titre><Paragraphe>L'obligation de fournir l'état de l'installation intérieure du gaz concerne les contrats de location signés à partir du 1<Exposant>er</Exposant> janvier 2018.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui doit réaliser le diagnostic ?</Paragraphe>
+</Titre><Paragraphe>Le diagnostic doit être réalisé  par un professionnel certifié.</Paragraphe><OuSAdresser ID="R10247" type="Local personnalisable">
+<Titre>Professionnel certifié pour effectuer les diagnostics immobiliers</Titre>
+<PivotLocal>professionnel_certifie</PivotLocal>
+<RessourceWeb URL="http://www.cofrac.fr/fr/organismes/?zone_recherche=programme&amp;input_organisme=4-4-11"/>
+<Source ID="R30666">Comité français d'accréditation (Cofrac)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment est réalisé le diagnostic ?</Paragraphe>
+</Titre><Paragraphe>Le diagnostic doit être effectué sur l'ensemble des éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>appareils fixes de chauffage et de production d'eau chaude sanitaire ou mettant en œuvre un moteur thermique, alimentés par le gaz,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tuyauteries fixes d'alimentation en gaz et leurs accessoires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>locaux où fonctionnent les appareils à gaz, permettant l'aération de ces locaux et l'évacuation des produits de combustion.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le diagnostic doit être réalisé sans démontage des installations.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Le diagnostic a une durée de validité de 6 ans.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Conséquence en son absence</Paragraphe>
+</Titre><Paragraphe>Si le bailleur ne fournit pas l'état de l'installation intérieure de gaz et que le locataire découvre que l'installation est défectueuse, il peut engager la responsabilité du bailleur devant le tribunal de grande instance (TGI) pour vices cachés (défauts cachés de l'installation).</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F16096" audience="Particuliers">
+<Titre>Diagnostic immobilier : diagnostic de performance énergétique (DPE)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1142" audience="Particuliers">
+<Titre>Diagnostic immobilier : constat de risque d'exposition au plomb (Crep)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F742" audience="Particuliers">
+<Titre>Diagnostic immobilier : état d'amiante</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F3150" audience="Particuliers">
+<Titre>Diagnostic immobilier : état relatif à la présence de termites</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31685" audience="Particuliers">
+<Titre>Diagnostic immobilier : état de l'installation d'assainissement non collectif</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F12239" audience="Particuliers">
+<Titre>Diagnostic immobilier : état des risques naturels, miniers et technologiques</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006176358&amp;cidTexte=LEGITEXT000006074096" ID="R18779">
+<Titre>Code de la construction et de l'habitation : articles L271-4 à L271-6</Titre>
+<Complement>Réalisation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000462365" ID="R16473">
+<Titre>Décret n°2006-1653 du 21 décembre 2006 relatif aux durées de validité des documents constituant le dossier de diagnostic technique</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033026422" ID="R45067">
+<Titre>Décret n°2016-1104 du 11 août 2016 relatif à l'état de l'installation intérieure de gaz dans les logements en location</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R45088" URL="http://www.conso.net/content/location-deux-nouveaux-diagnostics-remettre-au-locataire-partir-de-2017" audience="Particuliers">
+<Titre>Dossier pratique sur les états d'installation intérieure d'électricité et de gaz</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F10798" audience="Particuliers">À quoi sert le dossier de diagnostic technique immobilier ?</QuestionReponse>
+<QuestionReponse ID="F17376" audience="Particuliers">Où trouver un professionnel certifié pour réaliser les diagnostics immobiliers ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18259" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Annonces de cession-reprise dans le secteur de l'automobile</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Cette bourse d’opportunités, validée par la branche professionnelle, permet de consulter les annonces de cession-reprise, grâce à une recherche par région ou par métier (agent de marque, réparateur agréé, carrossier, dépanneur, détaillant en carburants ou contrôleur technique).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-20</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18259</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16594">Cessation, transmission et reprise d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18259" type="Téléservice">Annonces de cession-reprise dans le secteur de l'automobile</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Cette bourse d’opportunités, validée par la branche professionnelle, permet de consulter les annonces de cession-reprise, grâce à une recherche par région ou par métier (agent de marque, réparateur agréé, carrossier, dépanneur, détaillant en carburants ou contrôleur technique).</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://bourse-emploi.irp-auto.com/">
+<Source>Conseil national des professions de l'automobile (CNPA)</Source>
+</LienWeb>
+<FicheLiee ID="F23891" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Transmission ou reprise d'une entreprise</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R41973" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Télédéclaration des éducateurs sportifs</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille, Loisirs</dc:subject>
+<dc:description>Télédéclaration des éducateurs sportifs - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-08</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R41973</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N31346">Étudiant étranger en France</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R41973" type="Téléservice">Télédéclaration des éducateurs sportifs</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="https://eaps.sports.gouv.fr/">
+<Source>Ministère en charge des sports</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R32050" audience="Particuliers" type="Formulaire">
+<Titre>Déclaration d'éducateur sportif</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F463" audience="Particuliers" type="Fiche d'information">
+<Titre>Faire comparer ou reconnaître un diplôme obtenu à l'étranger</Titre>
+<Dossier ID="N31346">Étudiant étranger en France</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31587" audience="Particuliers" type="Fiche d'information">
+<Titre>Obligations des éducateurs et établissements sportifs</Titre>
+<Dossier ID="N184">Sport</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

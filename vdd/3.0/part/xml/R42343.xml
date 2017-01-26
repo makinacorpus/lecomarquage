@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42343" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de retraite à l'Ircantec du médecin</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Permet au praticien hospitalier ayant cotisé à l'Ircantec d'adresser en ligne un formulaire de demande de retraite.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-23</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42343</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42343" type="Formulaire">Demande de retraite à l'Ircantec du médecin</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet au praticien hospitalier ayant cotisé à l'Ircantec d'adresser en ligne un formulaire de demande de retraite.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.ircantec.retraites.fr/formulaire/formulaire-de-demande-de-retraite-medecin">
+<Source>Institution de retraite complémentaire - agents non titulaires de l'État et des collectivités (Ircantec)</Source>
+</LienWeb>
+<FicheLiee ID="F12390" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite complémentaire d'un agent non titulaire (Ircantec)</Titre>
+<Dossier ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

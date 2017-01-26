@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14932" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment remplacer un passeport abîmé ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Si votre passeport est détérioré, vous pouvez demander son renouvellement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2015-09-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14932</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000021630155&amp;idSectionTA=LEGISCTA000006179981&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022232359&amp;cidTexte=LEGITEXT000018763666, http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N360">Passeport</Niveau>
+<Niveau ID="F14932" type="Fiche Question-réponse">Comment remplacer un passeport abîmé ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N360">
+<Titre>Passeport</Titre><SousDossier ID="N360-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F14929">Première demande</Fiche>
+<Fiche ID="F21091">Renouvellement</Fiche>
+<Fiche ID="F21246">Passeport perdu</Fiche>
+<Fiche ID="F21247">Passeport volé</Fiche>
+<Fiche ID="F1373">Passeport en urgence</Fiche>
+</SousDossier>
+<SousDossier ID="N360-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F14930">Première demande</Fiche>
+<Fiche ID="F21092">Renouvellement</Fiche>
+<Fiche ID="F21244">Passeport perdu</Fiche>
+<Fiche ID="F21245">Passeport volé</Fiche>
+<Fiche ID="F1035">Passeport en urgence</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si votre passeport est détérioré, vous pouvez demander son renouvellement. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Pour un adulte </Paragraphe>
+</Titre><Paragraphe>La procédure et le coût sont les mêmes qu'un  <LienInterne LienPublication="F21091" type="Fiche d'information" audience="Particuliers">renouvellement du passeport d'une personne majeure</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour un mineur </Paragraphe>
+</Titre><Paragraphe>La procédure et le coût sont les mêmes qu'un soit d'une demande <LienInterne LienPublication="F21092" type="Fiche d'information" audience="Particuliers">renouvellement du passeport d'un enfant mineur</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R14970" type="Local personnalisable">
+<Titre>Mairie délivrant des passeports biométriques</Titre>
+<Complement>Pour demander un nouveau passeport</Complement>
+<PivotLocal>mairie_passeport_bio</PivotLocal>
+<RessourceWeb URL="https://passeport.ants.gouv.fr/Services-associes/Ou-faire-une-demande-de-passeport"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000021630155&amp;idSectionTA=LEGISCTA000006179981&amp;cidTexte=LEGITEXT000006069577" ID="R551">
+<Titre>Code général des impôts : articles 953 à 955</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022232359&amp;cidTexte=LEGITEXT000018763666" ID="R14934">
+<Titre>Décret n°2005-1726 du 30 décembre 2005 relatif au passeport : article 5 - Pièces à fournir pour une première demande</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf" ID="R11425" format="application/pdf" poids="1.6 MB">
+<Titre>Circulaire du 1er mars 2010 relative à la simplification de la délivrance des cartes nationales d'identité et des passeports</Titre>
+</Reference>
+<QuestionReponse ID="F1887" audience="Particuliers">Comment remplacer une carte d'identité abîmée ?</QuestionReponse>
+
+
+</Publication>

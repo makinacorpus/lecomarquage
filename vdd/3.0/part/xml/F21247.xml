@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21247" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Passeport d'un majeur : en cas de vol</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Passeport d'un adulte volé : faire une déclaration de vol puis demander le renouvellement auprès d'une mairie équipée</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2016-04-14</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21247</dc:identifier>
+<dc:source>http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N360">Passeport</Niveau>
+<Niveau ID="F21247" type="Fiche d'information">Passeport d'un majeur : en cas de vol</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N360">
+<Titre>Passeport</Titre><SousDossier ID="N360-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F14929">Première demande</Fiche>
+<Fiche ID="F21091">Renouvellement</Fiche>
+<Fiche ID="F21246">Passeport perdu</Fiche>
+<Fiche ID="F21247">Passeport volé</Fiche>
+<Fiche ID="F1373">Passeport en urgence</Fiche>
+</SousDossier>
+<SousDossier ID="N360-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F14930">Première demande</Fiche>
+<Fiche ID="F21092">Renouvellement</Fiche>
+<Fiche ID="F21244">Passeport perdu</Fiche>
+<Fiche ID="F21245">Passeport volé</Fiche>
+<Fiche ID="F1035">Passeport en urgence</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Pour un majeur</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si votre  passeport  a été volé, il convient de faire une déclaration de vol. Cette déclaration devra être fournie lors du dossier de demande de renouvellement. Les autres pièces à fournir à l'appui du dossier dépendent de type de passeport qui a été volé.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>En France</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Déclaration de vol</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Si le vol a eu lieu  en France </Paragraphe>
+</Titre>
+												<Paragraphe>il faut se rendre dans un  commissariat de police ou une gendarmerie.</Paragraphe>
+											
+												<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+												<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le vol a eu lieu à  l'étranger</Paragraphe>
+</Titre>
+												<Paragraphe>Il faut s'adresser aux autorités de police locales et au consulat de France le plus proche.</Paragraphe>
+											
+												<OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+						<Paragraphe>Un récépissé vous sera remis.</Paragraphe>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où demander un nouveau passeport ?</Paragraphe>
+</Titre>
+				<Paragraphe>Le lieu de la demande ne dépend pas de votre domicile. Vous pouvez vous rendre à n'importe quel guichet à condition qu'il soit équipé d'une station d'enregistrement.</Paragraphe>
+			<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre>
+										<OuSAdresser ID="R14970" type="Local personnalisable">
+<Titre>Mairie délivrant des passeports biométriques</Titre>
+<PivotLocal>mairie_passeport_bio</PivotLocal>
+<RessourceWeb URL="https://passeport.ants.gouv.fr/Services-associes/Ou-faire-une-demande-de-passeport"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+
+									<Attention>
+<Titre>Attention</Titre>
+										<Paragraphe>le service peut exiger que le dépôt du dossier se fasse uniquement sur rendez-vous.</Paragraphe>
+									</Attention>
+										<Paragraphe>Vous pouvez préparer la démarche  en effectuant  une pré-demande de passeport en ligne.</Paragraphe>
+										<ServiceEnLigne ID="R42946" URL="https://passeport.ants.gouv.fr/Vos-demarches/Faire-une-pre-demande-passeport" type="Téléservice">
+<Titre>Pré-demande de passeport</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Pour utiliser ce télé-service, il faut créer votre compte puis saisir  les informations dans  <Citation>Pré-demande Passeport</Citation> en ligne (rubrique Mon compte &gt; Effectuer une nouvelle pré-demande).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives et le timbre fiscal.</Paragraphe>
+<Paragraphe>La mairie récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+<Paragraphe>Conservez le numéro de votre  Pré-demande  : il est indispensable à la mairie.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+										<Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+										<Paragraphe>Le guichet récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre>
+										<OuSAdresser ID="R41880" type="Local personnalisable">
+<Titre>Antenne de la Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp_antenne_cni_passeport</PivotLocal>
+<RessourceWeb URL="https://www.rdv-ppol.interieur.gouv.fr/"/>
+<Source ID="R30800">Préfecture de police de Paris</Source>
+</OuSAdresser>
+
+									<Attention>
+<Titre>Attention</Titre>
+										<Paragraphe>le dépôt du dossier se fait uniquement sur rendez-vous.</Paragraphe>
+									</Attention>
+										<Paragraphe>Vous pouvez préparer la démarche  en effectuant  une pré-demande de passeport en ligne.</Paragraphe>
+										<ServiceEnLigne ID="R42946" URL="https://passeport.ants.gouv.fr/Vos-demarches/Faire-une-pre-demande-passeport" type="Téléservice">
+<Titre>Pré-demande de passeport</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Pour utiliser ce télé-service, il faut créer votre compte puis saisir  les informations dans  <Citation>Pré-demande Passeport</Citation> en ligne (rubrique Mon compte &gt; Effectuer une nouvelle pré-demande).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives et le timbre fiscal.</Paragraphe>
+<Paragraphe>La mairie récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+<Paragraphe>Conservez le numéro de votre  Pré-demande  : il est indispensable à la mairie.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+										<Paragraphe>Il faudra ensuite  vous rendre en mairie pour finaliser la demande avec les pièces justificatives.</Paragraphe>
+										<Paragraphe>Le guichet récupérera vos données grâce au numéro de pré-demande, vérifiera vos pièces justificatives et recueillera vos empreintes.</Paragraphe>
+									
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Les pièces à fournir à l'appui du dossier dépendent de type de passeport qui a été volé.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En métropole</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le passeport volé était biométrique</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbres fiscaux</LienInterne> : <Valeur>86 €</Valeur> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>S'il s'agissait d'un ancien modèle</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une carte d'identité valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbres fiscaux</LienInterne> : <Valeur>86 €</Valeur> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une carte d'identité périmée</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration : moins de 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbres fiscaux</LienInterne> : <Valeur>86 €</Valeur> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration : plus de 5 ans</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbres fiscaux</LienInterne> : <Valeur>86 €</Valeur> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'avez pas de carte d'identité</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbres fiscaux</LienInterne> : <Valeur>86 €</Valeur> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En outre-mer</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le passeport volé était biométrique</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbre fiscal</LienInterne> : <Valeur>86 €</Valeur> </Paragraphe>
+								<Paragraphe>ou <Valeur>89 €</Valeur> <LienInterne LienPublication="F1357" type="Fiche Question-réponse" audience="Particuliers">si la photo est prise directement au guichet</LienInterne>
+</Paragraphe>
+								<Paragraphe> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>S'il s'agissait d'un ancien modèle</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une carte d'identité valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbre fiscal</LienInterne> : <Valeur>86 €</Valeur> </Paragraphe>
+								<Paragraphe>ou <Valeur>89 €</Valeur> <LienInterne LienPublication="F1357" type="Fiche Question-réponse" audience="Particuliers">si la photo est prise directement au guichet</LienInterne>
+</Paragraphe>
+								<Paragraphe> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une carte d'identité périmée</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration : moins de 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbre fiscal</LienInterne> : <Valeur>86 €</Valeur> </Paragraphe>
+								<Paragraphe>ou <Valeur>89 €</Valeur> <LienInterne LienPublication="F1357" type="Fiche Question-réponse" audience="Particuliers">si la photo est prise directement au guichet</LienInterne>
+</Paragraphe>
+								<Paragraphe> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration : plus de 5 ans</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbre fiscal</LienInterne> : <Valeur>86 €</Valeur> </Paragraphe>
+								<Paragraphe>ou <Valeur>89 €</Valeur> <LienInterne LienPublication="F1357" type="Fiche Question-réponse" audience="Particuliers">si la photo est prise directement au guichet</LienInterne>
+</Paragraphe>
+								<Paragraphe> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'avez pas de carte d'identité</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Numéro de <LienInterne LienPublication="R42946" type="Téléservice" audience="Particuliers">pré-demande</LienInterne> ou formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne>  (que vous pouvez présenter  après l'avoir rempli en ligne et imprimé ou  remplir sur place de façon manuscrite)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Timbre fiscal</LienInterne> : <Valeur>86 €</Valeur> </Paragraphe>
+								<Paragraphe>ou <Valeur>89 €</Valeur> <LienInterne LienPublication="F1357" type="Fiche Question-réponse" audience="Particuliers">si la photo est prise directement au guichet</LienInterne>
+</Paragraphe>
+								<Paragraphe> (<LienInterne LienPublication="R39812" type="Téléservice" audience="Particuliers">achat en ligne</LienInterne>)</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous souhaitez utiliser un nom d'usage qui ne figure par encore sur votre carte  d'identité, d'autres documents peuvent être réclamés en fonction de la nature de ce   deuxième nom : <LienInterne LienPublication="F868" type="Fiche d'information" audience="Particuliers">nom de l'époux</LienInterne> ou <LienInterne LienPublication="F1343" type="Fiche d'information" audience="Particuliers">nom de l'autre parent</LienInterne>.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Métropole</Paragraphe>
+</Titre>
+										<Paragraphe>
+<Valeur>86 €</Valeur>
+</Paragraphe>
+									
+										<ServiceEnLigne ID="R39812" URL="https://timbres.impots.gouv.fr/pages/achat/choixTimbres.jsp" type="Téléservice">
+<Titre>Achat en ligne du timbre fiscal - Passeport</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Introduction>
+<Texte><Paragraphe>Se munir d'une carte bancaire</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le timbre électronique peut prendre 2 formes : un code 2D et un identifiant à 16 chiffres.</Paragraphe>
+<Paragraphe>Il peut être délivré sur 2 supports :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> un document PDF avec un code 2D qui peut également être scanné directement depuis un téléphone, une tablette par le service chargé de recevoir votre demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un SMS contenant l'identifiant à 16 chiffres du timbre qui sera accepté par l'agent chargé de traiter votre dossier.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+									
+										<Paragraphe> <LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Comment acheter un timbre fiscal ?</LienInterne>
+</Paragraphe>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Outre-mer</Paragraphe>
+</Titre>
+										<Tableau>
+<Colonne largeur="32" type="normal"/>
+<Colonne largeur="32" type="normal"/>
+<Colonne largeur="32" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Lieu de la demande</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Si vous fournissez la photo</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Si la photo est prise au guichet</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Guadeloupe</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>
+<Valeur>86 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Sans objet</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Guyane</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>
+<Valeur>43 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>
+<Valeur>44,50 €</Valeur>
+</Paragraphe>
+													<Paragraphe> (uniquement en l'absence de photographe professionnel)</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Martinique</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>
+<Valeur>86 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Sans objet</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Mayotte</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>
+<Valeur>86 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>
+<Valeur>89 €</Valeur>
+</Paragraphe>
+													<Paragraphe>(uniquement en l'absence de photographe professionnel)</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Réunion</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>
+<Valeur>86 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Sans objet </Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+										<ServiceEnLigne ID="R39812" URL="https://timbres.impots.gouv.fr/pages/achat/choixTimbres.jsp" type="Téléservice">
+<Titre>Achat en ligne du timbre fiscal - Passeport</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Introduction>
+<Texte><Paragraphe>Se munir d'une carte bancaire</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le timbre électronique peut prendre 2 formes : un code 2D et un identifiant à 16 chiffres.</Paragraphe>
+<Paragraphe>Il peut être délivré sur 2 supports :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> un document PDF avec un code 2D qui peut également être scanné directement depuis un téléphone, une tablette par le service chargé de recevoir votre demande ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un SMS contenant l'identifiant à 16 chiffres du timbre qui sera accepté par l'agent chargé de traiter votre dossier.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+</ServiceEnLigne>
+
+									
+										<Paragraphe> <LienInterne LienPublication="F21258" type="Fiche Question-réponse" audience="Particuliers">Comment acheter un timbre fiscal ?</LienInterne>
+</Paragraphe>
+									
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre ID="R41843">
+<Titre>
+<Paragraphe>Délai de fabrication</Paragraphe>
+</Titre><Paragraphe>Le passeport n'est pas fabriqué sur place et ne peut donc pas être délivré immédiatement. Les délais de fabrication dépendent du lieu et de la période de la demande. Par exemple, à l'approche des vacances d'été, les délais sont susceptibles d'augmenter de manière significative.</Paragraphe>
+<Paragraphe>Si vous avez indiqué un numéro de téléphone portable sur le formulaire de demande, vous recevez un SMS lorsque le passeport est disponible.</Paragraphe>
+<ServiceEnLigne ID="R1827" URL="https://passeport.ants.gouv.fr/Services-associes/Ou-en-est-votre-passeport" type="Téléservice">
+<Titre>Suivez votre demande de passeport</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+<Introduction>
+<Texte><Paragraphe>Se munir du  numéro de demande fourni au  dépôt du dossier.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait du passeport</Paragraphe>
+</Titre>
+						<Paragraphe>Le passeport qui est délivré est un passeport <MiseEnEvidence>biométrique</MiseEnEvidence>.</Paragraphe>
+						<Paragraphe>Il doit être  retiré  dans les  <MiseEnEvidence>3 mois</MiseEnEvidence> qui suivent sa mise à disposition. Passé ce délai, le passeport est détruit.</Paragraphe>
+						<Paragraphe>Vous devez le retirer personnellement au lieu de dépôt du dossier et le signer sur place.</Paragraphe>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>10 ans </Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>À l'étranger</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Déclaration de vol</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Si le vol a eu lieu à  l'étranger</Paragraphe>
+</Titre>
+												<Paragraphe>Il faut s'adresser aux autorités de police locales et au consulat de France le plus proche.</Paragraphe>
+											
+												<OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le vol a eu lieu  en France </Paragraphe>
+</Titre>
+												<Paragraphe>il faut se rendre dans un  commissariat de police ou une gendarmerie.</Paragraphe>
+											
+												<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+												<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+						<Paragraphe>Un récépissé vous sera remis.</Paragraphe>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où demander un nouveau passeport ?</Paragraphe>
+</Titre><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre>
+												<Paragraphe>le service peut exiger que le dépôt du dossier se fasse uniquement sur rendez-vous.</Paragraphe>
+											</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à produire</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le passeport volé était biométrique</Paragraphe>
+</Titre>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>Une photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne> à imprimer après l'avoir rempli en ligne (ou à remplir sur place)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Montant  de <Valeur>96 €</Valeur> (ou <Valeur>99 €</Valeur> si la photo est prise directement au guichet : uniquement dans dans <LienIntra LienID="R43477" type="Définition de glossaire">quelques pays</LienIntra>)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+					</Item>
+				</Liste>
+			
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>S'il s'agissait d'un ancien modèle</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une carte d'identité valide</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>Une photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne> à imprimer après l'avoir rempli en ligne (ou à remplir sur place)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Montant  de <Valeur>96 €</Valeur> (ou <Valeur>99 €</Valeur> si la photo est prise directement au guichet : uniquement dans dans <LienIntra LienID="R43477" type="Définition de glossaire">quelques pays</LienIntra>)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+					</Item>
+				</Liste>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une carte d'identité périmée</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration : moins de 5 ans</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Carte d'identité : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>Une photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne> à imprimer après l'avoir rempli en ligne (ou à remplir sur place)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Montant  de <Valeur>96 €</Valeur> (ou <Valeur>99 €</Valeur> si la photo est prise directement au guichet : uniquement dans dans <LienIntra LienID="R43477" type="Définition de glossaire">quelques pays</LienIntra>)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+					</Item>
+				</Liste>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Date d'expiration : plus de 5 ans</Paragraphe>
+</Titre>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>Une photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne> à imprimer après l'avoir rempli en ligne (ou à remplir sur place)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Montant  de <Valeur>96 €</Valeur> (ou <Valeur>99 €</Valeur> si la photo est prise directement au guichet : uniquement dans dans <LienIntra LienID="R43477" type="Définition de glossaire">quelques pays</LienIntra>)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+					</Item>
+				</Liste>
+			
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'avez pas de carte d'identité</Paragraphe>
+</Titre>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>Une photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne> à imprimer après l'avoir rempli en ligne (ou à remplir sur place)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Montant  de <Valeur>96 €</Valeur> (ou <Valeur>99 €</Valeur> si la photo est prise directement au guichet : uniquement dans dans <LienIntra LienID="R43477" type="Définition de glossaire">quelques pays</LienIntra>)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+					</Item>
+				</Liste>
+			
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de vol : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">Acte de naissance</LienInterne> (copie intégrale ou extrait avec filiation) de <MiseEnEvidence>moins de 3 mois</MiseEnEvidence> : original </Paragraphe>
+								<Paragraphe>(sauf en cas de <LienIntra LienID="R43989" type="Définition de glossaire">naissance à l'étranger</LienIntra> ou dans une ville dont  <LienExterne URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation">l'état civil est dématérialisé</LienExterne>
+
+)</Paragraphe>
+								<Paragraphe>+  <LienInterne LienPublication="F18713" type="Fiche Question-réponse" audience="Particuliers">Justificatif de nationalité française</LienInterne> si l'acte de naissance ne suffit  pas à  prouver  la nationalité : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Si vous fournissez la photo</Paragraphe>
+</Titre>
+										<Paragraphe>
+<Valeur>96 €</Valeur>
+</Paragraphe>
+									
+										<Paragraphe>Vous pouvez régler par  espèces,  par mandat postal et (seulement dans certains consulats) par  chèque ou carte bancaire.</Paragraphe>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si la photo est prise au guichet</Paragraphe>
+</Titre>
+										<Paragraphe>(seulement dans certains  dans <LienIntra LienID="R43477" type="Définition de glossaire">quelques pays</LienIntra>)</Paragraphe>
+									
+										<Paragraphe>
+<Valeur>99 €</Valeur>
+</Paragraphe>
+									
+										<Paragraphe>Vous pouvez régler par  espèces,  par mandat postal et (seulement dans certains consulats) par  chèque ou carte bancaire.</Paragraphe>
+									
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai de fabrication</Paragraphe>
+</Titre>
+						<Paragraphe>Le passeport n'est pas fabriqué sur place et ne peut donc pas être délivré immédiatement. Les délais de fabrication dépendent du lieu et de la période de la demande. </Paragraphe>
+					
+						<Paragraphe>Si vous avez indiqué un numéro de téléphone portable sur le formulaire de demande, vous recevez un SMS lorsque le passeport est disponible.</Paragraphe>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Retrait du passeport</Paragraphe>
+</Titre>
+						<Paragraphe>Le passeport qui est délivré est un passeport <MiseEnEvidence>biométrique</MiseEnEvidence>.</Paragraphe>
+						<Paragraphe>Il doit être  retiré  dans les  <MiseEnEvidence>3 mois</MiseEnEvidence> qui suivent sa mise à disposition. Passé ce délai, le passeport est détruit.</Paragraphe>
+						<Paragraphe>Vous devez le retirer personnellement au lieu de dépôt du dossier et le signer sur place.</Paragraphe>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>10 ans </Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<Complement>Pour faire la déclaration de vol</Complement>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R14970" type="Local personnalisable">
+<Titre>Mairie délivrant des passeports biométriques</Titre>
+<Complement>Pour demander un nouveau passeport</Complement>
+<PivotLocal>mairie_passeport_bio</PivotLocal>
+<RessourceWeb URL="https://passeport.ants.gouv.fr/Services-associes/Ou-faire-une-demande-de-passeport"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<Complement>Pour faire la déclaration de vol</Complement>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<Complement>Pour les démarches à l'étranger</Complement>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.interieur.gouv.fr/content/download/4972/48171/file/cir_30961.pdf" ID="R11425" format="application/pdf" poids="1.6 MB">
+<Titre>Circulaire du 1er mars 2010 relative à la simplification de la délivrance des cartes nationales d'identité et des passeports</Titre>
+</Reference>
+<ServiceEnLigne ID="R39812" URL="https://timbres.impots.gouv.fr/pages/achat/choixTimbres.jsp" type="Téléservice">
+<Titre>Achat en ligne du timbre fiscal - Passeport</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1220" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12100.do" numerocerfa="12100*02" type="Formulaire">
+<Titre>Demande de passeport pour une personne majeure</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1827" URL="https://passeport.ants.gouv.fr/Services-associes/Ou-en-est-votre-passeport" type="Téléservice">
+<Titre>Suivez votre demande de passeport</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R23695" URL="http://www.ants.gouv.fr/Les-solutions/COMEDEC/Villes-adherentes-a-la-dematerialisation" audience="Particuliers">
+<Titre>État civil dématérialisé : vérifier si votre ville de naissance est concernée</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R43989">
+<Titre>Naissance à l'étranger (comedec)</Titre>
+<Texte>
+				<Paragraphe>à condition que l'acte de naissance soit enregistré au service central d'état civil de Nantes</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R43477">
+<Titre>Passeport - Consulats proposant de prendre la photo au guichet</Titre>
+<Texte>
+				<Paragraphe>Arabie Saoudite, Cuba,  Guinée Équatoriale,  Koweït,  Haïti, Mali,  Mauritanie,  Philippines,  Uruguay, Soudan du Sud, Venezuela et  Vietnam</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F18704" audience="Particuliers">Que faire si je retrouve un passeport déclaré volé ?</QuestionReponse>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Publication>

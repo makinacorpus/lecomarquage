@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R24128" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration du décès d'un proche aux organismes de protection sociale auxquels le défunt était affilié</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Permet de déclarer le décès d'un proche à plusieurs organismes en même temps. Se munir du numéro de l'acte de décès et du numéro de sécurité sociale du défunt</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-07</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R24128</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R24128" type="Téléservice">Déclaration du décès d'un proche aux organismes de protection sociale auxquels le défunt était affilié</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de déclarer le décès d'un proche à plusieurs organismes en même temps. Se munir du numéro de l'acte de décès et du numéro de sécurité sociale du défunt</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Attention>
+<Titre>Attention</Titre><Paragraphe>seuls les organismes suivants sont concernés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisse d'assurance retraite et de la santé au travail (Carsat),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisses d'allocations familiales (Caf),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Mutuelle sociale agricole (MSA),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisse nationale de retraite des agents des collectivités locales (CNRACL),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisse nationale des barreaux français (CNBF),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisse des dépôts (CDC) et les organismes et fonds qu'elle gère (ATC-ICNA, ATIACL, CRRFOM, FAEFM, FCAT, FCATA, FPA, FPM, FSPOEIE, Imprimerie Nationale, Préfecture du Haut-Rhin, RATOCEM, RISP, SASPA, SUDAC),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisse nationale des barreaux français (CNBF),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisse de retraite et de prévoyance des clercs et employés de notaires (CRPCEN),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisse de prévoyance et de retraite du personnel de la SNCF (CPRP SNCF),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisse d'assurance vieillesse invalidité et maladie des cultes (Cavimac),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Caisse nationale des industries électrique et gazière (CNIEG),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Caisse autonome nationale de sécurité sociale dans les mines (CANSSM),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Institution de retraite complémentaire des agents non titulaires de l'État et des collectivités publiques (Ircantec),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Retraite des mines,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Retraite additionnelle de la fonction publique (RAFP),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Retraite de la Banque de France (BDF),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Sécurité Sociale des Mines (CANSSM),</Paragraphe>
+</Item>
+</Liste>
+</Attention>
+</Texte>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=declarationDeces">
+<Source>Secrétariat général pour la modernisation de l'action publique (SGMAP)</Source>
+</LienWeb>
+<FicheLiee ID="F909" audience="Particuliers" type="Fiche d'information">
+<Titre>Déclaration de décès</Titre>
+<Dossier ID="N165">Obsèques et modes de sépulture</Dossier>
+</FicheLiee>
+<Dossier ID="N165">
+<Titre>Obsèques et modes de sépulture</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

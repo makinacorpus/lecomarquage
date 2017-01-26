@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N378" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Pension de réversion</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>La pension de réversion correspond à une partie de la retraite dont bénéficiait ou aurait pu bénéficier l'assuré décédé (salarié ou fonctionnaire). Elle est versée, si certaines conditions sont remplies, au conjoint survivant, aux ex-conjoint(s), ou aux orphelins (si le défunt était fonctionnaire).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-10-16</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N378</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Senior</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N378" type="Dossier">Pension de réversion</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N31161">Décès</SousThemePere>
+<SousDossier ID="N378-1">
+<Titre>Décès d'un salarié (régime général)</Titre><Fiche ID="F13104">Pension de réversion</Fiche>
+<Fiche ID="F2981">Pension d'invalidité de veuve ou de veuf</Fiche>
+</SousDossier>
+<SousDossier ID="N378-2">
+<Titre>Décès d'un agent public</Titre><Fiche ID="F21819">Pension de réversion de l'époux (et/ou ex-époux) d'un fonctionnaire</Fiche>
+<Fiche ID="F21820">Décès d'un fonctionnaire : orphelin</Fiche>
+<Fiche ID="F12394">Décès d'un contractuel : époux, ex-époux, orphelin</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			La pension de réversion correspond à une partie de la retraite dont bénéficiait ou aurait pu bénéficier l'assuré décédé (salarié ou fonctionnaire). Elle est versée, si certaines conditions sont remplies, au conjoint survivant, aux ex-conjoint(s),  ou aux orphelins (si le défunt était fonctionnaire).
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N381" audience="Particuliers">
+<Titre>Retraite des salariés du secteur privé</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N379" audience="Particuliers">
+<Titre>Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R198" type="Centre de contact">
+<Titre>Assurance retraite - 39 60</Titre>
+<Complement>Pour s'informer sur la pension de réversion du régime général</Complement>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source><Texte>
+						
+								<Paragraphe>Pour  s'informer, poser une question sur votre dossier, accéder à des informations personnelles (suivi du dossier, derniers paiements, etc.).</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>39 60</MiseEnEvidence>
+       (ou 
+			09 71 10 39 60 depuis un mobile, une box ou l'étranger)</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Du lundi au vendredi de 8h à 17h</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R24506" type="Local personnalisé sur SP">
+<Titre>Centre d'information, conseil et accueil des salariés (Cicas)</Titre>
+<Complement>Pour s'informer sur la pension de réversion du régime général</Complement>
+<PivotLocal>cicas</PivotLocal>
+<RessourceWeb URL="http://www.agirc-arrco.fr/particuliers/utiles-particuliers/annuaire-des-centres-dinformation-cicas/"/>
+<Source ID="R30725">Agirc-Arrco</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R1392" URL="https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub-bootstrap/files/Guides%20et%20formulaires/demande-retraite-reversion.pdf" numerocerfa="13364*02" autrenumero="S 5136d" type="Formulaire">
+<Titre>Demande de retraite de réversion (activité salariée, agricole, libérale, artisanale, commerciale ou culturelle)</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10692" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12231.do" format="application/pdf" poids="483.4 KB" numerocerfa="12231*04" type="Formulaire">
+<Titre>Fonctionnaire de l'État décédé en activité - Demande de pension de réversion ou d'orphelin</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1393" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11979.do" format="application/pdf" poids="282.9 KB" numerocerfa="11979*06" type="Formulaire">
+<Titre>Fonctionnaire de l'État décédé en retraite - Demande de pension de réversion ou d'orphelin</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15957" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12283.do" numerocerfa="12283*03" type="Formulaire">
+<Titre>Demande de retraite de réversion (employés et clercs de notaires)</Titre>
+<Source ID="R30792">Caisse de retraite et de prévoyance des clercs et employés de notaires</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1990" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10074.do" format="application/pdf" poids="454.3 KB" numerocerfa="10074*07" type="Formulaire">
+<Titre>Demande d'affiliation d'une veuve (veuf) titulaire d'une pension militaire de réversion</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source><NoticeLiee ID="R1683" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50015&amp;cerfaFormulaire=10074" numerocerfa="50015#05">Notice pour la demande d'affiliation d'une(e) veuve (veuf) titulaire d'une pension militaire de réversion</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24548" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14837.do" numerocerfa="14837*01" type="Formulaire">
+<Titre>Demande de pension d'invalidité de veuf ou de veuve - personne relevant du régime agricole (MSA)</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R19594" URL="https://www.lassuranceretraite.fr/portail-info/home/salaries/mes-droits-selon-de-mon-parcours/en-cas-de-deces.html" audience="Particuliers">
+<Titre>Vos droits en cas de décès de l'époux</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R33913" URL="http://www.agirc-arrco.fr/fileadmin/agircarrco/documents/notices/pensions_reversion.pdf" audience="Particuliers" format="application/pdf" poids="175.7 KB">
+<Titre>Guide d'information de la pension complémentaire de réversion</Titre>
+<Source ID="R30725">Agirc-Arrco</Source>
+</PourEnSavoirPlus>
+</Publication>

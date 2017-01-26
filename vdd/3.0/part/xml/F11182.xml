@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11182" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'une main courante et quelle différence avec une plainte ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Déposer une main courante, c'est faire déclarer des faits sans déposer plainte. Il n'y aura pas forcément de poursuites déclenchées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-05-17</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11182</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F11182" type="Fiche Question-réponse">Qu'est-ce qu'une main courante et quelle différence avec une plainte ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Vous pouvez déposer une main courante si vous souhaitez simplement déclarer certains faits vous concernant à la police où à la gendarmerie.</Paragraphe>
+<Paragraphe>Ces faits ne constituent pas forcément une infraction. Ces faits peuvent être :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F11301" type="Fiche Question-réponse" audience="Particuliers">départ de votre époux(se) du domicile</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une non-présentation d'enfant malgré une décision de justice,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des <LienInterne LienPublication="F612" type="Fiche d'information" audience="Particuliers">bruits de voisinage</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Contrairement à une plainte, vous ne souhaitez pas poursuivre l'auteur des faits. Il ne sera pas forcément prévenu du dépôt de la main courante. Aucune enquête ne sera déclenchée. </Paragraphe>
+<Paragraphe>La main courante permet surtout de dater officiellement les faits en question en vue de toute procédure judiciaire ultérieure. Par exemple, dater le départ de votre époux(se) du domicile peut servir en cas de divorce. Toutefois, une main courante ne suffit pas et vous aurez besoin d'autres preuves pour agir en justice (témoignages, constat d'huissier....).</Paragraphe>
+<Paragraphe>Mais si les policiers ou les gendarmes estiment que ces faits constituent une infraction, ils doivent prévenir le procureur qui déclenchera de lui-même des poursuites.</Paragraphe>
+<Paragraphe>Vous pouvez déposer votre main courante au commissariat ou à la brigade de gendarmerie de votre domicile.</Paragraphe><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<Paragraphe>Dans certaines villes, vous pouvez aussi déposer une main courante auprès de la police municipale. Vous pouvez vous renseigner auprès de votre mairie.</Paragraphe><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous déposez une main courante dans une brigade de gendarmerie, la procédure sera appelée <Expression>procès-verbal de renseignement judiciaire</Expression> ou  <Expression>compte-rendu de service</Expression>. La valeur officielle sera la même.</Paragraphe>
+</ANoter><Paragraphe>Il est possible de déposer une main courante longtemps après les faits concernés. Cependant, si vous envisagez des poursuites <LienExterne URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Delais-de-prescription">Les délais de prescription en justice civile</LienExterne>
+
+ultérieures, vous devez respecter le <LienInterne LienPublication="F31982" type="Fiche Question-réponse" audience="Particuliers">délai de prescription</LienInterne>. Le dépôt d'une main courante n'interrompt pas le calcul de ce délai. Par exemple, en cas de délit, vous devez porter plainte 3 ans maximum après les faits même si vous avez déposé une main courante entre temps. </Paragraphe>
+
+</Texte><QuestionReponse ID="F20789" audience="Particuliers">Que faire si on est victime d'une infraction ?</QuestionReponse>
+<QuestionReponse ID="F16862" audience="Particuliers">Peut-on retirer une plainte et quelles en sont les conséquences ?</QuestionReponse>
+<QuestionReponse ID="F1154" audience="Particuliers">Le procureur est-il tenu d'engager des poursuites à la suite d'une plainte ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1971" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un étudiant a-t-il droit au RSA ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Non, le RSA n'est pas ouvert aux étudiants sauf dans certaines conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1971</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N19775">Revenu de solidarité active (RSA)</Niveau>
+<Niveau ID="F1971" type="Fiche Question-réponse">Un étudiant a-t-il droit au RSA ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N19775">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Fiche ID="F19778">RSA - Demandeur de 25 ans ou plus</Fiche>
+<Fiche ID="F15553">RSA parent isolé</Fiche>
+<Fiche ID="F286">RSA jeune actif</Fiche>
+<Fiche ID="F33692">RSA jeunes parents</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Non, le <LienInterne LienPublication="R24554" type="Sigle">RSA</LienInterne> n'est pas ouvert aux étudiants sauf dans certaines conditions. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Étudiant français</Paragraphe>
+</Titre><Tableau>
+<Titre>Situation des étudiants exerçant une activité professionnelle de 18 à plus de 25 ans</Titre>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Situation</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>Autres conditions </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Si vous avez moins de 25 ans </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si vous avez plus de 25 ans </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Stagiaire en alternance </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F286" type="Fiche d'information" audience="Particuliers">RSA jeune actif : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F19778" type="Fiche d'information" audience="Particuliers">RSA - À partir de 25 ans : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Activité antérieure </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avoir travaillé 2 ans à temps plein au cours des 3 ans avant la demande </Paragraphe>
+<Paragraphe>
+<LienInterne LienPublication="F286" type="Fiche d'information" audience="Particuliers">RSA jeune actif : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avoir travaillé 2 ans à temps plein au cours des 3 ans avant la demande </Paragraphe>
+<Paragraphe>
+<LienInterne LienPublication="F19778" type="Fiche d'information" audience="Particuliers">RSA - À partir de 25 ans : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Parent isolé</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>
+<LienInterne LienPublication="F15553" type="Fiche d'information" audience="Particuliers">Parent isolé</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous êtes actuellement en activité, vous pouvez bénéficier de la<LienInterne LienPublication="N31477" type="Dossier" audience="Particuliers"> prime d'activité</LienInterne> sous certaines conditions.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Étudiant étranger</Paragraphe>
+</Titre><Tableau>
+<Titre>Situation des étudiants exerçant une activité professionnelle de 18 à plus de 25 ans</Titre>
+<Colonne largeur="17" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Situation</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>Autres conditions </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Si vous avez moins de 25 ans </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Si vous avez plus de 25 ans </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Stagiaire en alternance </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F286" type="Fiche d'information" audience="Particuliers">RSA jeune actif : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F19778" type="Fiche d'information" audience="Particuliers">RSA - À partir de 25 ans : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Activité antérieure </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avoir travaillé 2 ans à temps plein au cours des 3 ans avant la demande </Paragraphe>
+<Paragraphe>
+<LienInterne LienPublication="F286" type="Fiche d'information" audience="Particuliers">RSA jeune actif : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Avoir travaillé 2 ans à temps plein au cours des 3 ans avant la demande </Paragraphe>
+<Paragraphe>
+<LienInterne LienPublication="F19778" type="Fiche d'information" audience="Particuliers">RSA - À partir de 25 ans : conditions d'attribution</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Parent isolé</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>
+<LienInterne LienPublication="F15553" type="Fiche d'information" audience="Particuliers">Parent isolé</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si vous êtes actuellement en activité, vous pouvez bénéficier de la<LienInterne LienPublication="N31477" type="Dossier" audience="Particuliers"> prime d'activité</LienInterne> sous certaines conditions.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><ServiceEnLigne ID="R558" URL="http://www.caf.fr/aides-et-services/les-services-en-ligne/estimer-vos-droits" type="Simulateur">
+<Titre>Simulateur en ligne Caf : pour savoir si vous avez droit au RSA et estimer son montant</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R795" URL="http://social-sante.gouv.fr/affaires-sociales/lutte-contre-l-exclusion/droits-et-aides/le-revenu-de-solidarite-active-rsa/" audience="Particuliers">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R24554" type="Sigle">
+<Titre>RSA</Titre>
+<Texte>
+<Paragraphe>Revenu de solidarité active</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

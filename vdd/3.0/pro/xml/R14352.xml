@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14352" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de mise sur le marché d'un agent d'ensilage</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Demande de mise sur le marché d'un agent d'ensilage - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14352</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23662">Obligations en matière d'agriculture</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14352" type="Formulaire">Demande de mise sur le marché d'un agent d'ensilage</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11886*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11886.do" format="application/pdf" poids="28.6 KB">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb><NoticeLiee ID="R13572" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11886*01&amp;cerfaNotice=50849%2301" numerocerfa="50849#01" format="application/pdf" poids="47.8 KB">Guide pour la constitution des dossiers de demande d'homologation des agents d'ensilage</NoticeLiee>
+<NoticeLiee ID="R18201" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11886*01&amp;cerfaNotice=50847%2301" numerocerfa="50848#01" format="application/pdf" poids="23.6 KB">Notice explicative pour la constitution d'un dossier de demande d'homologation des agents d'ensilage</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11887*01">
+<Titre>Demande de mise sur le marché d'un agent d'ensilage - fiche complémentaire (substances actives et autres constituants)</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11887.do" format="application/pdf" poids="16.1 KB"/>
+</ServiceEnLigneAnnexe><OuSAdresser ID="R16439" type="Local personnalisé sur SP">
+<Titre>Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF)</Titre>
+<PivotLocal>draf</PivotLocal>
+<RessourceWeb URL="http://agriculture.gouv.fr/services-deconcentres"/>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</OuSAdresser>
+
+<Dossier ID="N23662">
+<Titre>Obligations en matière d'agriculture</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

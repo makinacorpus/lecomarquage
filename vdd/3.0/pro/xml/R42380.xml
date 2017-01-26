@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42380" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration préalable en ligne de détachement pour une entreprise étrangère - Téléservice SIPSI (système d'information sur les prestations de service internationales)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Déclaration préalable en ligne de détachement pour une entreprise étrangère - Téléservice SIPSI (système d'information sur les prestations de service internationales) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-21</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42380</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N16992">Recrutements spécifiques</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42380" type="Téléservice">Déclaration préalable en ligne de détachement pour une entreprise étrangère - Téléservice SIPSI (système d'information sur les prestations de service internationales)</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Permet à un employeur établi à l'étranger de transmettre une déclaration de détachement à l'unité territoriale de la Direccte du lieu où doit être effectuée la prestation. Cette déclaration doit être effectuée avant le début de la prestation.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.sipsi.travail.gouv.fr/">
+<Source>Ministère en charge du travail</Source>
+</LienWeb>
+<FicheLiee ID="F32160" audience="Professionnels" type="Fiche d'information">
+<Titre>Détachement temporaire de salariés par une entreprise étrangère</Titre>
+<Dossier ID="N16992">Recrutements spécifiques</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

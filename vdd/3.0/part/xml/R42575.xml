@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42575" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'exercice conjoint de l'autorité parentale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Demande d'exercice conjoint de l'autorité parentale - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-25</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42575</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N143">Union libre</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42575" type="Téléservice">Demande d'exercice conjoint de l'autorité parentale</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12785*02</NumeroCerfa>
+<Texte><Paragraphe>Les parents de l'enfant doivent faire ensemble la déclaration d'exercice conjoint de l'autorité parentale :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>s'ils ne sont pas mariés et que le père reconnaît son enfant après l'âge d'1 an,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou en cas d'adoption simple de l'enfant par la personne avec laquelle vit sa mère ou son père. </Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12785">
+<Source>Ministère en charge de la justice</Source>
+</LienWeb><NoticeLiee ID="R2846" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51142&amp;cerfaFormulaire=12785" numerocerfa="51143#02">Notice de déclaration conjointe d'exercice en commun de l'autorité parentale</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R2000" audience="Particuliers" type="Formulaire">
+<Titre>Demande d'exercice conjoint de l'autorité parentale</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F942" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Enfant reconnu tardivement : quelles conséquences sur l'autorité parentale ?</Titre>
+<Dossier ID="N135">Autorité parentale</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

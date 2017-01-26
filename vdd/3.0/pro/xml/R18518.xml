@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18518" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de renseignement tarifaire contraignant (RTC)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>Demande de renseignement tarifaire contraignant (RTC) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-08</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18518</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N22281">Importation - Exportation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18518" type="Formulaire">Demande de renseignement tarifaire contraignant (RTC)</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11026*04</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11026.do" format="application/force-download" poids="236.0 KB">
+<Source>Ministère en charge des finances</Source>
+</LienWeb><NoticeLiee ID="R10711" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11026&amp;&amp;cerfaNotice=51187" numerocerfa="51187#04" format="application/pdf" poids="333.1 KB">Notice d'information sur la demande de renseignement tarifaire contraignant (RTC)</NoticeLiee>
+
+<FicheLiee ID="F23676" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Formalités douanières</Titre>
+<Dossier ID="N22281">Importation - Exportation</Dossier>
+</FicheLiee><OuSAdresser ID="R16283" type="Centre de contact">
+<Titre>Infos Douane Service</Titre><Texte>
+						
+								<Paragraphe>
+			Pour obtenir des informations douanières concernant l'exportation, l'importation, les formulaires douaniers, les transports et le passage aux frontières, les franchises...
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 20 44 44</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi de 8h30 à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Hors métropole ou depuis l'étranger, composer le +33 1 72 40 78 50
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+        Accès au <LienExterne URL="http://www.douane.gouv.fr/contact-et-assistance/contacter-info-douane-service">formulaire de contact</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R22333" type="Local personnalisable">
+<Titre>Services douaniers en France et en Union européenne (recette de douane, bureau de garantie, direction régionale...)</Titre>
+<PivotLocal>douane_metropole</PivotLocal>
+<RessourceWeb URL="https://pro.douane.gouv.fr/rush/API_Service.asp?sid=&amp;app="/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+</ServiceComplementaire>

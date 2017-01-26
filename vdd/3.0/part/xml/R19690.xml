@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19690" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Simulateur de calcul de la pension de retraite du fonctionnaire d'Etat</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Simulateur de calcul de la pension de retraite du fonctionnaire d'Etat - Simulateur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-14</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19690</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19690" type="Simulateur">Simulateur de calcul de la pension de retraite du fonctionnaire d'Etat</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Permet aux fonctionnaires de la fonction publique d'État d'estimer ses droits à pension de retraite à partir des renseignements apportés dans le formulaire de saisie. </Paragraphe>
+<Paragraphe>Le montant affiché n'a qu'une valeur indicative. </Paragraphe>
+<Paragraphe>Il ne tient pas compte des cotisations sociales.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://simuretraite.finances.gouv.fr/CalcCivile/">
+<Source>Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F21142" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite du fonctionnaire : calcul de la pension de retraite de base</Titre>
+<Dossier ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

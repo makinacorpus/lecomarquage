@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F130" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on désigner une personne pour s'occuper de son enfant après son décès ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>décès parent désigner un tuteur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F130</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181863&amp;cidTexte=LEGITEXT000006070721, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031322869&amp;cidTexte=LEGITEXT000006070721, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031322937&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16265</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N16265">Préparer sa succession : testament</Niveau>
+<Niveau ID="F130" type="Fiche Question-réponse">Peut-on désigner une personne pour s'occuper de son enfant après son décès ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20090">Succession</SousThemePere><DossierPere ID="N16265">
+<Titre>Préparer sa succession : testament</Titre>
+<Fiche ID="F770">Établir un testament</Fiche>
+<Fiche ID="F16274">Testament-partage</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, vous pouvez désigner une personne de votre choix (un tuteur) afin qu'après votre décès, elle s'occupe de votre enfant jusqu'à sa majorité.</Paragraphe>
+<Paragraphe>Vous pouvez désigner le <LienIntra LienID="R38682" type="Définition de glossaire">tuteur</LienIntra> par <LienInterne LienPublication="F770" type="Fiche d'information" audience="Particuliers">testament</LienInterne> ou par une déclaration spéciale devant notaire</Paragraphe>
+<Paragraphe>En cas de décès, la situation varie selon si l'enfant a ses 2 parents ou un seul.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>L'enfant a ses 2 parents</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Décès d'un seul des parents </Paragraphe>
+</Titre><Paragraphe>Si un seul des parents décède, l'autre parent devient automatiquement <LienIntra LienID="R44127" type="Définition de glossaire">administrateur légal</LienIntra>.</Paragraphe>
+<Paragraphe>S'il craint de décéder avant la majorité de son enfant, il peut désigner quelqu'un pour s'en occuper après son décès, par testament ou déclaration spéciale devant notaire.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Décès des 2 parents lors du même événement</Paragraphe>
+</Titre><Paragraphe>En cas de décès des 2 parents lors du même événement, une <LienInterne LienPublication="F2139" type="Fiche d'information" audience="Particuliers">tutelle</LienInterne> est ouverte.</Paragraphe>
+<Paragraphe>Si les parents ont désigné un tuteur (en principe, ils se sont mis d'accord pour la même personne), ce choix s'impose au <LienIntra LienID="R12897" type="Définition de glossaire">conseil de famille</LienIntra> sauf s'il est contraire à l'intérêt de l'enfant.</Paragraphe>
+<Paragraphe>Toutefois, la personne désignée par les parents n'est pas obligée d'accepter la tutelle. Il est donc préférable d'avoir eu son accord au préalable.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'enfant n'a qu'un seul parent</Paragraphe>
+</Titre><Paragraphe>En cas de décès du parent, une <LienInterne LienPublication="F2139" type="Fiche d'information" audience="Particuliers">tutelle</LienInterne> est ouverte.</Paragraphe>
+<Paragraphe>Si le parent a désigné un tuteur, ce choix s'impose au <LienIntra LienID="R12897" type="Définition de glossaire">conseil de famille</LienIntra> sauf s'il est contraire à l'intérêt de l'enfant.</Paragraphe>
+<Paragraphe>Toutefois, la personne désignée par le parent n'est pas obligée d'accepter la tutelle. Il est donc préférable d'avoir eu son accord au préalable.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N16265" audience="Particuliers">
+<Titre>Préparer sa succession : testament</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N173" audience="Particuliers">
+<Titre>Héritage : ordre et droits des héritiers</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N171" audience="Particuliers">
+<Titre>Règlement d'une succession</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31160" audience="Particuliers">
+<Titre>Droits de succession et de donation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F2139" audience="Particuliers">
+<Titre>Tutelle d'un mineur</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181863&amp;cidTexte=LEGITEXT000006070721" ID="R2180">
+<Titre>Code civil : articles 403 à 408-1</Titre>
+<Complement>Désignation du tuteur par testament ou déclaration spéciale devant notaire (article 403)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031322869&amp;cidTexte=LEGITEXT000006070721" ID="R2836">
+<Titre>Code civil : articles 382 à 386</Titre>
+<Complement>Administration légale</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031322937&amp;cidTexte=LEGITEXT000006070721" ID="R44111">
+<Titre>Code civil : articles 387 à 387-6</Titre>
+<Complement>Intervention du juge des tutelles</Complement>
+</Reference>
+<Definition ID="R38682">
+<Titre>Tuteur</Titre>
+<Texte>
+				<Paragraphe>Personne désignée pour exercer la tutelle</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R44127">
+<Titre>Administration légale</Titre>
+<Texte>
+				<Paragraphe>Permet aux parents d'administrer les biens de leurs enfants mineurs. Si l'autorité parentale est exercée en commun par les 2 parents, chacun d'entre eux est administrateur légal. Dans les autres cas, l'administration légale appartient à celui des parents qui exerce l'autorité parentale.</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031322869&amp;cidTexte=LEGITEXT000006070721" ID="R2836">
+<Titre>Code civil : articles 382 à 386</Titre>
+</Reference>
+</Definition>
+<Definition ID="R12897">
+<Titre>Conseil de famille</Titre>
+<Texte>
+				<Paragraphe>Assemblée de parents ou de toutes personnes qualifiées, chargée sous la présidence du juge des tutelles, d'autoriser certains actes importants accomplis au nom de la personne sous tutelle</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F17701" audience="Particuliers">Qu'appelle-t-on les frais de notaire ?</QuestionReponse>
+<QuestionReponse ID="F15009" audience="Particuliers">À quoi sert le Fichier central des dispositions de dernières volontés (FCDDV) ?</QuestionReponse>
+<QuestionReponse ID="F16271" audience="Particuliers">Peut-on désigner une personne pour gérer sa future succession ?</QuestionReponse>
+<CommentFaireSi ID="F17649">J'organise ma succession</CommentFaireSi>
+</Publication>

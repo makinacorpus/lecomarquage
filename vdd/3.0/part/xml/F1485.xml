@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1485" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Déroulement d'une affaire devant le tribunal correctionnel</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le tribunal correctionnel juge les délits. Les peines de prison prononcées peuvent être aménagées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-09-27</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1485</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024459009&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024459009&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181748&amp;cidTexte=LEGITEXT000006070719, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167487&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F1485" type="Fiche d'information">Déroulement d'une affaire devant le tribunal correctionnel</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Déroulement d'un procès</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le tribunal correctionnel juge les délits. Certaines affaires simples peuvent être traitées par un juge unique. Les peines de prison prononcées peuvent être aménagées.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Saisine du tribunal</Paragraphe>
+</Titre><Paragraphe>Le tribunal correctionnel est saisi via :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une ordonnance de renvoi du juge d'instruction dans le cadre d'une <LienInterne LienPublication="F1456" type="Fiche d'information" audience="Particuliers">information judiciaire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F1455" type="Fiche d'information" audience="Particuliers">citation directe</LienInterne> par la victime elle-même,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une convocation par officier de policier judiciaire, convocation directement remise par la police ou la gendarmerie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> une procédure de <LienInterne LienPublication="F32129" type="Fiche Question-réponse" audience="Particuliers">comparution immédiate</LienInterne> lancée par le procureur de la République,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une <LienInterne LienPublication="F32129" type="Fiche Question-réponse" audience="Particuliers">convocation par procès-verbal</LienInterne> délivrée également par le procureur.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le procureur peut aussi proposer une <LienInterne LienPublication="F10409" type="Fiche d'information" audience="Particuliers">procédure de comparution sur reconnaissance préalable de culpabilité</LienInterne>.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comparution du prévenu</Paragraphe>
+</Titre><Paragraphe>Le prévenu (la personne jugée) doit être présent ou représenté à l'audience. La procédure diffère selon que le prévenu soit ou non au courant du procès.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Prévenu informé du procès</Paragraphe>
+</Titre><Paragraphe>S'il n'est pas amené menotté par les forces de l'ordre, le prévenu (l'auteur présumé de l'infraction) doit se présenter en personne à l'audience. </Paragraphe>
+<Paragraphe>Le prévenu est supposé être au courant de son procès s'il a bien reçu sa convocation.</Paragraphe>
+<Paragraphe>Si le prévenu est absent, il peut se faire représenter par son avocat. Il doit alors adresser une lettre au tribunal en ce sens. Mais si le tribunal estime nécessaire la comparution personnelle du prévenu, il peut renvoyer l'affaire à une date ultérieure.</Paragraphe>
+<Paragraphe>Si le prévenu est absent et non excusé, l'affaire sera traitée par un jugement <MiseEnEvidence>contradictoire à signifier</MiseEnEvidence>. C'est-à-dire que le procès aura lieu sans le prévenu et que la décision du tribunal lui sera <LienIntra LienID="R10915" type="Définition de glossaire">signifiée</LienIntra> ultérieurement. Cette disposition s'applique que l'avocat du prévenu se présente ou non devant le tribunal.  Le tribunal peut aussi renvoyer l'affaire à une date ultérieure.</Paragraphe>
+<Paragraphe>En cas d'absence injustifiée, si la peine encourue est supérieure à deux ans, le tribunal peut renvoyer l'affaire à une date ultérieure. Dans ce cas, il peut délivrer un mandat d'arrêt ou d'amener contre le prévenu pour permettre son jugement en personne.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Non informé</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Son avocat est présent</Paragraphe>
+</Titre><Paragraphe>Le prévenu peut ne pas avoir eu connaissance de sa convocation pour plusieurs raisons : erreur d'adresse ou parce qu'il est en fuite.</Paragraphe>
+<Paragraphe>Si l'avocat du prévenu se présente quand même lors de l'audience prévue, le jugement sera  un jugement contradictoire à signifier. L'avocat défendra alors son client comme dans un procès normal. Le jugement est <LienIntra LienID="R10915" type="Définition de glossaire">signifié</LienIntra> à la personne concernée.</Paragraphe>
+<Paragraphe>Le tribunal peut aussi renvoyer l'affaire à une date ultérieure, même si l'avocat est présent. Si la peine encourue est supérieure à 2 ans, le tribunal peut délivrer un mandat d'arrêt ou d'amener contre le prévenu pour permettre son jugement en personne. Le prévenu sera alors amené de force devant le tribunal.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Son avocat est absent</Paragraphe>
+</Titre><Paragraphe>Le procès peut avoir lieu à la date prévue et le jugement rendu est un jugement <MiseEnEvidence>par défaut</MiseEnEvidence>. Le tribunal rendra une décision mais le prévenu pourra y faire opposition, c'est-à-dire faire rejuger l'affaire.</Paragraphe>
+<Paragraphe>L'opposition se fait par une déclaration au procureur de la République dans les <MiseEnEvidence>10 jours</MiseEnEvidence> de la prise de connaissance de la décision de justice (par <LienIntra LienID="R10915" type="Définition de glossaire">signification</LienIntra>, par exemple).</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>L'affaire sera lors à nouveau jugée par le même tribunal.</Paragraphe>
+<Paragraphe>Le tribunal peut aussi renvoyer l'affaire à une date ultérieure, même si l'avocat est présent. Si la peine encourue est supérieure à 2 ans, le tribunal peut délivrer un mandat d'arrêt ou d'amener contre le prévenu pour permettre son jugement en personne. Le prévenu sera alors amené de force devant le tribunal.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Procès</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Juge unique</Paragraphe>
+</Titre><Paragraphe>Dans les affaires les plus simples, un seul juge est chargé du procès. </Paragraphe>
+<Paragraphe>C'est notamment le cas pour les infractions au code de la route.</Paragraphe>
+<Paragraphe>Dans les autres cas, l'affaire sera jugée par 3 juges : un président et 2 assesseurs.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Débats</Paragraphe>
+</Titre><Paragraphe>Le prévenu, présent à l'audience, peut être assisté par son avocat.</Paragraphe>
+<Paragraphe>Le président l'informe de son droit de se taire et à l'assistance par un interprète. Si le prévenu est sourd, un interprète en langue des signes est nommé d'office.</Paragraphe>
+<Paragraphe>La victime doit se présenter personnellement ou se faire représenter par son avocat.</Paragraphe>
+<Paragraphe>L'audience est publique, sauf décision contraire du président du tribunal correctionnel.</Paragraphe>
+<Paragraphe>Elle peut se dérouler sur plusieurs jours.</Paragraphe>
+<Paragraphe>Le président interroge d'abord le prévenu, les <LienInterne LienPublication="F1489" type="Fiche d'information" audience="Particuliers">témoins</LienInterne> et éventuellement les experts.</Paragraphe>
+<Paragraphe>À l'audience, la parole est ensuite donnée à la victime (ou à son avocat), puis au procureur de la République, enfin au prévenu et à son avocat.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Supplément d'information</Paragraphe>
+</Titre><Paragraphe>Le tribunal, d'office ou à la demande d'une partie, peut faire procéder à un supplément d'information (une enquête) ou à une expertise, si ces actes sont justifiés. Le procès est alors reporté à une date ultérieure.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décision</Paragraphe>
+</Titre><Paragraphe>Le jugement du tribunal est rendu à la fin des débats ou à une date ultérieure annoncée par le président du tribunal. On parle alors de <Expression>jugement mis en délibéré</Expression>.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanctions pénales</Paragraphe>
+</Titre><Paragraphe>Si la personne est condamnée, le tribunal peut prononcer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F14148" type="Fiche d'information" audience="Particuliers">peine de prison</LienInterne> ou de <LienInterne LienPublication="F1407" type="Fiche d'information" audience="Particuliers">travaux d'intérêt général</LienInterne> ou un stage de citoyenneté,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et/ou une <LienInterne LienPublication="F32803" type="Fiche d'information" audience="Particuliers">amende</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et/ou <LienInterne LienPublication="F1406" type="Fiche d'information" audience="Particuliers">des peines complémentaires</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Un mandat de dépôt peut être délivré si la peine prononcée est supérieure à 1 an ferme. La personne part alors directement en prison.</Paragraphe>
+<Paragraphe>Si une peine de prison ferme est prononcée, cette peine peut être aménagée. En fonction de la personnalité et de la situation du condamné, l'aménagement de la peine doit être favorisé. Si la personne condamnée ne fait pas appel, les possibilités d'aménagement varient en fonction de la peine de prison prononcée.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Inférieure à 2 ans</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Sans mandat de dépôt</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Le tribunal aménage lui-même la peine</Paragraphe>
+</Titre><Paragraphe>La personne condamnée reste libre à la fin du procès.</Paragraphe>
+<Paragraphe>Le tribunal peut directement prononcer un aménagement de peine :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un placement en semi-liberté : la personne partage son temps entre la prison et l'extérieur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un placement à l'extérieur : la personne effectue des activités en liberté mais sous le contrôle de l'administration pénitentiaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le port d'un bracelet électronique : la personne doit être chez elle à certaines heures,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un fractionnement de la peine de prison : elle sera effectuée en plusieurs fois.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La personne condamnée sera convoquée ultérieurement par le juge de l'application des peines pour fixer les détails de cet aménagement de peine.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le tribunal peut condamner la personne, mais reporter sa décision sur la peine pour avoir plus d'information sur la situation et la personnalité du condamné.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Le tribunal n'a pas aménagé la peine</Paragraphe>
+</Titre><Paragraphe>La personne condamnée reste libre mais sera convoquée dans les 30 jours devant le juge de l'application des peines.</Paragraphe>
+<Paragraphe>Ce juge pourra remplacer la peine de prison par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des travaux d'intérêt général (TIG) ou des jours-amende  (amende qui varie en fonction de la peine prononcée), Mais seulement si la peine est inférieure à 6 mois,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>un placement en semi-liberté : la personne partage son temps entre la prison et l'extérieur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un placement à l'extérieur : la personne effectue des activités en liberté mais sous le contrôle de l'administration pénitentiaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le port d'un bracelet électronique : la personne doit être chez elle à certaines heures,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un fractionnement de la peine de prison : elle sera effectuée en plusieurs fois.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le tribunal peut condamner la personne, mais reporter sa décision sur la peine pour avoir plus d'information sur la situation et la personnalité du condamné.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Avec mandat de dépôt</Paragraphe>
+</Titre><Paragraphe>La personne condamnée part directement en prison mais peut saisir le juge de l'application des peines dès son arrivée en prison.</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Ce juge pourra remplacer la peine de prison, en fonction du temps restant à effectuer, par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des travaux d'intérêt général (TIG) ou des jours-amende  (amende qui varie en fonction de la peine prononcée), Mais seulement si la peine est inférieure à 6 mois,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>un placement en semi-liberté : la personne partage son temps entre la prison et l'extérieur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un placement à l'extérieur : la personne effectue des activités en liberté mais sous le contrôle de l'administration pénitentiaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le port d'un bracelet électronique : la personne doit être chez elle à certaines heures,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un fractionnement de la peine de prison : elle sera effectuée en plusieurs fois.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le tribunal peut condamner la personne, mais reporter sa décision sur la peine pour avoir plus d'information sur la situation et la personnalité du condamné.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Supérieure à 2 ans</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Sans mandat de dépôt</Paragraphe>
+</Titre><Paragraphe>La personne ressort libre du tribunal. Le procureur pourra l'envoyer en prison ultérieurement. </Paragraphe>
+<Paragraphe>Il ne peut pas y avoir d'aménagement direct de peine.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le tribunal peut condamner la personne, mais reporter sa décision sur la peine pour avoir plus d'information sur la situation et la personnalité du condamné.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Avec mandat de dépôt</Paragraphe>
+</Titre><Paragraphe>La personne part directement en prison. </Paragraphe>
+<Paragraphe>Il ne peut pas y avoir d'aménagement direct de peine.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le tribunal peut condamner la personne, mais reporter sa décision sur la peine pour avoir plus d'information sur la situation et la personnalité du condamné.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le tribunal peut aussi reconnaître le prévenu coupable mais, selon les circonstances, le dispenser de peine. Il n'ira pas en prison et n'aura pas à payer d'amende.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Indemnisation de la victime</Paragraphe>
+</Titre><Paragraphe>Le tribunal peut aussi fixer des <LienIntra LienID="R12532" type="Définition de glossaire">dommages-intérêts</LienIntra> que devra payer le condamné à la victime. </Paragraphe>
+<Paragraphe>Ces dommages-intérêts sont dus même en cas d'aménagement de peine.</Paragraphe>
+<Paragraphe>Le jugement a valeur de <LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra> : il permettra à la victime d'avoir recours à des <LienInterne LienPublication="F1779" type="Fiche d'information" audience="Particuliers">procédures d'exécution</LienInterne> si la partie condamnée ne s'exécute pas spontanément.</Paragraphe>
+<Paragraphe>Le tribunal peut aussi reconnaître le prévenu coupable mais, estimant acquis son reclassement dans la société, le dispenser de peine.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Appel</Paragraphe>
+</Titre><Paragraphe>Chaque partie peut faire appel par déclaration au <LienIntra LienID="R12700" type="Définition de glossaire">greffe</LienIntra> du tribunal qui a rendu la décision contestée, dans un délai de <MiseEnEvidence>10 jours</MiseEnEvidence> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à partir du jugement, si la partie était présente ou représentée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à partir de la <LienIntra LienID="R10915" type="Définition de glossaire">signification</LienIntra> , pour un prévenu dans le cas d'un jugement contradictoire à signifier.</Paragraphe>
+</Item>
+</Liste><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>L'affaire est alors jugée une seconde fois, mais par un tribunal différent : la <LienInterne LienPublication="F2224" type="Fiche avec liens externes" audience="Particuliers">cour d'appel</LienInterne>.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1489" audience="Particuliers">
+<Titre>Procès pénal : audition des témoins</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024459009&amp;cidTexte=LEGITEXT000006071154" ID="R37120">
+<Titre>Code de procédure pénale : articles 398 à 494-1</Titre>
+<Complement>Déroulement d'un procès devant le tribunal correctionnel</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000024459009&amp;cidTexte=LEGITEXT000006071154" ID="R16648">
+<Titre>Code de procédure pénale : articles 398 à 399</Titre>
+<Complement>Composition du tribunal correctionnel</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181748&amp;cidTexte=LEGITEXT000006070719" ID="R36190">
+<Titre>Code pénal : articles 132-54 à 132-57</Titre>
+<Complement>Aménagement en TIG</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167487&amp;cidTexte=LEGITEXT000006071154" ID="R16866">
+<Titre>Code de procédure pénale : articles 496 à 509</Titre>
+<Complement>Droit d'appel</Complement>
+</Reference>
+<Definition ID="R1056">
+<Titre>Titre exécutoire</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant au créancier d'obtenir le recouvrement forcé de sa créance (saisie des biens)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12700">
+<Titre>Greffe</Titre>
+<Texte>
+				<Paragraphe>Service d'un tribunal composé de fonctionnaires  qui assistent les magistrats dans leur mission</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12532">
+<Titre>Dommages-intérêts</Titre>
+<Texte>
+				<Paragraphe>Somme d'argent destinée à réparer le préjudice subi</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10915">
+<Titre>Signification</Titre>
+<Texte>
+				<Paragraphe>Acte par lequel une partie informe son adversaire d'un acte ou d'une décision de justice par l'intermédiaire d'un huissier de justice</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F16862" audience="Particuliers">Peut-on retirer une plainte et quelles en sont les conséquences ?</QuestionReponse>
+<QuestionReponse ID="F21088" audience="Particuliers">Qu'est-ce qu'une QPC (question prioritaire de constitutionnalité) ?</QuestionReponse>
+<QuestionReponse ID="F32129" audience="Particuliers">Qu'est-ce qu'une comparution immédiate ?</QuestionReponse>
+</Publication>

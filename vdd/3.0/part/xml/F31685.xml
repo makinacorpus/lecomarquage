@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31685" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Diagnostic immobilier : état de l'installation d'assainissement non collectif</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Lorsqu'un logement n'est pas raccordé au réseau public de collecte des eaux usées, il doit être équipé d'une installation d'assainissement non collectif autonome. Cette installation doit faire l'objet d'un contrôle effectué par la commune. Ce contrôle donne lieu à un diagnostic. En cas de vente, des démarches doivent être accomplies à la fois par le vendeur et par l'acquéreur pour vérifier la bonne conformité de l'installation et, si besoin, engager des travaux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-18</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31685</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025835036</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20591</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20591">Diagnostics immobiliers</Niveau>
+<Niveau ID="F31685" type="Fiche d'information">Diagnostic immobilier : état de l'installation d'assainissement non collectif</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N323">Protection et sécurité de l'habitat</SousThemePere><DossierPere ID="N20591">
+<Titre>Diagnostics immobiliers</Titre>
+<Fiche ID="F16096">Diagnostic de performance énergétique</Fiche>
+<Fiche ID="F1142">Constat de risque d'exposition au plomb</Fiche>
+<Fiche ID="F742">État d'amiante</Fiche>
+<Fiche ID="F3150">État relatif à la présence de termites</Fiche>
+<Fiche ID="F17337">État de l'installation intérieure de gaz</Fiche>
+<Fiche ID="F18692">État de l'installation intérieure d'électricité</Fiche>
+<Fiche ID="F31685">État de l'installation d'assainissement non collectif</Fiche>
+<Fiche ID="F12239">État des risques naturels, miniers et technologiques</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Lorsqu'un logement n'est pas raccordé au réseau public de collecte des eaux usées, il doit être équipé d'une installation d'assainissement non collectif autonome. Cette installation doit faire l'objet d'un contrôle effectué par la commune. Ce contrôle donne lieu à un diagnostic. En cas de vente, des démarches doivent être accomplies à la fois par le vendeur et par l'acquéreur pour vérifier la bonne conformité de l'installation et, si besoin, engager des travaux.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>L'état d'installation d'assainissement non collectif est un diagnostic qui permet d'informer l'acquéreur de la conformité ou non de l'installation avec la réglementation.</Paragraphe>
+<Paragraphe>Le vendeur doit annexer ce diagnostic au sein d'un <LienInterne LienPublication="F10798" type="Fiche Question-réponse" audience="Particuliers">dossier de diagnostic technique (DDT)</LienInterne> et le remettre à l'acquéreur lors de la signature de la <LienInterne LienPublication="F2965" type="Fiche d'information" audience="Particuliers">promesse de vente</LienInterne> ou de <LienInterne LienPublication="F2962" type="Fiche d'information" audience="Particuliers">l'acte de vente</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Logements concernés</Paragraphe>
+</Titre><Paragraphe>L'obligation de faire réaliser un état de l'installation concerne les maisons  et immeubles non raccordés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit parce qu'il n'existe pas encore de réseau de collecte des eaux usées, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit parce que le réseau ne peut pas se faire pour des raisons techniques.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Le vendeur doit contacter le service public d'assainissement non collectif (SPANC) afin de convenir d'un rendez-vous pour faire effectuer le contrôle. Les coordonnées du SPANC sont disponibles en mairie.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contenu du diagnostic</Paragraphe>
+</Titre><Paragraphe>Le SPANC contrôle l'installation et délivre un diagnostic en précisant si elle présente ou non :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> des dysfonctionnements</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et/ou des risques pour la santé ou l'environnement.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de problèmes constatés, des travaux de mise en conformité de l'installation sont nécessaires.</Paragraphe>
+<Paragraphe>Ces travaux de mise en conformité de l'installation sont à la charge du vendeur. Ce dernier peut néanmoins décider de ne pas les faire. Dans ce cas, il en informe le futur acquéreur qui décidera ou non d'acquérir le bien en l'état. Les travaux peuvent alors faire partie de la négociation financière. Dans tous les cas, ils devront être réalisés au plus tard 1 an après la signature de l'acte de vente.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de validité</Paragraphe>
+</Titre><Paragraphe>Le diagnostic doit dater de moins de 3 ans au moment de la signature de la promesse de vente ou de l'acte de vente.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025835036" ID="R43693">
+<Titre>Arrêté du 27 avril 2012 relatif aux modalités de l'exécution de la mission de contrôle des installations d'assainissement non collectif</Titre>
+</Reference>
+<QuestionReponse ID="F10798" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de vente ?</QuestionReponse>
+<QuestionReponse ID="F447" audience="Particuliers">Quelles sont les règles en matière d'assainissement des eaux usées ?</QuestionReponse>
+<QuestionReponse ID="F17376" audience="Particuliers">Où trouver un professionnel certifié pour réaliser les diagnostics immobiliers ?</QuestionReponse>
+<CommentFaireSi ID="F15913">J'achète un logement</CommentFaireSi>
+
+</Publication>

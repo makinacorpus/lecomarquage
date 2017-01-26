@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2076" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Notification de contrat d'engagement de service civique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Notification de contrat d'engagement de service civique - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-23</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2076</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N22150">Bénévoles, volontaires et salariés d'une association</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2076" type="Formulaire">Notification de contrat d'engagement de service civique</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Texte><Paragraphe>Permet de déclencher le versement des contributions de l'État aux charges relatives à un engagement de service civique. Doit être adressé à la délégation régionale de l'Agence de services et de paiement (ASP) correspondant à la structure d'accueil du volontaire.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.service-civique.gouv.fr/uploads/content/files/5491acc1214e8ed4cc8decd955cb819bee48e9ed.pdf" format="pdf" poids="540.5 KB">
+<Source>Agence du service civique</Source>
+</LienWeb>
+<FicheLiee ID="F15854" audience="Associations" type="Fiche d'information">
+<Titre>Agrément de service civique</Titre>
+<Dossier ID="N22150">Bénévoles, volontaires et salariés d'une association</Dossier>
+</FicheLiee><OuSAdresser ID="R16228" type="Local personnalisable">
+<Titre>Agence de services et de paiement (ASP), délégations régionales</Titre>
+<PivotLocal>asp</PivotLocal>
+<RessourceWeb URL="http://www.asp-public.fr"/>
+<Source ID="R30795">Agence de services et de paiement (ASP)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

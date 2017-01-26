@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18914" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Permis de conduire des bateaux de plaisance à moteur : demande d'inscription à une extension</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs, Secteurs d'activité</dc:subject>
+<dc:description>Permet de s'inscrire au permis plaisance avec extension "hauturière" ou "grande plaisance fluviale" (appelée aussi "grande plaisance eaux intérieures"). Remplace les formulaires cerfa 11328*01, cerfa 11331*01, cerfa 11182*02</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-19</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18914</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N550">Permis bateau et navigation de plaisance</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18914" type="Formulaire">Permis de conduire des bateaux de plaisance à moteur : demande d'inscription à une extension</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14680*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet de s'inscrire au permis plaisance avec extension "hauturière" ou "grande plaisance fluviale" (appelée aussi "grande plaisance eaux intérieures").
+Remplace les formulaires cerfa 11328*01, cerfa 11331*01, cerfa 11182*02</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Vous devez adresser votre dossier et le cerfa 14680*01 au service instructeur de votre lieu de résidence :</Paragraphe>
+<Paragraphe>- pour la Métropole à la Délégation à la mer et au littoral (ancienne direction des affaires maritimes) ;</Paragraphe>
+<Paragraphe>- pour l'Outre-Mer au service pour le permis plaisance et l'immatriculation d'un navire.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14680.do" format="application/pdf" poids="223.6 KB">
+<Source>Ministère en charge des transports</Source>
+</LienWeb>
+<FicheLiee ID="F14023" audience="Particuliers" type="Fiche d'information">
+<Titre>Extension grande plaisance du permis bateau (plaisance) eaux intérieures</Titre>
+<Dossier ID="N550">Permis bateau et navigation de plaisance</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24503" audience="Professionnels" type="Fiche d'information">
+<Titre>Immatriculation des navires de commerce et de plaisance professionnelle</Titre>
+<Dossier ID="N18569">Aviation et transport maritime</Dossier>
+</FicheLiee>
+<FicheLiee ID="F18989" audience="Particuliers" type="Fiche d'information">
+<Titre>Permis bateau - Permis plaisance option côtière - Extension hauturière</Titre>
+<Dossier ID="N550">Permis bateau et navigation de plaisance</Dossier>
+</FicheLiee><OuSAdresser ID="R38146" type="Local personnalisable">
+<Titre>Délégation à la mer et au littoral (ancienne direction des affaires maritimes)</Titre>
+<PivotLocal>dml</PivotLocal>
+<RessourceWeb URL="http://www.developpement-durable.gouv.fr/Coordonnees-des-services.html"/>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</OuSAdresser>
+<OuSAdresser ID="R18209" type="Local">
+<Titre>Service pour le permis plaisance et l'immatriculation d'un navire Outre-mer</Titre>
+<RessourceWeb URL="http://www.developpement-durable.gouv.fr/Coordonnees-des-services-en-Outre.html"/>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</OuSAdresser>
+
+<Dossier ID="N550">
+<Titre>Permis bateau et navigation de plaisance</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

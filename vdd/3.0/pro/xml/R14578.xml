@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14578" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Pôle emploi : services en ligne pour les employeurs</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Pôle emploi : services en ligne pour les employeurs - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-25</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14578</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14578" type="Téléservice">Pôle emploi : services en ligne pour les employeurs</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Après la saisie de l'identifiant (n° d'affiliation), du code d'accès et du n° de département de l'entreprise, la rubrique Employeurs permet d'accéder aux différents services et déclarations à remplir en ligne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>pour tous les employeurs</MiseEnEvidence> : établissement d'une attestation Pôle emploi après la rupture ou la fin d'un contrat de travail (la procédure en ligne est obligatoire pour les entreprises de plus de 10 salariés),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration de la cessation d'activité de l'employeur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>affiliation des salariés expatriés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le cadre d'une procédure de licenciement économique, téléchargement du dossier relatif au contrat de sécurisation professionnelle (CSP) et accès au module de calcul du montant des cotisations dues pour les salariés bénéficiaires du CSP,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<MiseEnEvidence>pour les employeurs habituels d'intermittent de spectacle</MiseEnEvidence> : attribution d'un numéro d'objet et établissement d'une attestation employeur mensuelle (AEM), pour chaque prestation de travail effectuée dans le mois (quelle qu'en soit la durée).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>ne concerne pas les <MiseEnEvidence>particuliers employeurs</MiseEnEvidence> d'une assistante maternelle ou d'un employé de maison, qui doivent demander <LienInterne LienPublication="R1481" type="Téléservice" audience="Particuliers">une attestation Pôle emploi spéciale Particulier employeur</LienInterne>
+</Paragraphe>
+</Attention>
+</Texte>
+<LienWeb URL="https://gestion.pole-emploi.fr/espaceemployeur/espaceemployeur/authentification/authentification">
+<Source>Pôle emploi</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R10665" audience="Professionnels" type="Téléservice">
+<Titre>Pôle emploi : services en ligne pour les demandeurs d'emploi</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F23992" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>À quoi sert le numéro d'objet ?</Titre>
+<Dossier ID="N10805">Régimes sociaux des travailleurs indépendants</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2867" audience="Particuliers" type="Fiche d'information">
+<Titre>Attestation destinée à Pôle emploi</Titre>
+<Dossier ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31262" audience="Professionnels" type="Fiche d'information">
+<Titre>Contrat de génération</Titre>
+<Dossier ID="N23663">Aides à l'embauche</Dossier>
+</FicheLiee>
+<FicheLiee ID="F13819" audience="Professionnels" type="Fiche d'information">
+<Titre>Contrat de sécurisation professionnelle (CSP)</Titre>
+<Dossier ID="N481">Licenciement économique</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24013" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration et paiement des cotisations sociales</Titre>
+<Dossier ID="N10779">Cotisations et contributions sociales de l'employeur</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33164" audience="Particuliers" type="Fiche d'information">
+<Titre>Démission d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+<FicheLiee ID="F21789" audience="Professionnels" type="Fiche d'information">
+<Titre>Fin de contrat : documents à remettre au salarié</Titre>
+<Dossier ID="N13415">Fin et rupture de contrat</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31620" audience="Professionnels" type="Fiche d'information">
+<Titre>Portage salarial</Titre>
+<Dossier ID="N17109">Contrats de travail</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22793" audience="Professionnels" type="Fiche d'information">
+<Titre>Recrutement et emploi d'un artiste ou technicien du spectacle</Titre>
+<Dossier ID="N16992">Recrutements spécifiques</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16842" audience="Particuliers" type="Fiche d'information">
+<Titre>Rupture du contrat de travail d'une assistante maternelle</Titre>
+<Dossier ID="N20383">Assistante maternelle</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

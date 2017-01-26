@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31113" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'une fondation de coopération scientifique ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Associations spécifiques et fondations</dc:subject>
+<dc:description>Une fondation de coopération scientifique (FCS) est un organisme à but non lucratif proche d'une fondation reconnue d'utilité publique, quant à son objet, son financement et son fonctionnement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31113</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000027748498&amp;idSectionTA=LEGISCTA000006151296&amp;cidTexte=LEGITEXT000006071190, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027748290&amp;cidTexte=LEGITEXT000006071190</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31028</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31406">Associations spécifiques et fondations</Niveau>
+<Niveau ID="N31028">Fondations</Niveau>
+<Niveau ID="F31113" type="Fiche Question-réponse">Qu'est-ce qu'une fondation de coopération scientifique ?</Niveau>
+</FilDAriane>
+<Theme ID="N31406">
+<Titre>Associations spécifiques et fondations</Titre>
+</Theme><DossierPere ID="N31028">
+<Titre>Fondations</Titre>
+<Fiche ID="F31023">Fondation reconnue d'utilité publique</Fiche>
+<Fiche ID="F31016">Fondation d'entreprise</Fiche>
+<Fiche ID="F24469">Fonds de dotation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Une fondation de coopération scientifique (FCS) est un organisme à but non lucratif proche d'une fondation reconnue d'utilité publique, quant à son objet, son financement et son fonctionnement.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Une fondation de coopération scientifique (FCS) a un objet nécessairement et exclusivement lié au développement de la recherche publique (objet scientifique).</Paragraphe>
+<Paragraphe>Son nombre de fondateur est de 2 minimum. Un particulier ne peut pas être fondateur. Parmi les fondateurs doit figurer au moins un établissement d'enseignement supérieur ou de recherche (par exemple, le <LienInterne LienPublication="R31238" type="Sigle">CNRS</LienInterne>).</Paragraphe>
+<Paragraphe>Les <LienInterne LienPublication="F1120" type="Fiche d'information" audience="Associations">statuts</LienInterne> comportent nécessairement un conseil d'administration, où siègent le recteur d'académie du siège social de la FCS et des représentants des chercheurs travaillant au sein de la fondation.</Paragraphe>
+<Paragraphe>La déclaration et la demande d'autorisation sont faites auprès du ministère chargé de la recherche.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les organismes  privés à but non lucratif contribuant à la recherche publique ne sont pas contraints d'adopter le statut de FCS.</Paragraphe>
+</ASavoir>
+</Texte><OuSAdresser ID="R31235" type="Local">
+<Titre>Services du partenariat et de la valorisation du CNRS</Titre>
+<Complement>Pour trouver la délégation de votre région</Complement>
+<RessourceWeb URL="http://www.cnrs.fr/dire/annuaire_spv/spv.htm"/>
+<Source ID="R31232">Centre national de la recherche scientifique (CNRS)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000027748498&amp;idSectionTA=LEGISCTA000006151296&amp;cidTexte=LEGITEXT000006071190" ID="R31237">
+<Titre>Code de la recherche : articles L344-1 à L344-3</Titre>
+<Complement>Article L344-3 : transaction des établissements publics de recherche</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000027748290&amp;cidTexte=LEGITEXT000006071190" ID="R31234">
+<Titre>Code de la recherche : articles L344-11 à L344-16</Titre>
+<Complement>Fondations de coopération scientifique</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R31231" URL="http://www.dgdr.cnrs.fr/daj/partenariat/partenariat/structpersomorale/listefcs/listefcs.htm" audience="Associations">
+<Titre>Fondations de coopération scientifique dont le CNRS est membre fondateur</Titre>
+<Source ID="R31232">Centre national de la recherche scientifique (CNRS)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R31233" URL="http://www.enseignementsup-recherche.gouv.fr/pid24575-cid49703/liste-des-fondations.html" audience="Associations">
+<Titre>Principales fondations de recherche reconnues d'utilité publique</Titre>
+<Source ID="R31230">Ministère en charge de la recherche</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R31238" type="Sigle">
+<Titre>CNRS</Titre>
+<Texte>
+<Paragraphe>Centre national de la recherche scientifique</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F31114" audience="Associations">Qu'est-ce qu'une fondation partenariale ?</QuestionReponse>
+<QuestionReponse ID="F31115" audience="Associations">Qu'est-ce qu'une fondation hospitalière ?</QuestionReponse>
+<QuestionReponse ID="F31116" audience="Associations">Qu'est-ce qu'une fondation universitaire ?</QuestionReponse>
+</Publication>

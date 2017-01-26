@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R42187" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration conjointe : dissolution d'un Pacs</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Déclaration conjointe : dissolution d'un Pacs - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-02</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R42187</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N144">Pacte civil de solidarité (Pacs)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R42187" type="Formulaire">Déclaration conjointe : dissolution d'un Pacs</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Ce document est à remplir si les partenaires souhaitent mettre fin au Pacs d'un commun accord.</Paragraphe>
+<Paragraphe>Ce formulaire doit être remis au lieu initial où la convention de Pacs a été enregistrée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit au greffe du tribunal d'instance ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit au notaire qui a procédé à l'enregistrement ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit au consulat qui a enregistré le pacte. </Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15429.do" format="application/pdf" poids="172.6 KB">
+<Source>Ministère en charge de la justice</Source>
+</LienWeb><NoticeLiee ID="R42193" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52029%2301&amp;cerfaFormulaire=15432*01" format="application/pdf" poids="178.9 KB">Notice explicative sur la conclusion, modification ou dissolution d'un Pacs</NoticeLiee>
+
+<FicheLiee ID="F1620" audience="Particuliers" type="Fiche d'information">
+<Titre>Dissolution d'un Pacs</Titre>
+<Dossier ID="N144">Pacte civil de solidarité (Pacs)</Dossier>
+</FicheLiee><OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<OuSAdresser ID="R2884" type="Local personnalisable">
+<Titre>Ambassade ou consulat étranger en France</Titre>
+<PivotLocal>ambassade_etranger_france</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-ministere/ambassades-et-consulats-etrangers/"/>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</OuSAdresser>
+
+<Dossier ID="N144">
+<Titre>Pacte civil de solidarité (Pacs)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

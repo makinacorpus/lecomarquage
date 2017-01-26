@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32360" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment calculer le délai de préavis en cas de congé donné par un locataire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le locataire ou le bailleur qui donne congé doit respecter un préavis, dont le délai commence le jour où le destinataire reçoit la lettre de congé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-13</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32360</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000024025816&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006411002&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N339">Location immobilière : fin du bail</Niveau>
+<Niveau ID="F32360" type="Fiche Question-réponse">Comment calculer le délai de préavis en cas de congé donné par un locataire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N339">
+<Titre>Location immobilière : fin du bail</Titre>
+<Fiche ID="F1168">Congé donné par le locataire</Fiche>
+<Fiche ID="F929">Congé donné par le bailleur</Fiche>
+<Fiche ID="F33671">État des lieux de sortie</Fiche>
+<Fiche ID="F282">Achat d'un logement social</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Lorsqu'il donne congé, le locataire doit effectuer un préavis dont le point de départ commence le jour où le bailleur a reçu la lettre de congé. Le paiement du loyer est obligatoire jusqu'à la fin du préavis.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Point de départ</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le délai de préavis est décompté à partir de la date de réception effective de la lettre de congé par le propriétaire.</Paragraphe>
+<Paragraphe>Le congé doit être notifié par lettre recommandée avec demande d'avis de réception, signifié par acte d'huissier ou remis en main propre contre récépissé ou émargement. Le délai court à compter du jour de la <LienInterne LienPublication="F1168" type="Fiche d'information" audience="Particuliers">réception de la lettre recommandée, de la signification de l'acte d'huissier ou de la remise en main propre</LienInterne>. </Paragraphe>
+<Paragraphe>Par exemple, une lettre de congé reçue par le propriétaire le 5 septembre fait courir un préavis jusqu'au 5 décembre à minuit s'il est de 3 mois (et non jusqu'au 31 décembre).</Paragraphe>
+<Paragraphe>À défaut de chiffre identique, il s'agit du dernier jour de ce mois : un délai de 3 mois partant du 30 novembre expire le 28 février ou le 29 pour les années bissextiles.</Paragraphe>
+<Paragraphe>Les jours fériés et les week-ends sont inclus dans ce calcul : si le préavis finit un dimanche, il finit ce jour-là, et non le vendredi précédent ou le lundi suivant.</Paragraphe>
+<Paragraphe>Si la lettre recommandée n'a pas été remise au propriétaire absent et a été renvoyée à l'expéditeur, la notification n'est pas valable. </Paragraphe>
+<Paragraphe>Si  la lettre  parvient au bailleur en retard ou lui est remise en retard, la date de résiliation du bail est repoussée d'autant.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Conséquences sur le paiement du loyer</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Le locataire doit verser les loyers et charges locatives durant toute la période du préavis sauf si le logement est occupé par un nouveau locataire, en accord avec le propriétaire.</Paragraphe>
+<Paragraphe>Le locataire n'a pas le droit de <LienInterne LienPublication="F31629" type="Fiche Question-réponse" audience="Particuliers">déduire de ses derniers loyers</LienInterne> le montant du dépôt de garantie.</Paragraphe>
+<Paragraphe>En revanche, lors du dernier mois du délai de préavis, le loyer dû par le locataire est déterminé proportionnellement au nombre de jours restant à courir dans le mois.</Paragraphe>
+<Paragraphe>Exemple : la lettre de congé est reçue par le propriétaire le 5 juin. Le locataire est redevable du loyer jusqu'au 5 septembre, et paiera pour le mois de septembre les 5/30<Exposant>ème</Exposant> du loyer et des charges de ce mois.</Paragraphe>
+
+</Texte><VoirAussi important="oui">
+<Fiche ID="F1168" audience="Particuliers">
+<Titre>Congé donné par le locataire</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000024025816&amp;cidTexte=LEGITEXT000006069108" ID="R32654">
+<Titre>Loi n° 89-462 du 6 juillet 1989 relative aux rapports locatifs : article 15</Titre>
+<Complement>Délai de préavis</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006411002&amp;cidTexte=LEGITEXT000006070716" ID="R10663">
+<Titre>Code de procédure civile : article 641</Titre>
+<Complement>Fin du préavis</Complement>
+</Reference>
+<QuestionReponse ID="F31629" audience="Particuliers">Le dépôt de garantie peut-il servir à payer le dernier mois de loyer ?</QuestionReponse>
+</Publication>

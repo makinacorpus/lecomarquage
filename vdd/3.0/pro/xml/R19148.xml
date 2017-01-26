@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19148" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration ou demande d'agrément Services à la personne (SAP)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Pour que vos clients puissent bénéficier des avantages fiscaux et, le cas échéant, obtenir des exonérations de cotisations sociales spécifiques aux services à la personne, vous devez déclarer vos activités de services à la personne. Si les activités proposées s'adressent exclusivement à des publics fragiles (enfants de moins de 3 ans, personnes âgées de 60 ans et plus et personnes handicapées), vous devez au préalable obtenir un agrément de l'État.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-07</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19148</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19148" type="Téléservice">Déclaration ou demande d'agrément Services à la personne (SAP)</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Pour que vos clients puissent bénéficier des avantages fiscaux et, le cas échéant, obtenir des exonérations de cotisations sociales spécifiques aux services à la personne, vous devez déclarer vos activités de services à la personne.
+Si les activités proposées s'adressent exclusivement à des publics fragiles (enfants de moins de 3 ans, personnes âgées de 60 ans et plus et personnes handicapées), vous devez au préalable obtenir un agrément de l'État.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://nova.servicesalapersonne.gouv.fr/extranet/inscription/">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F23633" audience="Professionnels" type="Fiche d'information">
+<Titre>Création d'une entreprise de services à la personne (agrément)</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

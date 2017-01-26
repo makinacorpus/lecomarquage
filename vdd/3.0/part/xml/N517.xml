@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N517" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Épargne salariale, participation et intéressement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>L'épargne salariale est un système d'épargne collectif mis en place au sein de certaines entreprises. Le principe consiste à verser à chaque salarié une part sur les résultats de l'entreprise (intéressement) ou sur ses bénéfices (participation). Les sommes attribuées peuvent, au choix du salarié, lui être versées directement ou être déposées sur un plan d'épargne salariale.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-01</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N517</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N517" type="Dossier">Épargne salariale, participation et intéressement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20375">Épargne</SousThemePere>
+<SousDossier ID="N517-1">
+<Titre>Intéressement et participation</Titre><Fiche ID="F2140">Épargne salariale : intéressement</Fiche>
+<Fiche ID="F2141">Épargne salariale : participation</Fiche>
+</SousDossier>
+<SousDossier ID="N517-2">
+<Titre>Plans d'épargne salariale</Titre><Fiche ID="F2142">Plan d'épargne entreprise (PEE)</Fiche>
+<Fiche ID="F10260">Plan d'épargne pour la retraite collectif (Perco)</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>L'épargne salariale est un système d'épargne collectif mis en place au sein de certaines entreprises. Le principe consiste à verser à chaque salarié une part sur les résultats de l'entreprise (intéressement) ou sur ses bénéfices (participation). Les sommes attribuées peuvent, au choix du salarié, lui être versées directement ou être déposées sur un plan d'épargne salariale. </Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F1907" audience="Particuliers">
+<Titre>Compte épargne-temps (CET)</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<QuestionReponse ID="F31622" audience="Particuliers">Dans quels cas peut-on demander le déblocage anticipé de l'épargne salariale ?</QuestionReponse>
+<QuestionReponse ID="F2911" audience="Particuliers">En quoi consiste l'attribution d'actions gratuites ?</QuestionReponse>
+<QuestionReponse ID="F12400" audience="Particuliers">Peut-on transférer les sommes d'un plan d'épargne salariale à un autre ?</QuestionReponse>
+</Publication>

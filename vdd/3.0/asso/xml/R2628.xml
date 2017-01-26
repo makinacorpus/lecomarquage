@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2628" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander des numéros Siren et Siret comme association subventionnée</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association, Financement et fiscalité d'une association</dc:subject>
+<dc:description>Demander des numéros Siren et Siret comme association subventionnée - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-16</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2628</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2628" type="Modèle de document">Demander des numéros Siren et Siret comme association subventionnée</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Texte><Paragraphe>
+<Variable>Nom et adresse de l'association</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Commune du siège social de l'association</Variable>, le <Variable>date</Variable>
+</Paragraphe>
+<Paragraphe>Madame la directrice régionale de l'Insee / Monsieur le directeur régional de l'Insee,</Paragraphe>
+<Paragraphe>Notre association, qui a été déclarée à la préfecture de  <Variable>département de déclaration</Variable> le <Variable>date de la déclaration</Variable>, a vocation à recevoir des subventions publiques.</Paragraphe>
+<Paragraphe>
+<Variable>Selon la situation :</Variable> Notre association comprend le ou les établissements suivants : <Variable>nom</Variable>, <Variable>adresse</Variable>
+</Paragraphe>
+<Paragraphe>Je vous prie de lui attribuer en conséquence un numéro Siren / <Variable>selon la situation :</Variable> les numéros Siren et  Siret utiles.</Paragraphe>
+<Paragraphe>Notre association a pour activité principale .......................................................................................</Paragraphe>
+<Paragraphe>Vous trouverez, ci-joint, les copies de ses statuts et de la publication de sa déclaration au Journal officiel.</Paragraphe>
+<Paragraphe>Je vous prie d'agréer, Madame la directrice régionale / Monsieur le directeur régional, l'assurance de ma considération distinguée.</Paragraphe>
+<Paragraphe>[Prénom Nom et signature],</Paragraphe>
+<Paragraphe>Président(e)</Paragraphe>
+<Paragraphe>[Adresse de la direction régionale de l'INSEE concernée]</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F1926" audience="Associations" type="Fiche d'information">
+<Titre>Identification et immatriculation d'une association</Titre>
+<Dossier ID="N19554">Création d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F3180" audience="Associations" type="Fiche d'information">
+<Titre>Subventions versées aux associations</Titre>
+<Dossier ID="N21960">Collecte de fonds par une association</Dossier>
+</FicheLiee><OuSAdresser ID="R2246" type="Local personnalisable">
+<Titre>Direction régionale de l'Insee</Titre>
+<PivotLocal>insee_siren_siret</PivotLocal>
+<RessourceWeb URL="http://www.insee.fr/fr/service/default.asp?page=entreprises/sirene/sirene_dr.htm"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17495" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Bulletin de déclaration d'activité d'un prestataire de formation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Bulletin de déclaration d'activité d'un prestataire de formation - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-28</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17495</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17495" type="Formulaire">Bulletin de déclaration d'activité d'un prestataire de formation</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>10782*04</NumeroCerfa>
+<AutreNumero>FA11</AutreNumero>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10782.do" format="application/pdf" poids="196.0 KB">
+<Source>Ministère en charge du travail</Source>
+</LienWeb><NoticeLiee ID="R20061" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10782&amp;cerfaNotice=51469" numerocerfa="51469#01">Notice explicative pour la déclaration d'activité d'un prestataire de formation</NoticeLiee>
+<ServiceEnLigneAlternatif ID="R2423" audience="Professionnels" type="Formulaire">
+<Titre>Prestataire de formation : déclaration d'activité et bilan pédagogique et financier (BPF)</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F19087" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'activité des formateurs ou organismes de formation</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee><OuSAdresser ID="R10196" type="Local">
+<Titre>Direccte</Titre>
+<RessourceWeb URL="http://idf.direccte.gouv.fr/Renseignement-du-public"/>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</OuSAdresser>
+</ServiceComplementaire>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R16638" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander le remboursement du dépôt de garantie non restitué</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Demander le remboursement du dépôt de garantie non restitué - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-18</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R16638</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N349">Location immobilière : contrat de location (bail)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R16638" type="Modèle de document">Demander le remboursement du dépôt de garantie non restitué</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>
+<Variable>Nom, prénom et coordonnées du locataire</Variable>
+</Paragraphe>
+<Paragraphe>Objet : Mise en demeure de restitution du dépôt de garantie</Paragraphe>
+<Paragraphe>
+<Variable>Madame/Monsieur</Variable>,</Paragraphe>
+<Paragraphe>A ce jour, vous ne m'avez pas restitué mon dépôt de garantie d'un montant de <Variable>indiquez le montant du</Variable> pour le logement situé : <Variable>adresse</Variable>.</Paragraphe>
+<Paragraphe>Je vous rappelle que suite à mon départ le <Variable>date</Variable>, un état des lieux contradictoire a été établi le <Variable>date</Variable>,  Les clés vous ont été remises le <Variable>date de remise des clés</Variable>.</Paragraphe>
+<Paragraphe>Aucune dégradation n'a été commise,  l'état des lieux de sortie est conforme à l'état des lieux d'entrée. Donc, selon l'article 22 de la loi du 6 juillet 1989, la restitution du dépôt de garantie doit intervenir dans un délai de 1 mois à compter de la remise des clés, Sans quoi, il sera majoré d'une somme de 10 % du loyer mensuel hors charges, pour chaque mois de retard. Et à ce jour, le délai de restitution est dépassé.</Paragraphe>
+<Paragraphe>Je vous mets donc en demeure de me restituer la somme de <Variable>somme due</Variable> pour le dépôt de garantie majoré de <Variable>majoration selon le nombre de mois de retard</Variable> dans un délai de <Variable>délai</Variable> à compter de la réception de la présente. A défaut, je me verrai contraint de saisir le tribunal compétent.</Paragraphe>
+<Paragraphe>Cordialement,</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F31269" audience="Particuliers" type="Fiche d'information">
+<Titre>Dépôt de garantie dans un contrat de location</Titre>
+<Dossier ID="N349">Location immobilière : contrat de location (bail)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

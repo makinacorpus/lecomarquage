@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14873" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Avec quel document d'identité un Français peut-il se rendre au Maroc ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Le passeport est obligatoire pour se rendre au Maroc. Si vous voyagez avec vos enfants ou s'ils voyagent seuls, des documents supplémentaires peuvent vous être demandés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14873</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31336</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N31336">Voyager à l'étranger</Niveau>
+<Niveau ID="F14873" type="Fiche Question-réponse">Avec quel document d'identité un Français peut-il se rendre au Maroc ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20273">Français à l'étranger</SousThemePere><DossierPere ID="N31336">
+<Titre>Voyager à l'étranger</Titre>
+<Fiche ID="F13605">Voyage en Europe</Fiche>
+<Fiche ID="F32833">Voyage dans un autre pays</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le passeport est obligatoire pour se rendre au Maroc. Si vous voyagez avec vos enfants ou s'ils voyagent seuls, des documents supplémentaires peuvent vous être demandés. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Pour un voyage individuel ou organisé</Paragraphe>
+</Titre><Paragraphe>Vous devez posséder un <LienExterne URL="http://www.amb-maroc.fr/BienvenueMaroc/voyager_au_maroc.htm">passeport en cours de validité, valable au minimum jusqu'à la fin de votre séjour</LienExterne>
+
+. </Paragraphe>
+<Paragraphe>Aucun visa n'est  exigé.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pour le voyage d'un enfant</Paragraphe>
+</Titre><Paragraphe>Votre enfant doit voyager avec son passeport en cours de validité, valable au minimum jusqu'à la fin de son séjour. </Paragraphe>
+<Paragraphe>Des documents supplémentaires peuvent vous être réclamés selon la ou les personnes avec qui il voyage.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Si l'enfant voyage avec ses 2 parents</Paragraphe>
+</Titre><Paragraphe>Il vous est recommandé de prendre  avec vous l'acte de naissance (extrait avec filiation ou copie intégrale) de votre enfant ou votre livret de famille.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Si l'enfant voyage avec un seul de ses parents</Paragraphe>
+</Titre><Paragraphe>En fonction de votre situation familiale, munissez-vous des documents suivants : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si vous êtes mariés et que vous voyagez seule avec votre enfant, les autorités peuvent vous réclamer une autorisation de votre époux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous êtes est veuve, les autorités exigent un document prouvant le mariage avec votre époux défunt et une copie de l'acte de décès ou, à défaut, une autorisation du juge des mineurs, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous êtes divorcés, les autorités peuvent vous demander une copie de votre jugement de divorce vous accordant la garde de l'enfant (que vous soyez le père ou la mère de l'enfant).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Si l'enfant voyage seul ou avec une tierce personne</Paragraphe>
+</Titre><Paragraphe>Votre enfant, ou la personne qui l'accompagne, doit
+        
+        être muni de votre autorisation de voyager revêtue de votre <LienInterne LienPublication="F1411" type="Fiche d'information" audience="Particuliers">signature légalisée</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R1148" type="Local personnalisable">
+<Titre>Ambassade ou consulat du Maroc en France</Titre>
+<Complement>Pour toute information sur les conditions de voyage des Français au Maroc</Complement>
+<PivotLocal>ambassade_maroc</PivotLocal>
+<RessourceWeb URL="http://www.mfe.org/index.php/Annuaires/Ambassades-et-consulats-etrangers-en-France/%28country%29/MAROC"/>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R40569" URL="http://www.amb-maroc.fr/BienvenueMaroc/voyager_au_maroc.htm" audience="Particuliers">
+<Titre>Voyager au Maroc : formalités et procédures pour les visiteurs</Titre>
+<Source ID="R40570">Ambassade du Royaume du Maroc en France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1145" URL="http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs_909/pays_12191/maroc_12289/index.html" audience="Particuliers">
+<Titre>Conditions d'entrée et de séjour au Maroc</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+
+</Publication>

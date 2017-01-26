@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R43520" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Aide pour une complémentaire santé (ACS) - comparateur d'offres</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Aide pour une complémentaire santé (ACS) - comparateur d'offres - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-01</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R43520</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N20286">Complémentaire santé, CMU-C, ACS</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R43520" type="Téléservice">Aide pour une complémentaire santé (ACS) - comparateur d'offres</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Si vous êtes bénéficiaire de l'ACS, vous pouvez choisir un contrat parmi une liste de complémentaires santé sélectionnées par l'État pour leur bon rapport qualité/prix. Vous avez accès à trois niveaux de garanties. Grâce au comparateur, choisissez celui qui répond le mieux à vos besoins de santé.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.info-acs.fr/acs_comparateur_1.php">
+<Source>Fonds de financement de la protection complémentaire de la couverture universelle du risque maladie</Source>
+</LienWeb>
+<FicheLiee ID="F13375" audience="Particuliers" type="Fiche d'information">
+<Titre>Aide à l'acquisition d'une couverture maladie complémentaire (ACS)</Titre>
+<Dossier ID="N20286">Complémentaire santé, CMU-C, ACS</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

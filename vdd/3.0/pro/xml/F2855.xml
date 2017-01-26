@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2855" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Préavis de licenciement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Le préavis est la période qui s'étend entre la notification du licenciement et la fin du contrat de travail.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-16</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2855</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006195622&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&amp;idArticle=LEGIARTI000006903707</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31006</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N31006">Licenciement</Niveau>
+<Niveau ID="F2855" type="Fiche d'information">Préavis de licenciement</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+<SousThemePere ID="N10813">Réglementation du travail</SousThemePere><DossierPere ID="N31006">
+<Titre>Licenciement</Titre><SousDossier ID="N31006-1">
+<Titre>Licenciement économique</Titre>
+<Fiche ID="F24648">Licenciement économique : les obligations de l'employeur</Fiche>
+<Fiche ID="F2811">Plan de sauvegarde de l'emploi (PSE)</Fiche>
+<Fiche ID="F24649">Reclassement des salariés et priorité à la réembauche</Fiche>
+<Fiche ID="F13819">Contrat de sécurisation professionnelle (CSP)</Fiche>
+<Fiche ID="F31618">Licenciement économique nul, injustifié ou irrégulier</Fiche>
+</SousDossier>
+<SousDossier ID="N31006-2">
+<Titre>Licenciement pour motif personnel</Titre>
+<Fiche ID="F2835">Motifs du licenciement personnel</Fiche>
+<Fiche ID="F2839">Procédure de licenciement pour motif personnel</Fiche>
+<Fiche ID="F133">Licenciement pour maladie</Fiche>
+<Fiche ID="F1848">Licenciement pour motif personnel nul, injustifié ou irrégulier</Fiche>
+</SousDossier>
+<SousDossier ID="N31006-3">
+<Titre>Généralités</Titre>
+<Fiche ID="F2855">Préavis de licenciement</Fiche>
+<Fiche ID="F987">Indemnité de licenciement</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Généralités</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Lors d'un licenciement, la rupture du contrat n'intervient pas immédiatement après sa notification. Un délai entre la notification du licenciement et la fin du contrat de travail doit être respecté, qui constitue le préavis.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le préavis de licenciement correspond au délai qui court entre la notification du licenciement au salarié et la date de fin de son contrat de travail. Sauf exceptions, durant cette période, le salarié en préavis est tenu de travailler.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui est concerné ?</Paragraphe>
+</Titre><Paragraphe>Tout salarié licencié (que ce soit pour motif personnel ou économique) est tenu d'exécuter un préavis, sauf en cas de :</Paragraphe>
+
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>dispense du préavis par l'employeur,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>licenciement pour <LienInterne LienPublication="F1137" type="Fiche Question-réponse" audience="Professionnels">faute grave ou faute lourde</LienInterne>,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>licenciement pour inaptitude.</Paragraphe>
+					</Item>
+				</Liste>
+			
+<Paragraphe>Le salarié non dispensé de préavis continue de travailler dans l'entreprise, dans les conditions habituelles, et de percevoir sa rémunération (salaire, primes éventuelles...).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée du préavis</Paragraphe>
+</Titre><Paragraphe>La durée de préavis dépend de l'ancienneté dans l'entreprise.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Moins de 6 mois</Paragraphe>
+</Titre><Paragraphe>La durée du préavis est fixée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par la convention collective,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par accord collectif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par les <LienIntra LienID="R12729" type="Définition de glossaire">usages</LienIntra> pratiqués dans l'entreprise ou la profession.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La durée est doublée pour les travailleurs handicapés, dans la limite de 3 mois.</Paragraphe>
+<Paragraphe>Des dispositions conventionnelles, collectives ou contractuelles peuvent prévoir une durée plus favorable pour le salarié.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Entre 6 mois et 2 ans</Paragraphe>
+</Titre><Paragraphe>La durée du préavis est fixée à 1 mois.</Paragraphe>
+<Paragraphe>La durée est doublée pour les travailleurs handicapés.</Paragraphe>
+<Paragraphe>Des dispositions conventionnelles, collectives ou contractuelles peuvent prévoir une durée plus favorable pour le salarié.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Au moins 2 ans</Paragraphe>
+</Titre><Paragraphe>La durée du préavis est fixée à 2 mois.</Paragraphe>
+<Paragraphe>La durée est doublée pour les travailleurs handicapés, dans la limite de 3 mois.</Paragraphe>
+<Paragraphe>Des dispositions conventionnelles, collectives ou contractuelles peuvent prévoir une durée plus favorable pour le salarié.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Point de départ du préavis</Paragraphe>
+</Titre><Paragraphe>Le préavis commence le jour de la première présentation de la lettre recommandée notifiant le licenciement (même si le salarié n'a pas récupéré le courrier).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Report ou suspension du préavis</Paragraphe>
+</Titre><Paragraphe>Le préavis peut être reporté ou suspendu dans les cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>accord entre le salarié et l'employeur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>prise de congés payés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>arrêt de travail lié à un accident du travail ou une maladie professionnelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou disposition conventionnelle le prévoyant.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dispense du préavis</Paragraphe>
+</Titre><Paragraphe>L'employeur peut dispenser le salarié de préavis. Dans ce cas, la dispense s'impose au salarié, qui ne peut s'y opposer.</Paragraphe>
+<Paragraphe>Le salarié peut demander à ne pas exécuter son préavis, mais son employeur n'est pas obligé d'accepter. S'il accepte, le contrat prend fin à la date convenue par le salarié et l'employeur.</Paragraphe>
+<Paragraphe>Le salarié doit percevoir une <LienInterne LienPublication="F24660" type="Fiche d'information" audience="Particuliers">indemnité compensatrice de préavis</LienInterne>, pour la période de préavis non effectuée, si l'employeur est à l'origine de la dispense. L'employeur n'est pas tenu de verser cette indemnité si la dispense est accordée après demande du salarié.</Paragraphe>
+<Paragraphe>Dès lors que le salarié est dispensé d'effectuer son préavis, il peut se faire embaucher par une autre entreprise, même si le contrat en cours n'a pas encore atteint son terme (sauf clause de non-concurrence).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la dispense du préavis par l'employeur ne modifie pas la date à laquelle le contrat prend fin.</Paragraphe>
+</ASavoir>
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R20" type="Local personnalisé sur SP">
+<Titre>Unité départementale de la Direccte</Titre>
+<Complement>Pour toute demande d'information complémentaire</Complement>
+<PivotLocal>direccte_ut</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Unit%C3%A9+territoriale+de+la+Direccte&amp;where="/>
+</OuSAdresser>
+<OuSAdresser ID="R756" type="Centre de contact">
+<Titre>Vos représentants du personnel</Titre>
+<Complement>Pour toute demande d'information complémentaire</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006195622&amp;cidTexte=LEGITEXT000006072050" ID="R24664">
+<Titre>Code du travail : articles L1234-1 à L1234-8</Titre>
+<Complement>Salariés concernés, durée &amp; dispense</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&amp;idArticle=LEGIARTI000006903707" ID="R33254">
+<Titre>Code du travail : article L5213-9</Titre>
+<Complement>Durée pour les travailleurs handicapés</Complement>
+</Reference>
+<Definition ID="R12729">
+<Titre>Usage professionnel ou usage local (droit du travail)</Titre>
+<Texte>
+				<Paragraphe>Pratique d'application générale, constante et fixe au sein d'une profession ou d'une localité et à l'origine d'une règle non écrite s'imposant à l'employeur vis-à-vis du salarié.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1054" audience="Particuliers">Le salarié bénéficie-t-il d'heures de recherche d'emploi pendant son préavis ?</QuestionReponse>
+<QuestionReponse ID="F22" audience="Particuliers">Quelles sont les conséquences d'une faute grave commise pendant un préavis ?</QuestionReponse>
+<QuestionReponse ID="F2930" audience="Particuliers">Le salarié peut-il prendre des congés payés pendant son préavis ?</QuestionReponse>
+
+</Publication>

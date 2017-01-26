@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N500" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Recrutement dans la fonction publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Il existe 3 fonctions publiques : la fonction publique d'État, la fonction publique territoriale (communes, départements, régions) et la fonction publique hospitalière. Des fonctionnaires, des contractuels et, dans certains cas, des intérimaires y exercent leurs fonctions liées à une mission de service public.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-17</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N500</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Agent de la fonction publique</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N500" type="Dossier">Recrutement dans la fonction publique</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19961">Recrutement</SousThemePere>
+<SousDossier ID="N500-1">
+<Titre>Recrutement d'un fonctionnaire</Titre><Fiche ID="F434">Recrutement et nomination</Fiche>
+<Fiche ID="F13971">Organisation des concours</Fiche>
+<Fiche ID="F32810">Recrutement sans concours</Fiche>
+<Fiche ID="F430">Recrutement d'une personne handicapée</Fiche>
+</SousDossier>
+<SousDossier ID="N500-2">
+<Titre>Recrutement d'un agent contractuel</Titre><Fiche ID="F14012">Dans la fonction publique d'État (FPE)</Fiche>
+<Fiche ID="F13839">Dans la fonction publique territoriale (FPT)</Fiche>
+<Fiche ID="F13943">Dans la fonction publique hospitalière (FPH)</Fiche>
+</SousDossier>
+<SousDossier ID="N500-3">
+<Titre>Autres types de recrutement</Titre><Fiche ID="F12686">Recrutement dans le cadre du Pacte</Fiche>
+<Fiche ID="F2304">Recrutement en intérim</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			Il existe 3 fonctions publiques : la fonction publique d'État, la fonction publique territoriale (communes, départements, régions) et la fonction publique hospitalière. Des fonctionnaires, des contractuels et, dans certains cas, des intérimaires y exercent leurs fonctions liées à une mission de service public.</Paragraphe>
+</Texte>
+</Introduction><PourEnSavoirPlus type="Information pratique" ID="R33667" URL="http://www.fonction-publique.gouv.fr/score" audience="Particuliers">
+<Titre>Site des concours et recrutement de l'État (Score)</Titre>
+<Source ID="R30602">Ministère en charge de la fonction publique</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R3090" URL="http://www.onisep.fr/Decouvrir-les-metiers/Des-metiers-par-secteur/Fonction-publique-une-grande-diversite-de-metiers" audience="Particuliers">
+<Titre>Fonction publique : une diversité de métiers</Titre>
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16796" URL="http://www.fonction-publique.gouv.fr/fonction-publique/modernisation-fonction-publique-27" audience="Particuliers">
+<Titre>Le répertoire interministériel des métiers de l'État</Titre>
+<Source ID="R30602">Ministère en charge de la fonction publique</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16798" URL="http://www.cnfpt.fr/content/repertoire-metiers" audience="Particuliers">
+<Titre>Répertoire des métiers territoriaux</Titre>
+<Source ID="R30780">Centre national de la fonction publique territoriale (CNFPT)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16800" URL="http://www.sante.gouv.fr/metiers-de-la-sante.html" audience="Particuliers">
+<Titre>Métiers de la santé</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F637" audience="Particuliers">Un étudiant peut-il faire un stage dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F31245" audience="Particuliers">Qu'est-ce qu'un vacataire dans la fonction publique ?</QuestionReponse>
+<QuestionReponse ID="F31264" audience="Particuliers">Stagiaire de la fonction publique : la reprise d'ancienneté est-elle possible ?</QuestionReponse>
+<QuestionReponse ID="F13272" audience="Particuliers">Quelles sont les conditions d'accès à la fonction publique ? </QuestionReponse>
+<QuestionReponse ID="F1591" audience="Particuliers">Une candidate enceinte peut-elle passer un concours administratif ?</QuestionReponse>
+<CommentFaireSi ID="F1700">Je souhaite travailler dans l'administration</CommentFaireSi>
+
+</Publication>

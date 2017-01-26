@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N137" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Garde d'enfants en bas âge</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Différents modes de garde sont proposés aux parents de la naissance de leur enfant jusqu'à l'âge de la scolarité obligatoire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-14</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N137</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N137" type="Dossier">Garde d'enfants en bas âge</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere>
+<Fiche ID="F2642">Assistante maternelle</Fiche>
+<Fiche ID="F607">Crèche</Fiche>
+<Fiche ID="F853">Halte-garderie</Fiche>
+<Fiche ID="F21370">Jardin d'enfants</Fiche>
+<Introduction>
+<Texte><Paragraphe>Différents modes de garde sont proposés aux parents de la naissance de leur enfant jusqu'à l'âge de la scolarité obligatoire.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N20383" audience="Particuliers">
+<Titre>Assistante maternelle</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N546" audience="Particuliers">
+<Titre>Accueil de loisirs (centre de loisirs, colonies...) avec ou sans hébergement</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F345" audience="Particuliers">
+<Titre>Complément de libre choix du mode de garde (Cmg) - Assistante maternelle</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31101" audience="Particuliers">
+<Titre>Complément de libre choix du mode de garde (Cmg) - Garde à domicile</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F33648" audience="Particuliers">
+<Titre>Complément de libre choix du mode de garde (Cmg) - Micro-crèche</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R45572" URL="http://www.mon-enfant.fr/web/guest/recherche-place/recherche-place-garde-enfant" type="Téléservice">
+<Titre>Rechercher une solution de garde d'enfant par localité</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19162" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13394.do" format="application/pdf" poids="566.4 KB" numerocerfa="13394*04" type="Formulaire">
+<Titre>Demande d'agrément d'assistant maternel</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18165" URL="http://www.pajemploi.urssaf.fr/pajewebinfo/cms/sites/pajewebinfo/accueil.html" type="Téléservice">
+<Titre>Pajemploi en ligne</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10289" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/complementlibrechoixmodedegarde" numerocerfa="12323*03 et 11423*06 et 10397*18" type="Formulaire">
+<Titre>Demande de complément de libre choix de mode de garde - Prestation d'accueil du jeune enfant (Paje)</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18429" URL="http://www.pajemploi.urssaf.fr/pajeweb/simucoti1.jsp" type="Téléservice">
+<Titre>Particulier employeur d'une assistante maternelle ou d'une garde d'enfant : effectuer vos déclarations de salaire auprès de l'Urssaf</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R17247" URL="http://travail-emploi.gouv.fr/IMG/pdf/Accueil_de_la_petite_enfance.pdf" audience="Particuliers" format="application/pdf" poids="0">
+<Titre>Guide pratique sur les modes d'accueil de la petite enfance</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41627" URL="http://www.mon-enfant.fr" audience="Particuliers">
+<Titre>Site d'information sur les différents modes de garde d'enfants</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</PourEnSavoirPlus>
+<CommentFaireSi ID="F601">J'ai besoin de faire garder mes enfants</CommentFaireSi>
+</Publication>

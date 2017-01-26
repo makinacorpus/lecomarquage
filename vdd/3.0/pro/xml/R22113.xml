@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R22113" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-18</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R22113</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13442">Imposition des sociétés</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R22113" type="Formulaire">Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11109*15</NumeroCerfa>
+<AutreNumero>2746-SD</AutreNumero>
+<Texte><Paragraphe>Permet aux personnes morales qui possèdent des immeubles ou des droits réels immobiliers situés en France au 1er janvier, directement ou par personnes interposées, d'acquitter la taxe annuelle de 3 % sur leur valeur vénale. </Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4959&amp;typePage=ifi01">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F31607" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe sur la valeur vénale des immeubles</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+</ServiceComplementaire>

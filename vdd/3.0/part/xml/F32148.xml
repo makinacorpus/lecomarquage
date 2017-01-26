@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32148" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Maladie professionnelle : indemnités journalières en cas d'arrêt de travail</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>En cas d'arrêt de travail pour cause de maladie liée à votre travail, vous avez droit à des indemnités versées par votre CPAM.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32148</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006156130&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006156659&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189428&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537772&amp;cidTexte=LEGITEXT000006072050, http://www.circulaires.gouv.fr/pdf/2010/11/cir_32143.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N526</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Niveau>
+<Niveau ID="F32148" type="Fiche d'information">Maladie professionnelle : indemnités journalières en cas d'arrêt de travail</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere><DossierPere ID="N526">
+<Titre>Maladie, accident du travail ou invalidité dans le secteur privé</Titre><SousDossier ID="N526-1">
+<Titre>Arrêt maladie</Titre>
+<Fiche ID="F303">Déclaration et obligations du salarié</Fiche>
+<Fiche ID="F3053">Indemnités journalières versées par la sécurité sociale</Fiche>
+<Fiche ID="F2022">Indemnités versées au salarié par l'employeur</Fiche>
+<Fiche ID="F33908">Contrôle du salarié</Fiche>
+<Fiche ID="F144">Reprise du travail</Fiche>
+<Fiche ID="F726">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-2">
+<Titre>Accident du travail</Titre>
+<Fiche ID="F171">Démarches à effectuer</Fiche>
+<Fiche ID="F175">Indemnités journalières pendant l'arrêt de travail</Fiche>
+<Fiche ID="F14840">Indemnisation en cas d'incapacité permanente</Fiche>
+<Fiche ID="F31435">Prestation complémentaire pour recours à tierce personne (PCRTP)</Fiche>
+<Fiche ID="F32157">Reprise du travail du salarié</Fiche>
+<Fiche ID="F15341">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-3">
+<Titre>Maladie professionnelle</Titre>
+<Fiche ID="F176">Démarches à effectuer</Fiche>
+<Fiche ID="F32148">Indemnités journalières en cas d'arrêt de travail</Fiche>
+<Fiche ID="F348">Indemnisation en cas d'incapacité permanente</Fiche>
+<Fiche ID="F32158">Reprise du travail du salarié</Fiche>
+<Fiche ID="F32161">Inaptitude du salarié</Fiche>
+</SousDossier>
+<SousDossier ID="N526-4">
+<Titre>Pension d'invalidité</Titre>
+<Fiche ID="F672">Conditions d'attribution et démarches à suivre</Fiche>
+<Fiche ID="F14946">Calcul, montant et versement</Fiche>
+<Fiche ID="F31434">Majoration pour tierce personne (MTP)</Fiche>
+<Fiche ID="F14945">Suspension, révision et suppression</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Maladie professionnelle</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si vous êtes salarié(e) en arrêt de travail pour cause de maladie liée à votre travail, vous avez droit à des indemnités versées par votre caisse primaire d'assurance maladie (CPAM). Si votre maladie est reconnue d'origine professionnelle, le montant de l'indemnisation et les conditions de versement diffèrent de celles prévues pour un arrêt maladie.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Salarié concerné</Paragraphe>
+</Titre><Paragraphe>Si vous êtes un(e) salarié(e) en arrêt de travail pour une affection liée à votre activité professionnelle, vous avez droit aux <LienInterne LienPublication="F3053" type="Fiche d'information" audience="Particuliers">indemnités journalières de base</LienInterne> tant que le caractère professionnel de votre maladie n'est pas reconnu. Dès lors que votre maladie est reconnue d'origine professionnelle par la <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne>, celle-ci vous verse des indemnités journalières (IJ) majorées.</Paragraphe>
+
+</Chapitre>
+<Chapitre ID="R45215">
+<Titre>
+<Paragraphe>Montant de l'indemnité</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Formule de calcul</Paragraphe>
+</Titre><Paragraphe>Si vous êtes salarié mensualisé, votre CPAM détermine un salaire journalier de base, calculé en prenant en compte le montant de votre dernier salaire brut perçu avant la date d'interruption du travail, divisé par 30,42. Ce salaire journalier ne peut pas dépasser la somme de <Valeur>327,16 €</Valeur> par jour.</Paragraphe>
+<Paragraphe>Vous percevez un pourcentage de ce salaire journalier de base, dans la limite d'un gain journalier net et, s'il est moins élevé, d'un montant maximum journalier, qui varient dans les conditions suivantes :</Paragraphe>
+<Tableau>
+<Titre>Pourcentage du salaire versé, dans la limite d'un gain journalier net et d'un montant maximum, selon la durée de versement des indemnités</Titre>
+<Colonne largeur="25" type="header"/>
+<Colonne largeur="27" type="normal"/>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="27" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Durée de versement des indemnités</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Pourcentage du salaire journalier de référence</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Gain journalier net</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant maximum par jour des indemnités journalières</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Du 1<Exposant>er</Exposant> au 28<Exposant>e</Exposant> jour d'arrêt</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>60 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1/30,42 du salaire du mois précédent, diminué d'un taux forfaitaire de 21%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>196,30 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>À partir du 29<Exposant>e</Exposant> jour d'arrêt</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>80 %</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1/30,42 du salaire du mois précédent, diminué d'un taux forfaitaire de 21%</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>261,73 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Par exemple, en cas d'arrêt d'un salarié ayant perçu <Valeur>2 000 €</Valeur> bruts le mois précédent, les indemnités journalières sont calculées ainsi : (2 000/30,42) x 60% = <Valeur>39,44 €</Valeur> par jour. À partir du 29<Exposant>e</Exposant> jour d'arrêt, le montant serait le suivant : (2 000/30,42) x 80% = <Valeur>52,59 €</Valeur> par jour.</Paragraphe>
+<Paragraphe>Le gain journalier net du salarié pendant son arrêt est fixé à [2 000 - (21% x 2 000)] / 30,42 = <Valeur>51,93 €</Valeur>. Pendant les 28 premiers jours d'arrêt, la limite du gain journalier net est respectée. Par contre, cette limite est dépassée si le salarié perçoit des indemnités partir du 29<Exposant>e</Exposant> jour d'arrêt. Dans ce cas, le montant versé à partir du 29<Exposant>e</Exposant> jour sera ramené à <Valeur>51,93 €</Valeur>.</Paragraphe>
+<Paragraphe>La CSG (<Valeur>6,2 %</Valeur>) et la CRDS (<Valeur>0,5 %</Valeur>) sont ensuite déduites du montant des indemnités journalières dues.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Revalorisation</Paragraphe>
+</Titre><Paragraphe>Lorsque l'arrêt de travail est supérieur à 3 mois, vos indemnités journalières peuvent être revalorisées en cas d'augmentation générale des salaires :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par arrêté ministériel : la revalorisation est alors forfaitaire et un coefficient de 1,01 est appliqué au gain journalier de base,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit dans le cadre d'une convention collective : le salarié doit alors demander par courrier à sa CPAM l'application de la revalorisation prévue par la convention en joignant à sa demande une attestation de son employeur.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Début de l'indemnisation</Paragraphe>
+</Titre><Paragraphe>Si votre arrêt de travail est dû à une maladie professionnelle, il n'y a pas de délai de carence. Dans ce cas, les indemnités journalières vous sont  versées par la <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> à partir du premier jour qui suit l'arrêt du travail.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Durée de l'indemnisation</Paragraphe>
+</Titre><Paragraphe>Les indemnités journalières sont versées pendant toute la période d'incapacité de travail, jusqu’au terme de l'arrêt ou à la <LienIntra LienID="R14924" type="Définition de glossaire">consolidation</LienIntra> de la blessure (ou le décès).</Paragraphe>
+<Paragraphe>Si votre blessure est consolidée, un taux d'incapacité permanente (IPP) est fixé par la CPAM et vous ouvre droit au <LienInterne LienPublication="F348" type="Fiche d'information" audience="Particuliers">versement d'une rente viagère ou d'une indemnité forfaitaire en capital</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre ID="R45216">
+<Titre>
+<Paragraphe>Indemnité complémentaire versée par l'employeur</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><Paragraphe>L'employeur est tenu de vous verser une indemnité complémentaire durant votre arrêt de travail, si vous remplissez toutes les conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ne pas être travailleur à domicile, salarié saisonnier, intermittent ou temporaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>justifier d'au moins une année d'ancienneté dans l'entreprise (calculée à partir de votre premier jour d'absence),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>avoir transmis à l'employeur le certificat médical dans les 48 heures,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>bénéficier des <LienInterne LienPublication="F3053" type="Fiche d'information" audience="Particuliers">indemnités journalières</LienInterne> versées par la sécurité sociale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être soigné en France ou dans l'un des États membres de l'Espace économique européen (EEE).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>en contrepartie de l'obligation de verser les indemnités, l'employeur peut recourir à une contre-visite médicale.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>Sauf dispositions conventionnelles plus favorables (comme par exemple le maintien de salaire), le montant des indemnités versées par l'employeur est calculé de la manière suivante :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pendant les 30 premiers jours d’arrêt de travail, le montant correspond à 90 % de la rémunération brute que vous auriez perçue si vous aviez travaillé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pendant les 30 jours d’arrêt suivants, le montant correspond aux 2/3 (66,66 %) de cette même rémunération.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si votre absence entraîne une augmentation de la durée de travail des autres salariés, cette augmentation n'est pas prise en compte pour calculer la rémunération brute.</Paragraphe>
+<Paragraphe>Lorsque les indemnités journalières versées par la sécurité sociale sont réduites (par exemple, en raison d'une hospitalisation ou  d'une sanction de la <LienInterne LienPublication="R15469" type="Sigle">CPAM</LienInterne> pour non-respect de la procédure), les indemnités complémentaires versées par l'employeur restent toutefois calculées sur le montant intégral des indemnités journalières.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Date de début de versement</Paragraphe>
+</Titre><Paragraphe>Aucun délai de carence n'est prévu. Le versement des indemnités complémentaires commence dès votre premier jour d'absence.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Durée de versement</Paragraphe>
+</Titre><Paragraphe>Vos indemnités complémentaires sont versées jusqu'au terme de votre arrêt de travail, dans la limite d'une durée maximale par période de 12 mois. Cette  durée de versement des indemnités versées par l'employeur varie en fonction de votre ancienneté dans l'entreprise, de la manière suivante :</Paragraphe>
+<Tableau>
+<Titre>Durée de versement des indemnités complémentaires en fonction de votre ancienneté</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Durée d'ancienneté dans l'entreprise</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée maximale de versement des indemnités au cours d'une période de 12 mois</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>de 1 à 5 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>60 jours (30 jours à 90% et 30 jours à 66,66%)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>de 6 à 10 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>80 jours (40 jours à 90% et 40 jours à 66,66%)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>de 11 à 15 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>100 jours (50 jours à 90% et 50 jours à 66,66%)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>de 16 à 20 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>120 jours (60 jours à 90% et 60 jours à 66,66%)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>de 21 à 25 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>140 jours (70 jours à 90% et 70 jours à 66,66%)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>de 26 à 30 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>160 jours (80 jours à 90% et 80 jours à 66,66%)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>31 ans et plus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>180 jours (90 jours à 90% et 90 jours à 66,66%)</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>La période des 12 mois de versement des indemnités s'apprécie, pour chaque jour d’arrêt de travail, de date à date. Tous les jours calendaires sont pris en compte.</Paragraphe>
+<Paragraphe>Si vous avez déjà bénéficié d'une ou plusieurs périodes d'indemnisation pour maladie par l'employeur dans les 12 mois précédents, il en est tenu compte pour calculer la durée maximale de versement autorisée.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R19040" type="Centre de contact">
+<Titre>Assurance maladie - 3646</Titre>
+<Complement>Pour tout renseignement complémentaire</Complement><Texte>
+						
+								<Paragraphe>
+			Le 36 46 vous permet d'obtenir des renseignements sur vos droits et démarches, de poser une question sur votre dossier, de signaler un changement de situation ou encore de consulter vos remboursements.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3646</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi. Attention : les horaires varient selon votre département. En règle générale, les horaires d'ouverture sont au minimum de 8h30 à 16h. </Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger : +33 (0) 811 70 36 46
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Connectez-vous sur votre
+      <LienExterne URL="http://www.ameli.fr/">compte ameli</LienExterne>
+,      puis sélectionnez l'onglet
+      <Citation>Vos demandes</Citation>
+      et cliquez sur
+      <Citation>Contactez-nous / Vos questions</Citation>
+		.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<Complement>Pour tout renseignement complémentaire</Complement>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11156" type="Local personnalisable">
+<Titre>Caisse régionale d'assurance maladie d'Île-de-France (CRAMIF)</Titre>
+<Complement>Pour tout renseignement complémentaire, si vous résidez dans un département d'Île-de-France, à l'exception de la Seine-et-Marne</Complement>
+<PivotLocal>cramif</PivotLocal>
+<RessourceWeb URL="http://www.cramif.fr/"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006156130&amp;cidTexte=LEGITEXT000006073189" ID="R34625">
+<Titre>Code de la sécurité sociale : articles L433-1 à L433-4</Titre>
+<Complement>Indemnisation par la CPAM (principes généraux)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006156659&amp;cidTexte=LEGITEXT000006073189" ID="R34627">
+<Titre>Code de la sécurité sociale : articles R433-1 à R433-4</Titre>
+<Complement>Indemnisation par la CPAM (calcul du montant de l'indemnité)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189428&amp;cidTexte=LEGITEXT000006072050" ID="R35132">
+<Titre>Code du travail : article L1226-1</Titre>
+<Complement>Indemnités versées par l'employeur (bénéficiaires)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537772&amp;cidTexte=LEGITEXT000006072050" ID="R35133">
+<Titre>Code du travail : articles D1226-1 à D1226-8</Titre>
+<Complement>Indemnités versées par l'employeur (montant versé et conditions de versement)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.circulaires.gouv.fr/pdf/2010/11/cir_32143.pdf" ID="R2196" format="application/pdf" poids="80.2 KB">
+<Titre>Circulaire du 25 novembre 2010 relative à certaines modalités de calcul des indemnités journalières</Titre>
+</Reference>
+<Definition ID="R14924">
+<Titre>Consolidation</Titre>
+<Texte>
+				<Paragraphe>En matière de sécurité sociale, moment où la lésion n'est plus susceptible d'évoluer à court terme et peut être considérée comme ayant un caractère permanent</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R15469" type="Sigle">
+<Titre>CPAM</Titre>
+<Texte>
+<Paragraphe>Caisse primaire d'assurance maladie</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F19300" audience="Particuliers">Un salarié en arrêt de travail peut-il suivre une formation ?</QuestionReponse>
+<QuestionReponse ID="F3152" audience="Particuliers">Les indemnités pour arrêt de travail sont-elles imposées sur le revenu ?</QuestionReponse>
+
+
+</Publication>

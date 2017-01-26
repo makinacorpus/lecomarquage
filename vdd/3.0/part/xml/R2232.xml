@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2232" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de retraite complémentaire Agirc-Arrco</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Permet au salarié remplissant les conditions permettant de partir à la retraite de demander sa retraite complémentaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-01</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2232</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2232" type="Formulaire">Demande de retraite complémentaire Agirc-Arrco</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet au salarié remplissant les conditions permettant de partir à la retraite de demander sa retraite complémentaire.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.agirc-arrco.fr/fileadmin/agircarrco/documents/formulaires/demande_retraite.pdf">
+<Source>Agirc-Arrco</Source>
+</LienWeb>
+<FicheLiee ID="F13941" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Demande de départ en retraite du salarié : quelles sont les démarches à faire ?</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F14043" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite dans le privé : âge légal de départ à la retraite</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F15396" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite dans le privé : pension de retraite complémentaire</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<Dossier ID="N381">
+<Titre>Retraite des salariés du secteur privé</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

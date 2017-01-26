@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N30" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Anciens combattants</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Les membres des forces armées (militaires) ou personnes civiles qui ont pris part à un conflit dans lequel la France est ou était engagée peuvent faire reconnaître leur statut d'ancien combattant. Ils peuvent demander le Titre de reconnaissance de la Nation, la Carte de combattant, la Carte d'invalidité des pensionnés de guerre qui ouvrent droit à certains avantages, comme par exemple le port de la croix du combattant ou le versement de la retraite du combattant.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-05</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N30</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19810</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N30" type="Dossier">Anciens combattants</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere>
+<Fiche ID="F1491">Titre de reconnaissance de la Nation</Fiche>
+<Fiche ID="F1482">Carte du combattant</Fiche>
+<Fiche ID="F1677">Carte d'invalidité des pensionnés de guerre</Fiche>
+<Fiche ID="F1293">Retraite du combattant</Fiche>
+<Introduction>
+<Texte><Paragraphe>Les membres des forces armées (militaires) ou personnes civiles qui ont pris part à un conflit dans lequel la France est ou était engagée peuvent faire reconnaître leur statut d'ancien combattant. Ils peuvent demander le Titre de reconnaissance de la Nation, la Carte de combattant, la Carte d'invalidité des pensionnés de guerre qui ouvrent droit à certains avantages, comme par exemple le port de la croix du combattant ou le versement de la retraite du combattant.</Paragraphe>
+</Texte>
+</Introduction><ServiceEnLigne ID="R33366" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14342.do" numerocerfa="14342*01" type="Formulaire">
+<Titre>Demande de carte d'invalidité</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R22666" URL="http://www.onac-vg.fr/files/uploads/imprim%C3%A9%20mpf.pdf" format="application/pdf" poids="41.9 KB" type="Formulaire">
+<Titre>Demande d'attribution de la mention "mort pour la France"</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17201" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11056.do" numerocerfa="11056*01" type="Téléservice">
+<Titre>Demande de rétablissement du droit à pension de conjoint survivant</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1289" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14951.do" numerocerfa="14951*01" type="Formulaire">
+<Titre>Demande de titre de reconnaissance de la nation (TRN)</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1301" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10860.do" numerocerfa="10860*03" type="Formulaire">
+<Titre>Demande de retraite du combattant</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source><NoticeLiee ID="R1691" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10860*03&amp;cerfaNotice=51465" numerocerfa="51407#02">Notice de la demande de retraite du combattant</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1303" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11054.do" numerocerfa="11054*01" type="Formulaire">
+<Titre>Demande de pension d'orphelins de militaire ou de victime civile</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source><NoticeLiee ID="R14204" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11054*01&amp;cerfaNotice" numerocerfa="50478#01">Notice de la demande de pension d'orphelins de militaire ou de victime civile</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1302" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11053.do" numerocerfa="11053*01" type="Formulaire">
+<Titre>Demande de pension de conjoint survivant de militaire ou de victime civile</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source><NoticeLiee ID="R31454" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11053*01&amp;cerfaNotice=50477" numerocerfa="50477#01">Notice de la demande de pension de conjoint survivant de militaire</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17202" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11057.do" format="application/force-download" poids="784.2 KB" numerocerfa="11057*01" type="Formulaire">
+<Titre>Déclaration de non-séparation de corps</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17200" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11055.do" numerocerfa="11055*01" type="Formulaire">
+<Titre>Demande de pension d'ascendants de militaire ou de victime civile</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1304" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11058.do" numerocerfa="11058*01" type="Formulaire">
+<Titre>Demande de pension d'invalidité - Militaire ou victime civile</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12065" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11051.do" numerocerfa="11051*02" type="Formulaire">
+<Titre>Demande d'attribution du titre d'évadé</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11052*02">
+<Titre>Attestation produite pour l'attribution du titre d'évadé</Titre>
+<Texte><Paragraphe>Attestation à fournir pour solliciter l'attribution du titre d'évadé</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11052.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1571" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12621.do" numerocerfa="12621*05" type="Formulaire">
+<Titre>Déclaration de changement de situation à la Caisse nationale militaire de sécurité sociale (CNMSS)</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12056" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13343.do" format="application/pdf" poids="516.3 KB" numerocerfa="13343*04" type="Formulaire">
+<Titre>Demande de secours médico-social auprès de la caisse nationale militaire de sécurité sociale (CNMSS)</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12536" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13344.do" numerocerfa="13344*04" type="Formulaire">
+<Titre>Demande d'aide ménagère à domicile auprès de la caisse nationale militaire de sécurité sociale (CNMSS)</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12060" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11360.do" format="application/pdf" poids="83.6 KB" numerocerfa="11360*10" type="Formulaire">
+<Titre>Déclaration d'accident à la Caisse nationale militaire de sécurité sociale (CNMSS)</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2409" URL="http://www.defense.gouv.fr/content/download/213197/2368345/file/ImprimC3A920DUOPEX20cerfa2014820.pdf" format="application/pdf" poids="192.2 KB" numerocerfa="14820*01" type="Formulaire">
+<Titre>Imprimé d'identification du blessé en Opex</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1299" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10915.do" format="application/pdf" poids="604.0 KB" numerocerfa="10915*02" type="Formulaire">
+<Titre>Demande d'attribution du titre de déporté ou interné politique</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source><NoticeLiee ID="R19917" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10915*02&amp;cerfaNotice=50437%2302" numerocerfa="50437#02" format="application/pdf" poids="53.6 KB">Notice de la demande d'attribution du titre de déporté politique, interné politique</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1298" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10873.do" format="application/pdf" poids="950.0 KB" numerocerfa="10873*02" type="Formulaire">
+<Titre>Demande d'attribution du titre de déporté ou interné résistant</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source><NoticeLiee ID="R2530" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10873*02&amp;cerfaNotice=50436%2302" numerocerfa="50436#02" format="application/pdf" poids="267.2 KB">Notice de la demande d'attribution du titre de déporté résistant, interné résistant</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1290" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10861.do" numerocerfa="10861*02" type="Formulaire">
+<Titre>Demande du titre de prisonnier du "Viêt-Minh"</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source><NoticeLiee ID="R2406" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10861*02&amp;cerfaNotice=50423" numerocerfa="50423#01" commentaireLien="Liste des pièces à fournir">Notice pour la demande de titre de prisonnier du "Viêt-Minh"</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10762" URL="http://www.formulaires.modernisation.gouv.fr/gf/cerfa_14448.do" numerocerfa="14448*03" type="Formulaire">
+<Titre>Demande de prise en charge d'hospitalisation - art L115 du CPMIVG</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source><NoticeLiee ID="R12463" URL="http://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51539&amp;cerfaFormulaire=14448" numerocerfa="51539#03">Notice d'information à l'usage des établissements hospitaliers</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R33707" URL="http://www.onac-vg.fr/fr/missions/autres-titres-et-statuts/" audience="Particuliers">
+<Titre>Titres et statuts spécifiques aux guerres de 39-45, d'Indochine et d'Algérie</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1946" URL="http://www.cnmss.fr/documents/Publications/livret/livret_pratique_smg_cnmss.pdf" audience="Particuliers" format="application/pdf" poids="2.8 MB">
+<Titre>Livret pratique des soins médicaux gratuits pour les anciens combattants</Titre>
+<Source ID="R30691">Caisse nationale militaire de sécurité sociale (CNMSS)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R19744" URL="http://www.onac-vg.fr/files/uploads/file/ONACVG_CONDITIONS_MENTION_MORT_POUR_LA_FRANCE.pdf" audience="Particuliers" format="application/pdf" poids="12.5 KB">
+<Titre>La mention "mort pour la France"</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41283" URL="http://www.onac-vg.fr/fr/missions/pupille-de-la-nation/" audience="Particuliers">
+<Titre>Pupille de la Nation</Titre>
+<Source ID="R30730">Office national des anciens combattants et victimes de guerre (Onac-vg)</Source>
+</PourEnSavoirPlus>
+</Publication>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F89" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Démission du salarié : allocations chômage</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le salarié qui démissionne n'a pas droit aux allocations chômage (ARE), sauf cas particuliers (démission légitime, reliquat de droits...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F89</dc:identifier>
+<dc:source>http://www.unedic.org/article/assurance-chomage, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19611</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="F89" type="Fiche d'information">Démission du salarié : allocations chômage</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N19611">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre><SousDossier ID="N19611-1">
+<Titre>Démission</Titre>
+<Fiche ID="F2883">Démission d'un salarié</Fiche>
+<Fiche ID="F89">Allocations chômage</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-2">
+<Titre>Rupture conventionnelle du CDI</Titre>
+<Fiche ID="F19030">Conditions et procédure</Fiche>
+<Fiche ID="F19708">Indemnisation</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-3">
+<Titre>Documents à remettre au salarié</Titre>
+<Fiche ID="F87">Certificat de travail</Fiche>
+<Fiche ID="F2867">Attestation destinée à Pôle emploi</Fiche>
+<Fiche ID="F86">Reçu pour solde de tout compte</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-4">
+<Titre>Ruptures atypiques du contrat de travail</Titre>
+<Fiche ID="F24409">Prise d'acte de la rupture du contrat de travail</Fiche>
+<Fiche ID="F24410">Résiliation judiciaire du contrat de travail</Fiche>
+<Fiche ID="F24411">Départ négocié en cas de difficultés économiques</Fiche>
+<Fiche ID="F24412">Rupture du contrat de travail pour cas de force majeure</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Démission</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>En principe, vous ne bénéficiez pas de l'allocation de retour à l'emploi (ARE) si vous démissionnez. 
+
+		
+			Toutefois, dans certains cas précis, votre démission peut être considérée comme légitime par Pôle emploi et ouvre droit à l'ARE dans les conditions habituelles. Si votre démission ne peut pas être considérée comme légitime, vous pouvez demander un réexamen ultérieur de votre dossier, ou éventuellement bénéficier d'un reliquat de droits à l'ARE.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Démission légitime</Paragraphe>
+</Titre><Paragraphe>Lorsque vous démissionnez, vous n'avez pas droit à l'ARE, sauf si votre démission est considérée comme légitime par Pôle emploi. La démission légitime est prévue dans certains cas uniquement (déménagement, nouvel emploi, non-paiement du salaire...).</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>En cas de déménagement</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Pour suivre la personne avec qui vous vivez en couple</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime si vous suivez la <LienIntra LienID="R42442" type="Définition de glossaire">personne avec qui vous vivez en couple</LienIntra> qui déménage pour un motif professionnel (activité salariée ou non).</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Après un mariage ou un Pacs</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime en raison d'un mariage ou de la signature d'un Pacs entraînant un déménagement.  Votre nouvelle adresse ne vous permet pas de conserver votre activité professionnelle.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>moins de 2 mois doivent s'écouler entre la date du mariage ou du Pacs et la date de la démission (peu importe que le mariage ou le Pacs soit conclu avant ou après la démission).</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour suivre vos parents (si vous êtes salarié mineur)</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime si vous avez moins de 18 ans et que vous suivez vos parents (ou la personne qui exerce l'autorité parentale) qui déménagent. La démission doit être motivée par le déménagement.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Enfant handicapé placé dans une structure éloignée</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime si votre déménagement est motivé par le placement de votre enfant handicapé dans une structure d'accueil éloignée. Votre nouvelle adresse ne vous permet pas de conserver votre activité professionnelle.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Victime de violences conjugales</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime si votre déménagement est justifié par des violences conjugales.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>vous devez justifier avoir déposé une plainte pour ce motif (récépissé de dépôt de plainte à joindre à la demande).</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Nouvel emploi ou départ en formation</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Embauche en CDI</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous rompez le CDI</Paragraphe>
+</Titre><Paragraphe>Si vous avez été embauché(e) en CDI, votre démission est légitime si vous remplissez toutes les conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre embauche fait suite à un licenciement (personnel ou économique), une rupture conventionnelle ou une fin de CDD,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> la rupture du contrat précédent pour l'un de ces 3 motifs n'a pas donné lieu à inscription comme demandeur d'emploi,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et votre démission est posée avant l'expiration d'un délai de 91 jours suivant la date de l'embauche.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'employeur rompt le CDI</Paragraphe>
+</Titre><Paragraphe>Si l'employeur rompt le CDI alors que vous aviez démissionné de votre poste précédent pour ce nouveau poste, vous avez droit à l'ARE dans les conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre nouvel employeur met fin au CDI avant l'expiration d'un délai de 91 jours suivant la date de l'embauche (au-delà du délai de 91 jours, vos droits à l'ARE sont pris en compte dans les conditions habituelles),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous avez travaillé sans interruption pendant au moins 3 ans (quel que soit le nombre d'employeurs) avant votre démission.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Embauche en CDD</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si elle est justifiée par une embauche en CDD d'au moins 6 mois après avoir démissionné d'un contrat aidé (<LienInterne LienPublication="F21006" type="Fiche d'information" audience="Particuliers">CUI</LienInterne> ou <LienInterne LienPublication="F542" type="Fiche Question-réponse" audience="Particuliers">ancien contrat</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou si elle est justifiée par une embauche en CDD (quelle que soit sa durée) après avoir démissionné d'un <LienInterne LienPublication="F14100" type="Fiche Question-réponse" audience="Particuliers">CDDI</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous suivez une formation</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si elle est justifiée par l'entrée dans une formation qualifiante après avoir démissionné d'un contrat aidé (<LienInterne LienPublication="F21006" type="Fiche d'information" audience="Particuliers">CUI</LienInterne> ou <LienInterne LienPublication="F542" type="Fiche Question-réponse" audience="Particuliers">ancien contrat</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou si elle est justifiée par une entrée en formation (qualifiante ou non) après avoir démissionné d'un <LienInterne LienPublication="F14100" type="Fiche Question-réponse" audience="Particuliers">CDDI</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Non-paiement de votre salaire</Paragraphe>
+</Titre><Paragraphe>Si votre employeur ne vous verse pas tout ou partie de votre salaire, votre démission est légitime dès lors que vous justifiez de cette situation (ordonnance de référé du conseil de prud'hommes condamnant votre employeur à payer les sommes dues).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Actes délictueux au travail</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime si vous êtes victime  d'actes délictueux dans le cadre de votre travail (violences physiques, harcèlement...).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>vous devez justifier avoir déposé une plainte pour l'un de ces motifs (récépissé de dépôt de plainte à joindre à la demande).</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Création ou reprise d'entreprise</Paragraphe>
+</Titre><Paragraphe>Votre démission est considérée comme légitime si : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous quittez votre emploi pour créer ou reprendre une entreprise dont l'activité a donné lieu aux <LienInterne LienPublication="N16178" type="Dossier" audience="Professionnels">formalités légales de publicité</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous n'avez pas perçu l'ARE après la fin de votre activité salariée,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et si l'activité de l'entreprise cesse dans les 3 ans qui suivent votre démission, pour des raisons indépendantes de votre volonté.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Service civique ou volontariat</Paragraphe>
+</Titre><Paragraphe>Votre démission est légitime si elle est justifiée par la conclusion :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un <LienInterne LienPublication="F15834" type="Fiche Question-réponse" audience="Particuliers">contrat de service civique</LienInterne>, </Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un ou plusieurs contrats de <LienInterne LienPublication="F11444" type="Fiche d'information" audience="Particuliers">volontariat de solidarité internationale</LienInterne> ou de <LienInterne LienPublication="F13273" type="Fiche d'information" audience="Particuliers">volontariat associatif</LienInterne>,  d'une durée continue minimale d'un an.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous bénéficiez de l'ARE y compris si la mission est interrompue avant l'expiration de la durée minimale d'engagement prévue au contrat.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réexamen des droits par Pôle emploi</Paragraphe>
+</Titre><Paragraphe>Si votre démission ne peut pas être considérée comme légitime, vous ne pouvez pas percevoir l'ARE. </Paragraphe>
+<Paragraphe>Toutefois, après 121 jours de chômage (4 mois environ), vous pouvez demander à Pôle emploi le réexamen de votre situation afin d'obtenir le versement de l'ARE.</Paragraphe>
+<Paragraphe>Une instance paritaire régionale  se charge alors de déterminer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si vous remplissez les <LienInterne LienPublication="F14860" type="Fiche d'information" audience="Particuliers">conditions d'attribution</LienInterne> ouvrant droit à l'ARE (en dehors de la condition de privation involontaire d'emploi),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>et si vous apportez des éléments attestant de vos recherches actives d'emploi, vos éventuelles reprises d'emploi de courte durée et vos démarches pour entreprendre des formations.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si votre demande est acceptée, le point de départ du versement de l'ARE est fixé au 122<Exposant>e</Exposant> jour de chômage.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Reliquat de droits</Paragraphe>
+</Titre><Paragraphe>Si nous n'avez pas épuisé tous vos droits à l'ARE lors d'une précédente inscription comme demandeur d'emploi, vous pouvez bénéficier d'une reprise de vos droits même en cas de démission, sous conditions. En effet, votre démission est considérée comme involontaire par Pôle emploi  si vous avez travaillé moins de 91 jours (ou 455 heures). Dans ce cas, vous pouvez percevoir votre reliquat de droits à l'ARE.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R194" type="Local personnalisé sur SP">
+<Titre>Pôle emploi</Titre>
+<Complement>Pour tout information complémentaire</Complement>
+<PivotLocal>pole_emploi</PivotLocal>
+<RessourceWeb URL="http://www.pole-emploi.fr/informations/votre-pole-emploi-@/votre_pole_emploi/" commentaireLien="Pôle emploi - réseau local"/>
+<Source ID="R30668">Pôle emploi</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.unedic.org/article/assurance-chomage" ID="R339">
+<Titre>Accords d'application relatifs à l'indemnisation du chômage</Titre>
+<Complement>Accords d'application n°12-§1er (réexamen des droits) et n°14 (démission légitime)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029150768" ID="R785">
+<Titre>Arrêté du 25 juin 2014 portant agrément de la convention du 14 mai 2014 relative à l'indemnisation du chômage et les textes qui lui sont associés</Titre>
+<Complement>Article 26 du règlement général annexé (reliquat de de droits)</Complement>
+</Reference>
+<Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

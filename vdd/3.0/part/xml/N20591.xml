@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N20591" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Diagnostics immobiliers</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les diagnostics immobiliers visent à informer l'acquéreur ou le locataire sur certains aspects du logement qu'il projette d'acheter ou de louer.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-10</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N20591</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Locataire, Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20591" type="Dossier">Diagnostics immobiliers</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N323">Protection et sécurité de l'habitat</SousThemePere>
+<Fiche ID="F16096">Diagnostic de performance énergétique</Fiche>
+<Fiche ID="F1142">Constat de risque d'exposition au plomb</Fiche>
+<Fiche ID="F742">État d'amiante</Fiche>
+<Fiche ID="F3150">État relatif à la présence de termites</Fiche>
+<Fiche ID="F17337">État de l'installation intérieure de gaz</Fiche>
+<Fiche ID="F18692">État de l'installation intérieure d'électricité</Fiche>
+<Fiche ID="F31685">État de l'installation d'assainissement non collectif</Fiche>
+<Fiche ID="F12239">État des risques naturels, miniers et technologiques</Fiche>
+<Introduction>
+<Texte><Paragraphe>
+			Les diagnostics immobiliers visent à informer l'acquéreur ou le locataire sur certains aspects du logement qu'il projette d'acheter ou de louer.
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<QuestionReponse ID="F17376" audience="Particuliers">Où trouver un professionnel certifié pour réaliser les diagnostics immobiliers ?</QuestionReponse>
+<QuestionReponse ID="F10798" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de vente ?</QuestionReponse>
+<QuestionReponse ID="F33463" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de location ?</QuestionReponse>
+</Publication>

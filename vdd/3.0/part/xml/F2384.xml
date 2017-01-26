@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2384" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Virement, prélèvement et télépaiement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Certains moyens de paiement permettent de transférer des sommes directement de compte bancaire à compte bancaire, sans passer par un instrument tel que carte bancaire, chèque ou argent liquide. Il s'agit du virement, du prélèvement automatique et du télépaiement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-12</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2384</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F2384" type="Fiche d'information">Virement, prélèvement et télépaiement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Transfert d'argent</SousDossierPere>
+<Introduction>
+<Texte>
+<Paragraphe>Certains moyens de paiement permettent de transférer des sommes directement de compte bancaire à compte bancaire, sans passer par un instrument tel que carte bancaire, chèque ou argent liquide.
+		
+			Il s'agit du virement, du prélèvement automatique et du télépaiement.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Virement  </Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Principe</Paragraphe>
+</Titre><Paragraphe>Le titulaire d'un compte bancaire peut donner l'ordre à sa banque de transférer des sommes de ce compte vers un autre compte, dont il possède un <LienIntra LienID="R11497" type="Définition de glossaire">relevé d'identité bancaire (Rib)</LienIntra>. La personne qui paie est le débiteur, celle qui reçoit l'argent est le créancier.</Paragraphe>
+<Paragraphe>L'ordre ainsi donné est un virement : il peut être donné au guichet, par courrier ou par internet selon la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>.</Paragraphe>
+<Paragraphe>Un virement peut alimenter des comptes d'autres personnes ou ses propres  comptes (comptes d'épargne par exemple : <LienInterne LienPublication="N20376" type="Dossier" audience="Particuliers">livrets</LienInterne>, <LienInterne LienPublication="N89" type="Dossier" audience="Particuliers">assurance-vie</LienInterne>). Il peut être réalisé vers un compte tenu à l'étranger et dans une autre monnaie que l'euro.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Virement ponctuel</Paragraphe>
+</Titre>
+<Paragraphe>Un virement est dit ponctuel si l'ordre est émis pour une transaction unique.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Virement permanent (ou automatique)</Paragraphe>
+</Titre><Paragraphe>Un virement est dit permanent (ou automatique) si ordre est donné <LienInterne LienPublication="R10136" type="Modèle de document" audience="Particuliers">par écrit</LienInterne> ou par internet de le répéter plusieurs fois à fréquence régulière.</Paragraphe>
+<Paragraphe>L'ordre est établi pour une durée déterminée ou indéterminée.</Paragraphe>
+<Paragraphe>Il peut être annulé à tout moment par le débiteur par un <LienInterne LienPublication="R19869" type="Modèle de document" audience="Particuliers">courrier adressé à sa banque</LienInterne>.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le virement est le moyen ordinaire de <LienInterne LienPublication="R12472" type="Modèle de document" audience="Particuliers">paiement des salaires</LienInterne>.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>L'opération peut comporter des frais en dehors du paiement en lui-même. Le coût dépend des tarifs fixés par la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>. Ils varient selon que l'ordre ait été donné au guichet ou par internet, s'il s'agit d'un compte à l'étranger. Le coût est payé par le débiteur.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Prélèvement  </Paragraphe>
+</Titre>
+<Paragraphe>Plutôt que de payer par virement, un débiteur peut autoriser son créancier à prélever directement sur son compte bancaire l'argent qui lui revient.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Prélèvement ponctuel : titre interbancaire de paiement (Tip)</Paragraphe>
+</Titre><Paragraphe>Une personne, une entreprise ou une administration (le créancier) peut fournir un document intitulé <Citation>titre interbancaire de paiement (Tip)</Citation> à la personne qui lui doit de l'argent (le débiteur).</Paragraphe>
+<Paragraphe>Le débiteur peut alors payer en apposant sa signature sur cet encart et en le renvoyant par courrier.</Paragraphe>
+<Paragraphe>Lors du 1<Exposant>er</Exposant> paiement de ce genre effectué entre le créancier et le débiteur, ce dernier accompagne son envoi de Tip d'un Rib. </Paragraphe>
+<Paragraphe>Le Tip est ensuite adressé par le créancier à la banque du débiteur, qui prélève sur le compte de celui-ci la somme correspondante.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Prélèvement automatique</Paragraphe>
+</Titre><Paragraphe>Un débiteur peut donner de façon permanente à un créancier l'autorisation de faire prélever sur son compte les sommes dues, au fur et à mesure que les échéances de paiement arrivent. Le prélèvement est alors dit automatique.</Paragraphe>
+<Paragraphe>Ce type de règlement est souvent utilisé pour s'acquitter des sommes dues à un créancier qui a accordé un crédit (<LienInterne LienPublication="N96" type="Dossier" audience="Particuliers">crédit à la consommation</LienInterne> ou <LienInterne LienPublication="N20373" type="Dossier" audience="Particuliers">crédit immobilier</LienInterne>). Il serait aussi à payer ses factures de téléphone par exemple.</Paragraphe>
+<Paragraphe>Pour le mettre en place, le débiteur doit remettre au créancier l'ordre de prélèvement automatique que celui-ci lui présente, accompagné d'un relevé d'identité bancaire ( <LienIntra LienID="R11497" type="Définition de glossaire">Rib</LienIntra>).</Paragraphe>
+<Paragraphe>L'ordre donné peut être annulé par le débiteur sans avoir à motiver la décision, en adressant 2 courriers :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="R14623" type="Modèle de document" audience="Particuliers">une lettre à la banque</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et une lettre au créancier concerné.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est recommandé d'envoyer ces 2 courriers par lettre recommandée avec demande d'accusé de réception.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>L'opération peut comporter des frais en dehors du paiement en lui-même. Le coût dépend des tarifs fixés par la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>. Le coût est payé par le débiteur.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Télépaiement</Paragraphe>
+</Titre><Paragraphe>Il est parfois possible de régler ses factures à distance en utilisant un site internet, un service vocal ou un service mobile. Le paiement se fait notamment via sa <LienInterne LienPublication="F2424" type="Fiche d'information" audience="Particuliers">carte bancaire</LienInterne>.</Paragraphe>
+<Paragraphe>Pour accéder à un tel mode de paiement, une inscription préalable peut être nécessaire. Une fois celle-ci réalisée, il suffit de s'identifier et de confirmer son accord pour que la facture soit payée : le montant est prélevé sur son compte.</Paragraphe>
+<Paragraphe>Le paiement par carte bancaire peut engendrer des frais supplémentaires selon les termes de la <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte</LienInterne>. </Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F32501" audience="Particuliers">
+<Titre>Moyens de paiement en ligne</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R10136" URL="" type="Modèle de document">
+<Titre>Mettre en place un virement permanent</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19869" URL="" type="Modèle de document">
+<Titre>Annuler un virement permanent</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14623" URL="" type="Modèle de document">
+<Titre>Mettre fin à une autorisation de prélèvement (courrier à la banque)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12472" URL="" type="Modèle de document">
+<Titre>Demander à avoir son salaire versé par virement</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R35604" URL="http://www.banque-france.fr/ccsf/fr/infos_prat/telechar/banque/Lire_SEPA-6pages.pdf" audience="Particuliers" format="application/pdf" poids="281.0 KB">
+<Titre>Bien utiliser le virement SEPA dans toute l'Europe</Titre>
+<Source ID="R30618">Banque de France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R11973" URL="http://www.banques-sepa.fr/wp-content/uploads/2013/03/Fiche-virement-quest-ce-qui-change.pdf" audience="Particuliers" format="application/pdf" poids="31.3 KB">
+<Titre>Le virement Sepa</Titre>
+<Source ID="R30639">Fédération bancaire française</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1212" URL="http://www.banques-sepa.fr/wp-content/uploads/2013/03/Fiche-prelevement-quest-ce-qui-change.pdf" audience="Particuliers" format="application/pdf" poids="58.3 KB">
+<Titre>Le prélévement Sepa</Titre>
+<Source ID="R30639">Fédération bancaire française</Source>
+</PourEnSavoirPlus>
+<Definition ID="R11497">
+<Titre>Relevé d'identité bancaire (Rib)</Titre>
+<Texte>
+				<Paragraphe>Document permettant d'identifier un compte bancaire (numéro, banque, titulaire)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1424" audience="Particuliers">Quelle est la différence entre virement et prélévement bancaire ?</QuestionReponse>
+</Publication>

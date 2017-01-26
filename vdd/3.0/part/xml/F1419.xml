@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1419" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quel est le barème de l'impôt sur le revenu ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le barème sert à calculer le montant de l'impôt brut. Pour déterminer le montant à payer, il faut efffectuer plusieurs corrections.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1419</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179577&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162896&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/2490-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N247</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="F1419" type="Fiche Question-réponse">Quel est le barème de l'impôt sur le revenu ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N247">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre><SousDossier ID="N247-1">
+<Titre>Déclaration de revenus : mode d'emploi</Titre>
+<Fiche ID="F369">Première déclaration</Fiche>
+<Fiche ID="F358">Déclaration annuelle</Fiche>
+<Fiche ID="F388">Changement de situation</Fiche>
+</SousDossier>
+<SousDossier ID="N247-2">
+<Titre>Quotient familial selon les personnes à charge</Titre>
+<Fiche ID="F2633">Enfants mineurs</Fiche>
+<Fiche ID="F3085">Enfants majeurs</Fiche>
+<Fiche ID="F2661">Enfants handicapés</Fiche>
+<Fiche ID="F387">Personnes invalides</Fiche>
+</SousDossier>
+<SousDossier ID="N247-3">
+<Titre>Quotient familial selon la situation personnelle</Titre>
+<Fiche ID="F2705">Couple marié ou pacsé</Fiche>
+<Fiche ID="F2702">Personne seule ou en union libre</Fiche>
+</SousDossier>
+<SousDossier ID="N247-4">
+<Titre>Salaires et éléments du salaire</Titre>
+<Fiche ID="F1225">Revenus d'activité salariée</Fiche>
+<Fiche ID="F1226">Avantages en nature</Fiche>
+<Fiche ID="F1989">Frais professionnels : déduction forfaitaire ou frais réels</Fiche>
+<Fiche ID="F408">Indemnités de fin de contrat</Fiche>
+<Fiche ID="F1228">Sommes perçues par les jeunes</Fiche>
+</SousDossier>
+<SousDossier ID="N247-5">
+<Titre>Pensions, retraites et rentes imposables</Titre>
+<Fiche ID="F415">Pensions de retraite</Fiche>
+<Fiche ID="F3169">Pensions d'invalidité</Fiche>
+<Fiche ID="F3170">Pensions alimentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N247-6">
+<Titre>Revenus fonciers et mobiliers</Titre>
+<Fiche ID="F2613">Revenus mobiliers</Fiche>
+<Fiche ID="F21618">Plus-values sur valeurs mobilières</Fiche>
+<Fiche ID="F10864">Plus-values immobilières</Fiche>
+<Fiche ID="F1991">Revenus fonciers : logements non meublés</Fiche>
+<Fiche ID="F32744">Revenus locatifs : logements meublés</Fiche>
+</SousDossier>
+</DossierPere>
+<Avertissement ID="R35411" date="2017-01-01">
+<Titre>Impôt sur le revenu : déclaration 2017 des revenus de 2016</Titre>
+<Texte>
+				<Paragraphe>Le contenu de cette page est à jour pour la déclaration des revenus de 2016 à l'exception des formulaires, services en ligne et documents d'information. Ceux-ci seront mis en ligne dès qu'ils seront disponibles.</Paragraphe>
+			</Texte>
+</Avertissement>
+
+<Texte><Paragraphe>L’impôt sur le revenu est calculé par l’application d’un barème (pourcentage) actualisé chaque année.</Paragraphe>
+<Paragraphe>Le barème comporte plusieurs tranches soumises à différents taux qui augmentent progressivement en fonction de l'importance des revenus.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>1. Détermination de  l'impôt brut.</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Il se calcule à partir du revenu net imposable, en 3 grandes étapes :</MiseEnEvidence>
+</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Division du revenu net imposable par le nombre de parts de quotient familial</MiseEnEvidence> </Paragraphe>
+<Paragraphe>Le nombre de parts auquel vous avez droit dépend de votre situation familiale et des personnes à votre charge (enfants mineurs, majeurs, handicapés, personnes invalides).</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Application du barème</MiseEnEvidence>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Au chiffre obtenu, vous appliquez le barème prévu pour une part de quotient familial.</Paragraphe>
+<Tableau>
+<Titre>Barème de l'impôt sur les revenus de 2016 pour une part de quotient familial avant application des effets du quotient familial</Titre>
+<Colonne largeur="47" type="normal"/>
+<Colonne largeur="46" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Fraction de revenu net imposable</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'imposition</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>9 710 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De <Valeur>9 710 €</Valeur> à  <Valeur>26 818 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De <Valeur>26 818 €</Valeur> à <Valeur>71 898 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>30 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De <Valeur>71 898 €</Valeur> à <Valeur>152 260 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>41 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de <Valeur>152 260 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>45 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Multiplication de l'impôt ainsi obtenu par le nombre de parts</MiseEnEvidence>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En multipliant le montant obtenu par le nombre de parts, vous obtenez le montant total de l'impôt brut.</Paragraphe>
+<Paragraphe>Exemple d'application du barème pour un célibataire (quotient familial d'1 part)  ayant perçu un revenu net imposable de <Valeur>27 000 €</Valeur>.</Paragraphe>
+<Paragraphe>- Fraction jusqu'à <Valeur>9 710 €</Valeur> : <Valeur>0 €</Valeur>
+</Paragraphe>
+<Paragraphe>- De <Valeur>9 710 €</Valeur> à <Valeur>26 818 €</Valeur> : ( <Valeur>26 818 €</Valeur>- <Valeur>9 710 €</Valeur>) x 14 % = <Valeur>17108  €</Valeur> x 14 % = <Valeur>2 395,12 €</Valeur>
+</Paragraphe>
+<Paragraphe>- De <Valeur>26 818 €</Valeur> à <Valeur>27 000 €</Valeur> : ( <Valeur>27 000 €</Valeur> -  <Valeur>26 818 €</Valeur>) x 30 % = <Valeur>182 €</Valeur> x 30 % = <Valeur>54,6 €</Valeur>
+</Paragraphe>
+<Paragraphe>L'addition des montants d'impôt obtenus par tranche et multiplié par le nombre de parts (ici égal à 1) donne le montant total de l'impôt brut : <Valeur>0 €</Valeur> + <Valeur>2 395,12 €</Valeur> + <Valeur>54,6 €</Valeur> = <Valeur>2 449,72 €</Valeur>.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>2. Pour obtenir l'impôt net à payer, plusieurs corrections sont apportées au montant de l'impôt brut :</MiseEnEvidence> </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Plafonnement des effets du quotient familial</MiseEnEvidence> </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'avantage en impôt lié au nombre de parts est plafonné dans certaines situations. </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Décote en cas de faibles ressources</MiseEnEvidence>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous bénéficiez d'une décote si le montant brut de votre impôt sur le revenu ne dépasse pas <Valeur>1 553 €</Valeur> (pour les célibataires, divorcés ou veufs) ou <Valeur>2 560 €</Valeur> (pour les couples soumis à imposition commune).</Paragraphe>
+<Paragraphe>La décote est égale à la différence entre, selon le cas, <Valeur>1 165 €</Valeur> ou <Valeur>1 920 €</Valeur> et les 3/4 du montant de votre impôt.</Paragraphe>
+<Paragraphe>Exemple pour un impôt brut de <Valeur>1 400 €</Valeur>.</Paragraphe>
+<Paragraphe>3/4 x <Valeur>1 400 €</Valeur> = <Valeur>1 050 €</Valeur>
+</Paragraphe>
+<Paragraphe>La décote est de <Valeur>1 165 €</Valeur> - <Valeur>1 050 €</Valeur> = <Valeur>115 €</Valeur> (célibataire) ou de <Valeur>1 920 €</Valeur>- <Valeur>1 050 €</Valeur>= <Valeur>870 €</Valeur> (couple).</Paragraphe>
+<Paragraphe>Le montant de l'impôt après décote est de <Valeur>1 400 €</Valeur>- <Valeur>115 €</Valeur> = <Valeur>1 285 €</Valeur> (célibataire) ou de <Valeur>1 400 €</Valeur> - <Valeur>870 €</Valeur> = <Valeur>530 €</Valeur> (couple).</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Allégement de l'impôt brut sous conditions de ressources</MiseEnEvidence>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si votre <LienInterne LienPublication="F13216" type="Fiche Question-réponse" audience="Particuliers">revenu fiscal de référence</LienInterne> est inférieur ou égal à <Valeur>20 500 €</Valeur> (célibataires, veufs, divorcés) ou <Valeur>41 000  €</Valeur>(couples soumis à imposition commune), le montant de votre impôt brut est diminué de <Valeur>20 %</Valeur>. </Paragraphe>
+<Paragraphe>Le seuil du revenu fiscal de référence pris en compte est augmenté de <Valeur>3 700 €</Valeur> pour chacune des demi-parts suivantes, et de <Valeur> 1 850 €</Valeur> pour chacun des quarts de parts suivants.</Paragraphe>
+<Paragraphe>Au delà d'un revenu fiscal de référence de <Valeur>18 500 €</Valeur> (célibataires, veufs, divorcés) ou <Valeur>37 000 €</Valeur> (couples soumis à une imposition commune), la réduction de <Valeur>20 %</Valeur> est dégressive en fonction du revenu. </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Contribution exceptionnelle sur les hauts revenus</MiseEnEvidence>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La contribution exceptionnelle peut s'ajouter à l'impôt sur le revenu en cas de hauts revenus.</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<MiseEnEvidence>Réductions d'impôt</MiseEnEvidence>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les réductions d'impôt auxquelles vous avez droit doivent être retranchées du montant de votre impôt. Par exemple, réductions pour dons aux organismes d'intérêt général.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>3. Pour calculer le montant de votre impôt, vous pouvez :</MiseEnEvidence>
+</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Consulter la <LienExterne URL="http://www2.impots.gouv.fr/documentation/2016/brochure_ir/index.html">brochure en ligne sur la déclaration de revenus</LienExterne>
+
+ et la <LienInterne LienPublication="R1281" type="Formulaire" audience="Particuliers">notice explicative de la déclaration de revenus</LienInterne>. Ces documents contiennent une fiche permettant de calculer le montant de l'impôt.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Utiliser le simulateur de calcul</Paragraphe>
+</Item>
+</Liste><ServiceEnLigne ID="R2740" URL="https://www3.impots.gouv.fr/simulateur/calcul_impot/2017/index.htm" type="Simulateur">
+<Titre>Simulateur de calcul pour 2017 : impôt sur les revenus de 2016</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Le simulateur de calcul vous permet, si vous résidez en France, de déterminer le montant de votre impôt sur le revenu.</Paragraphe>
+<Paragraphe>Deux outils de simulation sont proposés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> le <MiseEnEvidence>modèle simplifié</MiseEnEvidence> (déclaration de base n°2042) s'adresse aux personnes qui déclarent des salaires, des pensions ou des retraites, des revenus fonciers, des revenus de valeurs et capitaux mobiliers, et déduisent les charges les plus courantes (pensions alimentaires, frais de garde d'enfants, dons aux œuvres, etc.),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> le <MiseEnEvidence>modèle complet</MiseEnEvidence> (déclaration de base + déclaration complémentaire) s'adresse aux personnes qui déclarent, en plus des revenus et charges ci-dessus, des revenus d'activité autre que salariée (commerciale, libérale, agricole, etc.), des investissements locatifs, etc.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le montant calculé de votre impôt sur le revenu est indicatif. Il ne s'agit en aucun cas de la déclaration de revenus, qui devra être effectuée par ailleurs.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>l'impôt n'est pas à payer lorsque son montant, avant application d'éventuels crédits d'impôt, est inférieur à <Valeur>61 €</Valeur>.</Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N247" audience="Particuliers">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour joindre le service local gestionnaire de votre dossier</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179577&amp;cidTexte=LEGITEXT000006069577" ID="R31871">
+<Titre>Code général des impôts : articles 193 à 199</Titre>
+<Complement>Calcul de l'impôt sur le revenu</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006162896&amp;cidTexte=LEGITEXT000006069577" ID="R31825">
+<Titre>Code général des impôts : articles 1657 à 1659 A</Titre>
+<Complement>Montant en deçà duquel l'impôt n'est pas mis en recouvrement (article 1657)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/2490-PGP" ID="R31897">
+<Titre>Bofip-impôts n°BOI-IR-LIQ-20 relatif au calcul de l'impôt sur le revenu</Titre>
+</Reference>
+<ServiceEnLigne ID="R1281" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_268.pdf" format="application/pdf" poids="178.4 KB" numerocerfa="10330*20" autrenumero="2042" type="Formulaire">
+<Titre>Déclaration 2016 des revenus (papier)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R15720" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-notmv/2016/2041-notmv_27.pdf" numerocerfa="50796#16" format="application/pdf" poids="614.7 KB">Notice générale pour remplir les déclarations n°2042, 2042-C et 2042-C-PRO</NoticeLiee>
+<NoticeLiee ID="R40459" URL="https://www.impots.gouv.fr/portail/node/9143" numerocerfa="15018*03 (2041 FDC)">Déclaration des revenus - Fiche facultative de calculs</NoticeLiee>
+<NoticeLiee ID="R36611" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gv/2016/2041-gv_570.pdf" numerocerfa="50988#12" format="application/pdf" poids="0">Notice revenus 2015 : résidence alternée d'enfants mineurs</NoticeLiee>
+<NoticeLiee ID="R36724" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gp/2016/2041-gp_551.pdf" numerocerfa="50688#18" format="application/pdf" poids="103.5 KB">Notice revenus 2015 : allocations pour frais d'emploi</NoticeLiee>
+<NoticeLiee ID="R36723" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gt/2016/2041-gt_566.pdf" numerocerfa="50883#15">Notice revenus de 2015 : plafonnement des effets du quotient familial</NoticeLiee>
+<NoticeLiee ID="R36692" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gh/2016/2041-gh_531.pdf" numerocerfa="50149#20" format="application/pdf" poids="65.3 KB">Notice N°2041-GH - Revenus exceptionnels ou différés et cas particuliers</NoticeLiee>
+<NoticeLiee ID="R40371" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gn/2016/2041-gn_578.pdf" numerocerfa="50154#21" format="application/pdf" poids="118.8 KB">Notice revenus 2015 : revenus des valeurs et capitaux mobiliers (RCM)</NoticeLiee>
+<NoticeLiee ID="R36721" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gr/2016/2041-gr_555.pdf" numerocerfa="50794#17" format="application/pdf" poids="330.1 KB">Notice revenus 2015 : Travaux dans l'habitation principale</NoticeLiee>
+<NoticeLiee ID="R36677" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-gm/2016/2041-gm_547.pdf" numerocerfa="50153#21">Notice revenus 2015 : BIC non professionnels : revenus de locations meublées et autres activités BIC non professionnelles</NoticeLiee>
+<NoticeLiee ID="R43226" URL="https://www.impots.gouv.fr/portail/files/formulaires/2041-e/2016/2041-e_251.pdf" numerocerfa="50318#19" format="application/pdf" poids="257.7 KB">Notice revenus 2015 : personnes fiscalement domiciliées hors de France</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1280" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Déclaration 2016 en ligne des revenus</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R3120" URL="https://cfspart.impots.gouv.fr/LoginMDP" type="Téléservice">
+<Titre>Impôts : accéder à votre espace Particulier</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2740" URL="https://www3.impots.gouv.fr/simulateur/calcul_impot/2017/index.htm" type="Simulateur">
+<Titre>Simulateur de calcul pour 2017 : impôt sur les revenus de 2016</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41461" URL="http://www.impots.gouv.fr" audience="Particuliers">
+<Titre>Le site des impôts : impots.gouv.fr</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R17502" URL="http://www2.impots.gouv.fr/documentation/2016/brochure_ir/index.html" audience="Particuliers">
+<Titre>Brochure pratique 2016 - Déclaration des revenus de 2015</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F31130" audience="Particuliers">En quoi consiste la contribution exceptionnelle sur les hauts revenus ? </QuestionReponse>
+</Publication>

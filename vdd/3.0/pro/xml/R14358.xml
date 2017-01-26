@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14358" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Trouver le code postal d'une commune ou un code Cedex</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Pour connaître le code postal, le code Cedex d'une commune ou retrouver le nom d'une commune à partir de son code postal</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-01</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14358</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31378">Règles de domiciliation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14358" type="Téléservice">Trouver le code postal d'une commune ou un code Cedex</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Pour connaître le code postal, le code Cedex d'une commune ou retrouver le nom d'une commune à partir de son code postal</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.laposte.fr/professionnel/outils/trouver-un-code-postal">
+<Source>La Poste</Source>
+</LienWeb>
+<FicheLiee ID="F2160" audience="Professionnels" type="Fiche d'information">
+<Titre>Domiciliation d'une entreprise</Titre>
+<Dossier ID="N31378">Règles de domiciliation</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

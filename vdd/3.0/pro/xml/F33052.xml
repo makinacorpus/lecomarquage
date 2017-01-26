@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33052" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Demande de carte de séjour : quel justificatif de domicile ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe, Création - Modification - Cessation</dc:subject>
+<dc:description>Si vous êtes étranger non européen et demandez une carte de séjour, vous devez fournir un justificatif de domicile datant de moins de 3 mois. Le document à produire dépend de votre situation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-09</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33052</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16178</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="F33052" type="Fiche Question-réponse">Demande de carte de séjour : quel justificatif de domicile ?</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere><DossierPere ID="N16178">
+<Titre>Formalités de la création d'entreprise</Titre><SousDossier ID="N16178-1">
+<Titre>Commerçant</Titre>
+<Fiche ID="F22632">Ouverture d'un commerce</Fiche>
+<Fiche ID="F23573">Gérance d'un commerce</Fiche>
+<Fiche ID="F22537">Franchise</Fiche>
+<Fiche ID="F22494">Commerçant ou artisan étranger</Fiche>
+<Fiche ID="F23962">Vendeur à domicile</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-2">
+<Titre>Autres statuts</Titre>
+<Fiche ID="F23264">Auto-entrepreneur</Fiche>
+<Fiche ID="F23887">Artisan</Fiche>
+<Fiche ID="F23458">Profession libérale</Fiche>
+<Fiche ID="F31498">Entreprise individuelle à responsabilité limitée (EIRL)</Fiche>
+<Fiche ID="F32266">Conjoint du chef d'entreprise</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-3">
+<Titre>Autres secteurs d'activités</Titre>
+<Fiche ID="F23633">Entreprise de services à la personne</Fiche>
+<Fiche ID="F19087">Formateur ou organisme de formation</Fiche>
+<Fiche ID="F33830">Société de domiciliation d'entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Commerçant</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si vous êtes étranger non européen et demandez une carte de séjour, vous devez fournir un justificatif de domicile datant de moins de 3 mois. Le document à produire dépend de votre situation.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Si vous habitez votre propre logement</Paragraphe>
+</Titre><Paragraphe>Vous devez fournir  un des documents suivants : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>facture d'électricité ou de gaz, d'eau, de téléphone fixe ou d'accès à internet,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou bail de location de moins de 3 mois,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou quittance de loyer, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou taxe d'habitation.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si vous résidez à l'hôtel</Paragraphe>
+</Titre><Paragraphe>Vous devez fournir les 2 documents suivants : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>attestation de votre hôtelier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et facture du dernier mois.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si vous êtes hébergé chez un particulier (famille, ami...)</Paragraphe>
+</Titre><Paragraphe>Vous devez fournir les documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>attestation de votre hébergeant datée et signée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> copie de sa carte d'identité ou de sa carte de séjour,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>justificatif de domicile à son nom (acte de propriété ou  relevé de taxe d'habitation ou copie du bail de location ou facture d'électricité, de gaz, d'eau, de téléphone fixe ou d'accès à internet).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte>
+</Publication>

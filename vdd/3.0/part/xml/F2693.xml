@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2693" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un contrat de location peut-il interdire les animaux dans le logement ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Un locataire a le droit de détenir un animal domestique chez lui mais, dans certains cas, le bailleur peut le lui interdire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-07</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2693</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022319365&amp;cidTexte=LEGITEXT000006068375</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N349</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N349">Location immobilière : contrat de location (bail)</Niveau>
+<Niveau ID="F2693" type="Fiche Question-réponse">Un contrat de location peut-il interdire les animaux dans le logement ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N349">
+<Titre>Location immobilière : contrat de location (bail)</Titre>
+<Fiche ID="F920">Rédaction du contrat</Fiche>
+<Fiche ID="F1686">Clauses abusives</Fiche>
+<Fiche ID="F31269">Dépôt de garantie</Fiche>
+<Fiche ID="F31270">État des lieux</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>En principe, un locataire a le droit de détenir un animal domestique chez lui. Toutefois, le bailleur peut le lui interdire. La portée de cette interdiction varie selon la nature du contrat de location.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Logement à usage d'habitation</Paragraphe>
+</Titre><Paragraphe>Le locataire a le droit de détenir un ou plusieurs animaux domestiques dans son logement (loué vide ou meublé) dès lors qu'il assure la jouissance paisible des lieux et de l'immeuble. Il reste donc responsable des dégâts et des troubles anormaux de voisinage que son animal peut causer.</Paragraphe>
+<Paragraphe>Toutefois, le bailleur peut interdire la détention d'un <LienInterne LienPublication="F1839" type="Fiche d'information" audience="Particuliers">chien dangereux appartenant à la 1ère catégorie (chiens d'attaque)</LienInterne> par une clause insérée au sein du contrat de location.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Meublé de tourisme</Paragraphe>
+</Titre><Paragraphe>Dans une location saisonnière (<LienInterne LienPublication="F2045" type="Fiche d'information" audience="Particuliers">meublé de tourisme</LienInterne>), le bailleur a le droit d'interdire la présence de tout animal dans le logement.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022319365&amp;cidTexte=LEGITEXT000006068375" ID="R10443">
+<Titre>Loi du 9 juillet 1970 relative aux rapports des bailleurs et locataires : article 10</Titre>
+</Reference>
+</Publication>

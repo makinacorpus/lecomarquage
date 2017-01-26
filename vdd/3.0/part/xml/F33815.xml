@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33815" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment établir l'inventaire des biens d'un majeur protégé ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>En la qualité de curateur (renforcé), vous devez procéder à l'inventaire de la personne protégée. Cette étape obligatoire s'applique uniquement pour la curatelle renforcée. En cas de curatelle simple, vérifiez si le jugement rendu par le juge des tutelles mentionne cette obligation. Certaines personnes doivent être obligatoirement présentes. Il doit être réalisé de manière exhaustive dans les 3 mois suivant l'ouverture de la curatelle simple ou renforcée.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33815</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165761&amp;cidTexte=LEGITEXT000006070721, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189745&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N155</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N155">Protection juridique (tutelle, curatelle...)</Niveau>
+<Niveau ID="F33815" type="Fiche Question-réponse">Comment établir l'inventaire des biens d'un majeur protégé ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20091">Protection des personnes</SousThemePere><DossierPere ID="N155">
+<Titre>Protection juridique (tutelle, curatelle...)</Titre>
+<Fiche ID="F2075">Sauvegarde de justice</Fiche>
+<Fiche ID="F33367">Habilitation familiale</Fiche>
+<Fiche ID="F2094">Curatelle</Fiche>
+<Fiche ID="F2120">Tutelle d'une personne majeure</Fiche>
+<Fiche ID="F1336">Mesure d'accompagnement social personnalisé (Masp) ou judiciaire (Maj)</Fiche>
+<Fiche ID="F16670">Mandat de protection future</Fiche>
+</DossierPere>
+
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Curatelle renforcée</Titre>
+<Texte><Paragraphe>En la qualité de curateur (renforcé), vous devez procéder à l'<LienIntra LienID="R44776" type="Définition de glossaire">inventaire</LienIntra> de la personne protégée. Cette étape obligatoire s'applique uniquement pour la curatelle renforcée. En cas de curatelle simple, vérifiez si le jugement rendu par le juge des tutelles mentionne cette obligation.   Certaines personnes doivent être obligatoirement présentes.  Il doit être réalisé de manière exhaustive dans les 3 mois suivant l'ouverture de la curatelle simple ou renforcée.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai à respecter</Paragraphe>
+</Titre><Paragraphe>Dans les <MiseEnEvidence>3 mois</MiseEnEvidence> suivant l'ouverture  de la curatelle simple ou de la curatelle renforcée, le curateur doit procéder ou faire procéder à l'inventaire des biens de la personne protégée. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Formalisme</Paragraphe>
+</Titre><Paragraphe>L'inventaire peut être réalisé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par <LienIntra LienID="R17852" type="Définition de glossaire">acte sous seing privé</LienIntra> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra> (<LienIntra LienID="R18478" type="Local personnalisable">notaire</LienIntra>, <LienExterne URL="http://www.huissier-justice.fr">huissier</LienExterne>
+
+, commissaire priseur). </Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui doit être présent ?</Paragraphe>
+</Titre><Paragraphe>Les personnes devant être présentes lors des opérations d'inventaire varient selon qu'il s'agisse d'un acte sous seing privé ou d'un acte authentique. </Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Acte sous seing privé</Paragraphe>
+</Titre><Paragraphe>Les opérations d'inventaire sont réalisées en présence :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du curateur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la personne protégée, si son état de santé ou son âge le permet ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>éventuellement son avocat ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'il a été désigné, du <LienInterne LienPublication="F10507" type="Fiche Question-réponse" audience="Particuliers">subrogé curateur</LienInterne>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et 2 témoins. Ils ne doivent être ni au service de la personne protégée ni du curateur. </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Acte authentique</Paragraphe>
+</Titre><Paragraphe>Les opérations d'inventaire sont réalisées en présence :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du curateur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la personne protégée, si son état de santé ou son âge le permet ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>éventuellement son avocat ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'il a été désigné, du <LienInterne LienPublication="F10507" type="Fiche Question-réponse" audience="Particuliers">subrogé curateur</LienInterne>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et du <LienIntra LienID="R18478" type="Local personnalisable">notaire</LienIntra> ou de l'<LienExterne URL="http://www.huissier-justice.fr">huissier</LienExterne>
+
+, ou du commissaire priseur. </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Que contient l'inventaire ?</Paragraphe>
+</Titre><Paragraphe>L'inventaire contient :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une description des <LienIntra LienID="R44820" type="Définition de glossaire">meubles meublants</LienIntra>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une estimation des biens immobiliers ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une estimation des biens mobiliers ayant une valeur supérieure à <Valeur>1 500 €</Valeur>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la désignation des espèces en <LienIntra LienID="R2399" type="Définition de glossaire">numéraire</LienIntra>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un état des comptes bancaires, des placements et des autres <LienIntra LienID="R44823" type="Définition de glossaire">valeurs mobilières</LienIntra>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Au cours de la réalisation de l'inventaire, le curateur peut obtenir communication de tous renseignements et documents nécessaires auprès de toute personne publique ou privée, sans qu'il soit possible de lui opposer le secret professionnel ou le secret bancaire. </Paragraphe>
+<Paragraphe>L'inventaire est daté et signé par les personnes présentes. Il peut être également paraphé à chaque page. </Paragraphe>
+<Paragraphe>Une fois l'inventaire réalisé, le curateur doit le transmettre au juge.</Paragraphe>
+<Paragraphe>Au cours de sa mission, le curateur doit assurer l'actualisation de l'inventaire.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Tutelle</Titre>
+<Texte><Paragraphe>En la qualité  de tuteur, vous devez procéder à l'inventaire de la personne protégée.  L'<LienIntra LienID="R44776" type="Définition de glossaire">inventaire</LienIntra> peut prendre la forme soit d'un acte sous seing privé soit d'un acte authentique. Certaines personnes doivent être obligatoirement présentes. Il doit être réalisé de manière exhaustive dans les 3 mois suivant l'ouverture de la tutelle. </Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai à respecter</Paragraphe>
+</Titre><Paragraphe>Dans les <MiseEnEvidence>3 mois</MiseEnEvidence> suivant l'ouverture  de la tutelle, le tuteur doit procéder ou faire procéder à l'inventaire des biens de la personne protégée. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Formalisme</Paragraphe>
+</Titre><Paragraphe>L'inventaire peut être réalisé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par <LienIntra LienID="R17852" type="Définition de glossaire">acte sous seing privé</LienIntra> ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra> (<LienIntra LienID="R18478" type="Local personnalisable">notaire</LienIntra>, <LienExterne URL="http://www.huissier-justice.fr">huissier</LienExterne>
+
+, commissaire priseur). </Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Qui doit être présent ?</Paragraphe>
+</Titre><Paragraphe>Les personnes devant être présentes lors des opérations d'inventaire varient selon qu'il s'agisse d'un acte sous seing privé ou d'un acte authentique. </Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Acte sous seing privé</Paragraphe>
+</Titre><Paragraphe>Les opérations d'inventaire sont réalisées en présence :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du curateur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la personne protégée, si son état de santé ou son âge le permet ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>éventuellement son avocat ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'il a été désigné, du <LienInterne LienPublication="F10507" type="Fiche Question-réponse" audience="Particuliers">subrogé curateur</LienInterne>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et 2 témoins. Ils ne doivent être ni au service de la personne protégée ni du curateur. </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Acte authentique</Paragraphe>
+</Titre><Paragraphe>Les opérations d'inventaire sont réalisées en présence :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du curateur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la personne protégée, si son état de santé ou son âge le permet ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>éventuellement son avocat ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'il a été désigné, du <LienInterne LienPublication="F10507" type="Fiche Question-réponse" audience="Particuliers">subrogé curateur</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et du <LienIntra LienID="R18478" type="Local personnalisable">notaire</LienIntra> ou de l'<LienExterne URL="http://www.huissier-justice.fr">huissier</LienExterne>
+
+, ou du commissaire priseur. </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Que contient l'inventaire ?</Paragraphe>
+</Titre><Paragraphe>L'inventaire contient :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une description des <LienIntra LienID="R44820" type="Définition de glossaire">meubles meublants</LienIntra>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une estimation des biens immobiliers ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une estimation des biens mobiliers ayant une valeur supérieure à <Valeur>1 500 €</Valeur>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la désignation des espèces en <LienIntra LienID="R2399" type="Définition de glossaire">numéraire</LienIntra>;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un état des comptes bancaires, des placements et des autres <LienIntra LienID="R44823" type="Définition de glossaire">valeurs mobilières</LienIntra>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Au cours de la réalisation de l'inventaire, le tuteur peut obtenir communication de tous renseignements et documents nécessaires auprès de toute personne publique ou privée, sans qu'il soit possible de lui opposer le secret professionnel ou le secret bancaire. </Paragraphe>
+<Paragraphe>L'inventaire est daté et signé par les personnes présentes. Il peut être également paraphé à chaque page. </Paragraphe>
+<Paragraphe>Une fois l'inventaire réalisé, le tuteur le transmettre au juge.</Paragraphe>
+<Paragraphe>Au cours de sa mission, le tuteur doit assurer l'actualisation de l'inventaire.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165761&amp;cidTexte=LEGITEXT000006070721" ID="R44831">
+<Titre>Code civil : articles 503 à 504</Titre>
+<Complement>Obligation du curateur ou du tuteur (inventaire)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189745&amp;cidTexte=LEGITEXT000006072050" ID="R44587">
+<Titre>Code du travail : articles L4612-8 à L4612-15</Titre>
+<Complement>Liste des biens devant être inventoriés</Complement>
+</Reference>
+<Definition ID="R2399">
+<Titre>En numéraire</Titre>
+<Texte>
+				<Paragraphe>Paiement en argent, qui peut être sous forme d'espèces, de chèques, de virements, etc.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R44776">
+<Titre>Inventaire</Titre>
+<Texte>
+				<Paragraphe>Liste de tous les biens d'une personne.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R44823">
+<Titre>Valeurs mobilières</Titre>
+<Texte>
+				<Paragraphe>Terminologie qui englobe notamment les actions, les obligations, les titres de créances négociables et les parts d'OPCVM (Sicav et FCP), les bons de souscription et les certificats d'investissement. </Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R44820">
+<Titre>Meubles meublants</Titre>
+<Texte>
+				<Paragraphe>Meubles destinés à l'usage et à l'ornement des appartements, comme tapisseries, lits, sièges, glaces, pendules, tables, porcelaines et autres objets de cette nature. Les tableaux et les statues en font partie sauf les collections de tableaux qui peuvent être dans les galeries ou pièces particulières. </Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17851">
+<Titre>Acte authentique</Titre>
+<Texte>
+				<Paragraphe>Document établi par un officier public compétent (notaire, huissier, officier d'état civil), rédigé selon les formalités exigées par la loi et dont le contenu  peut avoir la même force qu'une décision judiciaire</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17852">
+<Titre>Acte sous seing privé</Titre>
+<Texte>
+				<Paragraphe>Acte rédigé et signé par des particuliers, sans la présence d'un notaire (par exemple, un contrat)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032037833&amp;cidTexte=LEGITEXT000006070721" ID="R2270">
+<Titre>Code civil : articles 1372 à 1377</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F33832" audience="Particuliers">Comment est vérifié le compte de gestion de curatelle ou de tutelle ?</QuestionReponse>
+<QuestionReponse ID="F3165" audience="Particuliers">Quel est le coût d'une tutelle ou d'une curatelle ?</QuestionReponse>
+<QuestionReponse ID="F10507" audience="Particuliers">Comment les proches peuvent-ils contrôler l'action du tuteur ou du curateur ?</QuestionReponse>
+<QuestionReponse ID="F10424" audience="Particuliers">Tutelle ou curatelle : quelles différences ?</QuestionReponse>
+<QuestionReponse ID="F21667" audience="Particuliers">Demande de tutelle, curatelle... : comment obtenir le certificat médical ?</QuestionReponse>
+<QuestionReponse ID="F23595" audience="Particuliers">Qui peut demander l'ouverture d'une sauvegarde de justice, curatelle ou tutelle?</QuestionReponse>
+<QuestionReponse ID="F23603" audience="Particuliers">Qui peut être nommé curateur, tuteur ou mandataire spécial ?</QuestionReponse>
+</Publication>

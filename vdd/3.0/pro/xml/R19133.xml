@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19133" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Auto-entrepreneur : déclaration en ligne du chiffre d'affaires (régime micro-social simplifié)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation, Fiscalité</dc:subject>
+<dc:description>Auto-entrepreneur : déclaration en ligne du chiffre d'affaires (régime micro-social simplifié) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-23</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19133</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19133" type="Téléservice">Auto-entrepreneur : déclaration en ligne du chiffre d'affaires (régime micro-social simplifié)</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13690*01</NumeroCerfa>
+<LienWeb URL="http://www.net-entreprises.fr/html/regime-micro-social.htm">
+<Source>Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</LienWeb>
+<FicheLiee ID="F20678" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment un micro-entrepreneur doit-il déclarer sa cessation d'activité ?</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23267" audience="Professionnels" type="Fiche d'information">
+<Titre>Imposition du micro-entrepreneur (régime micro-fiscal et micro-social)</Titre>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23257" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Micro-entrepreneur : quand déclarer son chiffre d'affaires ?</Titre>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

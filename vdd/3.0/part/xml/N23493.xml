@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N23493" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Obligation scolaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les parents ont l'obligation de donner une instruction à leur enfant. Cependant, ils peuvent choisir le mode d'instruction. Si leur choix se porte sur la scolarisation, l'assiduité de l'enfant sera contrôlée. L'objectif est que l'enfant atteigne la maîtrise du socle commun des connaissances à la fin de la scolarité obligatoire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-02-03</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N23493</dc:identifier>
+<dc:source>http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720, http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100761</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N23493" type="Dossier">Obligation scolaire</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere>
+<Fiche ID="F1898">Instruction obligatoire</Fiche>
+<Fiche ID="F1899">Assiduité scolaire et absentéisme</Fiche>
+<Fiche ID="F23429">École à la maison</Fiche>
+<Introduction>
+<Texte><Paragraphe>Les parents  ont l'obligation de donner une instruction à leur enfant. Cependant, ils peuvent choisir le mode d'instruction. Si leur choix se porte sur la scolarisation, l'assiduité de l'enfant sera contrôlée. L'objectif est que l'enfant  atteigne la maîtrise du socle commun des connaissances à la fin de la scolarité obligatoire</Paragraphe>
+</Texte>
+</Introduction><Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720" ID="R18647">
+<Titre>Circulaire n°2016-058 du 13 avril 2016 de rentrée scolaire 2016</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100761" ID="R19312">
+<Titre>Circulaire n°2016-054 du 13 avril 2016 relative à la liste des fournitures scolaires pour l'année 2016-2017</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R44085" URL="http://www.education.gouv.fr/cid251/les-etablissements-d-enseignement-prive.html" audience="Particuliers">
+<Titre>Les établissements d'enseignement privé</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F31952" audience="Particuliers">Quel est le calendrier des vacances scolaires 2016 - 2017 - 2018 ?</QuestionReponse>
+<QuestionReponse ID="F32770" audience="Particuliers">Quelle scolarité pour un enfant précoce ?</QuestionReponse>
+<QuestionReponse ID="F33876" audience="Particuliers">Établissement scolaire privé "hors contrat" : quelles sont les règles ?</QuestionReponse>
+</Publication>

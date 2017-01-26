@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N96" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Crédit à la consommation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le crédit à la consommation concerne les opérations autres que celles liées à l'immobilier. Il permet d'acheter des biens de consommation (meubles, informatique...). Le montant des crédits est compris entre 200 € et 75 000 €, et la durée de remboursement est supérieure à 3 mois. Plusieurs formes de crédit à la consommation existent comme le prêt personnel ou le crédit revolving (renouvelable).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-16</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N96</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Consommateur</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N96" type="Dossier">Crédit à la consommation</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere>
+<SousDossier ID="N96-1">
+<Titre>Différents types de crédit</Titre><Fiche ID="F2434">Crédit affecté</Fiche>
+<Fiche ID="F2435">Prêt personnel</Fiche>
+<Fiche ID="F2436">Crédit renouvelable ou revolving</Fiche>
+<Fiche ID="F2437">Location avec option d'achat (LOA)</Fiche>
+<Fiche ID="F2438">Crédit gratuit</Fiche>
+<Fiche ID="F2471">Carte privative (carte de crédit)</Fiche>
+<Fiche ID="F16242">Prêt viager hypothécaire</Fiche>
+<Fiche ID="F21375">Microcrédit personnel</Fiche>
+<Fiche ID="F986">Prêt étudiant garanti par l'État</Fiche>
+</SousDossier>
+<SousDossier ID="N96-2">
+<Titre>Gestion du crédit</Titre><Fiche ID="F2440">Information préalable de l'emprunteur</Fiche>
+<Fiche ID="F2451">Contrat de crédit</Fiche>
+<Fiche ID="F2457">Assurance emprunteur</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			Le crédit à la consommation concerne les opérations autres que celles liées à l'immobilier.
+		Il permet d'acheter des biens de consommation (meubles, informatique...).
+			
+      Le montant des crédits est compris entre
+      <Valeur>200 €</Valeur>
+      et
+      <Valeur>75 000 €</Valeur>, et la durée de remboursement est supérieure à 3 mois.
+    
+		Plusieurs formes de crédit à la consommation existent comme le prêt personnel ou le crédit revolving (renouvelable).</Paragraphe>
+</Texte>
+</Introduction><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R38209" URL="http://www2.impots.gouv.fr/enregistrement/reconnaissance/9_reconnaissance_dettes.htm" type="Modèle de document">
+<Titre>Modèle de reconnaissance de dettes ou prêts entre particuliers</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41465" URL="http://www.lafinancepourtous.com" audience="Particuliers">
+<Titre>Le site de la finance pour tous</Titre>
+<Source ID="R30693">Institut pour l'éducation financière du public (IEFP)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2925" URL="https://www.banque-france.fr/statistiques/taux-et-cours/taux-dusure" audience="Particuliers">
+<Titre>Taux d'usure</Titre>
+<Source ID="R30618">Banque de France</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10769" URL="http://www.lafinancepourtous.com/Banque-au-quotidien/Credit-a-la-consommation" audience="Particuliers">
+<Titre>Crédit à la consommation</Titre>
+<Source ID="R30693">Institut pour l'éducation financière du public (IEFP)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R19535" URL="http://europa.eu/youreurope/citizens/shopping/banking/credit-loans-and-mortgages/index_fr.htm" audience="Particuliers">
+<Titre>Crédits et prêts hypothécaires dans un autre pays européen</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2441" audience="Particuliers">Comment fonctionne le droit de rétractation ?</QuestionReponse>
+<QuestionReponse ID="F2456" audience="Particuliers">Qu'est-ce que le taux effectif global (TEG) ?</QuestionReponse>
+<QuestionReponse ID="F1354" audience="Particuliers">Qu'est-ce que le prêt sur gage ?</QuestionReponse>
+<QuestionReponse ID="F32191" audience="Particuliers">Qu'est-ce que la convention Aeras ?</QuestionReponse>
+</Publication>

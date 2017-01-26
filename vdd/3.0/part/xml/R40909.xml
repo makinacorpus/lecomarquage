@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R40909" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Résidence en Éhpad : calcul du montant restant à charge après déduction des aides publiques</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Résidence en Éhpad : calcul du montant restant à charge après déduction des aides publiques - Simulateur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-01</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R40909</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R40909" type="Simulateur">Résidence en Éhpad : calcul du montant restant à charge après déduction des aides publiques</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.pour-les-personnes-agees.gouv.fr/estimez-le-montant-de-votre-reste-charge">
+<Source>Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</LienWeb>
+<FicheLiee ID="F1802" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Apa : quel est le montant de votre reste à charge ?</Titre>
+<Dossier ID="N392">Allocations et aides aux personnes âgées</Dossier>
+</FicheLiee>
+<FicheLiee ID="F763" audience="Particuliers" type="Fiche d'information">
+<Titre>Établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Titre>
+<Dossier ID="N333">Hébergement des personnes âgées</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

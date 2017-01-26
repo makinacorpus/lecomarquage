@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31864" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles sont les différences entre les allocations logement ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Il existe 3 types d'allocations logement permettant de réduire vos dépenses de logement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31864</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20360</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20360">Allocations logement</Niveau>
+<Niveau ID="F31864" type="Fiche Question-réponse">Quelles sont les différences entre les allocations logement ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N305">Aides financières pour le logement</SousThemePere><DossierPere ID="N20360">
+<Titre>Allocations logement</Titre>
+<Fiche ID="F12006">Aide personnalisée au logement (APL)</Fiche>
+<Fiche ID="F13132">Allocation de logement familiale (ALF)</Fiche>
+<Fiche ID="F1280">Allocation de logement sociale (ALS)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>ll existe 3 types d'allocations logement :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F12006" type="Fiche d'information" audience="Particuliers">l'aide personnalisée au logement (APL)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1280" type="Fiche d'information" audience="Particuliers">l'allocation de logement sociale (ALS)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F13132" type="Fiche d'information" audience="Particuliers">l'allocation de logement familiale (ALF)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Elles visent à diminuer vos dépenses de logement (loyer ou prêt) et se distinguent par leurs conditions d'attribution et non par leur mode de calcul. Leur montant dépend notamment des ressources de votre foyer.</Paragraphe>
+<Paragraphe>Elles ne sont pas cumulables, vous ne pouvez  toucher qu'une seule de ces allocations.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>L'APL est versée en raison de la situation de votre logement (quelle que soit votre situation familiale : célibataire, marié, avec ou sans personne à charge)</MiseEnEvidence>. </Paragraphe>
+<Paragraphe>Il peut s'agir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un logement avec un loyer conventionné (convention entre votre propriétaire et l'État). Votre propriétaire est tenu de vous indiquer si votre logement a fait l'objet d'un conventionnement (la plupart des logements HLM sont conventionnés),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou d'un logement que vous avez acheté grâce à un <LienInterne LienPublication="F10793" type="Fiche d'information" audience="Particuliers">prêt conventionné</LienInterne> (convention entre votre banque et l'État).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En règle générale, l'APL est versée directement à votre propriétaire ou, en cas d'accession à la propriété, à votre banque. Votre loyer ou vos mensualités seront alors diminuées.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence> L'ALF est versée en raison de votre situation familiale</MiseEnEvidence> si vous êtes notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>bénéficiaire de prestations familiales (allocations familiales, complément familial...) ou de l'allocation d'éducation de l'enfant handicapé (AEEH),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou en  charge d'un enfant de moins de 21 ans ou d'un ascendant de plus de 65 ans ne disposant pas de ressources supérieures au plafond de l'allocation de solidarité aux personnes âgées (Aspa),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou marié(e) depuis moins de 5 ans, avec ou sans enfants, à condition que le mariage ait été célébré avant que les époux n'aient l'un et l'autre atteint l'âge de 40 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou enceinte, seule ou en couple, avec ou sans personne à charge.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'ALF vous est versée personnellement que vous soyez locataire ou propriétaire. Toutefois, si vous louez un logement HLM, l'ALF est versée directement à votre propriétaire qui diminue d'autant votre loyer.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>L'ALS est versée si vous ne pouvez prétendre ni à l'APL, ni à l'ALF</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>L'ALS vous est versée personnellement que vous soyez locataire ou propriétaire. Mais si vous êtes locataire d'un logement HLM, c'est votre propriétaire qui touche l'ALS, ce qui entraîne la baisse de votre loyer.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F12006" audience="Particuliers">
+<Titre>Aide personnalisée au logement (APL)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F13132" audience="Particuliers">
+<Titre>Allocation de logement familiale (ALF)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1280" audience="Particuliers">
+<Titre>Allocation de logement sociale (ALS)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R2972" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement/" type="Simulateur">
+<Titre>Simulateur Caf - Allocations logement (éligibilité et montant)</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F20841" audience="Particuliers">Comment recourir au médiateur de la Caisse d'allocations familiales (Caf) ?</QuestionReponse>
+<QuestionReponse ID="F1563" audience="Particuliers">Un étudiant peut-il prétendre à une aide au logement ?</QuestionReponse>
+<QuestionReponse ID="F3153" audience="Particuliers">Impôt sur le revenu : doit-on déclarer les prestations sociales et familiales ?</QuestionReponse>
+
+</Publication>

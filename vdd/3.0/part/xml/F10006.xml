@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10006" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Transfert d'argent par mandat cash, postal ou international</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le transfert d'argent liquide par mandat cash, postal ou international permet de donner ou recevoir de l'argent pour une transaction non commerciale. Le transfert peut se faire vers l'étranger.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-25</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10006</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F10006" type="Fiche d'information">Transfert d'argent par mandat cash, postal ou international</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Transfert d'argent</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le transfert d'argent liquide par mandat cash, postal ou international permet de donner ou recevoir de l'argent pour une transaction non commerciale. Le transfert peut se faire vers l'étranger.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Transfert d'argent</Paragraphe>
+</Titre><Paragraphe>Le transfert d'argent par mandat cash, postal ou international permet de donner ou recevoir de l'argent à une personne de son entourage.</Paragraphe>
+<Paragraphe>Contrairement au <LienInterne LienPublication="F2384" type="Fiche d'information" audience="Particuliers">virement</LienInterne>, il est possible de recevoir le montant d'un mandat en liquide et sans passer par un compte bancaire.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Transactions concernées</Paragraphe>
+</Titre><Paragraphe>Ces agences gérant des mandats peuvent préciser que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le mandat n'est adapté qu'à des situations de don, de remboursement ou de contribution à des frais, impliquant des personnes qui se connaissent. Par exemple, pour envoyer de l'argent à sa famille à l'étranger.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et le transfert d'argent ne doit pas avoir le caractère d'une transaction commerciale. </Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Cas d'utilisation</Paragraphe>
+</Titre><Paragraphe>Le mandat est plus particulièrement indiqué pour les personnes qui se trouvent dans au moins une  des situations suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>absence de compte bancaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>impossibilité de produire un justificatif de domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>incapacité à utiliser   d'autres moyens de paiement  tels que virement, carte bancaire ou chèque.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Envoi d'un mandat</Paragraphe>
+</Titre><Paragraphe>Le mandat peut être envoyé depuis une agence ou via internet.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Depuis une agence</Paragraphe>
+</Titre><Paragraphe>La personne qui souhaite adresser de l'argent par mandat peut se rendre dans un bureau de poste, une banque ou un bureau de change proposant le service. ll existe également des agences spécialisée dans ce type de transactions notamment pour les mandats vers l'étranger.</Paragraphe>
+<Paragraphe>Elle remplit un formulaire fournissant toutes les informations et les coordonnées demandées la concernant, ainsi que celles relatives au bénéficiaire.</Paragraphe>
+<Paragraphe>Le formulaire peut prévoir d'indiquer une question secrète, dont la réponse est connue du bénéficiaire, afin de sécuriser la transaction.</Paragraphe>
+<Paragraphe>L'émetteur du mandat remet au guichet le formulaire, après y avoir inscrit le montant à transférer.</Paragraphe>
+<Paragraphe>Il paie les sommes dues (sommes transférées, frais de dossier et, éventuellement, frais de change) et conserve une copie du formulaire.</Paragraphe>
+<Paragraphe>Il communique ensuite au bénéficiaire le montant et les coordonnées du mandat adressé.</Paragraphe>
+<Paragraphe>L'opérateur peut fixer un montant maximum en fonction du pays d'envoi ou de réception.</Paragraphe>
+<Paragraphe>Un mineur ne peut pas envoyer de mandat depuis une agence.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Via internet</Paragraphe>
+</Titre><Paragraphe>Le transfert d'argent peut être effectué à partir d'un espace sécurisé, après inscription et identification.</Paragraphe>
+<Paragraphe>L'opérateur peut fixer un montant maximum en fonction du pays d'envoi ou de réception.</Paragraphe>
+<Paragraphe>Un mineur ne peut pas envoyer de mandat de ce type.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réception d'un mandat</Paragraphe>
+</Titre><Paragraphe>Le mandat peut être retiré en espèces en agence ou directement versé sur le compte</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Retrait en agence</Paragraphe>
+</Titre><Paragraphe>Le bénéficiaire doit se présenter au guichet d'une banque, d'une poste ou d'un bureau de change appartenant au réseau utilisé par l'expéditeur du mandat.</Paragraphe>
+<Paragraphe>Il démontre qu'il est le bénéficiaire, en produisant une pièce d'identité ou en répondant à une série de questions, dont il est le seul à connaître les réponses. Pour accélérer les opérations, il peut donner les références du mandat que lui a communiquées l'expéditeur du mandat.</Paragraphe>
+<Paragraphe>Il reçoit ensuite en espèces le montant du mandat. Si le mandat a été envoyé depuis un autre pays, la somme est convertie en monnaie locale.</Paragraphe>
+<Paragraphe>Un mineur de plus de 16 ans peut retirer un mandat en espèces sans autorisation parentale. Les mineurs de moins de 16 ans ne peuvent pas toucher de mandat.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre>
+<Paragraphe>si le montant est  élevé, le guichet peut demander à être prévenu au moins 1 ou 2 jours avant de remettre les espèces.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Versement sur un compte</Paragraphe>
+</Titre><Paragraphe>Le bénéficiaire peut percevoir le mandat par simple inscription de son montant, pour sa valeur en monnaie locale, au crédit de son compte bancaire ou postal.</Paragraphe>
+<Paragraphe>Pour cela, il faut que l'expéditeur du mandat ait indiqué expressément qu'il souhaitait faire un mandat de versement sur compte et ait fourni les références du compte concerné.</Paragraphe>
+<Paragraphe>L'opération s'apparente alors à un <LienInterne LienPublication="F2384" type="Fiche d'information" audience="Particuliers">virement</LienInterne> qui, au lieu d'être réalisé de compte à compte, est réalisé d'espèces à compte.</Paragraphe>
+<Paragraphe>Le bénéficiaire n'a ni à se déplacer jusqu'à un guichet, ni à prouver sa qualité de bénéficiaire.</Paragraphe>
+<Paragraphe>Un mineur de plus de 16 ans peut bénéficier de ce type de virement et retirer seul l'argent de son compte. Les mineurs de moins de 16 ans doivent avoir <LienInterne LienPublication="F21035" type="Fiche Question-réponse" audience="Particuliers">l'autorisation de leur parents</LienInterne> pour retirer de l'argent.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Le coût varie suivant les agences et les options choisies.</Paragraphe>
+<Paragraphe>Il est souvent supporté par l'expéditeur, y compris en cas d'opérations de change.</Paragraphe>
+<Paragraphe>L'agence française de développement (AFD) met à la disposition du public un <LienInterne LienPublication="R18431" type="Simulateur" audience="Particuliers">comparateur des offres de prestation pour les transferts d'argent depuis la France vers l'étranger</LienInterne> .</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F794" audience="Particuliers">
+<Titre>Douane : argent transféré à l'étranger</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F801" audience="Particuliers">
+<Titre>Douane : argent transféré en France</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre>
+<Complement>Pour s'informer</Complement><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R31405" type="National">
+<Titre>Banques opératrices de transfert d'argent</Titre>
+<Complement>Pour effectuer la démarche</Complement>
+<RessourceWeb URL="http://www.envoidargent.fr/content/banques"/>
+</OuSAdresser>
+<OuSAdresser ID="R31406" type="National">
+<Titre>Opérateurs de transfert d'argent (hors banques)</Titre>
+<Complement>Pour effectuer la démarche</Complement>
+<RessourceWeb URL="http://www.envoidargent.fr/content/op%C3%A9rateurs-de-transfert"/>
+</OuSAdresser>
+<ServiceEnLigne ID="R18431" URL="http://www.envoidargent.fr" type="Simulateur">
+<Titre>Comparer les coûts de transfert d'argent à l'étranger depuis la France</Titre>
+<Source ID="R30840">Agence française de développement</Source>
+</ServiceEnLigne>
+</Publication>

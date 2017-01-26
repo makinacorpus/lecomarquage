@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1027" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de permis de visite (prison)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Demande de permis de visite (prison) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1027</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N276">Prison</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1027" type="Formulaire">Demande de permis de visite (prison)</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>13960*01</NumeroCerfa>
+<Texte><Paragraphe>Pour demander à rendre visite à une personne détenue dans un établissement pénitentiaire. </Paragraphe>
+
+</Texte>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13960">
+<Source>Ministère en charge de la justice</Source>
+</LienWeb><NoticeLiee ID="R1051" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13960*01&amp;cerfaNotice=51405" numerocerfa="51405#01" format="application/pdf" poids="38.8 KB">Notice du formulaire de demande de permis de visite</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13960*01">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13960.do"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F14149" audience="Particuliers" type="Fiche d'information">
+<Titre>Prison : vie quotidienne d'un détenu</Titre>
+<Dossier ID="N276">Prison</Dossier>
+</FicheLiee><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R17020" type="Local">
+<Titre>Établissement pénitentiaire (prison)</Titre>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/etablissements-penitentiaires-10113/"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+</ServiceComplementaire>

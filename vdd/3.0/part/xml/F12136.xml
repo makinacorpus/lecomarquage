@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12136" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Citoyen européen : chercher du travail en France</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>En tant que citoyen de l'Espace économique européen (EEE) ou suisse, vous êtes autorisé à venir en France pour chercher du travail. Comme demandeur d'emploi, vous devez accomplir des démarches auprès de Pôle emploi et percevrez, sous certaines conditions, des allocations chômage. Pôle emploi et le réseau européen Eures peuvent vous permettre de trouver plus facilement un emploi.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12136</dc:identifier>
+<dc:source>http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02004R0883-20140101&amp;from=FR, http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02009R0987-20140101&amp;from=FR, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024540197&amp;cidTexte=LEGITEXT000006070158, http://circulaire.legifrance.gouv.fr/pdf/2011/04/cir_32884.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N105</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N105">Entrée d'un étranger en France</Niveau>
+<Niveau ID="F12136" type="Fiche d'information">Citoyen européen : chercher du travail en France</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N105">
+<Titre>Entrée d'un étranger en France</Titre><SousDossier ID="N105-1">
+<Titre>Européen</Titre>
+<Fiche ID="F13512">Entrée pour un court séjour</Fiche>
+<Fiche ID="F2651">Séjour de plus de 3 mois en tant qu'actif</Fiche>
+<Fiche ID="F12017">Séjour de plus de 3 mois en tant qu'inactif</Fiche>
+<Fiche ID="F21841">Séjour de plus de 3 mois d'un étudiant</Fiche>
+<Fiche ID="F12136">Demandeur d'emploi</Fiche>
+<Fiche ID="F13517">Refus d'entrée et expulsion</Fiche>
+</SousDossier>
+<SousDossier ID="N105-2">
+<Titre>Étranger d'un autre pays</Titre>
+<Fiche ID="F2191">Attestation d'accueil</Fiche>
+<Fiche ID="F16146">Visa de court séjour</Fiche>
+<Fiche ID="F16162">Visa de long séjour</Fiche>
+<Fiche ID="F2190">Refus d'entrée en France</Fiche>
+<Fiche ID="F11144">Zone d'attente</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Européen</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>En tant que citoyen de <LienIntra LienID="R42218" type="Définition de glossaire">l'Espace économique européen (EEE)</LienIntra> ou suisse, vous êtes autorisé à venir en France pour chercher du travail.  Comme demandeur d'emploi, vous devez accomplir des démarches auprès de Pôle emploi et  percevrez, sous certaines conditions, des allocations chômage. Pôle emploi et le réseau européen Eures
+
+      peuvent vous permettre de trouver plus facilement un emploi.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Droit au séjour pour recherche d'emploi</Paragraphe>
+</Titre><Paragraphe>Vous pouvez venir en France pour y rechercher un emploi pendant une période de 6 mois. </Paragraphe>
+<Paragraphe>Au-delà de ces 6 mois, si vous n'avez pas trouvé de travail, vous pouvez être obligé de quitter la France sauf si vous prouvez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>que vous continuez à rechercher activement un emploi ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et que vous avez de réelles chances d'être embauché dans un court délai (exemples : si vous détenez une qualification professionnelle recherchée ou avez une promesse d'embauche).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarches auprès de Pôle emploi</Paragraphe>
+</Titre><Paragraphe>Vous devez vous inscrire dès votre arrivée comme demandeur d'emploi.</Paragraphe>
+<Paragraphe>Vous devez vous adresser à l'agence Pôle emploi de votre domicile.</Paragraphe>
+<OuSAdresser ID="R194" type="Local personnalisé sur SP">
+<Titre>Pôle emploi</Titre>
+<PivotLocal>pole_emploi</PivotLocal>
+<RessourceWeb URL="http://www.pole-emploi.fr/informations/votre-pole-emploi-@/votre_pole_emploi/" commentaireLien="Pôle emploi - réseau local"/>
+<Source ID="R30668">Pôle emploi</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Allocations chômage</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Travail antérieur en Europe sans perception d'allocation de chômage</Paragraphe>
+</Titre><Paragraphe>Si vous avez précédemment travaillé dans l'EEE sans être indemnisé, vous pouvez percevoir des allocations en France en faisant valoir les périodes d'assurance chômage accomplies dans un autre pays.</Paragraphe>
+<Paragraphe>Pour cela, vous devez avoir repris une activité professionnelle en France (sauf cas particuliers : si vous êtes travailleur détaché ou si vous exercez votre activité dans plusieurs pays européens…).</Paragraphe>
+<Paragraphe>Par exemple, si vous venez en France, après avoir travaillé 5 ans en Italie, et que vous êtes licencié après avoir repris quelques jours une activité en France, vous pourrez percevoir le chômage. </Paragraphe>
+<Paragraphe>Vos allocations  chômage seront calculées sur vos périodes d'assurance accomplies en Italie et en France.</Paragraphe>
+<Paragraphe>Avant de venir en France, vous devez  avoir demandé le <Expression>document portable U1</Expression> à l'institution compétente du pays où vous avez travaillé.
+</Paragraphe>
+<Paragraphe> Ce document détaille les périodes prises en compte pour le calcul des prestations de chômage.</Paragraphe>
+<Paragraphe>Si vous ne détenez pas ce document, l'agence Pôle emploi de votre domicile pourra en faire la demande. Renseignez-vous auprès de votre agence.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Maintien des allocations chômage perçues en Europe</Paragraphe>
+</Titre><Paragraphe>Si avant votre départ pour la France, vous perceviez des allocations chômage dans un autre pays européen, vous pouvez continuer à en bénéficier en France. </Paragraphe>
+<Paragraphe>Vos allocations sont normalement maintenues pendant 3 mois (mais extension possible à 6 mois maximum), dans la limite des droits qui vous étaient ouverts dans le pays concerné.</Paragraphe>
+<Paragraphe>Pour cela, vous devez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir été inscrit comme demandeur d'emploi dans le pays européen où vous avez travaillé ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et y avoir recherché activement un emploi pendant au minimum 4 semaines après le début de votre chômage (sauf si vous avez été autorisé à partir avant la fin de ce délai).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Avant votre départ pour la France, procurez-vous le <Expression>document portable U2</Expression> (maintien des droits aux prestations de chômage) auprès de l'organisme payeur de vos allocations chômage.</Paragraphe>
+<Paragraphe>Muni de ce document, vous devez vous inscrire comme demandeur d'emploi auprès de l'agence Pôle emploi de votre domicile. </Paragraphe>
+<Paragraphe>Vous devez le faire dans les 7 jours qui suivent la date de votre cessation d'inscription comme demandeur d'emploi dans le pays que vous avez quitté.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recherche d'un emploi</Paragraphe>
+</Titre><Paragraphe>Vous pouvez consulter les offres d'emploi sur le site de  Pôle emploi.</Paragraphe>
+<ServiceEnLigne ID="R31528" URL="http://candidat.pole-emploi.fr/candidat/rechercheoffres/avancee" type="Téléservice">
+<Titre>Recherche d'offres d'emploi</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+
+<Paragraphe>Par ailleurs, vous pouvez consulter
+      la base de données des offres d'emploi
+      du site internet d'Eures. </Paragraphe>
+<Paragraphe>Le réseau Eures réunit les agences pour l'emploi des pays européens qui échangent les offres d'emploi pouvant intéresser des demandeurs d'emploi d'autres pays.</Paragraphe>
+<Paragraphe> <LienExterne URL="http://ec.europa.eu/eures">Portail européen sur la mobilité de l'emploi (EURES)</LienExterne>
+
+</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R250" type="Centre de contact">
+<Titre>3939 Allô Service Public</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3939 (coût : <Valeur>0,15 €</Valeur> TTC la minute)
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Répond aux demandes de renseignement administratif concernant les droits et démarches.
+		</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger ou hors métropole : +33 (0)1 73 60 39 39 uniquement depuis un poste fixe (coût d'une communication + coût de l'appel international variable selon les pays et les opérateurs).
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02004R0883-20140101&amp;from=FR" ID="R18120">
+<Titre>Règlement n°883/2004 du 29 avril 2004 sur la coordination des systèmes de sécurité sociale</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02009R0987-20140101&amp;from=FR" ID="R21190">
+<Titre>Règlement n°987/2009 du 16 septembre 2009 relatif à la coordination des systèmes de sécurité sociale</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024540197&amp;cidTexte=LEGITEXT000006070158" ID="R866">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : article R121-4</Titre>
+<Complement>Droit au séjour de plus de 3 mois des Européens en France (voir dernier alinéa)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaire.legifrance.gouv.fr/pdf/2011/04/cir_32884.pdf" ID="R11670" format="application/pdf" poids="1.5 MB">
+<Titre>Circulaire du 10 septembre 2010 sur le droit de séjour des citoyens européens et suisses ainsi que des membres de leur famille</Titre>
+<Complement>Point 3.2.6</Complement>
+</Reference>
+<ServiceEnLigne ID="R31528" URL="http://candidat.pole-emploi.fr/candidat/rechercheoffres/avancee" type="Téléservice">
+<Titre>Recherche d'offres d'emploi</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R19449" URL="http://www.cleiss.fr/reglements/index.html" audience="Particuliers">
+<Titre>Présentation de la coordination des systèmes de sécurité sociale européens</Titre>
+<Source ID="R30788">Centre des liaisons européennes et internationales de Sécurité sociale (Cleiss)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1026" URL="http://ec.europa.eu/social/main.jsp?catId=26&amp;langId=fr" audience="Particuliers">
+<Titre>Coordination de la sécurité sociale dans l'Union européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41785" URL="http://ec.europa.eu/eures" audience="Particuliers">
+<Titre>Portail européen sur la mobilité de l'emploi (EURES)</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<Definition ID="R42218">
+<Titre>Pays de l'Espace économique européen (EEE)</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Islande, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Malte, Norvège, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

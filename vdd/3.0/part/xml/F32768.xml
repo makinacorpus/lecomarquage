@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32768" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un salarié dont le contrat de travail est suspendu a-t-il des obligations ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Un salarié dont le contrat de travail est suspendu a-t-il des obligations ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-31</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32768</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006900862&amp;idSectionTA=LEGISCTA000006189417&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006900992&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19871</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19871">Contrats de travail dans le secteur privé</Niveau>
+<Niveau ID="F32768" type="Fiche Question-réponse">Un salarié dont le contrat de travail est suspendu a-t-il des obligations ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19962">Contrats et carrière</SousThemePere><DossierPere ID="N19871">
+<Titre>Contrats de travail dans le secteur privé</Titre><SousDossier ID="N19871-1">
+<Titre>Contrat à durée indéterminée (CDI)</Titre>
+<Fiche ID="F1906">Caractéristiques du CDI</Fiche>
+<Fiche ID="F2339">Modification du CDI</Fiche>
+<Fiche ID="F10033">Rupture du CDI</Fiche>
+</SousDossier>
+<SousDossier ID="N19871-2">
+<Titre>Contrat à durée déterminée (CDD)</Titre>
+<Fiche ID="F34">Cas de recours au CDD</Fiche>
+<Fiche ID="F36">Conclusion du CDD</Fiche>
+<Fiche ID="F41">Situation du salarié en CDD</Fiche>
+<Fiche ID="F38">Renouvellement d'un CDD</Fiche>
+<Fiche ID="F40">Fin du CDD</Fiche>
+</SousDossier>
+<SousDossier ID="N19871-3">
+<Titre>Contrat temporaire ou d'intérim</Titre>
+<Fiche ID="F11214">Cas de recours au contrat de travail temporaire (intérim)</Fiche>
+<Fiche ID="F11215">Durée du contrat</Fiche>
+<Fiche ID="F1873">Forme et contenu du contrat</Fiche>
+<Fiche ID="F11222">Droits du travailleur temporaire</Fiche>
+<Fiche ID="F11218">Renouvellement et fin du contrat</Fiche>
+<Fiche ID="F11220">Rupture anticipée du contrat</Fiche>
+<Fiche ID="F11221">Rémunération du salarié</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, pendant la <LienIntra LienID="R43526" type="Définition de glossaire">suspension de son contrat de travail</LienIntra>, le salarié reste tenu à certaines obligations vis-à-vis de son employeur. </Paragraphe>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Devoir de loyauté</Paragraphe>
+</Titre><Paragraphe>Pendant la période de suspension de son contrat de travail, le salarié est tenu envers son employeur à une obligation de loyauté. </Paragraphe>
+<Paragraphe>S'il le salarié travaille pour un concurrent durant une période de suspension de son contrat par exemple, il peut être licencié.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Devoir de discrétion</Paragraphe>
+</Titre><Paragraphe>Le salarié doit également respecter son obligation de discrétion, notamment concernant les informations confidentielles auxquelles il a accès à titre professionnel.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006900862&amp;idSectionTA=LEGISCTA000006189417&amp;cidTexte=LEGITEXT000006072050" ID="R911">
+<Titre>Code du travail : article L1222-5</Titre>
+<Complement>Loyauté</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006900992&amp;cidTexte=LEGITEXT000006072050" ID="R40066">
+<Titre>Code du travail : article L1227-1</Titre>
+<Complement>Discrétion</Complement>
+</Reference>
+<Definition ID="R43526">
+<Titre>Suspension d'un contrat de travail</Titre>
+<Texte>
+				<Paragraphe>Le contrat de travail est suspendu dans les cas suivants : exercice du droit de grève, fonction de juré d'assise, maladie ou accident du travail, congé de maternité, de paternité, d'adoption ou parental, congé pour création ou reprise d'entreprise, congé pour exercer un mandat, congé sabbatique, fermeture temporaire de l'entreprise (chômage technique), mise à pied.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F21050" audience="Particuliers">Quels sont les droits d'un salarié dont le contrat de travail est suspendu ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24418" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Démission d'un membre d'une association : quelle est la procédure ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Tout membre d'une association peut démissionner, sauf dans le cas particulier d'une association syndicale de propriétaires. L'accord de l'association n'est pas nécessaire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24418</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068624, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022443981</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19590</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N19590">Dirigeants et responsables d'une association</Niveau>
+<Niveau ID="F24418" type="Fiche Question-réponse">Démission d'un membre d'une association : quelle est la procédure ?</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+</Theme><DossierPere ID="N19590">
+<Titre>Dirigeants et responsables d'une association</Titre>
+<Fiche ID="F1121">Fonctionnement des instances dirigeantes</Fiche>
+<Fiche ID="F2335">Congé de représentation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Tout membre d'une association peut démissionner,  sauf dans le cas particulier d'une association syndicale de propriétaires. L'accord de l'association n'est pas nécessaire.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Notification de la démission</Paragraphe>
+</Titre><Paragraphe>Les <LienInterne LienPublication="F1120" type="Fiche d'information" audience="Associations">statuts</LienInterne> de l'association peuvent exiger que la démission soit présentée par écrit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> à l'assemblée générale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou aux instances dirigeantes (éventuellement en recommandé avec avis de réception).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Une fois la démission transmise, vous ne pouvez pas vous rétracter.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Préavis de démission</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Si la démission a pour conséquence la  <LienInterne LienPublication="F24417" type="Fiche Question-réponse" audience="Associations">démission comme dirigeant</LienInterne>, les statuts  peuvent exiger le respect d'un préavis permettant d'assurer une certaine transition.</Paragraphe>
+<Paragraphe>Si la démission n'a pas de conséquence sur les instances dirigeantes, l'association doit reconnaître immédiatement l'effectivité de la démission.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Alsace-Moselle</Paragraphe>
+</Titre><Paragraphe>Si la démission a pour conséquence la <LienInterne LienPublication="F24417" type="Fiche Question-réponse" audience="Associations">démission comme dirigeant</LienInterne>, les statuts  peuvent exiger le respect d'un préavis permettant d'assurer une certaine transition.</Paragraphe>
+<Paragraphe>Si la démission n'a pas de conséquence sur les instances dirigeantes, l'association peut prévoir dans ses statuts une demande de préavis (qui ne peut excéder 2 ans). </Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Effacement des fichiers de l'association</Paragraphe>
+</Titre><Paragraphe>Sauf accord explicite du démissionnaire, ses données personnelles sont effacées de tous les fichiers à traitement automatisé de l'association. Elles ne doivent plus être utilisées.</Paragraphe>
+<Paragraphe>Cela ne signifie pas que toute trace du passage du membre dans l'association soit effacée. En effet, les données personnelles nécessaires aux archives comptables et aux comptes-rendus de réunion ou d'activité  sont conservées.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R1903" type="Local personnalisé sur SP">
+<Titre>Centre de ressources et d'information pour les bénévoles (Crib)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>crib</PivotLocal>
+<RessourceWeb URL="http://www.associations.gouv.fr/30-les-centres-de-ressources.html?intermediation=1"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570" ID="R1751">
+<Titre>Loi du 1er juillet 1901 relative au contrat d'association</Titre>
+<Complement>Article 4</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068624" ID="R1791">
+<Titre>Loi n°78-17 du 6 janvier 1978 - Informatique et libertés</Titre>
+<Complement>Article 7</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022443981" ID="R24656">
+<Titre>Délibération n°2010-229 du 10 juin 2010 dispensant de déclaration les traitements automatisés de données à caractère personnel mis en œuvre par des organismes à but non lucratif</Titre>
+<Complement>Article 5</Complement>
+</Reference>
+<QuestionReponse ID="F71" audience="Associations">Quelle est la procédure pour exclure un membre d'une association ?</QuestionReponse>
+<QuestionReponse ID="F24417" audience="Associations">Peut-on refuser la démission d'un dirigeant d'une association ?</QuestionReponse>
+</Publication>

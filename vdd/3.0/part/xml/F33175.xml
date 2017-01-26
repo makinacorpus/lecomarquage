@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33175" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd" statut="enCoursDeMiseAJour">
+<dc:title>Quelle réglementation s'applique aux locations de vacances entre particuliers ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Tout dépend de la durée de la location de vacances. Il faut distinguer selon que la location dure plus ou moins 4 mois dans l'année.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-31</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33175</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19104</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N19104">Hébergement touristique</Niveau>
+<Niveau ID="F33175" type="Fiche Question-réponse">Quelle réglementation s'applique aux locations de vacances entre particuliers ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N168">Vacances</SousThemePere><DossierPere ID="N19104">
+<Titre>Hébergement touristique</Titre><SousDossier ID="N19104-1">
+<Titre>Hôtel</Titre>
+<Fiche ID="F31236">Réservation et annulation</Fiche>
+<Fiche ID="F2056">Vol, détérioration ou accident</Fiche>
+</SousDossier>
+<SousDossier ID="N19104-2">
+<Titre>Meublé de tourisme</Titre>
+<Fiche ID="F2043">Déclaration en mairie et classement</Fiche>
+<Fiche ID="F2045">Contrat de location</Fiche>
+<Fiche ID="F2046">Occupation des lieux</Fiche>
+</SousDossier>
+<SousDossier ID="N19104-3">
+<Titre>Camping et caravanage</Titre>
+<Fiche ID="F2058">Camping</Fiche>
+<Fiche ID="F2719">Caravanage</Fiche>
+</SousDossier>
+<SousDossier ID="N19104-4">
+<Titre>Autres types d'hébergement</Titre>
+<Fiche ID="F17452">Chambre d'hôtes</Fiche>
+<Fiche ID="F2069">Auberge de jeunesse</Fiche>
+</SousDossier>
+</DossierPere>
+<Avertissement ID="R46363" date="2017-01-03">
+<Titre>Location entre particuliers</Titre>
+<Texte>
+				<Paragraphe>La <LienExterne URL="https://www.legifrance.gouv.fr/eli/loi/2016/12/23/2016-1827/jo/texte">loi de financement de la sécurité sociale pour 2017</LienExterne>
+ prévoit, sous certaines conditions, l'affiliation obligatoire au régime social des indépendants (RSI) des particuliers louant un logement meublé  de manière répétée et pour de courtes durées à une clientèle de passage. </Paragraphe>
+				<Paragraphe>Cette page est en cours de mise à jour.</Paragraphe>
+			</Texte>
+</Avertissement>
+
+<Introduction>
+<Texte><Paragraphe>Tout dépend de la durée de la location de vacances. Il faut distinguer selon que la location dure plus ou moins 4 mois dans l'année. </Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Logement loué moins de 4 mois par an</Titre>
+<Texte>
+<Chapitre><Paragraphe>Si vous êtes locataire et que vous souhaitez  <LienInterne LienPublication="F2449" type="Fiche d'information" audience="Particuliers">sous-louer</LienInterne> le logement, vous devez au préalable obtenir une autorisation de votre propriétaire. Le loyer que vous percevrez ne devra pas être supérieur à celui que vous réglez à votre propriétaire. </Paragraphe>
+<Paragraphe>Si vous êtes propriétaire, vous n'êtes pas soumis à une réglementation et pouvez donc louer librement votre logement moins de 4 mois dans l'année sans devoir respecter de formalités particulières. </Paragraphe>
+<Paragraphe>Il est toutefois recommandé de prévoir un <LienInterne LienPublication="F2045" type="Fiche d'information" audience="Particuliers">contrat de location, ainsi qu'un dépôt de garantie</LienInterne> au même titre que les meublés de tourisme.</Paragraphe>
+<Paragraphe>Dans les 2 cas, vous devez demander votre inscription au répertoire Sirène de l'<LienInterne LienPublication="R12417" type="Acronyme">Insee</LienInterne>. Cette formalité est gratuite. Il faut vous adresser au greffe du tribunal de commerce du lieu du logement loué à l'aide du formulaire suivant : </Paragraphe><ServiceEnLigne ID="R13748" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11921.do" numerocerfa="11921*03" autrenumero="POi / P0i" type="Formulaire">
+<Titre>Déclaration de début d'activité - Personne physique exerçant une activité non salariée indépendante (P0i)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+<Introduction>
+<Texte><Paragraphe>Concerne les activités qui auparavant relevaient du CFE centre des impôts (artistes-auteurs, taxis-locataires, vendeurs à domicile indépendants, loueur en meublé non professionnel).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Attention>
+<Titre>Attention</Titre><Paragraphe>le loueur en meublé non professionnel doit adresser ce formulaire au greffe du tribunal de commerce.</Paragraphe>
+</Attention>
+</Texte><NoticeLiee ID="R13764" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11921&amp;cerfaNotice=50913" numerocerfa="50913#03">Notice pour la déclaration de début d'activité - Personne physique</NoticeLiee>
+<NoticeLiee ID="R18893" URL="https://www.impots.gouv.fr/portail/node/9855" numerocerfa="50813#12 - 974" format="text/html; charset=utf-8" poids="0">Guide pratique fiscal pour la déclaration de création d'entreprise BIC/BNC</NoticeLiee>
+</ServiceEnLigne>
+
+<Paragraphe>Cette démarche accomplie, un numéro SIRET vous sera attribué par l'<LienInterne LienPublication="R12417" type="Acronyme">Insee</LienInterne>. Ce numéro sera à reporter  sur votre <LienInterne LienPublication="R36751" type="Formulaire" audience="Particuliers">déclaration complémentaire de revenus</LienInterne>. En effet, les revenus tirés de la location, en tant que loueur non professionnel, sont soumis au <LienInterne LienPublication="F32744" type="Fiche d'information" audience="Particuliers">barème progressif de l'impôt sur le revenu</LienInterne>.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous faites appel à une plate-forme internet pour la mise en location de votre logement, elle  doit vous fournir, en janvier de chaque année, un document indiquant  le montant brut des transactions que vous avez opérées par son intermédiaire depuis un an. Cette obligation s'applique pour les transactions effectuées à partir du 1<Exposant>er</Exposant> juillet 2016.</Paragraphe>
+</ANoter><Paragraphe>En fonction de votre situation (lieu et utilisation personnelle du bien loué), il est  possible que vous ayez à payer   la cotisation foncière des entreprises. Vous devez consulter le service des impôts des entreprises (SIE) du lieu où se situe le logement  loué pour savoir si vous aurez ou non à régler  cet impôt :</Paragraphe><OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+
+<Paragraphe>Les communes peuvent demander aux vacanciers séjournant sur leur territoire de payer une <LienInterne LienPublication="F2048" type="Fiche Question-réponse" audience="Particuliers">taxe de séjour</LienInterne>. Vous devrez la collecter auprès du vacancier et la reverser à votre commune. La taxe peut également être réglée par le vacancier au professionnel qui assure le service de réservation par internet de votre logement.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+<Paragraphe>Dans le cadre de la location de votre logement, certaines précautions sont  à prendre  telles que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>protéger votre connexion internet afin qu'elle ne soit pas utilisée à des fins frauduleuses, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et veiller à ce que votre compagnie d'assurance couvre les dommages qui pourraient être causés par les vacanciers.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est également recommandé d'informer la personne à qui vous louez votre logement des spécificités de la copropriété (emplacement du local à poubelles, horaires du gardien, règles relatives à la présence d'animaux, aux bruits).</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>À partir de 4 mois par an</Titre>
+<Texte>
+<Chapitre><Paragraphe>Si vous êtes locataire et que vous souhaitez  <LienInterne LienPublication="F2449" type="Fiche d'information" audience="Particuliers">sous-louer</LienInterne> le logement plus de 4 mois, vous devez au préalable obtenir une autorisation de votre propriétaire. Le loyer que vous percevrez ne devra pas être supérieur à celui que vous réglez à votre propriétaire. </Paragraphe>
+<Paragraphe>Si vous êtes propriétaire, vous devez respecter la réglementation des meublés de tourisme (<LienInterne LienPublication="F2043" type="Fiche d'information" audience="Particuliers">déclaration</LienInterne>,      <LienInterne LienPublication="F2045" type="Fiche d'information" audience="Particuliers">contrat de location</LienInterne>, ...).</Paragraphe>
+<Paragraphe>Dans le cadre de la location de votre logement certaines précautions sont également à prendre telles que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>protéger votre connexion internet afin qu'elle ne soit pas utilisée à des fins frauduleuses, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et veiller à ce que votre compagnie d'assurance couvre les dommages qui pourraient être causés par les vacanciers.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est recommandé d'informer les vacanciers des spécificités de la copropriété (emplacement du local à poubelles, nom et horaires du gardien, règles relatives à la présence d'animaux et aux bruits...).</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F2043" audience="Particuliers">
+<Titre>Location de vacances en meublé de tourisme : déclaration et classement</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2045" audience="Particuliers">
+<Titre>Location de vacances en meublé de tourisme : contrat de location</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2046" audience="Particuliers">
+<Titre>Location de vacances en meublé de tourisme : occupation des lieux</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F32744" audience="Particuliers">
+<Titre>Impôt sur le revenu : revenus locatifs à déclarer (locaux meublés)</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<ServiceEnLigne ID="R13748" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11921.do" numerocerfa="11921*03" autrenumero="POi / P0i" type="Formulaire">
+<Titre>Déclaration de début d'activité - Personne physique exerçant une activité non salariée indépendante (P0i)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source><NoticeLiee ID="R13764" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11921&amp;cerfaNotice=50913" numerocerfa="50913#03">Notice pour la déclaration de début d'activité - Personne physique</NoticeLiee>
+<NoticeLiee ID="R18893" URL="https://www.impots.gouv.fr/portail/node/9855" numerocerfa="50813#12 - 974" format="text/html; charset=utf-8" poids="0">Guide pratique fiscal pour la déclaration de création d'entreprise BIC/BNC</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36751" URL="https://www.impots.gouv.fr/portail/files/formulaires/2042/2016/2042_279.pdf" format="application/pdf" poids="148.4 KB" numerocerfa="11222*19" autrenumero="2042-C-PRO" type="Formulaire">
+<Titre>Déclaration 2016 complémentaire des revenus des professions non salariées</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Abreviation ID="R12417" type="Acronyme">
+<Titre>Insee</Titre>
+<Texte>
+<Paragraphe>Institut national de la statistique et des études économiques</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F2048" audience="Particuliers">Qu'est-ce que la taxe de séjour ?</QuestionReponse>
+
+</Publication>

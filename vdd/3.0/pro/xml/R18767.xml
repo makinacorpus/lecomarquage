@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18767" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de rendez-vous pour la prestation d'un serment professionnel</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Création - Modification - Cessation</dc:subject>
+<dc:description>Permet d'obtenir un rendez-vous avec le tribunal d'instance (TI) ou de grande instance (TGI) si vous avez été récemment nommé(e) à des fonctions qui exigent que vous prêtiez serment. Selon la profession que vous allez exercer, soit le TI, soit le TGI est compétent. Vous pouvez dans certains cas avoir le choix entre l'un ou l'autre.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-26</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18767</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18767" type="Téléservice">Demande de rendez-vous pour la prestation d'un serment professionnel</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13486*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet d'obtenir un rendez-vous avec le tribunal d'instance (TI) ou de grande instance (TGI) si vous avez été récemment nommé(e) à des fonctions qui exigent que vous prêtiez serment.</Paragraphe>
+<Paragraphe>Selon la profession que vous allez exercer, soit le TI, soit le TGI est compétent. </Paragraphe>
+<Paragraphe>Vous pouvez dans certains cas avoir le choix entre l'un ou l'autre.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13486">
+<Source>Ministère en charge de la justice</Source>
+</LienWeb><NoticeLiee ID="R1582" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13486&amp;cerfaNotice=51210" numerocerfa="51210#01" format="application/pdf" poids="164.4 KB">Notice de la demande de rendez-vous pour la prestation d'un serment professionnel</NoticeLiee>
+
+<FicheLiee ID="F434" audience="Particuliers" type="Fiche d'information">
+<Titre>Recrutement et nomination d'un fonctionnaire</Titre>
+<Dossier ID="N500">Recrutement dans la fonction publique</Dossier>
+</FicheLiee><OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Dossier ID="N16178">
+<Titre>Formalités de la création d'entreprise</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

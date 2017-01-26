@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R20786" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Consultation du relevé de situation individuelle</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Permet à toute personne ayant acquis des droits à retraite dans des régimes de retraite légaux obligatoires de consulter son relevé de situation individuelle.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-22</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R20786</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R20786" type="Téléservice">Consultation du relevé de situation individuelle</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet à toute personne ayant acquis des droits à retraite dans des régimes de retraite légaux obligatoires de consulter son relevé de situation individuelle.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.lassuranceretraite.fr/portail-services-ihm/index.html#/authentifier">
+<Source>Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</LienWeb>
+<FicheLiee ID="F13890" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite dans la fonction publique : droit à l'information du futur retraité</Titre>
+<Dossier ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24617" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite dans le privé : droit à l'information sur la retraite du salarié</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F14101" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite dans le privé : retraite anticipée liée à la pénibilité du travail</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F21552" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite du salarié : calcul de la pension de retraite</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1761" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite du salarié : durée d'assurance</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F14044" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite du salarié : pension de retraite à taux plein</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F13845" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite du salarié : retraite anticipée pour carrière longue</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16337" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite du salarié : retraite anticipée pour handicap</Titre>
+<Dossier ID="N381">Retraite des salariés du secteur privé</Dossier>
+</FicheLiee>
+<Dossier ID="N379">
+<Titre>Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N381">
+<Titre>Retraite des salariés du secteur privé</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

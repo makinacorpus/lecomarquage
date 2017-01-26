@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R15893" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Registre d'une vente au déballage</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Financement et fiscalité d'une association, Argent, Vente - Commerce</dc:subject>
+<dc:description>Modèle obligatoire pour les braderies, vide-greniers et foires-à-tout. Le registre doit être conçu de manière que les feuilles soient inamovibles.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-09</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R15893</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31405">Financement et fiscalité d'une association</Niveau>
+<Niveau ID="N22179">Activités commerciales d'une association</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R15893" type="Formulaire">Registre d'une vente au déballage</Niveau>
+</FilDAriane>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<AutreNumero>Arrêté du 21 juillet 1992 fixant les modèles de registres</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Modèle obligatoire pour les braderies, vide-greniers et foires-à-tout. Le registre doit être conçu de manière que les feuilles soient inamovibles.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020722103&amp;cidTexte=LEGITEXT000006079581">
+<Source>Direction de l'information légale et administrative (Premier ministre)</Source>
+</LienWeb>
+<FicheLiee ID="F1813" audience="Associations" type="Fiche d'information">
+<Titre>Braderies, foires-à-tout et vide-greniers organisés par une association</Titre>
+<Dossier ID="N22179">Activités commerciales d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22397" audience="Particuliers" type="Fiche d'information">
+<Titre>Vente au déballage</Titre>
+<Dossier ID="N24033">Information et protection du consommateur pour tout achat</Dossier>
+</FicheLiee>
+<Dossier ID="N22179">
+<Titre>Activités commerciales d'une association</Titre>
+<Audience>Associations</Audience>
+</Dossier>
+</ServiceComplementaire>

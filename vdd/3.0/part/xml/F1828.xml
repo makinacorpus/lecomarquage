@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1828" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Est-ce que le tribunal correctionnel pour mineurs existe encore ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Non, le tribunal correctionnel pour mineurs a été supprimé le 1er janvier 2017.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1828</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23248</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N23248">Mineur auteur d'infraction</Niveau>
+<Niveau ID="F1828" type="Fiche Question-réponse">Est-ce que le tribunal correctionnel pour mineurs existe encore ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20279">Justice des mineurs</SousThemePere><DossierPere ID="N23248">
+<Titre>Mineur auteur d'infraction</Titre><SousDossier ID="N23248-1">
+<Titre>Mise en accusation</Titre>
+<Fiche ID="F1469">Garde à vue</Fiche>
+<Fiche ID="F1820">Instruction d'une affaire</Fiche>
+<Fiche ID="F1826">Mesures de restriction de liberté</Fiche>
+</SousDossier>
+<SousDossier ID="N23248-2">
+<Titre>Jugement et condamnation</Titre>
+<Fiche ID="F1840">Procédure devant le juge des enfants</Fiche>
+<Fiche ID="F1830">Procédure devant le tribunal pour enfants</Fiche>
+<Fiche ID="F1486">Procédure devant la Cour d'assises des mineurs</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe> Le tribunal correctionnel pour mineurs a été supprimé le 1<Exposant>er</Exposant> janvier 2017.</Paragraphe>
+<Paragraphe>Désormais, les affaires auparavant traitées par ce tribunal relèvent <LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">du tribunal pour enfants</LienInterne>.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F1830" audience="Particuliers">
+<Titre>Mineur délinquant : procédure devant le tribunal pour enfants</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R10199" URL="http://www.justice.gouv.fr/art_pix/chainepen.pdf" audience="Particuliers" format="application/pdf" poids="17.7 KB">
+<Titre>Juridictions pour les mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+</Publication>

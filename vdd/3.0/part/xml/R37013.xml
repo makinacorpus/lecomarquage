@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R37013" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de mesure conservatoire d'opposition à la sortie du territoire d'un mineur (conflit parental)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Permet à un parent de demander une mesure d'opposition à la sortie du territoire de son enfant mineur. À remplir et déposer en personne à la préfecture, sous-préfecture (commissariat ou gendarmerie si les services préfectoraux sont fermés)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R37013</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N18775">Séparation des parents</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R37013" type="Formulaire">Demande de mesure conservatoire d'opposition à la sortie du territoire d'un mineur (conflit parental)</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet à un parent de demander une mesure d'opposition à la sortie du territoire de son enfant mineur.</Paragraphe>
+<Paragraphe>À remplir et déposer en personne à la préfecture, sous-préfecture (commissariat ou gendarmerie si les services préfectoraux sont fermés)</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.interieur.gouv.fr/content/download/71417/521900/file/Formulaire%20OST%2015%20jours%20conflit%20parental%20-%20circulaire%2020-11-2012.xls">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F1774" audience="Particuliers" type="Fiche d'information">
+<Titre>Conflit parental sur la sortie de territoire d'un enfant mineur</Titre>
+<Dossier ID="N18775">Séparation des parents</Dossier>
+</FicheLiee>
+<Dossier ID="N18775">
+<Titre>Séparation des parents</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

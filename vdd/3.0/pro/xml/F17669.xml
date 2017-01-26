@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17669" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Permis de démolir</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement, Secteurs d'activité</dc:subject>
+<dc:description>Le permis de démolir est utilisé pour les projets de démolition totale ou partielle d'une construction protégée ou située dans un secteur protégé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-20</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17669</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006176166&amp;cidTexte=LEGITEXT000006074075</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13345</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13345">Urbanisme - BTP</Niveau>
+<Niveau ID="F17669" type="Fiche d'information">Permis de démolir</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N23450">Autres secteurs</SousThemePere><DossierPere ID="N13345">
+<Titre>Urbanisme - BTP</Titre><SousDossier ID="N13345-1">
+<Titre>Autorisations d'urbanisme</Titre>
+<Fiche ID="F1633">Certificat d'urbanisme</Fiche>
+<Fiche ID="F1986">Permis de construire</Fiche>
+<Fiche ID="F19450">Permis de construire modificatif</Fiche>
+<Fiche ID="F17665">Permis d'aménager</Fiche>
+<Fiche ID="F2698">Transfert d'un permis de construire ou d'aménager</Fiche>
+<Fiche ID="F17669">Permis de démolir</Fiche>
+<Fiche ID="F32190">Travaux sur un monument historique ou aux abords d'un monument historique</Fiche>
+<Fiche ID="F33368">Installation d'une éolienne domestique ou agricole</Fiche>
+</SousDossier>
+<SousDossier ID="N13345-2">
+<Titre>Déclarations de travaux</Titre>
+<Fiche ID="F17578">Déclaration préalable</Fiche>
+<Fiche ID="F23491">Déclaration de travaux à proximité de réseaux (DT-DICT)</Fiche>
+<Fiche ID="F23509">Permission de voirie pour travaux</Fiche>
+<Fiche ID="F1992">Déclaration d'ouverture de chantier</Fiche>
+<Fiche ID="F1997">Déclaration d'achèvement</Fiche>
+<Fiche ID="F2034">Garantie décennale en assurance construction</Fiche>
+</SousDossier>
+<SousDossier ID="N13345-3">
+<Titre>Établissement recevant du public (ERP)</Titre>
+<Fiche ID="F32351">Définition d'un ERP</Fiche>
+<Fiche ID="F31687">Procédures d'autorisation des ERP</Fiche>
+<Fiche ID="F31684">Règles de sécurité des ERP</Fiche>
+<Fiche ID="F32873">Obligation d'accessibilité des ERP aux personnes handicapées</Fiche>
+<Fiche ID="F33668">Homologation d'un équipement sportif ouvert au public</Fiche>
+</SousDossier>
+<SousDossier ID="N13345-4">
+<Titre>Exercice de l'architecture</Titre>
+<Fiche ID="F31902">Conditions d'exercice de l'architecture</Fiche>
+<Fiche ID="F31915">Droits et obligations de l'architecte</Fiche>
+<Fiche ID="F31970">Régime fiscal et social des architectes</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Autorisations d'urbanisme</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le permis de démolir est utilisé pour les projets de démolition totale ou partielle d'une construction protégée ou située dans un secteur protégé. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Travaux concernés</Paragraphe>
+</Titre><Paragraphe>Un permis de démolir est exigé lorsque la construction dont la démolition est envisagée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>relève d'une protection particulière (exemples : secteur protégé par un plan local d'urbanisme (Plu), secteur sauvegardé, bâtiment inscrit au titre des monuments historiques) ; </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou est située dans une commune où le conseil municipal a décidé d'instaurer le permis de démolir. En effet, le permis de démolir n'est pas obligatoire dans toute la France.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour savoir précisément si votre projet de démolition est soumis à permis, il convient de se renseigner auprès du service urbanisme de votre mairie.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34254" type="Local personnalisable">
+<Titre>Paris - Direction de l'urbanisme</Titre>
+<PivotLocal>paris_mairie_urbanisme</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/services-et-infos-pratiques/urbanisme-et-architecture/demandes-d-autorisations/demarches-2094#vos-contacts_1"/>
+<Source ID="R30894">Ville de Paris</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Constitution du dossier</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Démolition sans reconstruction</Paragraphe>
+</Titre><Paragraphe>S'il ne s'agit que d'une démolition, la demande de permis de démolir doit être effectuée au moyen d'un formulaire.</Paragraphe><ServiceEnLigne ID="R1980" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13405.do" format="application/force-download" poids="638.0 KB" numerocerfa="13405*04" type="Formulaire">
+<Titre>Demande de permis de démolir</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de démolir une construction sans réalisation d'une autre construction.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R18869" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice&amp;cerfaFormulaire=13410">Fiche complémentaire (si plusieurs demandeurs pour le même projet)</NoticeLiee>
+</ServiceEnLigne>
+
+<Paragraphe>Il doit être complété de pièces, dont la liste est énumérée sur la notice de demande de permis de démolir.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Démolition et reconstruction</Paragraphe>
+</Titre><Paragraphe> Si la démolition dépend d'un projet de construction ou d'aménagement, les formulaires de demande de <LienInterne LienPublication="F1986" type="Fiche d'information" audience="Professionnels">permis de construire</LienInterne> ou <LienInterne LienPublication="F17665" type="Fiche d'information" audience="Professionnels">d'aménager</LienInterne> permettent également de demander l'autorisation de démolir.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt du dossier</Paragraphe>
+</Titre><Paragraphe>Vous devez remettre votre dossier à votre mairie en 4 exemplaires.</Paragraphe>
+<Paragraphe>Celui-ci peut être déposé sur place ou envoyé par lettre recommandée avec avis de réception.</Paragraphe>
+<Paragraphe>À cette occasion, la mairie vous délivre (ou vous envoie) un récépissé comportant un numéro d'enregistrement qui mentionne le point de départ de la date à partir de laquelle les travaux pourront commencer en l'absence d'opposition du service instructeur.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai d'instruction</Paragraphe>
+</Titre><Paragraphe>Le délai d'instruction est généralement de 2 mois à partir de la date du dépôt de la demande.</Paragraphe>
+<Paragraphe>Un extrait de la demande du permis de démolir doit faire l'objet d'un affichage en mairie dans les 8 jours qui suivent son dépôt et rester affiché tout le temps de l'instruction, c'est-à-dire pendant 2 mois.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>dans certains cas (monument historique, parc national, établissement recevant du public, impact environnemental...), le délai d'instruction peut être plus long, vous en serez alors informé dans le mois qui suit le dépôt de votre demande en mairie.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décisions de la mairie</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Acceptation</Paragraphe>
+</Titre><Paragraphe>La décision de la mairie prend la forme d'un arrêté. Cette décision vous est adressée par lettre recommandée avec avis de réception ou par courrier électronique.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Refus</Paragraphe>
+</Titre><Paragraphe>Lorsqu'un permis de démolir vous a été refusé, vous avez la possibilité de demander à la mairie de revoir sa position. Cette demande s'effectue dans les 2 mois suivant le refus par lettre recommandée avec avis de réception.</Paragraphe>
+<Paragraphe>Si cette tentative échoue, vous avez 2 mois à partir de la date de la notification de la décision de refus pour saisir le tribunal administratif par lettre recommandée avec avis de réception.</Paragraphe><OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>À l'appui de votre recours, vous devez exposer clairement les raisons qui vous permettent de justifier votre droit à l'obtention d'un permis de démolir.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Absence de réponse au terme du délai d'instruction annoncé</Paragraphe>
+</Titre><Paragraphe>Si vous n'avez pas de réponse de la mairie au terme du délai d'instruction qu'elle vous a indiqué, cela signifie, en principe, qu'elle ne s'oppose pas à votre projet.</Paragraphe>
+<Paragraphe>En pratique, vous avez cependant intérêt à réclamer à la mairie un certificat attestant son absence d'opposition. La mairie doit vous le délivrer sur simple demande de votre part. Toutefois, si vous n'obtenez pas votre certificat dans un délai de 2 mois suivant votre demande, vous pouvez faire un recours devant le tribunal administratif.</Paragraphe><OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1988" audience="Particuliers">
+<Titre>Affichage de l'autorisation d'urbanisme sur le terrain</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006176166&amp;cidTexte=LEGITEXT000006074075" ID="R35547">
+<Titre>Code de l'urbanisme : articles R421-26 à R421-29</Titre>
+<Complement>Travaux nécessitant un permis de démolition</Complement>
+</Reference>
+<ServiceEnLigne ID="R1980" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13405.do" format="application/force-download" poids="638.0 KB" numerocerfa="13405*04" type="Formulaire">
+<Titre>Demande de permis de démolir</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R18869" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice&amp;cerfaFormulaire=13410">Fiche complémentaire (si plusieurs demandeurs pour le même projet)</NoticeLiee>
+</ServiceEnLigne>
+<QuestionReponse ID="F2082" audience="Professionnels">Urbanisme : quelle est la durée de validité d'une autorisation ?</QuestionReponse>
+<QuestionReponse ID="F642" audience="Particuliers">Infraction aux règles d'urbanisme : quel est le délai de prescription ?</QuestionReponse>
+<QuestionReponse ID="F33682" audience="Particuliers">Dans quels cas doit-on entreprendre des travaux d'isolation énergétique ? </QuestionReponse>
+</Publication>

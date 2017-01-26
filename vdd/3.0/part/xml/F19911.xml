@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F19911" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Malus et taxe CO₂ pour un véhicule polluant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Une écotaxe dite malus et une taxe dite taxe CO₂ sanctionnent financièrement l'acquisition ou la location (sous conditions) d'un véhicule particulier (VP) neuf ou d'occasion polluant, en fonction de la quantité de dioxyde de carbone (CO₂) émise par le véhicule. À ces taxes s'ajoute, les années suivant l'achat ou la location, le paiement d'une taxe annuelle sur la détention de VP polluants pour les véhicules dont le taux de CO₂ est le plus élevé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F19911</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018619161&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018029918&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020694387&amp;cidTexte=LEGITEXT000006069574, http://bofip.impots.gouv.fr/bofip/2707-PGP.html?ftsq=taxe+additionnelle+%C3%A0+la+taxe+sur+les+certificats+d&amp;identifiant=BOI-ENR-TIM-20-60-30-20140304, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029574487</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18131</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N18131">Mesures antipollution</Niveau>
+<Niveau ID="F19911" type="Fiche d'information">Malus et taxe CO₂ pour un véhicule polluant</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N18131">
+<Titre>Mesures antipollution</Titre><SousDossier ID="N18131-1">
+<Titre>Bonus écologique (prime)</Titre>
+<Fiche ID="F18132">Véhicule particulier propre (essence, GPL, gaz naturel)</Fiche>
+<Fiche ID="F32430">Véhicule particulier hybride rechargeable</Fiche>
+<Fiche ID="F34014">Véhicule électrique (voiture, 2 ou 3 roues)</Fiche>
+<Fiche ID="F18167">Camionnette (CTTE)</Fiche>
+</SousDossier>
+<SousDossier ID="N18131-2">
+<Titre>Remplacement d'un ancien diesel (prime à la casse)</Titre>
+<Fiche ID="F32487">Prime à la conversion : achat d'un véhicule neuf électrique ou hybride</Fiche>
+<Fiche ID="F32767">Aide pour une personne non imposable : achat d'un véhicule moins polluant</Fiche>
+</SousDossier>
+<SousDossier ID="N18131-3">
+<Titre>Pollution</Titre>
+<Fiche ID="F19911">Malus et taxe CO₂ pour un véhicule polluant</Fiche>
+<Fiche ID="F10332">Pollution atmosphérique</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Pollution</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Une écotaxe dite <Expression>malus</Expression> et une taxe dite <Expression>taxe CO₂ </Expression>sanctionnent financièrement l'acquisition ou la location (sous conditions) d'un véhicule particulier (VP) neuf ou d'occasion polluant, en fonction de la quantité de dioxyde de carbone (CO₂) émise par le véhicule.
+		
+			À ces taxes s'ajoute, les années suivant l'achat ou la location, le paiement d'une taxe annuelle sur la détention de VP polluants pour les véhicules dont le taux de CO₂ est le plus élevé.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Achat en France</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Véhicule neuf</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Véhicules concernés</Paragraphe>
+</Titre><Paragraphe>Le paiement de l'écotaxe additionnelle (appelée <Expression>malus</Expression>) sur le certificat d'immatriculation (ex-carte grise) se fait lors de la 1ère immatriculation en France d'un <LienIntra LienID="R10269" type="Définition de glossaire">véhicule particulier</LienIntra> polluant acheté ou loué (avec option d'achat de longue durée de 2 ans minimum) neuf en France.</Paragraphe>
+<Paragraphe>La taxe est calculée en fonction du nombre de grammes de CO₂  émis par kilomètre.</Paragraphe>
+<Paragraphe>Pour connaître ce niveau d'émission, il est possible d'utiliser le téléservice en indiquant la marque, le modèle et la version de la voiture.</Paragraphe><ServiceEnLigne ID="R18602" URL="http://carlabelling.ademe.fr/recherche/index?category" type="Simulateur">
+<Titre>Connaître le taux d'émission de CO2 de sa voiture</Titre>
+<Source ID="R30674">Agence de l'environnement et de la maîtrise de l'énergie (Ademe)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de connaître le niveau d'émission de CO2 de son véhicule en indiquant la marque, le modèle et la version de la voiture.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>
+<LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">les camionnettes (CTTE) et les véhicules pour personnes handicapées</LienInterne> ne sont pas concernés.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Montant de la taxe</Paragraphe>
+</Titre><Paragraphe>Il diffère selon que le véhicule  a fait l'objet d'une <LienIntra LienID="R1222" type="Définition de glossaire">réception communautaire</LienIntra> ou non.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Véhicule ayant fait l'objet d'une réception communautaire</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants du malus pour l'année 2017</Titre>
+<Colonne largeur="45" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Taux d'émission de Co<Indice>2</Indice> par kilomètre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieur ou égal à 126 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>127 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>50 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>128 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>53 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>129 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>60 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>130 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>73 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>131 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>90 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>132 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>113 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>133 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>140 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>134 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>173 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>135 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>210 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>136 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>253 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>137 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>300 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>138 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>353 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>139 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>410 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>140 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>473 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>141 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>540 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>142 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>613 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>143 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>690 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>144 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>773 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>145 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>860 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>146 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>953 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>147 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 050 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>148 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 153 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>149 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 260 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>150 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 373 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>151 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 490 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>152 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 613 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>153 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 740 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>154 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 873 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>155 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 010 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>156 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 153 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>157 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 300 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>158 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 453 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>159 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 610 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>160 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 773 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>161 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 940 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>162 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 113 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>163 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 290 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>164 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 473 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>165 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 660 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>166 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 853 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>167 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 050 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>168 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 253 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>169 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 460 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>170 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 673 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>171 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 890 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>172 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 113 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>173 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 340 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>174 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 573 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>175 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 810 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>176 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 053 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>177 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 300 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>178 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 553 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>179 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 810 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>180 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 073 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>181 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 340 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>182 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 613 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>183 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 890 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>184 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 173 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>185 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 460 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>186 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 753 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>187 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 050 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>188 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 353 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>189 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 660 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>190 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 973 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>191 grammes et plus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Pour les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85, le montant de la taxe est réduit de 40%.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les familles nombreuses peuvent bénéficier d'une <LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">minoration du malus</LienInterne>.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Véhicule n'en ayant pas fait l'objet</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants du malus pour l'année 2017</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Puissance fiscale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieure ou égale à 5 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>6 et 7 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>8 et 9 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>10 et 11 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De 12 à 16 CV inclus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 16 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre><Paragraphe>Si l'immatriculation est faite par le concessionnaire, le malus est inclus dans la facture dans la catégorie des "frais d'immatriculation". </Paragraphe>
+<Paragraphe>Si l'acheteur fait lui-même la démarche en préfecture, le malus est réglé en même temps que le certificat d'immatriculation.</Paragraphe>
+<Paragraphe>Ce paiement a lieu lors de l'immatriculation. </Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>C'est l'année de l'immatriculation qui compte, pas la date de commande ou d'achat</MiseEnEvidence>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Véhicule d'occasion</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Dans quel cas la taxe est-elle due ?</Paragraphe>
+</Titre><Paragraphe>Une taxe additionnelle (taxe CO₂) est due lors de l'établissement du certificat d'immatriculation suite à l'achat d'un véhicule d'occasion polluant mis en service depuis le 1<Exposant>er</Exposant> juin 2004.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>
+<LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">les camionnettes (CTTE) et les véhicules pour personnes handicapées</LienInterne> ne sont pas concernées.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Montant de la taxe</Paragraphe>
+</Titre><Paragraphe>Elle est calculée différemment selon que le véhicule a fait l'objet ou non d'une <LienIntra LienID="R1222" type="Définition de glossaire">réception communautaire</LienIntra>.</Paragraphe>
+<Paragraphe>Pour les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85, le montant de la taxe est réduit de 40%.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Véhicule ayant fait l'objet d'une réception communautaire</Paragraphe>
+</Titre><Paragraphe>La taxe additionnelle est calculée selon le nombre de grammes de CO₂  émis par kilomètre, selon le barème suivant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>2 €</Valeur> par gramme de dioxyde de carbone pour un taux supérieur à 200 g CO₂  / km et inférieur ou égal à 250 g CO₂  / km,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>4 €</Valeur> par gramme de dioxyde de carbone pour un taux supérieur à 250 g CO₂  / km.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Véhicule n'en ayant pas fait l'objet</Paragraphe>
+</Titre><Paragraphe>La taxe est calculée en fonction de la puissance fiscale (CV) :</Paragraphe>
+<Tableau>
+<Titre>Montant de la taxe en 2017</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Puissance fiscale (CV) </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant de la taxe </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Puissance inférieure à 10 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur> </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Puissance égale à 10 CV et inférieure à 15 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 €</Valeur> </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Puissance égale et supérieure à 15 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>300 €</Valeur> </Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre><Paragraphe>Si l'immatriculation est faite par le concessionnaire, le malus est inclus dans la facture dans la catégorie des frais d'immatriculation. Si l'acheteur fait lui-même la démarche en préfecture, le malus est réglé en même temps que le certificat d'immatriculation.</Paragraphe>
+<Paragraphe>Ce paiement a lieu lors de l'immatriculation. </Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>C'est l'année de l'immatriculation qui compte, pas la date de commande ou d'achat</MiseEnEvidence>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Taxe annuelle sur la détention d'un véhicule particulier polluant</Paragraphe>
+</Titre><Paragraphe>En plus de la taxe additionnelle due lors de l'établissement du certificat d'immatriculation, une taxe annuelle s'applique aux véhicules particuliers les plus polluants.</Paragraphe>
+<Paragraphe>Elle est due à partir de l'année qui suit la délivrance du certificat d'immatriculation du véhicule.</Paragraphe>
+<Paragraphe>Vous êtes concerné si vous êtes  propriétaire du véhicule polluant ou si vous avez  un contrat de location avec option d'achat ou contrat pour une durée de 2 ans.</Paragraphe>
+<Paragraphe>Les règles diffèrent selon que le véhicule a fait l'objet d'une <LienIntra LienID="R1222" type="Définition de glossaire">réception communautaire</LienIntra> ou non.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Véhicule ayant fait l'objet d'une réception communautaire</Paragraphe>
+</Titre><Paragraphe>Vous êtes concerné si  le taux d'émission de dioxyde de carbone (CO₂)  du véhicule excède la limite suivante :</Paragraphe>
+<Tableau>
+<Titre>Taux d'émission CO₂</Titre>
+<Colonne largeur="26" type="header"/>
+<Colonne largeur="16" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Année de la 1<Exposant>ère</Exposant> immatriculation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>CO₂ (en g/km)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2009</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>250</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2010</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>245</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2011</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>245</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2012 ou après</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>190</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Véhicule n'en ayant pas fait l'objet</Paragraphe>
+</Titre><Paragraphe>Vous devez régler cette taxe annuelle si la puissance administrative de votre véhicule excède 16 CV (chevaux-vapeur).</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Le montant de la taxe est de <Valeur>160 €</Valeur>.</Paragraphe>
+<Paragraphe>Un titre de perception est adressé chaque année au propriétaire ou au locataire par le centre du Trésor public de son lieu de résidence.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous êtes <LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">en situation de handicap</LienInterne>,  vous êtes exonéré du paiement de cette taxe annuelle.</Paragraphe>
+</ANoter>
+</SousChapitre>
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Achat à l'étranger</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Véhicule neuf</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Véhicules concernés</Paragraphe>
+</Titre><Paragraphe>Le paiement de l'écotaxe additionnelle (appelée <Expression>malus</Expression>) sur le certificat d'immatriculation (ex-carte grise) se fait lors de la 1ère immatriculation en France d'un <LienIntra LienID="R10269" type="Définition de glossaire">véhicule particulier</LienIntra> polluant acheté neuf à l'étranger.</Paragraphe>
+<Paragraphe>La taxe est calculée en fonction du nombre de grammes de CO₂  émis par kilomètre.</Paragraphe>
+<Paragraphe>Pour connaître ce niveau d'émission, il est possible d'utiliser le téléservice en indiquant, la marque, le modèle et la version de la voiture.</Paragraphe><ServiceEnLigne ID="R18602" URL="http://carlabelling.ademe.fr/recherche/index?category" type="Simulateur">
+<Titre>Connaître le taux d'émission de CO2 de sa voiture</Titre>
+<Source ID="R30674">Agence de l'environnement et de la maîtrise de l'énergie (Ademe)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de connaître le niveau d'émission de CO2 de son véhicule en indiquant la marque, le modèle et la version de la voiture.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>
+<LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">les camionnettes (CTTE) et les véhicules pour personnes handicapées</LienInterne> ne sont pas concernés.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Montant de la taxe</Paragraphe>
+</Titre><Paragraphe>Il diffère selon que le véhicule  a fait l'objet d'une <LienIntra LienID="R1222" type="Définition de glossaire">réception communautaire</LienIntra> ou non.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Véhicule ayant fait l'objet d'une réception communautaire</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants du malus pour l'année 2017</Titre>
+<Colonne largeur="45" type="normal"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Taux d'émission de Co<Indice>2</Indice> par kilomètre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieur ou égal à 126 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>127 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>50 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>128 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>53 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>129 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>60 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>130 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>73 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>131 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>90 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>132 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>113 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>133 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>140 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>134 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>173 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>135 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>210 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>136 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>253 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>137 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>300 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>138 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>353 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>139 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>410 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>140 grammes </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>473 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>141 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>540 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>142 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>613 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>143 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>690 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>144 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>773 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>145 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>860 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>146 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>953 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>147 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 050 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>148 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 153 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>149 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 260 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>150 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 373 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>151 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 490 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>152 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 613 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>153 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 740 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>154 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 873 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>155 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 010 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>156 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 153 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>157 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 300 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>158 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 453 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>159 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 610 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>160 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 773 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>161 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 940 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>162 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 113 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>163 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 290 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>164 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 473 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>165 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 660 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>166 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 853 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>167 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 050 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>168 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 253 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>169 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 460 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>170 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 673 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>171 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 890 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>172 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 113 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>173 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 340 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>174 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 573 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>175 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 810 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>176 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 053 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>177 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 300 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>178 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 553 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>179 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>6 810 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>180 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 073 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>181 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 340 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>182 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 613 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>183 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 890 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>184 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 173 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>185 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 460 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>186 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 753 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>187 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 050 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>188 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 353 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>189 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 660 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>190 grammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 973 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>191 grammes et plus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>les familles nombreuses peuvent bénéficier d'une <LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">minoration du malus</LienInterne>.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Véhicule n'en ayant pas fait l'objet</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants du malus pour l'année 2017</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Puissance fiscale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieure ou égale à 5 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>6 et 7 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>8 et 9 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>10 et 11 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>De 12 à 16 CV inclus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 16 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>10 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre><Paragraphe>Si l'immatriculation est faite par le concessionnaire, le malus est inclus dans la facture dans la catégorie des "frais d'immatriculation". Si l'acheteur fait lui-même la démarche en préfecture, le malus est réglé en même temps que le certificat d'immatriculation.</Paragraphe>
+<Paragraphe>Ce paiement a lieu lors de l'immatriculation. </Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>C'est l'année de l'immatriculation qui compte, pas la date de commande ou d'achat</MiseEnEvidence>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Véhicule d'occasion</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Dans quel cas la taxe est-elle due ?</Paragraphe>
+</Titre><Paragraphe>La taxe est due pour l'introduction en France d'un véhicule immatriculé pour la 1<Exposant>re</Exposant> fois à compter du 1<Exposant>er</Exposant> janvier 2008 dans un autre pays.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>
+<LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">les camionnettes (CTTE) et les véhicules pour personnes handicapées</LienInterne> ne sont pas concernés.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Véhicule ayant fait l'objet d'une réception communautaire</Paragraphe>
+</Titre><Paragraphe>Le taux de la taxe est celui qui aurait été appliqué en France à la date de la 1<Exposant>re</Exposant> immatriculation si elle y avait été effectuée. </Paragraphe>
+<Paragraphe>La taxe est réduite d'un dixième par année entamée depuis cette 1<Exposant>re</Exposant> immatriculation.</Paragraphe>
+<Paragraphe>Le montant de cette réduction se calcule en fonction de la date de la 1<Exposant>re</Exposant> immatriculation hors de France du véhicule concerné. Les termes <Expression>année entamée</Expression>  s'entendent du commencement de chaque période de 12 mois à compter de cette date d'immatriculation hors de France, jusqu'à la date de 1<Exposant>re</Exposant> immatriculation en France.</Paragraphe>
+<Paragraphe>Par exemple : un véhicule immatriculé pour la 1<Exposant>re</Exposant> fois en Belgique le 1<Exposant>er</Exposant> septembre 2015 est introduit et immatriculé en France en mai 2017. Une période de 12 mois complète est écoulée (du 1<Exposant>er</Exposant> septembre 2015 au 31 août 2016), une autre période de 12 mois est entamée (à compter du 1<Exposant>er</Exposant> septembre 2016). Ce véhicule émet 140 grammes de CO2 par kilomètre.</Paragraphe>
+<Paragraphe>Calcul du malus : Le tarif de la taxe est de<Valeur> 473 €</Valeur>  . La réduction du montant de la taxe est égale à : <Valeur>473 €</Valeur> x 2/10, soit <Valeur>94,60 €</Valeur>. Le montant de la taxe s'élève donc à : <Valeur>473 €</Valeur>-<Valeur>94,60 €</Valeur> = <Valeur>378,40 €</Valeur>. <Valeur> €</Valeur>
+</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Véhicule n'en ayant pas fait l'objet</Paragraphe>
+</Titre><Paragraphe>Il s'agit des véhicules ayant fait l'objet d'une réception nationale ou à titre isolé. À titre d'exemple, il s'agit des véhicules importés d'un autre marché tel que le marché américain ou asiatique. Or, ces véhicules ne contiennent pas nécessairement les informations sur les émissions de CO<Indice>2</Indice>.</Paragraphe>
+<Paragraphe>La taxe est calculée, de manière forfaitaire, en fonction de la puissance fiscale (CV) :</Paragraphe>
+<Tableau>
+<Titre>Montant de la taxe en 2017</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Puissance fiscale (CV) </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant de la taxe </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Puissance inférieure à 10 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0 €</Valeur> </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Puissance égale à 10 CV et inférieure à 15 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>100 €</Valeur> </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Puissance égale et supérieure à 15 CV</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>300 €</Valeur> </Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre><Paragraphe>Si l'immatriculation est faite par le concessionnaire, le malus est inclus dans la facture dans la catégorie des "frais d'immatriculation". Si l'acheteur fait lui-même la démarche en préfecture, le malus est réglé en même temps que le certificat d'immatriculation.</Paragraphe>
+<Paragraphe>Ce paiement a lieu lors de l'immatriculation. </Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>C'est l'année de l'immatriculation qui compte, pas la date de commande ou d'achat</MiseEnEvidence>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Taxe annuelle sur la détention d'un véhicule particulier polluant</Paragraphe>
+</Titre><Paragraphe>En plus de la taxe additionnelle (taxe CO₂) due lors de l'établissement du certificat d'immatriculation, une taxe annuelle s'applique aux véhicules particuliers les plus polluants.</Paragraphe>
+<Paragraphe>Elle est due à partir de l'année qui suit la délivrance du certificat d'immatriculation du véhicule.</Paragraphe>
+<Paragraphe>Vous êtes concerné si vous êtes  propriétaire du véhicule polluant ou si vous avez  un contrat de location avec option d'achat ou contrat pour une durée de 2 ans.</Paragraphe>
+<Paragraphe>Les règles diffèrent selon que le véhicule a fait l'objet d'une <LienIntra LienID="R1222" type="Définition de glossaire">réception communautaire</LienIntra> ou non.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Véhicule ayant fait l'objet d'une réception communautaire</Paragraphe>
+</Titre><Paragraphe>Vous êtes concerné si  le taux d'émission de dioxyde de carbone (CO₂)  du véhicule excède la limite suivante :</Paragraphe>
+<Tableau>
+<Titre>Taux d'émission CO₂</Titre>
+<Colonne largeur="26" type="header"/>
+<Colonne largeur="16" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Année de la 1<Exposant>ère</Exposant> immatriculation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>CO₂ (en g/km)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2009</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>250</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2010</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>245</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2011</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>245</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>2012 ou après</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>190</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Véhicule n'en ayant pas fait l'objet</Paragraphe>
+</Titre><Paragraphe>Vous devez régler cette taxe annuelle si la puissance administrative de votre véhicule excède 16 CV (chevaux-vapeur).</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Le montant de la taxe est de <Valeur>160 €</Valeur>.</Paragraphe>
+<Paragraphe>Un titre de perception est adressé chaque année au propriétaire ou au locataire par le centre du Trésor public de son lieu de résidence.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous êtes <LienInterne LienPublication="F31484" type="Fiche Question-réponse" audience="Particuliers">en situation de handicap</LienInterne>,  vous êtes exonéré du paiement de cette taxe annuelle.</Paragraphe>
+</ANoter>
+</SousChapitre>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour obtenir des informations sur le paiement</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018619161&amp;cidTexte=LEGITEXT000006069577" ID="R19912">
+<Titre>Code général des impôts : article 1010 bis</Titre>
+<Complement>Taxe additionnelle à la taxe sur les certificats d'immatriculation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018029918&amp;cidTexte=LEGITEXT000006069577" ID="R19913">
+<Titre>Code général des impôts : articles 1011 bis et 1011 ter</Titre>
+<Complement>Malus applicable aux voitures particulières les plus polluantes</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020694387&amp;cidTexte=LEGITEXT000006069574" ID="R15657">
+<Titre>Code général des impôts, annexe 3 : article 313-0 BR ter</Titre>
+<Complement>Malus applicable aux voitures particulières les plus polluantes</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/2707-PGP.html?ftsq=taxe+additionnelle+%C3%A0+la+taxe+sur+les+certificats+d&amp;identifiant=BOI-ENR-TIM-20-60-30-20140304" ID="R13608">
+<Titre>BOFIP-Impôts n° BOI-ENR-TIM-20-60-30-20120912 relatif au malus</Titre>
+<Complement>Taxe additionnelle à la taxe sur les certificats d'immatriculation des véhicules : malus applicable aux voitures particulières les plus polluantes</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029574487" ID="R259">
+<Titre>Décret n°2014-1171 du 13 octobre 2014 relatif au report définitif de la date limite d'émission des titres de perception de la taxe annuelle sur les véhicules les plus polluants</Titre>
+</Reference>
+<ServiceEnLigne ID="R13614" URL="https://www.impots.gouv.fr/portail/files/media/1_metier/1_particulier/EV/3_services_doc_renrenseignement/310_besoin_document/demande_remboursement_taxe_add_certificat_immatriculation.pdf" format="application/pdf" poids="77.9 KB" type="Formulaire">
+<Titre>Demande de remboursement de la taxe additionnelle à la taxe sur les certificats d'immatriculation des véhicules</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18602" URL="http://carlabelling.ademe.fr/recherche/index?category" type="Simulateur">
+<Titre>Connaître le taux d'émission de CO2 de sa voiture</Titre>
+<Source ID="R30674">Agence de l'environnement et de la maîtrise de l'énergie (Ademe)</Source>
+</ServiceEnLigne>
+<Definition ID="R10269">
+<Titre>Véhicule particulier (VP)</Titre>
+<Texte>
+				<Paragraphe>Véhicule à moteur, construit et conçu pour le transport de personnes, ayant au moins 4 roues, comportant, outre le siège du conducteur, 8 places assises au maximum et dont le poids total en charge autorisé (PTAC) est inférieur à 3,5 tonnes</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1222">
+<Titre>Réception CE ou communautaire des véhicules</Titre>
+<Texte>
+				<Paragraphe>Acte attestant qu'un véhicule satisfait aux normes techniques exigées par l'Union européenne pour sa mise en circulation</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31484" audience="Particuliers">Quels sont les cas de minoration ou d'exonération du malus et de la taxe CO₂ ?</QuestionReponse>
+
+</Publication>

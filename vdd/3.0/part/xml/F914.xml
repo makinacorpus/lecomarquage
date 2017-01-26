@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F914" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelles sont les règles de hauteur et de distance pour un mur de clôture ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les règles sont fixées localement au niveau de votre commune. A défaut, ce sont les règles générales de hauteur et de distance qui s'appliquent.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F914</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006430068&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31030</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31030">Vie pratique en logement individuel (maison)</Niveau>
+<Niveau ID="F914" type="Fiche Question-réponse">Quelles sont les règles de hauteur et de distance pour un mur de clôture ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N31030">
+<Titre>Vie pratique en logement individuel (maison)</Titre><SousDossier ID="N31030-1">
+<Titre>Mitoyenneté (droits des voisins)</Titre>
+<Fiche ID="F3037">Bornage de terrains</Fiche>
+<Fiche ID="F76">Ouvertures (fenêtres, balcons)</Fiche>
+<Fiche ID="F2040">Droit de passage sur la propriété d'un autre (servitude de passage)</Fiche>
+<Fiche ID="F2415">Murs</Fiche>
+<Fiche ID="F614">Plantations (haies, arbres, arbustes...)</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-2">
+<Titre>Aménagements extérieurs (jardin, cour...)</Titre>
+<Fiche ID="F31404">Piscine privative</Fiche>
+<Fiche ID="F31471">Annexes extérieures</Fiche>
+<Fiche ID="F31473">Travaux extérieurs</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-3">
+<Titre>Utilisation de l'énergie renouvelable</Titre>
+<Fiche ID="F31481">Récupération de l'eau de pluie</Fiche>
+<Fiche ID="F31487">Production d'électricité solaire (toiture photovoltaïque)</Fiche>
+<Fiche ID="F31488">Production de chaleur à l'énergie solaire</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les règles sont fixées localement au niveau de votre commune. A défaut, ce sont les règles générales de hauteur et de distance qui s'appliquent. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Dans un premier temps, vous devez vous renseigner auprès du service de l'urbanisme de votre mairie pour connaître les règles locales de hauteur d'un mur.</Paragraphe>
+<Paragraphe>Si elles existent, ces règles sont issues :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du plan local d'urbanisme (PLU) ou de la carte communale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou des <LienIntra LienID="R12915" type="Définition de glossaire">usages locaux.</LienIntra>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans un second temps, s'il n'existe pas de  règlements ou d'usages locaux, tout mur de séparation entre voisins y compris le chaperon (haut du mur en forme de toit) doit respecter une hauteur <MiseEnEvidence>minimum</MiseEnEvidence> qui dépend de la taille de la commune.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Dans une commune de moins de 50 000 habitants</Paragraphe>
+</Titre><Paragraphe>La hauteur <MiseEnEvidence>minimum</MiseEnEvidence> du  mur de séparation est de <MiseEnEvidence> 2,60 mètres</MiseEnEvidence>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Dans une commune de 50 000 habitants ou plus</Paragraphe>
+</Titre><Paragraphe>La hauteur <MiseEnEvidence>minimum</MiseEnEvidence> du mur de séparation est de <MiseEnEvidence>3,20 mètres</MiseEnEvidence>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Le mur doit également être installé sur la limite de votre terrain, et non à cheval sur la limite séparative de votre terrain et celui de votre voisin. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe> si la clôture empiète sur le terrain de votre voisin, même de quelques centimètres, celui-ci pourra obtenir sa démolition en effectuant un <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">recours devant le tribunal d'instance.</LienInterne>
+</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour obtenir des renseignements sur le PLU ou la carte communale en dehors de Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour obtenir des renseignements sur le PLU à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<Complement>Pour exercer un recours en cas de litige sur la distance d'implantation du mur</Complement>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006430068&amp;cidTexte=LEGITEXT000006070721" ID="R16373">
+<Titre>Code civil : article 663</Titre>
+</Reference>
+<Definition ID="R12915">
+<Titre>Usages locaux</Titre>
+<Texte>
+				<Paragraphe>Règles non écrites fixées par l'usage des lieux : coutumes locales qui s'appliquent à tous, ou usages propres qui s'appliquent à certaines catégories de personnes (agriculteurs, particuliers...)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

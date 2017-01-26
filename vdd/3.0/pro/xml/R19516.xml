@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19516" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>ODIL : Outil d'aide au diagnostic d'implantation locale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>ODIL : Outil d'aide au diagnostic d'implantation locale - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-10</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19516</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16147">Préalables à la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19516" type="Téléservice">ODIL : Outil d'aide au diagnostic d'implantation locale</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Fournit les premiers éléments d'une étude de marché, en donnant accès à toutes les données locales permettant de définir le projet du créateur en fonction de l'activité envisagée, des produits ou services proposés, de la commune d'implantation et de la présence d'entreprises concurrentes.</Paragraphe>
+<Paragraphe>Accès par région et par département à la liste des organismes de soutien à la création d'entreprise qui mettent gratuitement cet outil à la disposition des porteurs de projet.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.insee.fr/fr/publics/default.asp?page=entreprises/odil.htm">
+<Source>Institut national de la statistique et des études économiques (Insee)</Source>
+</LienWeb>
+<FicheLiee ID="F23281" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Étude de marché</Titre>
+<Dossier ID="N16147">Préalables à la création d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

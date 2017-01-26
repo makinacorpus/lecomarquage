@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1423" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qui est responsable en cas de dommage ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>En cas de dommage, l'auteur d'une faute doit réparer le préjudice causé à la victime.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-09-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1423</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721&amp;idSectionTA=LEGISCTA000032021488, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032021490&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000239085&amp;fastPos=1&amp;fastReqId=349624523</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19679</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N19679">Indemnisation du préjudice</Niveau>
+<Niveau ID="F1423" type="Fiche Question-réponse">Qui est responsable en cas de dommage ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20385">Réparation du préjudice</SousThemePere><DossierPere ID="N19679">
+<Titre>Indemnisation du préjudice</Titre><SousDossier ID="N19679-1">
+<Titre>Par le tribunal</Titre>
+<Fiche ID="F1422">Demande de dommages-intérêts</Fiche>
+</SousDossier>
+<SousDossier ID="N19679-2">
+<Titre>Par un fonds de garantie</Titre>
+<Fiche ID="F2313">Victime d'infraction</Fiche>
+<Fiche ID="F1527">Victime d'acte de terrorisme</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Par le tribunal</SousDossierPere>
+<Texte><Paragraphe>Toute personne responsable d'un dommage doit réparer le préjudice causé à la victime en lui versant des <LienInterne LienPublication="F1422" type="Fiche d'information" audience="Particuliers">dommages et intérêts</LienInterne>. C'est ce qu'on appelle la responsabilité civile.</Paragraphe>
+<Paragraphe>Le dommage à réparer peut être matériel (perte d'une voiture...), financier (baisse de chiffre d'affaires...), physique (blessure) ou moral (atteinte à la réputation...).</Paragraphe>
+<Paragraphe>La victime peut <LienInterne LienPublication="F1422" type="Fiche d'information" audience="Particuliers">demander réparation</LienInterne> au cours d'un procès civil ou pénal.</Paragraphe>
+<Paragraphe>La personne responsable et qui doit verser l'indemnisation dépend de la personne ou de l'objet ayant causé directement le dommage.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Une personne majeure est responsable des dommages causés par ses propres actions. Par exemple, si on blesse volontairement une personne.</Paragraphe>
+<Paragraphe>Chacun est également responsable des dommages causés par sa négligence ou par son imprudence.  Par exemple, lors d'un accident de la route.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par un mineur</Paragraphe>
+</Titre><Paragraphe>Le ou les parents sont responsables des dommages causés par leur enfant mineur. Ce sont eux devront payer les dommages et intérêts à la victime. Mais l'enfant reste responsable pénalement et peut faire personnellement l'objet de <LienInterne LienPublication="F1837" type="Fiche Question-réponse" audience="Particuliers">sanctions pénales</LienInterne>.</Paragraphe>
+<Paragraphe>Le ou les parents sont responsables civilement si deux conditions sont réunies :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ils <LienInterne LienPublication="F3132" type="Fiche d'information" audience="Particuliers">exercent l'autorité parentale</LienInterne> à l'égard de l'enfant,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'enfant habite <MiseEnEvidence>habituellement</MiseEnEvidence> avec son ou ses parents., </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les parents, tant que l'enfant réside habituellement chez eux, exercent leur responsabilité civile même si l'enfant n'était pas à leurs côtés lors des faits concernés. Par exemple, les parents seront responsables civilement des fautes commises par leur enfant en internat ou en colonie de vacances ou même lorsqu'il est chez ses grands-parents.</Paragraphe>
+<Paragraphe>Si les parents sont divorcés, c'est uniquement le parent chez qui l'enfant a sa <LienInterne LienPublication="F18785" type="Fiche d'information" audience="Particuliers">résidence habituelle</LienInterne> qui sera responsable civilement des dommages causés par l'enfant. Par exemple, si l'enfant abîme une voiture alors qu'il est chez son père qui a un <LienInterne LienPublication="F18786" type="Fiche d'information" audience="Particuliers">droit de visite</LienInterne>, c'est sa mère, qui a la garde habituelle, qui devra indemniser le propriétaire.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par un animal</Paragraphe>
+</Titre><Paragraphe>Le propriétaire est civilement responsable des dégâts causés par son animal domestique et doit réparer les dommages causés. Par exemple, si un chien mord un passant.</Paragraphe>
+<Paragraphe>Le propriétaire est responsable même si l'animal s'est échappé ou s'est égaré et était donc seul au moment des faits.</Paragraphe>
+<Paragraphe>En revanche, il n'est pas possible d'être indemnisé pour des dommages causés par les bêtes sauvages vivant librement.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par un salarié</Paragraphe>
+</Titre><Paragraphe>L'employeur est responsable des faits commis par un salarié dans le cadre de ses fonctions et durant le temps de travail.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par un produit défectueux</Paragraphe>
+</Titre><Paragraphe>Le fabricant d'un produit défectueux est tenu de réparer les dommages supérieurs à <Valeur>500 €</Valeur> causés aux biens et les dommages causés aux personnes.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Par un bâtiment mal entretenu</Paragraphe>
+</Titre><Paragraphe>Le propriétaire d'un bâtiment (et non son locataire s'il y en a un) est responsable si la construction cause un dommage du fait d'un mauvais entretien.</Paragraphe>
+<Paragraphe>par exemple, en cas de dégât des eaux dû à un tuyau en mauvais état.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F1422" audience="Particuliers">
+<Titre>Demande de dommages-intérêts : procédure</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour se renseigner</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070721&amp;idSectionTA=LEGISCTA000032021488" ID="R610">
+<Titre>Code civil : articles 1240 à 1244</Titre>
+<Complement>Responsabilité en cas de faute</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032021490&amp;cidTexte=LEGITEXT000006070721" ID="R19170">
+<Titre>Code civil : articles 1245 à 1245-17</Titre>
+<Complement>Responsabilité du fait des produits défectueux</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000239085&amp;fastPos=1&amp;fastReqId=349624523" ID="R10700">
+<Titre>Décret n°2005-113 du 11 février 2005 pris pour l'application de l'article 1386-2 du code civil relatif à la responsabilité du fait des produits défectueux</Titre>
+</Reference>
+</Publication>

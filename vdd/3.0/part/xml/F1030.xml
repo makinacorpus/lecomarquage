@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1030" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un certificat médical est-il obligatoire pour faire du sport ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>L'obligation de présenter un certificat médical récent dépend du sport pratiqué et de la possession ou non d'une licence du sport concerné.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1030</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167042&amp;cidTexte=LEGITEXT000006071318, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166809&amp;cidTexte=LEGITEXT000006071191, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033067209&amp;categorieLien=id</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N184</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N184">Sport</Niveau>
+<Niveau ID="F1030" type="Fiche Question-réponse">Un certificat médical est-il obligatoire pour faire du sport ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N150">Temps libre</SousThemePere><DossierPere ID="N184">
+<Titre>Sport</Titre>
+<Fiche ID="F31587">Obligations des éducateurs et établissements sportifs</Fiche>
+<Fiche ID="F124">Sport de compétition</Fiche>
+<Fiche ID="F126">Sport de loisir ou d'entretien</Fiche>
+<Fiche ID="F1318">Sécurité des manifestations sportives</Fiche>
+<Fiche ID="F32962">Interdiction de stade - Interdiction de déplacement</Fiche>
+</DossierPere>
+<Avertissement ID="R45231" date="2016-09-08">
+<Titre>Questionnaire de santé</Titre>
+<Texte>
+				<Paragraphe><LienExterne URL="https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000033067212&amp;cidTexte=JORFTEXT000033067209">L'article 1 du décret du 24 août 2016</LienExterne>
+ relatif au certificat médical rend obligatoire la réponse à un questionnaire de santé lors du renouvellement annuel d'une licence sportive.</Paragraphe>
+				<Paragraphe>Cette obligation débute à partir du 1<Exposant>er</Exposant> juillet 2017.</Paragraphe>
+				<Paragraphe>Dans l'attente, cette fiche reste d'actualité.</Paragraphe>
+			</Texte>
+</Avertissement>
+
+<Texte><Paragraphe>L'obligation de présenter un certificat médical récent dépend du sport pratiqué.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Pratique sans licence</Paragraphe>
+</Titre><Paragraphe>Les organisateurs d'activités de sports de loisirs ou d'entretien peuvent exiger des certificats médicaux pour participer à leurs activité (par exemple, pour de simples randonnées). Ce n'est pas une obligation légale, mais une condition liée aux <LienInterne LienPublication="F2143" type="Fiche Question-réponse" audience="Particuliers">assurances</LienInterne> signées par ces organisateurs.</Paragraphe>
+<Paragraphe>Le certificat ne doit pas indiquer une aptitude générale au sport. Il doit juste certifier l'absence de contre-indication à la pratique du sport concerné.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pratique avec licence</Paragraphe>
+</Titre><Paragraphe>Une fédération peut vous délivrer une <LienInterne LienPublication="F1029" type="Fiche Question-réponse" audience="Particuliers">licence sportive</LienInterne> même si vous ne participez pas à des compétitions.</Paragraphe>
+<Paragraphe>Cependant, vous devez faire établir un certificat médical tous les 3 ans pour faire renouveler votre licence.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour une compétition</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une licence du sport concerné</Paragraphe>
+</Titre><Paragraphe>Si vous possédez une <LienInterne LienPublication="F1029" type="Fiche Question-réponse" audience="Particuliers">licence sportive</LienInterne> valide en rapport avec la compétition concernée, vous n'avez pas besoin de présenter de certificat médical pour vous inscrire à la compétition. </Paragraphe>
+<Paragraphe>Par exemple, les licenciés de la fédération française de football n'ont pas besoin de certificat pour participer à un match officiel de leur équipe.</Paragraphe>
+<Paragraphe>Cependant, vous devez faire établir un certificat tous les 3 ans pour faire <LienInterne LienPublication="F1029" type="Fiche Question-réponse" audience="Particuliers">renouveler votre licence</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous avez une licence d'un autre sport</Paragraphe>
+</Titre><Paragraphe>Si vous possédez une licence sans rapport avec la compétition concernée, il convient de présenter un certificat médical de non contre-indication à la pratique du sport concerné datant de moins d'un an. Par exemple, si vous avec une licence de football et que vous voulez participez à une course à pied.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'avez aucune licence</Paragraphe>
+</Titre><Paragraphe>Les organisateurs d'activités de sports de loisirs ou d'entretien peuvent exiger des certificats médicaux pour participer à leurs activités. Ce n'est pas une obligation légale mais une condition liée aux <LienInterne LienPublication="F2143" type="Fiche Question-réponse" audience="Particuliers">assurances</LienInterne> signées par ces organisateurs.</Paragraphe>
+<Paragraphe>Celui-ci ne doit pas indiquer une aptitude générale au sport. Il doit juste certifier l'absence de contre-indication à la pratique du sport concerné.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En milieu scolaire</Paragraphe>
+</Titre><Paragraphe>Les établissements scolaires ne peuvent pas exiger un certificat médical pour suivre les cours obligatoires d'éducation physique et sportive (EPS).</Paragraphe>
+<Paragraphe>Par contre, à l'inverse, ils peuvent demander la production d'un certificat médical d'inaptitude (totale ou partielle) à tout élève voulant être dispensé d'un ou plusieurs cours d'EPS.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167042&amp;cidTexte=LEGITEXT000006071318" ID="R11048">
+<Titre>Code du sport : articles L231-2 à L231-4</Titre>
+<Complement>Certificat obligatoire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166809&amp;cidTexte=LEGITEXT000006071191" ID="R33804">
+<Titre>Code de l'éducation : articles D312-1 à D312-6</Titre>
+<Complement>Sport à l'école</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033067209&amp;categorieLien=id" ID="R45646">
+<Titre>Décret du 24 août 2016 relatif au certificat médical attestant de l'absence de contre-indication à la pratique du sport</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R33787" URL="http://www.sante.gouv.fr/IMG/pdf/331_annexe_certifs_medicaux.pdf" audience="Particuliers" format="application/pdf" poids="687.4 KB">
+<Titre>Les certificats médicaux</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F711" audience="Particuliers">Quelles sont les activités sportives accessibles aux personnes handicapées ?</QuestionReponse>
+<QuestionReponse ID="F2143" audience="Particuliers">Comment fonctionnent les assurances pour le sport ?</QuestionReponse>
+</Publication>

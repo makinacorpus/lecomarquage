@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21023" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Révision du montant de la pension alimentaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Si les besoins ou les ressources du créancier ou ceux du débiteur ont changé, une demande de modification de la pension alimentaire peut être faite.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-04-15</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21023</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006422691&amp;idSectionTA=LEGISCTA000006136127&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N18775">Séparation des parents</Niveau>
+<Niveau ID="F21023" type="Fiche d'information">Révision du montant de la pension alimentaire</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N18775">
+<Titre>Séparation des parents</Titre><SousDossier ID="N18775-1">
+<Titre>Relations avec l'enfant</Titre>
+<Fiche ID="F3133">Autorité parentale</Fiche>
+<Fiche ID="F18786">Droit de visite et d'hébergement</Fiche>
+<Fiche ID="F18785">Résidence de l'enfant</Fiche>
+<Fiche ID="F1774">Opposition et interdiction de sortie du territoire de l'enfant</Fiche>
+<Fiche ID="F1223">Relations de l'enfant avec sa famille ou ses proches</Fiche>
+</SousDossier>
+<SousDossier ID="N18775-2">
+<Titre>Pension alimentaire</Titre>
+<Fiche ID="F991">Fixation et versement</Fiche>
+<Fiche ID="F2010">Réévaluation</Fiche>
+<Fiche ID="F21023">Révision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Pension alimentaire</SousDossierPere>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><Paragraphe>Des éléments nouveaux, tels qu'une modification des ressources ou des besoins du <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra> ou du <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra>, peuvent justifier une demande de révision de la pension alimentaire.</Paragraphe>
+<Paragraphe>La modification doit être intervenue depuis la dernière décision (jugement ou ordonnance rendu par le juge) relative au montant de la pension.</Paragraphe>
+<Paragraphe>Le créancier ou le débiteur doit justifier d'un fait nouveau qui correspond, par exemple :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>pour un créancier, à un remariage ou une diminution des ses ressources,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou, pour un débiteur, à une diminution de ses ressources ou à la naissance d'un enfant.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Saisir le juge</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Créancier</Paragraphe>
+</Titre><Paragraphe>Si le montant de la pension est devenu insuffisant pour subvenir à ses besoins, le créancier peut demander une augmentation du montant de la pension alimentaire.</Paragraphe>
+<Paragraphe>La demande de révision de la pension alimentaire peut être formée auprès du juge aux affaires familiales du tribunal de grande instance (TGI).</Paragraphe>
+<Paragraphe>Le créancier doit utiliser le formulaire cerfa n°11530*05.</Paragraphe>
+<Paragraphe>Il peut saisir, à son choix, le tribunal du lieu où il demeure ou celui du lieu où demeure le débiteur.</Paragraphe>
+<ServiceEnLigne ID="R15764" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11530.do" format="application/pdf" poids="193.5 KB" numerocerfa="11530*05" type="Formulaire">
+<Titre>Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+<Texte><Paragraphe>Pour obtenir la fixation ou la modification des mesures fixées par le juge portant sur les conditions d'exercice de l'autorité parentale, du droit de visite et d'hébergement, de la pension alimentaire ou de la résidence habituelle de vos enfants. </Paragraphe>
+<Paragraphe>Ce formulaire est utilisable par des parents séparés ou divorcés.</Paragraphe>
+
+</Texte><NoticeLiee ID="R2908" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50720%2305&amp;cerfaFormulaire=11530*05" numerocerfa="50720#05">Notice de la demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</NoticeLiee>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Débiteur</Paragraphe>
+</Titre><Paragraphe>La demande de révision de la pension alimentaire peut être formée auprès du juge aux affaires familiales du tribunal de grande instance (TGI) pour demander une réduction ou d'une suppression de pension alimentaire.</Paragraphe>
+<Paragraphe>Le demandeur doit utiliser le formulaire cerfa n°11530*05 et saisir le tribunal du lieu où demeure le créancier.</Paragraphe>
+<ServiceEnLigne ID="R15764" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11530.do" format="application/pdf" poids="193.5 KB" numerocerfa="11530*05" type="Formulaire">
+<Titre>Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+<Texte><Paragraphe>Pour obtenir la fixation ou la modification des mesures fixées par le juge portant sur les conditions d'exercice de l'autorité parentale, du droit de visite et d'hébergement, de la pension alimentaire ou de la résidence habituelle de vos enfants. </Paragraphe>
+<Paragraphe>Ce formulaire est utilisable par des parents séparés ou divorcés.</Paragraphe>
+
+</Texte><NoticeLiee ID="R2908" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50720%2305&amp;cerfaFormulaire=11530*05" numerocerfa="50720#05">Notice de la demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</NoticeLiee>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Le demandeur doit fournir les documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la copie  intégrale de son acte de naissance et celui des enfants concernés par la demande,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la copie intégrale de l'acte de mariage ou du livret de famille,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la copie d'une pièce d'identité du demandeur (carte nationale d'identité, passeport...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la copie de la dernière décision ayant statué sur la pension alimentaire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tout justificatif de ses ressources (copie des 3 derniers bulletins de salaire...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si nécessaire, l'attestation de chômage ou de congé de longue maladie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tout justificatif de ses charges (quittance de loyer...) et de ses besoins,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les factures relatives à des frais de scolarité, de soins médicaux ou à toute autre dépense de la vie courante.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les pièces à fournir varient selon la situation, il convient de consulter la notice du formulaire de demande pour obtenir la liste exhaustive.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>Pour demander la révision de la pension alimentaire</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006422691&amp;idSectionTA=LEGISCTA000006136127&amp;cidTexte=LEGITEXT000006070721" ID="R20164">
+<Titre>Code civil : articles 203 à 211</Titre>
+<Complement>Obligations qui naissent du mariage</Complement>
+</Reference>
+<ServiceEnLigne ID="R15764" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11530.do" format="application/pdf" poids="193.5 KB" numerocerfa="11530*05" type="Formulaire">
+<Titre>Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R2908" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50720%2305&amp;cerfaFormulaire=11530*05" numerocerfa="50720#05">Notice de la demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</NoticeLiee>
+</ServiceEnLigne>
+<Definition ID="R12468">
+<Titre>Débiteur</Titre>
+<Texte>
+				<Paragraphe>Personne tenue envers une autre d'exécuter une obligation (qui peut être une somme d'argent)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

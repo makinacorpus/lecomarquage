@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31411" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on facturer dans une monnaie étrangère ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Une entreprise établie en France a la possibilité d'émettre une facture libellée dans une unité monétaire autre que l'euro (en dollar ou en livre sterling par exemple), à condition que la devise étrangère soit reconnue internationalement et mutable (c'est-à-dire convertible).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31411</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191855&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31384</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31384">Facturation - Paiement</Niveau>
+<Niveau ID="F31411" type="Fiche Question-réponse">Peut-on facturer dans une monnaie étrangère ?</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31382">Comptabilité</SousThemePere><DossierPere ID="N31384">
+<Titre>Facturation - Paiement</Titre>
+<Fiche ID="F31144">Devis</Fiche>
+<Fiche ID="F23208">Facturation</Fiche>
+<Fiche ID="F31808">Mentions obligatoires sur une facture</Fiche>
+<Fiche ID="F33527">Conditions générales de vente entre professionnels (CGV)</Fiche>
+<Fiche ID="F23211">Délais de paiement entre professionnels et pénalités de retard</Fiche>
+<Fiche ID="F33369">Se faire payer par carte bancaire</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Une entreprise établie en France a la possibilité d'émettre une facture libellée dans une unité monétaire autre que l'euro (en dollar ou en livre sterling par exemple), à condition que la devise étrangère soit reconnue internationalement et <Expression>mutable</Expression> (c'est-à-dire convertible).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le taux de change en euros applicable, négocié entre les partenaires commerciaux, doit également être mentionné sur la facture.</Paragraphe>
+<Paragraphe>Cependant, l'intégration de la facture dans la comptabilité de l'entreprise doit obligatoirement se faire en euros avec un taux de conversion (qui peut être différent du taux de change effectivement utilisé pour le paiement).</Paragraphe>
+<Paragraphe>Le taux de conversion dépend :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit de la <LienInterne LienPublication="F31412" type="Fiche Question-réponse" audience="Professionnels">date d'exigibilité de la TVA</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit de la date du <LienInterne LienPublication="R15923" type="Téléservice" audience="Professionnels">taux de conversion douanier</LienInterne>, qui par convention est fixé à l'avant-dernier mercredi du mois.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par ailleurs, il est possible de rédiger la facture dans une langue étrangère. </Paragraphe>
+<Paragraphe>Mais l'administration peut pour contrôle en exiger la traduction certifiée par un traducteur juré.</Paragraphe>
+<Paragraphe>L'obligation de traduction certifiée ne présente pas de caractère systématique. Elle n'est mise en œuvre qu'à la demande de l'administration, notamment pour les factures dont elle considère que la traduction effectuée par l'assujetti révèle des incohérences ou des doutes sérieux.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191855&amp;cidTexte=LEGITEXT000006069577" ID="R31888">
+<Titre>Code général des impôts : articles 289-0 et 289</Titre>
+<Complement>Point IV</Complement>
+</Reference>
+<ServiceEnLigne ID="R15923" URL="https://pro.douane.gouv.fr" type="Téléservice">
+<Titre>Pro.douane : toutes les procédures douanières</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+</Publication>

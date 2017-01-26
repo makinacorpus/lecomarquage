@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N23663" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Aides à l'embauche</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Aides à l'embauche</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-16</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N23663</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24267</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N23663" type="Dossier">Aides à l'embauche</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+<SousThemePere ID="N10778">Recrutement, aides à l'emploi</SousThemePere>
+<SousDossier ID="N23663-1">
+<Titre>Embauche dans une zone en difficulté</Titre><Fiche ID="F31149">Exonérations d'impôts sur les bénéfices en zone franche urbaine-territoire entrepreneur (ZFU-TE)</Fiche>
+<Fiche ID="F31048">Exonérations de cotisations sociales en ZRR</Fiche>
+<Fiche ID="F31139">Exonérations d'impôts en zone de revitalisation rurale (ZRR)</Fiche>
+<Fiche ID="F31154">Exonérations dans un bassin d'emploi à redynamiser (BER)</Fiche>
+<Fiche ID="F34020">Allègements fiscaux dans les quartiers prioritaires de la ville (QPV)</Fiche>
+</SousDossier>
+<SousDossier ID="N23663-2">
+<Titre>Embauche de salariés spécifiques</Titre><Fiche ID="F17485">Demandeurs d'emploi</Fiche>
+<Fiche ID="F15204">Travailleurs handicapés</Fiche>
+<Fiche ID="F23556">Apprentis</Fiche>
+<Fiche ID="F24542">Réduction générale des cotisations patronales sur les bas salaires (ex-réduction Fillon)</Fiche>
+<Fiche ID="F33329">Contrat unique d'insertion (CUI)</Fiche>
+<Fiche ID="F31262">Contrat de génération</Fiche>
+<Fiche ID="F31205">Travailleurs saisonniers agricoles</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Pour lutter contre le chômage, il existe de nombreux dispositifs d'aides à l'embauche s'orientant vers certains secteurs géographiques connaissant des difficultés économiques et sociales - les zones franches urbaines (ZFU), les zones de redynamisation urbaine (ZRU) et les zones de revitalisation rurale (ZRR)- ou touchant des catégories spécifiques de salariés.</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F31326" audience="Professionnels">
+<Titre>Crédit d'impôt pour la compétitivité et l'emploi (CICE)</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F11677" audience="Professionnels">
+<Titre>Aide au chômeur créant ou reprenant une entreprise (Accre)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F23670" audience="Professionnels">
+<Titre>Aides à la transmission d'une exploitation agricole</Titre>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F22366" audience="Professionnels">
+<Titre>Aide à l'installation des jeunes agriculteurs</Titre>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31188" audience="Professionnels">
+<Titre>Aide à l'embauche dans une jeune entreprise innovante ou universitaire (JEI-JEU)</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R43860" URL="https://www.urssaf.fr/portail/home/utile-et-pratique/estimateur-de-cotisations-2016.html?ut=estimateurs" type="Simulateur">
+<Titre>Calcul des cotisations sociales pour l'embauche d'un premier salarié</Titre>
+<Source ID="R30863">Urssaf</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17933" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11504.do" format="application/pdf" poids="77.3 KB" numerocerfa="11504*01" type="Formulaire">
+<Titre>Déclaration mensuelle d'abattement de cotisations sociales patronales (Sécurité sociale des marins)</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24518" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14830.do" format="application/force-download" poids="1.2 MB" numerocerfa="14830*02" type="Formulaire">
+<Titre>Demande d'aide emplois d'avenir</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source><NoticeLiee ID="R24519" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51685&amp;cerfaFormulaire=14830" numerocerfa="51685#02" format="application/pdf" poids="507.7 KB">Notice de la demande d'aide emploi d'avenir</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10338" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12434.do" numerocerfa="12434*02" autrenumero="EJ 20" type="Formulaire">
+<Titre>Contrat de professionnalisation</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source><NoticeLiee ID="R1072" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51650&amp;cerfaFormulaire=12434" numerocerfa="51650#01">Notice pour le contrat de professionnalisation</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45531" URL="http://travail-emploi.gouv.fr/grands-dossiers/tpe-pme/article/le-simulateur-du-cout-d-embauche" type="Simulateur">
+<Titre>Simulateur du coût d'embauche</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R34177" URL="https://www.urssaf.fr/portail/home/employeur/beneficier-dune-exoneration/exonerations-generales.html" audience="Professionnels">
+<Titre>Panorama des exonérations sociales et des aides à l'emploi</Titre>
+<Source ID="R30863">Urssaf</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R15083" URL="https://www.afecreation.fr/pid815/aides-au-recrutement.html" audience="Professionnels">
+<Titre>Récapitulatif des aides au recrutement</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1913" URL="https://www.afecreation.fr/pid6145/aides-a-l-embauche.html" audience="Professionnels">
+<Titre>Aides à l'embauche en outre-mer</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F31177" audience="Professionnels">Quelles sont les exonérations dans les zones de restructuration de la défense (ZRD) ?</QuestionReponse>
+<QuestionReponse ID="F34037" audience="Professionnels">Quel est le régime d'exonération de l'impôt sur les bénéfices dans les ZFU-TE avant 2015 ?</QuestionReponse>
+</Publication>

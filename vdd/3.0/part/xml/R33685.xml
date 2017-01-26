@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R33685" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de congé de solidarité familiale dans la fonction publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Demande de congé de solidarité familiale dans la fonction publique - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-13</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R33685</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19978">Congés dans la fonction publique</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R33685" type="Modèle de document">Demande de congé de solidarité familiale dans la fonction publique</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>
+<Variable>Prénom Nom</Variable> </Paragraphe>
+<Paragraphe>
+<Variable>Adresse personnelle</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Service d'affectation</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Grade</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Ville</Variable>, le <Variable>date</Variable>
+</Paragraphe>
+<Paragraphe>À l'attention de <Variable>autorité ayant pouvoir de nomination</Variable>
+</Paragraphe>
+<Paragraphe>S/c <Variable>des différents responsables hiérarchiques intermédiaires</Variable>
+</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>(Lettre recommandée avec AR ou remise en main propre contre décharge)</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Objet : demande de congé de solidarité familiale</Paragraphe>
+<Paragraphe>
+<Variable>Madame</Variable> / <Variable>Monsieur</Variable> / <Variable>Qualité</Variable>,</Paragraphe>
+<Paragraphe>Je vous informe de mon intention de prendre un congé de solidarité familiale, afin d'assister <Variable>nom, prénom et numéro de sécurité sociale</Variable>, qui est en fin de vie.</Paragraphe>
+<Paragraphe>Je souhaite bénéficier de ce congé à compter du <Variable>date</Variable>, sous la forme de <Variable>soit d'une période continue, soit d'une période fractionnée, soit d'un service à temps partiel</Variable> (à préciser, dans chaque cas).</Paragraphe>
+<Paragraphe>Je souhaite également percevoir l'allocation journalière d'accompagnement d'une personne en fin de vie, pour une durée de <Variable>indiquer le nombre de versements souhaités, dans la limite de 21, ou de 42 en cas de service à temps partiel</Variable>.</Paragraphe>
+<Paragraphe>(Si plusieurs personnes se partagent l'allocation journalière) Je vous informe que je partagerai le bénéfice de l'allocation journalière avec <Variable>identité de tout autre bénéficiaire</Variable>.</Paragraphe>
+<Paragraphe>Vous trouverez ci-joint à cette demande l'attestation du médecin.</Paragraphe>
+<Paragraphe>Je vous prie d'agréer, <Variable>Madame</Variable> / <Variable>Monsieur</Variable> / <Variable>Qualité</Variable>, l'expression de mes salutations distinguées.</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F17949" audience="Particuliers" type="Fiche d'information">
+<Titre>Fonction publique : congé de solidarité familiale</Titre>
+<Dossier ID="N19978">Congés dans la fonction publique</Dossier>
+</FicheLiee>
+<Dossier ID="N19978">
+<Titre>Congés dans la fonction publique</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

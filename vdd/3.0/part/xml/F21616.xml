@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21616" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance auto : l'accident avec un animal sauvage est-il indemnisé ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Si vous heurtez un animal sauvage avec votre véhicule, vous devez prévenir la gendarmerie ou la police nationale. Déclarez ensuite l'accident auprès de votre assurance dans les 5 jours. Conservez toutes les preuves de cette collision (photos, témoignage ou poils de l'animal).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21616</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174871&amp;cidTexte=LEGITEXT000006073984, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188396&amp;cidTexte=LEGITEXT000006073984</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N32</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N32">Assurance automobile (véhicule)</Niveau>
+<Niveau ID="F21616" type="Fiche Question-réponse">Assurance auto : l'accident avec un animal sauvage est-il indemnisé ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20263">Assurance</SousThemePere><DossierPere ID="N32">
+<Titre>Assurance automobile (véhicule)</Titre><SousDossier ID="N32-1">
+<Titre>Souscription et vie du contrat</Titre>
+<Fiche ID="F31325">Souscription du contrat</Fiche>
+<Fiche ID="F2628">Assurance obligatoire ou "au tiers"</Fiche>
+<Fiche ID="F2622">Assurances facultatives et "tous risques"</Fiche>
+<Fiche ID="F1362">Attestation et certificat d'assurance</Fiche>
+<Fiche ID="F2595">Modification du contrat</Fiche>
+<Fiche ID="F2659">Résiliation du contrat</Fiche>
+<Fiche ID="F3052">Recours et litiges</Fiche>
+</SousDossier>
+<SousDossier ID="N32-2">
+<Titre>Prime</Titre>
+<Fiche ID="F2599">Tarifs, cotisations et durée du contrat</Fiche>
+<Fiche ID="F2655">Bonus-malus</Fiche>
+<Fiche ID="F2663">Jeunes conducteurs et surprime d'assurance</Fiche>
+</SousDossier>
+<SousDossier ID="N32-3">
+<Titre>Sinistre</Titre>
+<Fiche ID="F2149">Accident et constat</Fiche>
+<Fiche ID="F2685">Vol du véhicule</Fiche>
+<Fiche ID="F2630">Accident sous l'emprise de l'alcool ou de stupéfiants</Fiche>
+</SousDossier>
+<SousDossier ID="N32-4">
+<Titre>Indemnisation du sinistre</Titre>
+<Fiche ID="F2152">Indemnisation des dégâts matériels</Fiche>
+<Fiche ID="F2677">Indemnisation des victimes de dommages corporels</Fiche>
+<Fiche ID="F2692">Indemnisation du vol du véhicule</Fiche>
+<Fiche ID="F2679">Indemnisation par le FGAO</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous heurtez un animal sauvage avec votre véhicule, vous devez prévenir la gendarmerie ou la police nationale. Déclarez ensuite l'accident auprès de votre assurance dans les 5 jours. Conservez toutes les preuves de cette collision (photos, témoignage ou poils de l'animal).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dégâts du véhicule</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes assuré Tous risques</Paragraphe>
+</Titre><Paragraphe>Si vous êtes assuré "<LienInterne LienPublication="F2622" type="Fiche d'information" audience="Particuliers">tous accidents</LienInterne>" ou <Expression>tous risques</Expression>, les dommages matériels de votre véhicule seront pris en charge par votre assurance.</Paragraphe>
+<Paragraphe>L'assureur retiendra une franchise, prévue à votre contrat.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes assuré au tiers</Paragraphe>
+</Titre><Paragraphe>Si vous êtes assuré "<LienInterne LienPublication="F2628" type="Fiche d'information" audience="Particuliers">au tiers</LienInterne>" (ou juste une garantie <Expression>dommages collision</Expression>), l'assurance ne vous indemnisera pas.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>l'assureur n'applique pas de <LienInterne LienPublication="F2655" type="Fiche d'information" audience="Particuliers">malus</LienInterne> si l'accident avec un animal sauvage relève de la force majeure, notamment par son caractère imprévisible.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Blessures du conducteur</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe> Vous avez une garantie du conducteur</Paragraphe>
+</Titre><Paragraphe>Si vous avez été blessé lors de la collision et que vous disposez d'une <Expression>garantie du conducteur</Expression>, votre assurance prendra en charge vos dommages corporels.</Paragraphe>
+<Paragraphe>Si l'indemnisation n'est pas intégrale, le <LienInterne LienPublication="F2679" type="Fiche d'information" audience="Particuliers">Fonds de garantie des assurances obligatoires de dommages (FGAO)</LienInterne> interviendra en complément.</Paragraphe>
+<Paragraphe>Le dossier à la FGAO doit être déposé dans les 3 ans qui suivent l'accident.</Paragraphe>
+<ServiceEnLigne ID="R15103" URL="http://www.fondsdegarantie.fr/images/stories/pdf/accident-chasse/FormulaireIndemnCirculVictime.pdf" format="application/pdf" poids="574.8 KB" type="Formulaire">
+<Titre>Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : victime d'un accident de la circulation ou de la chasse</Titre>
+<Source ID="R30779">Fonds de garantie des assurances obligatoires (FGAO)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de demander une indemnisation lorsque le responsable d'un accident n'est pas identifié ou pas assuré.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<ServiceEnLigne ID="R21646" URL="http://www.fondsdegarantie.fr/images/stories/pdf/accident-chasse/FormulaireIndemnCirculAyantDroit.pdf" format="application/pdf" poids="0" type="Formulaire">
+<Titre>Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : ayant droit en cas de décès de la victime d'un accident de la circulation ou de la chasse</Titre>
+<Source ID="R30779">Fonds de garantie des assurances obligatoires (FGAO)</Source>
+<Introduction>
+<Texte><Paragraphe>Formulaire à retourner, en cas de décès d'une victime d'un accident de la route ou de la chasse, à  la FGAO (Fonds de Garantie des Assurances Obligatoires) par l'ayant droit pour être indemnisé .</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe> Vous n'avez pas cette garantie</Paragraphe>
+</Titre><Paragraphe>Si vous ne disposez pas de <Expression>garantie du conducteur</Expression>, le FGAO vous indemnisera.</Paragraphe>
+<Paragraphe>Le dossier à la FGAO doit être déposé dans les 3 ans qui suivent l'accident.</Paragraphe>
+<ServiceEnLigne ID="R15103" URL="http://www.fondsdegarantie.fr/images/stories/pdf/accident-chasse/FormulaireIndemnCirculVictime.pdf" format="application/pdf" poids="574.8 KB" type="Formulaire">
+<Titre>Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : victime d'un accident de la circulation ou de la chasse</Titre>
+<Source ID="R30779">Fonds de garantie des assurances obligatoires (FGAO)</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de demander une indemnisation lorsque le responsable d'un accident n'est pas identifié ou pas assuré.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<ServiceEnLigne ID="R21646" URL="http://www.fondsdegarantie.fr/images/stories/pdf/accident-chasse/FormulaireIndemnCirculAyantDroit.pdf" format="application/pdf" poids="0" type="Formulaire">
+<Titre>Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : ayant droit en cas de décès de la victime d'un accident de la circulation ou de la chasse</Titre>
+<Source ID="R30779">Fonds de garantie des assurances obligatoires (FGAO)</Source>
+<Introduction>
+<Texte><Paragraphe>Formulaire à retourner, en cas de décès d'une victime d'un accident de la route ou de la chasse, à  la FGAO (Fonds de Garantie des Assurances Obligatoires) par l'ayant droit pour être indemnisé .</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Blessures des passagers</Paragraphe>
+</Titre><Paragraphe>Les dommages corporels des passagers seront pris en charge par votre assurance, car l'<LienInterne LienPublication="F2628" type="Fiche d'information" audience="Particuliers">assurance obligatoire</LienInterne> couvre ces dommages.</Paragraphe>
+<Paragraphe>Signalez-les à l'assurance au moment où vous faites votre déclaration.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R52" type="Centre de contact">
+<Titre>Fonds de garantie des assurances obligatoires de dommages (FGAO)</Titre>
+<Complement>Pour un complément d'information</Complement><Texte>
+						
+								<Paragraphe>
+			Le Fonds de garantie des assurances obligatoires de dommages (FGAO) indemnise les victimes d’accidents de la circulation dont les auteurs n’étaient pas assurés ou pas identifiés.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<LienExterne URL="http://www.fondsdegarantie.fr/nous-contacter">Accès au formulaire de contact</LienExterne>
+
+       par messagerie.
+    
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R19751" type="Centre de contact">
+<Titre>Assurance Banque Épargne Info Service</Titre>
+<Complement>Pour un complément d'information</Complement><Texte>
+						
+								<Paragraphe>
+			Informations sur les démarches et les relations contractuelles dans le domaine de l'assurance, de la banque et de l'épargne
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			ABE Info Service
+		</Paragraphe>
+								<Paragraphe>
+			61 rue Taitbout
+		</Paragraphe>
+								<Paragraphe>
+			75436 Paris Cedex 09
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Via le <LienExterne URL="http://www.abe-infoservice.fr/abe-info-service/nous-contacter.html">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R2699" type="Centre de contact">
+<Titre>Votre assureur</Titre>
+<Complement>Pour obtenir des informations sur votre contrat et déclarer un accident</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174871&amp;cidTexte=LEGITEXT000006073984" ID="R17688">
+<Titre>Code des assurances : articles L421-1 à L421-7</Titre>
+<Complement>Dispositions générales du Fonds de garantie des assurances obligatoires de dommages</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188396&amp;cidTexte=LEGITEXT000006073984" ID="R21644">
+<Titre>Code des assurances : articles R421-2 à R421-17</Titre>
+<Complement>Dispositions applicables à l'indemnisation des dommages résultant d'atteintes à la personne</Complement>
+</Reference>
+<ServiceEnLigne ID="R21646" URL="http://www.fondsdegarantie.fr/images/stories/pdf/accident-chasse/FormulaireIndemnCirculAyantDroit.pdf" format="application/pdf" poids="0" type="Formulaire">
+<Titre>Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : ayant droit en cas de décès de la victime d'un accident de la circulation ou de la chasse</Titre>
+<Source ID="R30779">Fonds de garantie des assurances obligatoires (FGAO)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15103" URL="http://www.fondsdegarantie.fr/images/stories/pdf/accident-chasse/FormulaireIndemnCirculVictime.pdf" format="application/pdf" poids="574.8 KB" type="Formulaire">
+<Titre>Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : victime d'un accident de la circulation ou de la chasse</Titre>
+<Source ID="R30779">Fonds de garantie des assurances obligatoires (FGAO)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41789" URL="http://www.abe-infoservice.fr/assurance.html" audience="Particuliers">
+<Titre>Informations pratiques sur l'assurance</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2706" audience="Particuliers">Comment fonctionne la franchise d'assurance véhicule ?</QuestionReponse>
+</Publication>

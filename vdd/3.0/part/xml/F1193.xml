@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1193" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on encore demander une recherche dans l'intérêt des familles (Rif) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Non, il n'est plus possible de déposer une demande de recherche dans l'intérêt des familles. Cette procédure a été supprimée. Mais vous pouvez savoir si la personne est toujours en vie.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-13</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1193</dc:identifier>
+<dc:source>http://circulaires.legifrance.gouv.fr/pdf/2013/05/cir_36977.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N42</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N42">Disparition et enlèvement de personnes</Niveau>
+<Niveau ID="F1193" type="Fiche Question-réponse">Peut-on encore demander une recherche dans l'intérêt des familles (Rif) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20091">Protection des personnes</SousThemePere><DossierPere ID="N42">
+<Titre>Disparition et enlèvement de personnes</Titre>
+<Fiche ID="F31558">Disparition d'un adulte</Fiche>
+<Fiche ID="F10385">Disparition d'un enfant mineur</Fiche>
+<Fiche ID="F1191">Disparition d'un mineur : enlèvement parental, non-représentation d'enfant</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Non, il n'est plus possible de déposer une demande de recherche dans l'intérêt des familles. Cette procédure a été supprimée. Mais vous pouvez savoir si la personne est toujours en vie.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>La procédure de recherche dans l'intérêt des familles permettait de faire rechercher un proche (époux(se), enfant...) majeur pour renouer des liens. Et ce, même si le ou la disparu(e) n'était pas en danger. Cette procédure a été supprimée. </Paragraphe>
+<Paragraphe>Désormais, la procédure à suivre dépend de la situation de la personne disparue.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>La personne disparue est mineure</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous ignorez ce qu'il s'est passé</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="F10385" type="Fiche d'information" audience="Particuliers">disparition d'un mineur</LienInterne> est toujours considérée comme inquiétante. Vous devez contacter la police ou la gendarmerie. </Paragraphe><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous soupçonnez un enlèvement par un parent</Paragraphe>
+</Titre><Paragraphe>
+<LienInterne LienPublication="F1191" type="Fiche d'information" audience="Particuliers">L'enlèvement parental</LienInterne> d'un enfant en France ou à l'étranger est une atteinte à l'exercice de l'autorité parentale. Les situations visées sont notamment le changement de domicile en France d'un parent non signalé à l'autre parent ou le déplacement illicite d'un enfant à l'étranger. Vous devez contacter la police ou la gendarmerie.</Paragraphe><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La personne disparue est majeure</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous considérez que sa disparition est inquiétante</Paragraphe>
+</Titre><Paragraphe>Si vous considérez que sa <LienInterne LienPublication="F31558" type="Fiche d'information" audience="Particuliers">disparition est inquiétante</LienInterne>, vous pouvez demander le déclenchement d'une enquête. Vous devez vous adressez à la police ou à la gendarmerie. Vous devez être un proche de la personne disparue (conjoint, frère, sœur, parent, enfant...)</Paragraphe><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<Paragraphe>Il n'y a pas de critères précis pour définir une disparition inquiétante : départ sans affaires personnelles, courrier suicidaire, radicalisation religieuse... Une enquête pour disparition inquiétante peut aussi être ouverte si la personne disparue est vulnérable du fait de son âge ou d'une maladie.</Paragraphe>
+<Paragraphe>Dans tous les cas, une fois retrouvée, une personne majeure est libre de ne plus contacter ses proches.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne considérez pas  sa disparition  inquiétante</Paragraphe>
+</Titre><Paragraphe>Sans signe montrant que la personne disparue est en danger, une enquête officielle sera impossible. Vous devez retrouver la personne par vos propres moyens. Vous pouvez notamment vous aider des réseaux sociaux.</Paragraphe>
+<Paragraphe>Vous pouvez également vous adresser à sa mairie de naissance ou de son dernier domicile connu pour savoir <LienInterne LienPublication="F31715" type="Fiche Question-réponse" audience="Particuliers">si elle est encore en vie</LienInterne>.</Paragraphe>
+<Paragraphe>Dans tous les cas, une fois retrouvée, une personne majeure est libre de ne plus contacter ses proches.</Paragraphe>
+
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2013/05/cir_36977.pdf" ID="R32232" format="pdf" poids="448.5 KB">
+<Titre>Circulaire portant abrogation de la circulaire n°83-52 du 21 février 1983 relative aux recherches dans l'intérêt des familles</Titre>
+</Reference>
+
+</Publication>

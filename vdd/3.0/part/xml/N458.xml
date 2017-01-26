@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N458" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Temps de travail dans le secteur privé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Temps de travail dans le secteur privé : Durée du travail, Travail à temps partiel, Repos et jours fériés, Aménagement du temps de travail, Heures supplémentaires, équivalence et astreintes</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2014-11-27</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N458</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Salarié du secteur privé</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N458" type="Dossier">Temps de travail dans le secteur privé</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19964">Temps de travail et congés</SousThemePere>
+<SousDossier ID="N458-1">
+<Titre>Durée du travail</Titre><Fiche ID="F1911">Durée légale du travail du salarié à temps plein</Fiche>
+<Fiche ID="F2216">Durée légale du travail des jeunes</Fiche>
+<Fiche ID="F19261">Durée du travail du salarié : convention de forfait en heures ou en jours</Fiche>
+</SousDossier>
+<SousDossier ID="N458-2">
+<Titre>Travail à temps partiel</Titre><Fiche ID="F32428">Temps partiel dans le secteur privé</Fiche>
+<Fiche ID="F2332">Congé parental à temps partiel</Fiche>
+</SousDossier>
+<SousDossier ID="N458-3">
+<Titre>Repos et jours fériés</Titre><Fiche ID="F990">Repos quotidien</Fiche>
+<Fiche ID="F2327">Repos hebdomadaire</Fiche>
+<Fiche ID="F13887">Repos dominical</Fiche>
+<Fiche ID="F2405">Jours fériés et ponts</Fiche>
+<Fiche ID="F1907">Compte épargne-temps (CET)</Fiche>
+</SousDossier>
+<SousDossier ID="N458-4">
+<Titre>Aménagement du temps de travail</Titre><Fiche ID="F75">Répartition des horaires</Fiche>
+<Fiche ID="F74">Horaires individualisés</Fiche>
+</SousDossier>
+<SousDossier ID="N458-5">
+<Titre>Heures supplémentaires, équivalence et astreintes</Titre><Fiche ID="F2391">Heures supplémentaires</Fiche>
+<Fiche ID="F1903">Heures d'équivalence</Fiche>
+<Fiche ID="F20873">Astreintes</Fiche>
+</SousDossier><OuSAdresser ID="R250" type="Centre de contact">
+<Titre>3939 Allô Service Public</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3939 (coût : <Valeur>0,15 €</Valeur> TTC la minute)
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Répond aux demandes de renseignement administratif concernant les droits et démarches.
+		</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger ou hors métropole : +33 (0)1 73 60 39 39 uniquement depuis un poste fixe (coût d'une communication + coût de l'appel international variable selon les pays et les opérateurs).
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<QuestionReponse ID="F316" audience="Particuliers">Combien d'heures un salarié peut-il travailler en continu ?</QuestionReponse>
+<QuestionReponse ID="F1945" audience="Particuliers">À quelles conditions un salarié peut-il cumuler plusieurs emplois ?</QuestionReponse>
+<QuestionReponse ID="F18205" audience="Particuliers">Les temps de pause et de restauration du salarié sont-ils rémunérés ?</QuestionReponse>
+<QuestionReponse ID="F18211" audience="Particuliers">Le salarié qui s'habille sur le lieu de travail bénéficie-t-il de contreparties?</QuestionReponse>
+<QuestionReponse ID="F20712" audience="Particuliers">Le temps de trajet du salarié entraîne t-il des contreparties ?</QuestionReponse>
+<QuestionReponse ID="F31920" audience="Particuliers">Qu'est-ce qu'un complément d'heures pour le salarié à temps partiel ?</QuestionReponse>
+<QuestionReponse ID="F125" audience="Particuliers">Dans quels cas un salarié doit-il récupérer les heures non travaillées ?</QuestionReponse>
+<QuestionReponse ID="F1915" audience="Particuliers">Temps partiel : quelles sont les dérogations à la durée minimale de travail ?</QuestionReponse>
+<QuestionReponse ID="F878" audience="Particuliers">Quelle procédure suivre pour demander à travailler à temps partiel ?</QuestionReponse>
+<QuestionReponse ID="F874" audience="Particuliers">L'employeur peut-il instaurer du travail à temps partiel dans l'entreprise ?</QuestionReponse>
+<QuestionReponse ID="F876" audience="Particuliers">L'employeur peut-il modifier les horaires du salarié à temps partiel ?</QuestionReponse>
+<QuestionReponse ID="F33927" audience="Particuliers">Temps partiel : quelle incidence sur les droits à congés payés du salarié ?</QuestionReponse>
+<QuestionReponse ID="F2243" audience="Particuliers">Qu'est-ce que le temps partiel annualisé pour raisons familiales dans le privé ?</QuestionReponse>
+<QuestionReponse ID="F2247" audience="Particuliers">Qu'est-ce que le travail intermittent ?</QuestionReponse>
+</Publication>

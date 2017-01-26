@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N13363" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Déchets et prévention de la pollution</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Déchets et prévention de la pollution</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-14</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N13363</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13363" type="Dossier">Déchets et prévention de la pollution</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N10810">Environnement</SousThemePere>
+<Fiche ID="F33414">Installation classée pour la protection de l'environnement (ICPE)</Fiche>
+<Fiche ID="F23497">Taxe générale sur les activités polluantes (TGAP)</Fiche>
+<Fiche ID="F23280">Contribution sur les papiers (ÉcoFolio)</Fiche>
+<Fiche ID="F23253">Lutte contre la pollution de l'eau</Fiche>
+<Fiche ID="F31548">Collecte, traitement et recyclage des pneus usagés</Fiche>
+<Fiche ID="F33842">Gestion des déchets de piles et accumulateurs</Fiche><ServiceEnLigne ID="R31565" URL="https://www.r-nano.fr/" type="Téléservice">
+<Titre>Déclaration en ligne des substances à l'état nanoparticulaire (R-Nano)</Titre>
+<Source ID="R44565">Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18437" URL="https://www.declarationpollution.ecologie.gouv.fr/gerep" type="Téléservice">
+<Titre>Télédéclaration annuelle des émissions polluantes</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14334" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12571.do" numerocerfa="12571*01" type="Formulaire">
+<Titre>Bordereau de suivi des déchets dangereux (BSDD)</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source><NoticeLiee ID="R43242" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51448%2301&amp;cerfaFormulaire=12571" numerocerfa="51448#01">Notice explicative relative au bordereau de suivi des déchets dangereux</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Annexe 1 - Document à joindre en cas de collecte de petites quantités de déchets relevant d'une même rubrique</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=12571-1&amp;cerfaFormulaire=12571" format="application/pdf" poids="9.9 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Annexe 2 - Document à joindre lors d'une réexpédition après transformation ou traitement aboutissant à des déchets dont la provenance reste identifiable</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=12571-2&amp;cerfaFormulaire=12571"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17581" URL="http://www.bourse-des-dechets.fr/default.asp" type="Téléservice">
+<Titre>Bourse des déchets industriels</Titre>
+<Source ID="R30752">CCI France</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14335" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11861.do" format="application/pdf" poids="193.2 KB" numerocerfa="11861*03" type="Formulaire">
+<Titre>Bordereau de suivi des déchets d'amiante (BSDA)</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source><NoticeLiee ID="R19189" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50844%2303&amp;cerfaFormulaire=11861" numerocerfa="50844#03" format="application/pdf" poids="76.5 KB">Notice explicative du bordereau de suivi des déchets dangereux contenant de l'amiante (BSDA)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11861*03">
+<Titre>Annexe au BSDA</Titre>
+<Texte><Paragraphe>À utiliser en cas d'entreposage provisoire ou de transport multimodal</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=11861*03&amp;cerfaFormulaire=11861" format="application/pdf" poids="65.6 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14339" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10785.do" format="application/force-download" poids="146.3 KB" numerocerfa="10785*02" type="Formulaire">
+<Titre>Élimination des déchets d'amalgames dentaires - bordereau de prise en charge</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19976" URL="http://redevancephyto.developpement-durable.gouv.fr/" type="Téléservice">
+<Titre>Déclaration des ventes de produits phytosanitaires</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14340" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10786.do" format="application/force-download" poids="165.5 KB" numerocerfa="10786*02" type="Formulaire">
+<Titre>Élimination des déchets d'amalgames dentaires - bordereau de suivi</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18440" URL="http://www.irep.ecologie.gouv.fr" type="Téléservice">
+<Titre>Consultation du Registre français des émissions polluantes des industries et des élevages</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14341" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10787.do" format="application/force-download" poids="118.3 KB" numerocerfa="10787*02" type="Formulaire">
+<Titre>Élimination des déchets d'amalgames dentaires - bordereau d'envoi</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14342" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11350.do" numerocerfa="11350*03" type="Formulaire">
+<Titre>Élimination des pièces anatomiques humaires - bordereau de suivi</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18580" URL="http://www.simmbad.fr/servlet/accueilMinistere.html" type="Téléservice">
+<Titre>Simmbad : télédéclaration des produits biocides</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14343" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11351.do" format="application/pdf" poids="31.7 KB" numerocerfa="11351*04" type="Formulaire">
+<Titre>Élimination des déchets d'activités de soins à risques infectieux - bordereau de suivi</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source><NoticeLiee ID="R39321" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51814&amp;cerfaFormulaire=11351" numerocerfa="51814#01" format="application/pdf" poids="35.3 KB">Notice pour l'élimination des déchets d'activités de soins à risques infectieux</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14344" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11352.do" format="application/pdf" poids="39.2 KB" numerocerfa="11352*04" type="Formulaire">
+<Titre>Élimination des déchets d'activités de soins à risques infectieux avec regroupement - bordereau de suivi</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source><NoticeLiee ID="R39322" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51815&amp;cerfaFormulaire=11352" numerocerfa="51815#01" format="application/pdf" poids="36.4 KB">Notice pour l'élimination des déchets d'activités de soins à risques infectieux avec regroupement</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14406" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11743.do" format="application/pdf" poids="21.6 KB" numerocerfa="11743*01" type="Formulaire">
+<Titre>Déclaration de détention des appareils contenant des PCB ou PCT</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32996" URL="http://www.inventairepcb.ademe.fr/" numerocerfa="11743*01" type="Téléservice">
+<Titre>Déclaration en ligne de détention des appareils contenant des PCB ou PCT</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13727" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14164.do" numerocerfa="14164*01" type="Formulaire">
+<Titre>Demande d'autorisation transitoire de mise sur le marché d'un produit biocide</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21836" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14131.do" format="application/pdf" poids="68.8 KB" numerocerfa="14131*01" type="Formulaire">
+<Titre>Transferts transfrontaliers de déchets - document de notification</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17433" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14132.do" format="application/pdf" poids="87.6 KB" numerocerfa="14132*01" type="Formulaire">
+<Titre>Transferts transfrontaliers de déchets - document de mouvement</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21837" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14133.do" format="application/pdf" poids="53.3 KB" numerocerfa="14133*01" type="Formulaire">
+<Titre>Informations accompagnant les transferts transfrontaliers de déchets</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18351" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14498.do" format="application/pdf" poids="332.8 KB" numerocerfa="14498*01" type="Formulaire">
+<Titre>Récolement relatif au diagnostic portant sur la gestion des déchets issus de la démolition</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Synthèse du diagnostic de gestion des déchets issus de la démolition (à faire en amont du formulaire de recollement)</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=14498&amp;cerfaNotice=annexe" format="application/pdf" poids="169.0 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24564" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14831.do" format="application/pdf" poids="75.2 KB" numerocerfa="14831*02" type="Formulaire">
+<Titre>Demande de sortie du statut de déchet</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source><NoticeLiee ID="R24567" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51686&amp;cerfaFormulaire=14831" numerocerfa="51686#02">Notice explicative de la demande de sortie de statut de déchet</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R35396" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15023.do" numerocerfa="15023*01" type="Formulaire">
+<Titre>Demande de plan particulier de décontamination et d'élimination des appareils contenant des PCB</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17028" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12991.do" format="application/pdf" poids="819.2 KB" numerocerfa="12991*03" type="Formulaire">
+<Titre>TGAP - Prélèvement sur les carburants d'origine fossile : Essence</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R39629" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51940&amp;cerfaFormulaire=12991" numerocerfa="51940#02">Notice de la déclaration annuelle de TGAP - Prélèvement sur les carburants d'origine fossile : Essence et Superéthanol</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14333" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12993.do" format="application/pdf" poids="1.4 MB" numerocerfa="12993*03" type="Formulaire">
+<Titre>TGAP - Prélèvement sur les carburants d'origine fossile : Gazole</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R39472" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51941&amp;cerfaFormulaire=12993" numerocerfa="51941#02" format="application/pdf" poids="377.9 KB">Notice pour la déclaration annuelle sur le gazole</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17026" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12989.do" format="application/pdf" poids="217.0 KB" numerocerfa="12989*03" type="Formulaire">
+<Titre>Certificat de teneur en biocarburants durables</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17027" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12990.do" format="application/pdf" poids="221.2 KB" numerocerfa="12990*03" type="Formulaire">
+<Titre>Certificat d'acquisition ou d'incorporation de biocarburants durables</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R39475" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15266.do" format="application/pdf" poids="103.8 KB" numerocerfa="15266*01" type="Formulaire">
+<Titre>Certificat de transfert de droits à déduction (prélèvement sur les carburants d'origine fossile) - Filière : essences et superéthanol</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R39476" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15267.do" numerocerfa="15267*01" type="Formulaire">
+<Titre>Certificat de transfert de droits à déduction - Filière : Gazoles</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R43122" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15497.do" format="application/force-download" poids="159.1 KB" numerocerfa="15497*02" type="Formulaire">
+<Titre>Bordereau de suivi des déchets dangereux (BSDD) - Fiche d'intervention pour les opérations nécessitant une manipulation de fluides frigorigènes effectuées sur un équipement</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source><NoticeLiee ID="R43123" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52064&amp;cerfaFormulaire=15497" numerocerfa="52064#01">Notice pour le bordereau de suivi des déchets dangereux (BSDD) - Opérations nécessitant une manipulation de fluides frigorigènes</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="15497*02a">
+<Titre>Annexe à joindre à la fiche d'intervention (cerfa 15497*02) en cas de collecte de petites quantités dans un même contenant</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=1&amp;cerfaFormulaire=15497" format="application/pdf" poids="204.6 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="15497*02b">
+<Titre>Annexe à joindre au bordereau de suivi des déchets de fluides frigorigènes lors d'un regroupement de plusieurs contenants</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=2&amp;cerfaFormulaire=15497" format="application/pdf" poids="180.2 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R43124" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15498.do" numerocerfa="15498*02" type="Formulaire">
+<Titre>Contrat d'assemblage et de mise en service d'un équipement préchargé contenant des fluides frigorigènes</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R17584" URL="http://www.entreprises.cci-paris-idf.fr/web/environnement/dechets/tout-savoir-dechets" audience="Professionnels">
+<Titre>Gestion des déchets par les entreprises</Titre>
+<Source ID="R30737">Chambre de commerce et d'industrie de Paris (CCIP)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41419" URL="http://www.developpement-durable.gouv.fr/-Sites-et-sols-pollues-.html" audience="Professionnels">
+<Titre>Sites et sols pollués</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+</Publication>

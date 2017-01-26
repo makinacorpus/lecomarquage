@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32073" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Retard de paiement ou d'exécution d'un marché public</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Dans un marché public, si l'organisme public ne respecte pas les délais pour payer son fournisseur ou son prestataire, il encourt des pénalités.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-20</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32073</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?dateTexte=&amp;categorieLien=id&amp;cidTexte=JORFTEXT000027248487, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000593610, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032770232, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033735433</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31388</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31388">Exécution d'un marché public</Niveau>
+<Niveau ID="F32073" type="Fiche d'information">Retard de paiement ou d'exécution d'un marché public</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31385">Marchés publics</SousThemePere><DossierPere ID="N31388">
+<Titre>Exécution d'un marché public</Titre>
+<Fiche ID="F23386">Paiement d'un marché public</Fiche>
+<Fiche ID="F32073">Retard de paiement ou d'exécution</Fiche>
+<Fiche ID="F23387">Révision du prix d'un marché public</Fiche>
+<Fiche ID="F23388">Règlement amiable des litiges</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Lors de l'exécution d'un marché, si l'organisme  public ne respecte pas les délais  réglementaires pour payer son fournisseur ou son prestataire, des pénalités financières sont automatiquement appliquées. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Modalités de paiement du prestataire ou du fournisseur</Paragraphe>
+</Titre><Paragraphe>Le délai de paiement du fournisseur ou du prestataire varie selon le type d'organisme public :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>30 jours pour les pouvoirs adjudicateurs ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> 50 jours pour les établissements publics de santé et les établissements du service de santé des armées ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> 60 jours pour les entreprises publiques.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le fournisseur ou prestataire doit être payé dans ces délais suivant la mise en paiement de la facture par l'organisme public.</Paragraphe>
+<Paragraphe>Les intérêts commencent à courir le lendemain de l'expiration du délai de paiement et jusqu'à la date de mise en paiement incluse.</Paragraphe>
+<Paragraphe>Si l'organisme public paye son fournisseur ou prestataire avec retard, il  lui doit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des  <LienIntra LienID="R21707" type="Définition de glossaire">intérêts moratoires</LienIntra>  calculés en fonction du nombre de jours de retard et appliqués au montant qui subit le retard,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une indemnité de <Valeur>40 €</Valeur> pour frais de recouvrement, montant forfaitaire dû dès le 1<Exposant>er</Exposant> jour de retard, qui s'ajoute systématiquement aux pénalités de retard. Cette indemnité n'est pas incluse dans la base de calcul des intérêts moratoires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les intérêts moratoires et l'indemnité forfaitaire sont exigibles sans qu'un rappel soit nécessaire, c'est-à-dire sans qu'il soit  besoin d'envoyer une lettre recommandée afin de déclencher le droit de percevoir des pénalités de retard.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>un <LienInterne LienPublication="R209" type="Simulateur" audience="Professionnels">simulateur de calcul</LienInterne> permet aux entreprises d'évaluer le montant des intérêts moratoires dus par un organisme public qui ne respecterait pas les délais réglementaires.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Calcul des intérêts de retard selon la date du contrat</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Marchés conclus depuis le 16 mars 2013</Paragraphe>
+</Titre><Paragraphe>La formule de calcul est la suivante : montant TTC dû x (nombre de jours de retard / 365) x taux des intérêts moratoires applicable.</Paragraphe>
+<Paragraphe>Pour les contrats conclus à partir du 16 mars 2013, le taux des intérêts moratoires correspond au <LienExterne URL="http://www.banque-france.fr/economie-et-statistiques/changes-et-taux/les-taux-directeurs.html">taux directeur</LienExterne>
+
+ semestriel (taux de refinancement ou Refi) de la Banque centrale européenne (BCE), en vigueur au 1<Exposant>er</Exposant> jour du semestre  au cours duquel les intérêts moratoires ont commencé à courir, majoré de 8 points de pourcentage.</Paragraphe>
+<Paragraphe>Par exemple, pour un délai de paiement qui expire au 24 mars, il faut calculer les intérêts qui sont dus à partir du 25 mars, en fonction du taux en vigueur au 1<Exposant>er</Exposant> janvier. Pour un délai de paiement qui expire au 24 juillet, il convient d'appliquer le taux en vigueur au 1<Exposant>er</Exposant> juillet.</Paragraphe>
+<Paragraphe>Si le dernier jour du délai est un jour férié, un dimanche ou un samedi, alors le délai expire à la fin du jour ouvrable suivant.</Paragraphe>
+<Tableau>
+<Titre>Contrats conclus à partir du 16 mars 2013 et dont le délai de paiement court depuis le 1er mai 2013 </Titre>
+<Colonne largeur="36" type="normal"/>
+<Colonne largeur="36" type="normal"/>
+<Colonne largeur="36" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Fin du délai de paiement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mode de calcul des intérêts moratoires</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux des intérêts moratoires</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier 2017 et le 30 juin 2017</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,00 % au 1<Exposant>er</Exposant> janvier 2017) + 8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,00</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre le 1<Exposant>er</Exposant> juillet 2016 et le 31 décembre 2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,00 % au 1<Exposant>er</Exposant> juillet 2016) + 8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,00 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier 2015 et le 30 juin 2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,05 % au 1<Exposant>er</Exposant> janvier et au 1<Exposant>er</Exposant> juillet 2015) + 8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,05 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre le 1<Exposant>er</Exposant> juillet  et le 31 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,15 % au 1<Exposant>er</Exposant> juillet 2014)  + 8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,15 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier et 30 juin 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE (0,25 % au 1<Exposant>er</Exposant> janvier 2014) + 8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,25 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre le 1<Exposant>er</Exposant> juillet et le 31 décembre :2013</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE (0,50 % au 1<Exposant>er</Exposant> juillet 2013) + 8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,50 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jusqu'au 30 juin 2013</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,75 % au 1<Exposant>er</Exposant> janvier 2013) + 8</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,75 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Marchés conclus avant le 16 mars 2013</Paragraphe>
+</Titre><Paragraphe>Pour les contrats conclus jusqu'au 15 mars 2013 (ainsi que les contrats conclus à partir du 16 mars 2013 pour les créances dont le délai de paiement a commencé à courir entre le 16 mars 2013 et le 1<Exposant>er</Exposant> mai 2013), le taux des intérêts moratoires est calculé en référence à 2 taux différents :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le taux d'intérêt légal augmenté de 2 points pour les établissements publics de santé et les établissements de santé des armées,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le taux directeur de la Banque centrale européenne (BCE) augmenté de 7 points  pour l'État, les établissements publics administratifs (EPA) nationaux, les collectivités territoriales et les établissements publics locaux.</Paragraphe>
+</Item>
+</Liste>
+<Tableau>
+<Titre>Contrats conclus avant le 16 mars 2013 ou contrats conclus après le 16 mars 2013 et dont le délai de paiement a commencé à courir avant le 1er mai 2013</Titre>
+<Colonne largeur="26" type="normal"/>
+<Colonne largeur="27" type="normal"/>
+<Colonne largeur="27" type="normal"/>
+<Colonne largeur="26" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Fin du délai de paiement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Acheteur public concerné</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mode de calcul des intérêts moratoires</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux des intérêts moratoires</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier et le 30 juin 2017</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>État, EPA nationaux, collectivités territoriales et établissements publics locaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,00 % au 1<Exposant>er</Exposant> juillet 2016) + 7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,00 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Établissements publics de santé et établissements de santé des armées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'intérêt légal (<Valeur>0,90 %</Valeur>au 1<Exposant>er</Exposant> semestre 2016) + 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2,90 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Entre le 1<Exposant>er</Exposant> juillet et le 31 décembre 2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>État, EPA nationaux, collectivités territoriales et établissements publics locaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,00 % au 1<Exposant>er</Exposant> juillet 2016) + 7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,00 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Établissements publics de santé et établissements de santé des armées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'intérêt légal (<Valeur>0,93 %</Valeur> au 2<Exposant/>semestre 2016) + 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2,93 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier et le 30 juin 2016</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>État, EPA nationaux, collectivités territoriales et établissements publics locaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE  (0,05 % au 1<Exposant>er</Exposant> janvier 2016) + 7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,05 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Établissements publics de santé et établissements de santé des armées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'intérêt légal (<Valeur>1,01 %</Valeur> au 1<Exposant>er</Exposant> semestre 2016) + 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3,01 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Entre le 1<Exposant>er</Exposant> juillet et le 31 décembre 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>État, EPA nationaux, collectivités territoriales et établissements publics locaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE (0,05 % au 1<Exposant>er</Exposant> juillet 2015) + 7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,05 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Établissements publics de santé et établissements de santé des armées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'intérêt légal (<Valeur>0,99 %</Valeur> au 2<Exposant>e</Exposant> semestre 2015) + 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2,99 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier et le 30 juin 2015</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>État, EPA nationaux, collectivités territoriales et établissements publics locaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE (0,05 % au 1<Exposant>er</Exposant> janvier 2015) + 7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,05 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Établissements publics de santé et établissements de santé des armées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'intérêt légal (0,93 % au 1<Exposant>er</Exposant> semestre 2015) + 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2,93 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Entre le 1<Exposant>er</Exposant> juillet  et le 31 décembre 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>État, EPA nationaux, collectivités territoriales et établissements publics locaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE (0,15 % au 1<Exposant>er</Exposant> juillet 2014) + 7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,15 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Établissements publics de santé et établissements de santé des armées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'intérêt légal (0,04 % en 2014) + 2</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>2,04 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule fusionVerticale="2">
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier et 30 juin 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>État, EPA nationaux, collectivités territoriales et établissements publics locaux</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux de la BCE (0,25 % au 1<Exposant>er</Exposant> janvier 2014) + 7</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,25 %</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Établissements publics de santé et établissements de santé des armées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux d'intérêt légal (0,04 % en 2014) + 2</Paragraphe>
+</Cellule>
+<Cellule/>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F23386" audience="Professionnels">
+<Titre>Paiement d'un marché public</Titre>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?dateTexte=&amp;categorieLien=id&amp;cidTexte=JORFTEXT000027248487" ID="R36704">
+<Titre>Décret n°2013-269 du 29 mars 2013 relatif à la lutte contre les retards de paiement dans les contrats de la commande publique</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000593610" ID="R36710">
+<Titre>Décret n°2002-232 du 21 février 2002 relatif à la mise en œuvre du délai maximum de paiement dans les marchés publics</Titre>
+<Complement>Intérêts moratoires applicables aux marchés publics conclus avant le 16 mars 2013</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032770232" ID="R44331">
+<Titre>Arrêté du 24 juin 2016 relatif à la fixation du taux de l'intérêt légal</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033735433" ID="R46329">
+<Titre>Arrêté du 29 décembre 2016 relatif à la fixation du taux de l'intérêt légal</Titre>
+</Reference>
+<ServiceEnLigne ID="R209" URL="/simulateur/calcul/interets-moratoires" type="Simulateur">
+<Titre>Simulateur de calcul des intérêts moratoires des marchés publics</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R32957" URL="http://www.collectivites-locales.gouv.fr/files/files/commande_publique/im_2016_01.pdf" audience="Professionnels" format="application/pdf" poids="304.5 KB">
+<Titre>Taux applicables au calcul des intérêts moratoires dus dans les marchés publics</Titre>
+<Source ID="R32241">collectivites-locales.gouv.fr</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R34602" URL="http://www.banque-france.fr/economie-et-statistiques/changes-et-taux/les-taux-directeurs.html" audience="Professionnels">
+<Titre>Taux directeur (ou de refinancement) de la Banque centrale européenne (BCE)</Titre>
+<Source ID="R30618">Banque de France</Source>
+</PourEnSavoirPlus>
+<Definition ID="R21707">
+<Titre>Intérêts moratoires</Titre>
+<Texte>
+				<Paragraphe>Majoration automatique, exprimée en pourcentage, des sommes à verser au titulaire d'un marché par un organisme public, lorsque celui-ci ne respecte pas le délai contractuel ou réglementaire de paiement des prestations prévues au contrat.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F32048" audience="Professionnels">Marchés publics : qui sont les acheteurs ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="servicesEnLigne" type="Liste - Service en ligne" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Services en ligne et formulaires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Services en ligne et formulaires : téléservices, formulaires, simulateurs, modèles de document</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-06</dc:date>
+<dc:type>Liste - Service en ligne</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>accueil</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+</FilDAriane>
+<Groupe type="Téléservice">
+<Titre>Téléservices</Titre><ServiceEnLigne ID="R1757" URL="https://psl.service-public.fr/asso_mademarche/CR/demarche" type="Téléservice">
+<Titre>Création d'une association (e-création)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19721" URL="https://mdel.mon.service-public.fr/asso_mademarchev5/sfjsp?interviewID=eSubvention" type="Téléservice">
+<Titre>Association : demande de subvention en ligne auprès de certains services de l'État</Titre>
+<Source ID="R30711">Secrétariat général pour la modernisation de l'action publique (SGMAP)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33779" URL="http://www.journal-officiel.gouv.fr/association/index.php" type="Téléservice">
+<Titre>Consulter les annonces des associations et fondations</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2715" URL="https://psl.service-public.fr/asso_mademarche/MD/demarche?action=dissolution" type="Téléservice">
+<Titre>Dissolution d'une association (e-dissolution)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2089" URL="https://www.cfe.urssaf.fr/saisiepl/unsecure_index.jsp" type="Téléservice">
+<Titre>Association employeur : demande de numéros Siren et Siret et déclaration de modification de situation</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R823" URL="http://www.journal-officiel.gouv.fr/diffuser-les-comptes-annuels.html" type="Téléservice">
+<Titre>Publication des comptes annuels des associations, des fondations et des fonds de dotation</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14534" URL="http://www.cea.urssaf.fr/ceaweb/informatif/accueil/accueil.do?2=1" type="Téléservice">
+<Titre>Chèque emploi associatif (CEA) - espace employeur</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14535" URL="https://www.guso.fr/webguso/accueil" type="Téléservice">
+<Titre>Guichet unique du spectacle occasionnel (Guso)</Titre>
+<Source ID="R30668">Pôle emploi</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1329" URL="https://ma-demarche-fse.fr/demat/servlet/login.html" type="Téléservice">
+<Titre>Ma démarche Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33689" URL="http://www.erasmusplus-jeunesse.fr/site/documents-a-telecharger.html#guide" type="Téléservice">
+<Titre>Demande de subvention spécifique Programme Erasmus +</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16391" URL="https://tam.extranet.jeunesse-sports.gouv.fr/identification.aspx" type="Téléservice">
+<Titre>Déclarations relatives aux accueils collectifs de mineurs (ACM)</Titre>
+<Source ID="R30704">Ministère en charge de la jeunesse</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17412" URL="http://www.service-civique.gouv.fr/page/publier-votre-mission-sur-le-site" type="Téléservice">
+<Titre>Offrir une mission de service civique</Titre>
+<Source ID="R30648">Agence du service civique</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33450" URL="http://www.derives-sectes.gouv.fr/quelles-instances-saisir/informer-la-miviludes-d-une-derive-sectaire" type="Téléservice">
+<Titre>Alerter la Miviludes</Titre>
+<Source ID="R33451">Miviludes</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37933" URL="https://psl.service-public.fr/asso_mademarche/MD/demarche?action=modification" type="Téléservice">
+<Titre>Modification d'une association (e-modification)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2970" URL="http://www.legifrance.gouv.fr/initRechConvColl.do" type="Téléservice">
+<Titre>Consulter ou télécharger une convention collective en version numérique</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19859" URL="https://www.infogreffe.fr/societes/documents-officiels/demande-kbis.html" type="Téléservice">
+<Titre>Recherche sur les entreprises immatriculées au RCS</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31899" URL="http://www.journal-officiel.gouv.fr/diffuser-les-comptes-annuels-des-organisations-syndicales-et-professionnelles.html" type="Téléservice">
+<Titre>Publication des comptes des organisations syndicales et professionnelles</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source><NoticeLiee ID="R31902" URL="http://www.journal-officiel.gouv.fr/documents/externe/org_syndic_pro/manuel-depot-des-comptes-partenaires-sociaux_v2.pdf" format="application/pdf" poids="3.5 MB">Guide pratique du téléservice de diffusion des comptes des organisations syndicales et professionnelles</NoticeLiee>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Formulaire">
+<Titre>Formulaires</Titre><ServiceEnLigne ID="R19467" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13973.do" numerocerfa="13973*03" type="Formulaire">
+<Titre>Création d'une association</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19468" URL="http://www.formulaires.modernisation.gouv.fr/gf/cerfa_13972.do" numerocerfa="13972*02" type="Formulaire">
+<Titre>Modification (ou dissolution) d'une association</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1271" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12156.do" format="application/force-download" poids="2,55 Mo" numerocerfa="12156*05" type="Formulaire">
+<Titre>Association : demande de subvention</Titre>
+<Source ID="R30678">Ministère en charge de la vie associative</Source><NoticeLiee ID="R19052" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51781&amp;cerfaFormulaire=12156" numerocerfa="51781#01" format="application/pdf" poids="308.1 KB">Notice pour remplir une demande de subvention par une association</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2631" URL="http://www.associations.gouv.fr/IMG/doc/exemple_de_statuts_d_association.doc" format="application/msword" poids="51.5 KB" type="Formulaire">
+<Titre>Exemple de statuts d'une association déclarée loi 1901</Titre>
+<Source ID="R30678">Ministère en charge de la vie associative</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2707" URL="http://www.associations.gouv.fr/IMG/doc/exemple_de_reglement_interieur.doc" format="application/msword" poids="28.0 KB" type="Modèle de document">
+<Titre>Modèle de règlement intérieur d'une association</Titre>
+<Source ID="R30678">Ministère en charge de la vie associative</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20287" URL="http://www.journal-officiel.gouv.fr/documents/externe/creation-asl-dila.pdf" format="application/pdf" poids="182.1 KB" type="Formulaire">
+<Titre>Création d'association syndicale de propriétaires</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24518" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14830.do" format="application/force-download" poids="1.2 MB" numerocerfa="14830*02" type="Formulaire">
+<Titre>Demande d'aide emplois d'avenir</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source><NoticeLiee ID="R24519" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51685&amp;cerfaFormulaire=14830" numerocerfa="51685#02" format="application/pdf" poids="507.7 KB">Notice de la demande d'aide emploi d'avenir</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34366" URL="http://www.interieur.gouv.fr/content/download/31579/236204/file/modele_de_statuts_arup.PDF" format="application/pdf" poids="65.3 KB" type="Formulaire">
+<Titre>Modèle de statuts d'association reconnue d'utilité publique</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Modèle de document">
+<Titre>Modèle de document</Titre><ServiceEnLigne ID="R2237" URL="" type="Modèle de document">
+<Titre>Faire une demande d'occupation temporaire du domaine public ou de la voie publique</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2628" URL="" type="Modèle de document">
+<Titre>Demander des numéros Siren et Siret comme association subventionnée</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10959" URL="" type="Modèle de document">
+<Titre>Attestation sur l'honneur d'un participant non professionnel à une vente au déballage</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24391" URL="" type="Modèle de document">
+<Titre>Demander l'autorisation d'ouvrir une buvette associative temporaire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24390" URL="" type="Modèle de document">
+<Titre>Déclarer une buvette associative installée dans une foire ou un lieu d'exposition</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+</Groupe>
+</Publication>

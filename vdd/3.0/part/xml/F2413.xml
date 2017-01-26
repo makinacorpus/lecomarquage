@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2413" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Compte bancaire individuel</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Toute personne peut demander à une banque de lui ouvrir un compte personnel, dès lors qu'elle en accepte les règles de fonctionnement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-29</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2413</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006683871&amp;idSectionTA=LEGISCTA000006185224&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170365&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N98</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="F2413" type="Fiche d'information">Compte bancaire individuel</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N98">
+<Titre>Comptes bancaires</Titre><SousDossier ID="N98-1">
+<Titre>Types de compte</Titre>
+<Fiche ID="F2413">Compte individuel</Fiche>
+<Fiche ID="F10412">Compte joint</Fiche>
+<Fiche ID="F2812">Compte indivis</Fiche>
+</SousDossier>
+<SousDossier ID="N98-2">
+<Titre>Droit au compte</Titre>
+<Fiche ID="F2417">Refus d'ouverture de compte</Fiche>
+<Fiche ID="F31456">Clôture d'un compte par la banque</Fiche>
+</SousDossier>
+<SousDossier ID="N98-3">
+<Titre>Problèmes de trésorerie</Titre>
+<Fiche ID="F31423">Découvert autorisé</Fiche>
+<Fiche ID="F18777">Incidents de paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N98-4">
+<Titre>Opérations bancaires</Titre>
+<Fiche ID="F20752">Opérations bancaires (virement, prélèvement, chèque...)</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Types de compte</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Toute personne peut demander à une banque de lui ouvrir un compte personnel, dès lors qu'elle en accepte les règles de fonctionnement.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Demande d'ouverture du compte</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Vérification de l'identité</Paragraphe>
+</Titre><Paragraphe>Pour demander l'ouverture d'un compte, vous devez présenter une pièce d'identité officielle comportant une photographie, c'est-à-dire, en pratique :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une carte nationale d'identité</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un passeport</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une carte de séjour UE</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un autre titre de séjour.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La production du permis de conduire peut être acceptée, si la photo ne laisse aucun doute sur votre identité.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Justification du domicile</Paragraphe>
+</Titre><Paragraphe>Vous devez aussi justifier de votre domicile.</Paragraphe>
+<Paragraphe>Vous pouvez par exemple fournir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> un avis d'imposition , </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une quittance de loyer,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> une facture d'eau ou d'électricité.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'attestation <LienInterne LienPublication="F17317" type="Fiche Question-réponse" audience="Particuliers">d'élection de domicile</LienInterne> présentée par une personne ne disposant pas d'un domicile stable est aussi acceptée.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision de la banque</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Si la banque accepte</Paragraphe>
+</Titre><Paragraphe>Au vu des documents que vous lui avez remis, si la banque accepte de vous ouvrir un compte, elle vous informe alors des conditions d'utilisation.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si la banque refuse</Paragraphe>
+</Titre><Paragraphe>Lorsque la banque vous refuse l'ouverture du compte, elle n'a pas l'obligation de motiver sa décision, même si vous avez justifié de votre identité et de votre domicile.</Paragraphe>
+<Paragraphe>Elle doit cependant vous informer de la possibilité de saisir la Banque de France afin de pouvoir exercer votre <LienInterne LienPublication="F2417" type="Fiche d'information" audience="Particuliers">droit au compte</LienInterne>.</Paragraphe><OuSAdresser ID="R16526" type="Centre de contact">
+<Titre>Banque de France</Titre><Texte>
+						
+								<Paragraphe>
+			Informe les particuliers sur la réglementation bancaire, le crédit, le surendettement, les  incidents de paiement et le droit au compte.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence> </Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>31 rue Croix des Petits-Champs</Paragraphe>
+								<Paragraphe>75049 PARIS Cedex 01</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Intitulé du compte</Paragraphe>
+</Titre><Paragraphe>En règle générale, l'intitulé du compte reprend votre premier prénom et votre nom, précédé de M., Mme ou Mlle.</Paragraphe>
+<Paragraphe>La banque ne peut pas imposer l'usage de <Expression>mademoiselle</Expression> à une cliente célibataire.</Paragraphe>
+<Paragraphe>S'il figure sur la pièce d'identité que vous avez présentée, le nom peut être votre nom d'usage ( <LienInterne LienPublication="F868" type="Fiche d'information" audience="Particuliers">nom du mari ou de la femme</LienInterne> ou <LienInterne LienPublication="F1343" type="Fiche d'information" audience="Particuliers">nom de vos deux parents</LienInterne>).</Paragraphe>
+<Paragraphe>En <LienInterne LienPublication="N155" type="Dossier" audience="Particuliers">cas de tutelle ou de curatelle</LienInterne>, la mention "sous tutelle (ou curatelle) de", suivie du nom du tuteur ou du curateur est ajoutée.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Convention de compte</Paragraphe>
+</Titre><Paragraphe>La <LienInterne LienPublication="F2909" type="Fiche Question-réponse" audience="Particuliers">convention de compte de dépôt</LienInterne> que vous devez signer reprend l'ensemble des informations sur le fonctionnement de votre compte.</Paragraphe>
+<Paragraphe>Vous remettez ensuite à la banque un spécimen de votre signature, qui permet de vérifier l'authenticité des actes de gestion qui seront effectués ultérieurement.</Paragraphe>
+<Paragraphe>La banque peut modifier la convention de compte, en respectant un délai de préavis d'au moins 2 mois avant la date d'entrée en vigueur des changements.</Paragraphe>
+<Paragraphe>Si vous ne contestez cette nouvelle convention de compte dans ce délai cela vaut acceptation.</Paragraphe>
+<Paragraphe>En cas de désaccord avec la nouvelle convention de compte, vous devez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou vous priver des services modifiés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou engager la procédure de clôture de compte, sans frais.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dépôts et retraits</Paragraphe>
+</Titre><Paragraphe>Par opposition à d'autres types de compte bancaire (compte joint et compte indivis), en tant que titulaire d'un compte individuel, vous êtes la seule personne à pouvoir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déposer et retirer des fonds sur le compte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>utiliser les <LienInterne LienPublication="N91" type="Dossier" audience="Particuliers">moyens de paiement</LienInterne> associés au compte.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez toutefois <LienInterne LienPublication="F1474" type="Fiche Question-réponse" audience="Particuliers">donner procuration</LienInterne> à une personne pour effectuer des dépôts et des retraits en votre nom.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Frais de tenue de compte</Paragraphe>
+</Titre><Paragraphe>Depuis le 1<Exposant>er</Exposant>janvier 2016, toutes les banques peuvent facturer des frais pour la simple  tenue de votre compte. </Paragraphe>
+<Paragraphe>Le détail de <LienInterne LienPublication="F848" type="Fiche Question-réponse" audience="Particuliers">ces tarifs</LienInterne> doit figurer dans sa plaquette tarifaire ou être affichée dans ses agences. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Clôture du compte</Paragraphe>
+</Titre><Paragraphe>La convention de compte doit vous indiquer les modalités de clôture de compte à votre demande.</Paragraphe>
+<Paragraphe>L'usage veut que vous adressiez une demande de résiliation par courrier recommandé avec demande d'avis de réception.</Paragraphe><ServiceEnLigne ID="R18554" URL="http://www.conso.net./content/vous-demandez-la-fermeture-de-votre-compte-de-d%C3%A9p%C3%B4t" type="Modèle de document">
+<Titre>Demander la fermeture d'un compte bancaire</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+
+<Paragraphe>Un délai de préavis de 30 jours est souvent imposé.</Paragraphe>
+<Paragraphe>Ce délai permet de s'assurer, après remise à la banque de tous les moyens de paiement, que toutes les dernières opérations en cours (notamment par <LienInterne LienPublication="F2402" type="Fiche d'information" audience="Particuliers">chèque</LienInterne> ) ont abouti.</Paragraphe>
+<Paragraphe>Les <LienInterne LienPublication="F2384" type="Fiche d'information" audience="Particuliers">ordres de virement ou de prélèvement</LienInterne> permanents sont annulés, à réception du courrier de résiliation.</Paragraphe>
+<Paragraphe>La clôture de tout compte de dépôt ou compte sur livret est gratuite.</Paragraphe>
+<Paragraphe>En cas de décès, dès que la banque en a connaissance de façon certaine, elle <LienInterne LienPublication="F1451" type="Fiche Question-réponse" audience="Particuliers">bloque le compte</LienInterne> : elle n'y enregistre plus aucune opération de dépôt ou de retrait.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le compte peut être également <LienInterne LienPublication="F31456" type="Fiche d'information" audience="Particuliers">clos à l'initiative de la banque</LienInterne>.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F10412" audience="Particuliers">
+<Titre>Compte bancaire joint</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006683871&amp;idSectionTA=LEGISCTA000006185224&amp;cidTexte=LEGITEXT000006072026" ID="R38710">
+<Titre>Code monétaire et financier : R312-1 à R312-4-4</Titre>
+<Complement>Ouverture d'un compte</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006170365&amp;cidTexte=LEGITEXT000006072026" ID="R15056">
+<Titre>Code monétaire et financier : article L312-1</Titre>
+<Complement>Droit au compte</Complement>
+</Reference>
+<QuestionReponse ID="F1474" audience="Particuliers">Comment établir une procuration pour un compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F21035" audience="Particuliers">Un mineur peut-il avoir un compte bancaire ou un livret d'épargne ?</QuestionReponse>
+<QuestionReponse ID="F1451" audience="Particuliers">Que devient un compte bancaire en cas de décès ?</QuestionReponse>
+<QuestionReponse ID="F2909" audience="Particuliers">Que contient une convention de compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F33881" audience="Particuliers">Qu'est-ce que le service d'aide à la mobilité bancaire ?</QuestionReponse>
+</Publication>

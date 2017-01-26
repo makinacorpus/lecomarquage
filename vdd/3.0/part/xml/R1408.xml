@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1408" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de copie d'une décision de justice en matière civile, sociale ou commerciale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Justice, Vente - Commerce</dc:subject>
+<dc:description>Demande de copie d'une décision de justice en matière civile, sociale ou commerciale - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-03</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1408</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N269">Procès civil</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1408" type="Téléservice">Demande de copie d'une décision de justice en matière civile, sociale ou commerciale</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11808*04</NumeroCerfa>
+<Texte><Paragraphe>Si vous demandez l'exécution d'une décision de justice, il permet d'obtenir une copie exécutoire. </Paragraphe>
+<Paragraphe>Dans tous les autres cas, il permet d'obtenir une copie certifiée conforme.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=11808">
+<Source>Ministère en charge de la justice</Source>
+</LienWeb><NoticeLiee ID="R1239" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50825%2302&amp;cerfaFormulaire=11808*04" numerocerfa="50825#02">Notice de demande de copie d'une décision de justice civile, sociale ou commerciale</NoticeLiee>
+
+<FicheLiee ID="F1379" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment obtenir la copie d'un jugement ?</Titre>
+<Dossier ID="N269">Procès civil</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1052" audience="Particuliers" type="Fiche d'information">
+<Titre>Conseil de prud'hommes (CPH) : déroulement d'une affaire</Titre>
+<Dossier ID="N470">Conflits du travail dans le secteur privé</Dossier>
+</FicheLiee><OuSAdresser ID="R42420" type="Local">
+<Titre>Tribunal pénal, civil ou commercial</Titre>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-juridictions-dune-commune-25193.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Dossier ID="N17163">
+<Titre>Litiges liés au paiement</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+<Dossier ID="N31446">
+<Titre>Litiges liés aux produits ou aux prestations</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2330" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Grossesse et autorisation d'absence : quelles sont les règles ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>La salariée a droit à une autorisation d'absence pour se rendre aux examens médicaux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2330</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006900896&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N492</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N492">Conditions de travail dans le secteur privé</Niveau>
+<Niveau ID="F2330" type="Fiche Question-réponse">Grossesse et autorisation d'absence : quelles sont les règles ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere><DossierPere ID="N492">
+<Titre>Conditions de travail dans le secteur privé</Titre><SousDossier ID="N492-1">
+<Titre>Hygiène, sécurité et conditions de travail</Titre>
+<Fiche ID="F2210">Obligations de l'employeur</Fiche>
+<Fiche ID="F2344">Jeunes dans l'entreprise</Fiche>
+<Fiche ID="F58">Travailleur à domicile</Fiche>
+<Fiche ID="F2211">Médecine du travail</Fiche>
+<Fiche ID="F15504">Compte de prévention pénibilité</Fiche>
+<Fiche ID="F13851">Télétravail</Fiche>
+</SousDossier>
+<SousDossier ID="N492-2">
+<Titre>Travail de nuit</Titre>
+<Fiche ID="F2212">Principes généraux</Fiche>
+<Fiche ID="F1688">Jeunes de moins de 18 ans</Fiche>
+<Fiche ID="F2691">Protection de la salariée enceinte</Fiche>
+</SousDossier>
+<SousDossier ID="N492-3">
+<Titre>Conditions de travail : informations diverses</Titre>
+<Fiche ID="F31854">Évaluation du salarié</Fiche>
+<Fiche ID="F1905">Règlement intérieur d'une entreprise</Fiche>
+<Fiche ID="F78">Convention collective</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Salariée enceinte</Paragraphe>
+</Titre><Paragraphe>La salariée a droit à une autorisation d'absence pour se rendre aux <LienInterne LienPublication="F963" type="Fiche d'information" audience="Particuliers">examens médicaux (prénataux et postnataux) obligatoires prévus par l'assurance maladie</LienInterne>. </Paragraphe>
+<Paragraphe>Elle doit  présenter un justificatif de son absence, si l'employeur le demande.</Paragraphe>
+<Paragraphe>Ces absences sont considérées comme étant du temps de travail effectif pour la détermination de la durée des congés payés et au titre de l'ancienneté. Ces absences ne doivent pas entraîner une baisse de la rémunération.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>
+<LienIntra LienID="R42442" type="Définition de glossaire">la personne avec qui vous vivez en couple</LienIntra>  bénéficie aussi d'une autorisation d'absence pour se rendre à 3 de ces examens médicaux. </Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Assistance médicale à la procréation (AMP)</Paragraphe>
+</Titre><Paragraphe>La salariée a droit à une autorisation d'absence pour les examens et actes médicaux nécessaires.</Paragraphe>
+<Paragraphe>Elle doit présenter un justificatif de son absence, si l'employeur le demande.</Paragraphe>
+<Paragraphe>Ces absences sont considérées comme étant du temps de travail effectif pour la détermination de la durée des congés payés et au titre de l'ancienneté. Ces absences ne doivent pas entraîner une baisse de la rémunération.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>
+<LienIntra LienID="R42442" type="Définition de glossaire">la personne avec qui vous vivez en couple</LienIntra> bénéficie aussi d'une autorisation d'absence pour se rendre à 3 de ces actes médicaux nécessaires.</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006900896&amp;cidTexte=LEGITEXT000006072050" ID="R12540">
+<Titre>Code du travail : article L1225-16</Titre>
+</Reference>
+<Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F2775" audience="Particuliers">Une salariée enceinte peut-elle refuser d'effectuer certaines tâches ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2078" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modèle de contrat de volontariat de service civique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association, Papiers - Citoyenneté</dc:subject>
+<dc:description>Modèle de contrat de volontariat de service civique - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2078</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N22150">Bénévoles, volontaires et salariés d'une association</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2078" type="Formulaire">Modèle de contrat de volontariat de service civique</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.service-civique.gouv.fr/uploads/content/files/320e7f1d9bbdf7b749a92b838bebc5612864bb04.pdf" format="application/pdf" poids="338.0 KB">
+<Source>Agence du service civique</Source>
+</LienWeb>
+<FicheLiee ID="F15854" audience="Associations" type="Fiche d'information">
+<Titre>Agrément de service civique</Titre>
+<Dossier ID="N22150">Bénévoles, volontaires et salariés d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F13273" audience="Particuliers" type="Fiche d'information">
+<Titre>Volontariat associatif</Titre>
+<Dossier ID="N13271">Volontariats</Dossier>
+</FicheLiee>
+<Dossier ID="N13271">
+<Titre>Volontariats</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

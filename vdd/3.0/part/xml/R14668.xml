@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14668" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Compte fiscal en ligne pour les professionnels (mode EFI)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Logement, Création - Modification - Cessation, Fiscalité, Gestion - Finances, Secteurs d'activité</dc:subject>
+<dc:description>Compte fiscal en ligne pour les professionnels (mode EFI) - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-15</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14668</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14668" type="Téléservice">Compte fiscal en ligne pour les professionnels (mode EFI)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>L'espace abonné permet aux entreprises et aux professionnels d'accéder, avec ou sans certificat, aux démarches fiscales en ligne (mode EFI) suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>déclaration et paiement de la TVA (ex-TéléTVA),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>paiement de l'impôt sur les sociétés (IS), de la taxe sur les salaires, de la contribution économique et territoriale (CVAE et CFE), de l'imposition forfaitaire sur les entreprises de réseaux (IFER) et de la taxe foncière,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>consultation des déclarations fiscales et du compte fiscal de l'entreprise,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dépôt et suivi des demandes de remboursement de crédit de TVA,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demande de remboursement de TVA supportée dans un pays de l'Union européenne,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>délivrance d'attestation fiscale demandée pour les marchés publics,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>délivrance d'attestation de résidence fiscale en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>déclaration de résultats pour les entrepreneurs individuels assujettis dans la catégorie <LienInterne LienPublication="R24381" type="Sigle">BIC</LienInterne> au régime simplifié d'imposition (formulaire 2031).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est possible de créer un espace abonné avec un accès simplifié en 2 étapes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à partir de la saisie du numéro Siren, adresse électronique et mot de passe,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un code d'activation est alors adressé par voie postale qui permet de finaliser la création de l'espace abonné et saisir les coordonnées bancaires. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il est également possible de créer un espace abonné avec un accès en mode expert si vous agissez pour le compte d'une ou plusieurs entreprises. Vous devez alors saisir les identifiants de ces entreprises (Siren, adresse électronique, mot de passe, coordonnées), choisir les services proposés et transmettre les documents d'adhésion au service des impôts des entreprises pour validation.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://cfspro.impots.gouv.fr/LoginAccess">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F33167" audience="Professionnels" type="Fiche d'information">
+<Titre>Autoliquidation de la TVA due à l'importation</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24315" audience="Professionnels" type="Fiche d'information">
+<Titre>Bénéfices agricoles</Titre>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32919" audience="Professionnels" type="Fiche d'information">
+<Titre>Bénéfices industriels et commerciaux (BIC) : régimes fiscaux et déclarations</Titre>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32105" audience="Professionnels" type="Fiche d'information">
+<Titre>Bénéfices non commerciaux (BNC) : régimes fiscaux et déclarations</Titre>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23507" audience="Professionnels" type="Fiche d'information">
+<Titre>Cession de fonds de commerce ou de clientèle : déclarations fiscales</Titre>
+<Dossier ID="N16594">Cessation, transmission et reprise d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33465" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment obtenir une attestation de résidence fiscale ?</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33697" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment s'applique la taxe sur les appareils de reproduction ou d'impression ?</Titre>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24670" audience="Professionnels" type="Fiche d'information">
+<Titre>Contribution à l'audiovisuel public</Titre>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24026" audience="Professionnels" type="Fiche d'information">
+<Titre>Contributions et taxes assimilées à la TVA</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24619" audience="Professionnels" type="Fiche d'information">
+<Titre>Contribution sur les activités privées de sécurité</Titre>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23547" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisation foncière des entreprises (CFE)</Titre>
+<Dossier ID="N13443">Contribution économique territoriale (CET)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23546" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisation sur la valeur ajoutée des entreprises (CVAE)</Titre>
+<Dossier ID="N13443">Contribution économique territoriale (CET)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31431" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Dans quels cas effectuer une déclaration d'honoraires ou de commissions ?</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F21791" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Dans quels cas est-il interdit de payer en espèces ?</Titre>
+<Dossier ID="N31384">Facturation - Paiement</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23458" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'activité pour les professions libérales</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23510" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration et paiement de l'impôt sur les sociétés</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23566" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration et paiement de la TVA</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23384" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Marché public : comment obtenir une attestation fiscale ou sociale ?</Titre>
+<Dossier ID="N31387">Réponse à un avis de marché public</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31984" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Quelle est l'imposition des droits d'auteur ?</Titre>
+<Dossier ID="N23456">Impôt sur le revenu pour les professionnels</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23543" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Quelles déclarations fiscales professionnelles doivent être dématérialisées ?</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32042" audience="Professionnels" type="Fiche d'information">
+<Titre>Régime fiscal d'une société civile de moyens (SCM)</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31673" audience="Professionnels" type="Fiche d'information">
+<Titre>Remboursement de la TVA intracommunautaire</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20570" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe sur l'édition des ouvrages de librairie</Titre>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22576" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe sur les salaires</Titre>
+<Dossier ID="N13444">Taxes liées aux salaires</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22203" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe sur les véhicules des sociétés (TVS)</Titre>
+<Dossier ID="N22250">Taxes liées à l'activité des entreprises</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33340" audience="Professionnels" type="Fiche d'information">
+<Titre>TVA applicable aux échanges européens</Titre>
+<Dossier ID="N13445">Taxe sur la valeur ajoutée (TVA)</Dossier>
+</FicheLiee><Abreviation ID="R24381" type="Sigle">
+<Titre>BIC</Titre>
+<Texte>
+<Paragraphe>Bénéfices industriels et commerciaux</Paragraphe>
+</Texte>
+</Abreviation>
+</ServiceComplementaire>

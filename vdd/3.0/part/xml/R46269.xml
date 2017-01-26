@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R46269" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demander le remboursement des taxes d'aéroport</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Demander le remboursement des taxes d'aéroport - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-21</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R46269</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N84">Voyage en avion</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R46269" type="Modèle de document">Demander le remboursement des taxes d'aéroport</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>
+<Variable>Votre nom</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Vos coordonnées</Variable>
+</Paragraphe>
+<Paragraphe>Madame, Monsieur</Paragraphe>
+<Paragraphe>Le <Variable>date d'achat</Variable> j'ai acheté un billet d'avion <Variable>trajet</Variable> pour un montant total de <Variable>prix du billet</Variable> euros. Le vol était prévu  le <Variable>date</Variable> à <Variable>horaire</Variable>.</Paragraphe>
+<Paragraphe>Je n'ai pas pu prendre cet avion car <Variable>motif d'annulation</Variable>. Veuillez trouvez ci-joint mon billet d'avion non validé.</Paragraphe>
+<Paragraphe>Conformément à l'article L224-66 du Code de la consommation, je vous demande de bien vouloir procéder, dans les 30 jours, au remboursement des taxes suivantes :</Paragraphe>
+<Paragraphe>Taxe QW : <Variable>montant de la taxe</Variable> euros</Paragraphe>
+<Paragraphe>Taxe QX : <Variable>montant de la taxe</Variable> euros.</Paragraphe>
+<Paragraphe>Le montant total des taxes est donc de <Variable>montant total</Variable>.</Paragraphe>
+<Paragraphe>Cordialement,</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F32396" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Voyage en avion annulé : peut-on se faire rembourser les taxes ?</Titre>
+<Dossier ID="N84">Voyage en avion</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

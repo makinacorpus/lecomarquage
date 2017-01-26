@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16539" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quelle est la valeur d'un contrôle technique effectué à l'étranger ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Depuis le 1er mai 2014, un contrôle technique effectué dans un pays de l'Union européenne (UE) peut être valable en France dans un cas bien précis.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16539</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159533&amp;cidTexte=LEGITEXT000006074228, http://www.legifrance.org/affichCode.do?idArticle=LEGIARTI000006841815&amp;idSectionTA=LEGISCTA000006177100&amp;cidTexte=LEGITEXT000006074228, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020559004, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000021211848</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31200</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N31200">Contrôle technique</Niveau>
+<Niveau ID="F16539" type="Fiche Question-réponse">Quelle est la valeur d'un contrôle technique effectué à l'étranger ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N31200">
+<Titre>Contrôle technique</Titre>
+<Fiche ID="F2878">Voiture particulière</Fiche>
+<Fiche ID="F33353">Camionnette</Fiche>
+<Fiche ID="F33354">Camping-car</Fiche>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Véhicule immatriculé à l'étranger</Paragraphe>
+</Titre><Paragraphe>Vous pouvez  faire <LienInterne LienPublication="F1050" type="Fiche d'information" audience="Particuliers">immatriculer en France</LienInterne> un véhicule immatriculé précédemment dans un pays de l'Union européenne sans  refaire en France le contrôle technique si celui-ci est toujours valable, c'est-à-dire s'il a moins de 6 mois.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le contrôle technique effectué dans un pays extérieur à l'Union européenne n'est pas valable en France.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Véhicule immatriculé en France</Paragraphe>
+</Titre><Paragraphe>Si votre véhicule est immatriculé en France, vous ne pouvez pas faire faire le contrôle technique dans un autre pays. Lors de votre retour en France, celui-ci ne sera pas valable.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><OuSAdresser ID="R32364" type="Local">
+<Titre>Centre agréé de contrôle technique</Titre>
+<Complement>Pour connaître la liste des centres agréés</Complement>
+<RessourceWeb URL="http://www.utac-otc.com/fr/ctvl/lieu_ctrl.asp"/>
+<Source ID="R32365">UTAC - OTC</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159533&amp;cidTexte=LEGITEXT000006074228" ID="R34609">
+<Titre>Code de la route : article L323-1</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.org/affichCode.do?idArticle=LEGIARTI000006841815&amp;idSectionTA=LEGISCTA000006177100&amp;cidTexte=LEGITEXT000006074228" ID="R34610">
+<Titre>Code de la route : articles R323-1 à R323-5</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020559004" ID="R11460">
+<Titre>Arrêté du 18 juin 1991 relatif au contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes</Titre>
+<Complement>Annexe 1 (points de contrôle) et annexe 2 (défauts nécessitant une contre-visite)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000021211848" ID="R13019">
+<Titre>Arrêté du 14 octobre 2009 relatif aux visites techniques des véhicules de collection</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R1023" URL="http://europa.eu/about-eu/countries/index_fr.htm" audience="Particuliers">
+<Titre>Pays de l'Union européenne</Titre>
+<Source ID="R30856">Toute l'Europe</Source>
+</PourEnSavoirPlus>
+
+</Publication>

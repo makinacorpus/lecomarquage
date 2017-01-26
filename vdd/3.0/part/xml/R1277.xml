@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1277" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration en vue de l'affiliation à la sécurité sociale pour les étudiants</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille, Social - Santé</dc:subject>
+<dc:description>Déclaration en vue de l'affiliation à la sécurité sociale pour les étudiants - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-13</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1277</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N58">Inscription dans l'enseignement supérieur</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1277" type="Formulaire">Déclaration en vue de l'affiliation à la sécurité sociale pour les étudiants</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>10547*02</NumeroCerfa>
+<AutreNumero>S1205g</AutreNumero>
+<Texte><Paragraphe>Formulaire à remplir par tout étudiant inscrit dans un établissement d'enseignement supérieur, une école technique supérieure, une grande école ou une classe du second degré préparatoire à ces écoles.</Paragraphe>
+<Paragraphe>Cette déclaration est nécessaire pour déterminer le régime de sécurité sociale qui vous est applicable.</Paragraphe>
+<Paragraphe>Le formulaire contient une  notice explicative cerfa n°50239#02</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S1205.pdf" format="application/pdf" poids="147.5 KB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F675" audience="Particuliers" type="Fiche d'information">
+<Titre>Sécurité sociale d'un étudiant</Titre>
+<Dossier ID="N418">Assurance maladie : affiliation et remboursements des soins</Dossier>
+</FicheLiee>
+<Dossier ID="N58">
+<Titre>Inscription dans l'enseignement supérieur</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31463" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Une lettre recommandée électronique a-t-elle une valeur légale ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Vente - Commerce</dc:subject>
+<dc:description>Une lettre recommandée électronique a-t-elle une valeur légale ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-03-18</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31463</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&amp;idArticle=LEGIARTI000006438628, http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023513151</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17163</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N17163">Litiges liés au paiement</Niveau>
+<Niveau ID="F31463" type="Fiche Question-réponse">Une lettre recommandée électronique a-t-elle une valeur légale ?</Niveau>
+</FilDAriane>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+</Theme>
+<SousThemePere ID="N31445">Litiges commerciaux</SousThemePere><DossierPere ID="N17163">
+<Titre>Litiges liés au paiement</Titre>
+<Fiche ID="F1746">Injonction de payer - recouvrement de créances</Fiche>
+<Fiche ID="F32084">Procédure européenne de règlement des petits litiges transfrontaliers</Fiche>
+<Fiche ID="F32082">Injonction de payer européenne</Fiche>
+<Fiche ID="F32117">Titre exécutoire européen (TEE)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Dans le cadre de la conclusion ou l'exécution d'un contrat, alors que l'envoi d'un courrier en recommandé avec avis de réception est exigé pour constituer une preuve de l'envoi, il est  possible d'effectuer cette formalité par voie électronique, sous certaines conditions.</Paragraphe>
+<Paragraphe>Une lettre recommandée électronique n'est pas nécessairement liée au fait que le contrat ait été conclu de façon électronique : elle est applicable à tout contrat, quelle que soit la forme de sa conclusion.</Paragraphe>
+<Paragraphe>Pour être juridiquement valable, l'envoi d'une lettre recommandée électronique doit remplir les conditions suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le tiers chargé de l'acheminement doit garantir l'identité du destinataire et de l'expéditeur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si le destinataire n'est pas un professionnel, son accord préalable doit être obtenu,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les dates d'expédition et de réception doivent être garanties et vérifiables.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le tiers chargé de l'acheminement de la lettre recommandée électronique doit conserver pendant 1 an ces informations, ainsi que</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le document original électronique,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et son empreinte informatique.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'expéditeur peut y avoir accès pendant 1 an.</Paragraphe>
+<Paragraphe>Avant l'envoi, le tiers chargé de l'acheminement du courrier doit informer le destinataire, par courrier électronique, qu'une lettre recommandée électronique va lui être envoyée et qu'il a la possibilité, dans un délai de 15 jours à partir du lendemain de l'envoi de cette information de l’accepter ou de la refuser. Le destinataire n'est pas informé de l'identité de l'expéditeur.</Paragraphe>
+<Paragraphe>Si le destinataire accepte de recevoir la lettre recommandée électronique, le tiers chargé de son acheminement l'envoie à destination de l'adresse électronique qui lui a été transmise par l'expéditeur.</Paragraphe>
+<Paragraphe>S'il refuse, le tiers chargé de l'acheminement en avise l'expéditeur. </Paragraphe>
+<Paragraphe>L'expéditeur ou le destinataire non professionnel peuvent demander la distribution de la lettre recommandée électronique imprimée sur papier. Le tiers chargé de l'acheminement procède alors à l'impression sur papier de la lettre recommandée électronique et à sa mise sous enveloppe.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&amp;idArticle=LEGIARTI000006438628" ID="R32202">
+<Titre>Code civil : article 1369-8</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023513151" ID="R32204">
+<Titre>Décret n°2011-144 du 2 février 2011 relatif à l'envoi d'une lettre recommandée par courrier électronique pour la conclusion ou l'exécution d'un contrat</Titre>
+</Reference>
+</Publication>

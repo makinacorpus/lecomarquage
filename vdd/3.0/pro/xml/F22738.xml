@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F22738" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Aides publiques à l'édition</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Outre les auteurs qui peuvent obtenir des bourses d'écriture et de résidence, tout éditeur en langue française (sauf édition à compte d'auteurs) peut bénéficier, sous conditions, des différentes aides. Sous forme de prêts ou de subventions, ces aides portent sur la production éditoriale classique (publication, traduction, réimpression, iconographie, etc.) et sur les projets numériques (numérisation, catalogues numériques, création de sites internet, etc.)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-01-23</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F22738</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18471</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N18471">Secteur du livre et de la presse</Niveau>
+<Niveau ID="F22738" type="Fiche avec liens externes">Aides publiques à l'édition</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N22282">Culture</SousThemePere><DossierPere ID="N18471">
+<Titre>Secteur du livre et de la presse</Titre><SousDossier ID="N18471-1">
+<Titre>Édition</Titre>
+<Fiche ID="F22288">Dépôt légal des livres</Fiche>
+<Fiche ID="F22667">Contrat de cession des droits d'auteurs</Fiche>
+<Fiche ID="F22221">Publications destinées à la jeunesse</Fiche>
+<Fiche ID="F22738">Aides publiques à l'édition</Fiche>
+<Fiche ID="F22888">Droit de prêt en bibliothèque</Fiche>
+<Fiche ID="F31425">Exploitation numérique des livres indisponibles</Fiche>
+</SousDossier>
+<SousDossier ID="N18471-2">
+<Titre>Presse</Titre>
+<Fiche ID="F22700">Formalités de parution d'un périodique</Fiche>
+<Fiche ID="F22767">Numéro de CPPAP</Fiche>
+<Fiche ID="F22389">Carte de presse</Fiche>
+<Fiche ID="F22644">Distribution de presse</Fiche>
+<Fiche ID="F22740">Aides publiques à la presse écrite</Fiche>
+<Fiche ID="F32170">Aides du fonds stratégique pour le développement de la presse</Fiche>
+</SousDossier>
+<SousDossier ID="N18471-3">
+<Titre>Librairie</Titre>
+<Fiche ID="F22713">Prix de vente du livre</Fiche>
+<Fiche ID="F22693">Labels Librairie de référence</Fiche>
+<Fiche ID="F32288">Droit de retour des livres</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Édition</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>
+			Outre les auteurs qui peuvent obtenir des bourses d'écriture et de résidence, tout éditeur en langue française (sauf édition à compte d'auteurs) peut bénéficier, sous conditions, des différentes aides.
+			Sous forme de prêts ou de subventions, ces aides portent sur la production éditoriale classique (publication, traduction, réimpression, iconographie, etc.) et sur les projets numériques (numérisation, catalogues numériques, création de sites internet, etc.)
+		</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.centrenationaldulivre.fr/fr/libraire/aide_aux_librairies/">Aides aux librairies du CNL</LienExterne>
+
+<Source ID="R30746">Centre national du livre (CNL)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.centrenationaldulivre.fr/fr/editeur/presentation/">Aides aux éditeurs : subventions pour la publication, la traduction, l'édition et la diffusion numérique....</LienExterne>
+
+<Source ID="R30746">Centre national du livre (CNL)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.cnt.asso.fr/auteurs/dispositif.cfm">Aides à la création dramatique</LienExterne>
+
+<Source ID="R30825">Centre national du théâtre (CNT)</Source>
+</LienExterneCommente><ServiceEnLigne ID="R17867" URL="http://www.centrenationaldulivre.fr/fr/auteur-traducteur/aides_aux_auteurs/" type="Formulaire">
+<Titre>Aides aux auteurs - Demande de bourse d'écriture</Titre>
+<Source ID="R30746">Centre national du livre (CNL)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17869" URL="http://www.centrenationaldulivre.fr/fr/auteur-traducteur/aides_aux_auteurs/credits_de_residence/" type="Formulaire">
+<Titre>Aides aux auteurs - Bourses de résidence</Titre>
+<Source ID="R30746">Centre national du livre (CNL)</Source>
+</ServiceEnLigne>
+</Publication>

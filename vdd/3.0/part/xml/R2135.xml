@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2135" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de renouvellement de permis de conduire, de duplicata ou de catégorie AM après annulation, suspension ou invalidation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Demande de renouvellement de permis de conduire, de duplicata ou de catégorie AM après annulation, suspension ou invalidation - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2135</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N530">Permis de conduire</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2135" type="Formulaire">Demande de renouvellement de permis de conduire, de duplicata ou de catégorie AM après annulation, suspension ou invalidation</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14882*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14882.do" format="application/force-download" poids="2.1 MB">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<FicheLiee ID="F21774" audience="Particuliers" type="Fiche d'information">
+<Titre>Annulation du permis de conduire</Titre>
+<Dossier ID="N18918">Infractions routières</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2695" audience="Particuliers" type="Fiche d'information">
+<Titre>Changement de nom sur le permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20109" audience="Particuliers" type="Fiche d'information">
+<Titre>Détérioration du permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16867" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Doit-on changer son permis de conduire si la photo n'est plus ressemblante ?</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1727" audience="Particuliers" type="Fiche d'information">
+<Titre>Perte du permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1685" audience="Particuliers" type="Fiche d'information">
+<Titre>Perte et récupération de points du permis de conduire</Titre>
+<Dossier ID="N18918">Infractions routières</Dossier>
+</FicheLiee>
+<FicheLiee ID="F14836" audience="Particuliers" type="Fiche d'information">
+<Titre>Suspension administrative du permis de conduire</Titre>
+<Dossier ID="N18918">Infractions routières</Dossier>
+</FicheLiee>
+<FicheLiee ID="F21761" audience="Particuliers" type="Fiche d'information">
+<Titre>Suspension judiciaire du permis de conduire</Titre>
+<Dossier ID="N18918">Infractions routières</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1450" audience="Particuliers" type="Fiche d'information">
+<Titre>Vol du permis de conduire</Titre>
+<Dossier ID="N530">Permis de conduire</Dossier>
+</FicheLiee>
+<Dossier ID="N530">
+<Titre>Permis de conduire</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

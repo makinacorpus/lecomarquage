@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R17837" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Modification de contrat de la MSA en ligne (MDC-MSA)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Permet aux employeurs de main d’œuvre agricole de signaler les modifications de contrat de travail de leurs salariés au cours du trimestre. Service gratuit avec inscription préalable.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-18</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R17837</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N10805">Régimes sociaux des travailleurs indépendants</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R17837" type="Téléservice">Modification de contrat de la MSA en ligne (MDC-MSA)</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13296*01</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet aux employeurs de main d’œuvre agricole de signaler les modifications de contrat de travail de leurs salariés au cours du trimestre. Service gratuit avec inscription préalable.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.net-entreprises.fr/html/msa-modification-contrat.htm">
+<Source>Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</LienWeb>
+<FicheLiee ID="F23787" audience="Professionnels" type="Fiche d'information">
+<Titre>Cotisations et contributions sociales des exploitants agricoles</Titre>
+<Dossier ID="N10805">Régimes sociaux des travailleurs indépendants</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

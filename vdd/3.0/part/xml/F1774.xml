@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1774" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Conflit parental sur la sortie de territoire d'un enfant mineur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Un parent peut demander une opposition à la sortie de territoire (OST) et/ou une interdiction de sortie du territoire (IST).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de l'intérieur</dc:contributor>
+<dc:date>modified 2016-08-11</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1774</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136194&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006149752&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022276189, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029676117, http://circulaires.legifrance.gouv.fr/pdf/2017/01/cir_41689.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N18775">Séparation des parents</Niveau>
+<Niveau ID="F1774" type="Fiche d'information">Conflit parental sur la sortie de territoire d'un enfant mineur</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N18775">
+<Titre>Séparation des parents</Titre><SousDossier ID="N18775-1">
+<Titre>Relations avec l'enfant</Titre>
+<Fiche ID="F3133">Autorité parentale</Fiche>
+<Fiche ID="F18786">Droit de visite et d'hébergement</Fiche>
+<Fiche ID="F18785">Résidence de l'enfant</Fiche>
+<Fiche ID="F1774">Opposition et interdiction de sortie du territoire de l'enfant</Fiche>
+<Fiche ID="F1223">Relations de l'enfant avec sa famille ou ses proches</Fiche>
+</SousDossier>
+<SousDossier ID="N18775-2">
+<Titre>Pension alimentaire</Titre>
+<Fiche ID="F991">Fixation et versement</Fiche>
+<Fiche ID="F2010">Réévaluation</Fiche>
+<Fiche ID="F21023">Révision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Relations avec l'enfant</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Lorsqu'un parent  craint que son enfant soit emmené à l'étranger par l'autre parent, il peut recourir à une procédure d'opposition (OST) en cas d'urgence ou à une procédure d'interdiction de sortie du territoire (IST). </Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>En cas d'urgence : opposition à la sortie de territoire (OST)</Titre>
+<Texte>
+<Chapitre><Paragraphe>L'opposition à la sortie du territoire (OST) <LienIntra LienID="R37450" type="Définition de glossaire">à titre conservatoire</LienIntra> permet au parent de s'opposer, sans délai, à la sortie de France de son enfant.</Paragraphe>
+
+</Chapitre><Chapitre>
+<Titre>
+<Paragraphe>Situations concernées</Paragraphe>
+</Titre><Paragraphe>L'OST est demandée en cas de conflit entre titulaires de l'exercice de l'autorité parentale, <LienIntra LienID="R37450" type="Définition de glossaire">à titre conservatoire</LienIntra>  pour empêcher un enfant de quitter le territoire français.</Paragraphe>
+<Paragraphe>Elle peut être demandée par une personne exerçant l'autorité parentale :  père, mère ou personne disposant d'une délégation judiciaire.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où faire la demande ?</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En France</Paragraphe>
+</Titre><Paragraphe>Il doit déposer sa demande auprès de la préfecture ou de la sous-préfecture.</Paragraphe>
+<Paragraphe>Si le service est fermé (nuit, week-end ou jour férié par exemple) et que le voyage est imminent, le demandeur doit s'adresser au commissariat ou à la  gendarmerie le plus proche.</Paragraphe>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><Paragraphe>Il doit s'adresser à la préfecture de police de Paris.</Paragraphe>
+<Paragraphe>Si le service est fermé (nuit, week-end ou jour férié par exemple) et que le voyage est imminent, le demandeur doit s'adresser au commissariat le plus proche.</Paragraphe>
+<OuSAdresser ID="R14146" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris</Titre>
+<PivotLocal>paris_ppp</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Nous-contacter"/>
+</OuSAdresser>
+
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À l'étranger</Paragraphe>
+</Titre><Paragraphe>Si le demandeur ne vit pas en France mais que son enfant s'y trouve (après un enlèvement parental par exemple), il doit s'adresser au Bureau de l'entraide civile et commerciale internationale du ministère de la justice.</Paragraphe>
+<OuSAdresser ID="R125" type="National">
+<Titre>Bureau du droit de l'Union et de l'entraide civile - Ministère de la justice</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_776212"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Le demandeur doit utiliser le formulaire qui lui est remis au guichet :</Paragraphe><ServiceEnLigne ID="R37013" URL="http://www.interieur.gouv.fr/content/download/71417/521900/file/Formulaire%20OST%2015%20jours%20conflit%20parental%20-%20circulaire%2020-11-2012.xls" type="Formulaire">
+<Titre>Demande de mesure conservatoire d'opposition à la sortie du territoire d'un mineur (conflit parental)</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+<Introduction>
+<Texte><Paragraphe>Permet à un parent de demander une mesure d'opposition à la sortie du territoire de son enfant mineur.</Paragraphe>
+<Paragraphe>À remplir et déposer en personne à la préfecture, sous-préfecture (commissariat ou gendarmerie si les services préfectoraux sont fermés)</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Paragraphe>Il doit y joindre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un justificatif de son autorité parentale (extrait d'acte de naissance de l'enfant mentionnant la filiation ...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un justificatif de son identité (copie de la carte nationale d'identité ou du titre de séjour, en cours de validité...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un justificatif de l'identité de l'enfant (copie de la carte nationale d'identité...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tout document pertinent permettant au service d'étudier la demande et de prendre une décision (extrait de jugement de divorce, copie de billet d'avion ...).</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le demandeur qui a déjà saisi le juge pour obtenir une mesure d'IST, doit le signaler.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quelles sont les conséquences ?</Paragraphe>
+</Titre><Paragraphe>Le préfet prend la décision d'OST après instruction du dossier.</Paragraphe>
+<Paragraphe>Il peut refuser de prendre cette décision s'il juge la demande injustifiée.</Paragraphe>
+<Paragraphe>Si la décision est prise, l'enfant est  inscrit au <LienExterne URL="https://www.cnil.fr/fr/fpr-fichier-des-personnes-recherchees">fichier des personnes recherchées (FPR)</LienExterne>
+
+ et fait l'objet d'un signalement au système d'information Schengen (SIS).</Paragraphe>
+<Paragraphe>Si aucune demande d'IST n'a été faite auparavant, le préfet qui a délivré l'OST saisit  le procureur de la République  afin qu'il décide de saisir ou non le Jaf ou le juge des enfants en urgence d'une demande d'IST.</Paragraphe>
+<Paragraphe>La mesure d'OST prise à titre conservatoire est valable 15 jours maximum et ne peut pas être prolongée. </Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Interdiction de sortie du territoire (IST)</Titre>
+<Texte>
+<Chapitre><Paragraphe>Le parent qui souhaite que l'autre parent ne puisse pas sortir l'enfant sans son autorisation doit demander au juge (Jaf) une IST. Cette interdiction peut être levée temporairement.</Paragraphe>
+
+</Chapitre><Chapitre>
+<Titre>
+<Paragraphe>Comment faire la demande ?</Paragraphe>
+</Titre><Paragraphe>La demande peut être formulée dans le cadre d'une procédure en cours (divorce ou séparation) ou indépendamment de toute procédure.</Paragraphe>
+<Paragraphe>La demande doit être adressée au Jaf du lieu de résidence de l'enfant </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit en <LienInterne LienPublication="F1378" type="Fiche Question-réponse" audience="Particuliers">référé</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par requête rédigée à l'aide du formulaire cerfa n°11530*05.</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R15764" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11530.do" format="application/pdf" poids="193.5 KB" numerocerfa="11530*05" type="Formulaire">
+<Titre>Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+<Texte><Paragraphe>Pour obtenir la fixation ou la modification des mesures fixées par le juge portant sur les conditions d'exercice de l'autorité parentale, du droit de visite et d'hébergement, de la pension alimentaire ou de la résidence habituelle de vos enfants. </Paragraphe>
+<Paragraphe>Ce formulaire est utilisable par des parents séparés ou divorcés.</Paragraphe>
+
+</Texte><NoticeLiee ID="R2908" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50720%2305&amp;cerfaFormulaire=11530*05" numerocerfa="50720#05">Notice de la demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</NoticeLiee>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si l'enfant fait l'objet d'une mesure assistance éducative, le juge des enfant peut également prononcer une interdiction de sortie de territoire.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Quelles sont les conséquences ?</Paragraphe>
+</Titre><Paragraphe>Si la décision d'IST est prise, l'enfant ne peut pas quitter la France sans l'accord de ses 2 parents ou, selon le cas, celui du juge.</Paragraphe>
+<Paragraphe>La durée de l'interdiction est fixée par le juge. Dans le cas contraire,  l'interdiction est valable jusqu'à la majorité de l'enfant.</Paragraphe>
+<Paragraphe>Si l'interdiction est prononcée dans le cadre d'une ordonnance de protection (lorsque l'époux(se) est victime de violence), l'IST est valable 4 mois maximum (avec possibilité de prolongation sous conditions).</Paragraphe>
+<Paragraphe>Enfin, s'il s'agit d'une décision du juge des enfants, l'interdiction est limitée à 2 ans et la sortie du territoire doit être autorisée par le juge.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment modifier ou supprimer l'interdiction ?</Paragraphe>
+</Titre><Paragraphe>Si le parent veut modifier ou supprimer la décision d'interdiction, il doit saisir le Jaf ou le juge des enfants selon les mêmes conditions que la demande.</Paragraphe>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment obtenir la levée temporaire de l'IST ?</Paragraphe>
+</Titre><Paragraphe>Si l'enfant doit quitter la France, il est possible de demander la levée temporaire de l'interdiction.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si l'enfant voyage vers l'outre-mer, mais que son vol comprend une escale dans un pays étranger, une demande de levée temporaire sera également nécessaire.</Paragraphe>
+</ANoter><Paragraphe>Si l'enfant part sans ses parents (voyage scolaire par exemple), les 2 parents doivent faire la démarche (ensemble ou séparément).</Paragraphe>
+<Paragraphe>Si l'enfant part avec l'un de ses parents, seul le parent non accompagnant doit faire la démarche.</Paragraphe>
+<Paragraphe>Si l'enfant part avec ses 2 parents, il n'y a pas de démarche à faire, sauf dans le cas d'une interdiction absolue du territoire pour laquelle seul le juge des enfants est compétent.</Paragraphe>
+<Paragraphe>La demande d'autorisation temporaire de sortie de territoire doit intervenir au moins 5 jours avant le départ.</Paragraphe>
+<Paragraphe>Ce délai peut être réduit si le motif du départ relève de circonstances exceptionnelles (décès par exemple).</Paragraphe>
+<Paragraphe>La déclaration est faite auprès du commissariat ou de la gendarmerie.</Paragraphe>
+<Paragraphe>Les parents doivent produire le jugement prononçant l'interdiction. L'officier de police judiciaire vérifie l'identité du ou des parents et leur qualité de parent de l'enfant.</Paragraphe>
+<Paragraphe>Les parents doivent indiquer la durée de validité de l'autorisation de sortie  ainsi que la destination de cette sortie.</Paragraphe>
+<Paragraphe>La déclaration sera ensuite transmise et inscrite au FPR.</Paragraphe>
+<Paragraphe>Si l'autorisation n'est pas faite, l'interdiction figurera toujours au FPR et l'enfant ne pourra pas quitter la France.</Paragraphe>
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>une simple autorisation écrite remise par l'un des parents à l'autre et produite devant la police des frontières à la sortie du territoire n'est pas valable et ne permettra pas au mineur de voyager.</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F1359" audience="Particuliers">
+<Titre>Autorisation de sortie du territoire (AST)</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R10386" type="Centre de contact">
+<Titre>Enfants Disparus - 116 000</Titre>
+<Complement>Pour signaler la disparition d'un enfant</Complement><Texte>
+						
+								<Paragraphe>
+			Service téléphonique d'accueil et d'information à destination des familles d'enfants disparus ou enlevés.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>116 000</MiseEnEvidence>
+      (gratuit)
+    
+		</Paragraphe>
+								<Paragraphe>
+			Accessible 7j/7 et 24h/24.</Paragraphe>
+								<Paragraphe>
+			Numéro européen opérationnel depuis 29 pays : Allemagne, Autriche, Belgique, Bulgarie, Croatie, Chypre, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède, Suisse.
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au <LienExterne URL="http://www.116000enfantsdisparus.fr/nous-contacter.html">formulaire de contact</LienExterne>
+ par courriel du site 116000enfantsdisparus.fr.
+    
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136194&amp;cidTexte=LEGITEXT000006070721" ID="R2559">
+<Titre>Code civil : articles 371 à 371-6</Titre>
+<Complement>Autorité parentale (article 371-3)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006149752&amp;cidTexte=LEGITEXT000006070716" ID="R37008">
+<Titre>Code de procédure civile : articles 1179 à 1180-5</Titre>
+<Complement>Exercice de l'autorité parentale (article 1180-4)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022276189" ID="R33034">
+<Titre>Décret du 28 mai 2010 relatif au fichier des personnes recherchées (FPR)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029676117" ID="R38762">
+<Titre>Décret n°2014-1292 du 23 octobre 2014 relatif aux exceptions au principe « silence vaut acceptation » et des exceptions au délai de 2 mois de naissance des décisions implicites (intérieur)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2017/01/cir_41689.pdf" ID="R31007" format="application/pdf" poids="266.1 KB">
+<Titre>Circulaire du 29 décembre 2016 relative aux condition de sortie du territoire des mineurs</Titre>
+</Reference>
+<ServiceEnLigne ID="R37013" URL="http://www.interieur.gouv.fr/content/download/71417/521900/file/Formulaire%20OST%2015%20jours%20conflit%20parental%20-%20circulaire%2020-11-2012.xls" type="Formulaire">
+<Titre>Demande de mesure conservatoire d'opposition à la sortie du territoire d'un mineur (conflit parental)</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R15764" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11530.do" format="application/pdf" poids="193.5 KB" numerocerfa="11530*05" type="Formulaire">
+<Titre>Demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R2908" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50720%2305&amp;cerfaFormulaire=11530*05" numerocerfa="50720#05">Notice de la demande au juge aux affaires familiales (autorité parentale, droit de visite, pension alimentaire...)</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R33466" URL="https://www.cnil.fr/fr/fpr-fichier-des-personnes-recherchees" audience="Particuliers">
+<Titre>Fichier des personnes recherchées (FPR)</Titre>
+<Source ID="R30736">Commission nationale de l'informatique et des libertés (Cnil)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R37450">
+<Titre>À titre conservatoire</Titre>
+<Texte>
+				<Paragraphe>Mesure d'urgence prise par précaution</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F32114" audience="Particuliers">Comment empêcher mon enfant mineur de partir seul à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1922" audience="Particuliers">Avec quels documents un mineur français peut-il voyager à l'étranger ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R31759" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de plus-value - Cessions de biens meubles ou de parts de sociétés à prépondérance immobilière</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Déclaration de plus-value - Cessions de biens meubles ou de parts de sociétés à prépondérance immobilière - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-06</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R31759</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R31759" type="Formulaire">Déclaration de plus-value - Cessions de biens meubles ou de parts de sociétés à prépondérance immobilière</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12358*09</NumeroCerfa>
+<AutreNumero>2048-M</AutreNumero>
+<Texte><Paragraphe>Formulaire utilisé par les notaires pour déclarer les plus-values réalisées lors des cessions à titre onéreux de biens meubles ou de parts de sociétés à prépondérance immobilière.</Paragraphe>
+<Paragraphe>Accès à la notice n°2018-M-NOT-SD (Cerfa n°51955#01) pour la rédaction de la déclaration de plus-value sur les cessions de biens meubles ou de parts de sociétés à prépondérance immobilière</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/8893">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F10864" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : déclaration d'une plus-value immobilière</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Dossier ID="N247">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

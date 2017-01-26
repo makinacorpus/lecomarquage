@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N360" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Passeport</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Pour demander un passeport biométrique, il faut fournir les documents suivants : photos, justificatif de domicile, timbres fiscaux, ...</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-08</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N360</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19810</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N360" type="Dossier">Passeport</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere>
+<SousDossier ID="N360-1">
+<Titre>Pour un majeur</Titre><Fiche ID="F14929">Première demande</Fiche>
+<Fiche ID="F21091">Renouvellement</Fiche>
+<Fiche ID="F21246">Passeport perdu</Fiche>
+<Fiche ID="F21247">Passeport volé</Fiche>
+<Fiche ID="F1373">Passeport en urgence</Fiche>
+</SousDossier>
+<SousDossier ID="N360-2">
+<Titre>Pour un mineur</Titre><Fiche ID="F14930">Première demande</Fiche>
+<Fiche ID="F21092">Renouvellement</Fiche>
+<Fiche ID="F21244">Passeport perdu</Fiche>
+<Fiche ID="F21245">Passeport volé</Fiche>
+<Fiche ID="F1035">Passeport en urgence</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Pour obtenir un passeport biométrique, il faut se rendre dans une mairie équipée avec les pièces justificatives nécessaires. Les documents dépendent de la situation : majeur ou mineur, première demande ou renouvellement, possession (ou non) d'une carte d'identité sécurisée...</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N358" audience="Particuliers">
+<Titre>Carte nationale d'identité</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Partenaire ID="R14399" URL="http://www.interieur.gouv.fr"/>
+<ServiceEnLigne ID="R42946" URL="https://passeport.ants.gouv.fr/Vos-demarches/Faire-une-pre-demande-passeport" type="Téléservice">
+<Titre>Pré-demande de passeport</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R39812" URL="https://timbres.impots.gouv.fr/pages/achat/choixTimbres.jsp" type="Téléservice">
+<Titre>Achat en ligne du timbre fiscal - Passeport</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1220" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12100.do" numerocerfa="12100*02" type="Formulaire">
+<Titre>Demande de passeport pour une personne majeure</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1223" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12101.do" numerocerfa="12101*02" type="Formulaire">
+<Titre>Demande de passeport pour un mineur</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1827" URL="https://passeport.ants.gouv.fr/Services-associes/Ou-en-est-votre-passeport" type="Téléservice">
+<Titre>Suivez votre demande de passeport</Titre>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1406" URL="https://mdel.mon.service-public.fr/acte-etat-civil.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1405" URL="https://pastel.diplomatie.gouv.fr/Dali/index2.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2885" URL="http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/" audience="Particuliers">
+<Titre>Consulter les fiches pays du site du ministère des affaires étrangères</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R24053" URL="http://www.parafe.gouv.fr/" audience="Particuliers">
+<Titre>Parafe : passage rapide des frontières</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F591" audience="Particuliers">De quelle pièce d'identité a-t-on besoin pour voyager en avion ?</QuestionReponse>
+<QuestionReponse ID="F14079" audience="Particuliers">Voyage aux USA : quelles sont les formalités (passeport, visa...) ?</QuestionReponse>
+<QuestionReponse ID="F1709" audience="Particuliers">Peut-on obtenir un passeport gratuitement ?</QuestionReponse>
+<QuestionReponse ID="F21517" audience="Particuliers">Peut-on avoir deux passeports ?</QuestionReponse>
+<QuestionReponse ID="F14932" audience="Particuliers">Comment remplacer un passeport abîmé ?</QuestionReponse>
+<QuestionReponse ID="F18723" audience="Particuliers">Peut-on encore voyager avec un ancien modèle de passeport ?</QuestionReponse>
+<QuestionReponse ID="F21258" audience="Particuliers">Comment acheter un timbre fiscal ?</QuestionReponse>
+<QuestionReponse ID="F1357" audience="Particuliers">La photo peut-elle être prise au guichet ?</QuestionReponse>
+<QuestionReponse ID="F31413" audience="Particuliers">Comment obtenir un passeport "grand voyageur" ?</QuestionReponse>
+</Publication>

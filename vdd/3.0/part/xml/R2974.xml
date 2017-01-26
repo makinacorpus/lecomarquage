@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2974" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Simulateur - Prêt à taux zéro (PTZ)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Simulateur - Prêt à taux zéro (PTZ) - Simulateur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-12</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2974</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2974" type="Simulateur">Simulateur - Prêt à taux zéro (PTZ)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.logement.gouv.fr/spip.php?page=article-sous-site&amp;id_article=313&amp;sommaire=88">
+<Source>Ministère en charge du logement</Source>
+</LienWeb>
+<FicheLiee ID="F1269" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Le PTZ est-il réservé exclusivement à l'achat de sa résidence principale ?</Titre>
+<Dossier ID="N20373">Crédit immobilier</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31126" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Le PTZ peut-il financer l'acquisition d'un logement social ?</Titre>
+<Dossier ID="N20373">Crédit immobilier</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1529" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Peut-on bénéficier du PTZ si on est déjà propriétaire d'un logement ?</Titre>
+<Dossier ID="N20373">Crédit immobilier</Dossier>
+</FicheLiee>
+<FicheLiee ID="F10871" audience="Particuliers" type="Fiche d'information">
+<Titre>Prêt à taux zéro (PTZ)</Titre>
+<Dossier ID="N20373">Crédit immobilier</Dossier>
+</FicheLiee>
+<Dossier ID="N20373">
+<Titre>Crédit immobilier</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

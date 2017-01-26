@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14581" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Attestation de salaire - Accident du travail ou maladie professionnelle</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Attestation de salaire - Accident du travail ou maladie professionnelle - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-09</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14581</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14581" type="Formulaire">Attestation de salaire - Accident du travail ou maladie professionnelle</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>11137*03</NumeroCerfa>
+<AutreNumero>S6202</AutreNumero>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6202.pdf" format="application/pdf" poids="686.6 KB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R17832" audience="Particuliers" type="Téléservice">
+<Titre>Attestation de salaire en ligne pour le paiement des indemnités journalières</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F171" audience="Particuliers" type="Fiche d'information">
+<Titre>Accident du travail : démarches à effectuer</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24246" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'accident du travail par l'employeur</Titre>
+<Dossier ID="N14601">Santé et sécurité au travail</Dossier>
+</FicheLiee>
+<FicheLiee ID="F176" audience="Particuliers" type="Fiche d'information">
+<Titre>Maladie professionnelle : démarches à effectuer</Titre>
+<Dossier ID="N526">Maladie, accident du travail ou invalidité dans le secteur privé</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

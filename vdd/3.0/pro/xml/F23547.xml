@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23547" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Cotisation foncière des entreprises (CFE)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>La cotisation foncière des entreprises (CFE) est l'une des 2 composantes de la contribution économique territoriale (CET) avec la cotisation sur la valeur ajoutée des entreprises (CVAE). Contrairement à la taxe professionnelle, dont elle reprend l'essentiel des règles, la CFE est basée uniquement sur les biens soumis à la taxe foncière. Cette taxe est due dans chaque commune où l'entreprise dispose de locaux et de terrains.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2017-01-18</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23547</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179811&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022887949&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/819-PGP.html</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13443</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13443">Contribution économique territoriale (CET)</Niveau>
+<Niveau ID="F23547" type="Fiche d'information">Cotisation foncière des entreprises (CFE)</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N22249">Impôts locaux</SousThemePere><DossierPere ID="N13443">
+<Titre>Contribution économique territoriale (CET)</Titre>
+<Fiche ID="F23546">Cotisation sur la valeur ajoutée des entreprises (CVAE)</Fiche>
+<Fiche ID="F23547">Cotisation foncière des entreprises (CFE)</Fiche>
+<Fiche ID="F23548">Plafonnement de la CET en fonction de la valeur ajoutée</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La cotisation foncière des entreprises (CFE) est l'une des 2 composantes de la contribution économique territoriale (CET) avec la cotisation sur la valeur ajoutée des entreprises (CVAE). Contrairement à la taxe professionnelle, dont elle reprend l'essentiel des règles, la CFE est basée uniquement sur les biens soumis à la taxe foncière. Cette taxe est due dans chaque commune où l'entreprise dispose de locaux et de terrains.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Entreprises concernées</Paragraphe>
+</Titre><Paragraphe>La CFE est due par les entreprises et les personnes physiques qui exercent de manière habituelle une <MiseEnEvidence>activité professionnelle non salariée</MiseEnEvidence>, quel que soit leur statut juridique, leur activité ou leur régime d'imposition.</Paragraphe>
+<Paragraphe>Les activités de location et de sous-location d'immeubles (sauf celles concernant des immeubles nus à usage d'habitation) sont concernées par la CFE, à l'exception de certaines locations meublées incluses dans l'habitation principale du propriétaire.</Paragraphe>
+<Paragraphe>Certaines entreprises bénéficient d'une <LienInterne LienPublication="F31913" type="Fiche Question-réponse" audience="Professionnels">exonération permanente ou temporaire</LienInterne>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Calcul et base d'imposition</Paragraphe>
+</Titre><Paragraphe>Le taux de la CFE est déterminé par délibération de la commune ou de l'<LienInterne LienPublication="R31293" type="Sigle">EPCI</LienInterne> sur le territoire duquel le redevable dispose de biens imposables.</Paragraphe>
+<Paragraphe>La CFE est assise sur la valeur locative des biens immobiliers passibles d'une taxe foncière et utilisés par l'entreprise pour les besoins de son activité professionnelle au cours de l'année N-2 (par exemple, pour la cotisation due en 2015, sont pris en compte les biens utilisés en 2013).</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Réduction de la base d'imposition</Paragraphe>
+</Titre><Paragraphe>Pour son calcul, les bases foncières des établissements industriels sont réduites de <Valeur>30 %</Valeur>.</Paragraphe>
+<Paragraphe>La base d'imposition est réduite dans certains cas, et notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de <Valeur>50 %</Valeur> pour les nouvelles entreprises, l'année suivant celle de la création,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>pour certaines activités saisonnières (restaurants, cafés, par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de <Valeur>75 %</Valeur> pour un artisan qui emploie 1 salarié, de <Valeur>50 %</Valeur>  pour 2 salariés et <Valeur>25 %</Valeur> pour 3 salariés (sans compter les apprentis), si la rémunération du travail (bénéfice, salaires versés et cotisations sociales) représente plus de <Valeur>50 %</Valeur> du chiffre d'affaires global TTC,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en cas d'implantation en Corse (abattement de <Valeur>25 %</Valeur> sur la part perçue au profit des communes ou groupements de communes à fiscalité propre).</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Cotisation minimale</Paragraphe>
+</Titre><Paragraphe>Lorsque la valeur locative est très faible, une cotisation forfaitaire minimum est établie à partir d'une base dont le montant est fixé par délibération de la commune ou de l'EPCI concerné. </Paragraphe>
+<Paragraphe>Ce montant doit être compris dans une fourchette qui varie en fonction du chiffre d'affaires ou des recettes hors taxes de l'entreprise. </Paragraphe>
+<Tableau>
+<Titre>Barème de la base minimale de CFE en fonction du chiffre d'affaires ou des recettes</Titre>
+<Colonne largeur="47" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Chiffre d'affaires ou recettes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Base minimale (CFE due en 2016 pour 2015)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Base minimale (CFE due en 2017 pour 2016)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jusqu'à <Valeur>10 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>212 €</Valeur> et <Valeur>505 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>214 €</Valeur> et <Valeur>510 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>10 001 €</Valeur> et <Valeur>32 600 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>212 €</Valeur> et <Valeur>1 009 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>214 €</Valeur> et <Valeur>1 019 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>32 601 €</Valeur> et <Valeur>100 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>212 €</Valeur> et <Valeur>2 119 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>214 €</Valeur> et <Valeur>2 140 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>100 001 €</Valeur> et <Valeur>250 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>212 €</Valeur> et <Valeur>3 532 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>214 €</Valeur> et <Valeur>3 567 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre <Valeur>250 001 €</Valeur> et <Valeur>500 000 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>212 €</Valeur> et <Valeur>5 045 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>214 €</Valeur> et <Valeur>5 095 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>À partir de <Valeur>500 001 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>212 €</Valeur> et <Valeur>6 559 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entre <Valeur>214 €</Valeur> et <Valeur>6 625 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration</Paragraphe>
+</Titre><Paragraphe>Il n'y a pas de déclaration annuelle à effectuer.</Paragraphe>
+<Paragraphe>Cependant, une déclaration 1447-M doit être déposée <MiseEnEvidence>avant le 2<Exposant>e</Exposant> jour ouvré suivant le 1<Exposant>er</Exposant> mai</MiseEnEvidence> par les entreprises qui :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>demandent à bénéficier d'une exonération (aménagement du territoire, entreprises de spectacles vivants ou cinématographiques, JEU/JEI, <LienInterne LienPublication="F22693" type="Fiche d'information" audience="Professionnels">label LIR</LienInterne> ou pôle de compétitivité, par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>souhaitent signaler un changement de consistance ou de modification de la surface des biens soumis à la CFE/IFER :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>augmentation ou diminution de la surface des locaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>variation du nombre de salariés (crédit d'impôt, réduction artisan...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>variation d'un élément d'imposition (puissance ou nombre d'installations),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dépassement du seuil de <Valeur>100 000 €</Valeur> (location nue),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>cessation ou fermeture d'installation ou d'établissement.</Paragraphe>
+</Item>
+</Liste>
+</Item>
+</Liste><ServiceEnLigne ID="R14697" URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4808&amp;typePage=ifi01" numerocerfa="14031*06" autrenumero="1447-M-SD" type="Formulaire">
+<Titre>Déclaration de modification pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>En cas de modification de la surface des locaux, de demande d'exonération ou  de modification survenue au cours de la période de référence d'un élément quelconque de la précédente déclaration déposée.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Pour les nouvelles entreprises</Paragraphe>
+</Titre><Paragraphe>La CFE étant due par les entreprises qui exercent leur activité au 1<Exposant>er</Exposant> janvier de l'année, les entreprises nouvellement créées (y compris les nouveaux auto-entrepreneurs) n'y sont pas soumises durant l'année de leur création.</Paragraphe>
+<Paragraphe>Ensuite, lors de la 1<Exposant>re</Exposant> année d'imposition, elles bénéficient d'une réduction de moitié de la base d'imposition.</Paragraphe>
+<Paragraphe>Le créateur ou repreneur d'entreprise doit déposer la déclaration 1447-C-SD avant le <MiseEnEvidence>31 décembre</MiseEnEvidence> de l'année de création ou de reprise, afin que les éléments d'imposition pour l'année suivante soient établis.</Paragraphe>
+<Paragraphe>Cela concerne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la création ou la reprise d'un établissement en cours d'année (sauf s'il s'agit d'un transfert total de l'activité professionnelle dans la même commune),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un changement d'exploitant en cours d'année ou au 1<Exposant>er</Exposant> janvier de l'année suivante.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si la cession de l'entreprise a lieu en cours d'année, c'est le cédant qui est redevable de la CFE pour l'année entière. Il doit déclarer le changement d'exploitant avant le 31 décembre.</Paragraphe>
+<Paragraphe>Si le changement prend effet au 1<Exposant>er</Exposant> janvier de l'année suivante, c'est le nouvel exploitant qui est imposé sur les bases de l'activité de son prédécesseur et qui doit effectuer la déclaration avant le 31 décembre de l'année de cession.</Paragraphe><ServiceEnLigne ID="R17761" URL="https://www.impots.gouv.fr/portail/node/8830" numerocerfa="14187*07" autrenumero="1447-C-SD" type="Formulaire">
+<Titre>Déclaration initiale pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux (IFER)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement</Paragraphe>
+</Titre><Paragraphe>Tous les établissements redevables ne  reçoivent plus directement par voie postale d'avis d'imposition, ni d'avis d'acompte, qui doivent être consultés sur le <LienInterne LienPublication="R14668" type="Téléservice" audience="Professionnels">compte fiscal en ligne</LienInterne>.</Paragraphe>
+<Paragraphe>Le solde de la CFE doit être réglé <MiseEnEvidence>au plus tard le 15 décembre</MiseEnEvidence> de chaque année, déduction faite de l'éventuel acompte versé le 15 juin.</Paragraphe>
+<Paragraphe>Le paiement doit obligatoirement être effectué de façon  dématérialisée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>télérèglement via le <LienInterne LienPublication="R14668" type="Téléservice" audience="Professionnels">compte fiscal en ligne</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>prélèvement mensuel (adhésion possible jusqu'au 30 juin),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>prélèvement à l'échéance (adhésion possible jusqu'au 30 novembre pour le paiement du solde).</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les entreprises qui ont payé l'année précédente une cotisation annuelle d'un montant supérieur à <Valeur>3 000 €</Valeur>, et n'ayant pas opté pour un paiement mensualisé, doivent verser un acompte, équivalent à <Valeur>50 %</Valeur> du montant perçu l'année précédente, <MiseEnEvidence>avant le 15 juin.</MiseEnEvidence>
+</Paragraphe>
+</Attention>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F31149" audience="Professionnels">
+<Titre>Exonérations d'impôts sur les bénéfices en zone franche urbaine-territoire entrepreneur (ZFU-TE)</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R2488" type="Local personnalisable">
+<Titre>Service des impôts des entreprises (SIE) : service local, conciliateur départemental, correspondant spécialisé...</Titre>
+<PivotLocal>sie</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contactspro"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179811&amp;cidTexte=LEGITEXT000006069577" ID="R35416">
+<Titre>Code général des impôts : articles 1447 à 1478</Titre>
+<Complement>Base d'imposition, exonérations, réductions</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022887949&amp;cidTexte=LEGITEXT000006069577" ID="R35415">
+<Titre>Code général des impôts : article 1647 D</Titre>
+<Complement>Cotisation minimale</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/819-PGP.html" ID="R23559">
+<Titre>Bofip-Impôts n°BOI-IF-CFE sur la cotisation foncière des entreprises (CFE)</Titre>
+</Reference>
+<ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2771" URL="https://www.telepaiement.dgfip.finances.gouv.fr/stl/satelit.web?templatename=accueilcharpente" type="Téléservice">
+<Titre>Paiement de l'impôt en ligne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17761" URL="https://www.impots.gouv.fr/portail/node/8830" numerocerfa="14187*07" autrenumero="1447-C-SD" type="Formulaire">
+<Titre>Déclaration initiale pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux (IFER)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14697" URL="http://www.impots.gouv.fr/portal/dgi/public/popup?docOid=ficheformulaire_4808&amp;typePage=ifi01" numerocerfa="14031*06" autrenumero="1447-M-SD" type="Formulaire">
+<Titre>Déclaration de modification pour la cotisation foncière des entreprises (CFE) et l'imposition forfaitaire sur les entreprises de réseaux</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14646" URL="https://www.impots.gouv.fr/portail/node/8832" numerocerfa="10694*18" autrenumero="1465-SD" type="Formulaire">
+<Titre>Exonération temporaire de cotisation foncière des entreprises (CFE)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Abreviation ID="R31293" type="Sigle">
+<Titre>EPCI</Titre>
+<Texte>
+<Paragraphe>Établissement public de coopération intercommunale</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F31913" audience="Professionnels">Qui est exonéré de la cotisation foncière des entreprises (CFE) ?</QuestionReponse>
+<QuestionReponse ID="F32389" audience="Professionnels">Un professionnel qui exerce à domicile ou à l'extérieur est-il redevable de la CFE ?</QuestionReponse>
+<QuestionReponse ID="F23543" audience="Professionnels">Quelles déclarations fiscales professionnelles doivent être dématérialisées ?</QuestionReponse>
+<QuestionReponse ID="F23999" audience="Professionnels">À partir de quand un auto-entrepreneur est-il soumis à la CFE ?</QuestionReponse>
+<QuestionReponse ID="F31046" audience="Professionnels">Comment est fixée la nouvelle valeur locative d'un local professionnel ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N57" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>École et handicap</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les informations qui suivent concernent l'accueil de l'enfant en situation de handicap en collectivité jusqu'à la fin du lycée.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-20</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N57</dc:identifier>
+<dc:source>http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=91826, http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Jeune, Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N57" type="Dossier">École et handicap</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere>
+<Fiche ID="F1868">Accueil de l'enfant de moins de 3 ans</Fiche>
+<Fiche ID="F14984">Scolarisation en primaire (maternelle et élémentaire)</Fiche>
+<Fiche ID="F14953">Scolarisation au collège et au lycée</Fiche>
+<Introduction>
+<Texte><Paragraphe>
+			Les informations qui suivent concernent l'accueil de l'enfant en situation de handicap en collectivité jusqu'à la fin du lycée.
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F14809" audience="Particuliers">
+<Titre>Allocation d'éducation de l'enfant handicapé (AEEH)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R14610" type="Centre de contact">
+<Titre>Aide - Handicap - École</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source><Texte>
+						
+								<Paragraphe>
+			Aide et soutien aux parents d'enfant et aux enfants en situation de handicap dans leurs relations avec les services scolaires.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 55 55 00</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 9h à 17h.
+		</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			aidehandicapecole[@]education.gouv.fr
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=91826" ID="R11407">
+<Titre>Circulaire n°2015-129 du 21 août 2015 relatif à la scolarisation des élèves handicapés à l'école primaire, au collège et au lycée (Ulis)</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=100720" ID="R18647">
+<Titre>Circulaire n°2016-058 du 13 avril 2016 de rentrée scolaire 2016</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R2998" URL="http://cache.media.education.gouv.fr/file/Maternelle_baccalaureat/65/9/Guide_pour_la_scolarisation_des_enfants_et_adolescents_en_situation_de_handicap_469659.pdf" audience="Particuliers">
+<Titre>Guide pour la scolarisation des enfants et adolescents en situation de handicap</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2999" URL="http://www.onisep.fr/onisep-portail/portal/media-type/html/group/gp/page/accueil.espace.handicap" audience="Particuliers">
+<Titre>Scolarité et handicap</Titre>
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18645" URL="http://www.education.gouv.fr/cid187/l-education-prioritaire.html" audience="Particuliers">
+<Titre>Éducation prioritaire</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41619" URL="http://www.ecolepourtous.education.fr/accueil-scolarisationdeslv.html" audience="Particuliers">
+<Titre>Site l'École pour tous</Titre>
+<Source ID="R30756">Centre national de documentation pédagogique (CNDP)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F33865" audience="Particuliers">Qu'est-ce que le projet personnalisé de scolarisation (PPS) ?</QuestionReponse>
+<QuestionReponse ID="F1894" audience="Particuliers">Frais de transport d'un élève handicapé : quelle prise en charge ?</QuestionReponse>
+<QuestionReponse ID="F31952" audience="Particuliers">Quel est le calendrier des vacances scolaires 2016 - 2017 - 2018 ?</QuestionReponse>
+<QuestionReponse ID="F31448" audience="Particuliers">Handicap : de quelle aide peut bénéficier un enfant hors du temps scolaire ?</QuestionReponse>
+<QuestionReponse ID="F32752" audience="Particuliers">Qu'est-ce qu'une classe Segpa et comment l'intégrer ?</QuestionReponse>
+</Publication>

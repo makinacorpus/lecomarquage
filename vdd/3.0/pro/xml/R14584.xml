@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14584" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Avis d'ouverture d'un chantier du bâtiment ou des travaux publics</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Pour tout chantier employant à partir de 10 salariés pendant plus d'1 semaine</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-18</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14584</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13345">Urbanisme - BTP</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14584" type="Formulaire">Avis d'ouverture d'un chantier du bâtiment ou des travaux publics</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>12276*01</NumeroCerfa>
+<AutreNumero>S6206</AutreNumero>
+<Introduction>
+<Texte><Paragraphe>Pour tout chantier employant à partir de 10 salariés pendant plus d'1 semaine</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6206.pdf" format="application/pdf" poids="90.8 KB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R1131" audience="Professionnels" type="Téléservice">
+<Titre>Déclaration en ligne d'ouverture de chantier</Titre>
+</ServiceEnLigneAlternatif>
+<OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11156" type="Local personnalisable">
+<Titre>Caisse régionale d'assurance maladie d'Île-de-France (CRAMIF)</Titre>
+<PivotLocal>cramif</PivotLocal>
+<RessourceWeb URL="http://www.cramif.fr/"/>
+</OuSAdresser>
+
+<Dossier ID="N13345">
+<Titre>Urbanisme - BTP</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

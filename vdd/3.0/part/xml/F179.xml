@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F179" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment obtenir un quitus fiscal ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Ce certificat indique que le véhicule européen est en règle concernant la TVA pour l'obtention d'une carte grise française.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F179</dc:identifier>
+<dc:source>http://bofip.impots.gouv.fr/bofip/692-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N367</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="F179" type="Fiche Question-réponse">Comment obtenir un quitus fiscal ?</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre><SousDossier ID="N367-1">
+<Titre>Immatriculer un véhicule</Titre>
+<Fiche ID="F10293">Immatriculer un véhicule neuf</Fiche>
+<Fiche ID="F1050">Immatriculer un véhicule d'occasion</Fiche>
+<Fiche ID="F1480">Hériter d'un véhicule</Fiche>
+<Fiche ID="F1726">Duplicata de la carte grise : perte, vol ou détérioration</Fiche>
+<Fiche ID="F1360">Obtenir un certificat de non gage</Fiche>
+<Fiche ID="F19211">Coût de la carte grise</Fiche>
+</SousDossier>
+<SousDossier ID="N367-2">
+<Titre>Titulaire du certificat et modification de sa situation</Titre>
+<Fiche ID="F10477">Titulaire et cotitulaire de la carte grise</Fiche>
+<Fiche ID="F12118">Changement d'adresse</Fiche>
+<Fiche ID="F10613">Ajouter une autre personne sur sa carte grise</Fiche>
+<Fiche ID="F31218">Retirer un nom au certificat</Fiche>
+<Fiche ID="F16876">Changement du nom du titulaire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-3">
+<Titre>Modifications du véhicule</Titre>
+<Fiche ID="F1754">Carte grise d'un véhicule retiré de la circulation</Fiche>
+<Fiche ID="F1473">Véhicule accidenté</Fiche>
+<Fiche ID="F1478">Véhicule transformé</Fiche>
+<Fiche ID="F1468">Véhicule à détruire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-4">
+<Titre>Plaques d'immatriculation</Titre>
+<Fiche ID="F20319">Plaques d'immatriculation</Fiche>
+<Fiche ID="F18679">Vol ou usurpation de plaques d'immatriculation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Le quitus fiscal (ou certificat fiscal) indique que le véhicule est en situation régulière au regard de la taxe à la valeur ajoutée (TVA).</Paragraphe>
+<Paragraphe>Vous devez le demander auprès du service des impôts  dont dépend votre lieu de résidence :</Paragraphe><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Paragraphe>Il vous sera  délivré gratuitement. </Paragraphe>
+<Paragraphe>Vous avez besoin de ce document pour obtenir le certificat d'immatriculation (ex-carte grise) si vous avez acheté un véhicule, neuf ou d'occasion, dans un <LienIntra LienID="R45280" type="Définition de glossaire">pays de l'Union européenne</LienIntra> autre que la France.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>s'il s'agit d'une remorque, semi-remorque ou un véhicule agricole et forestier, vous n'avez pas besoin du quitus pour demander la carte grise.</Paragraphe>
+</ANoter><Paragraphe>Pour obtenir le quitus fiscal, vous devez présenter les documents suivants (<MiseEnEvidence>originaux et photocopies</MiseEnEvidence>) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la facture d'achat ou le certificat de cession (formulaire <LienInterne LienPublication="R20300" type="Formulaire" audience="Particuliers">cerfa n°13754*02</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la carte grise (originale ou une photocopie ) obtenue dans le pays étranger,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F31853" type="Fiche Question-réponse" audience="Particuliers">pièce d'identité</LienInterne>, au nom de la personne qui a acheté le véhicule,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F1028" type="Fiche Question-réponse" audience="Particuliers">justificatif de son domicile en France</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>une <LienInterne LienPublication="F12956" type="Fiche Question-réponse" audience="Particuliers">traduction certifiée</LienInterne> peut vous être demandée si la facture ou la carte grise n'est pas rédigée en français.</Paragraphe>
+</Attention><Paragraphe>La demande de quitus ne peut pas s'effectuer par correspondance.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/692-PGP" ID="R34905">
+<Titre>Bofip n°BOI-TVA-SECT-70-30-10 relatif à la TVA des opérations communautaires</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R17425" URL="http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/le-retour-en-france/formalites-douanieres/article/l-importation-en-france-d-un" audience="Particuliers">
+<Titre>Importation en France d'un véhicule</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<Definition ID="R45280">
+<Titre>Pays de l'Union européenne</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République Tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31853" audience="Particuliers">Carte grise : avec quels documents prouver son identité ? </QuestionReponse>
+<QuestionReponse ID="F20992" audience="Particuliers">Quelles formalités accomplir avant d'immatriculer un véhicule acheté à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F12097" audience="Particuliers">Quelle formalité doit faire l'expatrié qui revient en France avec un véhicule ?</QuestionReponse>
+<QuestionReponse ID="F1028" audience="Particuliers">Carte grise (certificat d'immatriculation) : comment justifier de son domicile ?</QuestionReponse>
+
+
+</Publication>

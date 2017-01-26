@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R558" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Simulateur en ligne Caf : pour savoir si vous avez droit au RSA et estimer son montant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Simulateur en ligne Caf : pour savoir si vous avez droit au RSA et estimer son montant - Simulateur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-21</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R558</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N19775">Revenu de solidarité active (RSA)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R558" type="Simulateur">Simulateur en ligne Caf : pour savoir si vous avez droit au RSA et estimer son montant</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="http://www.caf.fr/aides-et-services/les-services-en-ligne/estimer-vos-droits">
+<Source>Ministère en charge des affaires sociales</Source>
+</LienWeb>
+<FicheLiee ID="F20423" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>A-t-on le droit au RSA en congé maternité ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20199" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Dans quels cas un enfant peut-il être considéré à charge pour le RSA ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1723" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Demande de RSA : le patrimoine est-il pris en compte ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20209" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Peut-on cumuler l'allocation adulte handicapé (AAH) et le RSA ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F11014" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Peut-on cumuler le RSA avec d'autres aides sociales (ASS ou Aspa) ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24585" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelles sont les ressources prises en compte pour le calcul du RSA ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F19778" audience="Particuliers" type="Fiche d'information">
+<Titre>RSA demandeur de 25 ans et plus</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F286" audience="Particuliers" type="Fiche d'information">
+<Titre>RSA jeune actif </Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F994" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>RSA ou prime d'activité : à quoi correspond la "résidence stable et effective" en France ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F15553" audience="Particuliers" type="Fiche d'information">
+<Titre>RSA parent isolé</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20218" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Un demandeur d'emploi a-t-il droit au RSA ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1971" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Un étudiant a-t-il droit au RSA ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20421" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Un intermittent du spectacle a-t-il droit au RSA ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee>
+<Dossier ID="N19775">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2326" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Enseignement supérieur : étudiant en situation de handicap</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Un étudiant en situation de handicap doit pouvoir suivre une scolarité normale dans l'enseignement supérieur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-10</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2326</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166559&amp;cidTexte=LEGITEXT000006071191, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166723&amp;cidTexte=LEGITEXT000006071191, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182560&amp;cidTexte=LEGITEXT000006071191, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020990179&amp;cidTexte=LEGITEXT000006071191</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N58</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N58">Inscription dans l'enseignement supérieur</Niveau>
+<Niveau ID="F2326" type="Fiche d'information">Enseignement supérieur : étudiant en situation de handicap</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N58">
+<Titre>Inscription dans l'enseignement supérieur</Titre>
+<Fiche ID="F2861">Première inscription dans l'enseignement supérieur</Fiche>
+<Fiche ID="F2865">Coût des études</Fiche>
+<Fiche ID="F2326">Étudiant en situation de handicap</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Un étudiant en situation de handicap doit pouvoir suivre une scolarité normale dans l'enseignement supérieur. Il peut également continuer à bénéficier, dans les mêmes conditions que dans l'enseignement secondaire, d'un projet individuel d'intégration. D'autre part, certains dispositifs existent pour l'aider dans son parcours de formation.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Accueil dans l'établissement</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>En lycée</Paragraphe>
+</Titre><Paragraphe>Si vous devez suivre une formation  en lycée, en BTS ou en classe préparatoire aux grandes écoles, vous pourrez continuer de bénéficier du <LienInterne LienPublication="F33865" type="Fiche Question-réponse" audience="Particuliers">projet personnalisé de scolarisation (PPS)</LienInterne>.</Paragraphe>
+<OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À l'université</Paragraphe>
+</Titre><Paragraphe>Dans chaque université, un service d'accueil des étudiants vous donne des informations sur les dispositifs mis en place pour les étudiants en situation de handicap : les équipements disponibles, les démarches à effectuer.</Paragraphe>
+<Paragraphe>Il peut être prévu, par exemple, un accueil administratif, un aménagement pour une plus grande accessibilité des locaux, des aides pédagogiques (tutorat, soutien, preneurs de notes par exemple) ou des aides techniques.</Paragraphe>
+<OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Transports</Paragraphe>
+</Titre><Paragraphe>Quand l'étudiant en situation de handicap fréquente un établissement du supérieur public, ses frais de transport en commun peuvent être parfois pris en charge.</Paragraphe>
+<Paragraphe>Pour vérifier si cette prise en charge peut vous être accordée, contactez votre préfecture :</Paragraphe><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Logement et restauration</Paragraphe>
+</Titre><Paragraphe>La plupart des centres régionaux des œuvres universitaires et scolaires (Crous) ont mis en place des référents pour aider l'étudiant en situation de handicap à accéder à un  logement spécialement aménagé. Par ailleurs,  les lieux de restauration universitaire doivent devenir accessibles à tous. </Paragraphe>
+<OuSAdresser ID="R16797" type="Local personnalisé sur SP">
+<Titre>Crous</Titre>
+<PivotLocal>crous</PivotLocal>
+<RessourceWeb URL="http://www.cnous.fr/_cnous__dossier_3.17.66.htm" commentaireLien="Centre régional des oeuvres universitaires et scolaires"/>
+<Source ID="R30627">Centre national des oeuvres universitaires et scolaires (CNOUS)</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Service universitaire de médecine</Paragraphe>
+</Titre><Paragraphe>Dans chaque université, le suivi sanitaire des étudiants est assuré par le service universitaire de médecine préventive et de promotion de la santé (SUMPPS).</Paragraphe>
+<Paragraphe>Il propose des bilans de prévention gratuits, peut offrir des prestations diverses (vaccination ou dépistage par exemple) ou une prise en charge des soins.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Assistants d'éducation</Paragraphe>
+</Titre><Paragraphe>À l'université, l'assistant d'éducation exerce une fonction d'accueil et d'intégration  de l'étudiant en situation de handicap pour lequel une aide a été reconnue nécessaire par la commission des droits et de l'autonomie des personnes handicapées (CDAPH).</Paragraphe>
+<Paragraphe>Cette aide peut concerner les actes de la vie courante, mais aussi l'écriture ou la traduction.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Enseignement à distance</Paragraphe>
+</Titre><Paragraphe>Si l'étudiant  ne peut pas se déplacer à l'université du fait de son handicap ou de sa maladie, il  peut suivre <LienInterne LienPublication="F541" type="Fiche Question-réponse" audience="Particuliers">les cours à distance</LienInterne>.</Paragraphe>
+<Paragraphe>Il peut s'adresser au Centre national d'enseignement à distance (Cned)  qui propose des cursus de l'enseignement supérieur, une préparation aux grandes écoles et aux concours de la fonction publique.</Paragraphe><OuSAdresser ID="R57" type="Centre de contact">
+<Titre>Centre national d'enseignement à distance (Cned)</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 (0)5 49 49 94 94 (serveur vocal en dehors des heures d'ouverture)
+		</Paragraphe>
+								<Paragraphe>
+			Novembre à mai : du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Juin à octobre : du lundi au vendredi de 8h30 à 18h30.</Paragraphe>
+								<Paragraphe>
+			Informations sur les formations et les dossiers d'inscription pour les offres de formation du centre national de l'enseignement à distance (Cned).
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+<LienExterne URL="http://www.cned.fr/contact/informations/">      formulaire
+    </LienExterne>
+  de contact par courriel pour poser une question aux équipes du Cned.
+    
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			Cned
+		</Paragraphe>
+								<Paragraphe>
+			BP 60200
+		</Paragraphe>
+								<Paragraphe>
+			86980 Futuroscope Chasseneuil CEDEX
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+<Paragraphe>Il peut également bénéficier du télé-enseignement quand le service est offert par l'université.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N20398" audience="Particuliers">
+<Titre>Bourses et aides pour l'étudiant</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166559&amp;cidTexte=LEGITEXT000006071191" ID="R20098">
+<Titre>Code de l'éducation : articles L112-1 à L112-5</Titre>
+<Complement>Dispositions particulières aux enfants et adolescents handicapés</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166723&amp;cidTexte=LEGITEXT000006071191" ID="R15138">
+<Titre>Code de l'éducation : articles L916-1 à L916-2</Titre>
+<Complement>Dispositions relatives aux assistants d'éducation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182560&amp;cidTexte=LEGITEXT000006071191" ID="R10667">
+<Titre>Code de l'éducation : articles D351-3 à D351-9</Titre>
+<Complement>Organisation de la scolarité de l'élève handicapé</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020990179&amp;cidTexte=LEGITEXT000006071191" ID="R21389">
+<Titre>Code de l'éducation : article D351-20-1</Titre>
+<Complement>Aide individuelle</Complement>
+</Reference>
+<ServiceEnLigne ID="R19993" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13788.do" numerocerfa="13788*01" type="Formulaire">
+<Titre>Formulaire de demande(s) de prestations liées au handicap</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R19994" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13788*01&amp;cerfaNotice=51299" numerocerfa="51299*01">Notice explicative du formulaire de demande(s) auprès de la maison départementale des personnes handicapées (MDPH)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13878*01">
+<Titre>Certificat médical adulte/enfant</Titre>
+<Texte><Paragraphe>À joindre à toutes demandes de prestations</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13878.do"/><NoticeLiee ID="R19497" URL="http://www.cnsa.fr/documentation/mode_d_emploi_certificat_mdph_octobre_2009.pdf" format="pdf" poids="27.3 KB">Guide d'utilisation du certificat médical destiné à la MDPH</NoticeLiee>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19996" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13878.do" numerocerfa="13878*01" type="Formulaire">
+<Titre>Certificat médical adulte/enfant</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R19497" URL="http://www.cnsa.fr/documentation/mode_d_emploi_certificat_mdph_octobre_2009.pdf" format="pdf" poids="27.3 KB">Guide d'utilisation du certificat médical destiné à la MDPH</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R15081" URL="http://www.handi-u.fr/" commentaireLien="Information sur la vie et les formations pour la personne en situation de handicap" audience="Particuliers">
+<Titre>Site handi-U</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2999" URL="http://www.onisep.fr/onisep-portail/portal/media-type/html/group/gp/page/accueil.espace.handicap" audience="Particuliers">
+<Titre>Scolarité et handicap</Titre>
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R36725" URL="http://cache.media.enseignementsup-recherche.gouv.fr/file/Lutte_contre_les_discriminations/90/2/121671_guide-handicap-2012_275902.pdf" audience="Particuliers" format="application/pdf" poids="5.6 MB">
+<Titre>Guide de l'accompagnement de l'étudiant handicapé à l'université</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F31063" audience="Particuliers">Un étudiant peut-il se réorienter pendant la première année d'université ?</QuestionReponse>
+<QuestionReponse ID="F15112" audience="Particuliers">Comment sont aménagés les examens pour un candidat en situation de handicap ?</QuestionReponse>
+</Publication>

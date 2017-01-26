@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R21621" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de subvention en faveur du pastoralisme - Protection des troupeaux</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Demande de subvention en faveur du pastoralisme - Protection des troupeaux - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-07</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R21621</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N22377">Protection de la faune et de la flore</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R21621" type="Formulaire">Demande de subvention en faveur du pastoralisme - Protection des troupeaux</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14565*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14565.do" format="application/pdf" poids="361.8 KB">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb><NoticeLiee ID="R10193" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=14565&amp;&amp;cerfaNotice=51583" numerocerfa="51583#01" format="application/pdf" poids="194.5 KB">Notice explicative pour une demande de subvention en faveur du pastoralisme - Protection des troupeaux</NoticeLiee>
+
+<FicheLiee ID="F22371" audience="Professionnels" type="Fiche d'information">
+<Titre>Dérogations à la protection du loup</Titre>
+<Dossier ID="N22377">Protection de la faune et de la flore</Dossier>
+</FicheLiee><OuSAdresser ID="R16" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge des territoires (DDT ou DDTM)</Titre>
+<PivotLocal>ddt</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=DDT+ou+DDTM&amp;where="/>
+</OuSAdresser>
+<OuSAdresser ID="R2978" type="Local personnalisé sur SP">
+<Titre>Délégation interrégionale de l'Office national de la chasse et de la faune sauvage (ONCFS)</Titre>
+<PivotLocal>fdc</PivotLocal>
+<RessourceWeb URL="http://www.oncfs.gouv.fr/LONCFS-en-Region-district20"/>
+<Source ID="R30721">Office national de la chasse et de la faune sauvage (ONCFS)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

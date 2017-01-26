@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N16594" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Cessation, transmission et reprise d'entreprise</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Cessation, transmission et reprise d'entreprise : Cessation d'activité, Cession de fonds de commerce, Transmission, Reprise</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-24</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N16594</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24264</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16594" type="Dossier">Cessation, transmission et reprise d'entreprise</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31376">Modification - Cessation</SousThemePere>
+<SousDossier ID="N16594-1">
+<Titre>Cessation d'activité</Titre><Fiche ID="F23744">Déclaration d'une cessation d'activité</Fiche>
+<Fiche ID="F32703">Cessation temporaire d'activité ou mise en sommeil d'une entreprise</Fiche>
+</SousDossier>
+<SousDossier ID="N16594-2">
+<Titre>Cession de fonds de commerce</Titre><Fiche ID="F22532">Formalités de cession</Fiche>
+<Fiche ID="F23507">Déclarations fiscales</Fiche>
+<Fiche ID="F31427">Cession d'une entreprise aux salariés : exonérations pour les cédants</Fiche>
+</SousDossier>
+<SousDossier ID="N16594-3">
+<Titre>Transmission</Titre><Fiche ID="F23891">Transmission ou reprise d'une entreprise</Fiche>
+<Fiche ID="F32307">Transmission d'entreprise : exonération de la plus-value professionnelle</Fiche>
+<Fiche ID="F23670">Transmission d'une exploitation agricole</Fiche>
+</SousDossier>
+<SousDossier ID="N16594-4">
+<Titre>Reprise</Titre><Fiche ID="F31837">Réductions et exonérations fiscales pour les repreneurs d'entreprise</Fiche>
+<Fiche ID="F31406">Reprise d'entreprise par transformation en Scop</Fiche>
+</SousDossier><VoirAussi important="non">
+<Fiche ID="F32329" audience="Professionnels">
+<Titre>Fermeture d'un établissement : obligation de rechercher un repreneur</Titre>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31263" audience="Professionnels">
+<Titre>Accompagnement au départ à la retraite (ADR) des travailleurs indépendants</Titre>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R45946" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13644.do" format="application/pdf" poids="662.8 KB" numerocerfa="13644*02" type="Formulaire">
+<Titre>Déclaration de cession d'un Fonds de commerce - Fonds artisanal - Bail commercial - Terrain soumis au droit de préemption</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17346" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14772.do" format="application/pdf" poids="49.1 KB" numerocerfa="14772*01" type="Formulaire">
+<Titre>Plan de cessation d'activité des pêcheurs en eau douce</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R13817" URL="https://www.afecreation.fr/index.php?pageseule=&amp;pid=199" audience="Professionnels">
+<Titre>Foire aux questions de la création d'entreprise</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F20678" audience="Professionnels">Comment un micro-entrepreneur doit-il déclarer sa cessation d'activité ?</QuestionReponse>
+<QuestionReponse ID="F21000" audience="Professionnels">Comment se procurer un extrait K ou Kbis ?</QuestionReponse>
+<QuestionReponse ID="F31526" audience="Professionnels">Comment transmettre une EIRL ?</QuestionReponse>
+<QuestionReponse ID="F32581" audience="Professionnels">Comment calculer les droits d'enregistrement lors d'une mutation de fonds de commerce ?</QuestionReponse>
+<QuestionReponse ID="F31670" audience="Professionnels">Quelles indemnités un débitant de tabac peut-il toucher en fin d'activité ?</QuestionReponse>
+<QuestionReponse ID="F31713" audience="Professionnels">Qu'est-ce qu'un LBO (Leverage buy out) ?</QuestionReponse>
+<QuestionReponse ID="F31844" audience="Professionnels">Reprise d'entreprise en Scop : les contrats de travail sont-ils maintenus ?</QuestionReponse>
+<QuestionReponse ID="F31712" audience="Professionnels">Le rachat d'une entreprise par ses salariés (LBO) est-il exonéré d'impôt ?</QuestionReponse>
+<QuestionReponse ID="F32580" audience="Professionnels">Qu'est-ce qu'une Scop d'amorçage ?</QuestionReponse>
+</Publication>

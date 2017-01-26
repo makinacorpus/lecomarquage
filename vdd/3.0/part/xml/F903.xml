@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F903" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment s'effectue le partage des biens après divorce ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Le partage des biens de la communauté doit être ordonné par le juge qui prononce le divorce, quel que soit le régime matrimonial adopté par les époux. La liquidation du régime matrimonial permet d'évaluer les biens de la communauté et de les répartir entre les époux. Un règlement conventionnel par les époux peut fixer le partage.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-07-24</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F903</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181838&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N159</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N159">Divorce, séparation de corps</Niveau>
+<Niveau ID="F903" type="Fiche Question-réponse">Comment s'effectue le partage des biens après divorce ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere><DossierPere ID="N159">
+<Titre>Divorce, séparation de corps</Titre>
+<Fiche ID="F980">Séparation de corps</Fiche>
+<Fiche ID="F10567">Divorce par consentement mutuel</Fiche>
+<Fiche ID="F10569">Divorce pour acceptation du principe de la rupture du mariage</Fiche>
+<Fiche ID="F10577">Divorce pour faute</Fiche>
+<Fiche ID="F10568">Divorce pour altération définitive du lien conjugal</Fiche>
+<Fiche ID="F1760">Prestation compensatoire</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le partage des biens de la communauté  doit être ordonné par le juge qui prononce le divorce, quel que soit le régime matrimonial adopté par les époux. La liquidation du régime matrimonial permet d'évaluer les biens de la communauté et de les répartir entre les époux. Un règlement conventionnel par les époux peut fixer le partage.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>En cas de règlement conventionnel entre les époux</Paragraphe>
+</Titre><Paragraphe>Les époux peuvent soumettre à l'homologation du juge aux affaires familiales (Jaf) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une convention sur le règlement des conséquences du divorce et sur le partage des biens,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou, éventuellement, la déclaration qu'il n'y a pas de biens à partager.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans ce cas, le Jaf validera leur décision.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En l'absence de règlement conventionnel par les époux</Paragraphe>
+</Titre><Paragraphe>Le juge peut désigner un notaire chargé de ce partage pour évaluer les biens de la communauté.</Paragraphe>
+<Paragraphe>La valeur des biens à partager doit être fixée au jour du partage.</Paragraphe>
+<Paragraphe>Lorsqu'il existe un bien immobilier, l'un des époux peut demander que ce bien lui soit attribué  : c'est une attribution préférentielle.</Paragraphe>
+<Paragraphe>Néanmoins, cette dernière peut être refusée par le juge qui statue sur les demandes de maintien dans <LienIntra LienID="R12717" type="Définition de glossaire">l'indivision</LienIntra> ou <LienIntra LienID="R16209" type="Définition de glossaire">d'attribution préférentielle</LienIntra>.</Paragraphe>
+<Paragraphe>Si elle rend le partage inégal, l'époux bénéficiaire de l'attribution préférentielle devra payer à l'autre une <LienIntra LienID="R1038" type="Définition de glossaire">soulte</LienIntra>. Il peut être décidé que la totalité de la soulte  due sera payable comptant ou par un paiement échelonné.</Paragraphe>
+
+</Chapitre>
+</Texte>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006181838&amp;cidTexte=LEGITEXT000006070721" ID="R40761">
+<Titre>Code civil : articles 1467 à 1480</Titre>
+<Complement>Partage de la communauté</Complement>
+</Reference>
+<Definition ID="R1038">
+<Titre>Soulte</Titre>
+<Texte>
+				<Paragraphe>Somme d'argent devant être versée à l'occasion d'un partage par une personne recevant une part ou un bien d'une valeur plus élevée que celle à laquelle ses droits lui permettent de prétendre </Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R16209">
+<Titre>Attribution préférentielle</Titre>
+<Texte>
+				<Paragraphe>Dans un partage (succession, divorce), droit donné à une personne de se voir attribuer en priorité un bien (ferme, maison...) par rapport aux autres copartageants</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12717">
+<Titre>Indivision</Titre>
+<Texte>
+				<Paragraphe>Situation dans laquelle deux ou plusieurs personnes sont propriétaires ensemble d'une même chose ou d'un même ensemble de choses (exemples : maison, portefeuille de titres, meubles, bijoux)</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136538&amp;cidTexte=LEGITEXT000006070721" ID="R18644">
+<Titre>Code civil : articles 815 à 815-1</Titre>
+</Reference>
+</Definition>
+</Publication>

@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23567" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Application des différents taux de TVA</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Les ventes et les prestations de service réalisées en France sont soumises à la taxe sur la valeur ajoutée (TVA), perçue par le professionnel ou l'entreprise qui réalise ces opérations et doit la reverser aux services des impôts. Pour les opérations imposables, la taxe est calculée sur le prix hors taxe (HT) selon des taux différents, qui dépendent de la nature du produit ou du service vendu, ainsi que de la localisation de l'opération taxable.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-06</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23567</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191654&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006304499&amp;idSectionTA=LEGISCTA000006179660&amp;cidTexte=LEGITEXT000006069577, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179980&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/1617-PGP, http://bofip.impots.gouv.fr/bofip/5969-PGP.html?identifiant=BOI-TVA-GEO, http://www.contributions.gov.pf/</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13445</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Commerçant</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13445">Taxe sur la valeur ajoutée (TVA)</Niveau>
+<Niveau ID="F23567" type="Fiche d'information">Application des différents taux de TVA</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13445">
+<Titre>Taxe sur la valeur ajoutée (TVA)</Titre><SousDossier ID="N13445-1">
+<Titre>Taux applicables</Titre>
+<Fiche ID="F23567">Application des différents taux de TVA</Fiche>
+<Fiche ID="F22399">Restauration et débits de boisson</Fiche>
+<Fiche ID="F23568">Travaux de rénovation d'un logement</Fiche>
+<Fiche ID="F20558">Vente en détaxe aux touristes</Fiche>
+<Fiche ID="F20781">Secteur culturel (œuvres d'art et spectacles vivants)</Fiche>
+<Fiche ID="F32113">Droits d'auteur</Fiche>
+<Fiche ID="F31596">Services à la personne</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-2">
+<Titre>Déclaration de la TVA</Titre>
+<Fiche ID="F23566">Déclaration et paiement de la TVA</Fiche>
+<Fiche ID="F21746">Franchise en base de TVA</Fiche>
+<Fiche ID="F23569">Déduction de la TVA sur les achats professionnels</Fiche>
+<Fiche ID="F24026">Contributions et taxes assimilées à la TVA</Fiche>
+<Fiche ID="F31983">Autoliquidation de la TVA en cas de sous-traitance dans le BTP</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-3">
+<Titre>Commerce international et TVA</Titre>
+<Fiche ID="F33340">TVA applicable aux échanges européens</Fiche>
+<Fiche ID="F23570">Numéro de TVA intracommunautaire</Fiche>
+<Fiche ID="F31673">Remboursement de la TVA intracommunautaire</Fiche>
+<Fiche ID="F33167">Autoliquidation de la TVA due à l'importation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Taux applicables</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les ventes et les prestations de service réalisées en France sont soumises à la taxe sur la valeur ajoutée (TVA), perçue par le professionnel ou l'entreprise qui réalise ces opérations et doit la reverser aux services des impôts. Pour les opérations imposables, la taxe est calculée sur le prix hors taxe (HT) selon des taux différents, qui dépendent de la nature du produit ou du service vendu, ainsi que de la localisation de l'opération taxable.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Taux normal</Paragraphe>
+</Titre><Tableau>
+<Titre>Taux normal de la taxe sur la valeur ajoutée (TVA)</Titre>
+<Colonne largeur="63" type="header"/>
+<Colonne largeur="17" type="normal"/>
+<Colonne largeur="13" type="normal"/>
+<Colonne largeur="31" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Produits ou services concernés</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>France continentale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Corse</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Guadeloupe, Martinique, Réunion</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>La plupart des biens et des prestations de service</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Publications (livres, journaux, revues) pornographiques ou violentes,  interdites de vente aux mineurs, d'exposition à la vue du public ou de publicité</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Centres équestres (prestations correspondant au droit d'utilisation d'animaux à des fins d'activités physiques et sportives)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Boissons alcoolisées (à consommer sur place)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Boissons alcoolisées (à emporter ou à livrer)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Produits alimentaires spécifiques : confiserie, matières grasses végétales (margarines), caviar, chocolat et produits composés contenant du chocolat ou du cacao (chocolat au lait, chocolat blanc, chocolat fourré)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23579" type="Fiche Question-réponse" audience="Professionnels">Produits agricoles ou piscicoles</LienInterne> non transformés, qui ne sont utilisés ni pour l'alimentation, ni pour la production agricole</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>8,5 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>la TVA n'est pas applicable dans les départements, collectivités et territoires d'outre-mer suivants : Saint-Pierre-et-Miquelon, Wallis-et-Futuna, Guyane, Saint-Martin, Saint-Barthélemy (sauf en matière immobilière), Mayotte et Nouvelle-Calédonie.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Taux intermédiaire ou réduit</Paragraphe>
+</Titre><Tableau>
+<Titre>Taux réduit et intermédiaire de la taxe sur la valeur ajoutée (TVA)</Titre>
+<Colonne largeur="25" type="header"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Produits ou services concernés</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>France continentale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Corse</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Guadeloupe, Martinique, Réunion</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F22399" type="Fiche d'information" audience="Professionnels">Restauration</LienInterne> et vente de produits alimentaires préparés*</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 % ou 5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 ou 10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Boissons sans alcool et eau (à consommation différée)*</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Boissons sans alcool et eau (à consommation immédiate)*</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Hébergement en hôtel (et aux 3/4 du prix de pension ou demi-pension), en location meublée, en <LienInterne LienPublication="F24150" type="Fiche d'information" audience="Professionnels">camping classé</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 % ou 10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Transport de voyageurs</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 % (exonération totale entre la Corse et la France continentale)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 % (transport maritime exonéré à l'intérieur du département)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23568" type="Fiche d'information" audience="Professionnels">Travaux de rénovation</LienInterne> d'un logement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 % ou 10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 % ou 10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23579" type="Fiche Question-réponse" audience="Professionnels">Produits agricoles ou piscicoles non transformés</LienInterne> destinés à l'alimentation animale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F20781" type="Fiche d'information" audience="Professionnels">Ventes d'œuvres d'art originales effectuées par leur auteur ou ses ayants droit</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Droits d'entrée dans les zoos, musées, monuments, expositions, foires, salons, fêtes foraines et sites culturels</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Produits alimentaires</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Chocolat brut, chocolat de ménage au lait (chocolat en poudre), bonbons de chocolat, fèves de cacao et beurre de cacao</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Équipements et <LienInterne LienPublication="F31596" type="Fiche d'information" audience="Professionnels">prestations pour personnes dépendantes</LienInterne> (handicapées ou âgées)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Abonnements au gaz et électricité</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Cantines scolaires</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F22713" type="Fiche d'information" audience="Professionnels">Livres</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F20781" type="Fiche d'information" audience="Professionnels">Billetterie des spectacles vivants</LienInterne> et places de cinéma</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 % ou 2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 % ou 0,9 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 % ou 1,05 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Billetterie des rencontres sportives (matchs, compétitions, courses automobiles)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Médicaments remboursables par la sécurité sociale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Préservatifs masculins et féminins - protection hygiénique féminine</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5,5 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Médicaments non remboursables</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Animaux vivants de boucherie et de charcuterie vendus à des non-assujettis</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,9 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1,75 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contribution à l'audiovisuel public</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Travaux de composition et d'impression des périodiques et cessions d'informations par les agences de presse</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F22767" type="Fiche d'information" audience="Professionnels">Publications de presse</LienInterne> détenant un n° de CPPAP, y compris la presse en ligne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2,1 %</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1,05 %</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>* Pour les  produits alimentaires, les taux réduits sont applicables en fonction du mode de consommation :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>taux de 10 %, s'ils sont destinés à une consommation immédiate (il n'est pas possible de les conserver),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>taux de 5,5 %, s'ils sont vendus sous un emballage permettant leur conservation.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans le département de la Réunion, les ventes de riz sont exonérées de la TVA.</Paragraphe>
+<Paragraphe>La Polynésie française bénéficiant d'une autonomie fiscale lui permettant d'établir ses propres dispositions en matière de TVA, les taux de TVA qui y sont applicables sont fixés à 16 % pour le taux normal, 13 % pour le taux intermédiaire et 5 % pour le taux réduit.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F23568" audience="Professionnels">
+<Titre>Taux de TVA pour les travaux de rénovation d'un logement</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F20781" audience="Professionnels">
+<Titre>Taux de TVA dans le secteur culturel</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006191654&amp;cidTexte=LEGITEXT000006069577" ID="R22410">
+<Titre>Code général des impôts : articles 278-0 bis à 279 bis</Titre>
+<Complement>Taux réduit et intermédiaire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006304499&amp;idSectionTA=LEGISCTA000006179660&amp;cidTexte=LEGITEXT000006069577" ID="R32782">
+<Titre>Code général des impôts : articles 294 à 296 ter</Titre>
+<Complement>Taux applicables en Guadeloupe, Martinique et Réunion</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179980&amp;cidTexte=LEGITEXT000006069577" ID="R32780">
+<Titre>Code général des impôts : article 297</Titre>
+<Complement>Taux applicables en Corse</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/1617-PGP" ID="R17212">
+<Titre>Bofip-Impôts n°BOI-TVA-LIQ-30-20-90 sur l'application du taux réduit aux travaux de rénovation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/5969-PGP.html?identifiant=BOI-TVA-GEO" ID="R32794">
+<Titre>Bofip BOI-TVA-GEO relatif aux régimes territoriaux de la TVA</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.contributions.gov.pf/" ID="R32795">
+<Titre>Code des impôts applicable en Polynésie française</Titre>
+<Source ID="R32796">Gouvernement de la Polynésie française</Source>
+</Reference>
+<QuestionReponse ID="F24271" audience="Professionnels">Comment calculer un prix hors taxes à partir d'un prix TTC ?</QuestionReponse>
+<QuestionReponse ID="F23579" audience="Professionnels">À quel taux de TVA les produits agricoles et piscicoles sont-ils soumis ?</QuestionReponse>
+</Publication>

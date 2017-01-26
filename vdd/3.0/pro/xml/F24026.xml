@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24026" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Contributions et taxes assimilées à la TVA</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité</dc:subject>
+<dc:description>Des taxes et contributions sont applicables à certaines activités ou certaines catégories de professionnels. Considérées comme des taxes annexes à la taxe sur la valeur ajoutée (TVA), elles sont assises, liquidées et recouvrées comme la TVA, c'est-à-dire qu'il est nécessaire de les déclarer et les payer en même temps que la TVA.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge des finances</dc:contributor>
+<dc:date>modified 2016-08-09</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24026</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N13445</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24265">Fiscalité</Niveau>
+<Niveau ID="N13445">Taxe sur la valeur ajoutée (TVA)</Niveau>
+<Niveau ID="F24026" type="Fiche d'information">Contributions et taxes assimilées à la TVA</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+<SousThemePere ID="N10736">Impôts liés au chiffre d'affaires</SousThemePere><DossierPere ID="N13445">
+<Titre>Taxe sur la valeur ajoutée (TVA)</Titre><SousDossier ID="N13445-1">
+<Titre>Taux applicables</Titre>
+<Fiche ID="F23567">Application des différents taux de TVA</Fiche>
+<Fiche ID="F22399">Restauration et débits de boisson</Fiche>
+<Fiche ID="F23568">Travaux de rénovation d'un logement</Fiche>
+<Fiche ID="F20558">Vente en détaxe aux touristes</Fiche>
+<Fiche ID="F20781">Secteur culturel (œuvres d'art et spectacles vivants)</Fiche>
+<Fiche ID="F32113">Droits d'auteur</Fiche>
+<Fiche ID="F31596">Services à la personne</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-2">
+<Titre>Déclaration de la TVA</Titre>
+<Fiche ID="F23566">Déclaration et paiement de la TVA</Fiche>
+<Fiche ID="F21746">Franchise en base de TVA</Fiche>
+<Fiche ID="F23569">Déduction de la TVA sur les achats professionnels</Fiche>
+<Fiche ID="F24026">Contributions et taxes assimilées à la TVA</Fiche>
+<Fiche ID="F31983">Autoliquidation de la TVA en cas de sous-traitance dans le BTP</Fiche>
+</SousDossier>
+<SousDossier ID="N13445-3">
+<Titre>Commerce international et TVA</Titre>
+<Fiche ID="F33340">TVA applicable aux échanges européens</Fiche>
+<Fiche ID="F23570">Numéro de TVA intracommunautaire</Fiche>
+<Fiche ID="F31673">Remboursement de la TVA intracommunautaire</Fiche>
+<Fiche ID="F33167">Autoliquidation de la TVA due à l'importation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Déclaration de la TVA</SousDossierPere>
+<Introduction>
+<Texte>
+<Paragraphe>Des taxes et contributions sont applicables à certaines activités ou certaines catégories de professionnels. Considérées comme des taxes annexes à la taxe sur la valeur ajoutée (TVA), elles sont assises, liquidées et recouvrées comme la TVA, c'est-à-dire qu'il est nécessaire de les déclarer et les payer en même temps que la TVA.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Diverses taxes et contributions</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="26" type="normal"/>
+<Colonne largeur="26" type="normal"/>
+<Colonne largeur="26" type="normal"/>
+<Colonne largeur="24" type="normal"/>
+<Colonne largeur="21" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Taxes et contributions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Activités taxées ou personnes redevables</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Taux ou montants</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Échéance</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Articles du
+            code général des impôts</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F24670" type="Fiche d'information" audience="Professionnels">Contribution à l'audiovisuel public</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Professionnel qui détient un poste de télévision dans un établissement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarifs en fonction du type d'établissement et du nombre d’appareils</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration de la <LienInterne LienPublication="R24379" type="Sigle">TVA</LienInterne> : annuelle pour les exploitants soumis au régime simplifié ou lors de la déclaration du mois de mars ou du 1er trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1605 et suivants</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F22215" type="Fiche d'information" audience="Professionnels">Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Professionnel de la bijouterie, qui vend de l'or, de l'argent et du platine</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>10 % de la valeur en douane pour les métaux précieux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>6 % de la valeur en douane pour les bijoux ou objets d'art, de collection ou d'antiquité, à partir de <Valeur>5 000 €</Valeur>.</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>150 VI à 150 VM</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur la publicité télévisée</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Régie des messages publicitaires sur les écrans de télévision</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>3,80 €</Valeur> par message dont le prix HT est compris entre 500 et 1 520 €</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>20,60 €</Valeur> par message dont le prix HT est compris entre 1 521 et 9 150 €</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>34,30 €</Valeur> par message à partir de 9 151 € HT</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration de la TVA + relevé avant le 25 de chaque mois indiquant le nombre de messages diffusés le mois précédent</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis KA</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur la publicité diffusée par voie de radiodiffusion sonore et de télévision</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Régie des messages publicitaires à la télévision et à la radio. </Paragraphe>
+<Paragraphe>Sur les sommes payées par les annonceurs</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>En fonction des recettes trimestrielles</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration  suivant la fin de chaque trimestre civil, ou à la fin de l'exercice  pour les redevables soumis au régime simplifié</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis KD</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur la publicité diffusée par les chaînes de télévision</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Éditeur de services de télévision. </Paragraphe>
+<Paragraphe>Sur les sommes versées par les annonceurs</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,5 % de la fraction des versements annuels, hors TVA, afférent à chaque service de télévision,  qui excède 11 millions d'€</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration de mars ou du 1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis KG</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur les services fournis par les opérateurs de communications électroniques</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Opérateur de communications électroniques déclaré auprès de l'Arcep. </Paragraphe>
+<Paragraphe>Sur les abonnements acquittés par les usagers</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1,3 % de la fraction du produit des abonnements qui excède 5 millions d'€</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration de mars ou du 1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis KH</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur certaines dépenses de publicité et de promotion (imprimés publicitaires, annonces et insertions dans les journaux gratuits)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entreprises réalisant plus de <Valeur>763 000 €</Valeur> HT de chiffre d'affaires. </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1 % des dépenses HT</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration de mars ou du 1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis MA</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur le chiffre d'affaires des exploitants agricoles</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sur le chiffre d'affaires réalisé l'année précédente par les agriculteurs</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif composé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'une part forfaitaire fixée à <Valeur>90 €</Valeur> par exploitant</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'une part variable fixée à <Valeur>0,19 %</Valeur> jusqu'à <Valeur>370 000 €</Valeur> de CA et <Valeur>0,05 %</Valeur> au-delà</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA : annuelle pour les exploitants soumis au régime simplifié ou lors de la déclaration du mois de mars ou du 1er trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis MB</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Redevances sanitaires d'abattage et de découpage</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Toute personne qui fait abattre ou découper un animal dans un abattoir ou qui fait traiter du gibier sauvage dans un atelier agréé</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif fixé par animal de chaque espèce ou par tonne de viande</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis N à R et 302 bis S à W</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Redevances sanitaires sur les produits de la pêche et de l'aquaculture</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Toute personne qui procède au premier achat ou à la première réception de produits de la pêche ou de l'aquaculture</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Assise sur le poids des produits</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis WA à WB</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Redevance sanitaire pour le contrôle du lait et des œufs</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Centre de collecte, établissement de transformation du lait cru.</Paragraphe>
+<Paragraphe>Établissement de fabrication ou de traitement d'ovoproduits</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Volume de lait cru</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Poids d'œufs de poule en coquille</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis WC</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur les actes des huissiers de justice</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Huissiers de justice pour le compte du débiteur</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant forfaitaire par acte :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>13,04 €</Valeur>  en 2016</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>14,89 €</Valeur> en 2017</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis Y</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe due par les concessionnaires d'autoroutes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Sur le nombre de kilomètres parcourus par les usagers</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,32 €</Valeur> par tranche de 1 000 km</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis ZB</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contribution sur les retransmissions sportives</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Cessionnaire de droits de diffusion de manifestations ou compétitions sportives à un éditeur ou distributeur de services de télévision</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>5 %</Valeur> des sommes encaissées</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>302 bis ZE</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1279" type="Fiche Question-réponse" audience="Professionnels">Prélèvements sur les jeux et les paris</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule/>
+<Cellule/>
+<Cellule/>
+<Cellule/>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F33697" type="Fiche Question-réponse" audience="Professionnels">Taxe sur les appareils de reproduction et d'impression</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Importateur, vendeur ou fabricant</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>3,25 %</Valeur> du prix HT</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1609 terdecies</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F20570" type="Fiche d'information" audience="Professionnels">Taxe sur l'édition des ouvrages de librairie</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Éditeur ayant réalisé un chiffre d'affaires <LienInterne LienPublication="R24408" type="Sigle">TTC</LienInterne> supérieur à <Valeur>76 300 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,20 %</Valeur> du prix de vente des livres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Échéance semestrielle, lors de la déclaration de TVA de juillet et décembre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1609 duodecies</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Prélèvement sur les films pornographiques ou d'incitation à la violence et sur les représentations théâtrales à caractère pornographique</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Production,  distribution ou  représentation de films pornographiques ou d'incitation à la violence</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>33 %</Valeur>  de la fraction des BIC imposables à l'impôt sur les sociétés ou à l'impôt sur le revenu </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1605 sexies</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur les ventes et locations de vidéogrammes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Activités de vente ou location de vidéogrammes (cassettes vidéos, DVD) à usage privé du public</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 % du prix HT de vente ou de location (10 % pour les œuvres à caractère violent ou pornographique)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1609 sexdecies B</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F33472" type="Fiche d'information" audience="Professionnels">Taxe sur les huiles alimentaires</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Importateur, vendeur ou fabricant</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif forfaitaire en fonction du poids par nature d'huile</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1609 vicies</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe pour le développement de la formation professionnelle des garagistes (réparation de l'automobile, du cycle et du motocycle)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entreprise de réparation, d'entretien, de contrôle technique de véhicules</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>0,75 %</Valeur> des rémunérations soumises à cotisations sociales</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1609 sexvicies</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F24619" type="Fiche d'information" audience="Professionnels">Contribution sur les activités privées de sécurité</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Personnes morales ou physiques qui effectuent des activités privées de sécurité</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>0,45 % sur le montant hors taxe des prestations (personnes physiques)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>0,65 % sur les rémunérations versées aux salariés qui exécutent les prestations de sécurité (personnes morales)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1609 quintricies</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F31202" type="Fiche d'information" audience="Professionnels">Taxe d'embarquement et débarquement en Corse</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entreprise de transport public aérien et maritime</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarifs modulés selon le mode de transport et la distance parcourue. Dans la limite de <Valeur>4,57 €</Valeur> par passager</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Lors des échéances de déclaration de la TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1599 vicies</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur les produits cosmétiques</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Entreprise effectuant la première vente des produits concernés</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Supprimée à partir du 1<Exposant>er</Exposant> janvier 2016</Paragraphe>
+</Cellule>
+<Cellule/>
+<Cellule/>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe annuelle de biologie médicale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Laboratoire de biologie médicale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant forfaitaire de <Valeur>540 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration de mars ou du 1<Exposant>er</Exposant> trimestre</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1600-0 R</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Taxe sur les éoliennes maritimes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Installation de production d'électricité située dans les eaux intérieures ou la mer territoriale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tarif annuel de <Valeur>15 094 €</Valeur> par mégawatt installé</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Déclaration de mars ou du 1<Exposant>er</Exposant> trimestre</Paragraphe>
+<Paragraphe>Pour les non-redevables de la TVA, sur l'annexe à la déclaration de TVA déposée avant le 25 avril</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1519 B</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment les déclarer</Paragraphe>
+</Titre><Paragraphe>Ces différentes taxes doivent être déclarées en même temps que la déclaration de <LienInterne LienPublication="R24379" type="Sigle">TVA</LienInterne> de façon mensuelle, trimestrielle ou annuelle en fonction du régime d'imposition à la TVA du redevable.</Paragraphe>
+<Paragraphe>Voir <LienInterne LienPublication="F23566" type="Fiche d'information" audience="Professionnels">Déclaration et paiement de la TVA</LienInterne>
+</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069577" ID="R1730">
+<Titre>Code général des impôts</Titre>
+</Reference>
+<ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14660" URL="https://www.impots.gouv.fr/portail/node/9079" numerocerfa="10963*21" autrenumero="3310-CA3" type="Formulaire">
+<Titre>Déclaration de la taxe sur la valeur ajoutée (TVA) - Régime normal</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14659" URL="https://www.impots.gouv.fr/portail/node/9077" numerocerfa="10960*25" autrenumero="3310-A" type="Formulaire">
+<Titre>Annexe à la déclaration de TVA - Taxes assimilées à la TVA, retenue sur droits d'auteur et TVA à taux particuliers</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14665" URL="https://www.impots.gouv.fr/portail/node/9095" numerocerfa="11417*17" autrenumero="3517-S - CA 12" type="Formulaire">
+<Titre>Déclaration annuelle de régularisation de TVA - Régime simplifié</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14664" URL="https://www.impots.gouv.fr/portail/formulaire/3517-agr-sd/declaration-annuelle-de-regularisation-de-tva-regime-simplifie-agricole" numerocerfa="10968*16" autrenumero="3517-AGR - CA12A" type="Formulaire">
+<Titre>Déclaration annuelle de régularisation de TVA - Régime simplifié agricole</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Abreviation ID="R24408" type="Sigle">
+<Titre>TTC</Titre>
+<Texte>
+<Paragraphe>Toutes taxes comprises</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24379" type="Sigle">
+<Titre>TVA</Titre>
+<Texte>
+<Paragraphe>Taxe sur la valeur ajoutée</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

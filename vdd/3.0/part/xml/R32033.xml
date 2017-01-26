@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R32033" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Plus ou moins-values réalisées en 2015 - Fiche d'imputation entre plus values et moins values et suivi des moins values antérieures</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Plus ou moins-values réalisées en 2015 - Fiche d'imputation entre plus values et moins values et suivi des moins values antérieures - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-20</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R32033</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R32033" type="Formulaire">Plus ou moins-values réalisées en 2015 - Fiche d'imputation entre plus values et moins values et suivi des moins values antérieures</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12483*11</NumeroCerfa>
+<Texte><Paragraphe>Formulaire à remplir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Si vos intermédiaires financiers ont calculé pour vous l'ensemble de vos plus et moins-values de l'année et qu'aucune des plus-values n'est éligible à un abattement pour durée de détention renforcé</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si vous êtes dispensé de déposer une déclaration 2074 et que vous disposez de moins-values antérieures reportables</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/8888">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F21618" audience="Particuliers" type="Fiche d'information">
+<Titre>Revenus à déclarer : plus-values sur valeurs mobilières</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

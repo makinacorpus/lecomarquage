@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N58" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Inscription dans l'enseignement supérieur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Inscription dans l'enseignement supérieur</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-24</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N58</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étudiant, Jeune</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N58" type="Dossier">Inscription dans l'enseignement supérieur</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere>
+<Fiche ID="F2861">Première inscription dans l'enseignement supérieur</Fiche>
+<Fiche ID="F2865">Coût des études</Fiche>
+<Fiche ID="F2326">Étudiant en situation de handicap</Fiche><VoirAussi important="non">
+<Dossier ID="N23482" audience="Particuliers">
+<Titre>Formations et diplômes de l'enseignement supérieur</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N20398" audience="Particuliers">
+<Titre>Bourses et aides pour l'étudiant</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N13511" audience="Particuliers">
+<Titre>Étudier à l'étranger</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N31346" audience="Particuliers">
+<Titre>Étudiant étranger en France</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R24" type="Local personnalisé sur SP">
+<Titre>Direction des services départementaux de l'éducation nationale</Titre>
+<PivotLocal>inspection_academique</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-et-services-departementaux-de-l-education-nationale.html#Les_coordonnées%20des%20rectorats%20et%20des%20services%20départementaux%20de%20l%27éducation%20nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+<OuSAdresser ID="R33" type="Local personnalisé sur SP">
+<Titre>Rectorat</Titre>
+<PivotLocal>rectorat</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-services-departementaux-education-nationale.html#La_carte_des_regions_academiques_et_les_coordonnees_des_rectorats_vice-rectorats_et_services_departementaux_de_l_Education_nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+<OuSAdresser ID="R16797" type="Local personnalisé sur SP">
+<Titre>Crous</Titre>
+<PivotLocal>crous</PivotLocal>
+<RessourceWeb URL="http://www.cnous.fr/_cnous__dossier_3.17.66.htm" commentaireLien="Centre régional des oeuvres universitaires et scolaires"/>
+<Source ID="R30627">Centre national des oeuvres universitaires et scolaires (CNOUS)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R22679" type="Centre de contact">
+<Titre>Monorientationenligne.fr</Titre>
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source><Texte>
+						
+								<Paragraphe>
+			Des experts de l'Onisep et des conseillers d'orientation-psychologues répondent à vos questions sur l'orientation, les filières de formations et les métiers posées, que vous soyez collégien, lycéen, apprenti, étudiant, parent ou enseignant.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			01 77 77 12 25
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 10h à 20h
+		</Paragraphe>
+								<Paragraphe>
+			(coût d'un appel local)
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par chat</Paragraphe>
+</Titre>
+								<Paragraphe>
+			À partir du site "<LienExterne URL="http://www.monorientationenligne.fr/qr/tchat.php">Mon orientation en ligne</LienExterne>
+"
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 10h à 20h
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R1277" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S1205.pdf" format="application/pdf" poids="147.5 KB" numerocerfa="10547*02" autrenumero="S1205g" type="Formulaire">
+<Titre>Déclaration en vue de l'affiliation à la sécurité sociale pour les étudiants</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18575" URL="http://www.campusfrance.org/fr/page/procedure-cef-creez-votre-dossier" type="Téléservice">
+<Titre>Inscription dans l'enseignement supérieur français / demande de visa « étudiant » (procédure CEF) : création de compte Campus France</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1278" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11126.do" format="application/pdf" poids="515.8 KB" numerocerfa="11126*16" type="Formulaire">
+<Titre>Dossier vert : demande d'admission préalable à l'inscription en 1re année de licence pour l'année universitaire 2017-2018 (candidat hors UE)</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source><NoticeLiee ID="R16649" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50676&amp;cerfaFormulaire=11126" numerocerfa="50676#16">Notice du dossier vert : demande préalable à l'inscription en 1re année de licence</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1279" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11443.do" format="application/pdf" poids="514.6 KB" numerocerfa="11443*15" type="Formulaire">
+<Titre>Dossier blanc : demande d'admission préalable à l'inscription en 1re année de licence pour l'année universitaire 2017-2018 (candidat hors UE)</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source><NoticeLiee ID="R15557" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50845&amp;cerfaFormulaire=11443" numerocerfa="50845#15" format="application/pdf" poids="394.4 KB">Notice du dossier blanc : demande d'admission préalable à l'inscription en 1re année de licence dans une université française</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R18834" URL="http://www.enseignementsup-recherche.gouv.fr/cid20190/organisation-licence-master-doctorat-l.m.d.html" audience="Particuliers">
+<Titre>Cursus licence master doctorat (L.M.D.) dans l'enseignement supérieur</Titre>
+<Source ID="R30775">Ministère en charge de l'enseignement supérieur</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41768" URL="http://www.campusfrance.org/fr" audience="Particuliers">
+<Titre>Site campusfrance.org</Titre>
+<Source ID="R30841">Agence Campus France</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F31063" audience="Particuliers">Un étudiant peut-il se réorienter pendant la première année d'université ?</QuestionReponse>
+<QuestionReponse ID="F2275" audience="Particuliers">Que faire face à un bizutage ?</QuestionReponse>
+<QuestionReponse ID="F541" audience="Particuliers">Qu'est-ce que l'enseignement à distance ?</QuestionReponse>
+<QuestionReponse ID="F33980" audience="Particuliers">Un réfugié doit-il faire une demande d'acceptation préalable à l'université ?</QuestionReponse>
+</Publication>

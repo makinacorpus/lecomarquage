@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33169" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment consulter une copie d'examen ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Comment consulter une copie d'examen ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-31</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33169</dc:identifier>
+<dc:source>http://circulaire.legifrance.gouv.fr/pdf/2012/04/cir_35048.pdf, http://www.circulaires.gouv.fr/pdf/2009/04/cir_774.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N10481</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N10481">Diplômes</Niveau>
+<Niveau ID="F33169" type="Fiche Question-réponse">Comment consulter une copie d'examen ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N10481">
+<Titre>Diplômes</Titre>
+<Fiche ID="F19608">Brevet informatique et internet (B2i)</Fiche>
+<Fiche ID="F10005">Collège : diplôme national du brevet (DNB), certificat de formation générale</Fiche>
+<Fiche ID="F10041">Diplômes professionnels (BEP, CAP...)</Fiche>
+<Fiche ID="F10004">Baccalauréat</Fiche>
+<Fiche ID="F2401">Validation des acquis de l'expérience (VAE) </Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Si vous </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avez passé un examen de l'Éducation nationale (Bac, Bts par exemple) et qu'une des notes obtenues vous surprend</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou souhaitez consulter votre copie et savoir s'il n'y a pas eu d'erreur de transcription sur votre note, </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>vous devez vous adresser au rectorat du lieu où vous avez passé l'examen ou au centre d'examen indiqué sur votre convocation, afin de demander à consulter votre copie. </Paragraphe>
+<Paragraphe>Suivant les cas, vous pourrez la consulter ou une photocopie vous sera transmise (des frais de photocopies peuvent éventuellement vous être demandés dans ce cas).</Paragraphe>
+<Paragraphe>Si vous constatez qu'une erreur de transcription a été réalisée, vous pourrez <LienInterne LienPublication="F22331" type="Fiche Question-réponse" audience="Particuliers">contester votre note</LienInterne>. </Paragraphe>
+<Paragraphe>Vous ne pourrez pas demander une nouvelle correction de votre copie.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les copies sont détruites au bout d'une année, vous avez donc 1 an pour faire votre demande.</Paragraphe>
+</Attention>
+</Texte><OuSAdresser ID="R33" type="Local personnalisé sur SP">
+<Titre>Rectorat</Titre>
+<Complement>Pour demander à consulter votre copie d'examen</Complement>
+<PivotLocal>rectorat</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/cid3/les-rectorats-services-departementaux-education-nationale.html#La_carte_des_regions_academiques_et_les_coordonnees_des_rectorats_vice-rectorats_et_services_departementaux_de_l_Education_nationale"/>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://circulaire.legifrance.gouv.fr/pdf/2012/04/cir_35048.pdf" ID="R21505">
+<Titre>Circulaire n°2012-059 du 3 avril 2012 relative à la préparation, au déroulement et au suivi des épreuves du bac</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.circulaires.gouv.fr/pdf/2009/04/cir_774.pdf" ID="R14450" format="application/pdf" poids="7.8 KB">
+<Titre>Note de service n°82-028 du 15 janvier 1982 relative à la communication des copies d'examen et concours aux candidats qui en font la demande</Titre>
+</Reference>
+<QuestionReponse ID="F22331" audience="Particuliers">Peut-on contester la note obtenue à un examen de l'Éducation nationale ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N136" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Placement d'un enfant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Placement d'un enfant</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-08-07</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N136</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N136" type="Dossier">Placement d'un enfant</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere>
+<Fiche ID="F3136">Accouchement sous X</Fiche>
+<Fiche ID="F959">Placement volontaire d'un enfant par ses parents</Fiche>
+<Fiche ID="F3140">Placement d'un enfant sur décision judiciaire</Fiche>
+<Fiche ID="F2065">Placement d'un enfant pupille de l'État</Fiche><QuestionReponse ID="F3142" audience="Particuliers">Accès aux origines personnelles : peut-on rechercher l'identité de ses parents ?</QuestionReponse>
+<QuestionReponse ID="F1628" audience="Particuliers">Quel est le rôle du Défenseur des droits auprès des enfants ?</QuestionReponse>
+<QuestionReponse ID="F781" audience="Particuliers">Qu'est ce que le signalement ?</QuestionReponse>
+<QuestionReponse ID="F937" audience="Particuliers">Qu'est-ce que le parrainage de proximité ?</QuestionReponse>
+</Publication>

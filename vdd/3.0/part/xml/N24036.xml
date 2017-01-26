@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N24036" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Prestations de service</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Prestations de service</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-01-28</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N24036</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N24036" type="Dossier">Prestations de service</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20154">Consommation</SousThemePere>
+<Fiche ID="F24046">Travaux et dépannage à domicile</Fiche>
+<Fiche ID="F24045">Vêtements (pressing, teinturerie, laverie automatique)</Fiche><VoirAussi important="non">
+<Fiche ID="F31144" audience="Professionnels">
+<Titre>Remise d'un devis avant une prestation (travaux, santé, déménagement...)</Titre>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F22127" audience="Professionnels">
+<Titre>Tarifs et paiement des taxis</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20797" type="Centre de contact">
+<Titre>Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)</Titre>
+<Complement>Pour toute information et en cas de litige</Complement><Texte>
+						
+								<Paragraphe>
+			Pour toute question de consommation, de qualité et sécurité des produits et services</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>3939</MiseEnEvidence> (coût : <Valeur>0,15 €</Valeur> TTC la minute)
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 19h</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger ou hors métropole : <MiseEnEvidence>+33 1 73 60 39 39</MiseEnEvidence>  uniquement depuis un poste fixe (coût d'une communication + coût de l'appel international variable selon les pays)</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au
+      <LienExterne URL="http://www.economie.gouv.fr/courrier/4169">formulaire de contact</LienExterne>
+
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R20004" URL="http://www.conso.net/content/vous-demandez-le-remboursement-d%E2%80%99objets-ayant-disparu-pendant-votre-d%C3%A9m%C3%A9nagement" type="Modèle de document">
+<Titre>Demander le remboursement d'objets perdus ou endommagés pendant son déménagement</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24075" URL="http://www.conso.net/content/le-v%C3%AAtement-rendu-par-le-teinturier-est-tr%C3%A8s-ab%C3%AEm%C3%A9-vous-demandez-une-indemnisation" type="Modèle de document">
+<Titre>Demander une indemnisation au teinturier qui a détérioré un vêtement</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24078" URL="http://www.conso.net/content/vous-contestez-l%E2%80%99absence-de-remise-d%E2%80%99un-devis-%C3%A0-l%E2%80%99occasion-d%E2%80%99un-d%C3%A9pannage-%C3%A0-domicile" type="Modèle de document">
+<Titre>Contester auprès d'une société de dépannage l'absence de remise de devis</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24079" URL="http://www.conso.net/content/vous-contestez-la-facture-trop-%C3%A9lev%C3%A9e-d%E2%80%99un-d%C3%A9pannage-%C3%A0-domicile" type="Modèle de document">
+<Titre>Contester la facture trop élevée d'un dépannage à domicile</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R24080" URL="http://www.conso.net/content/l%E2%80%99artisan-d%C3%A9pass%C3%A9-le-devis-que-vous-aviez-sign%C3%A9-pour-des-travaux-sans-vous-demander-votre" type="Modèle de document">
+<Titre>Contester la facture d'un artisan en cas de dépassement du devis des travaux sans votre accord</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31668" URL="http://www.conso.net/content/vous-demandez-la-restitution-des-pi%C3%A8ces-chang%C3%A9es-%C3%A0-un-d%C3%A9panneur-%C3%A0-domicile" type="Modèle de document">
+<Titre>Demander la restitution des pièces changées lors d'un dépannage à domicile</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31951" URL="http://www.conso.net/content/des-d%C3%A9g%C3%A2ts-ont-%C3%A9t%C3%A9-caus%C3%A9s-durant-les-travaux-vous-demandez-r%C3%A9paration-%C3%A0-l%E2%80%99artisan" type="Modèle de document">
+<Titre>Demander réparation à un artisan en cas de dégâts causés durant les travaux</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R40509" URL="http://2015.conso.net/content/la-date-de-livraison-pr%C3%A9vue-sur-le-bon-de-commande-n%E2%80%99-pas-%C3%A9t%C3%A9-respect%C3%A9e-or-vous-aviez" type="Modèle de document">
+<Titre>Annuler la vente en cas de non-respect de la date de livraison si elle était une condition essentielle du contrat</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31676" URL="http://2015.conso.net/content/la-date-de-livraison-pr%C3%A9vue-sur-le-bon-de-commande-n%E2%80%99-pas-%C3%A9t%C3%A9-respect%C3%A9e-vous-adressez-une" type="Modèle de document">
+<Titre>Mettre en demeure le professionnel de livrer le bien ou le service à la date prévue</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31677" URL="http://2015.conso.net/content/malgr%C3%A9-la-mise-en-demeure-la-livraison-n%E2%80%99-pas-eu-lieu-ou-la-prestation-de-services-n%E2%80%99-pas" type="Modèle de document">
+<Titre>Annuler la vente si le bien ou le service n'a pas été livré après une mise en demeure</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31672" URL="http://2015.conso.net/content/vous-demandez-le-remboursement-de-la-somme-vers%C3%A9e-%C3%A0-un-commer%C3%A7ant-qui-ne-vous-toujours-pas" type="Modèle de document">
+<Titre>Demander au professionnel le remboursement de la somme versée à la commande en l'absence de livraison</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R40508" URL="http://2015.conso.net/content/vous-demandez-le-remboursement-d%E2%80%99un-acompte-%C3%A0-la-suite-de-l%E2%80%99annulation-d%E2%80%99une-commande-pour" type="Modèle de document">
+<Titre>Demander au professionnel le remboursement de l'acompte en cas d'annulation de la commande pour défaut de livraison</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R24082" URL="http://www.conso.net/sites/default/files/conseil_1155_fp_demenagements.pdf" audience="Particuliers" format="application/pdf" poids="144.2 KB">
+<Titre>Le déménagement en 20 questions</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R24083" URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Materiel-de-jardinage-et-de-bricolage-location" audience="Particuliers">
+<Titre>Location de matériel de jardinage ou de bricolage</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R36883" URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Bronzage-en-institut" audience="Particuliers">
+<Titre>Bronzage en institut</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+
+</Publication>

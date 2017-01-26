@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R11657" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Porter plainte avec constitution de partie civile</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Porter plainte avec constitution de partie civile - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-04</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R11657</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R11657" type="Modèle de document">Porter plainte avec constitution de partie civile</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Madame <Variable>ou</Variable> Monsieur le juge d'instruction,</Paragraphe>
+<Paragraphe>J'ai l'honneur par la présente de porter plainte avec constitution de partie civile </Paragraphe>
+<Paragraphe>contre <Variable>nom, prénom, adresse de la personne poursuivie</Variable> </Paragraphe>
+<Paragraphe>pour <Variable>indiquer de quoi il s'agit ou la qualification  de l'infraction si vous la connaissez : insultes, coups et blessures volontaires, abus de confiance....</Variable>
+</Paragraphe>
+<Paragraphe>Voici les faits incriminés <Variable>résumer en détail les circonstances de l'affaire</Variable>.</Paragraphe>
+<Paragraphe> Vous trouverez ci-joint les justificatifs et témoignages étayant ces affirmations.</Paragraphe>
+<Paragraphe>Conformément à l'article 88 du code de procédure pénale, je vous serais reconnaissant de me faire savoir le montant de la somme que je devrai consigner au greffe de votre juridiction.</Paragraphe>
+<Paragraphe>Dans l'attente de votre réponse, je vous prie d'agréer, Madame <Variable>ou</Variable> Monsieur le juge d'instruction, mes salutations distinguées.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>En cas de  faibles ressources vous pouvez  demander la fixation d'un montant minimum ou une dispense de consignation</Paragraphe>
+</ASavoir><Paragraphe>  <Variable>Compte tenu de mes ressource faibles eu égard à l'importance de l'affaire, je vous demande de fixer au montant le moins élevé possible la somme que je dois consigner au greffe (ou bien d'être dispensé de consigner une somme d'argent au greffe)</Variable>.</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F20798" audience="Particuliers" type="Fiche d'information">
+<Titre>Plainte avec constitution de partie civile</Titre>
+<Dossier ID="N263">Procès pénal</Dossier>
+</FicheLiee>
+<Dossier ID="N263">
+<Titre>Procès pénal</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

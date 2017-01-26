@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17554" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le siège d'une association peut-il être le domicile d'un de ses membres ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association</dc:subject>
+<dc:description>Oui. Le siège social d'une association peut être fixé au domicile d'un des membres, même s'il est locataire. Il doit toutefois obtenir certaines autorisations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la vie associative</dc:contributor>
+<dc:date>modified 2016-01-28</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17554</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178753&amp;cidTexte=LEGITEXT000005634379</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19554</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31403">Formalités administratives d'une association</Niveau>
+<Niveau ID="N19554">Création d'une association</Niveau>
+<Niveau ID="F17554" type="Fiche Question-réponse">Le siège d'une association peut-il être le domicile d'un de ses membres ?</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+</Theme><DossierPere ID="N19554">
+<Titre>Création d'une association</Titre>
+<Fiche ID="F1120">Rédaction des statuts</Fiche>
+<Fiche ID="F1119">Déclaration initiale</Fiche>
+<Fiche ID="F1926">Identification et immatriculation d'une association</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Oui. Le siège social d'une association peut être fixé au domicile d'un des membres, même s'il est  locataire. Il doit toutefois obtenir certaines autorisations.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Au domicile d'un propriétaire</Paragraphe>
+</Titre><Paragraphe>La domiciliation est possible pour une durée de 5 ans maximum.</Paragraphe>
+<Paragraphe>Si le domicile fait partie d'un immeuble en copropriété, celle-ci peut interdire la mention de l'association sur une boîte aux lettres ou sur quelque autre support des parties communes. L'adresse de l'association devra alors être <Variable>Association X, chez M. ou Mme Y, etc.</Variable>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Au domicile d'un locataire</Paragraphe>
+</Titre><Paragraphe>La domiciliation d'une association au domicile d'un locataire est possible. Le propriétaire bailleur ne peut  pas s'y opposer.</Paragraphe>
+<Paragraphe>L'adhérent  qui héberge le siège social de l'association doit occuper les lieux de façon effective. Dans le cas contraire, le propriétaire peut faire valoir que les clauses du bail ne sont plus respectées. Le bail pourra être résilié.</Paragraphe>
+<Paragraphe>Cette domiciliation n'est possible que pour 5 ans maximum.</Paragraphe>
+<Paragraphe>Si le domicile fait partie d'un immeuble en copropriété, celle-ci peut interdire la mention de l'association sur une boîte aux lettres ou sur quelque autre support des parties communes. L'adresse de l'association devra alors être <Variable>Association X, chez M. ou Mme Y, etc.</Variable>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570" ID="R1751">
+<Titre>Loi du 1er juillet 1901 relative au contrat d'association</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178753&amp;cidTexte=LEGITEXT000005634379" ID="R2001">
+<Titre>Code de commerce : articles L123-10 à L123-11-8</Titre>
+<Complement>Article L123-11-1</Complement>
+</Reference>
+<QuestionReponse ID="F1174" audience="Associations">Une mairie peut-elle être le siège social d'une association ?</QuestionReponse>
+
+</Publication>

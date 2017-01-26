@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3076" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Assurance et catastrophes naturelles</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>L'assureur ne prendra en charge ce sinistre que si vous avez souscrit cette assurance et qu'un arrêté ministériel de catastrophe naturelle soit publié</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-18</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3076</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157250&amp;cidTexte=LEGITEXT000006073984, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006785969&amp;idSectionTA=LEGISCTA000006156960&amp;cidTexte=LEGITEXT000006073984</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N44</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N44">Assurance habitation</Niveau>
+<Niveau ID="F3076" type="Fiche d'information">Assurance et catastrophes naturelles</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20263">Assurance</SousThemePere><DossierPere ID="N44">
+<Titre>Assurance habitation</Titre><SousDossier ID="N44-1">
+<Titre>Vie du contrat</Titre>
+<Fiche ID="F2591">Souscription d'un contrat</Fiche>
+<Fiche ID="F2598">Tarifs, cotisations et durée du contrat</Fiche>
+<Fiche ID="F2594">Modification du contrat</Fiche>
+<Fiche ID="F19083">Résiliation du contrat</Fiche>
+<Fiche ID="F3050">Recours et litiges</Fiche>
+</SousDossier>
+<SousDossier ID="N44-2">
+<Titre>Assurance du locataire</Titre>
+<Fiche ID="F1349">Assurance de base</Fiche>
+<Fiche ID="F1350">Assurances complémentaires</Fiche>
+<Fiche ID="F21478">Assurance et colocation</Fiche>
+<Fiche ID="F10827">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-3">
+<Titre>Assurance du propriétaire</Titre>
+<Fiche ID="F2023">Assurance du logement</Fiche>
+<Fiche ID="F2027">Assurance et copropriété</Fiche>
+<Fiche ID="F10830">En cas de vente ou d'achat du logement</Fiche>
+</SousDossier>
+<SousDossier ID="N44-4">
+<Titre>Sinistre</Titre>
+<Fiche ID="F2029">Sinistre courant</Fiche>
+<Fiche ID="F2028">Cambriolage</Fiche>
+<Fiche ID="F1352">Assurance et dégât des eaux</Fiche>
+<Fiche ID="F21532">Incendie ou explosion</Fiche>
+<Fiche ID="F3076">Catastrophes naturelles</Fiche>
+<Fiche ID="F3078">Catastrophes technologiques</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Sinistre</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Un assureur ne prendra en charge le règlement d'un sinistre dû à une catastrophe naturelle qu'à la double condition que vous soyez assuré effectivement  contre ce type de sinistre et que l'état de catastrophe naturelle soit confirmé par un arrêté interministériel.
+		
+			Si vous en êtes  victime, vous devez le déclarer auprès de votre assureur dans les   10 jours qui suivent  la parution de l'arrêté de catastrophe naturelle au Journal officiel.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions d'indemnisation</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir être indemnisé en cas de catastrophe naturelle, il faut cumuler les 2 conditions :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir souscrit une garantie <Expression>catastrophes naturelles</Expression>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et qu'un arrêté d'état de catastrophe naturelle ait été publié au Journal officiel.</Paragraphe>
+</Item>
+</Liste>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Être garanti contre les catastrophes naturelles</Paragraphe>
+</Titre><Paragraphe>L'assurance contre les catastrophes naturelles ne fait pas partie des assurances obligatoires. Si vous n'avez souscrit qu'une <LienInterne LienPublication="F1349" type="Fiche d'information" audience="Particuliers">assurance de base</LienInterne>,
+      vous ne serez pas couvert  contre ce type de sinistre.</Paragraphe>
+<Paragraphe>En revanche, si vous avez souscrit une assurance "<LienInterne LienPublication="F1350" type="Fiche d'information" audience="Particuliers">multirisques habitation</LienInterne>", vous êtes automatiquement couvert contre les dégâts dus aux catastrophes naturelles (tremblement de terre, inondations, sécheresse, glissement de terrain, action mécanique des vagues...).</Paragraphe>
+<Paragraphe>Un assureur ne peut pas vous refuser la garantie "catastrophes naturelles".</Paragraphe>
+<Paragraphe>Dans ce cas, ou  si, lors du  renouvellement de votre contrat, cette garantie est exclue, vous pouvez  saisir le Bureau Central de Tarification (BCT),  dans les 15 jours suivant la notification du refus par l'assurance, par lettre recommandée avec accusé de réception.</Paragraphe>
+<Paragraphe>Il obligera alors l'assureur à vous couvrir contre les effets de catastrophes naturelles.</Paragraphe>
+<Paragraphe>Si le risque est important ou présente des caractéristiques particulières, le BCT peut vous demander de lui présenter une ou plusieurs compagnies d'assurance afin de répartir le risque entre elles.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Publication d'un arrêté de catastrophe naturelle</Paragraphe>
+</Titre><Paragraphe>Un arrêté interministériel de catastrophe naturelle doit être publié pour que vous fassiez jouer la garantie. Cet arrêté indique :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> les zones et les périodes où s'est située la catastrophe naturelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ainsi que la nature des dommages occasionnés par celle-ci.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous  disposez alors de 10 jours à partir  de la parution de cet arrêté au Journal officiel pour effectuer votre déclaration de sinistre auprès de votre assurance.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande d'indemnisation</Paragraphe>
+</Titre><Paragraphe>Pour être indemnisé, vous devez fournir à votre assureur les documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un descriptif des dommages subis précisant leur nature,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une liste chiffrée de tous les objets perdus ou endommagés accompagnée des documents permettant d'attester de l'existence et de la valeur des biens (factures, photographies par exemple).</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>si vous prenez en charge la réparation (partielle ou totale) de vos biens, conservez les factures d'achat de matériaux afin qu'elles soient prises en compte par l'assureur.</Paragraphe>
+</ASavoir><Paragraphe>Conservez les objets endommagés car ils seront  examinés par l'assureur ou <LienInterne LienPublication="F3075" type="Fiche Question-réponse" audience="Particuliers">l'expert désigné</LienInterne> pendant l'expertise.</Paragraphe>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>adressez une copie de votre déclaration (ou un courrier de demande d'indemnisation) à votre mairie, afin qu'elle fasse la demande de classement en catastrophe naturelle auprès de la préfecture.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Indemnisation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Limitations de l'indemnisation</Paragraphe>
+</Titre><Paragraphe>La victime est indemnisée, pour les biens couverts par son contrat, dans la limite des plafonds de garantie.
+		Ainsi, vous  ne pouvez pas faire jouer votre multirisque habitation si c'est votre véhicule qui a été endommagé.</Paragraphe>
+<Paragraphe>Vous ne serez indemnisé que  des frais directs. Les frais indirects seront à votre charge (immobilisation d'un véhicule, pertes de jouissance de biens).</Paragraphe>
+<Paragraphe>Si vous n'êtes assuré qu'en responsabilité civile, vous ne serez pas indemnisé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Franchises</Paragraphe>
+</Titre><Paragraphe>Lors de la mise en jeu de la garantie catastrophe naturelle, une <LienIntra LienID="R2082" type="Définition de glossaire">franchise</LienIntra> s'applique.</Paragraphe>
+<Paragraphe>Cette franchise  légale est modulée selon la nature des biens endommagés.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Pour les biens personnels,</MiseEnEvidence> il y a :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une franchise de <Valeur>380 €</Valeur> pour les  habitations ou tout autre bien à usage non professionnel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une franchise de <Valeur>1 520 €</Valeur>  si le dommage est imputable à un mouvement de terrain consécutif à la sécheresse ou à une réhydratation du sol.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délai d'indemnisation</Paragraphe>
+</Titre><Paragraphe>Vous devrez toucher une provision sur vos indemnités <MiseEnEvidence>dans les 2 mois</MiseEnEvidence> qui suivent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> la date de remise de l'état estimatif des biens endommagés ou des pertes subies,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la date de l'arrêté de catastrophe naturelle, si sa publication est postérieure.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous devrez être indemnisé <MiseEnEvidence>dans les 3 mois</MiseEnEvidence> qui suivent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> la date de remise effective de l'état estimatif des biens endommagés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou celle de l'arrêté de catastrophe naturelle, si sa publication est postérieure.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Par ailleurs, lorsque la tempête a rendu la maison inhabitable, l'assureur peut prendre en charge les frais de relogement lorsque le contrat d'assurance prévoit une garantie frais de relogement, ou de gardiennage (frais de garantie assistance).</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>des dispositions plus avantageuses peuvent être prévues dans votre contrat.</Paragraphe>
+</ASavoir>
+</Chapitre>
+</Texte><OuSAdresser ID="R19751" type="Centre de contact">
+<Titre>Assurance Banque Épargne Info Service</Titre>
+<Complement>Pour obtenir des informations complémentaires</Complement><Texte>
+						
+								<Paragraphe>
+			Informations sur les démarches et les relations contractuelles dans le domaine de l'assurance, de la banque et de l'épargne
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 901 801</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 18h.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			ABE Info Service
+		</Paragraphe>
+								<Paragraphe>
+			61 rue Taitbout
+		</Paragraphe>
+								<Paragraphe>
+			75436 Paris Cedex 09
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>Via le <LienExterne URL="http://www.abe-infoservice.fr/abe-info-service/nous-contacter.html">formulaire de contact</LienExterne>
+</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R2699" type="Centre de contact">
+<Titre>Votre assureur</Titre>
+<Complement>Pour déclarer un sinistre</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R51" type="Centre de contact">
+<Titre>Bureau central de tarification</Titre>
+<Complement>Si votre assureur vous a refusé la garantie "catastrophes naturelles"</Complement><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 (0)1 53 21 50 40
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			bct@agira.asso.fr
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			1, rue Jules Lefebvre
+		</Paragraphe>
+								<Paragraphe>
+			75009 Paris </Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par télécopie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			01 53 21 50 47</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157250&amp;cidTexte=LEGITEXT000006073984" ID="R19677">
+<Titre>Code des assurances : articles L125-1 à L125-6</Titre>
+<Complement>Assurance des risques de catastrophes naturelles</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006785969&amp;idSectionTA=LEGISCTA000006156960&amp;cidTexte=LEGITEXT000006073984" ID="R19678">
+<Titre>Code des assurances : articles A125-1 à A125-3</Titre>
+<Complement>Règles d'assurance des risques de catastrophes naturelles</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R1086" URL="http://www.developpement-durable.gouv.fr/IMG/pdf/guide_de_remise_en_etat.pdf" audience="Particuliers" format="application/pdf" poids="333.3 KB">
+<Titre>Guide de remise en état des bâtiments en cas d'inondation</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41789" URL="http://www.abe-infoservice.fr/assurance.html" audience="Particuliers">
+<Titre>Informations pratiques sur l'assurance</Titre>
+<Source ID="R39432">Autorité de contrôle prudentiel et de résolution (ACPR)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R2082">
+<Titre>Franchise (assurances)</Titre>
+<Texte>
+				<Paragraphe>Somme qui reste à la charge de l'assuré  à la suite d'un sinistre et qui ne sera donc pas remboursée par l'assureur</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F3077" audience="Particuliers">Comment déclarer un sinistre ?</QuestionReponse>
+<QuestionReponse ID="F2706" audience="Particuliers">Comment fonctionne la franchise d'assurance véhicule ?</QuestionReponse>
+<QuestionReponse ID="F3075" audience="Particuliers">Comment se déroule l'expertise ?</QuestionReponse>
+<QuestionReponse ID="F769" audience="Particuliers">Cambriolage : comment être indemnisé par l'assurance ?</QuestionReponse>
+</Publication>

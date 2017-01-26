@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F16040" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un étudiant qui prépare un concours enseignant peut-il percevoir une aide ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Le dispositif des aides spécifiques aux étudiants se destinant au métier d'enseignant est supprimé depuis la rentrée 2013.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F16040</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20398</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N20398">Bourses et aides pour l'étudiant</Niveau>
+<Niveau ID="F16040" type="Fiche Question-réponse">Un étudiant qui prépare un concours enseignant peut-il percevoir une aide ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N20398">
+<Titre>Bourses et aides pour l'étudiant</Titre>
+<Fiche ID="F12214">Bourse sur critères sociaux</Fiche>
+<Fiche ID="F1010">Aide au mérite</Fiche>
+<Fiche ID="F380">Aide à la mobilité internationale</Fiche>
+<Fiche ID="F1024">Allocation spécifique annuelle pour étudiant en difficulté</Fiche>
+<Fiche ID="F34073">Aide spécifique ponctuelle pour étudiant en difficulté</Fiche>
+<Fiche ID="F33845">Aide à la recherche d'un premier emploi (Arpe)</Fiche>
+<Fiche ID="F17482">Allocation pour la diversité dans la fonction publique</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe> Le dispositif des aides spécifiques aux étudiants se destinant au métier d'enseignant est supprimé depuis la rentrée 2013. Il est remplacé par le dispositif des <LienInterne LienPublication="F24439" type="Fiche d'information" audience="Particuliers">étudiants apprentis  professeurs</LienInterne>.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F24439" audience="Particuliers">
+<Titre>Étudiant apprenti professeur (EAP)</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<QuestionReponse ID="F32456" audience="Particuliers">Quelles aides peut percevoir un étudiant ?</QuestionReponse>
+</Publication>

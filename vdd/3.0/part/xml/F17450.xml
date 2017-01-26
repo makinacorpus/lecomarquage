@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17450" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un salarié étranger qui s'installe en France doit-il connaître le français ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Si vous entrez en France pour occuper un emploi salarié et vous installer durablement, vous devez connaître le français ou vous engager à l'apprendre.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17450</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189812&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N107</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N107">Travail d'un étranger en France</Niveau>
+<Niveau ID="F17450" type="Fiche Question-réponse">Un salarié étranger qui s'installe en France doit-il connaître le français ?</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N107">
+<Titre>Travail d'un étranger en France</Titre>
+<Fiche ID="F2728">Demande d'autorisation de travail</Fiche>
+<Fiche ID="F2733">Renouvellement de l'autorisation</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, si vous entrez en France pour occuper un emploi salarié et vous installer durablement, vous devez connaître le français ou vous engager à l'apprendre. </Paragraphe>
+<Paragraphe> Dans le cadre de la signature de votre <LienInterne LienPublication="F17048" type="Fiche Question-réponse" audience="Particuliers">contrat d'intégration républicaine</LienInterne>, vous passez un test de connaissances orales et écrites en langue française, organisé par l'<LienInterne LienPublication="R31171" type="Acronyme">Ofii</LienInterne>.</Paragraphe>
+<Paragraphe>En fonction du résultat obtenu à ce test, vous bénéficierez  d'une  formation linguistique ou en serez dispensé.</Paragraphe>
+
+</Texte><OuSAdresser ID="R12971" type="Local personnalisé sur SP">
+<Titre>Office français de l'immigration et de l'intégration (Ofii), réseau local</Titre>
+<Complement>Pour toute information sur la formation au français dans le cadre du contrat d'intégration républicaine</Complement>
+<PivotLocal>ofii</PivotLocal>
+<RessourceWeb URL="http://www.ofii.fr/qui_sommes-nous_46/ou_nous_trouver_23.html"/>
+<Source ID="R30731">Office français de l'immigration et de l'intégration (Ofii)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189812&amp;cidTexte=LEGITEXT000006072050" ID="R34194">
+<Titre>Code du travail : articles L5221-2 à L5221-8</Titre>
+<Complement>Obligation de connaître le français pour le salarié étranger (article L5221-3)</Complement>
+</Reference>
+<Abreviation ID="R31171" type="Acronyme">
+<Titre>Ofii</Titre>
+<Texte>
+<Paragraphe>Office français de l'immigration et de l'intégration</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

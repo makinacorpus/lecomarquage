@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F17376" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Où trouver un professionnel certifié pour réaliser les diagnostics immobiliers ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>La liste des professionnels certifiés est consultable sur le site internet du ministère en charge de l'environnement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-12</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F17376</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20591</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20591">Diagnostics immobiliers</Niveau>
+<Niveau ID="F17376" type="Fiche Question-réponse">Où trouver un professionnel certifié pour réaliser les diagnostics immobiliers ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N323">Protection et sécurité de l'habitat</SousThemePere><DossierPere ID="N20591">
+<Titre>Diagnostics immobiliers</Titre>
+<Fiche ID="F16096">Diagnostic de performance énergétique</Fiche>
+<Fiche ID="F1142">Constat de risque d'exposition au plomb</Fiche>
+<Fiche ID="F742">État d'amiante</Fiche>
+<Fiche ID="F3150">État relatif à la présence de termites</Fiche>
+<Fiche ID="F17337">État de l'installation intérieure de gaz</Fiche>
+<Fiche ID="F18692">État de l'installation intérieure d'électricité</Fiche>
+<Fiche ID="F31685">État de l'installation d'assainissement non collectif</Fiche>
+<Fiche ID="F12239">État des risques naturels, miniers et technologiques</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>La liste des professionnels certifiés pour effectuer les diagnostics immobiliers est consultable sur le site internet du ministère en charge de l'environnement.</Paragraphe>
+<Paragraphe><LienExterne URL="http://diagnostiqueurs.application.developpement-durable.gouv.fr/index.action">Trouver un diagnostiquer immobilier certifié</LienExterne>
+
+</Paragraphe>
+<Paragraphe>Le client est libre de faire appel au professionnel de son choix et peut faire appel à plusieurs professionnels pour les réaliser.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les prix des diagnostics ne sont pas réglementés, les tarifs peuvent donc varier d'un professionnel à un autre pour un même diagnostic.</Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N20591" audience="Particuliers">
+<Titre>Diagnostics immobiliers</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<QuestionReponse ID="F10798" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de vente ?</QuestionReponse>
+<QuestionReponse ID="F33463" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de location ?</QuestionReponse>
+
+</Publication>

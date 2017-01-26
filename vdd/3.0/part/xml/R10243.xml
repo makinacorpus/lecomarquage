@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R10243" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration 2016 des revenus encaissés à l'étranger</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Déclaration 2016 des revenus encaissés à l'étranger - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-21</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R10243</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R10243" type="Formulaire">Déclaration 2016 des revenus encaissés à l'étranger</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11226*18</NumeroCerfa>
+<AutreNumero>2047</AutreNumero>
+<Texte><Paragraphe>Déclaration à souscrire si vous êtes domicilié en France et si vous avez encaissé des revenus hors de France métropolitaine et des DOM.</Paragraphe>
+<Paragraphe>Déclaration à joindre à la déclaration d'ensemble des revenus.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/8890">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F358" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu : déclaration annuelle</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31442" audience="Particuliers" type="Fiche d'information">
+<Titre>Impôt sur le revenu d'un Français vivant à l'étranger</Titre>
+<Dossier ID="N119">Impôt sur le revenu des Français à l'étranger</Dossier>
+</FicheLiee>
+<FicheLiee ID="F2613" audience="Particuliers" type="Fiche d'information">
+<Titre>Revenus à déclarer : revenus mobiliers</Titre>
+<Dossier ID="N247">Impôt sur le revenu : déclaration et revenus à déclarer</Dossier>
+</FicheLiee><OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Dossier ID="N247">
+<Titre>Impôt sur le revenu : déclaration et revenus à déclarer</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

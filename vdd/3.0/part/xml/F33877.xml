@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33877" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce que le règlement intérieur d'une copropriété ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le règlement intérieur ou règlement d'immeuble est un document qui peut être rédigé à l'initiative du syndic</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-05</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33877</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068256</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31339">Documents de copropriété</Niveau>
+<Niveau ID="F33877" type="Fiche Question-réponse">Qu'est-ce que le règlement intérieur d'une copropriété ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31339">
+<Titre>Documents de copropriété</Titre>
+<Fiche ID="F2589">Règlement de copropriété</Fiche>
+<Fiche ID="F2665">Carnet d'entretien de la copropriété</Fiche>
+<Fiche ID="F34051">Fiche synthétique de la copropriété</Fiche>
+<Fiche ID="F32058">Immatriculation de la copropriété</Fiche>
+<Fiche ID="F32059">Diagnostic technique de l'immeuble en copropriété</Fiche>
+<Fiche ID="F1615">Bilan énergétique d'un immeuble en copropriété (DPE et audit énergétique)</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le règlement intérieur  est un document qui peut être rédigé à l'initiative du <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic</LienInterne> dans le cadre de sa mission générale d'administration et de conservation de l'immeuble, mais rien ne l'y oblige.</Paragraphe>
+<Paragraphe>Ce document reprend et précise les conditions de jouissance des parties <LienIntra LienID="R44507" type="Définition de glossaire">privatives</LienIntra> et <LienIntra LienID="R44506" type="Définition de glossaire">communes</LienIntra> figurant au <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne>.</Paragraphe>
+<Paragraphe>Il est destiné à être affiché dans l'immeuble (généralement dans le hall) pour être porté à la connaissance :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des occupants, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des propriétaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> et des locataires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le règlement intérieur n'a pas de valeur juridique propre et n'est, par exemple, <LienIntra LienID="R16368" type="Définition de glossaire">opposable</LienIntra> au locataire ou à l'occupant que s'il correspond à une clause du règlement de copropriété.</Paragraphe>
+<Paragraphe>Les juges ont pu valider l'application d'une clause du règlement intérieur interdisant l'exploitation commerciale dans un local à usage d'habitation seulement après avoir relevé qu'elle reprenait une clause identique du règlement de copropriété. </Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le règlement intérieur ne doit pas être confondu avec le règlement de copropriété qui lui est obligatoire.</Paragraphe>
+</ANoter>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2589" audience="Particuliers">
+<Titre>Règlement de copropriété</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068256" ID="R15198">
+<Titre>Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis</Titre>
+<Complement>Article 18</Complement>
+</Reference>
+<Definition ID="R44506">
+<Titre>Parties communes d'une copropriété</Titre>
+<Texte>
+				<Paragraphe>Parties des bâtiments (couloirs, chaudière, canalisation...) et des terrains (jardins, parcs...) affectées à l'usage de tous les copropriétaires ou de plusieurs d'entre eux</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R16368">
+<Titre>Opposable</Titre>
+<Texte>
+				<Paragraphe>Qui ne peut être méconnu par les tiers, lesquels doivent en subir les effets et les respecter</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R44507">
+<Titre>Parties privatives d'une copropriété</Titre>
+<Texte>
+				<Paragraphe>Parties des bâtiments (porte d'entrée, salon, salle de bains...) et des terrains réservées à l'usage exclusif d'un copropriétaire déterminé</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F32912" audience="Particuliers">Quelles informations trouve-t-on dans le bilan énergétique d'une copropriété ?</QuestionReponse>
+<QuestionReponse ID="F31672" audience="Particuliers"> Que deviennent les documents de copropriété en cas de changement de syndic ?</QuestionReponse>
+<QuestionReponse ID="F2127" audience="Particuliers">Comment se procurer la copie d'un règlement de copropriété ?</QuestionReponse>
+</Publication>

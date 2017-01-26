@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1811" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment modifier son état civil à la suite d'un changement de nom par décret ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Après un changement de nom de famille, l'ensemble des actes d'état civil sont modifiés.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-11-08</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1811</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006420953&amp;idSectionTA=LEGISCTA000006149971&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000546000</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N151</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N151">Nom et prénom</Niveau>
+<Niveau ID="F1811" type="Fiche Question-réponse">Comment modifier son état civil à la suite d'un changement de nom par décret ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N151">
+<Titre>Nom et prénom</Titre><SousDossier ID="N151-1">
+<Titre>Nom de famille</Titre>
+<Fiche ID="F10505">Choix du nom de l'enfant à sa naissance : mère, père ou double-nom</Fiche>
+<Fiche ID="F10506">Changement du nom de l'enfant après sa naissance</Fiche>
+<Fiche ID="F1656">Changement de nom pour motif légitime</Fiche>
+</SousDossier>
+<SousDossier ID="N151-2">
+<Titre>Prénom</Titre>
+<Fiche ID="F882">Choix du prénom de l'enfant</Fiche>
+<Fiche ID="F885">Changement de prénom</Fiche>
+</SousDossier>
+<SousDossier ID="N151-3">
+<Titre>Nom d'usage</Titre>
+<Fiche ID="F868">Utilisation du nom de son mari ou de sa femme</Fiche>
+<Fiche ID="F1343">Utilisation du nom des deux parents</Fiche>
+</SousDossier>
+<SousDossier ID="N151-4">
+<Titre>Adoption</Titre>
+<Fiche ID="F2668">Nom de famille et adoption plénière</Fiche>
+<Fiche ID="F2621">Nom de famille et adoption simple</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Après un changement de <LienIntra LienID="R10114" type="Définition de glossaire">nom de famille</LienIntra> par décret, la mention du <LienInterne LienPublication="F1656" type="Fiche d'information" audience="Particuliers">changement de nom</LienInterne> sera portée en marge de vos actes d'état civil (par exemple : votre acte de naissance ou votre livret de famille).</Paragraphe>
+<Paragraphe> S'ils ont changé de nom en même temps que vous, les actes de votre époux(se) et de vos enfants seront aussi modifiés.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>Un délai minimum de 2 mois doit être respecté entre la publication du décret et la rectification des actes d'état civil. En cas d’opposition d'un tiers, la rectification de l’état civil devient possible à partir du jour où l’opposition est rejetée.</Paragraphe>
+</Attention><Paragraphe>La modification de votre état-civil est réalisée  à l'initiative du procureur de la République. Dans le cas où il n'a pas été procédé à la modification de votre état-civil, vous devez lui en faire la demande.</Paragraphe>
+<Paragraphe>Vous devez joindre à votre demande : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une copie du décret autorisant votre changement de nom ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un certificat de non-opposition ou une copie de la décision rejetant l'opposition délivrés par  le secrétariat de la section du contentieux du Conseil d'État.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R285" type="National">
+<Titre>Conseil d'État</Titre>
+<RessourceWeb URL="http://www.conseil-etat.fr/Conseil-d-Etat/Contacts-Informations-pratiques"/>
+</OuSAdresser>
+
+<Paragraphe>Par prudence, vous pouvez joindre à votre demande une copie des actes d'état-civil concernés.</Paragraphe>
+<Paragraphe>Votre demande est à adresser au procureur de la République de votre commune de naissance.</Paragraphe>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Une fois les actes mis à jour, vous pouvez demander de nouveaux titres d'identité.</Paragraphe>
+<Paragraphe>Le changement de <LienInterne LienPublication="F21089" type="Fiche d'information" audience="Particuliers">carte d'identité</LienInterne> ou de <LienInterne LienPublication="F21091" type="Fiche d'information" audience="Particuliers">passeport</LienInterne> se fait à votre initiative.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F1656" audience="Particuliers">
+<Titre>Changement de nom de famille pour motif légitime</Titre>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006420953&amp;idSectionTA=LEGISCTA000006149971&amp;cidTexte=LEGITEXT000006070721" ID="R19172">
+<Titre>Code civil : articles 60 à 61-4</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000546000" ID="R2642">
+<Titre>Décret n°94-52 du 20 janvier 1994 relatif à la procédure de changement de nom</Titre>
+</Reference>
+<Definition ID="R10114">
+<Titre>Nom de famille</Titre>
+<Texte>
+				<Paragraphe>Nom qui figure sur l'acte de naissance (appelé aussi <Expression>nom de naissance</Expression> ou <Expression>nom patronymique</Expression>)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

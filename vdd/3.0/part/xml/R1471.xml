@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1471" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de couverture maladie universelle complémentaire (CMU-C) ou d'Aide pour une complémentaire santé (ACS)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Demande de couverture maladie universelle complémentaire (CMU-C) ou d'Aide pour une complémentaire santé (ACS) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-12</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1471</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N20286">Complémentaire santé, CMU-C, ACS</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1471" type="Formulaire">Demande de couverture maladie universelle complémentaire (CMU-C) ou d'Aide pour une complémentaire santé (ACS)</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12504*05</NumeroCerfa>
+<AutreNumero>S3711g</AutreNumero>
+<Texte><Paragraphe>Permet de demander la CMU-C ou l'ACS. Vous n'avez pas de choix à faire entre la CMU-C et l'ACS. Les droits accordés dépendent du montant de vos ressources.</Paragraphe>
+<Paragraphe>Le formulaire indique   la liste des pièces justificatives à produire et les informations à renseigner concernant la composition et les ressources de votre foyer, les situations particulières liées au RSA et le choix de l'organisme complémentaire.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12504.do" format="application/force-download" poids="2.8 MB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F13375" audience="Particuliers" type="Fiche d'information">
+<Titre>Aide à l'acquisition d'une couverture maladie complémentaire (ACS)</Titre>
+<Dossier ID="N20286">Complémentaire santé, CMU-C, ACS</Dossier>
+</FicheLiee>
+<FicheLiee ID="F10027" audience="Particuliers" type="Fiche d'information">
+<Titre>Couverture maladie universelle complémentaire (CMU-C)</Titre>
+<Dossier ID="N20286">Complémentaire santé, CMU-C, ACS</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20237" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Le bénéficiaire du RSA a-t-il des droits connexes (Puma, transports...) ?</Titre>
+<Dossier ID="N19775">Revenu de solidarité active (RSA)</Dossier>
+</FicheLiee><OuSAdresser ID="R40" type="Local personnalisé sur SP">
+<Titre>Caisse primaire d'assurance maladie (CPAM)</Titre>
+<PivotLocal>cpam</PivotLocal>
+<RessourceWeb URL="http://www.ameli.fr/assures/votre-caisse/index.php"/>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</OuSAdresser>
+
+<Dossier ID="N20286">
+<Titre>Complémentaire santé, CMU-C, ACS</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

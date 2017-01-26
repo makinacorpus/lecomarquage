@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31404" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Installation ou construction d'une piscine privée</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Pour intégrer une piscine dans votre jardin, il faut respecter les règles de mitoyenneté et obtenir les autorisations parfois nécessaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-08</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31404</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188251&amp;cidTexte=LEGITEXT000006074075, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188272&amp;cidTexte=LEGITEXT000006074075, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188285&amp;cidTexte=LEGITEXT000006074075, http://questions.assemblee-nationale.fr/q14/14-28734QE.htm</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31030</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31030">Vie pratique en logement individuel (maison)</Niveau>
+<Niveau ID="F31404" type="Fiche d'information">Installation ou construction d'une piscine privée</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N31030">
+<Titre>Vie pratique en logement individuel (maison)</Titre><SousDossier ID="N31030-1">
+<Titre>Mitoyenneté (droits des voisins)</Titre>
+<Fiche ID="F3037">Bornage de terrains</Fiche>
+<Fiche ID="F76">Ouvertures (fenêtres, balcons)</Fiche>
+<Fiche ID="F2040">Droit de passage sur la propriété d'un autre (servitude de passage)</Fiche>
+<Fiche ID="F2415">Murs</Fiche>
+<Fiche ID="F614">Plantations (haies, arbres, arbustes...)</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-2">
+<Titre>Aménagements extérieurs (jardin, cour...)</Titre>
+<Fiche ID="F31404">Piscine privative</Fiche>
+<Fiche ID="F31471">Annexes extérieures</Fiche>
+<Fiche ID="F31473">Travaux extérieurs</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-3">
+<Titre>Utilisation de l'énergie renouvelable</Titre>
+<Fiche ID="F31481">Récupération de l'eau de pluie</Fiche>
+<Fiche ID="F31487">Production d'électricité solaire (toiture photovoltaïque)</Fiche>
+<Fiche ID="F31488">Production de chaleur à l'énergie solaire</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Aménagements extérieurs (jardin, cour...)</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Vous pouvez intégrer une piscine dans votre jardin sous réserve du respect des règles de mitoyenneté. Certains petits bassins peuvent être installés librement. Au-delà d'une certaine surface et en fonction des caractéristiques de la piscine, des autorisations peuvent être nécessaires.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Piscine non couverte</Titre>
+<Texte><Paragraphe>En fonction des dimensions du bassin de votre piscine, une autorisation peut être nécessaire. </Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Surface du bassin n'excédant pas 10 m²</Paragraphe>
+</Titre><Paragraphe>Il n'est pas nécessaire de demander une autorisation, sauf si la piscine est située en site protégé.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir><Paragraphe>Vous êtes tenu d'équiper votre piscine de <LienInterne LienPublication="F1722" type="Fiche d'information" audience="Particuliers">dispositifs de sécurité</LienInterne> visant à prévenir les risques de noyade.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Surface du bassin supérieure à 10 m² mais n'excédant pas 100 m²</Paragraphe>
+</Titre><Paragraphe>Une <LienInterne LienPublication="F17578" type="Fiche d'information" audience="Particuliers">déclaration préalable</LienInterne> est obligatoire pour une piscine dont la surface du bassin est supérieure à 10 m² et n'excède pas 100m².</Paragraphe>
+<Paragraphe>Celle-ci doit être réalisée au moyen du formulaire cerfa n°13703*02.</Paragraphe><ServiceEnLigne ID="R2028" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13703.do" format="application/force-download" poids="640.3 KB" numerocerfa="13703*05" type="Formulaire">
+<Titre>Déclaration préalable - Constructions et travaux non soumis à permis de construire portant sur une maison individuelle et/ou ses annexes</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de réaliser des travaux sur une maison individuelle (extension, modification de l'aspect extérieur, ravalement de façade dans des secteurs protégés ou certaines communes…), de construire une annexe à son habitation (piscine, abri de jardin, garage...) ou d'édifier une clôture.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R2116" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13409-2&amp;cerfaFormulaire=13409">Fiche d'aide pour le calcul de la surface de plancher et de la surface taxable</NoticeLiee>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir><Paragraphe>Vous êtes tenu d'équiper votre piscine de <LienInterne LienPublication="F1722" type="Fiche d'information" audience="Particuliers">dispositifs de sécurité</LienInterne> visant à prévenir les risques de noyade.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Surface du bassin supérieure à 100 m²</Paragraphe>
+</Titre><Paragraphe>Un <LienInterne LienPublication="F1986" type="Fiche d'information" audience="Particuliers">permis de construire</LienInterne> est obligatoire.</Paragraphe>
+<Paragraphe>La demande de permis de construire s'effectue au moyen du formulaire cerfa n°13406*03.</Paragraphe><ServiceEnLigne ID="R11637" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13406.do" format="application/force-download" poids="739.7 KB" numerocerfa="13406*05" type="Formulaire">
+<Titre>Demande de permis de construire pour une maison individuelle et/ou ses annexes comprenant ou non des démolitions</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet notamment de réaliser ou agrandir une maison individuelle ou ses annexes.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R18869" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice&amp;cerfaFormulaire=13410">Fiche complémentaire (si plusieurs demandeurs pour le même projet)</NoticeLiee>
+<NoticeLiee ID="R2116" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13409-2&amp;cerfaFormulaire=13409">Fiche d'aide pour le calcul de la surface de plancher et de la surface taxable</NoticeLiee>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir><Paragraphe>Vous êtes tenu d'équiper votre piscine de <LienInterne LienPublication="F1722" type="Fiche d'information" audience="Particuliers">dispositifs de sécurité</LienInterne> visant à prévenir les risques de noyade.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Piscine couverte</Titre>
+<Texte><Paragraphe>En fonction des dimensions de votre piscine, une autorisation peut être nécessaire. </Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Hauteur de l'abri inférieure à 1,80 m et surface du bassin n'excédant pas 10 m²</Paragraphe>
+</Titre><Paragraphe>Il n'est pas nécessaire de demander une autorisation. </Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir><Paragraphe>Vous êtes tenu d'équiper votre piscine de <LienInterne LienPublication="F1722" type="Fiche d'information" audience="Particuliers">dispositifs de sécurité</LienInterne> visant à prévenir les risques de noyade.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Hauteur de l'abri inférieure à 1,80 m et surface du bassin n'excédant pas 100 m²</Paragraphe>
+</Titre><Paragraphe>Une <LienInterne LienPublication="F17578" type="Fiche d'information" audience="Particuliers">déclaration préalable</LienInterne> est obligatoire pour une piscine dont la surface du bassin est supérieure à 10 m² et n'excède pas 100m².</Paragraphe>
+<Paragraphe>Celle-ci doit être réalisée au moyen du formulaire cerfa n°13703*02.</Paragraphe><ServiceEnLigne ID="R2028" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13703.do" format="application/force-download" poids="640.3 KB" numerocerfa="13703*05" type="Formulaire">
+<Titre>Déclaration préalable - Constructions et travaux non soumis à permis de construire portant sur une maison individuelle et/ou ses annexes</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de réaliser des travaux sur une maison individuelle (extension, modification de l'aspect extérieur, ravalement de façade dans des secteurs protégés ou certaines communes…), de construire une annexe à son habitation (piscine, abri de jardin, garage...) ou d'édifier une clôture.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R2116" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13409-2&amp;cerfaFormulaire=13409">Fiche d'aide pour le calcul de la surface de plancher et de la surface taxable</NoticeLiee>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir><Paragraphe>Vous êtes tenu d'équiper votre piscine de <LienInterne LienPublication="F1722" type="Fiche d'information" audience="Particuliers">dispositifs de sécurité</LienInterne> visant à prévenir les risques de noyade.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Hauteur de l'abri au moins égale à 1,80 m</Paragraphe>
+</Titre><Paragraphe>Un <LienInterne LienPublication="F1986" type="Fiche d'information" audience="Particuliers">permis de construire</LienInterne> est obligatoire.</Paragraphe>
+<Paragraphe>La demande de permis de construire s'effectue au moyen du formulaire cerfa n°13406*03.</Paragraphe><ServiceEnLigne ID="R11637" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13406.do" format="application/force-download" poids="739.7 KB" numerocerfa="13406*05" type="Formulaire">
+<Titre>Demande de permis de construire pour une maison individuelle et/ou ses annexes comprenant ou non des démolitions</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet notamment de réaliser ou agrandir une maison individuelle ou ses annexes.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R18869" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice&amp;cerfaFormulaire=13410">Fiche complémentaire (si plusieurs demandeurs pour le même projet)</NoticeLiee>
+<NoticeLiee ID="R2116" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13409-2&amp;cerfaFormulaire=13409">Fiche d'aide pour le calcul de la surface de plancher et de la surface taxable</NoticeLiee>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir><Paragraphe>Vous êtes tenu d'équiper votre piscine de <LienInterne LienPublication="F1722" type="Fiche d'information" audience="Particuliers">dispositifs de sécurité</LienInterne> visant à prévenir les risques de noyade.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Piscine hors-sol</Titre>
+<Texte><Paragraphe>Selon que la piscine hors-sol (gonflage ou en kit par exemple) est installée provisoirement ou non, une autorisation peut être nécessaire.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Installée 3 mois maximum dans l'année (15 jours en secteur protégé)</Paragraphe>
+</Titre><Paragraphe>Il n'est pas nécessaire de demander une autorisation.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Installée plus de 3 mois dans l'année (plus de 15 jours en secteur protégé)</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Surface du bassin n'excédant pas 10 m²</Paragraphe>
+</Titre><Paragraphe>Il n'est pas nécessaire de demander une autorisation. </Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Surface du bassin supérieure à 10 m² mais n'excédant pas 100 m²</Paragraphe>
+</Titre><Paragraphe>Une <LienInterne LienPublication="F17578" type="Fiche d'information" audience="Particuliers">déclaration préalable</LienInterne> est obligatoire pour une piscine dont la surface du bassin est supérieure à 10 m² et n'excède pas 100m².</Paragraphe>
+<Paragraphe>Celle-ci doit être réalisée au moyen du formulaire cerfa n°13703*02.</Paragraphe><ServiceEnLigne ID="R2028" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13703.do" format="application/force-download" poids="640.3 KB" numerocerfa="13703*05" type="Formulaire">
+<Titre>Déclaration préalable - Constructions et travaux non soumis à permis de construire portant sur une maison individuelle et/ou ses annexes</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de réaliser des travaux sur une maison individuelle (extension, modification de l'aspect extérieur, ravalement de façade dans des secteurs protégés ou certaines communes…), de construire une annexe à son habitation (piscine, abri de jardin, garage...) ou d'édifier une clôture.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R2116" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13409-2&amp;cerfaFormulaire=13409">Fiche d'aide pour le calcul de la surface de plancher et de la surface taxable</NoticeLiee>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Surface du bassin supérieure à 100 m²</Paragraphe>
+</Titre><Paragraphe>Un <LienInterne LienPublication="F1986" type="Fiche d'information" audience="Particuliers">permis de construire</LienInterne> est obligatoire.</Paragraphe>
+<Paragraphe>La demande de permis de construire s'effectue au moyen du formulaire cerfa n°13406*03.</Paragraphe><ServiceEnLigne ID="R11637" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13406.do" format="application/force-download" poids="739.7 KB" numerocerfa="13406*05" type="Formulaire">
+<Titre>Demande de permis de construire pour une maison individuelle et/ou ses annexes comprenant ou non des démolitions</Titre>
+<Source ID="R30659">Ministère en charge de l'urbanisme</Source>
+<Introduction>
+<Texte><Paragraphe>Permet notamment de réaliser ou agrandir une maison individuelle ou ses annexes.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R18122" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51434%2306&amp;cerfaFormulaire=88065*05" numerocerfa="51434#06">Notice explicative pour les demandes de permis de construire, d'aménager, de démolir et déclaration préalable</NoticeLiee>
+<NoticeLiee ID="R18869" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice&amp;cerfaFormulaire=13410">Fiche complémentaire (si plusieurs demandeurs pour le même projet)</NoticeLiee>
+<NoticeLiee ID="R2116" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=13409-2&amp;cerfaFormulaire=13409">Fiche d'aide pour le calcul de la surface de plancher et de la surface taxable</NoticeLiee>
+</ServiceEnLigne>
+
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les règles locales d'urbanisme (plan local d'urbanisme [PLU] ou carte communale) peuvent imposer des restrictions spécifiques. Pensez à consulter le service de l'urbanisme de votre mairie.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F1722" audience="Particuliers">
+<Titre>Installation d'un dispositif de sécurité des piscines privées </Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour s'informer sur les règles locales d'urbanisme en dehors de Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour s'informer sur les règles locales d'urbanisme à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R17594" type="Local personnalisable">
+<Titre>Conseil d'architecture, d'urbanisme et d'environnement (CAUE)</Titre>
+<Complement>Pour obtenir des conseils et des informations gratuites</Complement>
+<PivotLocal>caue</PivotLocal>
+<RessourceWeb URL="http://fncaue.fr/"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188251&amp;cidTexte=LEGITEXT000006074075" ID="R32251">
+<Titre>Code de l'urbanisme : articles *R421-2 à R*421-8-2</Titre>
+<Complement>Constructions nouvelles dispensées d'autorisation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188272&amp;cidTexte=LEGITEXT000006074075" ID="R32252">
+<Titre>Code de l'urbanisme : articles R421-9 à R*421-12</Titre>
+<Complement>Constructions nouvelles soumises à déclaration préalable</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006188285&amp;cidTexte=LEGITEXT000006074075" ID="R32253">
+<Titre>Code de l'urbanisme : article *R421-1</Titre>
+<Complement>Constructions nouvelles soumises à permis de construire</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://questions.assemblee-nationale.fr/q14/14-28734QE.htm" ID="R34174">
+<Titre>Réponse ministérielle du 24 septembre 2013 relative aux autorisation d'urbanismes pour l'installation d'une piscine hors sol</Titre>
+<Complement>Piscines hors-sol (plus de 3 mois)</Complement>
+</Reference>
+<QuestionReponse ID="F31475" audience="Particuliers">Peut-on installer un jacuzzi dans son jardin ?</QuestionReponse>
+<QuestionReponse ID="F2799" audience="Particuliers">Les impôts locaux augmentent-ils en cas d'ajout de construction (piscine...) ?</QuestionReponse>
+</Publication>

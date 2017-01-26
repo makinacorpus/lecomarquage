@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11418" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Expulsion d'un étranger : recours (en abrogation ou en annulation)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Si vous faites l'objet d'une mesure d'expulsion, vous pouvez saisir le juge administratif d'un recours en annulation. Vous pouvez également demander directement à l'administration d'abroger sa décision. La mesure sera également réexaminée automatiquement tous les 5 ans par l'administration.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-22</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11418</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147779&amp;cidTexte=LEGITEXT000006070158, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147843&amp;cidTexte=LEGITEXT000006070158</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N109</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N109">Éloignement des étrangers</Niveau>
+<Niveau ID="F11418" type="Fiche d'information">Expulsion d'un étranger : recours (en abrogation ou en annulation)</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N109">
+<Titre>Éloignement des étrangers</Titre><SousDossier ID="N109-1">
+<Titre>Obligation de quitter la France (OQF)</Titre>
+<Fiche ID="F18362">Décision</Fiche>
+<Fiche ID="F18366">Recours</Fiche>
+</SousDossier>
+<SousDossier ID="N109-2">
+<Titre>Expulsion</Titre>
+<Fiche ID="F11891">Décision</Fiche>
+<Fiche ID="F11418">Recours</Fiche>
+<Fiche ID="F11417">Exécution de la mesure</Fiche>
+</SousDossier>
+<SousDossier ID="N109-3">
+<Titre>Autres mesures d'éloignement</Titre>
+<Fiche ID="F11954">Reconduite à la frontière</Fiche>
+<Fiche ID="F2782">Interdiction administrative de retour en France</Fiche>
+<Fiche ID="F2784">Interdiction judiciaire du territoire français</Fiche>
+<Fiche ID="F2650">Reconduite vers un autre pays européen</Fiche>
+<Fiche ID="F34027">Reconduite demandée par un pays européen</Fiche>
+</SousDossier>
+<SousDossier ID="N109-4">
+<Titre>Surveillance pendant la procédure</Titre>
+<Fiche ID="F20127">Assignation à résidence</Fiche>
+<Fiche ID="F2780">Centre de rétention</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Expulsion</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si vous faites l'objet d'une mesure d'expulsion, vous pouvez saisir le juge administratif d'un recours en annulation. Vous pouvez également demander directement à l'administration d'abroger sa décision. La mesure sera également réexaminée automatiquement tous les 5 ans par l'administration.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Vous êtes en France</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Recours en annulation devant le tribunal administratif</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Aide d'un avocat</Paragraphe>
+</Titre><Paragraphe>Vous pouvez présenter seul votre recours ou vous faire assister d'un avocat.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez bénéficier, sous certaines conditions, de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle.</LienInterne>
+</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délai</Paragraphe>
+</Titre><Paragraphe>Vous devez déposer votre recours  dans un <MiseEnEvidence>délai maximum de 2 mois</MiseEnEvidence> après la <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> de l'arrêté d'expulsion.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Lieu de dépôt</Paragraphe>
+</Titre><Paragraphe>Le lieu de dépôt du recours dépend de votre situation.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>La mesure a été prise par le préfet</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de votre lieu de résidence ou d'emprisonnement.</Paragraphe>
+<OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La mesure a été prise par le ministre de l'intérieur</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de Paris.</Paragraphe>
+<OuSAdresser ID="R38689" type="Centre de contact">
+<Titre>Tribunal administratif de Paris</Titre>
+<RessourceWeb URL="http://paris.tribunal-administratif.fr/Informations-pratiques/Acces-et-coordonnees"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Effets du recours et appel</Paragraphe>
+</Titre><Paragraphe>Le recours en annulation <MiseEnEvidence>n'est pas suspensif</MiseEnEvidence> et ne vous autorise pas  à rester en France. La mesure peut donc être <LienInterne LienPublication="F11417" type="Fiche d'information" audience="Particuliers">exécutée</LienInterne>.</Paragraphe>
+<Paragraphe>En cas de rejet de votre recours par le tribunal, vous pouvez faire un appel devant la <LienInterne LienPublication="F2494" type="Fiche d'information" audience="Particuliers">cour administrative d'appel</LienInterne>.</Paragraphe>
+<Paragraphe>Vous devez  déposer votre appel dans un délai maximum de<MiseEnEvidence> 2 mois</MiseEnEvidence> suivant la notification du jugement.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recours en abrogation auprès de l'administration</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><Paragraphe>Vous pouvez aussi demander l'abrogation de la mesure d'expulsion qui vous frappe.  </Paragraphe>
+<Paragraphe>Et ce, même si vous avez déjà déposé un recours devant le tribunal administratif et qu'il a échoué.</Paragraphe>
+<Paragraphe>Vous devez adresser une demande écrite à l'autorité qui a prononcé la mesure.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délai</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes en liberté</Paragraphe>
+</Titre><Paragraphe>Vous devez déposer votre recours  dans un <MiseEnEvidence>délai maximum de 2 mois</MiseEnEvidence> suivant la <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> de l'arrêté d'expulsion.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes en prison</Paragraphe>
+</Titre><Paragraphe>Vous n'avez pas de délai maximum.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes assigné à résidence</Paragraphe>
+</Titre><Paragraphe>Vous n'avez pas de délai maximum.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous devez adresser une demande écrite à l'autorité qui a prononcé la mesure.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Mesure prise par le préfet</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R42203" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Service des titres de séjour</Titre>
+<PivotLocal>paris_ppp_titre_sejour</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour/Nous-contacter-Titre-de-sejour"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mesure prise par le ministre de l'intérieur</Paragraphe>
+</Titre><OuSAdresser ID="R10024" type="National">
+<Titre>Ministère en charge de l'intérieur</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172232"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><Paragraphe>L'autorité décide  seule, vous ne serez pas entendu.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision et effet</Paragraphe>
+</Titre><Paragraphe>L'administration peut ou nous vous <LienIntra LienID="R14732" type="Définition de glossaire">notifier</LienIntra> sa réponse.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'abrogation est acceptée</Paragraphe>
+</Titre><Paragraphe>Si votre arrêté d'expulsion est abrogé, vous ne serez plus expulsé de force. Vous devez cependant obtenir un <LienInterne LienPublication="F15889" type="Fiche Question-réponse" audience="Particuliers">titre de séjour</LienInterne> pour rester durablement en France.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'abrogation est refusée</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>La décision vient du préfet</Paragraphe>
+</Titre><Paragraphe>Vous serez <LienInterne LienPublication="F11417" type="Fiche d'information" audience="Particuliers">expulsé</LienInterne>. Vous pouvez faire un recours en annulation. Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif du département du préfet concerné.</Paragraphe>
+<OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La décision vient du ministre de l'intérieur</Paragraphe>
+</Titre><Paragraphe>Vous serez <LienInterne LienPublication="F11417" type="Fiche d'information" audience="Particuliers">expulsé</LienInterne>.  Vous pouvez faire un recours en annulation. Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de Paris.</Paragraphe>
+<OuSAdresser ID="R38689" type="Centre de contact">
+<Titre>Tribunal administratif de Paris</Titre>
+<RessourceWeb URL="http://paris.tribunal-administratif.fr/Informations-pratiques/Acces-et-coordonnees"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'avez reçu aucune réponse</Paragraphe>
+</Titre><Paragraphe>Si l'administration n'a pas répondu dans un délai de 4 mois, votre demande d'abrogation est refusée et l'expulsion est maintenue. Vous serez <LienInterne LienPublication="F11417" type="Fiche d'information" audience="Particuliers">expulsé</LienInterne>. </Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réexamen automatique de la mesure d'expulsion</Paragraphe>
+</Titre><Paragraphe>L'administration doit réexaminer systématiquement tous les 5 ans votre arrêté d'expulsion, même si vous êtes toujours en France. L'administration doit le faire d'elle-même sans démarche de votre part.  Et ce, même si vous avez déjà effectué des recours en abrogation ou en annulation.</Paragraphe>
+<Paragraphe>Ce réexamen tient compte de l'évolution de la menace pour l'ordre public que vous représentez, des changements intervenus dans votre situation personnelle et de vos garanties de réinsertion professionnelle ou sociale.</Paragraphe>
+<Paragraphe>Si vous ne recevez pas de décision explicite d'abrogation, c'est que cette mesure d'expulsion est maintenue. C'est un refus implicite. Le refus peut être également explicite, vous recevez alors une décision indiquant clairement que l'administration n'abrogera pas votre mesure d'expulsion.</Paragraphe>
+<Paragraphe>Vous pouvez faire un recours en annulation contre un refus d'abrogation explicite ou implicite. </Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'expulsion a été décidée par le préfet</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif du département du préfet concerné.</Paragraphe>
+<OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'expulsion a été décidée par le ministre de l'intérieur</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de Paris.</Paragraphe>
+<OuSAdresser ID="R38689" type="Centre de contact">
+<Titre>Tribunal administratif de Paris</Titre>
+<RessourceWeb URL="http://paris.tribunal-administratif.fr/Informations-pratiques/Acces-et-coordonnees"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Vous êtes à l'étranger</Titre>
+<Texte><Paragraphe>Vous pouvez faire un recours même si vous êtes à l'étranger.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Recours en annulation devant le tribunal administratif</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Aide d'un avocat</Paragraphe>
+</Titre><Paragraphe>Vous pouvez présenter seul votre recours ou vous faire assister d'un avocat en France.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez bénéficier, sous certaines conditions, de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle.</LienInterne>
+</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délai</Paragraphe>
+</Titre><Paragraphe>Vous disposez d'un délai de <MiseEnEvidence>4 mois</MiseEnEvidence> après la <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> de l'arrêté d'expulsion.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Lieu de dépôt</Paragraphe>
+</Titre><Paragraphe>Le lieu de dépôt du recours dépend de votre situation.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>La mesure a été prise par le préfet</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de votre ancien lieu de résidence ou d'emprisonnement.</Paragraphe>
+<OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La mesure a été prise par le ministre de l'intérieur</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de Paris.</Paragraphe>
+<OuSAdresser ID="R38689" type="Centre de contact">
+<Titre>Tribunal administratif de Paris</Titre>
+<RessourceWeb URL="http://paris.tribunal-administratif.fr/Informations-pratiques/Acces-et-coordonnees"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Effets du recours et appel</Paragraphe>
+</Titre><Paragraphe>En cas de rejet de votre recours par le tribunal, vous pouvez faire un appel devant la <LienInterne LienPublication="F2494" type="Fiche d'information" audience="Particuliers">cour administrative d'appel</LienInterne>.</Paragraphe>
+<Paragraphe>Vous devez  déposer votre appel dans un délai maximum de<MiseEnEvidence> 2 mois</MiseEnEvidence> suivant la notification du jugement.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recours en abrogation auprès de l'administration</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><Paragraphe>Vous pouvez aussi demander l'abrogation de la mesure d'expulsion qui vous frappe.  </Paragraphe>
+<Paragraphe>Et ce, même si vous avez déjà déposé un recours devant le tribunal administratif et qu'il a échoué.</Paragraphe>
+<Paragraphe>Vous devez adresser une demande écrite à l'autorité qui a prononcé la mesure.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délai</Paragraphe>
+</Titre><Paragraphe>Vous n'avez pas de délai maximum. Vous pouvez faire votre démarche à n'importe quel moment.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous devez adresser une demande écrite à l'autorité qui a prononcé la mesure.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Mesure prononcée par un préfet de département</Paragraphe>
+</Titre><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mesure prononcée par le préfet de police de Paris</Paragraphe>
+</Titre><OuSAdresser ID="R42203" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Service des titres de séjour</Titre>
+<PivotLocal>paris_ppp_titre_sejour</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour/Nous-contacter-Titre-de-sejour"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mesure prononcée par le ministre de l'intérieur</Paragraphe>
+</Titre><OuSAdresser ID="R10024" type="National">
+<Titre>Ministère en charge de l'intérieur</Titre>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172232"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><Paragraphe>L'administration décide  seule.</Paragraphe>
+<Paragraphe>Cependant, lorsque vous déposez votre demande plus de 5 ans après votre expulsion, la commission d'expulsion (Comex) est obligatoirement saisie par l'autorité de la mesure. </Paragraphe>
+<Paragraphe>Vous ne pouvez pas être présent en personne vu que vous ne pouvez pas revenir en France. Mais vous pouvez vous y faire représenter par un avocat. </Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision et effet</Paragraphe>
+</Titre><Paragraphe>L'administration peut ou nous vous <LienIntra LienID="R14732" type="Définition de glossaire">notifier</LienIntra> sa réponse.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'abrogation est acceptée</Paragraphe>
+</Titre><Paragraphe>Si votre arrêté d'expulsion est abrogé, vous pouvez demander à revenir en France. Vous devez déposer une demande de visa et remplir les conditions pour vous le voir délivrer. </Paragraphe>
+<Paragraphe>Si vous souhaitez demeurer en France, vous devrez obtenir une carte de séjour.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'abrogation est refusée</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>La décision vient du préfet</Paragraphe>
+</Titre><Paragraphe>Vous ne pouvez pas revenir en France. Vous pouvez faire un recours en annulation. Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif du département du préfet concerné.</Paragraphe>
+<OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>La décision vient du ministre de l'intérieur</Paragraphe>
+</Titre><Paragraphe>Vous ne pouvez pas revenir en France. Vous pouvez faire un recours en annulation. Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de Paris.</Paragraphe>
+<OuSAdresser ID="R38689" type="Centre de contact">
+<Titre>Tribunal administratif de Paris</Titre>
+<RessourceWeb URL="http://paris.tribunal-administratif.fr/Informations-pratiques/Acces-et-coordonnees"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous n'avez reçu aucune réponse</Paragraphe>
+</Titre><Paragraphe>Si l'administration n'a pas répondu dans un délai de 4 mois, votre demande d'abrogation est refusée et l'expulsion est maintenue. Vous ne pouvez pas revenir en France.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réexamen automatique de la mesure d'expulsion</Paragraphe>
+</Titre><Paragraphe>L'administration doit réexaminer systématiquement tous les 5 ans votre arrêté d'expulsion. L'administration doit le faire d'elle-même sans démarche de votre part. Et ce, même si vous avez déjà effectué des recours en abrogation ou en annulation.</Paragraphe>
+<Paragraphe>Ce réexamen tient compte de l'évolution de la menace pour l'ordre public que vous représentez, des changements intervenus dans votre situation personnelle et de vos garanties de réinsertion professionnelle ou sociale.</Paragraphe>
+<Paragraphe>Si vous ne recevez pas de décision explicite d'abrogation, c'est que cette mesure d'expulsion est maintenue. C'est un refus implicite. Le refus peut être également explicite, vous recevez alors une décision indiquant clairement que l'administration n'abrogera pas votre mesure d'expulsion.</Paragraphe>
+<Paragraphe>Vous pouvez faire un recours en annulation contre un refus d'abrogation explicite ou implicite.  Pour cela, vous devez saisir le tribunal administratif.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>L'expulsion a été décidée par le préfet</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif du département du préfet concerné.</Paragraphe>
+<OuSAdresser ID="R27" type="Local personnalisable">
+<Titre>Tribunal administratif</Titre>
+<PivotLocal>ta</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-administratifs-21776.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>L'expulsion a été décidée par le ministre de l'intérieur</Paragraphe>
+</Titre><Paragraphe>Vous devez <LienInterne LienPublication="F2026" type="Fiche d'information" audience="Particuliers">déposer votre recours</LienInterne>  devant le tribunal administratif de Paris.</Paragraphe>
+<OuSAdresser ID="R38689" type="Centre de contact">
+<Titre>Tribunal administratif de Paris</Titre>
+<RessourceWeb URL="http://paris.tribunal-administratif.fr/Informations-pratiques/Acces-et-coordonnees"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<Complement>Pour obtenir des conseils</Complement>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147779&amp;cidTexte=LEGITEXT000006070158" ID="R34165">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : articles L524-1 à L524-4</Titre>
+<Complement>Abrogation des arrêtés d'expulsion</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006147843&amp;cidTexte=LEGITEXT000006070158" ID="R34166">
+<Titre>Code de l'entrée et du séjour des étrangers et du droit d'asile : articles R524-1 à R524-2</Titre>
+<Complement>Rejet d'une demande d'abrogation</Complement>
+</Reference>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

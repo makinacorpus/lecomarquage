@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33430" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Déclaration de nationalité française par un ascendant de Français</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Si vous êtes un étranger de plus de 65 ans, ascendant direct de Français et que vous vivez en France depuis au moins 25 ans, vous pouvez faire une déclaration de nationalité française.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-11</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33430</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165458&amp;cidTexte=LEGITEXT000006070721, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000026284360&amp;cidTexte=LEGITEXT000006069577, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000699753</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N111</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N111">Acquisition de la nationalité française</Niveau>
+<Niveau ID="F33430" type="Fiche d'information">Déclaration de nationalité française par un ascendant de Français</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N111">
+<Titre>Acquisition de la nationalité française</Titre><SousDossier ID="N111-1">
+<Titre>Nationalité française par déclaration</Titre>
+<Fiche ID="F2726">Par mariage</Fiche>
+<Fiche ID="F33430">Par un ascendant de Français</Fiche>
+<Fiche ID="F33800">Par un frère ou une sœur de Français</Fiche>
+</SousDossier>
+<SousDossier ID="N111-2">
+<Titre>Nationalité française par naturalisation</Titre>
+<Fiche ID="F2213">Conditions</Fiche>
+<Fiche ID="F15832">Demande et réponse de l'administration</Fiche>
+</SousDossier>
+<SousDossier ID="N111-3">
+<Titre>Nationalité française d'un enfant</Titre>
+<Fiche ID="F295">Enfant né en France de parents étrangers</Fiche>
+<Fiche ID="F3070">Enfant adopté</Fiche>
+<Fiche ID="F31919">Enfant recueilli</Fiche>
+</SousDossier>
+<SousDossier ID="N111-4">
+<Titre>Réintégration dans la nationalité française</Titre>
+<Fiche ID="F3071">Par déclaration</Fiche>
+<Fiche ID="F2214">Par décret</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Nationalité française par déclaration</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si vous êtes un étranger de plus de <Valeur>65</Valeur> ans, ascendant direct de Français et que vous vivez en France depuis au moins 25 ans, vous pouvez faire une déclaration de nationalité française.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions à remplir</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir faire une déclaration de nationalité française en tant qu'ascendant de Français, il faut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avoir  plus de 65 ans ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>résider en France de manière régulière et habituelle depuis au moins 25 ans ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>être l'ascendant direct (parent ou grand-parent) d'un Français.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Ces conditions  s'apprécient à la date de la souscription de la déclaration. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où déposer la déclaration ?</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>Selon les cas, vous devez déposer le dossier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit à la plate-forme régionale de naturalisation de votre département s'il en existe une,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit à la plate-forme régionale de naturalisation d'un département limitrophe s'il n'en existe pas dans votre département.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il convient de contacter votre préfecture (ou de consulter son site internet) pour connaître les modalités de dépôt du dossier dans votre département.</Paragraphe>
+<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R42217" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Bureau des naturalisations</Titre>
+<PivotLocal>paris_ppp_naturalisation-75104-01</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_naturalisation-75104-01"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À l'étranger</Paragraphe>
+</Titre><OuSAdresser ID="R2750" type="Local personnalisable">
+<Titre>Ambassade ou consulat français à l'étranger</Titre>
+<PivotLocal>ambassade_france_etranger</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-maedi/ambassades-et-consulats-francais-a-l-etranger/"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Documents à fournir</Paragraphe>
+</Titre><Paragraphe>Pour faire votre déclaration, vous devez utiliser le <LienInterne LienPublication="R44563" type="Formulaire" audience="Particuliers">formulaire de souscription</LienInterne> que vous devez remplir et signer.</Paragraphe>
+
+						<Paragraphe>Vous devez fournir à l'appui de votre demande de souscription les documents suivants :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Copie intégrale de votre acte de naissance</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Documents justifiant de votre résidence en France à la date de souscription de votre déclaration</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Documents prouvant la  résidence habituelle en France pendant les <Valeur>25</Valeur> ans qui ont précédé la souscription de la déclaration</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Copie intégrale de l'acte de naissance de votre descendant  français et, le cas échéant, tout acte d'état civil ou jugement d'adoption justifiant de la chaîne de filiation avec ce descendant ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Certificat de nationalité française, actes de l'état civil ou tous autres documents émanant des autorités françaises de nature à établir que votre descendant est  français au jour de la souscription de la déclaration ;</Paragraphe>
+</Item>
+</Liste>
+
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>Si vous êtes marié ou divorcé :  copie intégrale de votre ou de vos actes de mariage ainsi que les pièces de nature à justifier la dissolution des unions antérieures ;</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Si vous avez des enfants mineurs qui résident avec vous de manière habituelle ou alternativement dans le cas de séparation ou de divorce :  copie intégrale de leurs actes de naissance + pièces de nature à établir cette résidence</Paragraphe>
+							</Item>
+						</Liste>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>La déclaration d'acquisition de la nationalité française  est  soumise à un droit de timbre de <Valeur>55 €</Valeur>. Cette taxe se règle au moyen d'un <LienInterne LienPublication="F32952" type="Fiche Question-réponse" audience="Particuliers">timbre fiscal</LienInterne> ordinaire.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décision de l'administration</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Instruction de votre demande</Paragraphe>
+</Titre><Paragraphe>Dès la souscription de votre déclaration, les services préfectoraux qui l'ont reçue  procèdent à une enquête.</Paragraphe>
+<Paragraphe>Ils vous convoquent à un entretien destiné à apprécier s'il y a lieu de s'opposer à l'acquisition de la nationalité française pour indignité ou défaut d'assimilation autre que linguistique.</Paragraphe>
+<Paragraphe>Dans un délai de 6 mois, votre dossier est transmis avec l'avis du préfet au ministère chargé des naturalisations. Ce dernier peut procéder à toute enquête complémentaire.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision favorable</Paragraphe>
+</Titre><Paragraphe>Si vous remplissez les conditions, et si le gouvernement français ne s'y oppose pas, le ministre en charge de l'immigration enregistre votre déclaration de nationalité.</Paragraphe>
+<Paragraphe>Vous devenez alors français à la date à laquelle vous avez souscrit votre déclaration, c'est-à-dire la date de réception de votre dossier par l'autorité administrative.</Paragraphe>
+<Paragraphe>Une copie de votre déclaration, portant mention de l'enregistrement, vous est remise par la préfecture de votre domicile (ou par le consulat si vous résidez à l'étranger).</Paragraphe>
+<Paragraphe>Cette copie doit être précieusement conservée. Elle est une preuve de la nationalité et sert à établir le <LienInterne LienPublication="F1051" type="Fiche d'information" audience="Particuliers">certificat de nationalité française</LienInterne> et la carte nationale d'identité.</Paragraphe>
+<Paragraphe>Vous devenez alors français à la date à laquelle vous avez souscrit votre déclaration, c'est-à-dire la date de réception de votre dossier par l'autorité administrative.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Refus d'enregistrement</Paragraphe>
+</Titre><Paragraphe>Si l'une des conditions  n'est pas remplie, le ministre en charge de l'immigration refuse l'enregistrement de votre déclaration dans un délai d'un an.</Paragraphe>
+<Paragraphe>Il vous notifie sa décision motivée et vous disposez d'un délai de 6 mois pour la contester devant le tribunal de grande instance territorialement compétent.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Opposition du gouvernement</Paragraphe>
+</Titre><Paragraphe>Le gouvernement français peut s'opposer, par décret en Conseil d'État, à l'acquisition de la nationalité française pour indignité ou défaut d'assimilation, autre que linguistique, dans le délai de 2 ans à compter :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit de la date de délivrance du récépissé de déclaration ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit du jour où la décision judiciaire admettant la régularité de la déclaration est passée en <LienIntra LienID="R15859" type="Définition de glossaire">force de chose jugée</LienIntra>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas d'opposition du gouvernement, vous êtes considéré n'avoir jamais acquis la nationalité française.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165458&amp;cidTexte=LEGITEXT000006070721" ID="R42805">
+<Titre>Code civil : articles 21-12 à 21-14</Titre>
+<Complement>Acquisition de la nationalité française par déclaration de nationalité</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000026284360&amp;cidTexte=LEGITEXT000006069577" ID="R46205">
+<Titre>Code général des impôts : articles 958 et 959</Titre>
+<Complement>Droit de timbre</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000699753" ID="R12851">
+<Titre>Décret n°93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française</Titre>
+</Reference>
+<ServiceEnLigne ID="R44563" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15561.do" format="application/pdf" poids="294.8 KB" numerocerfa="15561*01" type="Formulaire">
+<Titre>Déclaration de nationalité française (ascendant de Français)</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R44753" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52101%2301&amp;cerfaFormulaire=15561*01" numerocerfa="52101#01" format="application/pdf" poids="415.4 KB">Notice de demande de nationalité française (ascendant de Français)</NoticeLiee>
+</ServiceEnLigne>
+<Definition ID="R15859">
+<Titre>Jugement passé en force de chose jugée</Titre>
+<Texte>
+				<Paragraphe>Jugement qui n'est pas susceptible de recours, soit parce que les recours ont été épuisés, soit que les délais sont expirés</Paragraphe>
+			</Texte>
+</Definition>
+
+
+</Publication>

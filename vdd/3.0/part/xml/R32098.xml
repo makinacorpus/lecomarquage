@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R32098" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de disponibilité d'un fonctionnaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Demande de disponibilité d'un fonctionnaire - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-14</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R32098</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N31057">Mobilité dans la fonction publique</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R32098" type="Modèle de document">Demande de disponibilité d'un fonctionnaire</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>
+<Variable>Prénom Nom</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Adresse personnelle</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Service d'affectation</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Grade</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Ville</Variable>, le <Variable>date</Variable>
+</Paragraphe>
+<Paragraphe>À l'attention de <Variable>autorité ayant le pouvoir de nomination</Variable>
+</Paragraphe>
+<Paragraphe>Objet : demande de disponibilité</Paragraphe>
+<Paragraphe>
+<Variable>Madame</Variable> / <Variable>Monsieur</Variable> / <Variable>Qualité</Variable>,</Paragraphe>
+<Paragraphe>J'ai l'honneur de solliciter ma mise en disponibilité pour <Variable>motif</Variable> à compter du <Variable>date souhaitée de mise en disponibilité</Variable> pour  <Variable>durée souhaitée</Variable>.</Paragraphe>
+<Paragraphe>Je vous prie d'agréer, <Variable>Madame</Variable> / <Variable>Monsieur</Variable> / <Variable>Qualité</Variable>, l'expression de mes salutations distinguées.</Paragraphe>
+<Paragraphe>
+<Variable>Signature</Variable>
+</Paragraphe>
+<Paragraphe>Pièce jointe (sauf en cas de disponibilité pour convenances personnelles) : <Variable>justificatif du motif pour lequel la disponibilité est demandée</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F544" audience="Particuliers" type="Fiche d'information">
+<Titre>Disponibilité dans la fonction publique</Titre>
+<Dossier ID="N31057">Mobilité dans la fonction publique</Dossier>
+</FicheLiee>
+<FicheLiee ID="F12413" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelles sont les positions administratives dans la fonction publique ?</Titre>
+<Dossier ID="N31057">Mobilité dans la fonction publique</Dossier>
+</FicheLiee>
+<FicheLiee ID="F101" audience="Particuliers" type="Fiche d'information">
+<Titre>Situation du fonctionnaire en disponibilité</Titre>
+<Dossier ID="N31057">Mobilité dans la fonction publique</Dossier>
+</FicheLiee>
+<Dossier ID="N31057">
+<Titre>Mobilité dans la fonction publique</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

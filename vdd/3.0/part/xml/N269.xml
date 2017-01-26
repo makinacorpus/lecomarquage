@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N269" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Procès civil</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Procès civil : Saisine des tribunaux civils, Déroulement d'une affaire, Mesures prononcées par le tribunal</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-01-21</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N269</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19807</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N269" type="Dossier">Procès civil</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere>
+<SousDossier ID="N269-1">
+<Titre>Saisine des tribunaux civils</Titre><Fiche ID="F1785">Litige de moins de 4000 € - Juge de proximité</Fiche>
+<Fiche ID="F1783">Entre 4000 € et 10 000 € - Tribunal d'instance (TI)</Fiche>
+<Fiche ID="F20851">Plus de 10 000 € - Tribunal de grande instance (TGI)</Fiche>
+</SousDossier>
+<SousDossier ID="N269-2">
+<Titre>Déroulement d'une affaire</Titre><Fiche ID="F20852">Devant le juge de proximité</Fiche>
+<Fiche ID="F1789">Devant le tribunal d'instance</Fiche>
+<Fiche ID="F1791">Devant le tribunal de grande instance (TGI)</Fiche>
+<Fiche ID="F1792">Devant le tribunal de commerce</Fiche>
+<Fiche ID="F1793">Devant le tribunal paritaire des baux ruraux</Fiche>
+<Fiche ID="F1538">Audition des témoins</Fiche>
+</SousDossier>
+<SousDossier ID="N269-3">
+<Titre>Mesures prononcées par le tribunal</Titre><Fiche ID="F1787">Injonction de faire</Fiche>
+<Fiche ID="F1746">Injonction de payer - recouvrement de créances</Fiche>
+<Fiche ID="F1780">Exécution d'une décision du juge civil</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N470" audience="Particuliers">
+<Titre>Conflits du travail dans le secteur privé</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N561" audience="Particuliers">
+<Titre>Litiges avec la Sécurité sociale</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Partenaire ID="R1857" URL="http://www.justice.gouv.fr/"/>
+<ServiceEnLigne ID="R14232" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11764.do" numerocerfa="11764*07" type="Formulaire">
+<Titre>Déclaration au greffe du tribunal d'instance</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R401" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51477&amp;cerfaFormulaire=12285" numerocerfa="51477#05">Notice pour la déclaration au greffe</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10747" URL="" type="Modèle de document">
+<Titre>Faire une déclaration au greffe du tribunal d'instance</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14346" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12285.do" numerocerfa="12285*07" type="Formulaire">
+<Titre>Déclaration au greffe de la juridiction de proximité</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R401" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51477&amp;cerfaFormulaire=12285" numerocerfa="51477#05">Notice pour la déclaration au greffe</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10265" URL="http://www.economie.gouv.fr/dgccrf/Lettre-de-requete-en-injonction-de-payer" type="Modèle de document">
+<Titre>Demander une injonction de payer au tribunal</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1463" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11723.do" format="application/pdf" poids="151.2 KB" numerocerfa="11723*08" type="Formulaire">
+<Titre>Demande en injonction de faire au tribunal d'instance</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R19320" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50 801&amp;cerfaFormulaire=11723" numerocerfa="50801#09">Notice de la demande en injonction de faire</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10223" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15602.do" format="application/pdf" poids="229.3 KB" numerocerfa="15602*01" type="Formulaire">
+<Titre>Former opposition à une injonction de payer auprès du tribunal</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R46460" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52122&amp;cerfaFormulaire=15602" numerocerfa="52122#01">Notice pour une opposition à une injonction de payer</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1464" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=12288" numerocerfa="12288*06" type="Formulaire">
+<Titre>Demande en injonction de faire au juge de proximité</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12288.do"/><NoticeLiee ID="R19320" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50 801&amp;cerfaFormulaire=11723" numerocerfa="50801#09">Notice de la demande en injonction de faire</NoticeLiee>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1465" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12948.do" numerocerfa="12948*03" type="Formulaire">
+<Titre>Demande en injonction de payer au président du tribunal d'instance</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R13700" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51156&amp;cerfaFormulaire=12948" numerocerfa="51156#05">Notice d'information pour la demande en injonction de payer</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16191" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12946.do" format="application/pdf" poids="150.2 KB" numerocerfa="12946*01" type="Formulaire">
+<Titre>Demande en injonction de payer au président du tribunal de commerce</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R13700" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51156&amp;cerfaFormulaire=12948" numerocerfa="51156#05">Notice d'information pour la demande en injonction de payer</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1466" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12947.do" numerocerfa="12947*03" type="Formulaire">
+<Titre>Demande en injonction de payer au juge de proximité</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source><NoticeLiee ID="R13700" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51156&amp;cerfaFormulaire=12948" numerocerfa="51156#05">Notice d'information pour la demande en injonction de payer</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1443" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14333.do" numerocerfa="14333*02" type="Formulaire">
+<Titre>Demande de tentative préalable de conciliation devant le juge de proximité</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R34111" URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Delais-de-prescription" audience="Particuliers">
+<Titre>Les délais de prescription en justice civile</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1800" audience="Particuliers">Toute preuve peut-elle être admise devant la justice civile ?</QuestionReponse>
+<QuestionReponse ID="F576" audience="Particuliers">Un jugement civil étranger (divorce, dette...) peut-il être exécuté en France ?</QuestionReponse>
+<QuestionReponse ID="F1378" audience="Particuliers">Procès civil : comment agir rapidement devant le tribunal ?</QuestionReponse>
+<QuestionReponse ID="F1379" audience="Particuliers">Comment obtenir la copie d'un jugement ?</QuestionReponse>
+<QuestionReponse ID="F31111" audience="Particuliers">Comment se décompte un délai dans une procédure civile ?</QuestionReponse>
+
+</Publication>

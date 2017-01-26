@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N23662" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Obligations en matière d'agriculture</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Obligations en matière d'agriculture</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-22</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N23662</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23662" type="Dossier">Obligations en matière d'agriculture</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N10675">Agriculture</SousThemePere>
+<Fiche ID="F33822">Agrément sanitaire et déclaration de manipulation de denrées animales</Fiche>
+<Fiche ID="F31192">Certificat individuel de produits phytopharmaceutiques (Certiphyto)</Fiche>
+<Fiche ID="F24392">Déclaration des abeilles et des ruchers</Fiche><VoirAussi important="non">
+<Fiche ID="F31667" audience="Professionnels">
+<Titre>Autorisation de défrichement</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F33368" audience="Professionnels">
+<Titre>Autorisation pour installer une éolienne domestique ou agricole</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R44611" URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa13989/" numerocerfa="13989*04" type="Téléservice">
+<Titre>Déclaration en ligne d'activité d'un exploitant de troupeaux de volailles de l'espèce Gallus gallus</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32892" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13989.do" format="application/pdf" poids="92.5 KB" numerocerfa="13989*04" type="Formulaire">
+<Titre>Déclaration d'activité d'un exploitant de troupeaux de volailles de l'espèce Gallus gallus</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21845" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14346.do" numerocerfa="14346*01" type="Formulaire">
+<Titre>Demande d'autorisation de pêche de l'anguille en eau douce</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21846" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14347.do" numerocerfa="14347*01" type="Formulaire">
+<Titre>Fiche de déclaration de captures d'anguilles</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21844" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14358.do" numerocerfa="14358*01" type="Formulaire">
+<Titre>Carnet de pêche à l'anguille</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44618" URL="https://notification.agencebio.org/" numerocerfa="14341*02" type="Téléservice">
+<Titre>Fiche de notification en ligne concernant les producteurs en agriculture biologique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18543" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14341.do" format="application/pdf" poids="1.4 MB" numerocerfa="14341*02" type="Formulaire">
+<Titre>Fiche de notification concernant les producteurs en agriculture biologique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21254" URL="https://www.inao.gouv.fr/fichier/Form-RI.pdf" format="application/pdf" poids="0" type="Téléservice">
+<Titre>Demande d'autorisation de replantation de vignes d'appellation d'origine</Titre>
+<Source ID="R30763">Institut national de l'origine et de la qualité (Inao)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14221" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14575.do" format="application/pdf" poids="225.1 KB" numerocerfa="14575*02" type="Formulaire">
+<Titre>Demande d'autorisation de surgreffage de vigne en place les rendant aptes à produire des vins d'appellation d'origine à l'intérieur d'une même exploitation</Titre>
+<Source ID="R30763">Institut national de l'origine et de la qualité (Inao)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17968" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14519.do" format="application/pdf" poids="134.0 KB" numerocerfa="14519*01" type="Formulaire">
+<Titre>Fiche de renseignements pour l'installation d'un étranger comme exploitant agricole</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44612" URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa13990/" numerocerfa="13990*05" type="Téléservice">
+<Titre>Déclaration en ligne de mise en place ou de sortie d'un troupeau de volailles - Espèce Gallus gallus ou Meleagris gallopavo</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32893" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13990.do" format="application/pdf" poids="106.9 KB" numerocerfa="13990*05" type="Formulaire">
+<Titre>Déclaration de mise en place ou de sortie d'un troupeau de volailles - Espèce Gallus gallus ou Meleagris gallopavo</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32894" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13991.do" format="application/pdf" poids="184.4 KB" numerocerfa="13991*03" type="Formulaire">
+<Titre>Demande d'adhésion à la Charte sanitaire d'un établissement hébergeant un troupeau de volailles de l'espèce Gallus gallus</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44610" URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa13987/" numerocerfa="13987*03" type="Téléservice">
+<Titre>Alimentation des animaux - Demande en ligne d'autorisation pour être représentant d'un établissement situé dans un pays tiers</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33054" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13987.do" format="application/pdf" poids="82.5 KB" numerocerfa="13987*03" type="Formulaire">
+<Titre>Alimentation des animaux - Demande d'autorisation pour être représentant d'un établissement situé dans un pays tiers</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33060" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14138.do" format="application/pdf" poids="79.4 KB" numerocerfa="14138*02" type="Formulaire">
+<Titre>Demande de certificat professionnel individuel d'éleveur de poulets de chair</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R38204" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51906&amp;cerfaFormulaire=14138" numerocerfa="51906#01" format="application/pdf" poids="85.6 KB">Notice pour la demande de certificat professionnel individuel d'éleveur de poulets de chair</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33061" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14144.do" format="application/pdf" poids="80.7 KB" numerocerfa="14144*02" type="Formulaire">
+<Titre>Demande de certificat professionnel individuel d'éleveur de poulets de chair (équivalence à la formation qualifiante)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R38206" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51908&amp;cerfaFormulaire=14144" numerocerfa="51908#01" format="application/pdf" poids="88.4 KB">Notice pour la demande de certificat professionnel individuel d'éleveur de poulets de chair (équivalence à la formation qualifiante)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44614" URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa14148/" numerocerfa="14148*02" type="Téléservice">
+<Titre>Déclaration en ligne d'une densité d'élevage de poulets de chair</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33062" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14148.do" format="application/pdf" poids="73.9 KB" numerocerfa="14148*02" type="Formulaire">
+<Titre>Déclaration d'une densité d'élevage de poulets de chair</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R38205" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51907&amp;cerfaFormulaire=14148" numerocerfa="51907#01" format="application/pdf" poids="90.1 KB">Notice pour la déclaration d'une densité d'élevage de poulets de chair</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33069" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11368.do" numerocerfa="11368*02" type="Formulaire">
+<Titre>Demande d'agrément ou de renouvellement d'agrément Maître exploitant agricole</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R35397" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15026.do" format="application/pdf" poids="138.6 KB" numerocerfa="15026*02" type="Formulaire">
+<Titre>Demande d'agrément vins sans indication géographique avec mention de cépage et/ou millésime</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R35398" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51749&amp;cerfaFormulaire=15026" numerocerfa="51749#03" format="application/pdf" poids="73.8 KB">Notice pour la demande d'agrément de vins sans indication géographique</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R35399" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15027.do" format="application/pdf" poids="101.3 KB" numerocerfa="15027*03" type="Formulaire">
+<Titre>Demande de certification vins sans indication géographique avec mention de cépage et/ou millésime - Prévisions de volumes annuels commercialisés</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R35400" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51750&amp;cerfaFormulaire=15027" numerocerfa="51750#04" format="application/pdf" poids="101.2 KB">Notice d'information pour la demande de certification vins sans indication géographique</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36866" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15045.do" format="application/pdf" poids="134.8 KB" numerocerfa="15045*02" type="Formulaire">
+<Titre>Déclaration d'activité des professionnels exerçant des activités en lien avec les animaux de compagnie domestiques</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Consentement du vétérinaire sanitaire désigné par le déclarant</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=15045&amp;cerfaFormulaire=15045" format="application/pdf" poids="49.7 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37101" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15095.do" format="application/pdf" poids="157.9 KB" numerocerfa="15095*01" type="Formulaire">
+<Titre>Demande d'agrément ou d'autorisation d'un établissement du secteur de l'alimentation animale</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R37102" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51797&amp;cerfaFormulaire=15095" numerocerfa="51797#01" format="application/pdf" poids="97.7 KB">Notice pour l'agrément ou l'autorisation d'un établissement du secteur de l'alimentation animale</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37103" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15096.do" format="application/pdf" poids="120.1 KB" numerocerfa="15096*01" type="Formulaire">
+<Titre>Demande d'enregistrement d'un établissement du secteur de l'alimentation animale</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R37104" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51798&amp;cerfaFormulaire=15096" numerocerfa="51798#01" format="application/pdf" poids="86.7 KB">Notice pour la demande d'enregistrement d'un établissement du secteur de l'alimentation animale</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18010" URL="https://teleprocedures.franceagrimer.fr/Expadon" numerocerfa="13181*01" type="Téléservice">
+<Titre>Conditions sanitaires et phytosanitaires à l'exportation (Expadon)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18011" URL="https://teleprocedures.franceagrimer.fr/Impadon" numerocerfa="13292*01" type="Téléservice">
+<Titre>Conditions sanitaires et phytosanitaires à l'importation (Impadon)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17084" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11534.do" format="application/pdf" poids="106.2 KB" numerocerfa="11534*04" type="Formulaire">
+<Titre>Demande d'autorisation d'exploiter</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R17085" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50723&amp;cerfaFormulaire=11534" numerocerfa="50723#04">Notice pour la demande d'autorisation d'exploiter</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Annexe 1 - Description des biens</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=11534*04-01&amp;cerfaFormulaire=11534*04" format="application/pdf" poids="71.1 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Annexe 2 - Description des surfaces</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=11534*04-02&amp;cerfaFormulaire=11534*04" format="application/pdf" poids="49.5 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Annexe 3 - Description de l'exploitation détenue par le demandeur à titre individuel</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=11534*04-03&amp;cerfaFormulaire=11534*04" format="application/pdf" poids="69.1 KB"/>
+</ServiceEnLigneAnnexe>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Annexe 4 - Critères d'appréciation fixés par le schéma directeur régional des exploitations agricoles (SDREA)</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=11534*04-04&amp;cerfaFormulaire=11534*04" format="application/pdf" poids="48.8 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R41049" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10703.do" format="application/pdf" poids="76.7 KB" numerocerfa="10703*03" autrenumero="8328-SCVI" type="Formulaire">
+<Titre>Viticulteur : déclaration simplifiée de récolte et de production</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14686" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10702.do" format="application/pdf" poids="361.2 KB" numerocerfa="10702*07" autrenumero="8328-CVI" type="Formulaire">
+<Titre>Viticulteur : déclaration de récolte et de production de vin</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R31114" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50340&amp;cerfaFormulaire=10702" numerocerfa="50340#07" format="application/pdf" poids="62.6 KB">Notice d'emploi pour la déclaration de récolte et de production des viticulteurs</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18711" URL="http://telexport.dgccrf.bercy.gouv.fr/" type="Téléservice">
+<Titre>Certificat de conformité pour l'exportation de fruits et légumes</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21839" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10704.do" format="application/pdf" poids="264.1 KB" numerocerfa="10704*06" autrenumero="8329 CVI" type="Formulaire">
+<Titre>Viticulteur : déclaration de stock de vins et de moûts</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R21840" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50342&amp;cerfaFormulaire=10704" numerocerfa="50342#07" format="application/pdf" poids="109.0 KB">Notice pour la déclaration de stock de vins et de moûts</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33065" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14945.do" format="application/pdf" poids="119.4 KB" numerocerfa="14945*02" autrenumero="8288" type="Formulaire">
+<Titre>Viticulteur : déclaration de stock au commerce</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R33066" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51719&amp;cerfaFormulaire=14945" numerocerfa="51719#02">Notice pour la déclaration de stock de vins et de moûts</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18519" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10701.do" format="application/pdf" poids="356.1 KB" numerocerfa="10701*01" autrenumero="8273" type="Formulaire">
+<Titre>Déclaration d'enrichissement des vins</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14352" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11886.do" format="application/pdf" poids="28.6 KB" numerocerfa="11886*01" type="Formulaire">
+<Titre>Demande de mise sur le marché d'un agent d'ensilage</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R13572" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11886*01&amp;cerfaNotice=50849%2301" numerocerfa="50849#01" format="application/pdf" poids="47.8 KB">Guide pour la constitution des dossiers de demande d'homologation des agents d'ensilage</NoticeLiee>
+<NoticeLiee ID="R18201" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=11886*01&amp;cerfaNotice=50847%2301" numerocerfa="50848#01" format="application/pdf" poids="23.6 KB">Notice explicative pour la constitution d'un dossier de demande d'homologation des agents d'ensilage</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11887*01">
+<Titre>Demande de mise sur le marché d'un agent d'ensilage - fiche complémentaire (substances actives et autres constituants)</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11887.do" format="application/pdf" poids="16.1 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14354" URL="http://mesdemarches.agriculture.gouv.fr/demarches/fabrication-ou-distribution-de/commercialiser-un-produit/article/matieres-fertilisantes-et-de" numerocerfa="11385*01" type="Formulaire">
+<Titre>Demande d'homologation pour les matières fertilisantes et les supports de culture</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17165" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14090.do" format="application/pdf" poids="218.0 KB" numerocerfa="14090*02" type="Formulaire">
+<Titre>Employeurs agricoles : attestation relative à l'obligation annuelle de négocier sur les salaires</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source><NoticeLiee ID="R17321" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=14090&amp;&amp;cerfaNotice=51428" numerocerfa="51428#02" format="application/pdf" poids="141.6 KB">Notice pour l'attestation relative à l'obligation annuelle de négocier sur les salaires</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21878" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14345.do" format="application/pdf" poids="1.3 MB" numerocerfa="14345*02" type="Formulaire">
+<Titre>Fiche de notification concernant les préparateurs en agriculture biologique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21879" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14344.do" format="application/pdf" poids="1.2 MB" numerocerfa="14344*02" type="Formulaire">
+<Titre>Fiche de notification concernant les distributeurs en agriculture biologique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16393" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14778.do" numerocerfa="14778*02" type="Formulaire">
+<Titre>Demande d'agrément pour l'aide à la production de vanille verte et à la fabrication de produits élaborés à partir de la vanille noire</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20083" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14780.do" numerocerfa="14780*02" type="Formulaire">
+<Titre>Demande d'agrément pour l'aide à la production d'huiles essentielles</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20084" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14781.do" format="application/pdf" poids="115.6 KB" numerocerfa="14781*02" type="Formulaire">
+<Titre>Demande d'agrément d'un transformateur pour l'aide à la production d'hydrolats</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44579" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15564.do" format="application/pdf" poids="115.8 KB" numerocerfa="15564*01" type="Formulaire">
+<Titre>Déclaration d'importation de semences et plants</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R44578" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52103&amp;cerfaFormulaire=15563" numerocerfa="52103#01" format="application/pdf" poids="140.4 KB">Notice pour la déclaration d'importation de semences et plants</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44577" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15563.do" format="application/pdf" poids="91.9 KB" numerocerfa="15563*01" type="Formulaire">
+<Titre>Déclaration d'importation de semences et plants forestiers</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R44578" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52103&amp;cerfaFormulaire=15563" numerocerfa="52103#01" format="application/pdf" poids="140.4 KB">Notice pour la déclaration d'importation de semences et plants</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44620" URL="https://notification.agencebio.org/" numerocerfa="14345*02" type="Téléservice">
+<Titre>Fiche de notification en ligne concernant les préparateurs en agriculture biologique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44619" URL="https://notification.agencebio.org/" numerocerfa="14344*02" type="Téléservice">
+<Titre>Fiche de notification en ligne concernant les distributeurs en agriculture biologique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44624" URL="https://agriculture-portail.6tzen.fr/default/requests/Cerfa14817/" numerocerfa="14817*02" type="Téléservice">
+<Titre>Demande en ligne de reconnaissance par les laboratoires réalisant les analyses sanitaires nécessaires à la détermination du prix du lait</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36345" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14817.do" format="application/pdf" poids="69.7 KB" numerocerfa="14817*02" type="Formulaire">
+<Titre>Demande de reconnaissance par les laboratoires réalisant les analyses sanitaires nécessaires à la détermination du prix du lait</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source><NoticeLiee ID="R36346" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51680&amp;cerfaFormulaire=14817" numerocerfa="51680#02">Notice d'information à l'intention des laboratoires demandeurs d'une reconnaissance pour la réalisation des analyses sanitaires nécessaires à la détermination du prix du lait</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44626" URL="https://agriculture-portail.6tzen.fr/loc_fr/default/requests/20/" numerocerfa="15064*01" type="Téléservice">
+<Titre>Demande en ligne d'autorisation de captage et récolte de naissain issu d'une zone non classée pour être transféré dans une zone de production classée A, B ou C</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36787" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15064.do" format="application/pdf" poids="97.7 KB" numerocerfa="15064*01" type="Formulaire">
+<Titre>Demande d'autorisation de captage et récolte de naissain issu d'une zone non classée pour être transféré dans une zone de production classée A, B ou C</Titre>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R44627" URL="https://agriculture-portail.6tzen.fr/default/requests/cerfa0/" numerocerfa="15472*01" type="Téléservice">
+<Titre>Déclaration en ligne de détention d'oiseaux dans le cadre d'un foyer d'influenza aviaire</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R42501" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15472.do" format="application/pdf" poids="87.3 KB" numerocerfa="15472*01" type="Formulaire">
+<Titre>Déclaration de détention d'oiseaux dans le cadre d'un foyer d'influenza aviaire</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45713" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15516.do" format="application/pdf" poids="239.0 KB" numerocerfa="15516 02" type="Formulaire">
+<Titre>Prise en charge des pertes de revenus liées à l'influenza aviaire à destination des éleveurs de palmipèdes</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45822" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14840.do" format="application/pdf" poids="54.6 KB" numerocerfa="14840*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour les espèces d'eau profonde</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45876" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14841.do" format="application/pdf" poids="86.9 KB" numerocerfa="4841*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour la pêche dans les zones de reconstitution du cabillaud</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45877" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14842.do" format="application/pdf" poids="82.1 KB" numerocerfa="14842*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) hareng Ouest Écosse</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45878" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14843.do" format="application/pdf" poids="84.3 KB" numerocerfa="14843*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour la pêche dans la zone de reconstitution des stocks de merlu austral et de langoustine (CIEM VIIIc et IXa)</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45879" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14845.do" format="application/pdf" poids="83.2 KB" numerocerfa="14845*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour la pêche dans la zone de gestion du stock de la sole du golfe de Gascogne</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45880" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14847.do" format="application/pdf" poids="83.3 KB" numerocerfa="14847*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour la pêche dans la zone de gestion du stock de la sole Manche Ouest</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45881" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14852.do" format="application/pdf" poids="76.9 KB" numerocerfa="14852*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour le métier du chalut en Méditerranée</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45885" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14857.do" format="application/pdf" poids="81.7 KB" numerocerfa="14857*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour la pêche du thon rouge en océan Atlantique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45887" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14910.do" format="application/pdf" poids="77.0 KB" numerocerfa="14910*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) - Drague - Méditerranée</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45888" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14911.do" format="application/pdf" poids="82.4 KB" numerocerfa="14911*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) pour l'utilisation de filets fixes dits "dérogation 9.4 c"</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45889" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14913.do" format="application/pdf" poids="76.9 KB" numerocerfa="14913*03" type="Formulaire">
+<Titre>Demande d'autorisation européenne de pêche (AEP) - Senne tournante coulissante- Méditerranée</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45890" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14844.do" format="application/pdf" poids="15.9 KB" numerocerfa="14844*03" type="Formulaire">
+<Titre>Demande d'autorisation nationale de pêche (ANP) pour la pêche de la langoustine (Nephrops Norvegicus) dans la zone CIEM VIII a, b, d et e</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45891" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14846.do" format="application/pdf" poids="54.1 KB" numerocerfa="14846*03" type="Formulaire">
+<Titre>Demande d'autorisation nationale de pêche (ANP) pour la pêche professionnelle de l'anchois dans la zone CIEM VIII</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45892" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14849.do" format="application/pdf" poids="55.6 KB" numerocerfa="14849*03" type="Formulaire">
+<Titre>Demande d'autorisation nationale de pêche (ANP) pour la zone cabillaud mer Celtique</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45893" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14851.do" format="application/pdf" poids="14.5 KB" numerocerfa="14851*03" type="Formulaire">
+<Titre>Demande d'autorisation nationale de pêche (ANP) pour la pêche du thon blanc (Thunnus alalunga) dans l'océan Atlantique, au nord du 5°N</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45894" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15006.do" format="application/pdf" poids="105.0 KB" numerocerfa="15006*04" type="Formulaire">
+<Titre>Demande d'autorisation de pêche (AP) pour les pêcheries soumises à autorisations d'accès par recommandation d'une organisation régionale de pêche</Titre>
+<Source ID="R30649">Ministère en charge de l'agriculture</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R14554" URL="http://propluvia.developpement-durable.gouv.fr/propluvia/faces/index.jsp" audience="Professionnels">
+<Titre>Propluvia : suivi de la sécheresse et consultation des arrêtés de restriction d'eau</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R37100" URL="http://www.vigicrues.gouv.fr/" audience="Professionnels">
+<Titre>Vigicrues : carte de vigilance nationale des crues</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F33298" audience="Professionnels">Dans quels cas le débroussaillage est-il obligatoire ?</QuestionReponse>
+<QuestionReponse ID="F33809" audience="Professionnels">En quoi consiste la visite sanitaire des élevages ?</QuestionReponse>
+<QuestionReponse ID="F924" audience="Professionnels">Un exploitant agricole peut-il construire une maison sur son exploitation ?</QuestionReponse>
+<QuestionReponse ID="F3131" audience="Professionnels">Quelles sont les règles pour l'implantation de clôtures ?</QuestionReponse>
+<QuestionReponse ID="F10522" audience="Professionnels">Quelles sont les règles d'immatriculation pour les tracteurs ?</QuestionReponse>
+<QuestionReponse ID="F33286" audience="Professionnels">Comment créer un gîte rural sur une exploitation agricole ?</QuestionReponse>
+<QuestionReponse ID="F33825" audience="Professionnels">Comment obtenir l'autorisation de plantation de vigne ?</QuestionReponse>
+</Publication>

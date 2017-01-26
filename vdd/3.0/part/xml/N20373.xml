@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N20373" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Crédit immobilier</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Le crédit immobilier concerne les opérations d'achat d'un immeuble à usage d'habitation (ou professionnel et d'habitation) ou d'un terrain destiné à sa construction. Il peut également concerner les réparations, l'amélioration ou l'entretien d'un immeuble si le montant du crédit est supérieur à 75 000 €.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-05</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N20373</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19803</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Consommateur</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373" type="Dossier">Crédit immobilier</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere>
+<SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre><Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre><Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			Le crédit immobilier concerne les opérations d'achat d'un immeuble à usage d'habitation (ou professionnel et d'habitation) ou d'un terrain destiné à sa construction. 
+			
+      Il peut également concerner les réparations, l'amélioration ou l'entretien d'un immeuble si le montant du crédit est supérieur à
+      <Valeur>75 000 €</Valeur>.
+    
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N321" audience="Particuliers">
+<Titre>Aides et prêts pour l'amélioration de l'habitat</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R2974" URL="http://www.logement.gouv.fr/spip.php?page=article-sous-site&amp;id_article=313&amp;sommaire=88" type="Simulateur">
+<Titre>Simulateur - Prêt à taux zéro (PTZ)</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2924" URL="https://www.anil.org/outils/outils-de-calcul/echeancier-dun-pret/" type="Simulateur">
+<Titre>Échéancier d'un prêt</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38209" URL="http://www2.impots.gouv.fr/enregistrement/reconnaissance/9_reconnaissance_dettes.htm" type="Modèle de document">
+<Titre>Modèle de reconnaissance de dettes ou prêts entre particuliers</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33769" URL="http://www.conso.net/content/le-pr%C3%AAt-immobilier-vous-est-refus%C3%A9-vous-demandez-le-remboursement-de-l%E2%80%99acompte-vers%C3%A9-au" type="Modèle de document">
+<Titre>Obtenir le remboursement de l'acompte versé au constructeur en cas de refus de son prêt immobilier</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2944" URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques-de-la-concurrence-et-de-la-consom" audience="Particuliers">
+<Titre>Fiches pratiques de la concurrence et de la consommation</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R38863" URL="http://www.abe-infoservice.fr/banque/credits-aux-particuliers/financer-un-projet-immobilier.html" audience="Particuliers">
+<Titre>Financer un projet immobilier</Titre>
+<Source ID="R39980">Assurance Banque Épargne Infoservice</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1669" audience="Particuliers">Comment rembourser son crédit immobilier par anticipation ?</QuestionReponse>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F16124" audience="Particuliers">Peut-on me réclamer une caution bancaire pour un prêt ?</QuestionReponse>
+<QuestionReponse ID="F787" audience="Particuliers">Peut-on faire lever une hypothèque ?</QuestionReponse>
+<QuestionReponse ID="F20520" audience="Particuliers">Crédit immobilier : qu'est-ce que la convention Aeras ?</QuestionReponse>
+<QuestionReponse ID="F786" audience="Particuliers">Qu'est-ce que le privilège du prêteur de deniers ?</QuestionReponse>
+<QuestionReponse ID="F1701" audience="Particuliers">Que devient le prêt immobilier quand la vente est annulée ?</QuestionReponse>
+<QuestionReponse ID="F1673" audience="Particuliers">Que devient la vente si le prêt immobilier est refusé ?</QuestionReponse>
+<QuestionReponse ID="F21129" audience="Particuliers">Comment fonctionne l'assurance perte d'emploi ?</QuestionReponse>
+<QuestionReponse ID="F21128" audience="Particuliers">Comment fonctionne l'assurance décès, incapacité, invalidité sur un crédit ?</QuestionReponse>
+<QuestionReponse ID="F788" audience="Particuliers">Que devient l'hypothèque quand le prêt est remboursé ?</QuestionReponse>
+<QuestionReponse ID="F1670" audience="Particuliers">Difficultés de remboursement du crédit immobilier : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F31126" audience="Particuliers">Le PTZ peut-il financer l'acquisition d'un logement social ?</QuestionReponse>
+<QuestionReponse ID="F113" audience="Particuliers">Peut-on bénéficier plusieurs fois d'un prêt à taux zéro (PTZ) ?</QuestionReponse>
+<QuestionReponse ID="F1529" audience="Particuliers">Peut-on bénéficier du PTZ si on est déjà propriétaire d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F22110" audience="Particuliers">Que devient le PTZ en cas de revente du logement ?</QuestionReponse>
+<QuestionReponse ID="F1269" audience="Particuliers">Le PTZ est-il réservé exclusivement à l'achat de sa résidence principale ?</QuestionReponse>
+<QuestionReponse ID="F1275" audience="Particuliers">Peut-on louer son logement acheté avec un PTZ ou un PAS ?</QuestionReponse>
+<QuestionReponse ID="F16241" audience="Particuliers">Peut-on encore obtenir un crédit hypothécaire rechargeable ?</QuestionReponse>
+<QuestionReponse ID="F785" audience="Particuliers">Qu'est-ce qu'une hypothèque judiciaire conservatoire ?</QuestionReponse>
+<QuestionReponse ID="F548" audience="Particuliers">Séparation : comment obtenir l'annulation de la garantie du co-emprunteur ?</QuestionReponse>
+
+</Publication>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2753" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'une offre d'achat d'un bien immobilier ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>L'offre d'achat ou proposition d'achat d'un bien immobilier est utilisée lorsqu'un candidat souhaite faire l'acquisition d'un bien immobilier. Elle se présente comme un moyen pour le candidat acquéreur de retenir le bien à des conditions qu'il fixe.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2753</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&amp;idArticle=LEGIARTI000006441308</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23245</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23245">Achat ou vente d'un logement</Niveau>
+<Niveau ID="F2753" type="Fiche Question-réponse">Qu'est-ce qu'une offre d'achat d'un bien immobilier ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere><DossierPere ID="N23245">
+<Titre>Achat ou vente d'un logement</Titre><SousDossier ID="N23245-1">
+<Titre>Logement existant</Titre>
+<Fiche ID="F2965">Promesse de vente</Fiche>
+<Fiche ID="F2962">Acte de vente</Fiche>
+<Fiche ID="F2604">Vente d'un bien en copropriété (lot de copropriété)</Fiche>
+</SousDossier>
+<SousDossier ID="N23245-2">
+<Titre>Logement en l'état futur d'achèvement (Véfa)</Titre>
+<Fiche ID="F2963">Contrat de réservation</Fiche>
+<Fiche ID="F2961">Acte de vente</Fiche>
+<Fiche ID="F2956">Livraison</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>L'offre d'achat ou <Expression>proposition d'achat</Expression> d'un bien immobilier est utilisée lorsqu'un candidat souhaite faire l'acquisition d'un bien immobilier. Elle se présente comme un moyen pour le candidat acquéreur de retenir le bien à des conditions qu'il fixe.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Contenu de l'offre</Paragraphe>
+</Titre><Paragraphe>L'offre formulée par le candidat acquéreur est écrite et contient :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>généralement un prix inférieur ou identique à celui fixé par le vendeur dans son annonce,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et souvent un délai de validité de 1 ou 2 semaines, au terme duquel l'offre devient caduque.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>le candidat acquéreur qui fait une offre d'achat ne doit payer aucune somme d'argent au vendeur du bien immobilier.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Obligations des parties</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Obligation du vendeur </Paragraphe>
+</Titre><Paragraphe>Le vendeur est libre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de refuser l'offre si le prix proposé par le candidat acquéreur est inférieur à celui initialement fixé, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou de faire une contre-proposition.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Obligation du candidat acquéreur </Paragraphe>
+</Titre><Paragraphe>Si le vendeur accepte les conditions de l'offre, le candidat acquéreur est engagé. Le  <LienInterne LienPublication="F2965" type="Fiche d'information" audience="Particuliers">compromis de vente</LienInterne> peut ensuite être signé.</Paragraphe>
+<Paragraphe>Le candidat acquéreur peut uniquement renoncer à l'achat du bien s'il fait valoir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> une <LienInterne LienPublication="F188" type="Fiche Question-réponse" audience="Particuliers">condition suspensive</LienInterne> qui aurait été prévue dans l'offre,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou son droit de rétractation dans un délai de 10 <LienIntra LienID="R17509" type="Définition de glossaire">jours ouvrés</LienIntra> à compter de la signature du compromis de vente. </Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N23245" audience="Particuliers">
+<Titre>Achat ou vente d'un logement</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N20591" audience="Particuliers">
+<Titre>Diagnostics immobiliers</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&amp;idArticle=LEGIARTI000006441308" ID="R41023">
+<Titre>Code civil : article 1583</Titre>
+<Complement>Obligations des parties</Complement>
+</Reference>
+<Definition ID="R17509">
+<Titre>Jour ouvré</Titre>
+<Texte>
+				<Paragraphe>Jour effectivement travaillé dans une entreprise ou une administration.
+		Le plus souvent, on compte 5 jours ouvrés par semaine (par exemple, du lundi au vendredi ou du mardi au samedi).</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F188" audience="Particuliers">Qu'est-ce que la condition suspensive d'un prêt immobilier ?</QuestionReponse>
+<QuestionReponse ID="F16832" audience="Particuliers">Immobilier : comment connaître le prix au m² d'un logement ou d'un terrain ?</QuestionReponse>
+<QuestionReponse ID="F17759" audience="Particuliers">Comment obtenir des renseignements immobiliers ?</QuestionReponse>
+</Publication>

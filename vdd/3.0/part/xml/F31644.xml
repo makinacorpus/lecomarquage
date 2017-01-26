@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31644" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on créer un syndicat secondaire dans un groupe d'immeubles en copropriété ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les copropriétaires d'un ou plusieurs bâtiments d'une copropriété peuvent constituer un syndicat secondaire au sein du syndicat principal.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-04</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31644</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006471819&amp;cidTexte=LEGITEXT000006068256</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31338</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31338">Acteurs de la copropriété (organisation juridique)</Niveau>
+<Niveau ID="F31644" type="Fiche Question-réponse">Peut-on créer un syndicat secondaire dans un groupe d'immeubles en copropriété ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31338">
+<Titre>Acteurs de la copropriété (organisation juridique)</Titre>
+<Fiche ID="F2606">Syndicat de copropriétaires</Fiche>
+<Fiche ID="F2608">Syndic de copropriété</Fiche>
+<Fiche ID="F2610">Conseil syndical de copropriété</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le syndicat secondaire a pour objet d'assurer de façon autonome la gestion, l'entretien et l'amélioration d'un ou de plusieurs bâtiments déterminé(s). </Paragraphe>
+<Paragraphe>Le syndicat secondaire est créé au sein du syndicat principal. La décision de créer un syndicat secondaire doit être prise par les copropriétaires à la <LienInterne LienPublication="F32066" type="Fiche d'information" audience="Particuliers">majorité absolue</LienInterne> dite de <Expression>l'article 25</Expression>).</Paragraphe>
+<Paragraphe>Le syndicat secondaire doit être pourvu d'un <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic de copropriété</LienInterne> qui peut être le même que celui du <LienInterne LienPublication="F2606" type="Fiche d'information" audience="Particuliers">syndicat principal</LienInterne>.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le syndicat secondaire peut être pourvu d'un <LienInterne LienPublication="F2610" type="Fiche d'information" audience="Particuliers">conseil syndical</LienInterne> alors que le syndicat principal a décidé de ne pas l'instituer, ou inversement.</Paragraphe>
+</ASavoir><Paragraphe>Le syndicat est une personne morale distincte du syndicat principal, avec un patrimoine qui lui est propre. Il a donc sa propre comptabilité. </Paragraphe>
+<Paragraphe>Il vote son propre <LienInterne LienPublication="F20586" type="Fiche d'information" audience="Particuliers">budget prévisionnel</LienInterne> afin que le syndic puisse demander les provisions pour faire face aux dépenses courantes et hors budget du ou des bâtiment(s) concerné(s).</Paragraphe>
+<Paragraphe>Le syndicat peut agir en justice en vue d'assurer notamment le respect du <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne> dans ses dispositions intéressant les seuls copropriétaires de son ou ses bâtiment(s).</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N31338" audience="Particuliers">
+<Titre>Acteurs de la copropriété (organisation juridique)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006471819&amp;cidTexte=LEGITEXT000006068256" ID="R32997">
+<Titre>Loi n°65-557 du 10 juillet 1965 : article 27</Titre>
+<Complement>Caractéristiques du syndicat secondaire</Complement>
+</Reference>
+<QuestionReponse ID="F32051" audience="Particuliers">Quelles sont les règles de rémunération du syndic professionnel?</QuestionReponse>
+<QuestionReponse ID="F896" audience="Particuliers">Le syndic peut-il imposer une avance de trésorerie aux copropriétaires ?</QuestionReponse>
+</Publication>

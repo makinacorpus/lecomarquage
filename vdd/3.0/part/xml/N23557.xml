@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N23557" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Aides au paiement des factures : eau, téléphone, électricité, gaz</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Une aide peut être attribuée pour alléger le montant des factures d'eau, de téléphone, d'électricité et de gaz notamment en cas de revenus modestes.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-03</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N23557</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Locataire, Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23557" type="Dossier">Aides au paiement des factures : eau, téléphone, électricité, gaz</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N305">Aides financières pour le logement</SousThemePere>
+<Fiche ID="F1557">Facture d'eau</Fiche>
+<Fiche ID="F1337">Facture de téléphone</Fiche>
+<Fiche ID="F10580">Facture d'électricité</Fiche>
+<Fiche ID="F19206">Facture de gaz</Fiche>
+<Introduction>
+<Texte><Paragraphe>Une aide peut être attribuée pour alléger le montant des factures d'eau, de téléphone, d'électricité et de gaz notamment en cas de revenus modestes.</Paragraphe>
+</Texte>
+</Introduction><ServiceEnLigne ID="R33731" URL="http://www.conso.net/content/suite-%C3%A0-une-fuite-d%E2%80%99eau-apr%C3%A8s-compteur-vous-demandez-le-plafonnement-de-votre-facture" type="Modèle de document">
+<Titre>Demander le plafonnement de sa facture d'eau suite à une fuite d'eau après compteur</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33734" URL="http://www.conso.net/content/vous-souhaitez-obtenir-la-v%C3%A9rification-de-votre-compteur-d%E2%80%99eau" type="Modèle de document">
+<Titre>Demander la vérification de son compteur d'eau</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38121" URL="http://calculettes.energie-info.fr/calculettes/evolution-gaz" type="Simulateur">
+<Titre>Calculer l'évolution de sa facture de gaz</Titre>
+<Source ID="R30745">Médiateur national de l'énergie</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R16215" URL="https://www.caf.fr/aides-et-services/s-informer-sur-les-aides/logement-et-cadre-de-vie/les-aides-au-logement-0" audience="Particuliers">
+<Titre>Dossier pratique sur les aides financières pour le logement</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F33667" audience="Particuliers">Qu'est-ce que le chèque énergie ?</QuestionReponse>
+<QuestionReponse ID="F18116" audience="Particuliers">Peut-on changer de fournisseur de gaz ou d'électricité ?</QuestionReponse>
+<QuestionReponse ID="F20820" audience="Particuliers">Médiateur national de l'énergie : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F20762" audience="Particuliers">Médiateur de l'eau : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F389" audience="Particuliers">Que faire en cas d'augmentation anormale de sa facture d'eau ?</QuestionReponse>
+<QuestionReponse ID="F664" audience="Particuliers">Comment obtenir des informations sur la qualité de l'eau ?</QuestionReponse>
+<QuestionReponse ID="F20055" audience="Particuliers">Impayés de factures (eau, électricité ou gaz) : quelles conséquences ?</QuestionReponse>
+<CommentFaireSi ID="F15913">J'achète un logement</CommentFaireSi>
+<CommentFaireSi ID="F14128">Je déménage</CommentFaireSi>
+</Publication>

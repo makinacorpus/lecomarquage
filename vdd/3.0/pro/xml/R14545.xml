@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14545" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration annuelle des données sociales (DADS) : saisie en ligne DADSNET</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fiscalité, Ressources humaines</dc:subject>
+<dc:description>Déclaration annuelle des données sociales (DADS) : saisie en ligne DADSNET - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-13</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14545</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14545" type="Téléservice">Déclaration annuelle des données sociales (DADS) : saisie en ligne DADSNET</Niveau>
+</FilDAriane>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Les employeurs doivent obligatoirement déclarer avant le 31 janvier de chaque année les traitements versés au cours de l'année précédente, les effectifs employés et une liste nominative des salariés, en indiquant pour chacun leur statut et leurs rémunérations.</Paragraphe>
+<Paragraphe>Ce téléservice s'adresse aux entreprises qui ne gèrent pas leurs rémunérations par logiciel de paie. Celles qui en disposent doivent utiliser l'extraction DADS-U.</Paragraphe>
+<Paragraphe>Inscription gratuite et service sécurisé.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.e-ventail.fr/ss/Satellite/e-ventail.html">
+<Source>Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R17830" audience="Professionnels" type="Téléservice">
+<Titre>Déclaration automatisée des données sociales unifiée (DADS-U)</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F23892" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration annuelle des données sociales (DADS)</Titre>
+<Dossier ID="N10779">Cotisations et contributions sociales de l'employeur</Dossier>
+</FicheLiee>
+<FicheLiee ID="F24005" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration pour la retraite complémentaire</Titre>
+<Dossier ID="N10779">Cotisations et contributions sociales de l'employeur</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22574" audience="Professionnels" type="Fiche d'information">
+<Titre>Taxe d'apprentissage (TA)</Titre>
+<Dossier ID="N13444">Taxes liées aux salaires</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

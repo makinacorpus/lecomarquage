@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F892" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on faire opposition à une décision de justice administrative ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Il est possible en de rares cas de former opposition à une décision de justice administrative et de demander au juge de revenir sur sa décision.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-09-06</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F892</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150501&amp;cidTexte=LEGITEXT000006070933</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N560</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N560">Agir en justice contre l'administration</Niveau>
+<Niveau ID="F892" type="Fiche Question-réponse">Peut-on faire opposition à une décision de justice administrative ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20114">Relations avec l'administration</SousThemePere><DossierPere ID="N560">
+<Titre>Agir en justice contre l'administration</Titre><SousDossier ID="N560-1">
+<Titre>Déroulement d'une affaire</Titre>
+<Fiche ID="F2478">Conditions de saisine</Fiche>
+<Fiche ID="F2640">Détermination de la juridiction compétente</Fiche>
+<Fiche ID="F2026">Dépôt de la requête</Fiche>
+<Fiche ID="F2479">Déroulement du procès</Fiche>
+</SousDossier>
+<SousDossier ID="N560-2">
+<Titre>Procédures d'urgence et autres référés</Titre>
+<Fiche ID="F2551">Référé liberté</Fiche>
+<Fiche ID="F2549">Référé suspension</Fiche>
+<Fiche ID="F2553">Référé conservatoire</Fiche>
+<Fiche ID="F2554">Référé constat</Fiche>
+<Fiche ID="F2555">Référé expertise</Fiche>
+<Fiche ID="F2556">Référé provision</Fiche>
+</SousDossier>
+<SousDossier ID="N560-3">
+<Titre>Voies de recours</Titre>
+<Fiche ID="F2494">Appel devant la cour administrative d'appel</Fiche>
+<Fiche ID="F2495">Appel devant le Conseil d'État</Fiche>
+<Fiche ID="F2496">Recours en cassation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui, il est possible en de rares cas de faire opposition à une décision de justice administrative, c'est-à-dire de demander au juge de revenir sur sa décision. </Paragraphe>
+<Paragraphe>La procédure d'opposition ne peut être formée que contre les décisions d'une cour administrative d'appel ou du Conseil d'État. Les décisions des tribunaux administratifs ne sont donc pas concernées.</Paragraphe>
+<Paragraphe>L'opposition est possible uniquement quand la décision a été prise par défaut, c'est à dire :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> quand la personne mise en cause était absente lors de l'audience (pour un motif valable) et n'a pas pu faire d'observations ou se défendre de manière régulière, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et si aucune autre personne ayant le même intérêt n'a pu le faire pour elle lors de l'audience.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La procédure d'opposition n'est pas <LienIntra LienID="R19521" type="Définition de glossaire">suspensive</LienIntra>. Elle doit être formée dans les <MiseEnEvidence>2 mois</MiseEnEvidence> suivant le jour où la décision contestée a été notifiée.</Paragraphe>
+<Paragraphe>La démarche à suivre est similaire à celle de <LienInterne LienPublication="F2494" type="Fiche d'information" audience="Particuliers">l'appel devant la cour administrative d'appel</LienInterne> ou de <LienInterne LienPublication="F2495" type="Fiche d'information" audience="Particuliers">l'appel devant le Conseil d'État</LienInterne>, suivant le tribunal ayant prononcé la décision contestée.</Paragraphe>
+
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150501&amp;cidTexte=LEGITEXT000006070933" ID="R2123">
+<Titre>Code de justice administrative : articles R831-1 à R831-6</Titre>
+<Complement>Opposition</Complement>
+</Reference>
+<Definition ID="R19521">
+<Titre>Recours juridictionnel suspensif</Titre>
+<Texte>
+				<Paragraphe>Recours exercé devant un juge qui a pour effet d'empêcher l'exécution d'une mesure ou d'une décision, tant que celui-ci n'a pas statué</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1510" audience="Particuliers">Peut-on demander la révision d'une décision de justice administrative ?</QuestionReponse>
+</Publication>

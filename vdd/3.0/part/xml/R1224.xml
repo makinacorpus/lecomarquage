@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1224" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de don manuel et de sommes d'argent</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Déclaration de don manuel et de sommes d'argent - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-09</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1224</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N31160">Droits de succession et de donation</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1224" type="Formulaire">Déclaration de don manuel et de sommes d'argent</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11278*14</NumeroCerfa>
+<AutreNumero>2735</AutreNumero>
+<Texte><Paragraphe>Déclaration à remplir par le bénéficiaire d'un don manuel ou d'un don de sommes d'argent exonéré de droits de mutation.</Paragraphe>
+<Paragraphe>Le formulaire donne accès à la notice 2735-NOT (cerfa n° 50586#14) pour remplir la déclaration 2735.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.impots.gouv.fr/portail/node/9032">
+<Source>Ministère en charge des finances</Source>
+</LienWeb>
+<FicheLiee ID="F10203" audience="Particuliers" type="Fiche d'information">
+<Titre>Droits de donation : biens imposables et principales exonérations</Titre>
+<Dossier ID="N31160">Droits de succession et de donation</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1265" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelles sont les démarches fiscales à effectuer en cas de don manuel ?</Titre>
+<Dossier ID="N31160">Droits de succession et de donation</Dossier>
+</FicheLiee><OuSAdresser ID="R44924" type="National">
+<Titre>Service des impôts des entreprises (SIE) - Pôles enregistrement</Titre>
+<RessourceWeb URL="http://www2.impots.gouv.fr/liste_pole_enr/index.htm"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+</ServiceComplementaire>

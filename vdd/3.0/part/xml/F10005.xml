@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10005" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Collège : diplôme national du brevet (DNB), certificat de formation générale</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>À la fin de la scolarité au collège, les connaissances et les compétences acquises par le collégien sont évaluées. Cette évaluation permet d'obtenir, selon les cas, le diplôme national du brevet (DNB) ou le certificat de formation générale.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-30</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10005</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031742288, http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=59427, http://circulaire.legifrance.gouv.fr/pdf/2015/12/cir_40300.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N10481</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N10481">Diplômes</Niveau>
+<Niveau ID="F10005" type="Fiche avec liens externes">Collège : diplôme national du brevet (DNB), certificat de formation générale</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N10481">
+<Titre>Diplômes</Titre>
+<Fiche ID="F19608">Brevet informatique et internet (B2i)</Fiche>
+<Fiche ID="F10005">Collège : diplôme national du brevet (DNB), certificat de formation générale</Fiche>
+<Fiche ID="F10041">Diplômes professionnels (BEP, CAP...)</Fiche>
+<Fiche ID="F10004">Baccalauréat</Fiche>
+<Fiche ID="F2401">Validation des acquis de l'expérience (VAE) </Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>
+			À la fin de la scolarité au collège, les connaissances et les compétences acquises par le collégien sont évaluées. Cette évaluation permet d'obtenir, selon les cas, le diplôme national du brevet (DNB) ou le certificat de formation générale.
+		</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.education.gouv.fr/cid2619/le-diplome-national-du-brevet.html">Diplôme national du brevet (DNB)</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.education.gouv.fr/cid2620/le-certificat-de-formation-generale.html">Certificat de formation générale</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente><VoirAussi important="non">
+<Fiche ID="F19608" audience="Particuliers">
+<Titre>Brevet informatique et internet (B2i)</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31099" audience="Particuliers">
+<Titre>Programmes et horaires au collège</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031742288" ID="R42713">
+<Titre>Arrêté du 31 décembre 2015 relatif aux modalités d'attribution du diplôme national du brevet</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=59427" ID="R17320">
+<Titre>Note de service n°2012-029 du 24 février 2012 relative aux modalités d'attribution du diplôme national du brevet</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaire.legifrance.gouv.fr/pdf/2015/12/cir_40300.pdf" ID="R42516">
+<Titre>Calendrier 2016 de l'orientation et de l'affectation des élèves, des épreuves de brevet, bac, CAP, BEP et BT</Titre>
+</Reference>
+<QuestionReponse ID="F10492" audience="Particuliers">Comment obtenir la copie d'un diplôme ?</QuestionReponse>
+<QuestionReponse ID="F22331" audience="Particuliers">Peut-on contester la note obtenue à un examen de l'Éducation nationale ?</QuestionReponse>
+<QuestionReponse ID="F622" audience="Particuliers">Quelles règles s'imposent lors d'un examen ou concours public ?</QuestionReponse>
+<QuestionReponse ID="F23487" audience="Particuliers">Peut-on passer un examen de l'Éducation nationale en candidat libre ?</QuestionReponse>
+</Publication>

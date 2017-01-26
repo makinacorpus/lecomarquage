@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2733" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Renouvellement de l'autorisation de travail d'un étranger en France</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Si vous souhaitez continuer à occuper un emploi salarié en France, vous devez renouveler votre titre ou votre autorisation bientôt expiré. L'administration peut vous refuser le renouvellement de votre autorisation de travail pour plusieurs motifs.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-13</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2733</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018525720&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N107</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N107">Travail d'un étranger en France</Niveau>
+<Niveau ID="F2733" type="Fiche d'information">Renouvellement de l'autorisation de travail d'un étranger en France</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere><DossierPere ID="N107">
+<Titre>Travail d'un étranger en France</Titre>
+<Fiche ID="F2728">Demande d'autorisation de travail</Fiche>
+<Fiche ID="F2733">Renouvellement de l'autorisation</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous souhaitez continuer à occuper un emploi salarié en France, vous devez renouveler votre titre ou votre autorisation bientôt expiré. L'administration peut vous refuser le renouvellement de votre autorisation de travail pour plusieurs motifs.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Visa de long séjour valant titre de séjour (VLS-TS)</Paragraphe>
+</Titre><Paragraphe>Si vous avez un visa de long séjour valant titre de séjour (VLS-TS) délivré après accord du <Expression>service de la main d’œuvre étrangère</Expression> de la <LienInterne LienPublication="R31466" type="Acronyme">Direccte</LienInterne>, vous devez demander le renouvellement de l'autorisation de travail avant la fin de validité de votre titre.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous déposer votre demande en préfecture à la préfecture ou la sous-préfecture de votre domicile dans les 2 mois qui précèdent la fin de validité de votre VLS-TS.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+												<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											<Attention>
+<Titre>Attention</Titre>
+												<Paragraphe> il n'est pas possible d'effectuer les démarches dans certaines sous-préfectures.</Paragraphe>
+											</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R42203" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Service des titres de séjour</Titre>
+<PivotLocal>paris_ppp_titre_sejour</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour/Nous-contacter-Titre-de-sejour"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Vous devez joindre à votre demande un certain nombre de documents. </Paragraphe>
+<Paragraphe>Ces documents varient suivant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>qu'il s'agit d'une 1<Exposant>re</Exposant> demande de renouvellement ou non,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>que l'emploi que vous allez occuper est le même ou non que celui à l'origine de votre 1<Exposant>re</Exposant> autorisation de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de votre statut de travailleur.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Instruction de la demande</Paragraphe>
+</Titre>
+				<Paragraphe>Votre demande de renouvellement est instruite, comme votre  1<Exposant>re</Exposant>  demande d'autorisation de travail, par le service de la main d'œuvre étrangère de la Direccte. Il n'y a pas de renouvellement automatique.</Paragraphe>
+				<Paragraphe>Si, lors du 1<Exposant>er</Exposant> renouvellement, vous demandez à occuper un emploi dans un métier ou  une zone géographique différents de ceux mentionnés sur votre autorisation initiale, <LienInterne LienPublication="F2728" type="Fiche d'information" audience="Particuliers"> l'ensemble des critères exigés pour une première demande</LienInterne> peut vous être opposé.</Paragraphe>
+				<Paragraphe>Votre autorisation de travail est renouvelée dans la limite de la durée restant à courir de votre contrat de travail  ou de la mission qu'il vous reste à accomplir en France.</Paragraphe>
+			
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision de l'administration</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Accord</Paragraphe>
+</Titre><Paragraphe>En cas d'accord sur votre demande, vous recevez une 1<Exposant>re</Exposant> carte de séjour.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Refus</Paragraphe>
+</Titre><Paragraphe>Votre demande de renouvellement peut être refusée pour un des motifs suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre employeur a contrevenu à la législation du travail ou sur la protection sociale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre employeur n'a pas respecté les conditions d'emploi, de rémunération ou de logement fixées par l'autorisation de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous  n'avez pas respecté les mentions figurant sur votre autorisation (par exemple vous avez exercé un autre métier que celui mentionné sur l'autorisation),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre contrat de travail a été rompu dans les 12 mois suivant votre embauche, sauf en cas de perte involontaire d'emploi.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de refus de renouvellement, vous recevez normalement un refus de séjour assorti <LienInterne LienPublication="F18362" type="Fiche d'information" audience="Particuliers">d'une obligation de quitter la France</LienInterne>, sauf si vous pouvez bénéficier du séjour à un autre titre (par exemple pour raison familiale).</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Carte de séjour</Paragraphe>
+</Titre><Paragraphe>si vous avez une carte de séjour délivrée après accord du service de la main d’œuvre étrangère de la <LienInterne LienPublication="R31466" type="Acronyme">Direccte</LienInterne>, vous devez demander le renouvellement de l'autorisation de travail avant la fin de validité de votre carte.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous déposer votre demande en préfecture à la préfecture ou la sous-préfecture de votre domicile, dans les 2 mois qui précèdent la fin de validité de votre carte de séjour.</Paragraphe>
+<Paragraphe>Renseignez-vous toutefois au guichet ou sur le site internet de votre préfecture. Certaines préfectures exigent, en effet, du demandeur qu'il présente sa demande de renouvellement jusqu'à 5 mois avant l'expiration de sa carte de séjour pour lui fixer un rendez-vous.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											
+												<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+											<Attention>
+<Titre>Attention</Titre>
+												<Paragraphe> il n'est pas possible d'effectuer les démarches dans certaines sous-préfectures.</Paragraphe>
+											</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R42203" type="Local personnalisable">
+<Titre>Préfecture de police de Paris - Service des titres de séjour</Titre>
+<PivotLocal>paris_ppp_titre_sejour</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Ressortissants-etrangers/Titre-de-sejour/Nous-contacter-Titre-de-sejour"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Vous devez joindre à votre demande un certain nombre de documents. </Paragraphe>
+<Paragraphe>Ces documents varient suivant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>qu'il s'agit d'une 1<Exposant>re</Exposant>  demande de renouvellement ou non,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>que l'emploi que vous allez occuper est le même ou non que celui à l'origine de votre 1<Exposant>re</Exposant> autorisation de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de votre statut de travailleur.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Instruction de la demande</Paragraphe>
+</Titre>
+				<Paragraphe>Votre demande de renouvellement est instruite, comme votre  1<Exposant>re</Exposant>  demande d'autorisation de travail, par le service de la main d'œuvre étrangère de la Direccte. Il n'y a pas de renouvellement automatique.</Paragraphe>
+				<Paragraphe>Si, lors du 1<Exposant>er</Exposant> renouvellement, vous demandez à occuper un emploi dans un métier ou  une zone géographique différents de ceux mentionnés sur votre autorisation initiale, <LienInterne LienPublication="F2728" type="Fiche d'information" audience="Particuliers"> l'ensemble des critères exigés pour une première demande</LienInterne> peut vous être opposé.</Paragraphe>
+				<Paragraphe>Votre autorisation de travail est renouvelée dans la limite de la durée restant à courir de votre contrat de travail  ou de la mission qu'il vous reste à accomplir en France.</Paragraphe>
+			
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision de l'administration</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Accord</Paragraphe>
+</Titre><Paragraphe>En cas d'accord sur votre demande, votre carte de séjour est renouvelée.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Refus</Paragraphe>
+</Titre><Paragraphe>Votre demande de renouvellement peut être refusée pour un des motifs suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre employeur a contrevenu à la législation du travail ou sur la protection sociale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre employeur n'a pas respecté les conditions d'emploi, de rémunération ou de logement fixées par l'autorisation de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous  n'avez pas respecté les mentions figurant sur votre autorisation (par exemple vous avez exercé un autre métier que celui mentionné sur l'autorisation),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre contrat de travail a été rompu dans les 12 mois suivant votre embauche, sauf en cas de perte involontaire d'emploi.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de refus de renouvellement, vous recevez normalement un refus de séjour assorti <LienInterne LienPublication="F18362" type="Fiche d'information" audience="Particuliers">d'une obligation de quitter la France</LienInterne>, sauf si vous pouvez bénéficier du séjour à un autre titre (par exemple pour raison familiale).</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Autorisation provisoire de travail</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Dépôt de la demande</Paragraphe>
+</Titre><Paragraphe>Vous devez déposer  votre demande auprès de la Direccte, dans les 2 mois qui précèdent la fin de validité de votre autorisation provisoire de travail.</Paragraphe><OuSAdresser ID="R20" type="Local personnalisé sur SP">
+<Titre>Unité départementale de la Direccte</Titre>
+<PivotLocal>direccte_ut</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Unit%C3%A9+territoriale+de+la+Direccte&amp;where="/>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à fournir</Paragraphe>
+</Titre><Paragraphe>Vous devez joindre à votre demande un certain nombre de documents. </Paragraphe>
+<Paragraphe>Ces documents varient suivant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>qu'il s'agit d'une première demande de renouvellement ou non,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>que l'emploi que vous allez occuper est le même ou non que celui à l'origine de votre 1<Exposant>re</Exposant> autorisation de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de votre statut de travailleur.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Instruction de la demande</Paragraphe>
+</Titre>
+				<Paragraphe>Votre demande de renouvellement est instruite, comme votre  1<Exposant>re</Exposant>  demande d'autorisation de travail, par le service de la main d'œuvre étrangère de la Direccte. Il n'y a pas de renouvellement automatique.</Paragraphe>
+				<Paragraphe>Si, lors du 1<Exposant>er</Exposant> renouvellement, vous demandez à occuper un emploi dans un métier ou  une zone géographique différents de ceux mentionnés sur votre autorisation initiale, <LienInterne LienPublication="F2728" type="Fiche d'information" audience="Particuliers"> l'ensemble des critères exigés pour une première demande</LienInterne> peut vous être opposé.</Paragraphe>
+				<Paragraphe>Votre autorisation de travail est renouvelée dans la limite de la durée restant à courir de votre contrat de travail  ou de la mission qu'il vous reste à accomplir en France.</Paragraphe>
+			
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision de l'administration</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Accord</Paragraphe>
+</Titre><Paragraphe>En cas d'accord sur votre demande votre autorisation provisoire de travail est renouvelée.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Refus</Paragraphe>
+</Titre><Paragraphe>Votre demande de renouvellement peut être refusée pour un des motifs suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre employeur a contrevenu à la législation du travail ou sur la protection sociale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre employeur n'a pas respecté les conditions d'emploi, de rémunération ou de logement fixées par l'autorisation de travail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous  n'avez pas respecté les mentions figurant sur votre autorisation (par exemple vous avez exercé un autre métier que celui mentionné sur l'autorisation),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre contrat de travail a été rompu dans les 12 mois suivant votre embauche, sauf en cas de perte involontaire d'emploi.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de refus de renouvellement, vous recevez normalement un refus de séjour assorti <LienInterne LienPublication="F18362" type="Fiche d'information" audience="Particuliers">d'une obligation de quitter la France</LienInterne>, sauf si vous pouvez bénéficier du séjour à un autre titre (par exemple pour raison familiale).</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018525720&amp;cidTexte=LEGITEXT000006072050" ID="R2720">
+<Titre>Code du travail : articles R5221-32 à R5221-36</Titre>
+<Complement>Renouvellement de l'autorisation de travail</Complement>
+</Reference>
+<Abreviation ID="R31466" type="Acronyme">
+<Titre>Direccte</Titre>
+<Texte>
+<Paragraphe>Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi</Paragraphe>
+</Texte>
+</Abreviation>
+
+
+</Publication>

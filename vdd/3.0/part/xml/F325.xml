@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F325" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Apa : quels sont les recours possibles en cas de litige ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Toute décision relative à l'allocation personnalisée d'autonomie (Apa) peut être contestée, par voie de recours amiable ou de recours contentieux.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Caisse nationale de solidarité pour l'autonomie (CNSA)</dc:contributor>
+<dc:date>modified 2016-11-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F325</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157564&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178309&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006905644&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N392</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="F325" type="Fiche Question-réponse">Apa : quels sont les recours possibles en cas de litige ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Fiche ID="F10009">Allocation personnalisée d'autonomie (Apa)</Fiche>
+<Fiche ID="F16871">Allocation de solidarité aux personnes âgées (Aspa)</Fiche>
+<Fiche ID="F16940">Allocation supplémentaire d'invalidité (Asi)</Fiche>
+<Fiche ID="F2572">Allocation simple</Fiche>
+<Fiche ID="F245">Aide-ménagère à domicile</Fiche>
+<Fiche ID="F248">Prise en charge des repas</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Vous pouvez contester toute décision concernant le refus de vous attribuer l'allocation personnalisée d'autonomie (Apa), le montant proposé, la suspension du versement ou la réduction de son montant. Deux voies de recours sont ouvertes, simultanément ou non : un recours amiable et un recours contentieux.</Paragraphe>
+<Paragraphe>
+<MiseEnEvidence>Recours amiable</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe> Si vous contestez une décision relative à l'Apa, vous pouvez former un recours amiable en saisissant les services du département.</Paragraphe>
+<Paragraphe>Vous devez adresser votre recours, par lettre recommandée avec accusé de réception, aux services du département.</Paragraphe>
+<Paragraphe>Ce recours doit être effectué dans les 2 mois suivant la <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> de la décision contestée.</Paragraphe>
+<Paragraphe>La commission dispose d'un délai d'un mois pour proposer une solution au litige. Au vu de cette proposition, une décision est prise dans les 15 jours qui suivent par les services du département.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le recours amiable suspend les délais prévus en cas de recours contentieux.</Paragraphe>
+</ANoter><Paragraphe>
+<MiseEnEvidence>Recours contentieux</MiseEnEvidence>
+</Paragraphe>
+<Paragraphe>Simultanément ou à l'issue du recours amiable, vous pouvez former un recours contentieux devant la commission départementale d'aide sociale. Si vous le souhaitez, vous pouvez être entendu par la commission (accompagné de la personne ou de l'organisme de votre choix).</Paragraphe>
+<Paragraphe> Vous devez déposer votre recours dans les 2 mois suivant la notification de la décision contestée.</Paragraphe>
+<Paragraphe>Si vous le souhaitez, vous pouvez contester la décision de la commission départementale d'aide sociale. L'appel de cette décision est formée auprès de la commission centrale d'aide sociale, dans les 2 mois suivant la notification de la décision de la commission départementale.</Paragraphe>
+<Paragraphe>Si vous le souhaitez, vous pouvez être entendu par la commission centrale (accompagné de la personne ou de l'organisme de votre choix).</Paragraphe>
+<Paragraphe>La décision prise par la commission centrale d'aide sociale peut faire l'objet d'un <LienInterne LienPublication="F2496" type="Fiche d'information" audience="Particuliers">recours en cassation devant le Conseil d'État</LienInterne>.</Paragraphe>
+
+</Texte><OuSAdresser ID="R285" type="National">
+<Titre>Conseil d'État</Titre>
+<Complement>Pour former un recours en cassation</Complement>
+<RessourceWeb URL="http://www.conseil-etat.fr/Conseil-d-Etat/Contacts-Informations-pratiques"/>
+</OuSAdresser>
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<Complement>Pour toute information et saisir la commission départementale de l'Apa</Complement>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157564&amp;cidTexte=LEGITEXT000006074069" ID="R523">
+<Titre>Code de l'action sociale et des familles : articles L134-1 à L134-10</Titre>
+<Complement>Recours contentieux</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178309&amp;cidTexte=LEGITEXT000006074069" ID="R40622">
+<Titre>Code de l'action sociale et des familles : article R134-10</Titre>
+<Complement>Recours contentieux (délai)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006905644&amp;cidTexte=LEGITEXT000006074069" ID="R40623">
+<Titre>Code de l'action sociale et des familles : article D232-26</Titre>
+<Complement>Recours amiable</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41351" URL="http://www.pour-les-personnes-agees.gouv.fr" audience="Particuliers">
+<Titre>Portail d'information et d'orientation des personnes âgées et leurs proches</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F2112" audience="Particuliers">L'Apa peut-elle être suspendue ?</QuestionReponse>
+<QuestionReponse ID="F32877" audience="Particuliers">Le montant de l'Apa peut-il être révisé ?</QuestionReponse>
+</Publication>

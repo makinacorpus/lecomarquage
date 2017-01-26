@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2860" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration d'immatriculation d'une société civile (M0)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation, Fiscalité</dc:subject>
+<dc:description>Déclaration d'immatriculation d'une société civile (M0) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-22</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2860</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2860" type="Formulaire">Déclaration d'immatriculation d'une société civile (M0)</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13958*01</NumeroCerfa>
+<Texte><Paragraphe>À utiliser pour la constitution de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une société civile immobilière (SCI),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une société civile professionnelle (SCP),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une société civile de moyens (SCM),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une société civile de construction-vente,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une coopérative d'utilisation de matériel agricole (CUMA),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un groupement forestier,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un groupement foncier agricole non exploitant.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13958.do">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb><NoticeLiee ID="R18342" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13958&amp;cerfaNotice=51386" numerocerfa="51386#02">Notice pour la déclaration d'immatriculation d'une société civile</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="14067*01">
+<Titre>Intercalaire</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14067.do"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F23458" audience="Professionnels" type="Fiche d'information">
+<Titre>Déclaration d'activité pour les professions libérales</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32042" audience="Professionnels" type="Fiche d'information">
+<Titre>Régime fiscal d'une société civile de moyens (SCM)</Titre>
+<Dossier ID="N13442">Imposition des sociétés</Dossier>
+</FicheLiee><OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+</ServiceComplementaire>

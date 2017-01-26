@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R39412" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Rechercher une entreprise ayant la qualité "Reconnu garant de l'environnement"</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Permet de rechercher une entreprise qualifiée pour effectuer les travaux éligibles à l'éco-prêt à taux zéro (éco-PTZ)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-12</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R39412</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N321">Aides et prêts pour l'amélioration de l'habitat</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R39412" type="Téléservice">Rechercher une entreprise ayant la qualité "Reconnu garant de l'environnement"</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de rechercher une entreprise qualifiée pour effectuer les travaux éligibles à l'éco-prêt à taux zéro (éco-PTZ)</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.renovation-info-service.gouv.fr/trouvez-un-professionnel">
+<Source>Ministère en charge du logement</Source>
+</LienWeb>
+<FicheLiee ID="F19905" audience="Particuliers" type="Fiche d'information">
+<Titre>Éco-prêt à taux zéro (éco-PTZ)</Titre>
+<Dossier ID="N321">Aides et prêts pour l'amélioration de l'habitat</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

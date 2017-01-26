@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F18777" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Incidents de paiement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Les dépassements de découvert et les rejets de chèques, de virements, de prélèvements constituent des incidents de paiement sanctionnés par la banque.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F18777</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020866609&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006639356&amp;cidTexte=LEGITEXT000006072026, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000021032899&amp;cidTexte=LEGITEXT000006072026, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185224&amp;cidTexte=LEGITEXT000006072026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N98</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="F18777" type="Fiche d'information">Incidents de paiement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N98">
+<Titre>Comptes bancaires</Titre><SousDossier ID="N98-1">
+<Titre>Types de compte</Titre>
+<Fiche ID="F2413">Compte individuel</Fiche>
+<Fiche ID="F10412">Compte joint</Fiche>
+<Fiche ID="F2812">Compte indivis</Fiche>
+</SousDossier>
+<SousDossier ID="N98-2">
+<Titre>Droit au compte</Titre>
+<Fiche ID="F2417">Refus d'ouverture de compte</Fiche>
+<Fiche ID="F31456">Clôture d'un compte par la banque</Fiche>
+</SousDossier>
+<SousDossier ID="N98-3">
+<Titre>Problèmes de trésorerie</Titre>
+<Fiche ID="F31423">Découvert autorisé</Fiche>
+<Fiche ID="F18777">Incidents de paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N98-4">
+<Titre>Opérations bancaires</Titre>
+<Fiche ID="F20752">Opérations bancaires (virement, prélèvement, chèque...)</Fiche>
+<Fiche ID="F1537">Réception d'un chèque sans provision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Problèmes de trésorerie</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les dépassements de découvert non autorisés et les rejets par la banque de chèques, de virements ou de prélèvements  constituent des incidents de paiement.
+		
+			Ils génèrent des sanctions et des frais.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Chèque sans provision</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Information du client</Paragraphe>
+</Titre><Paragraphe> La banque prévient obligatoirement le payeur du risque d'incident de paiement avant que celui-ci ne se produise effectivement. Cela permet au payeur capable de réapprovisionner son compte rapidement d'éviter l'incident de paiement.</Paragraphe>
+<Paragraphe>Le payeur est informé du rejet du chèque  dans des délais brefs.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Résolution de l'incident</Paragraphe>
+</Titre><Paragraphe>Dès lors qu'il est informé de l'incident, le payeur doit régulariser sa situation par rapport à son <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit, après réapprovisionnement du compte, grâce à une nouvelle présentation du chèque,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par acquittement direct des sommes dues auprès du créancier, par tout moyen.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À défaut, le payeur s'expose à un <LienInterne LienPublication="N269" type="Dossier" audience="Particuliers">procès civil</LienInterne> l'opposant à son créancier et, en cas de chèque sans provision, à devenir <LienInterne LienPublication="F31388" type="Fiche d'information" audience="Particuliers">interdit bancaire</LienInterne> pendant 5 ans.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût du rejet d'un chèque</Paragraphe>
+</Titre><Paragraphe>L'ensemble des frais perçus par l'établissement bancaire ne peut excéder un certain plafond en fonction du montant du chèque rejeté :</Paragraphe>
+<Tableau>
+<Titre>Plafonds de frais pour chèque sans provision</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Montant du chèque rejeté</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais maximum</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieur ou égal à <Valeur>50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>30 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieur à <Valeur>50 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>50 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Dans ces frais sont compris la facturation des divers courriers relatifs à l'incident de paiement et adressés par la banque.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le rejet d'un chèque présenté à plusieurs reprises dans les 30 jours suivant le premier rejet constitue un incident de paiement unique.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mémorisation de l'incident</Paragraphe>
+</Titre><Paragraphe>La mémoire des incidents de paiement non résolus peut être conservée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans les fichiers privés de la banque concernée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le <LienInterne LienPublication="F2411" type="Fiche d'information" audience="Particuliers">fichier central des chèques</LienInterne> (FCC) et le <LienInterne LienPublication="F21131" type="Fiche d'information" audience="Particuliers">fichier national des chèques irréguliers</LienInterne> (FNCI), en cas de chèque sans provision,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le <LienInterne LienPublication="F17608" type="Fiche d'information" audience="Particuliers">fichier des incidents de remboursement des crédits aux particuliers</LienInterne> (FICP), en cas d'impayés relatifs à des échéances de crédit.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Après régularisation, la mémoire des incidents de paiement ne peut plus être conservée que dans les fichiers privés de la banque.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Rejet d'un virement ou d'un prélèvement</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Information du client</Paragraphe>
+</Titre><Paragraphe> La banque n'est pas obligée de prévenir le payeur de son intention de rejeter l'ordre ou de percevoir des frais de forçage.</Paragraphe>
+<Paragraphe> La banque n'est pas non plus tenue d'informer le payeur de la décision de rejet. Celui-ci n'en a connaissance qu'en consultant ses comptes ou en interrogeant sa banque.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Résolution de l'incident</Paragraphe>
+</Titre><Paragraphe>Dès lors qu'il est informé de l'incident, le payeur doit régulariser sa situation par rapport à son créancier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit, après réapprovisionnement du compte, grâce à une nouvelle présentation de l'ordre de paiement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par acquittement direct des sommes dues auprès du créancier, par tout moyen.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À défaut, le payeur s'expose à un procès civil l'opposant à son créancier et, en cas de chèque sans provision, à devenir interdit bancaire pendant 5 ans.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Le montant des frais bancaires ne peut pas excéder le montant de l'ordre de paiement rejeté et est plafonné à <Valeur>20 €</Valeur>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mémorisation de l'incident</Paragraphe>
+</Titre><Paragraphe>La mémoire des incidents de paiement non résolus peut être conservée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans les fichiers privés de la banque concernée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le <LienInterne LienPublication="F2411" type="Fiche d'information" audience="Particuliers">fichier central des chèques</LienInterne> (FCC) et le <LienInterne LienPublication="F21131" type="Fiche d'information" audience="Particuliers">fichier national des chèques irréguliers</LienInterne> (FNCI), en cas de chèque sans provision,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le <LienInterne LienPublication="F17608" type="Fiche d'information" audience="Particuliers">fichier des incidents de remboursement des crédits aux particuliers</LienInterne> (FICP), en cas d'impayés relatifs à des échéances de crédit.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Après régularisation, la mémoire des incidents de paiement ne peut plus être conservée que dans les fichiers privés de la banque.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Découvert non autorisé</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Information du client</Paragraphe>
+</Titre><Paragraphe> La banque n'est pas obligée de prévenir le payeur de son intention de rejeter l'ordre ou de percevoir des frais de forçage.</Paragraphe>
+<Paragraphe>En revanche, le  payeur est informé du de la décision de rejet dans des délais brefs.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Résolution de l'incident</Paragraphe>
+</Titre><Paragraphe>Dès lors qu'il est informé de l'incident, le payeur doit régulariser sa situation  :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit en  réapprovisionnant son  compte, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par acquittement direct des sommes dues auprès du créancier, par tout autre moyen</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Coût d'un dépassement de découvert autorisé</Paragraphe>
+</Titre><Paragraphe>Des frais pour dépassement de découvert autorisé peuvent être perçus par l'établissement bancaire, dans les limites suivantes.</Paragraphe>
+<Tableau>
+<Titre>Plafonds de frais pour dépassement de découvert</Titre>
+<Colonne largeur="33" type="header"/>
+<Colonne largeur="33" type="normal"/>
+<Colonne largeur="33" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Situation financière du client</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais maximum par opération</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Frais maximum par mois</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Bonne</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>80 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Fragile</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>4 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>20 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe> les personnes <LienInterne LienPublication="F1946" type="Fiche d'information" audience="Particuliers">reconnues surendettées</LienInterne> ou bénéficiaires du service bancaire de base suite à un <LienInterne LienPublication="F2417" type="Fiche d'information" audience="Particuliers">refus d'ouverture de compte bancaire</LienInterne> sont considérées comme étant en situation financière fragile.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mémorisation de l'incident</Paragraphe>
+</Titre><Paragraphe>La mémoire des incidents de paiement non résolus peut être conservée :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans les fichiers privés de la banque concernée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le <LienInterne LienPublication="F2411" type="Fiche d'information" audience="Particuliers">fichier central des chèques</LienInterne> (FCC) et le <LienInterne LienPublication="F21131" type="Fiche d'information" audience="Particuliers">fichier national des chèques irréguliers</LienInterne> (FNCI), en cas de chèque sans provision,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans le <LienInterne LienPublication="F17608" type="Fiche d'information" audience="Particuliers">fichier des incidents de remboursement des crédits aux particuliers</LienInterne> (FICP), en cas d'impayés relatifs à des échéances de crédit.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Après régularisation, la mémoire des incidents de paiement ne peut plus être conservée que dans les fichiers privés de la banque.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000020866609&amp;cidTexte=LEGITEXT000006072026" ID="R10336">
+<Titre>Code monétaire et financier : articles L312-1-1 à L312-1-8</Titre>
+<Complement>Relations entre les banques et leurs clients</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006639356&amp;cidTexte=LEGITEXT000006072026" ID="R11975">
+<Titre>Code monétaire et financier : article R131-15 à D131-25</Titre>
+<Complement>Frais pour chèque rejeté</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000021032899&amp;cidTexte=LEGITEXT000006072026" ID="R17091">
+<Titre>Code monétaire et financier : articles D133-5 à D133-6</Titre>
+<Complement>Frais pour ordre de virement ou de prélèvement rejeté</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006185224&amp;cidTexte=LEGITEXT000006072026" ID="R35099">
+<Titre>Code monétaire et financier : articles R312-1 à R312-4-4</Titre>
+<Complement>Frais pour dépassement de découvert autorisé</Complement>
+</Reference>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1930" audience="Particuliers">Comment régulariser un chèque sans provision ?</QuestionReponse>
+<QuestionReponse ID="F2909" audience="Particuliers">Que contient une convention de compte bancaire ?</QuestionReponse>
+<QuestionReponse ID="F848" audience="Particuliers">Comment une banque doit-elle faire connaître ses tarifs à ses clients ?</QuestionReponse>
+</Publication>

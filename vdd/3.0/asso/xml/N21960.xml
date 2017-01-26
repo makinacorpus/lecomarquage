@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N21960" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Collecte de fonds par une association</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Financement et fiscalité d'une association</dc:subject>
+<dc:description>Collecte de fonds par une association</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-14</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N21960</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31405</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31405">Financement et fiscalité d'une association</Niveau>
+<Niveau ID="N21960" type="Dossier">Collecte de fonds par une association</Niveau>
+</FilDAriane>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+</Theme>
+<Fiche ID="F3175">Cotisations</Fiche>
+<Fiche ID="F2722">Dons, donations et legs</Fiche>
+<Fiche ID="F3180">Subventions</Fiche><Partenaire ID="R18658" URL="http://www.associations.gouv.fr"/>
+<ServiceEnLigne ID="R1271" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12156.do" format="application/force-download" poids="2,55 Mo" numerocerfa="12156*05" type="Formulaire">
+<Titre>Association : demande de subvention</Titre>
+<Source ID="R30678">Ministère en charge de la vie associative</Source><NoticeLiee ID="R19052" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51781&amp;cerfaFormulaire=12156" numerocerfa="51781#01" format="application/pdf" poids="308.1 KB">Notice pour remplir une demande de subvention par une association</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33645" URL="http://www.fse.gouv.fr/IMG/Demande%20de%20subvention.doc" format="application/msword" poids="686.5 KB" type="Formulaire">
+<Titre>Demande de subvention auprès du Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R33647" URL="http://www.fse.gouv.fr/IMG/pdf/Guide_du_Candidat.pdf" format="application/pdf" poids="3.0 MB">Guide du candidat à un financement du Fonds social européen</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33646" URL="http://www.fse.gouv.fr/IMG/pdf/modele_de_convention_bilaterale_FSE-2.pdf" format="application/pdf" poids="422.2 KB" type="Formulaire">
+<Titre>Modèle de convention bilatérale d'accès au Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R33647" URL="http://www.fse.gouv.fr/IMG/pdf/Guide_du_Candidat.pdf" format="application/pdf" poids="3.0 MB">Guide du candidat à un financement du Fonds social européen</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1329" URL="https://ma-demarche-fse.fr/demat/servlet/login.html" type="Téléservice">
+<Titre>Ma démarche Fonds social européen (FSE)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33689" URL="http://www.erasmusplus-jeunesse.fr/site/documents-a-telecharger.html#guide" type="Téléservice">
+<Titre>Demande de subvention spécifique Programme Erasmus +</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33693" URL="http://www.erasmusplus-jeunesse.fr/site/documents-a-telecharger.html" type="Formulaire">
+<Titre>Modèle de convention de subvention relative à un projet Erasmus + jeunesse</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33679" URL="http://www.ofaj.org/sites/default/files/Demande-subvention-remplissable.pdf" format="application/pdf" poids="300.8 KB" type="Formulaire">
+<Titre>Demande de subvention spécifique Office franco-allemand pour la jeunesse (Ofaj)</Titre>
+<Source ID="R33680">Office franco-allemand pour la jeunesse (Ofaj)</Source><NoticeLiee ID="R33681" URL="http://www.ofaj.org/sites/default/files/directives-richtlinien.pdf" format="application/pdf" poids="1.1 MB">Directives pour les subventions de l'Office franco-allemand pour la jeunesse (Ofaj)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33682" URL="http://www.ofaj.org/sites/default/files/Liste-des-participants.pdf" format="application/pdf" poids="197.1 KB" type="Formulaire">
+<Titre>Annexe à la demande de subvention spécifique Ofaj : liste des participants</Titre>
+<Source ID="R33680">Office franco-allemand pour la jeunesse (Ofaj)</Source><NoticeLiee ID="R33681" URL="http://www.ofaj.org/sites/default/files/directives-richtlinien.pdf" format="application/pdf" poids="1.1 MB">Directives pour les subventions de l'Office franco-allemand pour la jeunesse (Ofaj)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33683" URL="http://www.ofaj.org/sites/default/files/Decompte-d-utilisation-remplissable.pdf" format="application/pdf" poids="309.8 KB" type="Formulaire">
+<Titre>Annexe à la demande de subvention spécifique Ofaj : décompte d'utilisation</Titre>
+<Source ID="R33680">Office franco-allemand pour la jeunesse (Ofaj)</Source><NoticeLiee ID="R33681" URL="http://www.ofaj.org/sites/default/files/directives-richtlinien.pdf" format="application/pdf" poids="1.1 MB">Directives pour les subventions de l'Office franco-allemand pour la jeunesse (Ofaj)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33684" URL="http://www.ofaj.org/sites/default/files/Liste-des-justificatifs-remplissable.pdf" format="application/pdf" poids="187.8 KB" type="Formulaire">
+<Titre>Annexe à la demande de subvention spécifique Ofaj : liste des justificatifs</Titre>
+<Source ID="R33680">Office franco-allemand pour la jeunesse (Ofaj)</Source><NoticeLiee ID="R33681" URL="http://www.ofaj.org/sites/default/files/directives-richtlinien.pdf" format="application/pdf" poids="1.1 MB">Directives pour les subventions de l'Office franco-allemand pour la jeunesse (Ofaj)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31191" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12605.do" numerocerfa="12605*03" type="Formulaire">
+<Titre>Demande d'aide du fonds départemental d'insertion</Titre>
+<Source ID="R30671">Ministère en charge de la formation professionnelle</Source><NoticeLiee ID="R31193" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51094&amp;cerfaFormulaire=12605" numerocerfa="51094#03">Notice de la demande d'aide du fonds départemental d'insertion</NoticeLiee>
+</ServiceEnLigne>
+<QuestionReponse ID="F31677" audience="Associations">Comment accéder au Fonds social européen (FSE) ?</QuestionReponse>
+<QuestionReponse ID="F31682" audience="Associations">Quelles sont les subventions possibles pour un échange international de jeunes ?</QuestionReponse>
+<QuestionReponse ID="F3177" audience="Associations">Comment estimer la valeur des aides en nature ?</QuestionReponse>
+<QuestionReponse ID="F2907" audience="Associations">Dans quel cas faut-il recourir au commissaire aux comptes ?</QuestionReponse>
+</Publication>

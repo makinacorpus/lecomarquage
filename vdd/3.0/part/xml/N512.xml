@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N512" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Maladie, accident du travail ou invalidité dans la fonction publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Maladie, accident du travail ou invalidité dans la fonction publique : Congés de maladie du fonctionnaire, Congés de maladie de l'agent contractuel, Invalidité</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-01</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N512</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19806</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N512" type="Dossier">Maladie, accident du travail ou invalidité dans la fonction publique</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19965">Santé, sécurité et conditions de travail</SousThemePere>
+<SousDossier ID="N512-1">
+<Titre>Congés de maladie du fonctionnaire</Titre><Fiche ID="F490">Congé de maladie ordinaire (CMO)</Fiche>
+<Fiche ID="F18089">Congé de longue maladie (CLM)</Fiche>
+<Fiche ID="F18098">Congé de longue durée (CLD)</Fiche>
+<Fiche ID="F33252">Congé pour accident de service ou maladie professionnelle (fonction publique)</Fiche>
+<Fiche ID="F549">Reclassement professionnel pour inaptitude physique</Fiche>
+</SousDossier>
+<SousDossier ID="N512-2">
+<Titre>Congés de maladie de l'agent contractuel</Titre><Fiche ID="F491">Congé de maladie</Fiche>
+<Fiche ID="F547">Congé de grave maladie</Fiche>
+</SousDossier>
+<SousDossier ID="N512-3">
+<Titre>Invalidité</Titre><Fiche ID="F31234">Allocations (invalidité temporaire)</Fiche>
+<Fiche ID="F550">Retraite (invalidité permanente)</Fiche>
+</SousDossier><ServiceEnLigne ID="R482" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12827.do" numerocerfa="12827*01" type="Formulaire">
+<Titre>Déclaration de maladie professionnelle</Titre>
+<Source ID="R30602">Ministère en charge de la fonction publique</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R895" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14690.do" format="application/force-download" poids="280.5 KB" numerocerfa="14690*03" type="Formulaire">
+<Titre>Demande d'avis conforme de mise à la retraite pour invalidité</Titre>
+<Source ID="R30647">Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18106" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14356.do" format="application/force-download" poids="234.6 KB" numerocerfa="14356*02" type="Formulaire">
+<Titre>Admission à la retraite pour invalidité (questionnaire médical)</Titre>
+<Source ID="R30602">Ministère en charge de la fonction publique</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18701" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14355.do" format="application/force-download" poids="194.3 KB" numerocerfa="cerfa 14355*02" type="Formulaire">
+<Titre>Allocation temporaire d'invalidité (questionnaire médical)</Titre>
+<Source ID="R30602">Ministère en charge de la fonction publique</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F13861" audience="Particuliers">Le jour de carence pour maladie existe-t-il encore ?</QuestionReponse>
+<QuestionReponse ID="F11016" audience="Particuliers">Que se passe-t-il en cas de maladie pendant les congés annuels ?</QuestionReponse>
+<QuestionReponse ID="F12788" audience="Particuliers">Un fonctionnaire peut-il bénéficier d'un temps partiel thérapeutique ?</QuestionReponse>
+<QuestionReponse ID="F12391" audience="Particuliers">Un contractuel peut-il bénéficier d'un temps partiel thérapeutique ?</QuestionReponse>
+<QuestionReponse ID="F12565" audience="Particuliers">Arrêt maladie d'un fonctionnaire : en quoi consiste l'indemnité différentielle ?</QuestionReponse>
+<QuestionReponse ID="F12392" audience="Particuliers">Un agent public perd-il les congés non pris pour cause de maladie ?</QuestionReponse>
+<QuestionReponse ID="F13825" audience="Particuliers">Maladie ou inaptitude d'un fonctionnaire stagiaire : quelles conséquences ?</QuestionReponse>
+<QuestionReponse ID="F18085" audience="Particuliers">Que sont le comité médical et la commission de réforme ?</QuestionReponse>
+</Publication>

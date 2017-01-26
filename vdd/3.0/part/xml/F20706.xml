@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F20706" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment consulter gratuitement un avocat ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Il est possible de consulter gratuitement un avocat lors de permanences proposées par différents organismes et institutions ou grâce à certaines clauses de son contrat d'assurance.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-12-11</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F20706</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N261</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N261">Accès au droit et à la justice</Niveau>
+<Niveau ID="F20706" type="Fiche Question-réponse">Comment consulter gratuitement un avocat ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N261">
+<Titre>Accès au droit et à la justice</Titre>
+<Fiche ID="F18074">Aide juridictionnelle</Fiche>
+<Fiche ID="F1816">Coût d'un procès</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Il est possible de consulter gratuitement un avocat lors de permanences proposées par différents organismes et institutions ou grâce à certaines clauses de son contrat d'assurance.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Dans un organisme d'aide à l'accès au droit</Paragraphe>
+</Titre><Paragraphe>Certaines institutions publiques orientent et renseignent le public dans ses droits. Des consultations gratuites d'avocats y sont dispensées. Il en existe sur tout le territoire :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les maisons de justice et du droit, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les points d'accès au droit,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les centres départementaux d'accès au droit (CDAD),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les centres d'information pour le droit des femmes et des familles.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R46024" type="Local">
+<Titre>Point d'accès au droit</Titre>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-points-dacces-au-droit-21772.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R10791" type="Local personnalisé sur SP">
+<Titre>Centre d'information sur les droits des femmes (CIDF)</Titre>
+<PivotLocal>cidf</PivotLocal>
+<RessourceWeb URL="http://www.infofemmes.com/v2/p/Contact/Liste-des-CIDFF/73"/>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dans une association de consommateurs</Paragraphe>
+</Titre><Paragraphe>Certains associations de consommateurs offrent à leurs adhérents des consultations gratuites avec un avocat. </Paragraphe><OuSAdresser ID="R34271" type="Local personnalisable">
+<Titre>Association de consommateurs</Titre>
+<PivotLocal>association_consommateurs</PivotLocal>
+<RessourceWeb URL="http://www.economie.gouv.fr/dgccrf/Partenaires-283"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À la mairie ou au tribunal</Paragraphe>
+</Titre><Paragraphe>Des consultations gratuites <LienInterne LienPublication="F2153" type="Fiche d'information" audience="Particuliers">d'avocats</LienInterne> peuvent être organisées au sein des organismes suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>mairies,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tribunaux d'instance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tribunaux de grande instance.</Paragraphe>
+</Item>
+</Liste>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'accès à ces permanences peut être soumis à des conditions de ressources.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Chez un professionnel</Paragraphe>
+</Titre><Paragraphe>Les conseils locaux de l'ordre des avocats, les barreaux, peuvent renseigner sur d'autres lieux de consultations gratuites d'avocats.</Paragraphe>
+<OuSAdresser ID="R17" type="Local personnalisable">
+<Titre>Barreau des avocats</Titre>
+<PivotLocal>avocat_centre_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/plugin/254/?form=barreau"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'accès à ces consultations gratuites peut être réservé aux personnes éligibles à <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>. Il convient de se renseigner avant de prendre rendez-vous.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Grâce à son contrat d'assurance</Paragraphe>
+</Titre><Paragraphe>Certains contrats d'assurance prévoient une protection juridique. Outre la garantie <Expression>défense-recours</Expression> ou <LienInterne LienPublication="F3049" type="Fiche Question-réponse" audience="Particuliers">protection juridique</LienInterne>, la souscription d'un contrat d'assurance peut prévoir les conseils gratuits d'un avocat.</Paragraphe>
+<Paragraphe>Il convient de relire le détail des garanties de ses contrats d'assurance.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1816" audience="Particuliers">
+<Titre>Coût d'un procès</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F18074" audience="Particuliers">
+<Titre>Aide juridictionnelle</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+</Publication>

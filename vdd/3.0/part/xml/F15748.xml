@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15748" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on voter sans avoir signalé son déménagement ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Il est possible que vous soyez radié des listes de la commune</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15748</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164078&amp;cidTexte=LEGITEXT000006070239</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N47</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N47">Élections</Niveau>
+<Niveau ID="F15748" type="Fiche Question-réponse">Peut-on voter sans avoir signalé son déménagement ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere><DossierPere ID="N47">
+<Titre>Élections</Titre><SousDossier ID="N47-1">
+<Titre>Inscription sur les listes électorales</Titre>
+<Fiche ID="F1961">Inscription d'office à 18 ans</Fiche>
+<Fiche ID="F1367">Nouvelle inscription</Fiche>
+<Fiche ID="F1372">Déménagement</Fiche>
+<Fiche ID="F1937">Citoyen européen</Fiche>
+<Fiche ID="F1962">Carte électorale</Fiche>
+</SousDossier>
+<SousDossier ID="N47-2">
+<Titre>Opérations de vote</Titre>
+<Fiche ID="F16828">Déroulement du scrutin</Fiche>
+<Fiche ID="F16904">Vote d'un Français de l'étranger</Fiche>
+<Fiche ID="F1604">Vote par procuration</Fiche>
+</SousDossier>
+<SousDossier ID="N47-3">
+<Titre>Élections et référendums</Titre>
+<Fiche ID="F1944">Européennes</Fiche>
+<Fiche ID="F1940">Présidentielle</Fiche>
+<Fiche ID="F1943">Législatives</Fiche>
+<Fiche ID="F1958">Départementales - Régionales</Fiche>
+<Fiche ID="F1952">Municipales</Fiche>
+<Fiche ID="F1964">Référendum</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Si vous avez changé d'adresse et que votre nouvelle adresse ne correspond plus à votre inscription électorale, il est possible que vous soyez radié des listes de la commune. </Paragraphe>
+<Paragraphe>Il convient donc de contacter votre mairie d'origine pour savoir si vous figurez toujours sur les listes électorales.</Paragraphe>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+<Paragraphe>La mairie vous indiquera si vous êtes radié ou si vous êtes toujours inscrit à votre ancienne adresse.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Si vous êtes encore inscrit à l'ancienne adresse</Paragraphe>
+</Titre><Paragraphe>Vous pouvez participer au scrutin :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>Soit en vous déplaçant sur votre ancien bureau de vote : il faut alors présenter une  <LienInterne LienPublication="F1361" type="Fiche Question-réponse" audience="Particuliers">pièce d'identité</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Soit en <LienInterne LienPublication="F1604" type="Fiche d'information" audience="Particuliers">donnant procuration</LienInterne> à un électeur inscrit sur cette commune</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>Il faudra ensuite <LienInterne LienPublication="F1372" type="Fiche d'information" audience="Particuliers">signaler votre changement d'adresse</LienInterne>. La modification ne prendra effet  que l’année suivante.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si vous êtes radié</Paragraphe>
+</Titre><Paragraphe>En cas de radiation, vous ne pouvez pas participer au scrutin. Vous devez vous <LienInterne LienPublication="F1367" type="Fiche d'information" audience="Particuliers">inscrire</LienInterne> à votre nouvelle adresse pour pouvoir participer aux élections qui se dérouleront les prochaines années.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006164078&amp;cidTexte=LEGITEXT000006070239" ID="R341">
+<Titre>Code électoral : articles R5 à R17</Titre>
+<Complement>Établissement et révision des listes électorales</Complement>
+</Reference>
+<QuestionReponse ID="F1361" audience="Particuliers">Quelle pièce d'identité peut-on présenter pour voter ?</QuestionReponse>
+<QuestionReponse ID="F11257" audience="Particuliers">Peut-on voter par internet ou par courrier ?</QuestionReponse>
+<QuestionReponse ID="F1939" audience="Particuliers">Quelles sont les dates des prochaines élections ?</QuestionReponse>
+<QuestionReponse ID="F1963" audience="Particuliers">Comment consulter les listes électorales ?</QuestionReponse>
+
+</Publication>

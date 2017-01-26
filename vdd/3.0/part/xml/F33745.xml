@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33745" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment remplacer gratuitement un titre détruit pendant les intempéries ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>En cas de destruction d'un titre d'identité (carte d'identité, passeport, titre de séjour ou de voyage, permis de conduire) ou de votre carte grise</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33745</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F33745" type="Fiche Question-réponse">Comment remplacer gratuitement un titre détruit pendant les intempéries ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>En cas de destruction d'un titre  (carte d'identité, passeport, titre de séjour ou de voyage, permis de conduire ou carte grise), vous pouvez le faire remplacer gratuitement jusqu'au 31 décembre 2016.</Paragraphe>
+<Paragraphe>Vous êtes concerné si votre commune figure dans la liste des communes concernées par <LienExterne URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032669529">l'état de catastrophe naturelle lié aux intempéries survenues entre le 28 mai et le 5 juin 2016</LienExterne>
+
+.</Paragraphe>
+<Paragraphe>Au préalable, il convient de faire la déclaration de sinistre auprès de son assurance.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Pour un adulte</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Carte d'identité</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>2 photos d'identité identiques et <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conformes aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de sinistre de l'assurance</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Déclaration de perte : à remplir sur place ou en utilisant le formulaire <LienInterne LienPublication="R13630" type="Formulaire" audience="Particuliers">cerfa n°14011*01</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Passeport</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1220" type="Formulaire" audience="Particuliers">cerfa n°12100*02</LienInterne> à imprimer après l'avoir rempli en ligne (ou à remplir sur place)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F14807" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de sinistre de l'assurance</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Déclaration de perte : à remplir sur place ou en utilisant le formulaire <LienInterne LienPublication="R13630" type="Formulaire" audience="Particuliers">cerfa n°14011*01</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+
+												<OuSAdresser ID="R14970" type="Local personnalisable">
+<Titre>Mairie délivrant des passeports biométriques</Titre>
+<PivotLocal>mairie_passeport_bio</PivotLocal>
+<RessourceWeb URL="https://passeport.ants.gouv.fr/Services-associes/Ou-faire-une-demande-de-passeport"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Carte grise</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de sinistre de l'assurance</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Déclaration de perte :  <LienInterne LienPublication="R1417" type="Formulaire" audience="Particuliers">cerfa n°13753*02</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R13567" type="Formulaire" audience="Particuliers">cerfa n°13750*05</LienInterne> (en cochant la case duplicata)</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>Si vous avez acheté un véhicule pour remplacer celui que vous avez perdu lors des intempéries, il faut présenter la déclaration de sinistre à l'assurance <MiseEnEvidence>et</MiseEnEvidence> les autres pièces nécessaires à l'immatriculation de ce véhicule :  <LienInterne LienPublication="F10293" type="Fiche d'information" audience="Particuliers">véhicule neuf</LienInterne> ou  <LienInterne LienPublication="F1050" type="Fiche d'information" audience="Particuliers">véhicule d'occasion</LienInterne>.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour un enfant mineur</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Carte d'identité</Paragraphe>
+</Titre>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>2 photos d'identité identiques et <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conformes aux normes</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Pièce d'identité du parent qui dépose la demande : original + photocopie</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif de domicile</LienInterne> 
+            
+		 : original + photocopie</Paragraphe>
+							</Item>
+						</Liste>
+					
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de sinistre de l'assurance</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Déclaration de perte : à remplir sur place ou en utilisant le formulaire <LienInterne LienPublication="R13630" type="Formulaire" audience="Particuliers">cerfa n°14011*01</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Passeport</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Une  photo d'identité  <LienInterne LienPublication="F10619" type="Fiche Question-réponse" audience="Particuliers">conforme aux normes</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Formulaire <LienInterne LienPublication="R1223" type="Formulaire" audience="Particuliers">cerfa n°12101*02</LienInterne> de demande (à imprimer après l'avoir rempli en ligne ou à remplir sur place)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">Justificatif du domicile</LienInterne> : original + photocopie</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Pièce d'identité du parent qui fait la demande : original + photocopie</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>Déclaration de sinistre de l'assurance</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Déclaration de perte : à remplir sur place ou en utilisant le formulaire <LienInterne LienPublication="R13630" type="Formulaire" audience="Particuliers">cerfa n°14011*01</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+
+												<OuSAdresser ID="R14970" type="Local personnalisable">
+<Titre>Mairie délivrant des passeports biométriques</Titre>
+<PivotLocal>mairie_passeport_bio</PivotLocal>
+<RessourceWeb URL="https://passeport.ants.gouv.fr/Services-associes/Ou-faire-une-demande-de-passeport"/>
+<Source ID="R30628">Agence nationale des titres sécurisés (ANTS)</Source>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+</Cas>
+</BlocCas>
+
+</Texte><ServiceEnLigne ID="R13567" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13750" numerocerfa="13750*05" type="Formulaire">
+<Titre>Demande de certificat d'immatriculation d'un véhicule</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R13571" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51291&amp;cerfaFormulaire=13754" numerocerfa="51291#01" format="application/pdf" poids="84.3 KB">Notice explicative pour la déclaration de cession et la demande de certificat d'immatriculation</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>À remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13750.do" format="application/force-download" poids="241.3 KB"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1417" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13753" numerocerfa="13753*02" type="Formulaire">
+<Titre>Déclaration de perte ou de vol de certificat d'immatriculation</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13753.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R970" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032669529" audience="Particuliers">
+<Titre>État de catastrophe naturelle - Intempéries de 2016 (28 mai au 5 juin)</Titre>
+<Source ID="R38880">Legifrance</Source>
+</PourEnSavoirPlus>
+
+
+
+</Publication>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="accueil" type="Accueil audience" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Accueil Professionnels</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Accueil</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-21</dc:date>
+<dc:type>Accueil</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>accueil</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Accueil</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal><Groupe type="Service en ligne">
+<Titre>Services en ligne</Titre><ServiceEnLigne ID="R19133" URL="http://www.net-entreprises.fr/html/regime-micro-social.htm" commentaireLien="Auto-entrepreneur : déclaration du chiffre d'affaires" numerocerfa="13690*01" type="Téléservice">
+<Titre>Auto-entrepreneur : déclaration en ligne du chiffre d'affaires (régime micro-social simplifié)</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14668" URL="https://cfspro.impots.gouv.fr/LoginAccess" commentaireLien="Compte fiscal des professionnels" type="Téléservice">
+<Titre>Compte fiscal en ligne pour les professionnels (mode EFI)</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14530" URL="http://www.net-entreprises.fr/html/dpae.htm" commentaireLien="Déclaration préalable à l'embauche (DPAE)" numerocerfa="10563*05" type="Téléservice">
+<Titre>Déclaration préalable à l'embauche (DPAE) en ligne</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17834" URL="http://www.net-entreprises.fr/html/dsi.htm" commentaireLien="Déclaration sociale des professions indépendantes (DSI)" numerocerfa="12158*05" type="Téléservice">
+<Titre>Déclaration sociale des professions indépendantes (DSI) en ligne</Titre>
+<Source ID="R30759">Net-entreprises - GIP Modernisation des déclarations sociales</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Simulateur">
+<Titre>Estimer, calculer, vérifier</Titre><ServiceEnLigne ID="R40280" URL="/simulateur/calcul/gratification-stagiaire" commentaireLien="Calcul de la gratification d'un stagiaire" type="Simulateur">
+<Titre>Calcul de la gratification minimale d'un stagiaire</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19567" URL="http://www.rsi.fr//change-user/simulateur-de-cotisations-sociales.html" commentaireLien="Cotisations sociales des artisans et commerçants" type="Simulateur">
+<Titre>Simulation des cotisations sociales pour les artisans et commerçants</Titre>
+<Source ID="R30625">Caisse nationale du régime social des indépendants (RSI)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31771" URL="http://www.economie.gouv.fr/pacte-responsabilite/simulateur-cice" commentaireLien="Crédit d'impôt pour la compétitivité et l'emploi (CICE)" type="Simulateur">
+<Titre>Simulateur du crédit d'impôt pour la compétitivité et l'emploi (CICE)</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R21853" URL="https://www.afecreation.fr/pid11436/calculatrice-de-charges-ae.html" commentaireLien="Charges de l'auto-entrepreneur" type="Simulateur">
+<Titre>Calcul des charges du micro-entrepreneur</Titre>
+<Source ID="R30690">Agence France Entrepreneur (AFE - ex-APCE)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R209" URL="/simulateur/calcul/interets-moratoires" commentaireLien="Intérêts moratoires des marchés publics" type="Simulateur">
+<Titre>Simulateur de calcul des intérêts moratoires des marchés publics</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R32720" URL="https://www.telerc.travail.gouv.fr/RuptureConventionnellePortailPublic/jsp/site/Portal.jsp?page_id=14" commentaireLien="Indemnité de rupture conventionnelle" type="Simulateur">
+<Titre>Simulateur de calcul de l'indemnité de rupture conventionnelle</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+</Groupe>
+<Groupe type="Fiche Question-réponse">
+<Titre>Questions - réponses</Titre><QuestionReponse ID="F21000" audience="Professionnels">Comment se procurer un extrait K ou Kbis ?</QuestionReponse>
+<QuestionReponse ID="F10029" audience="Professionnels">Quels sont les délais de conservation des documents pour les entreprises ?</QuestionReponse>
+<QuestionReponse ID="F31913" audience="Professionnels">Qui est exonéré de la cotisation foncière des entreprises (CFE) ?</QuestionReponse>
+<QuestionReponse ID="F32135" audience="Professionnels">Comment obtenir un numéro Siren ou Siret ?</QuestionReponse>
+</Groupe>
+<Groupe type="Fiche Comment faire si">
+<Titre>Comment faire pour…</Titre><CommentFaireSi ID="F23961">Devenir auto-entrepreneur</CommentFaireSi>
+<CommentFaireSi ID="F32886">Créer une société</CommentFaireSi>
+<CommentFaireSi ID="F23571">Ouvrir un commerce</CommentFaireSi>
+<CommentFaireSi ID="F33794">Ouvrir un restaurant</CommentFaireSi>
+<CommentFaireSi ID="F23697">Effectuer ses déclarations sociales</CommentFaireSi>
+</Groupe>
+</Publication>

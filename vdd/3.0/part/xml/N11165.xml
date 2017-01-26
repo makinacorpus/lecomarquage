@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N11165" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Regroupement familial</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Le regroupement familial s'adresse à l'étranger qui séjourne régulièrement en France depuis au moins 18 mois et souhaite faire venir son époux(se) et ses enfants. Certains étrangers ne sont toutefois pas soumis à cette procédure, en raison de leur nationalité ou de leur statut. Des règles particulières s'appliquent au demandeur algérien.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-06</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N11165</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19804</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Étranger en France</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N11165" type="Dossier">Regroupement familial</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20306">Étrangers en France</SousThemePere>
+<Fiche ID="F11166">Étrangers concernés</Fiche>
+<Fiche ID="F11169">Dépôt et instruction de la demande</Fiche>
+<Fiche ID="F11170">Démarches de la famille</Fiche>
+<Fiche ID="F11171">Renouvellement du séjour de la famille</Fiche>
+<Introduction>
+<Texte><Paragraphe> Le regroupement familial s'adresse à l'étranger  qui séjourne régulièrement en France depuis au moins 18 mois et souhaite faire venir  son époux(se) et ses enfants.  Certains étrangers ne sont toutefois pas soumis à cette procédure, en raison de leur nationalité ou de leur statut. Des règles particulières s'appliquent au demandeur algérien.</Paragraphe>
+</Texte>
+</Introduction><ServiceEnLigne ID="R1251" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11436.do" numerocerfa="11436*05" type="Formulaire">
+<Titre>Demande de regroupement familial</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R41685" URL="http://www.immigration.interieur.gouv.fr/content/download/87391/677548/file/cerfa_11436-05_notice.pdf" format="application/pdf" poids="289.1 KB">Notice de renseignement du formulaire de demande de regroupement familial</NoticeLiee>
+<NoticeLiee ID="R41669" URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=annexe-1&amp;cerfaFormulaire=11436*05">Liste des pièces à joindre au formulaire de demande de regroupement familial</NoticeLiee>
+<NoticeLiee ID="R41673" URL="https://www.formulaires.modernisation.gouv.fr/gf/getAnnexe.do?cerfaAnnexe=annexe-2&amp;cerfaFormulaire=11436*05">Adresses des directions territoriales de l'Office français de l'immigration et de l'intégration (Ofii) auxquelles envoyer sa demande de regroupement familial</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17771" URL="http://travail-emploi.gouv.fr/IMG/pdf/cerfa_11437-04.pdf" format="application/pdf" poids="4.1 MB" numerocerfa="11437*04" type="Formulaire">
+<Titre>Attestation de mise à disposition d'un logement dans le cadre d'un regroupement familial</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R17770" URL="http://www.ofii.fr/faire_venir_son_epoux_se_ses_enfants_en_france_49/membres_de_la_famille_d_un_etranger_131.html" audience="Particuliers">
+<Titre>Étranger non-européens : faire venir son époux et ses enfants en France</Titre>
+<Source ID="R30731">Office français de l'immigration et de l'intégration (Ofii)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F11168" audience="Particuliers">Le regroupement familial concerne-t-il toutes les familles étrangères ?</QuestionReponse>
+<QuestionReponse ID="F11167" audience="Particuliers">La famille déjà en France peut-elle bénéficier d'un regroupement familial ?</QuestionReponse>
+<QuestionReponse ID="F21849" audience="Particuliers">Le conjoint européen d'un Français peut-il s'installer en France ?</QuestionReponse>
+<QuestionReponse ID="F2653" audience="Particuliers">Un citoyen européen peut-il installer sa famille en France ?</QuestionReponse>
+
+</Publication>

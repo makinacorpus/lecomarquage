@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F24612" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Doit-on obtenir une autorisation d'urbanisme pour construire une cave ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Cela dépend de l'augmentation de la surface de plancher entraînée par la création de la cave.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F24612</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N319</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N319">Autorisations d'urbanisme</Niveau>
+<Niveau ID="F24612" type="Fiche Question-réponse">Doit-on obtenir une autorisation d'urbanisme pour construire une cave ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N557">Urbanisme</SousThemePere><DossierPere ID="N319">
+<Titre>Autorisations d'urbanisme</Titre>
+<Fiche ID="F1633">Certificat d'urbanisme</Fiche>
+<Fiche ID="F17578">Déclaration préalable de travaux</Fiche>
+<Fiche ID="F1986">Permis de construire</Fiche>
+<Fiche ID="F17665">Permis d'aménager</Fiche>
+<Fiche ID="F19450">Permis modificatif (permis de construire ou d'aménager)</Fiche>
+<Fiche ID="F17669">Permis de démolir</Fiche>
+<Fiche ID="F2698">Transfert d'un permis de construire ou d'aménager</Fiche>
+<Fiche ID="F20567">Contestation d'une autorisation d'urbanisme</Fiche>
+<Fiche ID="F23263">Taxe d'aménagement</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Cela dépend de l'augmentation de la surface de plancher entraînée par la création de la cave.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Détermination de l'augmentation de la surface de plancher </Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Augmentation de la surface de plancher</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Démarche </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Moins de 5 m²</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Aucune </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre 5 m² et 20 m²</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Faire une <LienInterne LienPublication="R2028" type="Formulaire" audience="Particuliers">déclaration préalable</LienInterne> en mairie </Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Plus de 20 m²</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Demander un <LienInterne LienPublication="R11637" type="Formulaire" audience="Particuliers">permis de construire</LienInterne> en mairie</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le seuil de 20 m² est porté à 40 m² en zone urbaine si la commune est dotée d'un plan local d'urbanisme (PLU) ou d'un plan d'occupation des sols (POS). </Paragraphe>
+</ANoter>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1986" audience="Particuliers">
+<Titre>Permis de construire</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F17578" audience="Particuliers">
+<Titre>Déclaration préalable de travaux</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour faire une demande de permis de construire ou déposer une déclaration préalable de travaux (sauf à Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34254" type="Local personnalisable">
+<Titre>Paris - Direction de l'urbanisme</Titre>
+<Complement>Pour faire une demande de permis de construire ou déposer une déclaration préalable de travaux (uniquement à Paris)</Complement>
+<PivotLocal>paris_mairie_urbanisme</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/services-et-infos-pratiques/urbanisme-et-architecture/demandes-d-autorisations/demarches-2094#vos-contacts_1"/>
+<Source ID="R30894">Ville de Paris</Source>
+</OuSAdresser>
+<QuestionReponse ID="F2868" audience="Particuliers">Comment calcule-t-on la surface de plancher d'une construction ?</QuestionReponse>
+<QuestionReponse ID="F24611" audience="Particuliers">Peut-on transformer un sous-sol en pièce habitable et le mettre en location  ?</QuestionReponse>
+</Publication>

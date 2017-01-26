@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R38954" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'aide à la réinsertion professionnelle d'un agriculteur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Demande d'aide à la réinsertion professionnelle d'un agriculteur - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-20</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R38954</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N14419">Aides à la production agricole</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R38954" type="Formulaire">Demande d'aide à la réinsertion professionnelle d'un agriculteur</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>14070*02</NumeroCerfa>
+<Texte><Paragraphe>Le dispositif d'aide à la réinsertion professionnelle (ARP) s'adresse aux agriculteurs contraints de cesser leur activité agricole, dès lors que leur exploitation a été jugée inapte au redressement sur décision du préfet après avis de la section « agriculteurs en difficulté » de la Commission départementale d'orientation agricole (CDOA) ou dans le cadre d'une procédure collective de liquidation judiciaire par le tribunal de grande instance (TGI).</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14070.do" format="application/pdf" poids="84.5 KB">
+<Source>Ministère en charge de l'agriculture</Source>
+</LienWeb><NoticeLiee ID="R38955" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51424&amp;cerfaFormulaire=14070" numerocerfa="51424#02">Notice explicative à la demande d'aide à la réinsertion professionnelle d'un agriculteur</NoticeLiee>
+
+<FicheLiee ID="F31198" audience="Professionnels" type="Fiche d'information">
+<Titre>Aides aux exploitations agricoles en difficulté (Agridiff)</Titre>
+<Dossier ID="N14419">Aides à la production agricole</Dossier>
+</FicheLiee><OuSAdresser ID="R16" type="Local personnalisé sur SP">
+<Titre>Direction départementale en charge des territoires (DDT ou DDTM)</Titre>
+<PivotLocal>ddt</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=DDT+ou+DDTM&amp;where="/>
+</OuSAdresser>
+</ServiceComplementaire>

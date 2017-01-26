@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1170" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Logement social : qu'est-ce qu'un transfert de bail ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le transfert du bail d'un logement social est possible sous réserve de respecter certaines conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-07</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1170</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020459174&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006443079&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N339">Location immobilière : fin du bail</Niveau>
+<Niveau ID="F1170" type="Fiche Question-réponse">Logement social : qu'est-ce qu'un transfert de bail ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N339">
+<Titre>Location immobilière : fin du bail</Titre>
+<Fiche ID="F1168">Congé donné par le locataire</Fiche>
+<Fiche ID="F929">Congé donné par le bailleur</Fiche>
+<Fiche ID="F33671">État des lieux de sortie</Fiche>
+<Fiche ID="F282">Achat d'un logement social</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe> Deux situations peuvent entraîner le transfert du bail : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le décès du locataire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou l'abandon du domicile par le locataire.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Décès</Titre>
+<Texte>
+<Chapitre><Paragraphe>Le bail  est transféré :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à  l'époux(se), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>au partenaire pacsé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>au concubin vivant avec le locataire depuis au moins 1 an à la date du décès,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>aux <LienIntra LienID="R18325" type="Définition de glossaire">ascendants</LienIntra> vivant  avec le locataire depuis au moins 1 an à la date du décès,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>aux personnes à charge (par exemple, personnes en situation de handicap ou personnes de plus de 65 ans) vivant  avec le locataire depuis au moins 1 an à la date du décès,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>aux <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra> vivant  avec le locataire depuis au moins 1 an à la date du décès et respectant les conditions de  ressources exigées pour <LienInterne LienPublication="F869" type="Fiche d'information" audience="Particuliers">l'attribution d'un logement social</LienInterne>, ainsi qu'une condition d'occupation suffisante du logement  (le logement ne doit pas être <LienIntra LienID="R43888" type="Définition de glossaire">sous-occupé</LienIntra>). Toutefois, dans le cas d'un logement conventionné,  le bailleur a la possibilité de proposer un autre logement plus petit au descendant s'il  ne respecte pas cette dernière condition.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si plusieurs bénéficiaires existent : </Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le locataire était marié</Paragraphe>
+</Titre><Paragraphe> L'époux restant a un droit exclusif sur le bail (les héritiers du défunt n'ont pas droit au transfert du  bail) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si les époux avaient tous deux signé le bail, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si ils habitaient ensemble le logement</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe> Toutefois, il peut renoncer expressément au bail. </Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le locataire était pacsé</Paragraphe>
+</Titre><Paragraphe>Le partenaire de Pacs restant a un droit exclusif sur le bail (les héritiers du défunt n'ont pas droit au transfert du  bail) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si les partenaires de Pacs avaient tous 2 signé le bail,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si l'un des partenaires de Pacs n'avait pas signé le bail, mais que les 2 partenaires avait conjointement demandé à en être cotitulaires.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Toutefois, il peut  renoncer expressément au bail.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autre cas</Paragraphe>
+</Titre><Paragraphe>Le <LienInterne LienPublication="N269" type="Dossier" audience="Particuliers">juge civil</LienInterne> se prononce en fonction des intérêts de chacun.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>S'il n'existe aucune personne remplissant les conditions pour bénéficier du transfert, le bail est résilié automatiquement pour cause de décès du locataire.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Abandon du domicile</Titre>
+<Texte>
+<Chapitre><Paragraphe>Il y a abandon du domicile :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si le départ du locataire est définitif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et si ce départ est imposé à celui qui reste dans le logement (cas du placement définitif du locataire en maison de retraite).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le contrat de location continue au profit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de  l'époux(se),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du partenaire pacsé,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du concubin vivant  avec le locataire depuis au moins 1 an à la date  de l'abandon du domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>aux <LienIntra LienID="R18325" type="Définition de glossaire">ascendants</LienIntra> vivant  avec le locataire depuis au moins 1 an à la date  de l'abandon du domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des personnes à charge (par exemple, personnes en situation de handicap ou personnes de plus de 65 ans) vivant  avec le locataire depuis au moins 1 an à la date  de l'abandon du domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra> vivant  avec le locataire depuis au moins 1 an à la date  de l'abandon du domicile et respectant les conditions de  ressources exigées pour <LienInterne LienPublication="F869" type="Fiche d'information" audience="Particuliers">l'attribution d'un logement social</LienInterne>, ainsi qu'une condition d'occupation suffisante du logement  (le logement ne doit pas être <LienIntra LienID="R43888" type="Définition de glossaire">sous-occupé</LienIntra>). Toutefois, dans le cas d'un logement conventionné,  le bailleur a la possibilité de proposer un autre logement plus petit au descendant s'il  ne respecte pas cette dernière condition.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>S'il existe plusieurs bénéficiaires, le <LienInterne LienPublication="N269" type="Dossier" audience="Particuliers">juge civil</LienInterne> se prononce en fonction des intérêts de chacun.</Paragraphe>
+<Paragraphe>S’il n'existe aucune personne remplissant les conditions pour bénéficier du transfert, le bail est résilié automatiquement pour cause d'abandon du domicile.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<Complement>Pour un complément d'information</Complement>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R250" type="Centre de contact">
+<Titre>3939 Allô Service Public</Titre>
+<Complement>Pour un complément d'information</Complement><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3939 (coût : <Valeur>0,15 €</Valeur> TTC la minute)
+		</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h30 à 18h.
+		</Paragraphe>
+								<Paragraphe>
+			Répond aux demandes de renseignement administratif concernant les droits et démarches.
+		</Paragraphe>
+								<Paragraphe>
+			Depuis l'étranger ou hors métropole : +33 (0)1 73 60 39 39 uniquement depuis un poste fixe (coût d'une communication + coût de l'appel international variable selon les pays et les opérateurs).
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020459174&amp;cidTexte=LEGITEXT000006069108" ID="R36140">
+<Titre>Loi n°89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs : article 40</Titre>
+<Complement>Conditions de transfert d'un bail d'un logement social</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006443079&amp;cidTexte=LEGITEXT000006070721" ID="R511">
+<Titre>Code civil : article 1751</Titre>
+<Complement>Epoux cotitulaires du bail</Complement>
+</Reference>
+<Definition ID="R43888">
+<Titre>Logement sous-occupé</Titre>
+<Texte>
+				<Paragraphe>Logement dont le nombre de pièces habitables (cuisine non comprise) est supérieur de plus de 2 par rapport au nombre de personnes qui y ont effectivement leur résidence principale. Par exemple, un couple sans enfant vivant dans un 5 pièces ou une personne seule vivant dans un 4 pièces.</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074096&amp;idArticle=LEGIARTI000006900528" ID="R43889">
+<Titre>Code de la construction et de l'habitation : article R641-4</Titre>
+</Reference>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R18325">
+<Titre>Héritier en ligne directe</Titre>
+<Texte>
+				<Paragraphe>Ascendants et descendants directs du défunt : ses enfants et petits-enfants, ses parents et grands-parents...</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165763&amp;cidTexte=LEGITEXT000006070721" ID="R43436">
+<Titre>Code civil : articles 741 à 745</Titre>
+</Reference>
+</Definition>
+</Publication>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1295" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le recours à un notaire est-il obligatoire dans le cadre d'une succession ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Uniquement si vous vous trouvez dans l'un des cas suivants :</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-09</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1295</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000017841422&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006433777&amp;idSectionTA=LEGISCTA000006150545&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006434608&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006060731</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N171</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N171">Règlement d'une succession</Niveau>
+<Niveau ID="F1295" type="Fiche Question-réponse">Le recours à un notaire est-il obligatoire dans le cadre d'une succession ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20090">Succession</SousThemePere><DossierPere ID="N171">
+<Titre>Règlement d'une succession</Titre>
+<Fiche ID="F1199">Acceptation ou renonciation à la succession (option successorale)</Fiche>
+<Fiche ID="F1296">Indivision entre les héritiers</Fiche>
+<Fiche ID="F16194">Partage des biens</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Uniquement si vous vous trouvez dans l'un des cas suivants :</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Liste type="puce">
+<Item>
+<Paragraphe>En présence d'un <LienIntra LienID="R12443" type="Définition de glossaire">bien immobilier</LienIntra> (pour faire établir <LienIntra LienID="R31872" type="Définition de glossaire">l'attestation de propriété immobilière</LienIntra>)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Si la  succession est égale ou supérieure à <Valeur>5 000 €</Valeur> (pour faire établir <LienInterne LienPublication="F12697" type="Fiche Question-réponse" audience="Particuliers">l'acte de notoriété</LienInterne> permettant de prouver sa qualité d'héritier)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>S'il existe  un <LienInterne LienPublication="F770" type="Fiche d'information" audience="Particuliers">          testament
+        </LienInterne> ou une <LienInterne LienPublication="F2767" type="Fiche Question-réponse" audience="Particuliers">donation entre époux</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N171" audience="Particuliers">
+<Titre>Règlement d'une succession</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F2164" audience="Particuliers">
+<Titre>Notaire</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+
+<OuSAdresser ID="R10918" type="Local personnalisable">
+<Titre>Chambre départementale des notaires</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>chambre_notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000017841422&amp;cidTexte=LEGITEXT000006070721" ID="R31860">
+<Titre>Code civil : article 730-1</Titre>
+<Complement>Acte de notoriété</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006433777&amp;idSectionTA=LEGISCTA000006150545&amp;cidTexte=LEGITEXT000006070721" ID="R3062">
+<Titre>Code civil : articles 931 à 952</Titre>
+<Complement>Donation notariée (article 931)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006434608&amp;cidTexte=LEGITEXT000006070721" ID="R31861">
+<Titre>Code civil : article 1007</Titre>
+<Complement>Dépôt chez un notaire du testament avant sa mise en exécution</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006060731" ID="R2347">
+<Titre>Décret n°55-22 du 4 janvier 1955 portant réforme de la publicité foncière</Titre>
+<Complement>Rôle du notaire en matière de publicité foncière</Complement>
+</Reference>
+<Definition ID="R12443">
+<Titre>Hypothèque</Titre>
+<Texte>
+				<Paragraphe>Droit accordé à un créancier sur un bien immobilier en garantie du paiement de sa créance</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R31872">
+<Titre>Attestation de propriété immobilière</Titre>
+<Texte>
+				<Paragraphe>Acte notarié constatant la transmission des biens immobiliers de la personne décédée aux héritiers. Une fois publié au service de la publicité foncière, il constitue le titre de propriété des héritiers. </Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F17701" audience="Particuliers">Qu'appelle-t-on les frais de notaire ?</QuestionReponse>
+<QuestionReponse ID="F12697" audience="Particuliers">Comment prouver sa qualité d'héritier (attestation, acte de notoriété) ?</QuestionReponse>
+<CommentFaireSi ID="F17649">J'organise ma succession</CommentFaireSi>
+</Publication>

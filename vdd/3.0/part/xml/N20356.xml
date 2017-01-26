@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N20356" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Risques sanitaires et mesures de sécurité de l'habitat</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Ce dossier expose les principaux risques sanitaires liés à l'habitat et les mesures accompagnées pour y remédier. Il donne également des informations sur les mesures de sécurité à respecter à l'égard de certains équipements et installations.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N20356</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Locataire, Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N20356" type="Dossier">Risques sanitaires et mesures de sécurité de l'habitat</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N323">Protection et sécurité de l'habitat</SousThemePere>
+<SousDossier ID="N20356-1">
+<Titre>Insalubrité ou péril</Titre><Fiche ID="F16158">Habitat insalubre</Fiche>
+<Fiche ID="F16104">Habitat en péril</Fiche>
+</SousDossier>
+<SousDossier ID="N20356-2">
+<Titre>Amiante, plomb, termites, radon</Titre><Fiche ID="F288">Amiante</Fiche>
+<Fiche ID="F1141">Plomb</Fiche>
+<Fiche ID="F285">Termites</Fiche>
+<Fiche ID="F20599">Radon</Fiche>
+</SousDossier>
+<SousDossier ID="N20356-3">
+<Titre>Sécurité des équipements et installations</Titre><Fiche ID="F19950">Sécurité incendie dans le logement : détecteur de fumée</Fiche>
+<Fiche ID="F32573">Sécurité incendie dans un immeuble en copropriété</Fiche>
+<Fiche ID="F1722">Installation d'un dispositif de sécurité des piscines privées </Fiche>
+<Fiche ID="F10538">Sécurité, entretien et contrôle technique des ascenseurs</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Ce dossier expose les principaux risques sanitaires liés à l'habitat et les mesures accompagnées pour y remédier. Il donne également des informations sur les mesures de sécurité à respecter à l'égard de certains équipements et installations.</Paragraphe>
+</Texte>
+</Introduction><PourEnSavoirPlus type="Information pratique" ID="R24464" URL="http://www.anil.org/fileadmin/ANIL/Editions_grand_public/serie_impayes/Guide_pratique_occupant.pdf" audience="Particuliers" format="application/pdf" poids="0">
+<Titre>Guide pratique concernant l'habitat indigne</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R14355" URL="http://www.ademe.fr/particuliers-eco-citoyens/dechets/bien-jeter/faire-dechets" audience="Particuliers">
+<Titre>Que faire de mes déchets ?</Titre>
+<Source ID="R30674">Agence de l'environnement et de la maîtrise de l'énergie (Ademe)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F289" audience="Particuliers">Que risque le propriétaire d'un logement insalubre ou en état de péril ?</QuestionReponse>
+<QuestionReponse ID="F20760" audience="Particuliers">Entretien d'une chaudière : quelles sont les règles ?</QuestionReponse>
+
+</Publication>

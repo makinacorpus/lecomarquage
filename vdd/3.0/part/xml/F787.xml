@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F787" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on faire lever une hypothèque ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>La levée de l'hypothèque est une pratique fréquente, en particulier lorsqu'un bien immobilier est revendu avant d'être totalement remboursé</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-28</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F787</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449923&amp;idSectionTA=LEGISCTA000006181856&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20373</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="F787" type="Fiche Question-réponse">Peut-on faire lever une hypothèque ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere><DossierPere ID="N20373">
+<Titre>Crédit immobilier</Titre><SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre>
+<Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre>
+<Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>La levée de l'hypothèque est une pratique fréquente, en particulier lorsqu'un bien immobilier est revendu avant d'être totalement remboursé (si l'emprunt était garanti par l'hypothèque).</Paragraphe>
+<Paragraphe> Elle peut intervenir après un accord entre l'emprunteur et le prêteur ou, si un accord n'est pas possible, suite à une décision judiciaire.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Accord amiable avec le créancier</Paragraphe>
+</Titre><Paragraphe>Cet accord amiable doit obligatoirement prendre la forme d'un <LienIntra LienID="R17851" type="Définition de glossaire">acte authentique</LienIntra> fait par un notaire.</Paragraphe>
+<Paragraphe>Les frais de cet acte de mainlevée d'hypothèque sont à la charge de l'emprunteur.</Paragraphe><ServiceEnLigne ID="R22315" URL="http://www.paris.notaires.fr/frais_mlv_ecran1.php" type="Simulateur">
+<Titre>Estimation des frais de mainlevée hypothécaire</Titre>
+<Source ID="R30793">Chambre des Notaires de Paris</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Décision judiciaire</Paragraphe>
+</Titre><Paragraphe>En cas de refus du créancier d'accorder la mainlevée, l'emprunteur peut demander au tribunal de radier l'inscription hypothécaire.</Paragraphe>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>L'emprunteur  doit se trouver dans une des situations suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>extinction de sa dette, par exemple quand celle-ci est entièrement remboursée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>extinction de l'hypothèque, par exemple quand l'hypothèque a atteint son terme initialement prévu.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006449923&amp;idSectionTA=LEGISCTA000006181856&amp;cidTexte=LEGITEXT000006070721" ID="R33540">
+<Titre>Code civil : articles 2440 à 2445</Titre>
+<Complement>Radiation et réduction des inscriptions</Complement>
+</Reference>
+<ServiceEnLigne ID="R22315" URL="http://www.paris.notaires.fr/frais_mlv_ecran1.php" type="Simulateur">
+<Titre>Estimation des frais de mainlevée hypothécaire</Titre>
+<Source ID="R30793">Chambre des Notaires de Paris</Source>
+</ServiceEnLigne>
+<Definition ID="R17851">
+<Titre>Acte authentique</Titre>
+<Texte>
+				<Paragraphe>Document établi par un officier public compétent (notaire, huissier, officier d'état civil), rédigé selon les formalités exigées par la loi et dont le contenu  peut avoir la même force qu'une décision judiciaire</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F785" audience="Particuliers">Qu'est-ce qu'une hypothèque judiciaire conservatoire ?</QuestionReponse>
+<QuestionReponse ID="F548" audience="Particuliers">Séparation : comment obtenir l'annulation de la garantie du co-emprunteur ?</QuestionReponse>
+</Publication>

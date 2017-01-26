@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R15103" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : victime d'un accident de la circulation ou de la chasse</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Permet de demander une indemnisation lorsque le responsable d'un accident n'est pas identifié ou pas assuré.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-09</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R15103</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N32">Assurance automobile (véhicule)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R15103" type="Formulaire">Demande d'indemnisation auprès du fonds de garantie des assurances obligatoires des dommages (FGAO) : victime d'un accident de la circulation ou de la chasse</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet de demander une indemnisation lorsque le responsable d'un accident n'est pas identifié ou pas assuré.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.fondsdegarantie.fr/images/stories/pdf/accident-chasse/FormulaireIndemnCirculVictime.pdf" format="application/pdf" poids="574.8 KB">
+<Source>Fonds de garantie des assurances obligatoires (FGAO)</Source>
+</LienWeb>
+<FicheLiee ID="F2679" audience="Particuliers" type="Fiche d'information">
+<Titre>Accident de la route : indemnisation par le FGAO</Titre>
+<Dossier ID="N32">Assurance automobile (véhicule)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F21616" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Assurance auto : l'accident avec un animal sauvage est-il indemnisé ?</Titre>
+<Dossier ID="N32">Assurance automobile (véhicule)</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

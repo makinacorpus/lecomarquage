@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2665" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carnet d'entretien de la copropriété</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Tout immeuble en copropriété doit posséder un carnet d'entretien. Ce document répertorie des informations techniques sur la maintenance et les travaux effectués dans l'immeuble.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-03</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2665</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022496101&amp;cidTexte=LEGITEXT000006068256, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006472147&amp;cidTexte=LEGITEXT000006068256, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488255&amp;cidTexte=LEGITEXT000006061423, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022124110&amp;cidTexte=LEGITEXT000006061423, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005631026</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31339</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31339">Documents de copropriété</Niveau>
+<Niveau ID="F2665" type="Fiche d'information">Carnet d'entretien de la copropriété</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31339">
+<Titre>Documents de copropriété</Titre>
+<Fiche ID="F2589">Règlement de copropriété</Fiche>
+<Fiche ID="F2665">Carnet d'entretien de la copropriété</Fiche>
+<Fiche ID="F34051">Fiche synthétique de la copropriété</Fiche>
+<Fiche ID="F32058">Immatriculation de la copropriété</Fiche>
+<Fiche ID="F32059">Diagnostic technique de l'immeuble en copropriété</Fiche>
+<Fiche ID="F1615">Bilan énergétique d'un immeuble en copropriété (DPE et audit énergétique)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Tout immeuble en copropriété doit posséder un carnet d'entretien. Ce document répertorie des informations techniques sur la maintenance et les travaux effectués dans l'immeuble. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le carnet d'entretien est un document qui récence toutes les informations permettant un suivi des travaux importants et des contrats concernant l'immeuble et ses équipements.</Paragraphe>
+<Paragraphe>Ce document doit être tenu à la disposition de tout copropriétaire ou futur acquéreur qui en fait la demande.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contenu</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Informations obligatoires</Paragraphe>
+</Titre><Paragraphe>Le carnet d'entretien mentionne :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'adresse de l'immeuble,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'identité du syndic en exercice,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les références des contrats d'assurance souscrits par le syndicat des copropriétaires, avec leurs dates d'échéance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'année de réalisation des gros travaux (ravalement de façade, réfection de toiture, remplacement de chaudière, d'ascenseur ou de canalisations par exemple), et ceux apparaissant nécessaires au vu du <LienInterne LienPublication="F32059" type="Fiche d'information" audience="Particuliers">diagnostic technique global (DTG)</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'identité des entreprises qui ont réalisé ces travaux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la référence des contrats d'assurance dommage-ouvrage dont la garantie est en cours,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>s'ils existent, les références des contrats d'entretien et de maintenance des équipements communs  (ascenseur, chaudière...) avec leurs dates d'échéance, ainsi que l’échéancier du programme pluriannuel de travaux décidé en assemblée générale.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Informations complémentaires</Paragraphe>
+</Titre><Paragraphe>Le carnet d'entretien doit également mentionner toutes les informations complémentaires que les copropriétaires décident d'y faire figurer lors d'un vote en assemblée générale à la <LienInterne LienPublication="F32065" type="Fiche d'information" audience="Particuliers">majorité simple</LienInterne>.</Paragraphe>
+<Paragraphe>Il peut notamment s'agir d'informations relatives :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à la construction de l'immeuble,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>aux études techniques réalisées.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Détention et actualisation</Paragraphe>
+</Titre><Paragraphe>Le carnet d'entretien est établi, détenu et mis à jour par le <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic de copropriété</LienInterne>.</Paragraphe>
+<Paragraphe>Si la copropriété comporte plusieurs bâtiments, un seul carnet d'entretien est prévu, mais le syndic doit y ouvrir un chapitre par bâtiment.</Paragraphe>
+<Paragraphe>En présence d'un ou plusieurs <LienInterne LienPublication="F31644" type="Fiche Question-réponse" audience="Particuliers">syndicats secondaires</LienInterne>, le syndic doit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>établir et tenir à jour un carnet d'entretien pour chacun d'entre eux,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>réserver, dans le carnet d'entretien du syndicat principal, un chapitre pour les parties communes à l'ensemble des syndicats.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Consultation</Paragraphe>
+</Titre><Paragraphe>Le carnet d'entretien est consultable, sur demande par tout candidat à l'achat auprès :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du syndic,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou du vendeur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le syndic doit permettre la consultation du carnet d'entretien :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>à tout bénéficiaire d'une promesse unilatérale de vente ou d'un acte de vente portant sur un <LienIntra LienID="R38693" type="Définition de glossaire">lot de copropriété</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à tout copropriétaire.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Délivrance d'une copie</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Personne concernée</Paragraphe>
+</Titre><Paragraphe>Une copie du carnet d'entretien peut être remise par le syndic de copropriété à tout copropriétaire qui en fait la demande par tous moyens, aux frais de ce dernier.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Tarif</Paragraphe>
+</Titre><Paragraphe>Le montant de ce service est libre et doit figurer au sein du contrat de syndic.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N31339" audience="Particuliers">
+<Titre>Documents de copropriété</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022496101&amp;cidTexte=LEGITEXT000006068256" ID="R32962">
+<Titre>Loi n°65-557 du 10 juillet 1965 : article 18</Titre>
+<Complement>Détention et mise à jour</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006472147&amp;cidTexte=LEGITEXT000006068256" ID="R32963">
+<Titre>Loi n°65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis : article 45-1</Titre>
+<Complement>Consultation auprès du syndic</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006488255&amp;cidTexte=LEGITEXT000006061423" ID="R32964">
+<Titre>Décret n°67-223 du 17 mars 1967 : article 4-4</Titre>
+<Complement>Consultation auprès du vendeur</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000022124110&amp;cidTexte=LEGITEXT000006061423" ID="R32965">
+<Titre>Décret n°67-223 du 17 mars 1967 : article 33</Titre>
+<Complement>Copie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005631026" ID="R716">
+<Titre>Décret n°2001-477 du 30 mai 2001 fixant le contenu du carnet d'entretien de l'immeuble</Titre>
+<Complement>Contenu</Complement>
+</Reference>
+<Definition ID="R38693">
+<Titre>Lot de copropriété</Titre>
+<Texte>
+				<Paragraphe>Partie privative à l'usage exclusif de chaque copropriétaire et fraction de part des parties communes réservée à tous ou à certains d'entre eux seulement</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F1548" audience="Particuliers">Comment changer de syndic de copropriété en fin de mandat ?</QuestionReponse>
+<QuestionReponse ID="F31672" audience="Particuliers"> Que deviennent les documents de copropriété en cas de changement de syndic ?</QuestionReponse>
+</Publication>

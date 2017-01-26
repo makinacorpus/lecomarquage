@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F810" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Carnet de santé de l'enfant</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Le carnet de santé est un document qui contient les éléments d'information médicale nécessaires au suivi de la santé de l'enfant jusqu'à ses 18 ans. Son utilisation est réservée aux professionnels de santé et sa consultation soumise à l'accord des parents.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-06</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F810</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171130&amp;cidTexte=LEGITEXT000006072665, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006911311&amp;idSectionTA=LEGISCTA000006190395&amp;cidTexte=LEGITEXT000006072665</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31526</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31526">Santé de l'enfant</Niveau>
+<Niveau ID="F810" type="Fiche d'information">Carnet de santé de l'enfant</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20180">Santé</SousThemePere><DossierPere ID="N31526">
+<Titre>Santé de l'enfant</Titre>
+<Fiche ID="F810">Carnet de santé</Fiche>
+<Fiche ID="F967">Examens médicaux</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le carnet de santé est un document qui contient les éléments d'information médicale nécessaires au suivi de la santé de l'enfant jusqu'à ses 18 ans. Son utilisation est réservée aux professionnels de santé et sa consultation soumise à l'accord des parents.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Délivrance du carnet de santé</Paragraphe>
+</Titre><Paragraphe>Le carnet de santé est délivré gratuitement au moment de la  <LienInterne LienPublication="F961" type="Fiche d'information" audience="Particuliers">déclaration de naissance</LienInterne> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par l'officier d'état civil de la mairie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par l'officier d'état civil d'un hôpital public si il  dispose d'une permanence au sein du service maternité pour enregistrer les déclarations de naissance.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À défaut, il peut être demandé au service départemental de protection maternelle et infantile (PMI).</Paragraphe><OuSAdresser ID="R26" type="Local personnalisé sur SP">
+<Titre>Centre de protection maternelle et infantile (PMI)</Titre>
+<PivotLocal>pmi</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Centre+de+protection+maternelle+et+infantile+%28PMI%29&amp;where="/>
+</OuSAdresser>
+
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>Un enfant  né à l'étranger qui vit  habituellement en France peut obtenir un carnet de santé. </Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Utilisation du carnet</Paragraphe>
+</Titre><Paragraphe>Il doit être conservé par les parents ou la personne ayant la charge de l'enfant ou de l'adolescent. Son utilisation est obligatoire jusqu'à l'âge de 18 ans.</Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Confidentialité du contenu</Paragraphe>
+</Titre><Paragraphe>La consultation du carnet de santé de l'enfant est soumise à l'accord de ses parents.</Paragraphe>
+<Paragraphe>Elle est réservée aux professionnels de santé dans le cadre de soins ou d'actes de prévention délivrés à l'enfant. </Paragraphe>
+<Paragraphe>Le professionnel qui inscrit une information dans le carnet de santé est tenu de s'identifier par le cachet de son cabinet et par sa signature.</Paragraphe>
+<Paragraphe>Les données personnelles qui y sont inscrites sont confidentielles et couvertes par le secret professionnel.</Paragraphe>
+<Paragraphe>Dans le cas où le carnet doit être confié à l'enfant ou à un accompagnateur, il est conseillé de le faire sous enveloppe fermée, portant la mention <Expression>secret médical</Expression>.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Utilisation du carnet comme certificat de vaccination</Paragraphe>
+</Titre><Paragraphe>Deux doubles pages insérées dans le <LienExterne URL="http://www.sante.gouv.fr/IMG/pdf/carnet_de_sante.pdf" format="application/pdf" poids="3.4 MB">carnet de santé</LienExterne>
+
+ sont consacrées aux <LienInterne LienPublication="F724" type="Fiche d'information" audience="Particuliers">vaccinations</LienInterne> et portent chacune un numéro de formulaire (cerfa n°12594*01 et n°12595*01). </Paragraphe>
+<Paragraphe>Leur photocopie a valeur de certificat de vaccination. Ainsi, le carnet n'a pas à être présenté lors de l'inscription à l'école ou dans une collectivité.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Perte du carnet</Paragraphe>
+</Titre><Paragraphe>Si le carnet de santé est perdu, un nouveau peut être demandé au service de la PMI du lieu de résidence de l'enfant. </Paragraphe><OuSAdresser ID="R26" type="Local personnalisé sur SP">
+<Titre>Centre de protection maternelle et infantile (PMI)</Titre>
+<PivotLocal>pmi</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Centre+de+protection+maternelle+et+infantile+%28PMI%29&amp;where="/>
+</OuSAdresser>
+
+<Paragraphe>Le nouveau carnet de santé devra être remis au médecin qui suit l'enfant qui pourra compléter les données manquantes (vaccinations par exemple) à partir de son propre dossier.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N434" audience="Particuliers">
+<Titre>Prévention - Vaccinations</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N15660" audience="Particuliers">
+<Titre>Naissance</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006171130&amp;cidTexte=LEGITEXT000006072665" ID="R474">
+<Titre>Code de la santé publique : articles L2132-1 à L2132-5</Titre>
+<Complement>Remise du carnet de santé</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006911311&amp;idSectionTA=LEGISCTA000006190395&amp;cidTexte=LEGITEXT000006072665" ID="R33353">
+<Titre>Code de la santé publique : articles R2132-1 à R2132-3</Titre>
+<Complement>Examens médicaux obligatoires reportés dans le carnet de santé</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R33966" URL="http://www.sante.gouv.fr/IMG/pdf/carnet_de_sante.pdf" audience="Particuliers" format="application/pdf" poids="3.4 MB">
+<Titre>Carnet de santé de l'enfant (spécimen)</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+</PourEnSavoirPlus>
+</Publication>

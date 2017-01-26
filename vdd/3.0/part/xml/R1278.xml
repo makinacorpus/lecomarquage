@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1278" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Dossier vert : demande d'admission préalable à l'inscription en 1re année de licence pour l'année universitaire 2017-2018 (candidat hors UE)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Dossier vert : demande d'admission préalable à l'inscription en 1re année de licence pour l'année universitaire 2017-2018 (candidat hors UE) - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-16</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1278</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N58">Inscription dans l'enseignement supérieur</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1278" type="Formulaire">Dossier vert : demande d'admission préalable à l'inscription en 1re année de licence pour l'année universitaire 2017-2018 (candidat hors UE)</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>11126*16</NumeroCerfa>
+<Texte><Paragraphe>Dossier destiné au candidat étranger résidant en France, qui n'est pas titulaire ou futur titulaire du bac français, franco-allemand, européen ou international. </Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11126.do" format="application/pdf" poids="515.8 KB">
+<Source>Ministère en charge de l'enseignement supérieur</Source>
+</LienWeb><NoticeLiee ID="R16649" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50676&amp;cerfaFormulaire=11126" numerocerfa="50676#16">Notice du dossier vert : demande préalable à l'inscription en 1re année de licence</NoticeLiee>
+
+<FicheLiee ID="F2864" audience="Particuliers" type="Fiche d'information">
+<Titre>Étudiant étranger : demande d'admission préalable à l'université</Titre>
+<Dossier ID="N31346">Étudiant étranger en France</Dossier>
+</FicheLiee><OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+
+<Dossier ID="N31346">
+<Titre>Étudiant étranger en France</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N58">
+<Titre>Inscription dans l'enseignement supérieur</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

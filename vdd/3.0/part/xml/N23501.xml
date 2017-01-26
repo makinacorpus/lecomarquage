@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N23501" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Médailles et décorations officielles</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Médailles et décorations officielles</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-05</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N23501</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19810</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N23501" type="Dossier">Médailles et décorations officielles</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere>
+<Fiche ID="F10">Médaille du travail</Fiche>
+<Fiche ID="F12086">Médaille régionale, départementale et communale</Fiche>
+<Fiche ID="F2124">Médaille de la famille</Fiche>
+<Fiche ID="F34004">Ordre national du Mérite</Fiche>
+<Fiche ID="F16879">Légion d'honneur</Fiche><ServiceEnLigne ID="R2319" URL="http://www.legiondhonneur.fr/sites/default/files/memoirepropositionic.pdf" type="Formulaire">
+<Titre>Proposition au titre de l'initiative citoyenne pour un ordre national</Titre>
+<Source ID="R30879">Grande chancellerie de la Légion d'honneur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1494" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11796.do" numerocerfa="11796*01" type="Formulaire">
+<Titre>Demande de médaille d'honneur du travail</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1495" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11797.do" numerocerfa="11797*01" type="Formulaire">
+<Titre>Demande de médaille d'honneur du travail aux salariés résidant hors des départements français</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2500" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15319.do" format="application/pdf" poids="67.7 KB" numerocerfa="15319*01" type="Formulaire">
+<Titre>Candidature à la médaille de la famille</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R46000" URL="http://www.legiondhonneur.fr/fr/page/la-medaille-nationale-de-reconnaissance-aux-victimes-du-terrorisme/1013" audience="Particuliers">
+<Titre>Médaille nationale de reconnaissance aux victimes du terrorisme</Titre>
+<Source ID="R30879">Grande chancellerie de la Légion d'honneur</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F31366" audience="Particuliers">Quelles médailles récompensent le mérite professionnel des agents publics ?</QuestionReponse>
+</Publication>

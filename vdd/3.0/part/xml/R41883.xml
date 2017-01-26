@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R41883" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration de candidature aux élections régionales - À remplir par le candidat tête de liste ou son mandataire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Déclaration de candidature aux élections régionales - À remplir par le candidat tête de liste ou son mandataire - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-24</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R41883</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N47">Élections</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R41883" type="Formulaire">Déclaration de candidature aux élections régionales - À remplir par le candidat tête de liste ou son mandataire</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>15408*01</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15408.do">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb><NoticeLiee ID="R41884" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=52020&amp;cerfaFormulaire=15408" numerocerfa="52020#01">Notice - Candidature aux élections régionales - Tête de liste ou mandataire</NoticeLiee>
+
+<FicheLiee ID="F1958" audience="Particuliers" type="Fiche d'information">
+<Titre>Élections régionales et départementales (ex-cantonales)</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

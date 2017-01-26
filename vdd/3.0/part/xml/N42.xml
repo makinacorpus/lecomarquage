@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N42" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Disparition et enlèvement de personnes</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Disparition et enlèvement de personnes</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-21</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N42</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19805</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Parent</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N42" type="Dossier">Disparition et enlèvement de personnes</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20091">Protection des personnes</SousThemePere>
+<Fiche ID="F31558">Disparition d'un adulte</Fiche>
+<Fiche ID="F10385">Disparition d'un enfant mineur</Fiche>
+<Fiche ID="F1191">Disparition d'un mineur : enlèvement parental, non-représentation d'enfant</Fiche><OuSAdresser ID="R1201" type="Centre de contact">
+<Titre>Police secours - 17</Titre><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Composez le
+      <MiseEnEvidence>17</MiseEnEvidence>
+      en cas d'urgence concernant un accident de la route, un trouble à l'ordre public ou une infraction pénale.
+    
+		
+			Une équipe de policiers ou de gendarmes se rendra  sur les lieux.</Paragraphe>
+								<Paragraphe>
+			
+      Vous pouvez aussi composez le
+      <MiseEnEvidence>112</MiseEnEvidence>.</Paragraphe>
+								<Paragraphe>
+			Si la situation ne relève pas d'une urgence, composez le numéro de votre commissariat ou de votre brigade de gendarmerie.
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R10386" type="Centre de contact">
+<Titre>Enfants Disparus - 116 000</Titre><Texte>
+						
+								<Paragraphe>
+			Service téléphonique d'accueil et d'information à destination des familles d'enfants disparus ou enlevés.
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>116 000</MiseEnEvidence>
+      (gratuit)
+    
+		</Paragraphe>
+								<Paragraphe>
+			Accessible 7j/7 et 24h/24.</Paragraphe>
+								<Paragraphe>
+			Numéro européen opérationnel depuis 29 pays : Allemagne, Autriche, Belgique, Bulgarie, Croatie, Chypre, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède, Suisse.
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+      Accès au <LienExterne URL="http://www.116000enfantsdisparus.fr/nous-contacter.html">formulaire de contact</LienExterne>
+ par courriel du site 116000enfantsdisparus.fr.
+    
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<ServiceEnLigne ID="R46400" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15603.do" format="application/pdf" poids="242.1 KB" numerocerfa="15603*01" type="Formulaire">
+<Titre>Requête aux fins de constatation de présomption d'absence</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R3117" URL="http://judiciaire.gendarmerie.interieur.gouv.fr/judiciaire/" audience="Particuliers">
+<Titre>Avis de recherche de la gendarmerie nationale</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10962" URL="http://www.justice.gouv.fr/justice-civile-11861/enlevement-parental-12063/" audience="Particuliers">
+<Titre>Enlèvements internationaux d'enfants et droits de visite transfrontières</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1193" audience="Particuliers">Peut-on encore demander une recherche dans l'intérêt des familles (Rif) ?</QuestionReponse>
+</Publication>

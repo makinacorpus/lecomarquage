@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R45220" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Vote en ligne aux élections professionnelles des TPE</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Permet au salarié d'une entreprise de moins de 11 salariés ou d'une association (au 31 décembre 2015) ou employé à domicile auprès d'un particulier employeur, de voter par voie électronique aux élections professionnelles ayant lieu du 28 novembre au 12 décembre 2016.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-07</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R45220</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N17310">Droits syndicaux</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R45220" type="Téléservice">Vote en ligne aux élections professionnelles des TPE</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet au salarié d'une entreprise de moins de 11 salariés ou d'une association (au 31 décembre 2015) ou employé à domicile auprès d'un particulier employeur, de voter par voie électronique aux élections professionnelles ayant lieu du 28 novembre au 12 décembre 2016.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://election-tpe.travail.gouv.fr/comment-voter">
+<Source>Ministère en charge du travail</Source>
+</LienWeb>
+<FicheLiee ID="F23513" audience="Professionnels" type="Fiche d'information">
+<Titre>Élections professionnelles : les obligations de l'employeur</Titre>
+<Dossier ID="N17310">Droits syndicaux</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

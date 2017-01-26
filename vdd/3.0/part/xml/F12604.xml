@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12604" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Est-on dispensé de préavis en cas de démission liée à la mutation du conjoint ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le salarié qui démissionne pour suivre son conjoint reste tenu d'effectuer son préavis, sauf s'il bénéficie d'une dispense.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-25</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12604</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19611</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="F12604" type="Fiche Question-réponse">Est-on dispensé de préavis en cas de démission liée à la mutation du conjoint ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N19611">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre><SousDossier ID="N19611-1">
+<Titre>Démission</Titre>
+<Fiche ID="F2883">Démission d'un salarié</Fiche>
+<Fiche ID="F89">Allocations chômage</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-2">
+<Titre>Rupture conventionnelle du CDI</Titre>
+<Fiche ID="F19030">Conditions et procédure</Fiche>
+<Fiche ID="F19708">Indemnisation</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-3">
+<Titre>Documents à remettre au salarié</Titre>
+<Fiche ID="F87">Certificat de travail</Fiche>
+<Fiche ID="F2867">Attestation destinée à Pôle emploi</Fiche>
+<Fiche ID="F86">Reçu pour solde de tout compte</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-4">
+<Titre>Ruptures atypiques du contrat de travail</Titre>
+<Fiche ID="F24409">Prise d'acte de la rupture du contrat de travail</Fiche>
+<Fiche ID="F24410">Résiliation judiciaire du contrat de travail</Fiche>
+<Fiche ID="F24411">Départ négocié en cas de difficultés économiques</Fiche>
+<Fiche ID="F24412">Rupture du contrat de travail pour cas de force majeure</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Non. Même si vous démissionnez pour suivre la <LienIntra LienID="R42442" type="Définition de glossaire">personne avec qui vous vivez en couple</LienIntra>, tout préavis doit être exécuté dans le respect de la procédure prévue par la loi, la convention collective ou à défaut <LienIntra LienID="R12729" type="Définition de glossaire">l'usage professionnel ou l'usage local</LienIntra>.</Paragraphe>
+<Paragraphe>Toutefois, vous pouvez être dispensé d'effectuer votre préavis, de votre propre initiative ou à la demande de votre employeur, dans les conditions suivantes :</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Vous demandez une dispense de préavis</Paragraphe>
+</Titre>
+												<Paragraphe>Vous pouvez demander à votre employeur de vous dispenser d'effectuer votre préavis (par écrit ou par oral).</Paragraphe>
+												<Paragraphe>Si votre employeur accepte, votre contrat de travail prend fin à la date convenue entre vous, mais vous n'avez pas droit à l'indemnité compensatrice de préavis.</Paragraphe>
+												<Paragraphe>Si votre employeur refuse, vous êtes tenu(e) d'effectuer votre préavis, sous peine de devoir lui verser  une indemnité d'un montant égal à la rémunération brute que vous auriez perçue si vous aviez travaillé.</Paragraphe>
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Votre employeur vous dispense de préavis</Paragraphe>
+</Titre>
+												<Paragraphe>L'employeur peut vous imposer de ne pas effectuer votre préavis. Dans ce cas, vous conservez les avantages que vous auriez perçus si vous aviez travaillé jusqu'à l'expiration du préavis et percevez l'<LienInterne LienPublication="F24660" type="Fiche d'information" audience="Particuliers">indemnité compensatrice de préavis</LienInterne>.</Paragraphe>
+											
+</Cas>
+</BlocCas>
+
+
+</Texte>
+<OuSAdresser ID="R3040" type="Centre de contact">
+<Titre>Votre direction des ressources humaines (DRH)</Titre>
+<Complement>Pour toute demande d'information complémentaire</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R756" type="Centre de contact">
+<Titre>Vos représentants du personnel</Titre>
+<Complement>Pour toute demande d'information complémentaire</Complement>
+</OuSAdresser>
+<Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12729">
+<Titre>Usage professionnel ou usage local (droit du travail)</Titre>
+<Texte>
+				<Paragraphe>Pratique d'application générale, constante et fixe au sein d'une profession ou d'une localité et à l'origine d'une règle non écrite s'imposant à l'employeur vis-à-vis du salarié.</Paragraphe>
+			</Texte>
+</Definition>
+
+</Publication>

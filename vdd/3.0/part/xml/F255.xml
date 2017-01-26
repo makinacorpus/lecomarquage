@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F255" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels types d'établissements hébergent des personnes âgées ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Il existe plusieurs solutions d'hébergement pour les personnes âgées. Les établissements peuvent être plus ou moins médicalisés selon qu'ils ont vocation à accueillir des personnes âgées autonomes, dépendantes ou très dépendantes. Les frais d'hébergement peuvent être pris en charge en tout ou partie lorsque les ressources de la personne âgée sont faibles.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Caisse nationale de solidarité pour l'autonomie (CNSA)</dc:contributor>
+<dc:date>modified 2017-01-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F255</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N333</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N333">Hébergement des personnes âgées</Niveau>
+<Niveau ID="F255" type="Fiche Question-réponse">Quels types d'établissements hébergent des personnes âgées ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20271">Hébergement</SousThemePere><DossierPere ID="N333">
+<Titre>Hébergement des personnes âgées</Titre>
+<Fiche ID="F33912">Hébergement temporaire</Fiche>
+<Fiche ID="F763">Établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Fiche>
+<Fiche ID="F2444">Aide sociale à l'hébergement (ASH)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Il existe plusieurs solutions d'hébergement pour les personnes âgées. Les établissements peuvent être plus ou moins médicalisés selon qu'ils ont vocation à accueillir des personnes âgées autonomes, dépendantes ou très dépendantes. Les frais d'hébergement peuvent être pris en charge en tout ou partie lorsque les ressources de la personne âgée sont faibles.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Personne âgée autonome</Paragraphe>
+</Titre><Paragraphe>Une personne autonome est une personne capable d'effectuer  elle-même les actes de la vie courante. </Paragraphe>
+<Paragraphe>Elle peut être accueillie :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>en résidence autonomie (ex logement-foyer) ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en résidence services dans un ensemble hôtelier ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en maison d'accueil rurale pour personne âgée (Marpa).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Il s'agit de structures non médicalisées proposant la location de chambres ou d'appartements et bénéficiant d'équipements et de prestations collectives (par exemples, blanchisserie, restauration, services ménagers...). </Paragraphe>
+<Paragraphe>Les coordonnées des différents établissements peuvent être obtenues sur le site dédié aux personnes âgées.</Paragraphe><OuSAdresser ID="R1544" type="Local">
+<Titre>Annuaire des établissements pour personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire?service=hebergement" commentaireLien="Liste des établissements publics et privés (avec mention des établissements conventionnés à l'aide sociale à l'hébergement ou à l'aide personnalisée au logement)"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+
+<Paragraphe>La caisse de retraite complémentaire peut disposer de places réservées à ses retraités dans des maisons de retraite. Pour le savoir, il convient de se renseigner auprès de sa caisse de retraite.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>en cas de ressources insuffisantes de la personne âgée, les <LienInterne LienPublication="F763" type="Fiche d'information" audience="Particuliers">frais liés à son hébergement peuvent être pris en charge</LienInterne>.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Personne âgée dépendante</Paragraphe>
+</Titre><Paragraphe>Une personne dépendante est une personne en perte d'autonomie qui nécessite une aide pour réaliser des actes essentiels de la vie ou dont l'état nécessite une surveillance.</Paragraphe>
+<Paragraphe>Elle peut être accueillie en <LienInterne LienPublication="F763" type="Fiche d'information" audience="Particuliers">établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</LienInterne>. L'Éhpad est une structure médicalisée proposant un hébergement en chambre individuelle et des soins médicaux. L'établissement permet de bénéficier d'équipements et de prestations collectives (par exemples, blanchisserie, restauration, services ménagers...). </Paragraphe>
+<Paragraphe>Les coordonnées des différents établissements peuvent être obtenues sur le site dédié aux personnes âgées.</Paragraphe><OuSAdresser ID="R1544" type="Local">
+<Titre>Annuaire des établissements pour personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire?service=hebergement" commentaireLien="Liste des établissements publics et privés (avec mention des établissements conventionnés à l'aide sociale à l'hébergement ou à l'aide personnalisée au logement)"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+
+<Paragraphe>La caisse de retraite complémentaire peut disposer de places réservées à ses retraités dans des maisons de retraite. Pour le savoir, il convient de se renseigner auprès de sa caisse de retraite.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>en cas de ressources insuffisantes de la personne âgée, les <LienInterne LienPublication="F763" type="Fiche d'information" audience="Particuliers">frais liés à son hébergement peuvent être pris en charge</LienInterne>.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Personne âgée très dépendante</Paragraphe>
+</Titre><Paragraphe>Une personne âgée très dépendante est une personne qui se trouve dans l'incapacité d'effectuer elle-même les actes de la vie courante (par exemple, impossibilité de se laver, de se nourrir) et dont l'état de santé nécessite une surveillance médicale constante.</Paragraphe>
+<Paragraphe>Elle peut être accueillie en unité de soins de longue durée (USLD) ou en unités spécifiques Alzheimer ou syndrome apparenté. Ces unités de soins proposent l'hébergement en chambre individuelle avec des soins médicaux et une surveillance constante. L'admission a en général lieu à la suite d'une hospitalisation ou d'un service de soins de suite de réadaptation.</Paragraphe>
+<Paragraphe>Les coordonnées des différents établissements peuvent être obtenues sur le site dédié aux personnes âgées.</Paragraphe><OuSAdresser ID="R1544" type="Local">
+<Titre>Annuaire des établissements pour personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire?service=hebergement" commentaireLien="Liste des établissements publics et privés (avec mention des établissements conventionnés à l'aide sociale à l'hébergement ou à l'aide personnalisée au logement)"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+
+<Paragraphe>La caisse de retraite complémentaire peut disposer de places réservées à ses retraités dans des maisons de retraite. Pour le savoir, il convient de se renseigner auprès de sa caisse de retraite.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>en cas de ressources insuffisantes de la personne âgée, les <LienInterne LienPublication="F763" type="Fiche d'information" audience="Particuliers">frais liés à son hébergement peuvent être pris en charge</LienInterne>.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F15240" audience="Particuliers">
+<Titre>Accueil d'une personne âgée et/ou handicapée (accueillant familial)</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R1544" type="Local">
+<Titre>Annuaire des établissements pour personnes âgées</Titre>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire?service=hebergement" commentaireLien="Liste des établissements publics et privés (avec mention des établissements conventionnés à l'aide sociale à l'hébergement ou à l'aide personnalisée au logement)"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour obtenir les coordonnées d'un établissement ou pour contacter un CCAS (sauf à Paris)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<Complement>Pour obtenir les coordonnées d'un établissement</Complement>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+<OuSAdresser ID="R40963" type="Local">
+<Titre>Point d'information local dédié aux personnes âgées</Titre>
+<Complement>Pour obtenir les coordonnées d'un établissement</Complement>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+<PourEnSavoirPlus type="Information pratique" ID="R46489" URL="http://www.pour-les-personnes-agees.gouv.fr/choisir-un-hebergement/choisir-une-maison-de-retraite-ou-une-residence-pour-personnes-agees" audience="Particuliers">
+<Titre>Choisir une maison de retraite ou une résidence pour personnes âgées</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41351" URL="http://www.pour-les-personnes-agees.gouv.fr" audience="Particuliers">
+<Titre>Portail d'information et d'orientation des personnes âgées et leurs proches</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41337" URL="http://www.marpa.fr/" audience="Particuliers">
+<Titre>Site de la Fédération nationale des maisons d'accueil rurales pour personnes âgées (Marpa)</Titre>
+<Source ID="R39435">Fédération nationale des Marpa</Source>
+</PourEnSavoirPlus>
+</Publication>

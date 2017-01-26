@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F13286" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on être indemnisé pour détention ou assignation à résidence injustifiée ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Oui. La personne ayant fait l'objet d'une détention provisoire ou d'une assignation à résidence et qui n'a pas été condamnée au final peut demander une indemnisation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-12-14</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F13286</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000021331517&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006193120&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197867&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006138099&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19679</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N19679">Indemnisation du préjudice</Niveau>
+<Niveau ID="F13286" type="Fiche Question-réponse">Peut-on être indemnisé pour détention ou assignation à résidence injustifiée ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20385">Réparation du préjudice</SousThemePere><DossierPere ID="N19679">
+<Titre>Indemnisation du préjudice</Titre><SousDossier ID="N19679-1">
+<Titre>Par le tribunal</Titre>
+<Fiche ID="F1422">Demande de dommages-intérêts</Fiche>
+</SousDossier>
+<SousDossier ID="N19679-2">
+<Titre>Par un fonds de garantie</Titre>
+<Fiche ID="F2313">Victime d'infraction</Fiche>
+<Fiche ID="F1527">Victime d'acte de terrorisme</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Oui. La personne ayant fait l'objet d'une détention provisoire ou d'une assignation à résidence et qui n'a pas été condamnée au final peut demander une indemnisation. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Qui est concerné ?</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>S'il y a eu un procès</Paragraphe>
+</Titre><Paragraphe>Les personnes concernées sont celles ayant subi lors de l'enquête ayant précédé le procès :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une détention provisoire,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une assignation à résidence.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Et qui ont finalement bénéficié :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'une <LienIntra LienID="R2544" type="Définition de glossaire">relaxe</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou d'un <LienIntra LienID="R2696" type="Définition de glossaire">acquittement</LienIntra>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'indemnisation est exclue dans plusieurs cas, notamment lorsque :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'absence de condamnation a pour seul fondement la reconnaissance de l'irresponsabilité d'une personne <Expression>au sens de l'article 122-1 du code pénal</Expression>, c'est-à-dire pour cause de trouble psychique,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou la personne s'est volontairement accusée ou laissé accuser à tort, en vue de faire échapper aux poursuites le véritable auteur des faits.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>l'indemnisation peut aussi être demandée par une personne condamnée puis reconnue innocente suite à un recours en révision.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Absence de procès</Paragraphe>
+</Titre><Paragraphe>Les personnes concernées sont celles ayant subi :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F1042" type="Fiche d'information" audience="Particuliers">détention provisoire</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou une <LienInterne LienPublication="F2007" type="Fiche d'information" audience="Particuliers">assignation à résidence</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Et qui ont bénéficié d'un  <LienIntra LienID="R2465" type="Définition de glossaire">non-lieu</LienIntra> après l'enquête d'un juge d'instruction</Paragraphe>
+<Paragraphe>L'indemnisation est exclue lorsque la personne s'est volontairement accusée ou laissé accuser à tort, en vue de faire échapper aux poursuites le véritable auteur des faits.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>il n'est pas possible d'obtenir une indemnisation après une garde à vue même si aucune charge n'a été retenue au final.</Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><Paragraphe>L'indemnité est allouée par le premier président de la <LienInterne LienPublication="F2224" type="Fiche avec liens externes" audience="Particuliers">Cour d'appel</LienInterne> dont dépend le tribunal ou le juge qui a été prononcé la décision de non-lieu, de relaxe ou d'acquittement.</Paragraphe><OuSAdresser ID="R11624" type="Local personnalisé sur SP">
+<Titre>Cour d'appel</Titre>
+<PivotLocal>cour_appel</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-cours-dappel-21767.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Il doit être saisi par voie de <LienIntra LienID="R12542" type="Définition de glossaire">requête</LienIntra> dans les 6 mois. Il statue par décision motivée.</Paragraphe>
+<Paragraphe>Il est possible de demander l'aide d'un avocat.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Indemnisation</Paragraphe>
+</Titre><Paragraphe>L'indemnité versée tend à réparer le préjudice matériel (perte de salaire...) et moral (éloignement de la famille...) que la personne a subi durant sa privation de liberté.</Paragraphe>
+<Paragraphe>La personne concernée peut demander une réparation intégrale. Elle peut solliciter une expertise pour l'évaluer.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Recours</Paragraphe>
+</Titre><Paragraphe>La décision prise par le premier président de la Cour d'appel peut, dans les 10 jours de sa notification, faire l'objet d'un recours devant la commission nationale de réparation des détentions placée auprès de la Cour de cassation.</Paragraphe><OuSAdresser ID="R182" type="National">
+<Titre>Cour de cassation</Titre>
+<RessourceWeb URL="https://www.courdecassation.fr/service_accueil_11812.html"/>
+</OuSAdresser>
+
+<Paragraphe>Cette commission statue souverainement : sa décision ne peut faire l'objet d'aucun recours.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1042" audience="Particuliers">
+<Titre>Détention provisoire</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<Complement>Pour se faire assister</Complement>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000021331517&amp;cidTexte=LEGITEXT000006071154" ID="R2148">
+<Titre>Code de procédure pénale : articles 149 à 150</Titre>
+<Complement>Réparation à raison d'une détention</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006193120&amp;cidTexte=LEGITEXT000006071154" ID="R2111">
+<Titre>Code de procédure pénale : articles R26 à R40-3</Titre>
+<Complement>Demande d'indemnisation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197867&amp;cidTexte=LEGITEXT000006071154" ID="R2125">
+<Titre>Code de procédure pénale : articles R40-4 à R40-7</Titre>
+<Complement>Recours</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006138099&amp;cidTexte=LEGITEXT000006071154" ID="R2717">
+<Titre>Code de procédure pénale : articles 622 à 626</Titre>
+<Complement>Demande en révision</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R2102" URL="http://www.courdecassation.fr/hautes_juridictions_commissions_juridictionnelles_3/commission_nationale_reparation_detentions_620/reparation_detention_provisoire_11885.html" audience="Particuliers">
+<Titre>La réparation de la détention provisoire</Titre>
+<Source ID="R30633">Cour de cassation</Source>
+</PourEnSavoirPlus>
+<Definition ID="R12542">
+<Titre>Requête</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant de saisir une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R2465">
+<Titre>Non-lieu</Titre>
+<Texte>
+				<Paragraphe>Décision d'un juge d'instruction ou de la chambre de l'instruction mettant fin à des poursuites pénales</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R2544">
+<Titre>Relaxe</Titre>
+<Texte>
+				<Paragraphe>Décision d'un tribunal correctionnel ou d'un tribunal de police déclarant un prévenu non coupable</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R2696">
+<Titre>Acquittement</Titre>
+<Texte>
+				<Paragraphe>Décision d'une cour d'assises déclarant un accusé non coupable</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

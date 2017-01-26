@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14205" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Droits de donation : calcul et paiement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Pour calculer le montant des droits de donation, plusieurs étapes sont nécessaires.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14205</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199106&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197326&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199108&amp;cidTexte=LEGITEXT000006069577, http://bofip.impots.gouv.fr/bofip/2691-PGP.html?identifiant=BOI-ENR-DMTG-20, http://bofip.impots.gouv.fr/bofip/3347-PGP.html, http://bofip.impots.gouv.fr/bofip/3351-PGP.html, http://bofip.impots.gouv.fr/bofip/3351-PGP.html, http://bofip.impots.gouv.fr/bofip/6839-PGP</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31160</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N31160">Droits de succession et de donation</Niveau>
+<Niveau ID="F14205" type="Fiche d'information">Droits de donation : calcul et paiement</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N31160">
+<Titre>Droits de succession et de donation</Titre><SousDossier ID="N31160-1">
+<Titre>Droits de succession</Titre>
+<Fiche ID="F80">Déclaration</Fiche>
+<Fiche ID="F17456">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14198">Calcul et paiement</Fiche>
+</SousDossier>
+<SousDossier ID="N31160-2">
+<Titre>Droits de donation</Titre>
+<Fiche ID="F10203">Biens imposables et principales exonérations</Fiche>
+<Fiche ID="F14205">Calcul et paiement</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Droits de donation</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Pour calculer le montant des droits de donation, l'administration fiscale détermine le montant qui vous revient dans l'actif donné (en cas de donation effectuée au profit de plusieurs bénéficiaires), en tenant compte des éventuelles donations déjà reçues. Elle applique ensuite un tarif après déduction d'un <LienIntra LienID="R3018" type="Définition de glossaire">abattement</LienIntra>. Dans certains cas, vous pouvez bénéficier d'une réduction. Le paiement s'effectue au comptant au moment de l'enregistrement de la donation, sauf cas particuliers.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Abattements et droits de donation</Paragraphe>
+</Titre>
+				<Paragraphe>L'administration fiscale tient compte des donations que le <LienIntra LienID="R46107" type="Définition de glossaire">donateur</LienIntra> vous a déjà consenties  pour calculer le montant des <LienIntra LienID="R3018" type="Définition de glossaire">abattements</LienIntra> et réductions de droits dont vous pouvez bénéficier ainsi que les droits de mutation à payer.</Paragraphe>
+				<Paragraphe>Toutefois, cette règle ne s'applique pas notamment aux donations suivantes : </Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>
+<LienInterne LienPublication="F10203" type="Fiche d'information" audience="Particuliers">Dons familiaux de sommes d'argent</LienInterne>
+</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>Donations que le donateur vous a consenties depuis plus de 15 ans (délai applicable aux successions ouvertes depuis le 17 août 2012).</Paragraphe>
+					</Item>
+				</Liste>
+			
+				<Paragraphe>L'administration fiscale applique un barème fiscal sur la part de donation qui vous revient, diminuée au préalable d'un abattement.</Paragraphe>
+			<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Époux ou partenaire de Pacs</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+									
+										<Paragraphe>
+<Valeur>80 724 €</Valeur> à partir de 2011</Paragraphe>
+									
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation entre époux ou partenaires de Pacs à partir de 2011</Titre>
+<Colonne largeur="38" type="header"/>
+<Colonne largeur="35" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Part taxable après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>5%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>10%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>31 865 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>15%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>31 865 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>20%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>30%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>40%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>45%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Enfant</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+									
+										<Liste type="puce">
+											<Item>
+												<Paragraphe>
+<Valeur>159 325 €</Valeur> jusqu'au 16 août 2012</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>
+<Valeur>100 000 €</Valeur> à partir du 17 août 2012</Paragraphe>
+											</Item>
+										</Liste>
+									<ASavoir>
+<Titre>À savoir</Titre>
+										<Paragraphe>certains <LienInterne LienPublication="F10203" type="Fiche d'information" audience="Particuliers">dons familiaux</LienInterne> sont exonérés de  droits de mutation dans la limite de <Valeur>31 865 €</Valeur>.</Paragraphe>
+									</ASavoir>
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation en ligne directe à partir de 2011</Titre>
+<Colonne largeur="41" type="header"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Part taxable après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>5%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>10%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>15%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>20%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>30%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>40%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>45%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+										<Paragraphe>
+<MiseEnEvidence>Exemple de calcul</MiseEnEvidence> pour une donation d'un studio d'une valeur de <Valeur>200 000 €</Valeur> par un père à son enfant en 2013 (en supposant qu'il n'y a pas de donation antérieure)</Paragraphe>
+										<Paragraphe>La part taxable après abattement est égal à  <Valeur>100 000 €</Valeur> (<Valeur>200 000 €</Valeur> - <Valeur>100 000 €</Valeur>)</Paragraphe>
+										<Paragraphe>Application du barème :</Paragraphe>
+										<Paragraphe>Montant jusqu'à <Valeur>8 071 €</Valeur>  : <Valeur>8 071 €</Valeur> x 5 %  = <Valeur>403,55 €</Valeur>
+</Paragraphe>
+										<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur> : (<Valeur>12 109 €</Valeur> - <Valeur>8 072 €</Valeur>) x 10 % = <Valeur>4 037 €</Valeur> x 10 %  = <Valeur>403,7 €</Valeur>
+</Paragraphe>
+										<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur> : (<Valeur>15 932 €</Valeur> - <Valeur>12 109 €</Valeur>) x 15 % = <Valeur>3 823 €</Valeur> x 15 % = <Valeur>573,45 €</Valeur>
+</Paragraphe>
+										<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>100 000 €</Valeur> : (<Valeur>100 000 €</Valeur>-<Valeur>15 932 €</Valeur>) x 20 % = <Valeur>84 068 €</Valeur> x 20 % = <Valeur>16 813,6 €</Valeur>
+</Paragraphe>
+										<Paragraphe>Les droits de donations sont de : <Valeur>403,55 €</Valeur> + <Valeur>403,7 €</Valeur> + <Valeur>573,45 €</Valeur> + <Valeur>16 813,6 €</Valeur> = <Valeur>18 194,3 €</Valeur>.</Paragraphe>
+									
+										<Paragraphe>Un  enfant adopté sous la forme de  l'adoption simple acquitte les mêmes droits que les personnes non parentes (60%). Toutefois, il y a des exceptions : si l'adopté est mineur au moment du décès de l'adoptant, enfant issu d'un 1er mariage de l'époux de l'adoptant,   s'il est mineur au moment de la donation et a été pris en charge par l'adoptant pendant 5 ans au moins (pour une donation consentie en  2017) etc.</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation en ligne collatérale et entre non-parents</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Situation où les montants sont taxables après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Donation entre parents jusqu'au 4ème degré inclus</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>55%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Donation entre parents au-delà du 4ème degré ou entre personnes non parentes</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>60%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Ascendant (parents, grands-parents, etc.)</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+									
+										<Liste type="puce">
+											<Item>
+												<Paragraphe>
+<Valeur>159 325 €</Valeur> jusqu'au 16 août 2012</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>
+<Valeur>100 000 €</Valeur> à partir du 17 août 2012</Paragraphe>
+											</Item>
+										</Liste>
+									<ASavoir>
+<Titre>À savoir</Titre>
+										<Paragraphe>certains <LienInterne LienPublication="F10203" type="Fiche d'information" audience="Particuliers">dons familiaux</LienInterne> sont exonérés de  droits de mutation dans la limite de <Valeur>31 865 €</Valeur>.</Paragraphe>
+									</ASavoir>
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation en ligne directe à partir de 2011</Titre>
+<Colonne largeur="41" type="header"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Part taxable après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>5%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>10%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>15%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>20%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>30%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>40%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>45%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Petit-enfant</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+									
+										<Paragraphe>
+<Valeur>31 865 €</Valeur> à partir de 2011</Paragraphe>
+									<ASavoir>
+<Titre>À savoir</Titre>
+										<Paragraphe>certains <LienInterne LienPublication="F10203" type="Fiche d'information" audience="Particuliers">dons familiaux</LienInterne> sont exonérés de  droits de mutation dans la limite de <Valeur>31 865 €</Valeur>.</Paragraphe>
+									</ASavoir>
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation en ligne directe à partir de 2011</Titre>
+<Colonne largeur="41" type="header"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Part taxable après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>5%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>10%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>15%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>20%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>30%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>40%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>45%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Arrière-petit-enfant</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+									
+										<Paragraphe>
+<Valeur>5 310 €</Valeur> à partir de 2011</Paragraphe>
+									
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation en ligne directe à partir de 2011</Titre>
+<Colonne largeur="41" type="header"/>
+<Colonne largeur="40" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Part taxable après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Moins de <Valeur>8 072 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>5%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>8 072 €</Valeur> et <Valeur>12 109 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>10%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>12 109 €</Valeur> et <Valeur>15 932 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>15%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>15 932 €</Valeur> et <Valeur>552 324 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>20%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>552 324 €</Valeur> et <Valeur>902 838 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>30%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Entre <Valeur>902 838 €</Valeur> et <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>40%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Supérieure à <Valeur>1 805 677 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>45%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Frère ou sœur</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+									
+										<Paragraphe>
+<Valeur>15 932 €</Valeur> à partir de 2011</Paragraphe>
+									
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation entre frères et sœurs</Titre>
+<Colonne largeur="32" type="header"/>
+<Colonne largeur="23" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Part taxable après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Inférieure à <Valeur>24 430 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>35%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Supérieure à <Valeur>24 430 €</Valeur>
+</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>45%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Neveu ou nièce</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Abattement</MiseEnEvidence> :</Paragraphe>
+									
+										<Paragraphe>
+<Valeur>7 967 €</Valeur>
+</Paragraphe>
+									
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation en ligne collatérale et entre non-parents</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Situation où les montants sont taxables après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Donation entre parents jusqu'au 4ème degré inclus</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>55%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Donation entre parents au-delà du 4ème degré ou entre personnes non parentes</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>60%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Autre situation</Paragraphe>
+</Titre>
+										<Paragraphe>
+<MiseEnEvidence>Barème</MiseEnEvidence> :</Paragraphe>
+									
+										<Tableau>
+<Titre>Tarifs des droits de donation en ligne collatérale et entre non-parents</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+												<Cellule>
+													<Paragraphe>Situation où les montants sont taxables après abattement</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>Barème d'imposition</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Donation entre parents jusqu'au 4ème degré inclus</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>55%</Paragraphe>
+												</Cellule>
+											</Rangée>
+<Rangée type="normal">
+												<Cellule>
+													<Paragraphe>Donation entre parents au-delà du 4ème degré ou entre personnes non parentes</Paragraphe>
+												</Cellule>
+												<Cellule>
+													<Paragraphe>60%</Paragraphe>
+												</Cellule>
+											</Rangée>
+</Tableau>
+									
+</Cas>
+</BlocCas>
+<ANoter>
+<Titre>À noter</Titre>
+				<Paragraphe>une personne handicapée a droit à un abattement spécifique de <Valeur>159 325 €</Valeur> qui se cumule avec les autres.</Paragraphe>
+			</ANoter>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Réduction des droits de donation</Paragraphe>
+</Titre><Paragraphe>Une fois le <LienInterne LienPublication="F14203" type="Fiche Question-réponse" audience="Particuliers">tarif</LienInterne> appliqué à votre part de donation, vous pouvez bénéficier d'une réduction sur le montant des droits à payer dans 3 cas. </Paragraphe>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Réduction pour charge de famille</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Donations effectuées à compter du 1er janvier 2017</Paragraphe>
+</Titre><Paragraphe>Vous n'êtes pas éligible à cette réduction d'impôt.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Donations effectuées avant le 1er janvier 2017</Paragraphe>
+</Titre><Paragraphe>Si vous avez 3 enfants ou plus (qu'ils soient à votre charge ou pas), vous pouvez bénéficier d'une réduction sur les droits de donation à payer.</Paragraphe>
+<Paragraphe>Le montant de la réduction est de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>610 €</Valeur> par enfant à partir du 3<Exposant>e</Exposant> enfant pour une donation en ligne directe (donation venant de vos parents ou grands-parents) ou entre époux ou partenaires liés par un <LienInterne LienPublication="R45368" type="Sigle">Pacs</LienInterne>.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>305 €</Valeur> par enfant à partir du 3<Exposant>e</Exposant> enfant pour les autres donations.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Réduction pour les mutilés de guerre</Paragraphe>
+</Titre><Paragraphe>Si vous êtes mutilé de guerre, atteint d'une invalidité de 50% au minimum, vous bénéficiez d'une réduction de <Valeur>305 €</Valeur> sur les droits à payer.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Réduction spécifique aux donations d'entreprises</Paragraphe>
+</Titre><Paragraphe>Vous pouvez bénéficier d'une  réduction de 50% des droits de mutation si vous recevez par donation :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des titres de sociétés ou d'entreprises individuelles qui répondent à certaines conditions,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et si le donateur a moins de 70 ans.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement des droits de donation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Personne concernée</Paragraphe>
+</Titre><Paragraphe> En qualité de bénéficiaire, <LienInterne LienPublication="F10203" type="Fiche d'information" audience="Particuliers">sauf si vous en êtes exonéré</LienInterne>, vous devez payer les droits de donation.</Paragraphe>
+<Paragraphe>Toutefois, le donateur peut prendre les droits à sa charge.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Date</Paragraphe>
+</Titre><Paragraphe>Vous devez payer les droits  <LienInterne LienPublication="F1265" type="Fiche Question-réponse" audience="Particuliers">au moment de la déclaration du don</LienInterne>.</Paragraphe>
+<Paragraphe>En cas de donation par acte notarié, le paiement s'effectue par l'intermédiaire du  notaire.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mode de paiement</Paragraphe>
+</Titre><Paragraphe>Vous pouvez payer les droits de donation <LienIntra LienID="R2399" type="Définition de glossaire">en numéraire</LienIntra>, et sous certaines conditions, en <LienInterne LienPublication="F2370" type="Fiche Question-réponse" audience="Particuliers">valeurs du Trésor</LienInterne> ou par <LienIntra LienID="R45250" type="Définition de glossaire">don à l’État</LienIntra> (remise d'œuvres d'art, livres ou objets de collection ayant un intérêt exceptionnel, etc.).</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N31160" audience="Particuliers">
+<Titre>Droits de succession et de donation</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+<Dossier ID="N133" audience="Particuliers">
+<Titre>Adoption</Titre>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F10203" audience="Particuliers">
+<Titre>Droits de donation : biens imposables et principales exonérations</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R20684" type="Centre de contact">
+<Titre>Impôts Service</Titre>
+<Complement>Pour des informations générales sur les droits à régler</Complement>
+<Source ID="R30612">Ministère en charge des finances</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 810 467 687</MiseEnEvidence> (0 810 IMPOTS)</Paragraphe>
+								<Paragraphe>
+			Du lundi au vendredi de 8h à 22h et le samedi de 9h à 19h, hors jours fériés.</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Hors métropole ou depuis l'étranger, composer le + 33 (0)8 10 46 76 87.</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<OuSAdresser ID="R18478" type="Local personnalisable">
+<Titre>Notaire</Titre>
+<Complement>Pour s'informer sur les donations</Complement>
+<PivotLocal>notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<OuSAdresser ID="R10918" type="Local personnalisable">
+<Titre>Chambre départementale des notaires</Titre>
+<Complement>Pour trouver un notaire</Complement>
+<PivotLocal>chambre_notaire</PivotLocal>
+<RessourceWeb URL="http://www.notaires.fr/fr/annuaires-notaire"/>
+</OuSAdresser>
+<OuSAdresser ID="R15019" type="Local personnalisable">
+<Titre>Service en charge des impôts (trésorerie, centre des impôts fonciers...)</Titre>
+<Complement>Pour s'informer et faire ou enregistrer un don</Complement>
+<PivotLocal>centre_impots</PivotLocal>
+<RessourceWeb URL="http://www.impots.gouv.fr/portal/dgi/public/contacts?pageId=contacts&amp;sfid=07#services"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199106&amp;cidTexte=LEGITEXT000006069577" ID="R35056">
+<Titre>Code général des impôts : articles 779 à 787 C</Titre>
+<Complement>Charge de famille (articles 780 et 781), mutilés de guerre (article 782)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006197326&amp;cidTexte=LEGITEXT000006069577" ID="R35055">
+<Titre>Code général des impôts : articles 777 à 778 bis</Titre>
+<Complement>Tarifs des droits de donation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199108&amp;cidTexte=LEGITEXT000006069577" ID="R35602">
+<Titre>Code général des impôts : articles 790 à 791 ter</Titre>
+<Complement>Donation d'entreprise (article 790)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/2691-PGP.html?identifiant=BOI-ENR-DMTG-20" ID="R24551">
+<Titre>BOFIP-Impôts n°BOI-ENR-DMTG-20-20120912 relatif au régime fiscal des donations</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3347-PGP.html" ID="R35606">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-20-30-20-50 relatif à la réduction des droits de mutation</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3351-PGP.html" ID="R38016">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-20-30-20-20 relatif aux abattements communs aux donations et aux successions et applicables uniquement aux donations</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/3351-PGP.html" ID="R38051">
+<Titre>Bofip-impôts n°BOI-ENR-DMTG-20-30-20-20 relatif aux abattements applicables aux donations</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://bofip.impots.gouv.fr/bofip/6839-PGP" ID="R35058">
+<Titre>Bofip Impôts n°BOI-ENR-DMTG-10-50-80 relatif aux cas particuliers pour les tarifs des droits de mutation</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R24552" URL="https://www.impots.gouv.fr/portail/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits" audience="Particuliers">
+<Titre>Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R24553" URL="https://www.impots.gouv.fr/portail/node/4350" audience="Particuliers">
+<Titre>Je fais une donation</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<Definition ID="R46107">
+<Titre>Donateur</Titre>
+<Texte>
+				<Paragraphe>Personne qui fait une donation.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R2399">
+<Titre>En numéraire</Titre>
+<Texte>
+				<Paragraphe>Paiement en argent, qui peut être sous forme d'espèces, de chèques, de virements, etc.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R3018">
+<Titre>Abattement</Titre>
+<Texte>
+				<Paragraphe>Somme forfaitaire déduite des revenus</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R45250">
+<Titre>Dation</Titre>
+<Texte>
+				<Paragraphe>Une dation en paiement est le fait pour le débiteur de se libérer de tout ou partie de sa dette en cédant un bien lui appartenant. La dation permet à certains contribuables de payer leurs impôts en donnant notamment des œuvres d'arts ou objets de collection.</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R45368" type="Sigle">
+<Titre>Pacs</Titre>
+<Texte>
+<Paragraphe>Pacte civil de solidarité</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F14203" audience="Particuliers">Quels abattements et tarifs s'appliquent aux bénéficiaires d'une donation ?</QuestionReponse>
+<QuestionReponse ID="F32272" audience="Particuliers">Rapport civil et rapport fiscal dans une succession : quelles différences ?</QuestionReponse>
+
+</Publication>

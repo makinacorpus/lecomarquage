@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2161" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Expert judiciaire</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Un expert judiciaire est chargé de donner au juge un avis sur des points techniques précis. Son avis ne s'impose pas au juge, qui reste libre.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-11</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2161</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167429&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165192&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150471&amp;cidTexte=LEGITEXT000006070933, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136497&amp;cidTexte=LEGITEXT000006070933, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000874942, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005983254</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N279</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N279">Acteurs de la justice</Niveau>
+<Niveau ID="F2161" type="Fiche d'information">Expert judiciaire</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N279">
+<Titre>Acteurs de la justice</Titre>
+<Fiche ID="F2176">Magistrats et greffiers</Fiche>
+<Fiche ID="F2158">Huissier de justice</Fiche>
+<Fiche ID="F2153">Avocat</Fiche>
+<Fiche ID="F2164">Notaire</Fiche>
+<Fiche ID="F1540">Juré d'assises</Fiche>
+<Fiche ID="F1822">Médiateur civil</Fiche>
+<Fiche ID="F1739">Médiateur pénal</Fiche>
+<Fiche ID="F1736">Conciliateur de justice</Fiche>
+<Fiche ID="F2161">Expert judiciaire</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Un expert judiciaire est chargé de donner au juge un avis sur des points techniques précis. Il existe des experts dans des disciplines très variées (médecin, spécialiste du bâtiment...).
+			Son avis ne s'impose pas aux juges, qui restent libres.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Désignation</Paragraphe>
+</Titre><Paragraphe>Il existe une liste nationale par spécialité dressée par la Cour de cassation et une liste par Cour d'appel tant au pénal qu'au civil. </Paragraphe>
+<Paragraphe>Les experts sont spécialisés dans de nombreux domaines : médecine, nuisances sonores, bâtiment...</Paragraphe>
+<Paragraphe>Les juges peuvent faire appel aux experts inscrits sur ces listes.</Paragraphe>
+<OuSAdresser ID="R37308" type="Local">
+<Titre>Expert judiciaire</Titre>
+<RessourceWeb URL="http://www.courdecassation.fr/informations_services_6/listes_experts_judiciaires_8700.html#experts"/>
+<Source ID="R30633">Cour de cassation</Source>
+</OuSAdresser>
+
+<Paragraphe>Les parties peuvent également contacter d'elles-mêmes ces experts. Elles peuvent aussi choisir un expert qui n'est pas inscrit sur cette liste (par exemple, leur médecin personnel). Si l'expert n'est pas inscrit sur une liste, il devra prêter serment devant le juge durant son audition.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contrôle</Paragraphe>
+</Titre><Paragraphe>Le contrôle de l'expert est exercé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par le premier président et le procureur général de la cour d'appel pour les experts inscrits sur les listes des cours d'appel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou par le premier président et le procureur général près de la Cour de cassation pour les experts inscrits sur la liste nationale.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le procureur ou le premier président examine ainsi tout manquement à l'honneur et à la probité de la part d'un expert (par exemple, en cas de rapport faussé).</Paragraphe>
+<Paragraphe>Ils peuvent recevoir les plaintes des parties à un procès.</Paragraphe><OuSAdresser ID="R11624" type="Local personnalisé sur SP">
+<Titre>Cour d'appel</Titre>
+<PivotLocal>cour_appel</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-cours-dappel-21767.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R182" type="National">
+<Titre>Cour de cassation</Titre>
+<RessourceWeb URL="https://www.courdecassation.fr/service_accueil_11812.html"/>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Valeur d'une expertise</Paragraphe>
+</Titre><Paragraphe>Le juge n'est jamais lié par les constatations ou les conclusions d'un expert même inscrit sur une liste. Le juge reste libre de sa décision. </Paragraphe>
+<Paragraphe>Le rapport d'un expert n'a pas de valeur juridique particulière.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Rémunération</Paragraphe>
+</Titre><Paragraphe>La rémunération des experts est incluse dans le <LienInterne LienPublication="F1816" type="Fiche d'information" audience="Particuliers">coût d'un procès</LienInterne>.</Paragraphe>
+<Paragraphe>Ces coûts sont assumés par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>une des parties dans le cadre d'un procès civil (il est possible de demander<LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers"> l'aide juridictionnelle</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou par l'État dans le cadre d'un procès pénal.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2176" audience="Particuliers">
+<Titre>Magistrats et autres agents publics habilités</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2158" audience="Particuliers">
+<Titre>Huissier de justice</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2153" audience="Particuliers">
+<Titre>Avocat</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167429&amp;cidTexte=LEGITEXT000006071154" ID="R37248">
+<Titre>Code de procédure pénale : articles 156 à 169-1</Titre>
+<Complement>Expertise en matière pénale</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165192&amp;cidTexte=LEGITEXT000006070716" ID="R37249">
+<Titre>Code de procédure civile : articles 263 à 284-1</Titre>
+<Complement>Expertise en matière civile (décision, opérations, avis, etc.)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150471&amp;cidTexte=LEGITEXT000006070933" ID="R37250">
+<Titre>Code de justice administrative : articles R621-1 à R621-14</Titre>
+<Complement>Expertise en matière administrative (désignation, opérations, rapport, frais, etc.)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136497&amp;cidTexte=LEGITEXT000006070933" ID="R37251">
+<Titre>Code de justice administrative : articles R761-1 à R761-5</Titre>
+<Complement>Frais et dépens</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000874942" ID="R597">
+<Titre>Loi n°71-498 du 29 juin 1971 relative aux experts judiciaires</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005983254" ID="R37246">
+<Titre>Décret n°2004-1463 du 23 décembre 2004 relatif aux experts judiciaires</Titre>
+</Reference>
+<QuestionReponse ID="F15018" audience="Particuliers">Combien coûte un avocat ?</QuestionReponse>
+</Publication>

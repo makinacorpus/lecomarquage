@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1433" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Certificat de vie commune ou de concubinage</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Si vous vivez en union libre (avec une personne de sexe différent ou de même sexe), certains organismes peuvent vous attribuer certains avantages. Vous aurez alors besoin de prouver que vous vivez en couple et de fournir un certificat de vie commune (ou de concubinage). Les mairies ne sont plus obligées de délivrer ce certificat.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-07</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1433</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136537&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031370017&amp;cidTexte=LEGITEXT000031366350</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N143</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N143">Union libre</Niveau>
+<Niveau ID="F1433" type="Fiche d'information">Certificat de vie commune ou de concubinage</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere><DossierPere ID="N143">
+<Titre>Union libre</Titre>
+<Fiche ID="F1433">Certificat de vie commune ou de concubinage</Fiche>
+<Fiche ID="F904">Conséquences de l'union libre</Fiche>
+<Fiche ID="F18766">Séparation des concubins</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte>
+<Paragraphe>Si vous vivez en union libre (avec une personne de sexe différent ou de même sexe), certains organismes peuvent vous attribuer certains avantages.
+		
+			Vous aurez alors besoin de prouver que vous vivez en couple et de fournir un certificat de vie commune (ou de concubinage).
+		
+			Les mairies ne sont plus obligées de délivrer ce certificat.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le certificat de vie commune ou de concubinage permet de prouver que vous vivez en union libre auprès de certains organismes et d'obtenir ainsi certains avantages.</Paragraphe>
+<Paragraphe>Il est délivré par les mairies, mais elles ne sont pas obligées de le faire.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si votre mairie délivre ce document</Paragraphe>
+</Titre><Paragraphe>Il convient de se renseigner auprès des services municipaux pour connaître les pièces à fournir. Il pourra notamment vous être demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un justificatif d'identité (carte d'identité, passeport),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et des justificatifs de domicile (quittance de loyer, facture de téléphone ...).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Votre mairie peut vous demander d'autres éléments, comme la présence ou l'attestation de témoins par exemple.</Paragraphe>
+<Paragraphe>Le certificat est gratuit et le délai de délivrance varie selon les communes.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Si votre mairie ne délivre pas ce document</Paragraphe>
+</Titre><Paragraphe>Il faut alors présenter aux organismes une déclaration sur l'honneur signée par les 2 concubins.</Paragraphe><ServiceEnLigne ID="R998" URL="" type="Modèle de document">
+<Titre>Déclaration de concubinage</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+<Texte><Paragraphe>Je soussigné <Variable>nom, prénom, date et lieu de naissance</Variable>....,</Paragraphe>
+<Paragraphe> demeurant <Variable>adresse</Variable>....,</Paragraphe>
+<Paragraphe> déclare sur l'honneur vivre maritalement  <Variable>ou en union libre</Variable> depuis le <Variable>date : j/m/a</Variable>,</Paragraphe>
+<Paragraphe>avec <Variable>nom, prénom, date et lieu de naissance</Variable>...., demeurant à la même adresse.</Paragraphe>
+<Paragraphe>Date et signatures</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Fin du concubinage</Paragraphe>
+</Titre><Paragraphe>Il n'y a pas de démarche à faire pour faire annuler le certificat de concubinage.</Paragraphe>
+<Paragraphe> Il ne s'agit que d'une attestation sur l'honneur ou d'un certificat délivré par la mairie sans valeur juridique, contrairement à l'acte de mariage ou à la déclaration de Pacs.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour s'informer et accomplir la démarche</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136537&amp;cidTexte=LEGITEXT000006070721" ID="R33964">
+<Titre>Code civil : article 515-8</Titre>
+<Complement>Concubinage</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031370017&amp;cidTexte=LEGITEXT000031366350" ID="R18389">
+<Titre>Code des relations entre le public et l'administration : articles R113-5 à R113-9</Titre>
+<Complement>Justification de l'identité, de l'état civil, de la situation familiale, de la nationalité française et du domicile</Complement>
+</Reference>
+<ServiceEnLigne ID="R998" URL="" type="Modèle de document">
+<Titre>Déclaration de concubinage</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F2562" audience="Particuliers">Qui a la qualité de locataire en cas de concubinage ?</QuestionReponse>
+<QuestionReponse ID="F362" audience="Particuliers">Comment un couple vivant en union libre doit-il déclarer ses revenus ?</QuestionReponse>
+
+
+</Publication>

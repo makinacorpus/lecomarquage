@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15913" type="Fiche Comment faire si" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>J'achète un logement</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:description>Avant, au moment et après la conclusion de mon achat immobilier, je dois me poser les bonnes questions et prendre des précautions</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-18</dc:date>
+<dc:type>Comment faire si...</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15913</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Comment faire si...</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="commentFaireSi" type="Liste - Comment faire si">Comment faire si</Niveau>
+<Niveau ID="F15913" type="Fiche Comment faire si">J'achète un logement</Niveau>
+</FilDAriane>
+<Introduction>
+<Texte><Paragraphe>L'acquisition d'un bien immobilier étant une opération importante, des précautions  s'imposent avant, au moment et après  la conclusion de mon achat. Quelles formalités dois-je effectuer ? Pour quel type de bien ? Avec quel type de prêt immobilier ? Puis-je bénéficier d'aides, d'un crédit d'impôt ? </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Avant l'achat</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Si je prévois d'acheter un appartement </Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Je m'informe sur la superficie du bien mesurée par le vendeur. Celle-ci doit apparaître  dès la <LienInterne LienPublication="F2965" type="Fiche d'information" audience="Particuliers">promesse de vente</LienInterne> si le logement est ancien ou dès le <LienInterne LienPublication="F2963" type="Fiche d'information" audience="Particuliers">contrat de réservation</LienInterne>  si le logement est neuf</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je demande au propriétaire le <LienInterne LienPublication="F10798" type="Fiche Question-réponse" audience="Particuliers">dossier de diagnostic technique</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je m'informe sur l'état des parties communes en demandant au propriétaire de consulter le <LienInterne LienPublication="F2665" type="Fiche d'information" audience="Particuliers">carnet d'entretien</LienInterne> de l'immeuble</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je m'informe sur l'état descriptif du lot, sur le <LienInterne LienPublication="F2590" type="Fiche d'information" audience="Particuliers">montant des charges de copropriété</LienInterne> et le paiement des travaux votés ou susceptibles de l'être. Je  demande au propriétaire le <LienInterne LienPublication="F2636" type="Fiche d'information" audience="Particuliers">procès-verbal des dernières assemblées générales des copropriétaires</LienInterne> et la consultation du <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Si je prévois d'acheter une maison individuelle</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Si j'achète dans l'ancien, je m'informe sur la superficie du bien, sachant que le vendeur n'est pas obligé de la mesurer (celle-ci n'apparaît pas sur  la promesse de vente)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je m'informe sur les limites séparatives du terrain en consultant le plan cadastral</Paragraphe>
+</Item>
+</Liste>
+<BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R31895" URL="http://www.cadastre.gouv.fr/scpc/accueil.do" type="Téléservice">
+<Titre>Consultation du cadastre</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Permet de consulter le cadastre de toutes les communes de France. La recherche se fait en ayant présélectionné une commune déterminée. Il n'est toutefois pas possible d'effectuer une demande portant sur le nom du propriétaire d'une parcelle. Les documents visualisés sont gratuits et peuvent être délivrés sous forme numérique.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><Paragraphe>En mairie </Paragraphe><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+<Paragraphe>Ou au service des cadastres</Paragraphe><OuSAdresser ID="R16801" type="Local personnalisé sur SP">
+<Titre>Centre des impôts fonciers et cadastre</Titre>
+<PivotLocal>centre_impots_fonciers</PivotLocal>
+<RessourceWeb URL="https://www.impots.gouv.fr/portail/contacts"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si le terrain est mal délimité, il est conseillé d'établir un plan par un géomètre expert.</Paragraphe>
+</Attention><Liste type="puce">
+<Item>
+<Paragraphe>Je m'informe sur les éventuelles <LienInterne LienPublication="F2040" type="Fiche d'information" audience="Particuliers">servitudes de passage</LienInterne> auxquelles le bien immobilier est soumis</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je vérifie que l'achat comprend tous les lots annexes (cave, garages...)</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Si je prévois d'acheter une maison dans un lotissement</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Je m'informe sur la superficie du bien mesurée par le vendeur. Celle-ci doit apparaître dès la promesse de vente</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je me renseigne en mairie sur le <LienInterne LienPublication="F2484" type="Fiche Question-réponse" audience="Particuliers">cahier des charges et le règlement de lotissement</LienInterne> </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je m'informe sur <LienInterne LienPublication="F1319" type="Fiche d'information" audience="Associations">l'association syndicale de propriétaires</LienInterne> associée</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Quelle que soit la nature de mon projet</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Je me renseigne auprès du service de l'urbanisme de la mairie pour connaître l'évolution prévisible du quartier et les servitudes publiques ou les contraintes d'urbanisme qui pèsent sur le logement</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je m'informe sur les <LienInterne LienPublication="F1645" type="Fiche Question-réponse" audience="Particuliers">possibilités de financement de mon projet immobilier</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je m'informe sur les formalités nécessaires à l'achat <LienInterne LienPublication="N312" type="Dossier" audience="Particuliers">d'un terrain</LienInterne> si besoin et <LienInterne LienPublication="N23245" type="Dossier" audience="Particuliers"> d'un logement</LienInterne> </Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre>
+<Paragraphe>si je suis locataire d'un logement HLM, je peux adresser une <LienInterne LienPublication="F282" type="Fiche d'information" audience="Particuliers">demande d'acquisition de mon logement</LienInterne> à l'organisme propriétaire.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Lors de l'achat</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Financement de l'achat par un prêt immobilier</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Je signe <LienInterne LienPublication="F16123" type="Fiche d'information" audience="Particuliers">l'offre de prêt</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je contracte une <LienInterne LienPublication="F1671" type="Fiche d'information" audience="Particuliers">assurance pour le prêt</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je peux <LienInterne LienPublication="F1673" type="Fiche Question-réponse" audience="Particuliers">renoncer à la vente sans frais</LienInterne> si je n'obtiens pas le prêt</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si la vente ne se réalise pas, <LienInterne LienPublication="F1701" type="Fiche Question-réponse" audience="Particuliers">je peux annuler le prêt et rembourser la totalité des sommes</LienInterne> qui m'ont été versées</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Signature du contrat de vente définitif</Paragraphe>
+</Titre><Paragraphe>Je signe le contrat de vente définitif devant le notaire : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F2962" type="Fiche d'information" audience="Particuliers">pour un logement déjà construit</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou <LienInterne LienPublication="F2961" type="Fiche d'information" audience="Particuliers">pour un logement à construire</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Assurances</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Je m'informe sur <LienInterne LienPublication="F2027" type="Fiche d'information" audience="Particuliers">les dommages couverts par l'assurance de copropriété</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je me renseigne sur une <LienInterne LienPublication="F2023" type="Fiche d'information" audience="Particuliers">assurance habitation</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le jour de la vente, si le logement acheté est assuré, le <LienInterne LienPublication="F10830" type="Fiche d'information" audience="Particuliers">contrat d'assurance souscrit par le vendeur</LienInterne> m'est automatiquement transféré.</Paragraphe>
+</ANoter>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Au plus tôt après l'achat</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Je prépare mon <LienInterne LienPublication="F14128" type="Fiche Comment faire si" audience="Particuliers">déménagement</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je m'informe sur <LienInterne LienPublication="N31341" type="Dossier" audience="Particuliers">le fonctionnement de la copropriété</LienInterne>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je demande, si mes ressources ne dépassent pas  certains montants, une aide pour rembourser les mensualités de mon prêt. </Paragraphe>
+<Paragraphe>Il peut s'agir : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F12006" type="Fiche d'information" audience="Particuliers">de l'aide personnalisée au logement (APL)</LienInterne>,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F13132" type="Fiche d'information" audience="Particuliers"> ou de l'aide au logement familiale (ALF)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1280" type="Fiche d'information" audience="Particuliers">ou de l'aide au logement sociale (ALS)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dans les 6 mois qui suivent l'achat</Paragraphe>
+</Titre><Paragraphe>Je peux demander le <LienInterne LienPublication="F31622" type="Fiche Question-réponse" audience="Particuliers">déblocage anticipé de tout ou partie de mon épargne salariale</LienInterne>, dans les  6 mois  de la vente. </Paragraphe>
+<Paragraphe>Je dois me renseigner auprès de mon entreprise ou de l'organisme gestionnaire pour le compte de mon entreprise.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>À tout moment après l'achat</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Aide ou prêt pour l'amélioration de l'habitat</Paragraphe>
+</Titre><Paragraphe>Je peux bénéficier d'une aide ou d'un prêt pour l'amélioration de l'habitat pour effectuer des travaux dans mon logement.</Paragraphe>
+<Paragraphe>Je peux demander : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si je suis allocataire de la caisse d'allocation familiale (Caf), un <LienInterne LienPublication="F1616" type="Fiche d'information" audience="Particuliers">prêt à l'amélioration de l'habitat</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> si mon logement est ancien, une <LienInterne LienPublication="F1328" type="Fiche d'information" audience="Particuliers">aide de l'Agence nationale de l'habitat (Anah)</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si je veux réaliser des travaux améliorant la performance énergétique de mon logement, <LienInterne LienPublication="F19905" type="Fiche d'information" audience="Particuliers">un éco-prêt à taux zéro (éco-PTZ)</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si je suis retraité du régime général, <LienInterne LienPublication="F1613" type="Fiche d'information" audience="Particuliers">une aide pour des travaux d'amélioration ou d'adaptation de mon logement</LienInterne> afin de prévenir une perte d'autonomie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si mon logement est proche d'un aéroport, une <LienInterne LienPublication="F1702" type="Fiche d'information" audience="Particuliers">aide pour son insonorisation</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Crédit d'impôt</Paragraphe>
+</Titre><Paragraphe>Je peux bénéficier pour ma résidence principale :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un <LienInterne LienPublication="F1224" type="Fiche d'information" audience="Particuliers">crédit d'impôt pour la transition énergétique (Cite)</LienInterne> pour certaines dépenses de rénovation énergétique,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> d'un crédit d'impôt pour les <LienInterne LienPublication="F10752" type="Fiche d'information" audience="Particuliers">dépenses d'équipements pour personnes âgées ou handicapées ou travaux de prévention des risques technologiques.</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Renégociation ou remboursement anticipé d'un prêt immobilier</Paragraphe>
+</Titre><Liste type="puce">
+<Item>
+<Paragraphe>Je peux <LienInterne LienPublication="F146" type="Fiche d'information" audience="Particuliers">renégocier</LienInterne> mon prêt</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Je peux <LienInterne LienPublication="F1669" type="Fiche Question-réponse" audience="Particuliers">rembourser de manière anticipée</LienInterne> mon prêt</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R5" type="Local personnalisé sur SP">
+<Titre>Agence départementale pour l'information sur le logement (Adil)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>adil</PivotLocal>
+<RessourceWeb URL="https://www.anil.org/lanil-et-les-adil/votre-adil/"/>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour consulter le plan cadastral, s'informer sur les règles d'urbanisme et, si besoin, sur le cahier des charges et le règlement du lotissement</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R16801" type="Local personnalisé sur SP">
+<Titre>Centre des impôts fonciers et cadastre</Titre>
+<Complement>Pour consulter le plan cadastral</Complement>
+<PivotLocal>centre_impots_fonciers</PivotLocal>
+<RessourceWeb URL="https://www.impots.gouv.fr/portail/contacts"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R31895" URL="http://www.cadastre.gouv.fr/scpc/accueil.do" type="Téléservice">
+<Titre>Consultation du cadastre</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1292" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/demanderlaideaulogement/!ut/p/a1/hdBNCsIwEAXgs3gAyUtStV1G00xj1Ghb0XYjXUnBv4V4flMogog6u4FvmDfDarZn9aV5tMfm3l4vzanr6_Fh7TllrgB5vYxht1rCpDmHQgBVAPhSAXTz4ywinji4eFsKKLvKZeFTAURsx-p3Qi4xHSlcNIXEWvTglSE2MwObjLRebWzYIf8B9OBHyCpcMfkakz6A10UCpQyVdhooiR68MsAtwqO48HNFXII4u533aO0wT9Vg8ATz5sPP/" type="Téléservice">
+<Titre>Demande d'allocation logement (Caf)</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16182" URL="https://www.anil.org/outils/outils-de-calcul/simulation-dun-investissement-immobilier/" type="Simulateur">
+<Titre>Diagnostic de financement pour votre projet immobilier</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1361" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/allocationsfamilialesouchangementdesituation" numerocerfa="11423*06 et 10397*18" autrenumero="S7103 j et S7123 j" type="Formulaire">
+<Titre>Allocations et prestations familiales - Déclaration de situation et/ou ressources</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16181" URL="https://www.immobilier.notaires.fr/fr/frais-de-notaire" type="Simulateur">
+<Titre>Calculer le montant des frais d'acquisition d'un bien immobilier</Titre>
+<Source ID="R30632">Notaires de France</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2924" URL="https://www.anil.org/outils/outils-de-calcul/echeancier-dun-pret/" type="Simulateur">
+<Titre>Échéancier d'un prêt</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2974" URL="http://www.logement.gouv.fr/spip.php?page=article-sous-site&amp;id_article=313&amp;sommaire=88" type="Simulateur">
+<Titre>Simulateur - Prêt à taux zéro (PTZ)</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R16187" URL="https://www.anil.org/fileadmin/ANIL/Editions_grand_public/serie_scenario_logement/3_scenario_logement.pdf" audience="Particuliers" format="application/pdf" poids="0">
+<Titre>Guide pratique sur l'accès à la propriété</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16215" URL="https://www.caf.fr/aides-et-services/s-informer-sur-les-aides/logement-et-cadre-de-vie/les-aides-au-logement-0" audience="Particuliers">
+<Titre>Dossier pratique sur les aides financières pour le logement</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R15258" URL="http://www.anah.fr/fileadmin/anah/Mediatheque/Publications/Les_aides/anah_guide_des_aides_janvier_2015.pdf" audience="Particuliers">
+<Titre>Dossier pratique sur les aides accordées pour l'amélioration de l'habitat</Titre>
+<Source ID="R30684">Agence nationale de l'habitat (Anah)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2996" URL="https://www.anil.org/publications/publications-grand-public/serie-copropriete/" audience="Particuliers">
+<Titre>Guides sur la copropriété</Titre>
+<Source ID="R30676">Agence nationale pour l'information sur le logement (Anil)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32061" audience="Particuliers">Que doit préciser l'annonce de vente d'un appartement en copropriété ?</QuestionReponse>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F10798" audience="Particuliers">Quels sont les diagnostics immobiliers à fournir en cas de vente ?</QuestionReponse>
+</Publication>

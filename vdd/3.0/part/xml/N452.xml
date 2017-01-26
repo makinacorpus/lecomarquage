@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N452" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Travailler à l'étranger</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe</dc:subject>
+<dc:description>Travailler à l'étranger : Travail en Europe, Contrats de travail à l'étranger</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-20</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N452</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19804</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Français à l'Étranger, Salarié du secteur privé</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N452" type="Dossier">Travailler à l'étranger</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+</Theme>
+<SousThemePere ID="N20273">Français à l'étranger</SousThemePere>
+<SousDossier ID="N452-1">
+<Titre>Travail en Europe</Titre><Fiche ID="F401">Droit au travail</Fiche>
+<Fiche ID="F422">Recherche d'emploi</Fiche>
+<Fiche ID="F402">Fonctionnaire européen</Fiche>
+</SousDossier>
+<SousDossier ID="N452-2">
+<Titre>Contrats de travail à l'étranger</Titre><Fiche ID="F3155">Détachement</Fiche>
+<Fiche ID="F55">Expatriation</Fiche>
+<Fiche ID="F35">Mise à disposition internationale</Fiche>
+<Fiche ID="F1664">Travail au pair</Fiche>
+</SousDossier><VoirAussi important="non">
+<Dossier ID="N119" audience="Particuliers">
+<Titre>Impôt sur le revenu des Français à l'étranger</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<OuSAdresser ID="R31" type="Local">
+<Titre>Pôle emploi international</Titre>
+<Complement>Pour toute information et et des conseils sur les emplois à l'étranger</Complement>
+<RessourceWeb URL="http://www.pole-emploi-international.fr/www.eei.com.fr/eei/contact.jsp?HttpSession.Section=&amp;eeidate=20100715120341038&amp;eeisecurite=1642862432"/>
+<Source ID="R30635">Pôle emploi international</Source>
+</OuSAdresser>
+<OuSAdresser ID="R2884" type="Local personnalisable">
+<Titre>Ambassade ou consulat étranger en France</Titre>
+<Complement>Pour toute information sur le pays d'expatriation et les démarches</Complement>
+<PivotLocal>ambassade_etranger_france</PivotLocal>
+<RessourceWeb URL="http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-et-adresses-du-ministere/ambassades-et-consulats-etrangers/"/>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R35676" URL="http://ec.europa.eu/eu-rights/enquiry-complaint-form/home?languageCode=fr&amp;origin=solvit-web" type="Téléservice">
+<Titre>Soumettre une plainte à Solvit</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R2752" URL="http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/" audience="Particuliers">
+<Titre>Services aux Français : démarches à l'étranger</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10130" URL="http://www.pole-emploi-international.fr/www.eei.com.fr/eei/accueil_candidat.jsp?HttpSession.Section=Candidat&amp;eeidate=20121119152635020&amp;eeisecurite=-962980254" audience="Particuliers">
+<Titre>Vous êtes candidat à un emploi à l'étranger (offres et candidature)</Titre>
+<Source ID="R30635">Pôle emploi international</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41150" URL="http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/preparer-son-expatriation/" audience="Particuliers">
+<Titre>Préparer son expatriation</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R38988" URL="http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/preparer-son-expatriation-22367/dossiers-pays-de-l-expatriation/" audience="Particuliers">
+<Titre>Dossiers pays de l'expatriation</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2663" URL="http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_fr.htm" audience="Particuliers">
+<Titre>Chercher du travail en Europe : accès à l'emploi, chômage, impôts......</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2644" URL="http://europa.eu/youreurope/citizens/work/work-abroad/index_fr.htm" audience="Particuliers">
+<Titre>Travailler en Europe : droits, conditions, prestations sociales, impôts</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20167" URL="http://europa.eu/youreurope/citizens/education/research/index_fr.htm" audience="Particuliers">
+<Titre>Chercheurs en Europe : postes, bourses, santé, fiscalité</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20830" URL="http://europa.eu/youreurope/citizens/work/retire-abroad/index_fr.htm" audience="Particuliers">
+<Titre>Prendre sa retraite en Europe : pension, assurance maladie, famille, impôts...</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41749" URL="http://www.cfe.fr" audience="Particuliers">
+<Titre>Site de la Caisse des Français de l'Étranger (CFE)</Titre>
+<Source ID="R30620">Caisse des Français de l'Étranger (CFE)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1661" audience="Particuliers">Comment chercher une offre d'emploi à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1683" audience="Particuliers">Quels sont les emplois proposés par les institutions françaises à l'étranger ?</QuestionReponse>
+<QuestionReponse ID="F1668" audience="Particuliers">Quels sont les emplois proposés par les organisations internationales ?</QuestionReponse>
+<QuestionReponse ID="F33775" audience="Particuliers">Retour en France : quel droit aux allocations chômage ?</QuestionReponse>
+</Publication>

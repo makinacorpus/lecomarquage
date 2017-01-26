@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2112" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>L'allocation personnalisée d'autonomie (Apa) peut-elle être suspendue ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Le versement de l'allocation personnalisée d'autonomie (Apa) peut être suspendue, sous certaines conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Caisse nationale de solidarité pour l'autonomie (CNSA)</dc:contributor>
+<dc:date>modified 2016-11-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2112</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000027572851&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196014&amp;cidTexte=LEGITEXT000006074069, https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174351&amp;cidTexte=LEGITEXT000006074069&amp;dateTexte=20160301</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N392</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="F2112" type="Fiche Question-réponse">L'allocation personnalisée d'autonomie (Apa) peut-elle être suspendue ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Fiche ID="F10009">Allocation personnalisée d'autonomie (Apa)</Fiche>
+<Fiche ID="F16871">Allocation de solidarité aux personnes âgées (Aspa)</Fiche>
+<Fiche ID="F16940">Allocation supplémentaire d'invalidité (Asi)</Fiche>
+<Fiche ID="F2572">Allocation simple</Fiche>
+<Fiche ID="F245">Aide-ménagère à domicile</Fiche>
+<Fiche ID="F248">Prise en charge des repas</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le versement de l'Apa peut être suspendu :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si vous ne déclarez pas, dans le mois suivant la notification de la décision d'attribution de l'Apa, que cette aide sert à rémunérer votre aide à domicile (que vous employez ou qui est salarié d'une association ou entreprise agréée) ou la <LienInterne LienPublication="F15240" type="Fiche d'information" audience="Particuliers">famille d'accueil qui vous héberge</LienInterne>. Vous pouvez utiliser le  formulaire <LienInterne LienPublication="R1331" type="Formulaire" audience="Particuliers">cerfa n°10544*02</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous ne payez pas votre <LienInterne LienPublication="F1802" type="Fiche Question-réponse" audience="Particuliers">participation</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si vous ne produisez pas les justificatifs de dépenses correspondant aux montants de l'allocation perçue et de votre participation financière, dans un délai d'un mois suivant la demande des services du département,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sur rapport de l'équipe médico-sociale, soit en cas de non-respect des préconisations du plan d'aide, soit si le service rendu présente un risque pour votre santé, votre sécurité ou votre bien-être physique ou moral,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>en cas d'hospitalisation pour recevoir des soins, pendant plus de 30 jours.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<Complement>Pour toute information (sauf si vous résidez à Paris)</Complement>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<Complement>Pour toute information (si vous résidez à Paris)</Complement>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+<OuSAdresser ID="R40963" type="Local">
+<Titre>Point d'information local dédié aux personnes âgées</Titre>
+<Complement>Pour toute information</Complement>
+<RessourceWeb URL="http://www.pour-les-personnes-agees.gouv.fr/resultats-annuaire"/>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000027572851&amp;cidTexte=LEGITEXT000006074069" ID="R32680">
+<Titre>Code de l'action sociale et des familles : article L232-7</Titre>
+<Complement>5e alinéa</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006196014&amp;cidTexte=LEGITEXT000006074069" ID="R38732">
+<Titre>Code de l'action sociale et des familles : articles R232-30 à R232-32</Titre>
+<Complement>R232-32</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174351&amp;cidTexte=LEGITEXT000006074069&amp;dateTexte=20160301" ID="R43229">
+<Titre>Code de l'action sociale et des familles : articles L232-22 à L232-28</Titre>
+<Complement>L232-22</Complement>
+</Reference>
+<ServiceEnLigne ID="R1331" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10544.do" numerocerfa="10544*02" type="Formulaire">
+<Titre>Déclaration d'une allocation personnalisée d'autonomie</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41351" URL="http://www.pour-les-personnes-agees.gouv.fr" audience="Particuliers">
+<Titre>Portail d'information et d'orientation des personnes âgées et leurs proches</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1802" audience="Particuliers">Apa : quel est le montant de votre reste à charge ?</QuestionReponse>
+<QuestionReponse ID="F325" audience="Particuliers">Apa : quels sont les recours possibles en cas de litige ?</QuestionReponse>
+<QuestionReponse ID="F11678" audience="Particuliers">Peut-on cumuler l'Apa avec d'autres revenus ?</QuestionReponse>
+<QuestionReponse ID="F32877" audience="Particuliers">Le montant de l'Apa peut-il être révisé ?</QuestionReponse>
+</Publication>

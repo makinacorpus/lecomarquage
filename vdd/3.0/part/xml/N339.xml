@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N339" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Location immobilière : fin du bail</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Location immobilière : fin du bail</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-09</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N339</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Locataire, Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N339" type="Dossier">Location immobilière : fin du bail</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere>
+<Fiche ID="F1168">Congé donné par le locataire</Fiche>
+<Fiche ID="F929">Congé donné par le bailleur</Fiche>
+<Fiche ID="F33671">État des lieux de sortie</Fiche>
+<Fiche ID="F282">Achat d'un logement social</Fiche><ServiceEnLigne ID="R16635" URL="http://www.conso.net/content/vous-d%C3%A9cidez-de-quitter-le-logement-que-vous-louez" commentaireLien="Locataire quittant son logement vide : modèle de lettre de congé" type="Modèle de document">
+<Titre>Mettre un terme à la location</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16629" URL="http://www.conso.net/content/vous-louez-un-logement-meuble-et-vous-souhaitez-donner-votre-conge-votre-proprietaire" commentaireLien="Locataire quittant son logement meublé : modèle de lettre de congé" type="Modèle de document">
+<Titre>Rompre la location d'un logement meublé</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41841" URL="http://www.logement.gouv.fr/monchezmoi" audience="Particuliers">
+<Titre>Site MonChezMoi</Titre>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1239" audience="Particuliers">Peut-on échanger son logement ?</QuestionReponse>
+<QuestionReponse ID="F2559" audience="Particuliers">Un bailleur HLM peut-il résilier le bail d'un locataire ?</QuestionReponse>
+<QuestionReponse ID="F32360" audience="Particuliers">Comment calculer le délai de préavis en cas de congé donné par un locataire ?</QuestionReponse>
+<QuestionReponse ID="F32362" audience="Particuliers">Quelle sanction s'applique en cas de congé frauduleux donné par un bailleur ?</QuestionReponse>
+<QuestionReponse ID="F31044" audience="Particuliers">Le bailleur d'un logement conventionné Anah peut-il donner congé au locataire ?</QuestionReponse>
+<QuestionReponse ID="F31559" audience="Particuliers">Un locataire peut-il quitter son logement sans préavis ?</QuestionReponse>
+<QuestionReponse ID="F2044" audience="Particuliers">Un colocataire reste-t-il solidaire du loyer après avoir donné congé ?</QuestionReponse>
+<QuestionReponse ID="F32001" audience="Particuliers">Un propriétaire peut-il vendre un logement occupé par un locataire ?</QuestionReponse>
+<QuestionReponse ID="F31631" audience="Particuliers">Peut-on envoyer un préavis par mail dans le cadre d'une location ?</QuestionReponse>
+<QuestionReponse ID="F1170" audience="Particuliers">Logement social : qu'est-ce qu'un transfert de bail ?</QuestionReponse>
+<QuestionReponse ID="F10039" audience="Particuliers">Qu'est-ce qu'un bail de sortie progressive de la loi de 1948 ?</QuestionReponse>
+
+</Publication>

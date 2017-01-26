@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18430" type="Simulateur" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Calculette Eco-déplacements</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Calculez l'impact de vos déplacements quotidiens sur l'environnement et sur vos dépenses</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-06-09</dc:date>
+<dc:type>Simulateur</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18430</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Simulateur</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18430" type="Simulateur">Calculette Eco-déplacements</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Calculez l'impact de vos déplacements quotidiens sur l'environnement et sur vos dépenses</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www3.ademe.fr/eco-deplacements/calculette/">
+<Source>Agence de l'environnement et de la maîtrise de l'énergie (Ademe)</Source>
+</LienWeb>
+<Dossier ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N18131">
+<Titre>Mesures antipollution</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+<Dossier ID="N530">
+<Titre>Permis de conduire</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1807" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'un témoin assisté ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le témoin assisté est une personne mise en cause dans une affaire, mais avec des charges moins lourdes qu'une personne mise en examen.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-09-23</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1807</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182888&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F1807" type="Fiche Question-réponse">Qu'est-ce qu'un témoin assisté ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le témoin assisté désigne une personne mise en cause dans une affaire mais qui n'est pas mise en examen. Un placement sous le statut de témoin assisté nécessite des charges moins lourdes que pour une mise en examen.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le témoin assisté est une personne mise en cause pour certains faits au cours d'une <LienInterne LienPublication="F1456" type="Fiche d'information" audience="Particuliers">information judiciaire</LienInterne>, enquête dirigée par un juge d'instruction. Ce n'est donc pas un <LienInterne LienPublication="F1489" type="Fiche d'information" audience="Particuliers">simple témoin</LienInterne>.</Paragraphe>
+<Paragraphe>Le statut de témoin assisté diffère aussi du statut de <LienInterne LienPublication="F1470" type="Fiche d'information" audience="Particuliers">mis en examen</LienInterne>, ce dernier ayant des droits différents au cours de l'affaire.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Droits du témoin assisté</Paragraphe>
+</Titre><Tableau>
+<Titre>Droits du témoin assisté en comparaison avec une personne mise en examen ou un simple témoin</Titre>
+<Colonne largeur="23" type="header"/>
+<Colonne largeur="22" type="normal"/>
+<Colonne largeur="44" type="normal"/>
+<Colonne largeur="23" type="normal"/>
+<Rangée type="header">
+<Cellule/>
+<Cellule>
+<Paragraphe>Témoin assisté</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Mis en examen <LienInterne LienPublication="F1489" type="Fiche d'information" audience="Particuliers"/> </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Simple témoin</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Droit à un avocat</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Accès au dossier</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Droit au silence</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Doit prêter serment</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui. Il peut poursuivi pour <LienInterne LienPublication="F1489" type="Fiche d'information" audience="Particuliers">faux témoignage</LienInterne> s'il ment.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Peut demander l'annulation d'actes d'enquête pour vice de procédure</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Peut demander de nouveaux actes d'enquêtes</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Peut demander une confrontation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Peut être placé sous contrôle judiciaire, bracelet électronique ou en détention provisoire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Oui</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Non</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Audition comme témoin assisté</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Cas concernés</Paragraphe>
+</Titre><Paragraphe>S'il existe des indices graves et concordants contre une personne dans une affaire, le juge doit la mettre en examen et suivre une <LienInterne LienPublication="F1470" type="Fiche d'information" audience="Particuliers">procédure précise</LienInterne>. Dans les autres cas, si les preuves sont moins lourdes, le statut de la personne dépend de sa situation.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Elle est mise en cause par une victime, un témoin ou le procureur</Paragraphe>
+</Titre>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Mise en cause par une victime</Paragraphe>
+</Titre><Paragraphe>Si elle le demande, la personne entendue doit être <MiseEnEvidence>obligatoirement</MiseEnEvidence> placée sous le statut de témoin assisté. </Paragraphe>
+<Paragraphe> Elle doit faire usage de son droit devant le juge, elle sera alors de nouveau convoquée sous ce nouveau statut. Si la personne est nommément visée par une plainte avec constitution de partie civile, le juge l'informe de lui-même de ce droit. </Paragraphe>
+<Paragraphe>Si elle ne fait pas usage de ce droit, la personne est entendue comme simple témoin,</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si une personne a déjà été interrogée en vue d'une mise en examen mais que le juge y a renoncé ou si la mise en examen a été annulée, elle doit obligatoirement être entendue comme témoin assisté. Et ce, même si elle ne le demande pas.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mise en cause par le procureur</Paragraphe>
+</Titre><Paragraphe>La personne nommément visée par un réquisitoire du procureur doit <MiseEnEvidence>obligatoirement </MiseEnEvidence>être entendue par le juge comme témoin assisté.</Paragraphe>
+<Paragraphe>Elle ne peut pas être entendue comme simple témoin.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si une personne a déjà été interrogée en vue d'une mise en examen mais que le juge y a finalement renoncé, elle doit obligatoirement être entendue comme témoin assisté lors de ses futures auditions.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Mise en cause par un témoin</Paragraphe>
+</Titre><Paragraphe>Le juge d'instruction peut librement choisir d'entendre la personne comme </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> témoin assisté,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou simple témoin.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si une personne a déjà été interrogée en vue d'une mise en examen mais que le juge y a renoncé ou si la mise en examen a été annulée, elle doit obligatoirement être entendue comme témoin assisté. </Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Elle n'est pas mise en cause par un tiers</Paragraphe>
+</Titre><Paragraphe>S'il existe contre une personne des indices rendant vraisemblables son implication dans les faits, le juge peut l'entendre comme : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>témoin assisté,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou comme simple témoin.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les indices existant sont moins solides que ceux pouvant mener à une mise en examen.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si une personne a déjà été interrogée en vue d'une mise en examen mais que le juge y a renoncé ou si la mise en examen a été annulée, elle doit obligatoirement être entendue comme témoin assisté. </Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Convocation</Paragraphe>
+</Titre><Paragraphe>C'est le juge d'instruction qui place une personne sous le statut de témoin assisté. Il la convoque par lettre recommandée en lui indiquant qu'elle sera auditionnée sous ce statut.</Paragraphe>
+<Paragraphe>Cette convocation indique son droit à un avocat et à garder le silence. Elle l'informe aussi, si c'est le cas, de la plainte, du réquisitoire du procureur ou du témoignage le mettant en cause.</Paragraphe>
+<Paragraphe>Une fois la convocation reçue, le témoin assisté doit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>communiquer au juge le nom de son avocat, s'il en a déjà un,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou demander au greffier du juge qu'un avocat soit désigné d'office par le barreau.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'avocat doit être convoqué au moins 5 <LienIntra LienID="R17508" type="Définition de glossaire">jours ouvrables</LienIntra> avant l'audition.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Suites de la procédure</Paragraphe>
+</Titre><Paragraphe>À tout moment lors de la procédure, le témoin assisté peut demander au juge à être mis en examen.</Paragraphe>
+<Paragraphe>La mise en examen peut aussi être prononcée par le juge lui-même si des indices graves et concordants apparaissent contre le témoin assisté au cours de l'enquête.</Paragraphe>
+<Paragraphe>À la fin de l'enquête, si la personne est toujours témoin assisté, elle ne sera pas jugée.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F1456" audience="Particuliers">
+<Titre>Information judiciaire</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1470" audience="Particuliers">
+<Titre>Mise en examen</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F1489" audience="Particuliers">
+<Titre>Procès pénal : audition des témoins</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006182888&amp;cidTexte=LEGITEXT000006071154" ID="R19327">
+<Titre>Code de procédure pénale : articles 113-1 à 113-8</Titre>
+<Complement>Droits du témoin assisté</Complement>
+</Reference>
+<Definition ID="R17508">
+<Titre>Jour ouvrable</Titre>
+<Texte>
+				<Paragraphe>Correspond à tous les jours de la semaine, à l'exception du jour de repos hebdomadaire (généralement le dimanche) et des jours fériés habituellement non travaillés dans l'entreprise.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F32124" audience="Particuliers">Qu'est-ce qu'une audition libre ?</QuestionReponse>
+</Publication>

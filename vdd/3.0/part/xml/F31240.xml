@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31240" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on récupérer une carte bancaire restée dans le distributeur de billets ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Vous pourrez ou non la récupérer selon le cas.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31240</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N91</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N91">Moyens de paiement</Niveau>
+<Niveau ID="F31240" type="Fiche Question-réponse">Peut-on récupérer une carte bancaire restée dans le distributeur de billets ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20096">Banque</SousThemePere><DossierPere ID="N91">
+<Titre>Moyens de paiement</Titre><SousDossier ID="N91-1">
+<Titre>Carte bancaire</Titre>
+<Fiche ID="F2420">Délivrance et retrait d'une carte</Fiche>
+<Fiche ID="F2424">Paiement par carte</Fiche>
+<Fiche ID="F31324">Opposition à un paiement</Fiche>
+<Fiche ID="F2428">Opposition générale</Fiche>
+<Fiche ID="F32501">Moyens de paiement en ligne</Fiche>
+</SousDossier>
+<SousDossier ID="N91-2">
+<Titre>Chèques</Titre>
+<Fiche ID="F2403">Délivrance d'un chéquier</Fiche>
+<Fiche ID="F2402">Paiement par chèque</Fiche>
+<Fiche ID="F2409">Opposition</Fiche>
+<Fiche ID="F31388">Interdit bancaire</Fiche>
+</SousDossier>
+<SousDossier ID="N91-3">
+<Titre>Espèces</Titre>
+<Fiche ID="F2421">Retrait d'espèces</Fiche>
+<Fiche ID="F10999">Paiement en liquide</Fiche>
+</SousDossier>
+<SousDossier ID="N91-4">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F2384">Virement, prélèvement et télépaiement</Fiche>
+<Fiche ID="F10006">Mandat cash, postal ou international</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Vous pourrez ou non la récupérer selon le cas.</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Carte invalide</Paragraphe>
+</Titre><Paragraphe>Votre carte bancaire peut être conservée par le distributeur parce qu'elle est devenue invalide pour un des motifs suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sa date limite de validité a été passée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous avez tapé un code erroné 3 fois successivement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre carte a fait l'objet d'une mise en <LienInterne LienPublication="F2428" type="Fiche d'information" audience="Particuliers">opposition générale,</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>elle a été <LienInterne LienPublication="F31241" type="Fiche Question-réponse" audience="Particuliers">déclarée perdue ou volée</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Même si vous prouvez votre identité, votre carte ne peut pas vous être rendue. Vous devez demander une <LienInterne LienPublication="F2420" type="Fiche d'information" audience="Particuliers">nouvelle carte</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Carte confisquée</Paragraphe>
+</Titre><Paragraphe>Votre carte bancaire peut être avalée à la demande de votre banque, si elle estime que vous en faites un <LienInterne LienPublication="F2420" type="Fiche d'information" audience="Particuliers">usage abusif</LienInterne>.</Paragraphe>
+<Paragraphe>Cette confiscation  peut être réalisée sans vous avertir au préalable.</Paragraphe>
+<Paragraphe>Vous ne pourrez pas récupérer votre carte.  Vous pouvez demander une <LienInterne LienPublication="F2420" type="Fiche d'information" audience="Particuliers">nouvelle carte</LienInterne>, mais vous serez inscrit au  <LienInterne LienPublication="F2411" type="Fiche d'information" audience="Particuliers">fichier central des chèques (FCC)</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Carte oubliée</Paragraphe>
+</Titre><Paragraphe>La carte bancaire peut être capturée en raison d'une inaction devant l'automate pendant 20 ou 30 secondes, qui laisse craindre un départ sans avoir repris la carte.</Paragraphe>
+<Paragraphe>La conservation de la carte bancaire relève alors  d'une mesure de sécurité et de prévention. Elle vise à s'assurer que personne ne puisse voler facilement une carte oubliée.</Paragraphe>
+<Paragraphe>La carte ainsi avalée peut être rendue. Vous devez vous adresser à l'agence qui gère le distributeur et non à votre banque si vous avez utilisé le distributeur d'un autre réseau. Un numéro de téléphone est généralement indiqué sur le distributeur.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Problème technique</Paragraphe>
+</Titre><Paragraphe>Si la carte bancaire est restée dans le distributeur en raison d'une défaillance technique, votre carte peut être récupérée. Vous devez vous adresser à l'agence qui gère le distributeur et non à votre banque si vous avez utilisé le distributeur d'un autre réseau. Un numéro de téléphone est généralement indiqué sur le distributeur.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><QuestionReponse ID="F31241" audience="Particuliers">Que faire en cas de vol ou de perte de sa carte bancaire ?</QuestionReponse>
+</Publication>

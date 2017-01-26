@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F816" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Contrôle douanier du voyageur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Contrôle douanier des voyageurs venant d'Europe ou d'un autre pays</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-19</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F816</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006122077&amp;cidTexte=LEGITEXT000006071570, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006138841&amp;cidTexte=LEGITEXT000006071570, http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006615433&amp;idSectionTA=LEGISCTA000006138846&amp;cidTexte=LEGITEXT000006071570</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N230</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N230">Douane</Niveau>
+<Niveau ID="F816" type="Fiche d'information">Contrôle douanier du voyageur</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20073">Impôts, taxes et douane</SousThemePere><DossierPere ID="N230">
+<Titre>Douane</Titre><SousDossier ID="N230-1">
+<Titre>Transfert d'argent</Titre>
+<Fiche ID="F794">Argent transféré à l'étranger</Fiche>
+<Fiche ID="F801">Argent transféré en France</Fiche>
+</SousDossier>
+<SousDossier ID="N230-2">
+<Titre>Transfert de marchandises</Titre>
+<Fiche ID="F3161">Marchandises arrivant en France</Fiche>
+<Fiche ID="F799">Marchandises quittant la France</Fiche>
+</SousDossier>
+<SousDossier ID="N230-3">
+<Titre>Droits de douane, taxes et franchises</Titre>
+<Fiche ID="F50">En cas de voyage</Fiche>
+<Fiche ID="F492">En cas de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N230-4">
+<Titre>Alcool et tabac</Titre>
+<Fiche ID="F804">Rapporter du tabac de l'étranger</Fiche>
+<Fiche ID="F812">Rapporter de l'alcool de l'étranger</Fiche>
+</SousDossier>
+<SousDossier ID="N230-5">
+<Titre>Contrôles douaniers</Titre>
+<Fiche ID="F816">Contrôle douanier du voyageur</Fiche>
+<Fiche ID="F814">Carte de libre circulation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Contrôles douaniers</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les voyageurs venant d'un <LienIntra LienID="R45280" type="Définition de glossaire">pays de l'Union européenne</LienIntra> ou d'un pays tiers doivent respecter certaines règles, notamment pour le transport des marchandises. Ils peuvent être soumis à un contrôle des douanes.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Depuis l'Europe</Titre>
+<Texte><Paragraphe>Les marchandises et les personnes peuvent circuler librement dans l'Union européenne (UE). Il existe toutefois des règles à respecter, notamment pour le transport de certaines marchandises (argent, tabac, alcool, espèces protégées...). De plus, les douaniers peuvent contrôler les marchandises, les personnes et les moyens de transport dans tout le pays. A l'intérieur d'une certaine zone, les douaniers peuvent enfin vérifier l'identité des personnes qu'ils contrôlent. </Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Lieux des contrôles</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>A l'intérieur du pays</Paragraphe>
+</Titre><Paragraphe>Les contrôles douaniers peuvent avoir lieu sur l'ensemble du territoire douanier, et notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur des espaces de la voie publique  (terrasses de café, marchés...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sur les routes.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contrôle des titres</Paragraphe>
+</Titre>
+						<Paragraphe>Le contrôle douanier permet de vérifier le respect des obligations liées aux titres et documents.</Paragraphe>
+						<Paragraphe> Il peut avoir lieu dans une zone située à moins de 20 kilomètres de la frontière terrestre séparant la France d'un pays voisin "Schengen" (Allemagne, Belgique, Espagne, Italie, Luxembourg et Suisse). </Paragraphe>
+						<Paragraphe>Si le contrôle a lieu sur l'autoroute ou dans un train, la zone s'étend jusqu'au 1<Exposant>er</Exposant> péage ou l'arrêt après les 20 kilomètres, ou dans un port, un aéroport ou une gare accessible au public et ouverte au trafic international.</Paragraphe>
+						<Paragraphe>Le contrôle ne peut pas être pratiqué plus de 6 heures consécutives dans un même lieu et ne peut pas être systématique.</Paragraphe>
+					
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sur quoi porte le contrôle ?</Paragraphe>
+</Titre>
+						<Paragraphe>Les contrôles de la douane peuvent concerner :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>le voyageur  (notamment les <LienInterne LienPublication="F31208" type="Fiche Question-réponse" audience="Particuliers">papiers de l'étranger</LienInterne>),</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>ses bagages et ses marchandises,</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>son véhicule.</Paragraphe>
+							</Item>
+						</Liste>
+						<Paragraphe>Les agents de la douane sont habilités à poser  toutes les questions réglementaires utiles au déroulement du contrôle (lieu de provenance de la personne, marchandises transportées....).</Paragraphe>
+						<Paragraphe>Le refus de se soumettre à un contrôle douanier est pénalement sanctionné (jusqu'à 1 an d'emprisonnement et <Valeur>3 750 €</Valeur> d'amende).</Paragraphe>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Marchandises réglementées et interdites</Paragraphe>
+</Titre>
+						<Paragraphe>Certaines marchandises sont soumises à des restrictions de circulation.</Paragraphe>
+						<Paragraphe>Le voyageur doit s'assurer qu'il respecte la réglementation dans sur les points suivants :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe> <LienInterne LienPublication="F801" type="Fiche d'information" audience="Particuliers">Transfert d'argent liquide</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Importation de <LienInterne LienPublication="F804" type="Fiche d'information" audience="Particuliers">tabac</LienInterne> et <LienInterne LienPublication="F812" type="Fiche d'information" audience="Particuliers">d'alcool</LienInterne>
+</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>Introduction de certaines <LienInterne LienPublication="F3161" type="Fiche d'information" audience="Particuliers">marchandises sensibles</LienInterne> (armes, espèces sauvages menacées...)</Paragraphe>
+							</Item>
+						</Liste>
+					<Attention>
+<Titre>Attention</Titre>
+						<Paragraphe>certaines marchandises sont <LienInterne LienPublication="F3161" type="Fiche d'information" audience="Particuliers">interdites d'entrée en France</LienInterne> (stupéfiants, chiens d'attaque, contrefaçons...).</Paragraphe>
+					</Attention>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Depuis un autre pays</Titre>
+<Texte><Paragraphe>Les agents des douanes peuvent contrôler les marchandises, les personnes et les moyens de transport dans tout le pays. Lors du franchissement de la frontière et à l'intérieur d'une certaine zone, les douaniers peuvent vérifier l'identité des personnes qu'ils contrôlent. Au-delà de certaines valeurs ou quantités, les voyageurs doivent déclarer leurs biens à la douane. L'entrée de certaines marchandises en France est strictement encadrée ou interdite.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Lieux des contrôles</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Aux frontières</Paragraphe>
+</Titre><Paragraphe>Les contrôles douaniers ont lieu : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>dans les aéroports,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans les ports,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>dans les gares ferroviaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>aux frontières terrestres et maritimes. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>À la frontière terrestre, dans les gares, ports et aéroports, il existe 2 passages distincts en douane en fonction de la nature et de la quantité des marchandises transportées : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le filtre "vert pour les voyageurs qui n'ont rien à déclarer</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> le filtre "rouge" pour les voyageurs qui doivent déclarer des marchandises</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>A l'intérieur du pays</Paragraphe>
+</Titre><Paragraphe>Les contrôles douaniers peuvent aussi avoir lieu à l’intérieur du pays, notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sur des espaces de la voie publique  (terrasses de café, marchés...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>sur les routes.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Sur quoi porte le contrôle ?</Paragraphe>
+</Titre>
+						<Paragraphe>Les contrôles de la douane peuvent concerner :</Paragraphe>
+						<Liste type="puce">
+							<Item>
+								<Paragraphe>le voyageur  (notamment les <LienInterne LienPublication="F31208" type="Fiche Question-réponse" audience="Particuliers">papiers de l'étranger</LienInterne>),</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>ses bagages et ses marchandises,</Paragraphe>
+							</Item>
+							<Item>
+								<Paragraphe>son véhicule.</Paragraphe>
+							</Item>
+						</Liste>
+						<Paragraphe>Les agents de la douane sont habilités à poser  toutes les questions réglementaires utiles au déroulement du contrôle (lieu de provenance de la personne, marchandises transportées....).</Paragraphe>
+						<Paragraphe>Le refus de se soumettre à un contrôle douanier est pénalement sanctionné (jusqu'à 1 an d'emprisonnement et <Valeur>3 750 €</Valeur> d'amende).</Paragraphe>
+					
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déclaration des achats personnels et des sommes d'argent transportées</Paragraphe>
+</Titre><Paragraphe>Le voyageur en provenance d'un pays hors <LienInterne LienPublication="R24621" type="Sigle">UE</LienInterne> doit remplir une déclaration en douane et, si besoin, payer des droits et taxes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>s'il a effectué des <LienInterne LienPublication="F50" type="Fiche d'information" audience="Particuliers">achats réservés à un usage personnel ou ramené des marchandises</LienInterne> (même des cadeaux) en France dont la valeur dépasse un certain montant,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou s'il a rapporté du <LienInterne LienPublication="F804" type="Fiche d'information" audience="Particuliers">tabac</LienInterne> ou de l'<LienInterne LienPublication="F812" type="Fiche d'information" audience="Particuliers">alcool</LienInterne> au-delà de certaines quantités,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou s'il <LienInterne LienPublication="F801" type="Fiche d'information" audience="Particuliers">transporte de l'argent</LienInterne> au-delà d'une certaine somme.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>En cas de fausse déclaration ou en l'absence de déclaration, le voyageur doit payer des droits et taxes et d'éventuelles pénalités. De plus, la marchandise ou l'argent peut être saisi.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Marchandises réglementées et interdites</Paragraphe>
+</Titre><Paragraphe>Certaines marchandises :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>sont soumises à des restrictions d'entrée en France (<LienInterne LienPublication="F3161" type="Fiche d'information" audience="Particuliers">végétaux et produits végétaux, armes...</LienInterne>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou ne peuvent en aucun cas être <LienInterne LienPublication="F3161" type="Fiche d'information" audience="Particuliers">importées (produits de contrefaçon, stupéfiants...).</LienInterne>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le voyageur qui transporte des produits prohibés en France commet un délit douanier, qui est passible de poursuites judiciaires.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><VoirAussi important="non">
+<Fiche ID="F812" audience="Particuliers">
+<Titre>Rapporter de l'alcool de l'étranger</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F816" audience="Particuliers">
+<Titre>Contrôle douanier du voyageur</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R16283" type="Centre de contact">
+<Titre>Infos Douane Service</Titre><Texte>
+						
+								<Paragraphe>
+			Pour obtenir des informations douanières concernant l'exportation, l'importation, les formulaires douaniers, les transports et le passage aux frontières, les franchises...
+		</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>0 811 20 44 44</MiseEnEvidence>
+</Paragraphe>
+								<Paragraphe>
+			Ouvert du lundi au vendredi de 8h30 à 18h</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>
+			Hors métropole ou depuis l'étranger, composer le +33 1 72 40 78 50
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			
+        Accès au <LienExterne URL="http://www.douane.gouv.fr/contact-et-assistance/contacter-info-douane-service">formulaire de contact</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006122077&amp;cidTexte=LEGITEXT000006071570" ID="R38985">
+<Titre>Code des douanes : articles 43 à 45</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006138841&amp;cidTexte=LEGITEXT000006071570" ID="R34924">
+<Titre>Code des douanes : articles 60 à 63 bis</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006615433&amp;idSectionTA=LEGISCTA000006138846&amp;cidTexte=LEGITEXT000006071570" ID="R18352">
+<Titre>Code des douanes : article 67</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R42373" URL="http://www.douane.gouv.fr/articles/a11066-tout-savoir-sur-les-controles-douaniers" audience="Particuliers">
+<Titre>Tout savoir sur les contrôles douaniers</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2827" URL="http://www.douane.gouv.fr/articles/a10794-arrivee-en-france-conseils-aux-voyageurs" audience="Particuliers">
+<Titre>Douane : conseils aux voyageurs à leur arrivée en France</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R1023" URL="http://europa.eu/about-eu/countries/index_fr.htm" audience="Particuliers">
+<Titre>Pays de l'Union européenne</Titre>
+<Source ID="R30856">Toute l'Europe</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R11185" URL="http://ec.europa.eu/taxation_customs/customs/customs_controls/general/index_fr.htm" audience="Particuliers">
+<Titre>Contrôles douaniers dans l'Union européenne</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R16985" URL="http://ec.europa.eu/taxation_customs/customs/customs_controls/baggage_controls/index_fr.htm" audience="Particuliers">
+<Titre>Voyager en avion : contrôle des bagages dans les aéroports européens</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<Definition ID="R45280">
+<Titre>Pays de l'Union européenne</Titre>
+<Texte>
+				<Paragraphe>Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République Tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R24621" type="Sigle">
+<Titre>UE</Titre>
+<Texte>
+<Paragraphe>Union européenne</Paragraphe>
+</Texte>
+</Abreviation>
+
+
+
+</Publication>

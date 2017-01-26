@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R21010" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Guide AGGIR</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Guide AGGIR - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-27</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R21010</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R21010" type="Formulaire">Guide AGGIR</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Outil destiné à évaluer le degré de perte d'autonomie ou le degré de dépendance, physique et psychique, du demandeur de l'allocation personnalisée d'autonomie (Apa) dans l'accomplissement de ses actes quotidiens.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.cnsa.fr/documentation/guide_aggir_2008.pdf" format="application/pdf" poids="162.7 KB">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F10009" audience="Particuliers" type="Fiche d'information">
+<Titre>Allocation personnalisée d'autonomie (Apa)</Titre>
+<Dossier ID="N392">Allocations et aides aux personnes âgées</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1802" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Apa : quel est le montant de votre reste à charge ?</Titre>
+<Dossier ID="N392">Allocations et aides aux personnes âgées</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32877" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Le montant de l'allocation personnalisée d'autonomie (Apa) peut-il être révisé ?</Titre>
+<Dossier ID="N392">Allocations et aides aux personnes âgées</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1229" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Qu'est-ce que la grille Aggir ?</Titre>
+<Dossier ID="N392">Allocations et aides aux personnes âgées</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

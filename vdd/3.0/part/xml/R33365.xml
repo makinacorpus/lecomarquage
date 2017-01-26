@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R33365" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Attestation d'élection de domicile en France pour la francisation des navires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Formulaire certifiant la domiciliation en France d'un navire et permettant à l'administration de pouvoir vous adresser toutes les correspondances administratives relatives à la propriété de votre navire.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-26</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R33365</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N550">Permis bateau et navigation de plaisance</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R33365" type="Formulaire">Attestation d'élection de domicile en France pour la francisation des navires</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>14501*02</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Formulaire certifiant la domiciliation en France d'un navire et permettant à l'administration de pouvoir vous adresser toutes les correspondances administratives relatives à la propriété de votre navire.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14501.do" format="application/pdf" poids="106.6 KB">
+<Source>Ministère en charge de l'économie</Source>
+</LienWeb>
+<FicheLiee ID="F833" audience="Particuliers" type="Fiche d'information">
+<Titre>Francisation d'un bateau de plaisance</Titre>
+<Dossier ID="N550">Permis bateau et navigation de plaisance</Dossier>
+</FicheLiee>
+<FicheLiee ID="F836" audience="Particuliers" type="Fiche d'information">
+<Titre>Navigation maritime : achat d'un bateau de plaisance</Titre>
+<Dossier ID="N550">Permis bateau et navigation de plaisance</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

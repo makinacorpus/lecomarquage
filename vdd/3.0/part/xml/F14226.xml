@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14226" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>À quoi sert le cadastre et comment le consulter ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le cadastre délimite et recense les parcelles de terrains et leurs propriétaires. Il est consultable sur internet, au centre des impôts ou en mairie.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-17</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14226</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025175261</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N319</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N319">Autorisations d'urbanisme</Niveau>
+<Niveau ID="F14226" type="Fiche Question-réponse">À quoi sert le cadastre et comment le consulter ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N557">Urbanisme</SousThemePere><DossierPere ID="N319">
+<Titre>Autorisations d'urbanisme</Titre>
+<Fiche ID="F1633">Certificat d'urbanisme</Fiche>
+<Fiche ID="F17578">Déclaration préalable de travaux</Fiche>
+<Fiche ID="F1986">Permis de construire</Fiche>
+<Fiche ID="F17665">Permis d'aménager</Fiche>
+<Fiche ID="F19450">Permis modificatif (permis de construire ou d'aménager)</Fiche>
+<Fiche ID="F17669">Permis de démolir</Fiche>
+<Fiche ID="F2698">Transfert d'un permis de construire ou d'aménager</Fiche>
+<Fiche ID="F20567">Contestation d'une autorisation d'urbanisme</Fiche>
+<Fiche ID="F23263">Taxe d'aménagement</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le cadastre délimite et recense les parcelles de terrains et leurs propriétaires. Il est consultable sur internet, au centre des impôts ou en mairie.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>À quoi sert le cadastre ?</Paragraphe>
+</Titre><Paragraphe>Le cadastre permet notamment : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de connaître l'emplacement, la délimitation et la consistance d'un bien immobilier, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'identifier le propriétaire d'une parcelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de rechercher des informations fiscales (par exemple, <LienIntra LienID="R10562" type="Définition de glossaire">valeur locative d'un bien</LienIntra>).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>De quoi est-il composé ?</Paragraphe>
+</Titre><Paragraphe>Le cadastre est composé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du plan cadastral où sont représentés les parcelles et les bâtiments existants, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des états de section fournissant pour chaque parcelle son identifiant (section et numéro de plan), son adresse (voie ou lieu-dit, et numéro de voirie s'il existe), sa contenance cadastrale, le numéro communal de son propriétaire et des indications sur les mutations (transfert d'un bien à une autre personne),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et de la matrice cadastrale qui récapitule pour chaque propriétaire les biens qu'il possède dans la commune, avec leur consistance et leur évaluation.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ces documents sont transmissibles à tous, sauf la matrice cadastrale qui ne peut être communiquée qu'au propriétaire du bien immobilier.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où le consulter ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Sur internet</Paragraphe>
+</Titre><Paragraphe>Vous pouvez consulter le cadastre en ligne en ayant, au préalable, présélectionné une commune.</Paragraphe>
+<Paragraphe>Les recherches peuvent s'effectuer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> par références cadastrales (section et numéro de parcelle),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> ou par adresse de la parcelle.</Paragraphe>
+</Item>
+</Liste><ServiceEnLigne ID="R31895" URL="http://www.cadastre.gouv.fr/scpc/accueil.do" type="Téléservice">
+<Titre>Consultation du cadastre</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+<Texte><Paragraphe>Permet de consulter le cadastre de toutes les communes de France. La recherche se fait en ayant présélectionné une commune déterminée. Il n'est toutefois pas possible d'effectuer une demande portant sur le nom du propriétaire d'une parcelle. Les documents visualisés sont gratuits et peuvent être délivrés sous forme numérique.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Au centre des impôts</Paragraphe>
+</Titre><Paragraphe>Votre demande de renseignement cadastrale doit être effectuée par courrier (simple ou recommandé) et comporter dans tous les cas :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vos noms et prénoms (ou votre raison sociale si vous faites cette demande en tant que représentant d'une <LienIntra LienID="R40703" type="Définition de glossaire">personne morale)</LienIntra>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le nom de la commune de situation du ou des biens immobiliers concernés.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Et selon le type de renseignement demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'adresse du bien immobilier objet de la demande,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou l'identité de la personne objet de la demande.</Paragraphe>
+</Item>
+</Liste><OuSAdresser ID="R16801" type="Local personnalisé sur SP">
+<Titre>Centre des impôts fonciers et cadastre</Titre>
+<PivotLocal>centre_impots_fonciers</PivotLocal>
+<RessourceWeb URL="https://www.impots.gouv.fr/portail/contacts"/>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</OuSAdresser>
+
+<Paragraphe>Les informations vous seront communiquées par courrier (ou par voie électronique si vous en faites la demande).</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>En mairie</Paragraphe>
+</Titre><Paragraphe>Votre demande de renseignement cadastrale doit être effectuée par courrier (simple ou recommandé) et comporter dans tous les cas :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vos noms et prénoms (ou votre raison sociale si vous faites cette demande en tant que représentant d'une <LienIntra LienID="R40703" type="Définition de glossaire">personne morale</LienIntra>),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le nom de la commune de situation du ou des biens immobiliers concernés.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Et selon le type de renseignement demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'adresse du bien immobilier objet de la demande,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou l'identité de la personne objet de la demande.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les informations vous seront communiquées par courrier (ou par voie électronique si vous en faites la demande).</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025175261" ID="R13475">
+<Titre>Décret n°2012-59 du 18 janvier 2012 relatif à la délivrance au public de certaines informations cadastrales</Titre>
+</Reference>
+<ServiceEnLigne ID="R31895" URL="http://www.cadastre.gouv.fr/scpc/accueil.do" type="Téléservice">
+<Titre>Consultation du cadastre</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<Definition ID="R40703">
+<Titre>Personne morale</Titre>
+<Texte>
+				<Paragraphe>Groupement de personnes physiques réunies pour accomplir quelque chose en commun (entreprises, sociétés civiles,  associations, État, collectivités territoriales, etc.). Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Il peut aussi n'être constitué que d'un seul élément (EURL par exemple). </Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R10562">
+<Titre>Valeur locative cadastrale</Titre>
+<Texte>
+				<Paragraphe>Niveau de loyer annuel potentiel que la propriété concernée produirait si elle était louée. Sert de base de calcul aux impôts directs locaux :  taxe d'habitation,  taxe foncière, cotisation foncière des entreprises (CFE).</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006179808&amp;cidTexte=LEGITEXT000006069577" ID="R32431">
+<Titre>Code général des impôts : articles 1409 à 1413</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F2618" audience="Particuliers">Que faire lorsque l'on a perdu son acte de propriété ?</QuestionReponse>
+
+</Publication>

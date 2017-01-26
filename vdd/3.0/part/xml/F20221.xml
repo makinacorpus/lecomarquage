@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F20221" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Un créateur d'entreprise peut-il bénéficier du RSA ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Création d'entreprise : le RSA dépend du chiffre d'affaires de l'entreprise.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F20221</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199553&amp;cidTexte=LEGITEXT000006069577, http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024189476&amp;cidTexte=LEGITEXT000006069577</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N19775">Revenu de solidarité active (RSA)</Niveau>
+<Niveau ID="F20221" type="Fiche Question-réponse">Un créateur d'entreprise peut-il bénéficier du RSA ?</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N19775">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Fiche ID="F19778">RSA - Demandeur de 25 ans ou plus</Fiche>
+<Fiche ID="F15553">RSA parent isolé</Fiche>
+<Fiche ID="F286">RSA jeune actif</Fiche>
+<Fiche ID="F33692">RSA jeunes parents</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Oui, vous pouvez prétendre au <LienInterne LienPublication="R24554" type="Sigle">RSA</LienInterne> en tant que créateur d'entreprise.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Vous pouvez percevoir le RSA en fonction du  chiffre d'affaires de votre entreprise, de votre situation familiale et de vos autres revenus. Votre société ne doit pas avoir de salarié.</Paragraphe>
+<Paragraphe>Les calculs étant complexes, vous devez prendre contact avec   <LienInterne LienPublication="R24582" type="Acronyme">Caf</LienInterne> pour demander le RSA complémentaire pour les non salariés.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les services du département peuvent, à votre demande et selon votre situation, déroger à l'obligation de ne pas avoir de  salarié.</Paragraphe>
+</ASavoir>
+</Texte><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006199553&amp;cidTexte=LEGITEXT000006069577" ID="R31916">
+<Titre>Code général des impôts : article 50-0</Titre>
+<Complement>Régime fiscal des micro-entreprises</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024189476&amp;cidTexte=LEGITEXT000006069577" ID="R37043">
+<Titre>Code général des impôts : article 102 ter</Titre>
+<Complement>Régime spécial des BNC (micro BNC)</Complement>
+</Reference>
+<ServiceEnLigne ID="R1350" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15481.do" numerocerfa="15481*01" type="Formulaire">
+<Titre>Demande de RSA ou de prime d'activité</Titre>
+<Source ID="R30662">Ministère en charge de la santé</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="15482*01">
+<Titre>RSA et prime d'activité - Demande complémentaire pour un non-salarié</Titre>
+<Texte><Paragraphe>À remplir si vous êtes commerçant, artisan, exploitant non salarié agricole, ou si vous exercez une profession libérale.</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15482.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R795" URL="http://social-sante.gouv.fr/affaires-sociales/lutte-contre-l-exclusion/droits-et-aides/le-revenu-de-solidarite-active-rsa/" audience="Particuliers">
+<Titre>Revenu de solidarité active (RSA)</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R24582" type="Acronyme">
+<Titre>Caf</Titre>
+<Texte>
+<Paragraphe>Caisse d'allocations familiales</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24554" type="Sigle">
+<Titre>RSA</Titre>
+<Texte>
+<Paragraphe>Revenu de solidarité active</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

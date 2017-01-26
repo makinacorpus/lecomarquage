@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1843" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>L'absence de l'employeur met-elle fin au contrat du salarié à domicile ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>L'absence de l'employeur met-elle fin au contrat du salarié à domicile ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-09-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1843</dc:identifier>
+<dc:source>http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024396512&amp;cidTexte=LEGITEXT000006072050, http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018521294&amp;cidTexte=LEGITEXT000006072050, http://legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635792</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19602</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19602">Particulier employeur : aide à domicile (services à la personne)</Niveau>
+<Niveau ID="F1843" type="Fiche Question-réponse">L'absence de l'employeur met-elle fin au contrat du salarié à domicile ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N453">Particulier employeur</SousThemePere><DossierPere ID="N19602">
+<Titre>Particulier employeur : aide à domicile (services à la personne)</Titre>
+<Fiche ID="F1692">Embauche d'un salarié ou recours à un organisme</Fiche>
+<Fiche ID="F12202">Contrat de travail</Fiche>
+<Fiche ID="F104">Temps du travail</Fiche>
+<Fiche ID="F13897">Congés</Fiche>
+<Fiche ID="F142">Rémunération</Fiche>
+<Fiche ID="F1745">Licenciement</Fiche>
+<Fiche ID="F32431">Démission</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Le particulier employeur d'un salarié à domicile peut être amené à s'absenter temporairement de son domicile, pour des raisons de santé, familiales ou autres. Durant son absence, il doit continuer à rémunérer son salarié comme s'il faisait normalement ses horaires de travail.</Paragraphe>
+<Paragraphe>En effet, en signant le contrat de travail, l'employeur s'est engagé à employer le salarié selon des horaires de travail définis. L'absence ou l'indisponibilité temporaire de l'employeur ne justifient pas de suspendre le contrat et la rémunération du salarié.</Paragraphe>
+<Paragraphe>Toutefois, si l'absence ou l'indisponibilité de l'employeur perdure et qu'il ne peut plus continuer à employer son salarié, il peut le licencier. L'employeur doit <LienInterne LienPublication="F1745" type="Fiche d'information" audience="Particuliers">respecter la procédure et motiver le licenciement</LienInterne>. En cas de contentieux, le juge détermine si la durée de l'absence de l'employeur justifiait le licenciement du salarié.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Dossier ID="N19602" audience="Particuliers">
+<Titre>Particulier employeur : aide à domicile (services à la personne)</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+
+<OuSAdresser ID="R15" type="Local personnalisé sur SP">
+<Titre>Conseil de prud'hommes</Titre>
+<Complement>En cas de litige</Complement>
+<PivotLocal>prudhommes</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-conseils-de-prudhommes-21779.html"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024396512&amp;cidTexte=LEGITEXT000006072050" ID="R33476">
+<Titre>Code du travail : article L7221-2</Titre>
+<Complement>Dispositions du code du travail applicables au salarié employé par un particulier (liste non limitative)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018521294&amp;cidTexte=LEGITEXT000006072050" ID="R41617">
+<Titre>Code du travail : articles R7221-1 à R7221-2</Titre>
+<Complement>Congé supplémentaire imposé par l'employeur</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635792" ID="R1728">
+<Titre>Convention collective nationale des salariés du particulier employeur du 24 novembre 1999</Titre>
+<Complement>Congé supplémentaire imposé par l'employeur (article 17)</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41433" URL="http://www.net-particulier.fr" audience="Particuliers">
+<Titre>Site du particulier employeur et du salarié</Titre>
+<Source ID="R30607">Agence centrale des organismes de sécurité sociale (Acoss)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41385" URL="http://www.entreprises.gouv.fr/services-a-la-personne" audience="Particuliers">
+<Titre>Portail des services à la personne</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F13244" audience="Particuliers">Quelles sont les activités de service à la personne et comment y recourir ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31190" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels sont les numéros d'identification des entreprises ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Quels sont les numéros d'identification des entreprises ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-07</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31190</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178890&amp;cidTexte=LEGITEXT000005634379</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16178</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="F31190" type="Fiche Question-réponse">Quels sont les numéros d'identification des entreprises ?</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere><DossierPere ID="N16178">
+<Titre>Formalités de la création d'entreprise</Titre><SousDossier ID="N16178-1">
+<Titre>Commerçant</Titre>
+<Fiche ID="F22632">Ouverture d'un commerce</Fiche>
+<Fiche ID="F23573">Gérance d'un commerce</Fiche>
+<Fiche ID="F22537">Franchise</Fiche>
+<Fiche ID="F22494">Commerçant ou artisan étranger</Fiche>
+<Fiche ID="F23962">Vendeur à domicile</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-2">
+<Titre>Autres statuts</Titre>
+<Fiche ID="F23264">Auto-entrepreneur</Fiche>
+<Fiche ID="F23887">Artisan</Fiche>
+<Fiche ID="F23458">Profession libérale</Fiche>
+<Fiche ID="F31498">Entreprise individuelle à responsabilité limitée (EIRL)</Fiche>
+<Fiche ID="F32266">Conjoint du chef d'entreprise</Fiche>
+</SousDossier>
+<SousDossier ID="N16178-3">
+<Titre>Autres secteurs d'activités</Titre>
+<Fiche ID="F23633">Entreprise de services à la personne</Fiche>
+<Fiche ID="F19087">Formateur ou organisme de formation</Fiche>
+<Fiche ID="F33830">Société de domiciliation d'entreprise</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Lors de son immatriculation ou de sa déclaration d'activité auprès d'un centre de formalités des entreprises (CFE), toute entreprise ou entrepreneur individuel se voit attribuer plusieurs identifications, sous la forme de numéros.</Paragraphe>
+<Tableau>
+<Titre>Numéros d'identification des entreprises</Titre>
+<Colonne largeur="27" type="normal"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="34" type="normal"/>
+<Colonne largeur="24" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Numéro</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Objet</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Forme</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Quelle administration le délivre ?</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Siren</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Identification unique de chaque entreprise auprès des administrations.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>9 chiffres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Insee via le CFE</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Siret</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Identification de chaque établissement de la même entreprise auprès des organismes sociaux et fiscaux.</Paragraphe>
+<Paragraphe>Doit figurer sur les bulletins de paie des salariés.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>14 chiffres = 9 chiffres du Siren + 5 chiffres propres à chaque établissement</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Insee via le CFE</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F33050" type="Fiche Question-réponse" audience="Professionnels">Code APE (activité principale exercée) ou code NAF</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Identification de la branche d'activité de l'entreprise ou du travailleur indépendant.</Paragraphe>
+<Paragraphe>Permet de déterminer la convention collective applicable.</Paragraphe>
+<Paragraphe>Doit figurer sur les bulletins de paie des salariés.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>4 chiffres + 1 lettre, en référence à la nomenclature statistique nationale d'activités française (NAF rév. 2, en vigueur depuis 2008)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Insee via le CFE.</Paragraphe>
+<Paragraphe>Il est possible de<LienInterne LienPublication="R18901" type="Formulaire" audience="Professionnels"> le faire modifier</LienInterne> s'il est erroné.</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>RCS (Registre du commerce et des sociétés)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immatriculation des commerçants et des sociétés commerciales au RCS.</Paragraphe>
+<Paragraphe>Figure à <LienInterne LienPublication="F21000" type="Fiche Question-réponse" audience="Professionnels">l'extrait K ou Kbis</LienInterne>.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>RCS + ville d'immatriculation + n° Siren</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Greffe du tribunal de commerce via le CFE</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Répertoire des métiers (RM)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Inscription obligatoire au Répertoire des métiers des artisans et des sociétés artisanales n'employant pas plus de 10 salariés.</Paragraphe>
+<Paragraphe>Figure dans l'extrait D1</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>N° Siren + RM + chiffres désignant la chambre des métiers et de l'artisanat compétente</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Chambre des métiers et de l'artisanat (CMA) via le CFE</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23570" type="Fiche d'information" audience="Professionnels">TVA intracommunautaire</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Identification fiscale pour toute entreprise redevable de la TVA.</Paragraphe>
+<Paragraphe>Doit figurer sur les factures et sur les déclarations de TVA</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>FR + 2 chiffres + n° Siren</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Service des impôts des entreprises (SIE) via le CFE</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Le répertoire Sirene enregistre toutes les entreprises et leurs établissements, quels que soient leur forme juridique et leur secteur d'activité. Les entreprises étrangères qui ont une représentation ou une activité en France y sont également répertoriées.</Paragraphe>
+<Paragraphe>Les associations n'ont pas d'obligation légale d'inscription au répertoire Sirene, sauf si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>elles emploient du personnel,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>exercent des activités qui entraînent paiement de la TVA ou de l'impôt sur les sociétés</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou reçoivent des subventions publiques.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R13557" type="Local">
+<Titre>Centre de formalités des entreprises (CFE)</Titre>
+<RessourceWeb URL="https://www.insee.fr/fr/information/1972060"/>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178890&amp;cidTexte=LEGITEXT000005634379" ID="R40680">
+<Titre>Code de commerce : articles R123-220 à D123-236</Titre>
+</Reference>
+<ServiceEnLigne ID="R31516" URL="http://www.insee.fr/fr/methodes/default.asp?page=nomenclatures/naf2008/liste_n1.htm" type="Téléservice">
+<Titre>Recherche dans la nomenclature d'activités française (NAF)</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17969" URL="http://avis-situation-sirene.insee.fr/" type="Téléservice">
+<Titre>Avis de situation au répertoire Sirene</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R13775" URL="https://www.infogreffe.fr/societes/formalites-entreprise/immatriculation-entreprise.html" type="Téléservice">
+<Titre>Immatriculation au registre du commerce et des sociétés (RCS)</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19859" URL="https://www.infogreffe.fr/societes/documents-officiels/demande-kbis.html" type="Téléservice">
+<Titre>Recherche sur les entreprises immatriculées au RCS</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18901" URL="https://www.insee.fr/fr/statistiques/fichier/2015441/formulaire-APEN-V6-recto-verso.pdf" format="application/pdf" poids="0" type="Formulaire">
+<Titre>Demande de modification du code d'activité principale (APE) d'une entreprise</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R17436" URL="https://www.cfe-metiers.com/HTM/activites.aspx" audience="Professionnels">
+<Titre>Quelles sont les activités relevant de l'artisanat ?</Titre>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R31515" URL="http://www.insee.fr/fr/service/default.asp?page=entreprises/demarches-immatriculation.htm" audience="Professionnels">
+<Titre>Comment être immatriculé dans le répertoire Sirene ?</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F21000" audience="Professionnels">Comment se procurer un extrait K ou Kbis ?</QuestionReponse>
+<QuestionReponse ID="F32135" audience="Professionnels">Comment obtenir un numéro Siren ou Siret ?</QuestionReponse>
+<QuestionReponse ID="F24023" audience="Professionnels">À quoi sert un centre de formalités des entreprises (CFE) ?</QuestionReponse>
+<QuestionReponse ID="F33050" audience="Professionnels">À quoi correspond le code APE ?</QuestionReponse>
+</Publication>

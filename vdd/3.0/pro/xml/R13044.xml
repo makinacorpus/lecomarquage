@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R13044" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Consultation du registre des intermédiaires en assurance</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Consultation du registre des intermédiaires en assurance - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-10-21</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R13044</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N17323">Assurance</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R13044" type="Téléservice">Consultation du registre des intermédiaires en assurance</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>Tout intermédiaire ou courtier en assurance et réassurance (toute personne exerçant l'activité qui consiste à présenter, proposer ou aider à conclure des contrats d'assurance ou de réassurance ou à réaliser d'autres travaux préparatoires à leur conclusion) est tenu de s'inscrire sur un registre national, sous un numéro d'immatriculation unique, librement accessible au public.</Paragraphe>
+<Paragraphe>L'inscription est obligatoire et renouvelable chaque année.</Paragraphe>
+<Paragraphe>Grâce à registre disponible en ligne, tout assuré (professionnel, entreprise ou particulier) peut vérifier qu'un intermédiaire en assurance est bien immatriculé et qu'il répond aux exigences requises par la réglementation pour l'exercice de son activité.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://www.orias.fr/welcome">
+<Source>Organisme pour le registre des intermédiaires en assurance (Orias)</Source>
+</LienWeb>
+<Dossier ID="N17323">
+<Titre>Assurance</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

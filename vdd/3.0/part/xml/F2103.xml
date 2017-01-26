@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2103" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Les dégradations causées par un cambriolage incombent-elles au locataire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les réparations ne sont pas à la charge du locataire, qui doit se tourner vers son assureur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-29</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2103</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006442832&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19424</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N19424">Location immobilière : obligations du locataire</Niveau>
+<Niveau ID="F2103" type="Fiche Question-réponse">Les dégradations causées par un cambriolage incombent-elles au locataire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N19424">
+<Titre>Location immobilière : obligations du locataire</Titre><SousDossier ID="N19424-1">
+<Titre>Dépenses locatives</Titre>
+<Fiche ID="F1214">Loyer</Fiche>
+<Fiche ID="F31272">Impayés et expulsion</Fiche>
+<Fiche ID="F947">Charges</Fiche>
+<Fiche ID="F31300">Assurance habitation</Fiche>
+</SousDossier>
+<SousDossier ID="N19424-2">
+<Titre>Usage du logement</Titre>
+<Fiche ID="F1874">Travaux et jouissance des lieux</Fiche>
+<Fiche ID="F31697">Entretien et réparations</Fiche>
+<Fiche ID="F2449">Sous-location</Fiche>
+<Fiche ID="F32305">Abandon de logement</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Le locataire est responsable des dégradations survenant dans le logement pendant la durée du bail. Cependant, si les dégradations ont été occasionnées par un cambrioleur, les réparations ne sont pas à sa  charge. </Paragraphe>
+<Paragraphe>Le locataire doit se tourner vers <LienInterne LienPublication="F2028" type="Fiche d'information" audience="Particuliers">son assureur</LienInterne>. Celui-ci lui indiquera les démarches à effectuer, qui varient selon le type de contrat d'assurance souscrit.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F31300" audience="Particuliers">
+<Titre>Obligation du locataire : assurance habitation</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F2028" audience="Particuliers">
+<Titre>Assurance habitation : vol et cambriolage</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069108" ID="R1701">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs</Titre>
+<Complement>Article 7 alinéa c</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006442832&amp;cidTexte=LEGITEXT000006070721" ID="R33280">
+<Titre>Code civil : article 1725</Titre>
+</Reference>
+<QuestionReponse ID="F769" audience="Particuliers">Cambriolage : comment être indemnisé par l'assurance ?</QuestionReponse>
+</Publication>

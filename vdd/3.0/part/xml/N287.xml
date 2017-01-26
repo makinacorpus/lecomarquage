@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N287" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Armes</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Les armes sont classées en 4 catégories en fonction de leur dangerosité dont découle le régime : vente libre, permis de pot d'arme, déclaration</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-01</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N287</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025508075&amp;cidTexte=LEGITEXT000025503132</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19809</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N287" type="Dossier">Armes</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N19969">Chasse et pêche</SousThemePere>
+<Fiche ID="F2242">Arme de catégorie A (interdiction sauf autorisation particulière)</Fiche>
+<Fiche ID="F2250">Arme de catégorie B (soumise à autorisation)</Fiche>
+<Fiche ID="F2246">Arme de catégorie C (soumise à déclaration)</Fiche>
+<Fiche ID="F2248">Arme de catégorie D (en vente libre ou soumise à enregistrement)</Fiche>
+<Fiche ID="F2273">Carte européenne d'armes à feu</Fiche>
+<Introduction>
+<Texte><Paragraphe>Les armes sont classées en 4 catégories en fonction de leur dangerosité. La dangerosité d'une  arme à feu s'apprécie en fonction des modalités de répétition du tir et du nombre de coups tirés. À chaque catégorie correspond un régime administratif d'acquisition et de détention (interdiction, autorisation,  déclaration, enregistrement ou  détention libre).  </Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N553" audience="Particuliers">
+<Titre>Chasse</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000025508075&amp;cidTexte=LEGITEXT000025503132" ID="R33474">
+<Titre>Code de la sécurité intérieure : articles L311-1 à L311-4</Titre>
+<Complement>Classification des armes</Complement>
+</Reference>
+<ServiceEnLigne ID="R1498" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10832.do" format="application/pdf" poids="88.6 KB" numerocerfa="10832*03" type="Formulaire">
+<Titre>Demande de carte européenne d'armes à feu : première demande, renouvellement ou modification</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1499" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12644.do" numerocerfa="12644*04" type="Formulaire">
+<Titre>Demande d'autorisation d'acquisition et de détention d'armes et de munitions, de renouvellement d'autorisation et de détention</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16883" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11845.do" format="application/pdf" poids="165.7 KB" numerocerfa="11845*03" type="Formulaire">
+<Titre>Déclaration d'abandon par un particulier d'arme et de munitions à l'Etat</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1502" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14980.do" numerocerfa="14980*01" type="Formulaire">
+<Titre>Récépissé de déclaration justificative ou de présentation de permis de transfert concernant l'acquisition d'armes ou de munitions de la catégorie C et du 1° de la catégorie D remis à un non-résident</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20310" URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=14252" numerocerfa="14252*02" type="Formulaire">
+<Titre>Récépissé d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="14252*02">
+<Titre>Formulaire à remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14252.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10707" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14700.do" format="application/pdf" poids="110.0 KB" numerocerfa="14700*04" type="Formulaire">
+<Titre>Arme de catégorie D-1 (ou élément d'arme) - Demande d'enregistrement d'acquisition, vente, cession entre particuliers ou mise en possession</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12444" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14251.do" numerocerfa="14251*03" type="Formulaire">
+<Titre>Demande d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D - Personne morale</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33469" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14253.do" numerocerfa="14253*02" type="Formulaire">
+<Titre>Récépissé d'enregistrement d'acquisition, vente, cession ou mise en possession d'une arme ou d'un élément d'arme du 1° de la catégorie D - Personne morale</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1501" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12650.do" format="application/pdf" poids="63.1 KB" numerocerfa="12650*03" type="Formulaire">
+<Titre>Arme de catégorie C - Déclaration d'acquisition, vente, cession ou mise en possession</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R138" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11846.do" numerocerfa="11846*02" type="Formulaire">
+<Titre>Déclaration d'abandon par une collectivité territoriale ou un établissement public de l'Etat d'arme et de munitions à l'Etat</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R211" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11290.do" format="application/force-download" poids="80.8 KB" numerocerfa="11290*02" type="Formulaire">
+<Titre>Accord préalable pour le transfert d'armes à feu et de munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R11485" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14728.do" format="application/pdf" poids="82.1 KB" numerocerfa="14728*01" type="Formulaire">
+<Titre>Certificat international d'importation de matériels de guerre et matériels assimilés</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34994" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11287.do" numerocerfa="11287*02" type="Formulaire">
+<Titre>Permis de transfert d'armes à feu et de munition</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34995" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11288.do" numerocerfa="11288*03" type="Formulaire">
+<Titre>Formulaire d'agrément de transfert d'armes à feu et de munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R43295" URL="http://www.douane.gouv.fr/Portals/0/fichiers/professionnel/restrictions/notice-11288.pdf">Notice explicative pour la demande d'agrément de transfert d'armes à feu et de munitions</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R34996" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11289.do" numerocerfa="11289*02" type="Formulaire">
+<Titre>Déclaration de transfert d'armes à feu et de munitions par un armurier agréé</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R35003" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11291.do" numerocerfa="11291*02" type="Formulaire">
+<Titre>Annexe à la déclaration ou au permis de transfert d'armes à feu et de munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R707" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12363.do" format="application/pdf" poids="97.5 KB" numerocerfa="12363*03" type="Formulaire">
+<Titre>Demande d'autorisation globale de transit de matériels de guerre, armes, munitions et materiels assimilés</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R36903" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15044.do" format="application/pdf" poids="73.4 KB" numerocerfa="15044*01" type="Formulaire">
+<Titre>Fiche d'imputation de licence individuelle d'exportation de matériels de guerre et matériels assimilés de transfert de produits liés à la défense</Titre>
+<Source ID="R30701">Ministère en charge de la défense</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1453" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11192.do" format="application/pdf" poids="89.4 KB" numerocerfa="11192*03" type="Formulaire">
+<Titre>Demande d'autorisation d'importation de matériels de guerre, armes et munitions</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source><NoticeLiee ID="R45305" URL="http://www.douane.gouv.fr/Portals/0/fichiers/professionnel/restrictions/notice-11192.pdf" numerocerfa="11192" format="application/pdf" poids="0">Demande d'autorisation d'importation de matériels de guerre, armes et munitions</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33975" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14979.do" format="application/pdf" poids="98.0 KB" numerocerfa="14979*02" type="Formulaire">
+<Titre>Demande d'autorisation de fabrication, de commerce ou d'intermédiation de matériel de guerre, armes et munitions (personne morale)</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F31877" audience="Particuliers">À quoi correspondent les différentes catégories ?</QuestionReponse>
+<QuestionReponse ID="F33639" audience="Particuliers">Détention d'une arme de poing (pistolet, revolver) : quelles sont les règles ? </QuestionReponse>
+<QuestionReponse ID="F33655" audience="Particuliers">Détention d'une arme de collection : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F33654" audience="Particuliers">Peut-on détenir une carabine ou un fusil pour se défendre ?</QuestionReponse>
+<QuestionReponse ID="F33661" audience="Particuliers">Armes pour pratiquer le tir sportif : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F33658" audience="Particuliers">Autodéfense (bombe lacrymogène, couteau...) : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F31664" audience="Particuliers">Arme détenue avant 2013 : comment se mettre en règle ?</QuestionReponse>
+<QuestionReponse ID="F11629" audience="Particuliers">Que faire d'une arme qu'on ne souhaite pas conserver ?</QuestionReponse>
+<QuestionReponse ID="F2255" audience="Particuliers">Que faire en cas de vol ou perte d'une arme ?</QuestionReponse>
+<QuestionReponse ID="F31661" audience="Particuliers">Que faire en cas de déménagement ?</QuestionReponse>
+<QuestionReponse ID="F2253" audience="Particuliers">Un mineur peut-il détenir une arme ?</QuestionReponse>
+<QuestionReponse ID="F2252" audience="Particuliers">Peut-on circuler avec une arme ?</QuestionReponse>
+</Publication>

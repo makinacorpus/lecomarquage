@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32881" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Radiation d'une demande de logement social</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>La radiation d'une demande de logement social est prévue dans certains cas spécifiques.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-15</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32881</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177650&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N292</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N292">Location immobilière : candidat locataire</Niveau>
+<Niveau ID="F32881" type="Fiche d'information">Radiation d'une demande de logement social</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N292">
+<Titre>Location immobilière : candidat locataire</Titre><SousDossier ID="N292-1">
+<Titre>Accès au logement privé</Titre>
+<Fiche ID="F1169">Dossier du candidat</Fiche>
+<Fiche ID="F31267">Caution</Fiche>
+<Fiche ID="F32320">Caution locative étudiante (CLé)</Fiche>
+<Fiche ID="F375">Frais d'agence immobilière</Fiche>
+</SousDossier>
+<SousDossier ID="N292-2">
+<Titre>Accès au logement social</Titre>
+<Fiche ID="F869">Conditions d'attribution</Fiche>
+<Fiche ID="F10007">Demande de logement</Fiche>
+<Fiche ID="F32880">Renouvellement de la demande</Fiche>
+<Fiche ID="F32881">Radiation de la demande</Fiche>
+<Fiche ID="F18005">Droit au logement opposable (Dalo)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Accès au logement social</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>La radiation d'une demande de logement social est prévue dans certains cas spécifiques. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Radiation du fait de l'extinction de la demande</Paragraphe>
+</Titre><Paragraphe>Lorsque votre demande n'a plus lieu d'être, elle fait alors l'objet d'une radiation. </Paragraphe>
+<Paragraphe>C'est le cas si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un logement social vous est attribué (la radiation intervient dès la signature du bail),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous renoncez à votre demande par lettre recommandée avec accusé de réception (la radiation intervient sans délai).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Radiation du fait de la procédure</Paragraphe>
+</Titre><Paragraphe>Votre demande peut être radiée si la procédure n'est pas respectée. </Paragraphe>
+<Paragraphe>C'est le cas si :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous ne <LienInterne LienPublication="F32880" type="Fiche d'information" audience="Particuliers">renouvelez</LienInterne> pas votre demande dans les délais impartis (la radiation intervient sans délai),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>votre demande est déclarée irrecevable (vos ressources sont supérieures au <LienInterne LienPublication="F869" type="Fiche d'information" audience="Particuliers">plafond réglementaire</LienInterne> par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>vous ne répondez pas aux courriers qui vous sont adressés à votre dernière adresse déclarée.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans ces 2 derniers cas, vous recevez un avertissement par lettre recommandée avec avis de réception ou tout moyen permettant d'attester de sa remise.</Paragraphe>
+<Paragraphe>La radiation intervient 1 mois après cet envoi.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contestation</Paragraphe>
+</Titre><Paragraphe>Si vous souhaitez contester votre radiation, vous devez vous adresser à l'organisme ou à l'administration (mairie, office HLM...) qui vous a radié. La démarche à remplir vous sera alors précisée.</Paragraphe><OuSAdresser ID="R39693" type="Local personnalisable">
+<Titre>Organisme de logement social</Titre>
+<PivotLocal>organisme_logement_social</PivotLocal>
+<RessourceWeb URL="https://www.demande-logement-social.gouv.fr/oualler/accesOuAllerChoixLocation.do"/>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006177650&amp;cidTexte=LEGITEXT000006074096" ID="R34301">
+<Titre>Code de la construction et de l'habitation : articles R441-1 à R*441-12</Titre>
+<Complement>Radiation d'une demande de logement social</Complement>
+</Reference>
+</Publication>

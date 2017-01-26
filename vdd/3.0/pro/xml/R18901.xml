@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18901" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de modification du code d'activité principale (APE) d'une entreprise</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Formalités administratives d'une association, Création - Modification - Cessation, Gestion - Finances, Ressources humaines</dc:subject>
+<dc:description>Demande de modification du code d'activité principale (APE) d'une entreprise</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-13</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18901</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18901" type="Formulaire">Demande de modification du code d'activité principale (APE) d'une entreprise</Niveau>
+</FilDAriane>
+<Theme ID="N31403">
+<Titre>Formalités administratives d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Si vous n'avez pas changé d'activité et que vous estimez que le code APE attribué par l'Insee doit être corrigé, ce formulaire est à retourner par courrier ou courriel sur papier à en-tête de votre entreprise, ou obligatoirement revêtu du cachet de votre entreprise, à la direction régionale de l'Insee qui gère votre dossier.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.insee.fr/fr/statistiques/fichier/2015441/formulaire-APEN-V6-recto-verso.pdf" format="application/pdf" poids="0">
+<Source>Institut national de la statistique et des études économiques (Insee)</Source>
+</LienWeb>
+<FicheLiee ID="F33050" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>À quoi correspond le code APE ?</Titre>
+<Dossier ID="N31383">Règles comptables</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32135" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment obtenir un numéro Siren ou Siret ?</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33666" audience="Professionnels" type="Fiche d'information">
+<Titre>Convention collective : les obligations de l'employeur</Titre>
+<Dossier ID="N17310">Droits syndicaux</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1926" audience="Associations" type="Fiche d'information">
+<Titre>Identification et immatriculation d'une association</Titre>
+<Dossier ID="N19554">Création d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31190" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Quels sont les numéros d'identification des entreprises ?</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

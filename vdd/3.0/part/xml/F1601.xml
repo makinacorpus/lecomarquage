@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1601" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Immatriculation d'un bateau de plaisance (pour la navigation en mer)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Avant de procéder à l'immatriculation du navire, le plaisancier doit vérifier qu'il est en règle avec les obligations de francisation. La demande d'immatriculation est réalisée par l'acheteur du bateau. L'immatriculation consiste à attribuer au bateau un numéro d'identification. Ce numéro doit être apposé à l'intérieur et à l'extérieur du navire. Tout changement de situation doit être également déclaré.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-21</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1601</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020499038, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020499085</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N550</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N550">Permis bateau et navigation de plaisance</Niveau>
+<Niveau ID="F1601" type="Fiche d'information">Immatriculation d'un bateau de plaisance (pour la navigation en mer)</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N168">Vacances</SousThemePere><DossierPere ID="N550">
+<Titre>Permis bateau et navigation de plaisance</Titre><SousDossier ID="N550-1">
+<Titre>Naviguer en eaux intérieures</Titre>
+<Fiche ID="F14022">Permis bateau (permis plaisance) option eaux intérieures</Fiche>
+<Fiche ID="F14023">Extension grande plaisance eaux intérieures</Fiche>
+<Fiche ID="F2071">Enregistrement du bateau</Fiche>
+<Fiche ID="F2086">Sécurité des plaisanciers</Fiche>
+</SousDossier>
+<SousDossier ID="N550-2">
+<Titre>Naviguer en mer</Titre>
+<Fiche ID="F833">Francisation</Fiche>
+<Fiche ID="F18988">Permis plaisance option côtière</Fiche>
+<Fiche ID="F18989">Extension hauturière du permis plaisance option côtière</Fiche>
+<Fiche ID="F1601">Immatriculation du navire</Fiche>
+<Fiche ID="F2084">Sécurité des plaisanciers</Fiche>
+</SousDossier>
+<SousDossier ID="N550-3">
+<Titre>Achat-vente d'un bateau de plaisance</Titre>
+<Fiche ID="F33838">Navigation maritime : vente d'un bateau de plaisance</Fiche>
+<Fiche ID="F836">Navigation maritime : achat d'un bateau de plaisance</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Naviguer en mer</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Avant de procéder à l'immatriculation du navire, le plaisancier doit vérifier qu'il est en règle avec les obligations de francisation.
+La demande d'immatriculation est réalisée par l'acheteur du bateau.			L'immatriculation consiste à attribuer au bateau un numéro d'identification.
+			Ce numéro  doit être apposé à l'intérieur et à l'extérieur du navire. Tout changement de situation doit être également déclaré. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Immatriculation</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Métropole</Paragraphe>
+</Titre>
+				<Paragraphe>La demande d'immatriculation  est obligatoire pour l'achat d'un bateau neuf ou d'occasion.</Paragraphe>
+			
+				<Paragraphe>La demande d'immatriculation s'effectue avec notamment :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe> <LienInterne LienPublication="R43157" type="Formulaire" audience="Particuliers">la fiche plaisance eaux maritimes</LienInterne> ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>le titre de navigation ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et un <LienInterne LienPublication="R38144" type="Modèle de document" audience="Particuliers">certificat de vente établi par l'ancien propriétaire</LienInterne>. </Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>La fiche plaisance eaux maritimes est à remettre à la délégation à la mer et au littoral concernée (services pour l'immatriculation d'un navire). </Paragraphe>
+			
+				<OuSAdresser ID="R41455" type="National">
+<Titre>Délégation à la mer et au littoral (services pour l'immatriculation d'un navire)</Titre>
+<RessourceWeb URL="http://www.developpement-durable.gouv.fr/Coordonnees-des-services-pour-l.html"/>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</OuSAdresser>
+
+			
+				<Paragraphe>Le numéro d'immatriculation est ensuite porté sur le titre de navigation.</Paragraphe>
+			<Attention>
+<Titre>Attention</Titre>
+				<Paragraphe>avant de procéder à l'immatriculation du navire, le plaisancier doit vérifier qu'il est en règle avec les obligations de <LienInterne LienPublication="F833" type="Fiche d'information" audience="Particuliers">francisation</LienInterne>.</Paragraphe>
+			</Attention>
+				<Paragraphe>En règle générale, la demande d'immatriculation est réalisée par l'acheteur du bateau.</Paragraphe>
+				<Paragraphe>Cependant, l'immatriculation peut être effectuée par le vendeur professionnel si l'acheteur lui en donne mandat.</Paragraphe>
+			
+				<Paragraphe>En cas de vente d'un bateau de plaisance ayant déjà fait l'objet d'un enregistrement, le vendeur doit déclarer la vente au <LienIntra LienID="R41455" type="National">service compétent</LienIntra> en indiquant l'identité et le domicile de l’acquéreur. </Paragraphe>
+			
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Outre-Mer</Paragraphe>
+</Titre>
+				<Paragraphe>La demande d'immatriculation  est obligatoire pour l'achat d'un bateau neuf ou d'occasion.</Paragraphe>
+			
+				<Paragraphe>La demande d'immatriculation s'effectue avec notamment :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe> <LienInterne LienPublication="R43157" type="Formulaire" audience="Particuliers">la fiche plaisance eaux maritimes</LienInterne> ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>le titre de navigation ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>et un <LienInterne LienPublication="R38144" type="Modèle de document" audience="Particuliers">certificat de vente établi par l'ancien propriétaire</LienInterne>. </Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>La fiche plaisance eaux maritimes est à remettre à la délégation à la mer et au littoral concernée (services pour l'immatriculation d'un navire). </Paragraphe>
+			
+				<OuSAdresser ID="R41455" type="National">
+<Titre>Délégation à la mer et au littoral (services pour l'immatriculation d'un navire)</Titre>
+<RessourceWeb URL="http://www.developpement-durable.gouv.fr/Coordonnees-des-services-pour-l.html"/>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</OuSAdresser>
+
+			
+				<Paragraphe>Le numéro d'immatriculation est ensuite porté sur le titre de navigation.</Paragraphe>
+			<Attention>
+<Titre>Attention</Titre>
+				<Paragraphe>avant de procéder à l'immatriculation du navire, le plaisancier doit vérifier qu'il est en règle avec les obligations de <LienInterne LienPublication="F833" type="Fiche d'information" audience="Particuliers">francisation</LienInterne>.</Paragraphe>
+			</Attention>
+				<Paragraphe>En règle générale, la demande d'immatriculation est réalisée par l'acheteur du bateau.</Paragraphe>
+				<Paragraphe>Cependant, l'immatriculation peut être effectuée par le vendeur professionnel si l'acheteur lui en donne mandat.</Paragraphe>
+			
+				<Paragraphe>En cas de vente d'un bateau de plaisance ayant déjà fait l'objet d'un enregistrement, le vendeur doit déclarer la vente au <LienIntra LienID="R41455" type="National">service compétent</LienIntra> en indiquant l'identité et le domicile de l’acquéreur. </Paragraphe>
+			
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Marques d'identification</Paragraphe>
+</Titre><Paragraphe>Les marques d'identification sont internes et externes. </Paragraphe>
+<Paragraphe>Ces marques d'identification internes ou externes sont en chiffres arabes et en caractères latins :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit sur couleur claire sur fond foncé ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit sur couleur foncée sur fond clair. </Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Changement de situation</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Changement du port d'attache</Paragraphe>
+</Titre><Paragraphe>Le plaisancier doit remplir le formulaire de demande de changement de port d'attache.</Paragraphe>
+<Paragraphe>Ce formulaire doit être envoyer :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> au bureau de douane du port d'attache d'origine du bateau ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et au bureau de douane du port d'attache auquel le vendeur destine son bateau. </Paragraphe>
+</Item>
+</Liste><ServiceEnLigne ID="R18664" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12811.do" numerocerfa="12811*01" type="Formulaire">
+<Titre>Demande de changement de port d'attache n°314</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+
+<OuSAdresser ID="R481" type="National">
+<Titre>Bureau de douane du port d'attache</Titre>
+<RessourceWeb URL="http://www.douane.gouv.fr/Portals/0/fichiers/particulier/navigation/navigation-liste-des-bureaux-de-douane.pdf"/>
+</OuSAdresser>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Autres changements</Paragraphe>
+</Titre><Paragraphe>Le plaisancier doit remplir une <LienInterne LienPublication="R43157" type="Formulaire" audience="Particuliers">nouvelle fiche plaisance eaux maritimes</LienInterne> et l'adresser à la <LienIntra LienID="R41455" type="National">délégation à la mer et au littoral</LienIntra> qui le concerne, accompagnée des pièces justificatives nécessaires notamment lorsqu'il :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>effectue un changement de moteur sur le navire ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>change de domicile ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>souhaite retirer le navire de la navigation (pour une <Citation>sortie de flotte</Citation>).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si le bateau est francisé, une copie de cette nouvelle fiche plaisance doit être adressée au bureau de douane du port d'attache.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R41455" type="National">
+<Titre>Délégation à la mer et au littoral (services pour l'immatriculation d'un navire)</Titre>
+<RessourceWeb URL="http://www.developpement-durable.gouv.fr/Coordonnees-des-services-pour-l.html"/>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</OuSAdresser>
+<OuSAdresser ID="R18209" type="Local">
+<Titre>Service pour le permis plaisance et l'immatriculation d'un navire Outre-mer</Titre>
+<RessourceWeb URL="http://www.developpement-durable.gouv.fr/Coordonnees-des-services-en-Outre.html"/>
+<Source ID="R43570">Ministère en charge de la mer et de la pêche</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020499038" ID="R20569">
+<Titre>Décret n°2009-393 du 8 avril 2009 fixant les marques d'identification des navires de plaisance en mer</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020499085" ID="R1180">
+<Titre>Arrêté du 8 avril 2009 relatif aux marques d'identification en mer des navires de plaisance</Titre>
+</Reference>
+<ServiceEnLigne ID="R43157" URL="http://www.developpement-durable.gouv.fr/IMG/spipdgmt/pdf/fiche_plaisance__08_2006_cle556823.pdf" format="application/pdf" poids="145.2 KB" type="Formulaire">
+<Titre>Fiche plaisance</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38144" URL="http://www.developpement-durable.gouv.fr/IMG/doc/Acte_de_vente_d_un_navire_de_plaisance_version_finale.doc" format="application/msword" poids="38.0 KB" type="Modèle de document">
+<Titre>Modèle d'acte de vente d'un navire de plaisance</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R20549" URL="http://www.developpement-durable.gouv.fr/Immatriculation-et-marques.html" audience="Particuliers">
+<Titre>Immatriculation et marques extérieures des navires</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F2725" audience="Particuliers">Faut-il assurer un bateau de plaisance ?</QuestionReponse>
+<QuestionReponse ID="F839" audience="Particuliers">Conduire un scooter des mers : quelles sont les règles ?</QuestionReponse>
+<QuestionReponse ID="F842" audience="Particuliers">Quels sont les contrôles envisageables lorsqu'on quitte les eaux françaises ?</QuestionReponse>
+<QuestionReponse ID="F33839" audience="Particuliers">Dans quels cas un bateau de plaisance doit-il être francisé ?</QuestionReponse>
+
+</Publication>

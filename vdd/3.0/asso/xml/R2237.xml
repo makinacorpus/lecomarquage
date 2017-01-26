@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R2237" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Faire une demande d'occupation temporaire du domaine public ou de la voie publique</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Faire une demande d'occupation temporaire du domaine public ou de la voie publique - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-18</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R2237</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R2237" type="Modèle de document">Faire une demande d'occupation temporaire du domaine public ou de la voie publique</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Texte><Paragraphe>
+<Variable>Nom et adresse de l'association ou du collectif</Variable>
+</Paragraphe>
+<Paragraphe>À <Variable>lieu</Variable> , le <Variable>date</Variable>
+</Paragraphe>
+<Paragraphe>Madame ou Monsieur le Maire (ou Madame ou Monsieur le Préfet),</Paragraphe>
+<Paragraphe>Je sollicite votre autorisation pour organiser <Variable>préciser le type d'événement</Variable> , sous l'appellation <Variable>indiquer le nom de l'événement</Variable> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le <Variable>date ou du ...</Variable>
+<Variable>au ...</Variable>
+<Variable>inclus,</Variable>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à <Variable>lieu.</Variable> </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le bon déroulement de la manifestation requiert une occupation temporaire du domaine public par l'association (ou le collectif) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le <Variable>date ou du ...au ...inclus</Variable>
+</Paragraphe>
+<Paragraphe>heure de début : <Variable>préciser l'heure</Variable>
+</Paragraphe>
+<Paragraphe>heure de fin : <Variable>préciser l'heure</Variable>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à l'endroit suivant (ou aux endroits suivants): </Paragraphe>
+<Paragraphe>place <Variable>s</Variable>: <Variable>préciser</Variable> </Paragraphe>
+<Paragraphe>boulevard <Variable>s</Variable> /avenue <Variable>s</Variable> /rue <Variable>s</Variable> : <Variable>préciser</Variable>
+</Paragraphe>
+<Paragraphe>parc <Variable>s</Variable> /jardin <Variable>s</Variable> : <Variable>préciser</Variable>
+</Paragraphe>
+<Paragraphe>abords du <Variable>des</Variable> bâtiment <Variable>s</Variable> public <Variable>s</Variable> : <Variable>préciser</Variable>
+</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>J'estime le nombre maximum de personnes susceptibles d'être rassemblées au même endroit au même moment à <Variable>indiquer le nombre</Variable>.</Paragraphe>
+<Paragraphe>Vous trouverez, ci-joint, la liste des personnes mandatées pour assurer la bonne organisation de l'événement, avec leurs nom, prénom et domicile.</Paragraphe>
+<Paragraphe>Je me tiens à votre disposition pour tout renseignement complémentaire que vous jugerez utile.</Paragraphe>
+<Paragraphe>Je vous prie d'agréer, Madame ou Monsieur le Maire (ou Madame ou Monsieur le Préfet), l'assurance de ma considération distinguée.</Paragraphe>
+<Paragraphe>Pour l'association (ou le collectif), le Président <Variable>Prénom, Nom et signature</Variable> </Paragraphe>
+<Paragraphe>Les responsables de l'organisation,</Paragraphe>
+<Paragraphe>
+<Variable>Prénom, nom et signature d'un 1er organisateur habitant dans le département concerné par l'événement</Variable> </Paragraphe>
+<Paragraphe>
+<Variable>Prénom, nom et signature d'un 2è organisateur habitant dans le département concerné par l'événement</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Prénom, nom et signature d'un 3è organisateur habitant dans le département concerné par l'événement</Variable>
+</Paragraphe>
+<Paragraphe>
+<Variable>Adresse de la mairie ou de la préfecture</Variable>
+</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F21899" audience="Associations" type="Fiche d'information">
+<Titre>Organisation d'un événement ou d'une manifestation sur la voie publique</Titre>
+<Dossier ID="N31332">Organisation d'événements par une association</Dossier>
+</FicheLiee>
+<Dossier ID="N31332">
+<Titre>Organisation d'événements par une association</Titre>
+<Audience>Associations</Audience>
+</Dossier>
+</ServiceComplementaire>

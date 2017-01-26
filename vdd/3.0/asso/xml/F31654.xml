@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31654" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire face à une association qui présente une dérive sectaire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Une association qui se comporte comme une secte doit être signalée. Alors connue de la Miviludes, elle est sanctionnée dès que nécessaire et possible.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-25</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31654</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006165293&amp;cidTexte=LEGITEXT000006070719, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000589924, http://circulaires.legifrance.gouv.fr/pdf/2011/10/cir_33852.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31331</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N31331">Assurance et responsabilité d'une association</Niveau>
+<Niveau ID="F31654" type="Fiche Question-réponse">Que faire face à une association qui présente une dérive sectaire ?</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+</Theme><DossierPere ID="N31331">
+<Titre>Assurance et responsabilité d'une association</Titre>
+<Fiche ID="F1124">Assurance</Fiche>
+<Fiche ID="F1127">Constitution de partie civile</Fiche>
+<Fiche ID="F1130">Responsabilité pénale</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Une association qui, au moyen de méthodes de manipulation mentale, prive  tout ou partie de ses membres des moyens d'exercer pleinement leur liberté de pensée, d'action et de mouvement, doit être signalée aux autorités. Elle sera suivie par la mission interministérielle de vigilance et de lutte contre les dérives sectaires (Miviludes). </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Enquêter sur une association sectaire</Paragraphe>
+</Titre><Paragraphe>Une association sectaire poursuit des activités visant à  créer, à maintenir ou à exploiter chez une personne un état de sujétion psychologique ou physique, la privant  de son libre arbitre (exemple, la déstabilisation mentale, la rupture avec l'entourage, etc.).</Paragraphe>
+<Paragraphe>Face à une association qui semble se comporter comme une secte, il faut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>recueillir toutes les <LienInterne LienPublication="F12104" type="Fiche Question-réponse" audience="Associations">informations sur l'association tenues à la disposition du public</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>demander l'avis de la Miviludes,</Paragraphe>
+</Item>
+</Liste>
+<ServiceEnLigne ID="R33452" URL="http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/obtenir-lavis-de-la-miviludes" type="Téléservice">
+<Titre>Interroger la Miviludes</Titre>
+<Source ID="R33451">Miviludes</Source>
+<Introduction>
+<Texte><Paragraphe>Permet d'obtenir l'avis de la mission interministérielle de vigilance et de lutte contre les dérives sectaires (Miviludes) sur une association donnée à travers des questions telles que "Est-elle ou non connue comme présentant des risques de dérives sectaires potentielles ou non ?" et "Si oui, quelles actions préventives sont en cours ?"</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+<Liste type="puce">
+<Item>
+<Paragraphe>relever les divers <LienExterne URL="http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/comment-la-d%C3%A9tecter">indices concrets démontrant un risque avéré de dérive sectaire</LienExterne>
+
+.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Alerter la Miviludes</Paragraphe>
+</Titre><BlocCas type="modalite" affichage="onglet">
+<Cas type="enLigne">
+<Titre>
+<Paragraphe>En ligne</Paragraphe>
+</Titre><ServiceEnLigne ID="R33450" URL="http://www.derives-sectes.gouv.fr/quelles-instances-saisir/informer-la-miviludes-d-une-derive-sectaire" type="Téléservice">
+<Titre>Alerter la Miviludes</Titre>
+<Source ID="R33451">Miviludes</Source>
+</ServiceEnLigne>
+
+
+</Cas>
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre><OuSAdresser ID="R33454" type="Local">
+<Titre>Correspondant local de la Miviludes</Titre>
+<RessourceWeb URL="http://www.derives-sectes.gouv.fr/conseils-et-principes-de-prudence/la-miviludes/les-ressources-en-r%C3%A9gions"/>
+<Source ID="R33451">Miviludes</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Porter plainte</Paragraphe>
+</Titre><Paragraphe>Vous pouvez :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous rendre au commissariat de police ou à la brigade de gendarmerie dès qu'une infraction est commise (comme par exemple, une <LienInterne LienPublication="F1520" type="Fiche d'information" audience="Particuliers">escroquerie</LienInterne>, un <LienInterne LienPublication="F1515" type="Fiche d'information" audience="Particuliers">abus de confiance</LienInterne>, un <LienInterne LienPublication="F2274" type="Fiche d'information" audience="Particuliers">abus sexuel sur mineur</LienInterne>, une <LienInterne LienPublication="F861" type="Fiche Question-réponse" audience="Particuliers">maltraitance de personne âgée</LienInterne>, etc.),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>porter plainte  pour abus  de faiblesse, si aucune infraction spécifique à des dérives sectaires ne peut être invoquée.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vous devez porter plainte contre l'association  (et  ses membres auteurs des infractions) afin que puisse être engagée sa <LienInterne LienPublication="F1130" type="Fiche d'information" audience="Associations">responsabilité pénale comme personne morale</LienInterne>.</Paragraphe>
+</Attention><BlocCas type="modalite" affichage="onglet" personnalisable="personnalisé sur SP">
+<Cas type="surPlace">
+<Titre>
+<Paragraphe>Sur place</Paragraphe>
+</Titre>
+										<Paragraphe>Vous devez vous adresser à un commissariat de police ou une brigade de gendarmerie.</Paragraphe>
+										<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+										<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+										<Paragraphe>La réception de la plainte ne peut pas vous être refusée.</Paragraphe>
+										<Paragraphe>La plainte est ensuite transmise au procureur de la République.</Paragraphe>
+									
+</Cas>
+<Cas type="parCorres">
+<Titre>
+<Paragraphe>Par correspondance</Paragraphe>
+</Titre>
+										<Paragraphe>Vous devez écrire directement au procureur de la République. Il faut envoyer une <LienInterne LienPublication="R11469" type="Modèle de document" audience="Particuliers">lettre sur papier libre</LienInterne> au tribunal de grande instance du lieu de l'infraction ou du domicile de l'auteur de l'infraction.</Paragraphe>
+										<Paragraphe>La lettre doit préciser :</Paragraphe>
+										<Liste type="puce">
+											<Item>
+												<Paragraphe>l'état civil complet du plaignant et ses coordonnées complètes (adresse et numéro de téléphone),</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>le récit détaillé des faits, la date et le lieu de l'infraction,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>le nom de l'auteur présumé s'il est connu du plaignant (à défaut, il convient de déposer plainte contre X),</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>les noms et adresses des éventuels témoins de cette infraction,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>la description et l'estimation provisoire ou définitive du préjudice,</Paragraphe>
+											</Item>
+											<Item>
+												<Paragraphe>les documents de preuve  : certificats médicaux constatant les blessures, arrêts de travail, factures diverses, constats en cas de dégâts matériels.</Paragraphe>
+												<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+											</Item>
+										</Liste>
+									
+										<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+									
+										<Paragraphe>Vous pouvez envoyer votre plainte en lettre recommandée avec accusé de réception mais ce n'est pas obligatoire, vous pouvez envoyer une lettre simple. Dans tous les cas, un récépissé vous sera remis dès que le procureur aura enregistré votre plainte.</Paragraphe>
+									
+</Cas>
+</BlocCas>
+
+
+</Chapitre>
+</Texte><OuSAdresser ID="R33454" type="Local">
+<Titre>Correspondant local de la Miviludes</Titre>
+<Complement>Pour alerter ou interroger les correspondants locaux de la Miviludes</Complement>
+<RessourceWeb URL="http://www.derives-sectes.gouv.fr/conseils-et-principes-de-prudence/la-miviludes/les-ressources-en-r%C3%A9gions"/>
+<Source ID="R33451">Miviludes</Source>
+</OuSAdresser>
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006165293&amp;cidTexte=LEGITEXT000006070719" ID="R33460">
+<Titre>Code pénal : articles 223-15-2 à 223-15-4</Titre>
+<Complement>Abus frauduleux de l'état d'ignorance ou de faiblesse</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000589924" ID="R32432">
+<Titre>Loi n°2001-504 du 12 juin 2001 tendant à renforcer la prévention et la répression des sectes</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2011/10/cir_33852.pdf" ID="R33459" format="application/pdf" poids="165.2 KB">
+<Titre>Circulaire de politique pénale du 19 septembre 2011 relative à la vigilance et la lutte contre les dérives sectaires</Titre>
+</Reference>
+<ServiceEnLigne ID="R33450" URL="http://www.derives-sectes.gouv.fr/quelles-instances-saisir/informer-la-miviludes-d-une-derive-sectaire" type="Téléservice">
+<Titre>Alerter la Miviludes</Titre>
+<Source ID="R33451">Miviludes</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33452" URL="http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/obtenir-lavis-de-la-miviludes" type="Téléservice">
+<Titre>Interroger la Miviludes</Titre>
+<Source ID="R33451">Miviludes</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R33457" URL="http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/que-dit-la-loi/les-d%C3%A9rives-sectaires-au-regard-du-droit-priv%C3%A9" audience="Associations">
+<Titre>Les dérives sectaires au regard du droit privé</Titre>
+<Source ID="R33451">Miviludes</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R33458" URL="http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/que-dit-la-loi/les-d%C3%A9rives-sectaires-au-regard-du-droit-administratif" audience="Associations">
+<Titre>Les dérives sectaires au regard du droit administratif</Titre>
+<Source ID="R33451">Miviludes</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R33455" URL="http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/comment-la-d%C3%A9tecter" audience="Associations">
+<Titre>Les indices caractérisant une dérive sectaire</Titre>
+<Source ID="R33451">Miviludes</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R33456" URL="http://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/o%C3%B9-la-d%C3%A9celer/international" audience="Associations">
+<Titre>Les stratégies internationales des mouvements sectaires</Titre>
+<Source ID="R33451">Miviludes</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F12104" audience="Associations">Comment se renseigner sur une association (ou un fonds de dotation) ?</QuestionReponse>
+
+</Publication>

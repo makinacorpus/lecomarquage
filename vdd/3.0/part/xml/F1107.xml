@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1107" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Pour quels travaux doit-on solliciter l'autorisation de la copropriété ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Les travaux sont soumis à l'autorisation préalable de la copropriété lorsqu'ils touchent aux parties communes ou à l'aspect extérieur de l'immeuble.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1107</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006471483&amp;cidTexte=LEGITEXT000006068256</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31341</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31341">Assemblée générale</Niveau>
+<Niveau ID="F1107" type="Fiche Question-réponse">Pour quels travaux doit-on solliciter l'autorisation de la copropriété ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31341">
+<Titre>Assemblée générale</Titre><SousDossier ID="N31341-1">
+<Titre>Réunion de copropriétaires (assemblée générale)</Titre>
+<Fiche ID="F2615">Organisation de l'assemblée générale des copropriétaires</Fiche>
+<Fiche ID="F2619">Copropriété : déroulement d'une assemblée générale</Fiche>
+<Fiche ID="F2636">Compte-rendu d'assemblée générale des copropriétaires (procès-verbal)</Fiche>
+</SousDossier>
+<SousDossier ID="N31341-2">
+<Titre>Prise de décision en copropriété (règles de vote)</Titre>
+<Fiche ID="F32065">Copropriété : décisions nécessitant un vote à la majorité simple</Fiche>
+<Fiche ID="F32066">Copropriété : décisions nécessitant un vote à la majorité absolue</Fiche>
+<Fiche ID="F2137">Copropriété : décisions votées à la double majorité ou à l'unanimité</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>L'autorisation préalable, par un <LienInterne LienPublication="F2619" type="Fiche d'information" audience="Particuliers">vote de l'assemblée générale</LienInterne>, est impérativement requise pour tous les travaux effectués par un copropriétaire :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>si ces travaux affectent les <LienIntra LienID="R44506" type="Définition de glossaire">parties communes</LienIntra> de l'immeuble,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou si, même effectués sur le <LienIntra LienID="R38693" type="Définition de glossaire">lot privatif</LienIntra> du copropriétaire, ils affectent l'aspect extérieur de l'immeuble (par exemple, modification de la couleur des volets, remplacement des fenêtres).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les règles de majorité (<LienInterne LienPublication="F32065" type="Fiche d'information" audience="Particuliers">simple</LienInterne>, <LienInterne LienPublication="F32066" type="Fiche d'information" audience="Particuliers">absolue</LienInterne>, <LienInterne LienPublication="F2137" type="Fiche d'information" audience="Particuliers">double majorité ou unanimité</LienInterne>) varient selon la nature des travaux envisagés.</Paragraphe>
+<Paragraphe>La copropriété est en droit d'exiger la remise en état des lieux aux frais du copropriétaire si celui-ci effectue des travaux en passant outre le vote en assemblée générale.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'autorisation accordée par l'assemblée générale ne dispense pas le copropriétaire de demander par ailleurs toutes les <LienInterne LienPublication="N319" type="Dossier" audience="Particuliers">autorisations d'urbanisme</LienInterne> éventuellement nécessaires.</Paragraphe>
+</Attention>
+</Texte><VoirAussi important="non">
+<Fiche ID="F31513" audience="Particuliers">
+<Titre>Travaux et aménagements dans un appartement (par le propriétaire occupant)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006471483&amp;cidTexte=LEGITEXT000006068256" ID="R33845">
+<Titre>Loi n°65-557 du 10 juillet 1965 : article 8</Titre>
+</Reference>
+<Definition ID="R44506">
+<Titre>Parties communes d'une copropriété</Titre>
+<Texte>
+				<Paragraphe>Parties des bâtiments (couloirs, chaudière, canalisation...) et des terrains (jardins, parcs...) affectées à l'usage de tous les copropriétaires ou de plusieurs d'entre eux</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R38693">
+<Titre>Lot de copropriété</Titre>
+<Texte>
+				<Paragraphe>Partie privative à l'usage exclusif de chaque copropriétaire et fraction de part des parties communes réservée à tous ou à certains d'entre eux seulement</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F3107" audience="Particuliers">Peut-on changer l'affectation d'un lot de copropriété ?</QuestionReponse>
+</Publication>

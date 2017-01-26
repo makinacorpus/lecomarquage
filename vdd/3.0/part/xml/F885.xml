@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F885" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Changement de prénom</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Toute personne peut demander à changer de prénom si elle justifie d'un intérêt légitime.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-21</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F885</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006420953&amp;idSectionTA=LEGISCTA000006149971&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006411816&amp;idSectionTA=LEGISCTA000025191507&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N151</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N151">Nom et prénom</Niveau>
+<Niveau ID="F885" type="Fiche d'information">Changement de prénom</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N151">
+<Titre>Nom et prénom</Titre><SousDossier ID="N151-1">
+<Titre>Nom de famille</Titre>
+<Fiche ID="F10505">Choix du nom de l'enfant à sa naissance : mère, père ou double-nom</Fiche>
+<Fiche ID="F10506">Changement du nom de l'enfant après sa naissance</Fiche>
+<Fiche ID="F1656">Changement de nom pour motif légitime</Fiche>
+</SousDossier>
+<SousDossier ID="N151-2">
+<Titre>Prénom</Titre>
+<Fiche ID="F882">Choix du prénom de l'enfant</Fiche>
+<Fiche ID="F885">Changement de prénom</Fiche>
+</SousDossier>
+<SousDossier ID="N151-3">
+<Titre>Nom d'usage</Titre>
+<Fiche ID="F868">Utilisation du nom de son mari ou de sa femme</Fiche>
+<Fiche ID="F1343">Utilisation du nom des deux parents</Fiche>
+</SousDossier>
+<SousDossier ID="N151-4">
+<Titre>Adoption</Titre>
+<Fiche ID="F2668">Nom de famille et adoption plénière</Fiche>
+<Fiche ID="F2621">Nom de famille et adoption simple</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Prénom</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Toute personne peut demander à changer de prénom si elle justifie d'un intérêt légitime.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Vous pouvez demander à changer de prénom si vous justifiez d'un intérêt légitime. Par exemple, si votre prénom ou la jonction entre votre nom et prénom est ridicule ou vous porte préjudice, vous pouvez demander à en changer. </Paragraphe>
+<Paragraphe>L'adjonction, la suppression ou la modification de l'ordre des prénoms peut également être demandée.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>une procédure différente existe pour la <LienInterne LienPublication="F10528" type="Fiche Question-réponse" audience="Particuliers">francisation du prénom</LienInterne>, lorsque celle-ci est effectuée au moment de l'acquisition de la nationalité française.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Paragraphe>L'intéressé doit adresser sa demande, en précisant les motifs, à la mairie de son lieu de résidence ou de son lieu de naissance.</Paragraphe><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si l'officier d'état civil estime que la demande ne revêt pas un intérêt légitime, il saisit le <LienIntra LienID="R1123" type="Définition de glossaire">procureur de la République</LienIntra>. Si le procureur s'oppose au changement de prénom, le demandeur peut saisir le <LienInterne LienPublication="F2176" type="Fiche avec liens externes" audience="Particuliers">juge aux affaires familiales</LienInterne>. </Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes né ou résidez à Paris</Paragraphe>
+</Titre><Paragraphe>L'intéressé doit adresser sa demande, en précisant les motifs, à la mairie de son lieu de résidence ou de son lieu de naissance.</Paragraphe><OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>si l'officier d'état civil estime que la demande ne revêt pas un intérêt légitime, il saisit le <LienIntra LienID="R1123" type="Définition de glossaire">procureur de la République</LienIntra>. Si le procureur s'oppose au changement de prénom, le demandeur peut saisir le <LienInterne LienPublication="F2176" type="Fiche avec liens externes" audience="Particuliers">juge aux affaires familiales</LienInterne>. </Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+
+<SousChapitre>
+<Titre>
+<Paragraphe>Qui peut faire la démarche ?</Paragraphe>
+</Titre><Paragraphe>Si le demandeur est un mineur ou un majeur en tutelle, la demande doit être faite par son représentant légal.</Paragraphe>
+<Paragraphe>Lorsque la demande est faite pour un enfant mineur de plus de 13 ans, le consentement de l'enfant est nécessaire.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Effets</Paragraphe>
+</Titre><Paragraphe>La décision est inscrite sur le registre de l'état-civil. </Paragraphe>
+<Paragraphe>Une fois l'acte de naissance mis à jour, il est possible de modifier ses titres d'identité.</Paragraphe>
+
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006420953&amp;idSectionTA=LEGISCTA000006149971&amp;cidTexte=LEGITEXT000006070721" ID="R19172">
+<Titre>Code civil : articles 60 à 61-4</Titre>
+<Complement>Changement de prénom et de nom</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006411816&amp;idSectionTA=LEGISCTA000025191507&amp;cidTexte=LEGITEXT000006070716" ID="R33019">
+<Titre>Code de procédure civile : articles 1055-1 à 1055-5</Titre>
+<Complement>Procédure de changement de prénom</Complement>
+</Reference>
+<Definition ID="R1123">
+<Titre>Procureur de la République</Titre>
+<Texte>
+				<Paragraphe>Magistrat à la tête du parquet (ou ministère public) au sein d'un tribunal de grande instance (TGI). Il est destinataire des plaintes et signalements. Il dirige les enquêtes, décide des poursuites et veille à l'application de la loi.</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

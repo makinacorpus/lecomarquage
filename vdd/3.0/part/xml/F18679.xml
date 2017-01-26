@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F18679" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Vol ou usurpation de plaques d'immatriculation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Transports</dc:subject>
+<dc:description>Si vous constatez le vol ou l'usurpation de vos plaques d'immatriculation, vous devez porter plainte très rapidement. Les démarches seront différentes selon qu'il s'agit d'un vol ou d'une usurpation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-25</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F18679</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159529&amp;cidTexte=LEGITEXT000006074228, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167492&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N367</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Automobiliste</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19812">Transports</Niveau>
+<Niveau ID="N367">Carte grise (certificat d'immatriculation)</Niveau>
+<Niveau ID="F18679" type="Fiche d'information">Vol ou usurpation de plaques d'immatriculation</Niveau>
+</FilDAriane>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+</Theme><DossierPere ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre><SousDossier ID="N367-1">
+<Titre>Immatriculer un véhicule</Titre>
+<Fiche ID="F10293">Immatriculer un véhicule neuf</Fiche>
+<Fiche ID="F1050">Immatriculer un véhicule d'occasion</Fiche>
+<Fiche ID="F1480">Hériter d'un véhicule</Fiche>
+<Fiche ID="F1726">Duplicata de la carte grise : perte, vol ou détérioration</Fiche>
+<Fiche ID="F1360">Obtenir un certificat de non gage</Fiche>
+<Fiche ID="F19211">Coût de la carte grise</Fiche>
+</SousDossier>
+<SousDossier ID="N367-2">
+<Titre>Titulaire du certificat et modification de sa situation</Titre>
+<Fiche ID="F10477">Titulaire et cotitulaire de la carte grise</Fiche>
+<Fiche ID="F12118">Changement d'adresse</Fiche>
+<Fiche ID="F10613">Ajouter une autre personne sur sa carte grise</Fiche>
+<Fiche ID="F31218">Retirer un nom au certificat</Fiche>
+<Fiche ID="F16876">Changement du nom du titulaire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-3">
+<Titre>Modifications du véhicule</Titre>
+<Fiche ID="F1754">Carte grise d'un véhicule retiré de la circulation</Fiche>
+<Fiche ID="F1473">Véhicule accidenté</Fiche>
+<Fiche ID="F1478">Véhicule transformé</Fiche>
+<Fiche ID="F1468">Véhicule à détruire</Fiche>
+</SousDossier>
+<SousDossier ID="N367-4">
+<Titre>Plaques d'immatriculation</Titre>
+<Fiche ID="F20319">Plaques d'immatriculation</Fiche>
+<Fiche ID="F18679">Vol ou usurpation de plaques d'immatriculation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Plaques d'immatriculation</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Si vous constatez le vol ou l'usurpation de vos plaques d'immatriculation, vous devez  porter plainte très rapidement. Les démarches seront différentes selon qu'il s'agit d'un vol ou d'une usurpation.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Vol des plaques</Titre>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Porter plainte</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En France</Paragraphe>
+</Titre><Paragraphe>Dès que vous constatez le vol de vos plaques d'immatriculation, vous devez <LienInterne LienPublication="F1435" type="Fiche d'information" audience="Particuliers">porter plainte</LienInterne>  au commissariat ou à la gendarmerie.</Paragraphe>
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À l'étranger</Paragraphe>
+</Titre><Paragraphe>Si le vol de plaques arrive alors que vous êtes à l'étranger, vous devrez le signaler à votre retour en France en  <LienInterne LienPublication="F1435" type="Fiche d'information" audience="Particuliers">portant plainte</LienInterne> au commissariat ou à la gendarmerie.</Paragraphe>
+<OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+<OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Nouvelles plaques d'immatriculation</Paragraphe>
+</Titre><Paragraphe>Le vol des plaques n'est pas assimilé à l'usurpation du numéro d'immatriculation et ne permet pas l'attribution d'une nouvelle immatriculation du véhicule.</Paragraphe>
+<Paragraphe>Vous devrez faire refaire vos plaques et les fixer à votre véhicule après avoir porté plainte.</Paragraphe>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Usurpation des plaques</Titre>
+<Texte><Paragraphe>L'usurpation de plaques d'immatriculation (appelée également <Expression>doublette</Expression>) est un délit consistant à utiliser de fausses plaques minéralogiques sur un véhicule ressemblant au vôtre. Vous êtes concerné si vous recevez des contraventions indiquant votre immatriculation alors que votre véhicule ne peut être à l'endroit où la contravention a été constatée.</Paragraphe>
+<Chapitre>
+<Titre>
+<Paragraphe>Contester l'amende</Paragraphe>
+</Titre><Paragraphe>Si vous recevez une amende pour une infraction qui ne peut pas concerner votre véhicule même si l'immatriculation est identique, vous êtes probablement victime d'une usurpation de vos plaques.</Paragraphe>
+<Paragraphe>Vous devez contester cette amende dans les 45 jours.</Paragraphe>
+<Paragraphe>Vous pouvez le faire en renvoyant le document joint à votre contravention ou en utilisant le formulaire en ligne :</Paragraphe><ServiceEnLigne ID="R42185" URL="https://www.usagers.antai.gouv.fr/fr/demarches/saisienumero;jsessionid=FB91EE91ECBD4AFABBA1020E790B9099" type="Téléservice">
+<Titre>Avis de contravention : contestation en ligne</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de contester en ligne un avis de contravention ou une amende majorée </Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Porter plainte</Paragraphe>
+</Titre><Paragraphe>Il faut <LienInterne LienPublication="F1435" type="Fiche d'information" audience="Particuliers">porter plainte</LienInterne> pour usurpation de plaques :</Paragraphe>
+<BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Au commissariat</Paragraphe>
+</Titre><OuSAdresser ID="R13" type="Local personnalisé sur SP">
+<Titre>Commissariat de police</Titre>
+<PivotLocal>commissariat_police</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À la gendarmerie</Paragraphe>
+</Titre><OuSAdresser ID="R8" type="Local personnalisé sur SP">
+<Titre>Brigade de gendarmerie</Titre>
+<PivotLocal>gendarmerie</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Contact/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>Le numéro d'immatriculation est enregistré au fichier des véhicules volés (FVV) lors de ce  dépôt de plainte. </Paragraphe>
+<Paragraphe>Vous recevez un récépissé de dépôt de plainte.</Paragraphe>
+<Paragraphe>Si vous déposez plainte à la suite  d'une infraction constatée  par un radar automatique, vous devez  joindre à votre plainte la photo constatant cette infraction. Vous devez pour cela la  demander au centre automatisé de constatation des infractions routières.</Paragraphe><OuSAdresser ID="R43334" type="Centre de contact">
+<Titre>Centre automatisé de constatation des infractions routières (Cacir)</Titre><Texte>
+						
+								<Paragraphe>Pour obtenir gratuitement la photo de votre véhicule prise par un radar automatique.</Paragraphe>
+								<Paragraphe>Joindre copie de la carte grise, d'une pièce d'identité et de l'avis de contravention.</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier (lettre simple)</Paragraphe>
+</Titre>
+								<Paragraphe>CS 41101</Paragraphe>
+								<Paragraphe>35911 RENNES Cedex</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Demande d'une nouvelle carte grise</Paragraphe>
+</Titre><Paragraphe>Après avoir porté plainte, vous devez ensuite vous rendre à la préfecture ou à la sous-préfecture (ou au service des cartes grises de la préfecture de police si vous habitez à Paris).</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14145" type="Local personnalisé sur SP">
+<Titre>Sous-préfecture</Titre>
+<PivotLocal>sous_pref</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R22425" type="Local personnalisé sur SP">
+<Titre>Préfecture de police de Paris - Bureau des cartes grises</Titre>
+<PivotLocal>paris_ppp_certificat_immatriculation</PivotLocal>
+<RessourceWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Permis-de-conduire-et-papiers-du-vehicule/Certificat-immatriculation/Contacts/Nous-contacter-Certificat-d-immatriculation"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+<Paragraphe>Vous devez disposer pour cela  des documents suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le récépissé de dépôt de plainte,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la carte grise (certificat d'immatriculation),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une <LienInterne LienPublication="F1028" type="Fiche Question-réponse" audience="Particuliers">pièce d'identité</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un justificatif de domicile,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et éventuellement la photo du radar automatique constatant l'infraction.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Une nouvelle immatriculation et une nouvelle carte grise vous seront attribuées.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Le dépôt de plainte est gratuit.</Paragraphe>
+<Paragraphe>Dans le cas d'une usurpation de plaques, l'obtention d'un nouveau numéro d'immatriculation et d'une nouvelle carte grise est également gratuite dès lors que vous présentez un récépissé du dépôt de plainte.</Paragraphe>
+<Paragraphe>Cependant, des <LienInterne LienPublication="F19211" type="Fiche d'information" audience="Particuliers">frais d'acheminement de la carte</LienInterne> par courrier peuvent vous être réclamés.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>vous devrez également faire réaliser et payer  vos nouvelles plaques, ainsi que  les fixer à votre véhicule.</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006159529&amp;cidTexte=LEGITEXT000006074228" ID="R379">
+<Titre>Code de la route : articles L317-1 à L317-9</Titre>
+<Complement>Dispositifs et aménagements techniques du véhicule</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006167492&amp;cidTexte=LEGITEXT000006071154" ID="R2286">
+<Titre>Code de procédure pénale : articles 529-7 à 529-11</Titre>
+<Complement>Dispositions applicables à certaines infractions au code de la route</Complement>
+</Reference>
+<QuestionReponse ID="F1028" audience="Particuliers">Carte grise (certificat d'immatriculation) : comment justifier de son domicile ?</QuestionReponse>
+
+</Publication>

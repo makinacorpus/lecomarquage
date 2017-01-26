@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2005" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Handicap : foyer de vie</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Les foyers de vie (ou foyers occupationnels) sont des établissements qui accueillent des adultes handicapés ayant une certaine autonomie pour leur proposer des animations, des activités en fonction de leur handicap. Certaines structures peuvent également proposer un hébergement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-19</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2005</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157638&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190130&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190129&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N332</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N332">Hébergement d'une personne en situation de handicap</Niveau>
+<Niveau ID="F2005" type="Fiche d'information">Handicap : foyer de vie</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20270">Handicap</SousThemePere><DossierPere ID="N332">
+<Titre>Hébergement d'une personne en situation de handicap</Titre><SousDossier ID="N332-1">
+<Titre>Séjour court ou non médicalisé</Titre>
+<Fiche ID="F10468">Accueil temporaire en établissement</Fiche>
+<Fiche ID="F2005">Foyer de vie ou occupationnel</Fiche>
+<Fiche ID="F15234">Foyer d'hébergement pour travailleurs handicapés</Fiche>
+</SousDossier>
+<SousDossier ID="N332-2">
+<Titre>Séjour long et médicalisé</Titre>
+<Fiche ID="F15255">Foyer d'accueil médicalisé</Fiche>
+<Fiche ID="F2006">Maison d'accueil spécialisée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Séjour court ou non médicalisé</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les foyers de vie (ou foyers occupationnels) sont des établissements qui accueillent des adultes handicapés ayant une certaine autonomie pour leur proposer des animations, des activités en fonction de leur handicap.
+			Certaines structures peuvent également proposer un hébergement.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Ces établissements proposent des activités diverses adaptées aux capacités des résidents :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> activités manuelles (sculpture, peinture...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> activités sportives (gymnastique, expression corporelle...).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Différents types d'accueil sont proposés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'accueil temporaire, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'accueil de jour,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>voire, l'internat.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>les foyers de vie sont destinés aux personnes ne relevant ni d'un <LienInterne LienPublication="F1654" type="Fiche d'information" audience="Particuliers">établissement et service d'aide par le travail (Ésat)</LienInterne>, ni d'une <LienInterne LienPublication="F2006" type="Fiche d'information" audience="Particuliers">maison d'accueil spécialisée (Mas)</LienInterne>, ni d'un <LienInterne LienPublication="F15255" type="Fiche d'information" audience="Particuliers">foyer d'accueil médicalisé (Fam)</LienInterne>.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Personnes concernées</Paragraphe>
+</Titre><Paragraphe>Les personnes susceptibles d'être accueillies en foyer de vie doivent bénéficier d'une autonomie suffisante pour se livrer à des occupations quotidiennes.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Pour pouvoir être admis en Fam, vous devez déposer votre demande au moyen d'un formulaire.</Paragraphe><ServiceEnLigne ID="R19993" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13788.do" numerocerfa="13788*01" type="Formulaire">
+<Titre>Formulaire de demande(s) de prestations liées au handicap</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R19994" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13788*01&amp;cerfaNotice=51299" numerocerfa="51299*01">Notice explicative du formulaire de demande(s) auprès de la maison départementale des personnes handicapées (MDPH)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13878*01">
+<Titre>Certificat médical adulte/enfant</Titre>
+<Texte><Paragraphe>À joindre à toutes demandes de prestations</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13878.do"/><NoticeLiee ID="R19497" URL="http://www.cnsa.fr/documentation/mode_d_emploi_certificat_mdph_octobre_2009.pdf" format="pdf" poids="27.3 KB">Guide d'utilisation du certificat médical destiné à la MDPH</NoticeLiee>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+
+<Paragraphe> Ce document doit être envoyé à la maison départementale des personnes handicapées (MDPH), de préférence par lettre recommandée avec accusé de réception.</Paragraphe><OuSAdresser ID="R14" type="Local personnalisé sur SP">
+<Titre>Maison départementale des personnes handicapées (MDPH)</Titre>
+<PivotLocal>maison_handicapees</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=MDPH&amp;where="/>
+</OuSAdresser>
+
+<Paragraphe>La commission des droits et de l'autonomie des personnes handicapées (CDAPH) se réunit ensuite pour se prononcer sur la demande d'admission.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Frais d'hébergement et d'entretien</Paragraphe>
+</Titre><Paragraphe>Vous devez participer aux frais d'hébergement et d'entretien.</Paragraphe>
+<Paragraphe>Cette participation est calculée en fonction de vos ressources et est plafonnée afin que vous conserviez un minimum de moyens financiers équivalent à 10% de vos ressources.</Paragraphe>
+<Paragraphe>Si vous êtes hébergé en pension complète, ce montant ne peut pas être inférieur à 30 % du montant mensuel de l'allocation pour adulte handicapé (AAH), soit <Valeur>242,54 €</Valeur>.</Paragraphe>
+<Paragraphe>Compte tenu de la somme laissée à votre disposition, le surplus des frais d'hébergement et d'entretien est pris en charge par l'aide sociale du département. </Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Récupération des sommes versées</Paragraphe>
+</Titre><Paragraphe>En cas de décès, les sommes versées au titre de l'aide sociale ne sont pas récupérables sur votre succession.</Paragraphe>
+<Paragraphe>Ces sommes ne font pas non plus l'objet de recouvrement à votre encontre en cas d'amélioration de votre situation financière.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Dossier ID="N332" audience="Particuliers">
+<Titre>Hébergement d'une personne en situation de handicap</Titre>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006157638&amp;cidTexte=LEGITEXT000006074069" ID="R15235">
+<Titre>Code de l'action sociale et des familles : articles L344-1 à L344-7</Titre>
+<Complement>Caractéristiques des foyers de vie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190130&amp;cidTexte=LEGITEXT000006074069" ID="R15236">
+<Titre>Code de l'action sociale et des familles : articles R344-29 à R344-33</Titre>
+<Complement>Frais d'hébergement et d'entretien</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006190129&amp;cidTexte=LEGITEXT000006074069" ID="R15237">
+<Titre>Code de l'action sociale et des familles : articles D344-35 à D344-39</Titre>
+<Complement>Frais d'hébergement et d'entretien</Complement>
+</Reference>
+<ServiceEnLigne ID="R19993" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13788.do" numerocerfa="13788*01" type="Formulaire">
+<Titre>Formulaire de demande(s) de prestations liées au handicap</Titre>
+<Source ID="R30673">Ministère en charge des affaires sociales</Source><NoticeLiee ID="R19994" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=13788*01&amp;cerfaNotice=51299" numerocerfa="51299*01">Notice explicative du formulaire de demande(s) auprès de la maison départementale des personnes handicapées (MDPH)</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="13878*01">
+<Titre>Certificat médical adulte/enfant</Titre>
+<Texte><Paragraphe>À joindre à toutes demandes de prestations</Paragraphe>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13878.do"/><NoticeLiee ID="R19497" URL="http://www.cnsa.fr/documentation/mode_d_emploi_certificat_mdph_octobre_2009.pdf" format="pdf" poids="27.3 KB">Guide d'utilisation du certificat médical destiné à la MDPH</NoticeLiee>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<CommentFaireSi ID="F31029">Je suis en situation de handicap</CommentFaireSi>
+</Publication>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32489" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment télécharger légalement des livres électroniques ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Loisirs</dc:subject>
+<dc:description>Il est possible de se procurer légalement des livres au format électronique (ou ebooks) sur internet. Les conditions de prêt et de revente diffèrent des livres sur support papier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32489</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006279236&amp;cidTexte=LEGITEXT000006069414</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N17914</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19809">Loisirs</Niveau>
+<Niveau ID="N17914">Culture et télévision</Niveau>
+<Niveau ID="F32489" type="Fiche Question-réponse">Comment télécharger légalement des livres électroniques ?</Niveau>
+</FilDAriane>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+<SousThemePere ID="N150">Temps libre</SousThemePere><DossierPere ID="N17914">
+<Titre>Culture et télévision</Titre>
+<Fiche ID="F20348">Entrée gratuite au musée pour les jeunes</Fiche>
+<Fiche ID="F108">Accès gratuit au musée pour les enseignants</Fiche>
+<Fiche ID="F32297">Téléchargement légal de musique et de films</Fiche>
+<Fiche ID="F32452">Téléchargement légal de jeux vidéo</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Il est possible de se procurer légalement des livres au format électronique (ou ebooks) sur internet. Les conditions de prêt et de revente diffèrent des livres sur support papier.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Les livres électroniques (ou<Expression> ebooks</Expression>) peuvent être lus sur un ordinateur ou une tablette. Un logiciel ou une application spécifique est souvent nécessaire. Il existe également des liseuses spécifiques pour ce type d'ouvrages.</Paragraphe>
+<Paragraphe>Le lecteur garde définitivement ses livres, il peut y accéder avec ou sans connexion internet permanente.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Trouver un site légal de téléchargement</Paragraphe>
+</Titre><Paragraphe>Ce site de la <LienInterne LienPublication="R36989" type="Acronyme">Hadopi</LienInterne> permet de trouver des livres à télécharger légalement sur différentes plateformes.</Paragraphe><ServiceEnLigne ID="R37057" URL="http://www.offrelegale.fr/" type="Téléservice">
+<Titre>Rechercher un site d'offre légale (films, musique, livres, jeux vidéo)</Titre>
+<Source ID="R36986">Hadopi</Source>
+<Texte><Paragraphe>Ce site recense de nombreux sites d'offre légale de films et/ou de musique. Il liste aussi les sites permettant de télécharger légalement des jeux vidéo.</Paragraphe>
+
+</Texte>
+</ServiceEnLigne>
+
+<Attention>
+<Titre>Attention</Titre><Paragraphe>télécharger des livres sur des sites non autorisés est <LienInterne LienPublication="F32108" type="Fiche d'information" audience="Particuliers">illégal</LienInterne> au même titre que le téléchargement de films ou de musiques.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Prix d'un livre électronique</Paragraphe>
+</Titre><Paragraphe>Les livres électroniques à l'unité sont soumis au <LienInterne LienPublication="F22713" type="Fiche d'information" audience="Professionnels">prix unique des livres</LienInterne>. Un même livre électronique doit donc être vendu au même prix (fixé par l'éditeur) par tous les sites français. Les sites peuvent toutefois accorder une réduction de 5% maximum.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le prix appliqué pour un livre électronique peut être différent du prix appliqué au même livre en format papier.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Partage et revente des livres</Paragraphe>
+</Titre><Paragraphe>Il n'est généralement pas possible de prêter ou de vendre à une autre personne ses livres électroniques légalement achetés. </Paragraphe>
+<Paragraphe>En effet, ces livres  possèdent souvent des protections techniques empêchant leur libre diffusion.</Paragraphe>
+<Paragraphe>Utiliser une technique portant atteinte à ces protections est puni d'une amende allant jusqu'à <Valeur>3 750 €</Valeur>. L'infraction est punie même si le livre a été acheté légalement.</Paragraphe>
+<Paragraphe>Diffuser de tels moyens techniques est puni jusqu'à :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>6 mois de prison,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et <Valeur>30 000 €</Valeur> d'amende</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F32297" audience="Particuliers">
+<Titre>Musique et films légaux sur internet</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F32452" audience="Particuliers">
+<Titre>Téléchargement légal de jeux vidéo</Titre>
+<Theme ID="N19809">
+<Titre>Loisirs</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006279236&amp;cidTexte=LEGITEXT000006069414" ID="R39315">
+<Titre>Code de la propriété intellectuelle : article L335-3-1</Titre>
+<Complement>Peines encourues en cas d'atteinte aux moyens techniques de protection</Complement>
+</Reference>
+<ServiceEnLigne ID="R37057" URL="http://www.offrelegale.fr/" type="Téléservice">
+<Titre>Rechercher un site d'offre légale (films, musique, livres, jeux vidéo)</Titre>
+<Source ID="R36986">Hadopi</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R39314" URL="http://gallica.bnf.fr/" audience="Particuliers">
+<Titre>Pour trouver des livres anciens</Titre>
+<Source ID="R30686">Bibliothèque nationale de France (BNF)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R39304" URL="http://www.hadopi.fr/sites/default/files/livres_0.pdf" audience="Particuliers" format="application/pdf" poids="424.4 KB">
+<Titre>Offre légale de livres</Titre>
+<Source ID="R36986">Hadopi</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41481" URL="http://www.hadopi.fr/" audience="Particuliers">
+<Titre>Site officiel de la Hadopi</Titre>
+<Source ID="R36986">Hadopi</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R36989" type="Acronyme">
+<Titre>Hadopi</Titre>
+<Texte>
+<Paragraphe>Haute autorité pour la diffusion des œuvres et la protection des droits sur internet</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31195" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment savoir si une entreprise fait l'objet d'une procédure collective ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Gestion - Finances</dc:subject>
+<dc:description>Pour un créancier, il est important de savoir au plus tôt si son débiteur fait l'objet d'une procédure collective ou même seulement s'il rencontre des difficultés pouvant l'y conduire. Pour cela il dispose de plusieurs moyens d'information.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-03-02</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31195</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028723962&amp;cidTexte=LEGITEXT000005634379, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000029175231&amp;cidTexte=LEGITEXT000005634379</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31391</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24266">Gestion - Finances</Niveau>
+<Niveau ID="N31391">Prévention des difficultés</Niveau>
+<Niveau ID="F31195" type="Fiche Question-réponse">Comment savoir si une entreprise fait l'objet d'une procédure collective ?</Niveau>
+</FilDAriane>
+<Theme ID="N24266">
+<Titre>Gestion - Finances</Titre>
+</Theme>
+<SousThemePere ID="N31390">Entreprises en difficulté</SousThemePere><DossierPere ID="N31391">
+<Titre>Prévention des difficultés</Titre>
+<Fiche ID="F22316">Aides publiques en cas de difficulté d'une entreprise</Fiche>
+<Fiche ID="F22321">Alertes pour la prévention des difficultés des entreprises</Fiche>
+<Fiche ID="F22290">Mandat ad hoc</Fiche>
+<Fiche ID="F22295">Conciliation</Fiche>
+<Fiche ID="F22311">Sauvegarde</Fiche>
+<Fiche ID="F22327">Sauvegardes accélérées</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte>
+<Paragraphe>Pour un créancier, il est important de savoir au plus tôt si son débiteur fait l'objet d'une procédure collective ou même seulement s'il rencontre des difficultés pouvant l'y conduire. Pour cela il dispose de plusieurs moyens d'information.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Information par le représentant des créanciers ou par le liquidateur</Paragraphe>
+</Titre>
+<Paragraphe>Dans les 15 jours du jugement d'ouverture d'une procédure collective, le représentant des créanciers ou le liquidateur doit aviser les créanciers dont il a connaissance, afin qu'ils puissent déclarer leur créance dans le délai légal.</Paragraphe>
+<Paragraphe>Les créanciers qui bénéficient d'une <LienIntra LienID="R32988" type="Définition de glossaire">sûreté</LienIntra> (gage, hypothèque..) ou d'un contrat ayant fait l'objet d'une publicité (crédit bail...) doivent être avisés obligatoirement par lettre recommandée avec demande d'avis de réception.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Information par le créancier lui-même</Paragraphe>
+</Titre>
+<Paragraphe>Le créancier peut aussi s'informer par lui-même de la situation de son débiteur pour éviter tout risque de <LienIntra LienID="R1078" type="Définition de glossaire">forclusion</LienIntra>, pour le cas où il n'aurait pas été avisé.</Paragraphe>
+<Paragraphe>Plusieurs possibilités lui sont offertes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>consultation du <LienInterne LienPublication="R31617" type="Acronyme">Bodacc</LienInterne> ou des journaux d'annonces légales (JAL) : le créancier peut trouver les renseignements relatifs au jugement d'ouverture en <LienInterne LienPublication="R20462" type="Téléservice" audience="Professionnels">consultant le Bodacc</LienInterne> ou le <LienInterne LienPublication="R31457" type="Téléservice" audience="Professionnels">JAL</LienInterne> du lieu où son débiteur a le siège de son entreprise ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>tribunal de commerce : il peut aussi obtenir toutes informations utiles en s'adressant au greffe du tribunal de commerce (ou du tribunal de grande instance quand il n'existe pas de tribunal de commerce) où est immatriculé le débiteur ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="R19859" type="Téléservice" audience="Professionnels">recherche sur les entreprises immatriculées au RCS</LienInterne> : il est possible d'obtenir un certificat attestant de l'existence ou de l'absence d'une procédure collective ainsi que les copies des jugements. Il est également possible de surveiller une entreprise et d'être alerté de l'ouverture d'une procédure collective.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R29" type="Local personnalisé sur SP">
+<Titre>Greffe du tribunal de commerce</Titre>
+<PivotLocal>tribunal_commerce</PivotLocal>
+<RessourceWeb URL="https://www.infogreffe.fr/societes/recherche-greffe-tribunal/chercher-greffe-tribunal-de-commerce.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028723962&amp;cidTexte=LEGITEXT000005634379" ID="R40810">
+<Titre>Code de commerce : article L622-24</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000029175231&amp;cidTexte=LEGITEXT000005634379" ID="R40811">
+<Titre>Code de commerce : article R622-21</Titre>
+</Reference>
+<ServiceEnLigne ID="R20462" URL="http://www.bodacc.fr/" type="Téléservice">
+<Titre>Consultation du Bulletin officiel des annonces civiles et commerciales (Bodacc)</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R31457" URL="https://www.pple.fr/" type="Téléservice">
+<Titre>Portail de la publicité légale des entreprises (PPLE)</Titre>
+<Source ID="R31458">Groupement d'intérêt public GIP-PPLE</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19859" URL="https://www.infogreffe.fr/societes/documents-officiels/demande-kbis.html" type="Téléservice">
+<Titre>Recherche sur les entreprises immatriculées au RCS</Titre>
+<Source ID="R30754">Infogreffe</Source>
+</ServiceEnLigne>
+<Definition ID="R32988">
+<Titre>Sûreté</Titre>
+<Texte>
+				<Paragraphe>En droit du crédit,  garantie accordée à un créancier, qui lui permet d'obtenir paiement en cas de défaillance du débiteur, par affectation d'un bien (sûreté réelle : hypothèque ou gage) ou apportée par un tiers (sûreté personnelle : cautionnement).</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1078">
+<Titre>Forclusion</Titre>
+<Texte>
+				<Paragraphe>Perte d'un droit à agir en justice en raison de l'expiration du délai</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R31617" type="Acronyme">
+<Titre>Bodacc</Titre>
+<Texte>
+<Paragraphe>Bulletin officiel des annonces civiles et commerciales</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

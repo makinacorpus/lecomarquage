@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18398" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'inscription ou de renouvellement d'une publication de presse à la CPPAP</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Financement et fiscalité d'une association, Secteurs d'activité</dc:subject>
+<dc:description>Demande d'inscription ou de renouvellement d'une publication de presse à la CPPAP - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-11</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18398</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N18471">Secteur du livre et de la presse</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18398" type="Formulaire">Demande d'inscription ou de renouvellement d'une publication de presse à la CPPAP</Niveau>
+</FilDAriane>
+<Theme ID="N31405">
+<Titre>Financement et fiscalité d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>12352*04</NumeroCerfa>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12352.do" format="application/pdf" poids="174.3 KB">
+<Source>Commission paritaire des publications et agences de presse (CPPAP)</Source>
+</LienWeb>
+<FicheLiee ID="F34008" audience="Associations" type="Fiche d'information">
+<Titre>Associations éditrices de revues : règles d'application du régime de la "TVA presse"</Titre>
+<Dossier ID="N31626">Fiscalité d'une association</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22767" audience="Professionnels" type="Fiche d'information">
+<Titre>Presse : inscription auprès de la CPPAP</Titre>
+<Dossier ID="N18471">Secteur du livre et de la presse</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22672" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Quelles sont les mentions obligatoires sur les publications ?</Titre>
+<Dossier ID="N18471">Secteur du livre et de la presse</Dossier>
+</FicheLiee><OuSAdresser ID="R23001" type="Centre de contact">
+<Titre>Commission paritaire des publications et agences de presse (CPPAP)</Titre>
+<Source ID="R30824">Commission paritaire des publications et agences de presse (CPPAP)</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3, rue de Valois
+		</Paragraphe>
+								<Paragraphe>
+			75033 Paris Cedex 01</Paragraphe>
+								<Paragraphe>
+			Pour les dépôts de plis par coursier, s'adresser au 3 rue Montesquieu, 75001 Paris, de 7h à 12h et de 13h à 16h.
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>
+			cppap(at)culture.gouv.fr
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 40 15 38 03
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par télécopie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 40 15 38 95
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+</ServiceComplementaire>

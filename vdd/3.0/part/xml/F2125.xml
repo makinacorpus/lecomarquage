@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2125" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'un alignement individuel et dans quel cas est-il nécessaire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>L'alignement individuel est un acte qui permet de fixer la limite entre la voie publique et votre propriété.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-03</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2125</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/./affichCode.do?idArticle=LEGIARTI000022496765&amp;idSectionTA=LEGISCTA000006149494&amp;cidTexte=LEGITEXT000006070667</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N319</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N319">Autorisations d'urbanisme</Niveau>
+<Niveau ID="F2125" type="Fiche Question-réponse">Qu'est-ce qu'un alignement individuel et dans quel cas est-il nécessaire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N557">Urbanisme</SousThemePere><DossierPere ID="N319">
+<Titre>Autorisations d'urbanisme</Titre>
+<Fiche ID="F1633">Certificat d'urbanisme</Fiche>
+<Fiche ID="F17578">Déclaration préalable de travaux</Fiche>
+<Fiche ID="F1986">Permis de construire</Fiche>
+<Fiche ID="F17665">Permis d'aménager</Fiche>
+<Fiche ID="F19450">Permis modificatif (permis de construire ou d'aménager)</Fiche>
+<Fiche ID="F17669">Permis de démolir</Fiche>
+<Fiche ID="F2698">Transfert d'un permis de construire ou d'aménager</Fiche>
+<Fiche ID="F20567">Contestation d'une autorisation d'urbanisme</Fiche>
+<Fiche ID="F23263">Taxe d'aménagement</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>L'alignement individuel est un acte qui permet de fixer la limite entre la voie publique et votre propriété.</Paragraphe>
+<Paragraphe>Cet acte peut être demandé :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>avant l'acquisition de votre propriété pour valider vos droits à faire évoluer votre futur bien (en réalisant une extension par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou après son acquisition dès lors que vous envisagez de réaliser des travaux tels que la pose d'une clôture afin qu'elle n'empiète pas sur la limite de la voie publique.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'acte est gratuit et prend la forme d'un arrêté.</Paragraphe>
+<Paragraphe>La demande d'alignement doit être effectuée sur papier libre auprès :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la préfecture s'il s'agit d'une route nationale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des services du département s'il s'agit d'une route départementale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la mairie s'il s'agit d'une route communale.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Votre courrier doit comporter :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>votre nom et adresse,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la description des travaux projetés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et la désignation de l'immeuble et de la voie.</Paragraphe>
+</Item>
+</Liste>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R3" type="Local personnalisé sur SP">
+<Titre>Services du département</Titre>
+<PivotLocal>cg</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/recherche?whoWhat=Conseil+d%C3%A9partemental&amp;where="/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre><OuSAdresser ID="R1192" type="Local personnalisable">
+<Titre>Préfecture de Paris</Titre>
+<PivotLocal>paris_prefecture</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/ile-de-france/paris/prefecture-75115-01"/>
+</OuSAdresser>
+
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/./affichCode.do?idArticle=LEGIARTI000022496765&amp;idSectionTA=LEGISCTA000006149494&amp;cidTexte=LEGITEXT000006070667" ID="R22267">
+<Titre>Code de la voirie routière : articles L112-1 à L112-7</Titre>
+<Complement>Caractéristiques et démarche</Complement>
+</Reference>
+<QuestionReponse ID="F914" audience="Particuliers">Quelles sont les règles de hauteur et de distance pour un mur de clôture ?</QuestionReponse>
+<QuestionReponse ID="F3131" audience="Particuliers">Quelles sont les règles pour l'implantation de clôtures ?</QuestionReponse>
+</Publication>

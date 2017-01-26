@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R44839" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'agrément pour une société de domiciliation d'entreprise (personne morale)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>À faire compléter également par chaque dirigeant, actionnaire et associé détenant au moins 25 % des voix, parts ou droits de vote de la société.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-27</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R44839</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16178">Formalités de la création d'entreprise</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R44839" type="Formulaire">Demande d'agrément pour une société de domiciliation d'entreprise (personne morale)</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<LienWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/content/download/729/3911/file/declaration_societe.pdf" format="application/pdf" poids="49.9 KB">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb>
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>Attestation d'honorabilité</Titre>
+<Texte><Paragraphe>À faire compléter également par chaque dirigeant, actionnaire et associé détenant au moins <Valeur>25 %</Valeur> des voix, parts ou droits de vote de la société.</Paragraphe>
+</Texte>
+<LienWeb URL="http://www.prefecturedepolice.interieur.gouv.fr/content/download/730/3915/file/attestation_honorabilite.pdf" format="application/pdf" poids="90.2 KB"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F33830" audience="Professionnels" type="Fiche d'information">
+<Titre>Société de domiciliation d'entreprise</Titre>
+<Dossier ID="N16178">Formalités de la création d'entreprise</Dossier>
+</FicheLiee><OuSAdresser ID="R2" type="Local personnalisé sur SP">
+<Titre>Préfecture</Titre>
+<PivotLocal>prefecture</PivotLocal>
+<RessourceWeb URL="http://www.interieur.gouv.fr/Le-ministere/Prefectures"/>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</OuSAdresser>
+<OuSAdresser ID="R44837" type="National">
+<Titre>Préfecture de police de Paris - Section professions immobilières</Titre><Texte>
+						
+								<Paragraphe>
+<MiseEnEvidence>La section ne reçoit pas les usagers</MiseEnEvidence>
+</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>Préfecture de police</Paragraphe>
+								<Paragraphe>Direction de la police générale</Paragraphe>
+								<Paragraphe>Bureau des polices administratives</Paragraphe>
+								<Paragraphe>Section professions immobilières</Paragraphe>
+								<Paragraphe>36, rue des Morillons</Paragraphe>
+								<Paragraphe>75015 Paris</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par messagerie</Paragraphe>
+</Titre>
+								<Paragraphe>À partir du <LienExterne URL="http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Professionnel/Activites-reglementees-et-police-administrative/Societes-de-domiciliation-d-entreprise/Contacts/Ecrivez-nous">formulaire de contact</LienExterne>
+ </Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+</ServiceComplementaire>

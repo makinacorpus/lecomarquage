@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R38397" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Rétractation d'un achat à distance (sur internet, par correspondance, téléachat ou téléphone)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent, Vente - Commerce</dc:subject>
+<dc:description>Rétractation d'un achat à distance (sur internet, par correspondance, téléachat ou téléphone) - Modèle</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-11</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R38397</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24268">Vente - Commerce</Niveau>
+<Niveau ID="N31354">Pratiques commerciales</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R38397" type="Modèle de document">Rétractation d'un achat à distance (sur internet, par correspondance, téléachat ou téléphone)</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24268">
+<Titre>Vente - Commerce</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Texte><Paragraphe>À l'attention de ............................................... <Variable>le professionnel insère ici son nom, son adresse géographique et, lorsqu'ils sont disponibles, son numéro de télécopieur et son adresse électronique</Variable> :</Paragraphe>
+<Paragraphe>Je/nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat portant sur la vente du bien (*)/pour la prestation de services (*) ci-dessous :</Paragraphe>
+<Paragraphe>Commandé le (*)/reçu le (*) :</Paragraphe>
+<Paragraphe>Nom du (des) consommateur(s) :</Paragraphe>
+<Paragraphe>Adresse du (des) consommateur(s) :</Paragraphe>
+<Paragraphe>Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) :</Paragraphe>
+<Paragraphe>Date :</Paragraphe>
+<Paragraphe>(*) Rayez la mention inutile.</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F23224" audience="Professionnels" type="Fiche d'information">
+<Titre>Démarchage (à domicile ou hors établissement)</Titre>
+<Dossier ID="N31354">Pratiques commerciales</Dossier>
+</FicheLiee>
+<FicheLiee ID="F10485" audience="Particuliers" type="Fiche d'information">
+<Titre>Vente à distance : délai de rétractation du consommateur</Titre>
+<Dossier ID="N10515">Achat à distance</Dossier>
+</FicheLiee>
+<FicheLiee ID="F23455" audience="Professionnels" type="Fiche d'information">
+<Titre>Vente en ligne (e-commerce)</Titre>
+<Dossier ID="N31354">Pratiques commerciales</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

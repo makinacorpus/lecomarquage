@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1410" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de pension de retraite d'un fonctionnaire de l'État ou d'un militaire et demande de retraite additionnelle</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Demande de pension de retraite d'un fonctionnaire de l'État ou d'un militaire et demande de retraite additionnelle - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-30</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1410</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1410" type="Formulaire">Demande de pension de retraite d'un fonctionnaire de l'État ou d'un militaire et demande de retraite additionnelle</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>12230*14</NumeroCerfa>
+<Texte><Paragraphe>Ce formulaire et les documents demandés doivent être adressés à votre service gestionnaire de personnel. </Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>Certains fonctionnaires de l'État doivent  utiliser le formulaire <Citation>Demande de retraite d'un fonctionnaire de l’État ou d'un magistrat</Citation> cerfa n°14903*12.</Paragraphe>
+<Paragraphe>C'est votre cas si vous êtes agent :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> du Ministère de la justice,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du Ministère de l'économie et des finances (hors DGCCRF),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du Ministère de l'agriculture, de l'agroalimentaire et de la forêt,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du Ministère de l'Éducation nationale (uniquement si vous êtes agent de l'académie de Nancy-Metz et que vous partez à la retraite après le 1er août 2017),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des Services du Premier ministre (SPM),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la Caisse des dépôts et consignations (CDC),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du Conseil économique, social et environnemental (CESE),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du Conseil d'État,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la Cour des comptes, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de la Direction générale de l'aviation civile (DGAC),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de l'Institut national de la recherche agronomique (INRA)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture (IRSTEA),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de l'Institut de recherche pour le développement (IRD).</Paragraphe>
+</Item>
+</Liste>
+</Attention>
+</Texte>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12230.do">
+<Source>Service des retraites de l'État (SRE) - Ministère en charge des finances</Source>
+</LienWeb>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="14903*12">
+<Titre>Demande de retraite d'un fonctionnaire de l'État ou d'un magistrat</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14903.do"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F2114" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Peut-on encore bénéficier de la cessation progressive d'activité (CPA) ?</Titre>
+<Dossier ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31541" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Quelle démarche doit suivre un agent public pour demander sa retraite ?</Titre>
+<Dossier ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F12387" audience="Particuliers" type="Fiche d'information">
+<Titre>Retraite complémentaire d'un fonctionnaire (RAFP)</Titre>
+<Dossier ID="N379">Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Dossier>
+</FicheLiee>
+<Dossier ID="N379">
+<Titre>Retraite d'un agent de la fonction publique (titulaire et non titulaire)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

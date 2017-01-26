@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F785" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qu'est-ce qu'une hypothèque judiciaire conservatoire ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Elle permet à un créancier d'obtenir une garantie d'être remboursé par son débiteur, en demandant au juge de l'exécution une inscription de celle-ci</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-08-31</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F785</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165679&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025026104&amp;idSectionTA=LEGISCTA000025026414&amp;cidTexte=LEGITEXT000025024948, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025939391&amp;idSectionTA=LEGISCTA000025939389&amp;cidTexte=LEGITEXT000025024948</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N20373</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N20373">Crédit immobilier</Niveau>
+<Niveau ID="F785" type="Fiche Question-réponse">Qu'est-ce qu'une hypothèque judiciaire conservatoire ?</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+<SousThemePere ID="N20369">Crédit et surendettement</SousThemePere><DossierPere ID="N20373">
+<Titre>Crédit immobilier</Titre><SousDossier ID="N20373-1">
+<Titre>Différents types de crédit</Titre>
+<Fiche ID="F22152">Prêt immobilier classique</Fiche>
+<Fiche ID="F10871">Prêt à taux zéro (PTZ)</Fiche>
+<Fiche ID="F16142">Prêt épargne logement (PEL)</Fiche>
+<Fiche ID="F16139">Compte épargne logement (CEL)</Fiche>
+<Fiche ID="F10793">Prêt conventionné</Fiche>
+<Fiche ID="F22158">Prêt d'accession sociale (PAS)</Fiche>
+<Fiche ID="F10796">Prêts complémentaires</Fiche>
+</SousDossier>
+<SousDossier ID="N20373-2">
+<Titre>Vie du contrat de crédit</Titre>
+<Fiche ID="F16123">Offre de prêt immobilier</Fiche>
+<Fiche ID="F1671">Assurance de l'emprunteur</Fiche>
+<Fiche ID="F789">Hypothèque d'un crédit immobilier</Fiche>
+<Fiche ID="F146">Renégociation de prêt</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Une hypothèque judiciaire conservatoire permet à un créancier d'obtenir une garantie d'être remboursé par son débiteur. Le créancier demande au juge de l'exécution une inscription d'hypothèque judiciaire conservatoire sur un bien immobilier de son débiteur, dans le but de prévenir les risques d'insolvabilité de celui-ci. Ainsi, s'il n'est pas remboursé à l'échéance, il pourra demander la saisie et la vente du bien immobilier.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Le créancier qui demande l'hypothèque judiciaire conservatoire d'un ou de plusieurs biens immobiliers de son débiteur doit justifier :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>que le débiteur lui doit effectivement la somme d'argent évoquée,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<MiseEnEvidence>et</MiseEnEvidence> d'un danger imminent de ne pas pouvoir récupérer cette somme d'argent.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le créancier présente sa requête au <Expression> juge de l'exécution</Expression> du lieu où demeure le débiteur. Il n'y a ni convocation du débiteur, ni débats.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>s'il s'agit d'une créance commerciale, le créancier doit s'adresser au président du tribunal de commerce du lieu où demeure le débiteur.</Paragraphe>
+</ASavoir><Paragraphe>S'il estime la demande fondée, le  juge   rend une ordonnance autorisant le créancier à inscrire provisoirement son hypothèque, qui indique :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le montant de la créance garantie,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le ou les immeubles du débiteur concernés.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'hypothèque provisoire doit être publiée au service de publicité foncière (ex-conservation des hypothèques) dans les 3 mois qui suivent la date de l'ordonnance du juge.</Paragraphe><OuSAdresser ID="R16857" type="Local personnalisé sur SP">
+<Titre>Service de publicité foncière (ex-Conservation des hypothèques)</Titre>
+<PivotLocal>hypotheque</PivotLocal>
+<RessourceWeb URL="http://www2.impots.gouv.fr/contacts/spf/index.htm" commentaireLien="Annuaire des services de publicité foncière"/>
+</OuSAdresser>
+
+<Paragraphe>L'inscription provisoire d'hypothèque est limitée à 3 ans. Elle est renouvelable une fois.</Paragraphe>
+<Paragraphe>Le créancier dispose de 8 jours pour informer son débiteur de l'inscription de l'hypothèque.</Paragraphe>
+<Paragraphe>Le créancier doit également, dans le délai d'1 mois, agir en justice pour obtenir un titre exécutoire. À défaut, l'inscription ne sera pas valable.</Paragraphe>
+<Paragraphe>Si le créancier obtient un titre exécutoire, il pourra alors rendre son hypothèque définitive en l'inscrivant au service de publicité foncière.</Paragraphe>
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F789" audience="Particuliers">
+<Titre>Hypothèque d'un crédit immobilier</Titre>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165679&amp;cidTexte=LEGITEXT000006070721" ID="R10875">
+<Titre>Code civil : article 2412</Titre>
+<Complement>Hypothèques judiciaires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025026104&amp;idSectionTA=LEGISCTA000025026414&amp;cidTexte=LEGITEXT000025024948" ID="R33175">
+<Titre>Code des procédures civiles d'exécution : articles L511-1 à L511-4</Titre>
+<Complement>Conditions et mise en œuvre des mesures conservatoires</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000025939391&amp;idSectionTA=LEGISCTA000025939389&amp;cidTexte=LEGITEXT000025024948" ID="R33181">
+<Titre>Code des procédures civiles d'exécution : articles R511-1 à R511-8</Titre>
+<Complement>Conditions et mise en œuvre des mesures conservatoires</Complement>
+</Reference>
+<QuestionReponse ID="F1645" audience="Particuliers">Comment financer l'achat ou la construction d'un logement ?</QuestionReponse>
+<QuestionReponse ID="F786" audience="Particuliers">Qu'est-ce que le privilège du prêteur de deniers ?</QuestionReponse>
+<QuestionReponse ID="F787" audience="Particuliers">Peut-on faire lever une hypothèque ?</QuestionReponse>
+<QuestionReponse ID="F788" audience="Particuliers">Que devient l'hypothèque quand le prêt est remboursé ?</QuestionReponse>
+</Publication>

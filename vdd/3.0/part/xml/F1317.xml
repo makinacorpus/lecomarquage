@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1317" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Loyer d'un logement social</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le loyer d'un logement social (HLM) est fixé selon une procédure strictement réglementée.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-21</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1317</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006825415&amp;idSectionTA=LEGISCTA000006159074&amp;cidTexte=LEGITEXT000006074096</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N337</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N337">Location immobilière : loyer</Niveau>
+<Niveau ID="F1317" type="Fiche d'information">Loyer d'un logement social</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N337">
+<Titre>Location immobilière : loyer</Titre><SousDossier ID="N337-1">
+<Titre>Loyer d'un logement privé</Titre>
+<Fiche ID="F1310">Fixation et paiement</Fiche>
+<Fiche ID="F1311">Révision annuelle</Fiche>
+<Fiche ID="F1312">Réévaluation d'un loyer sous-évalué</Fiche>
+<Fiche ID="F33066">Réévaluation d'un loyer sur-évalué (action en diminution de loyer)</Fiche>
+<Fiche ID="F13723">Indice de référence des loyers (IRL)</Fiche>
+</SousDossier>
+<SousDossier ID="N337-2">
+<Titre>Loyer d'un logement social</Titre>
+<Fiche ID="F1317">Détermination du loyer</Fiche>
+<Fiche ID="F21051">Supplément de loyer de solidarité (SLS)</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Loyer d'un logement social</SousDossierPere>
+<Introduction>
+<Texte>
+<Paragraphe>Le loyer est fixé selon une procédure strictement réglementée.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Comment est fixé le loyer initial ?</Paragraphe>
+</Titre><Paragraphe>Le montant du loyer se calcule de la manière suivante : prix de base au m² (fixé par le conseil d'administration de chaque organisme HLM) X surface du logement loué <LienIntra LienID="R16860" type="Définition de glossaire">(surface corrigée).</LienIntra>
+</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Révision du loyer en cours de bail</Paragraphe>
+</Titre><Paragraphe>La révision du loyer est effectuée chaque année au 1<Exposant>er</Exposant> janvier en fonction de  <LienInterne LienPublication="F13723" type="Fiche d'information" audience="Particuliers">l'indice de référence des loyers (IRL).</LienInterne> La date de l'indice de référence des loyers prise en  compte est celle du 2<Exposant>ème</Exposant> trimestre de l'année précédente.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Paiement du loyer</Paragraphe>
+</Titre>
+<Paragraphe>Vous devez régler votre loyer à la date prévue sur votre bail. En général, le loyer est payable au mois, soit en début soit en fin de mois.</Paragraphe>
+<Paragraphe>Le loyer est généralement prélevé automatiquement sur votre compte bancaire ou payé par titre interbancaire de paiement (TIP). Toutefois, vous êtes libre de régler votre loyer par chèque, par exemple.</Paragraphe>
+<Paragraphe>En cas de paiement total du loyer, vous pouvez <LienInterne LienPublication="R31936" type="Modèle de document" audience="Particuliers">demander à votre bailleur de vous transmettre gratuitement une quittance</LienInterne>. La quittance doit indiquer le détail des sommes que vous avez versées en distinguant le loyer et <LienInterne LienPublication="F947" type="Fiche d'information" audience="Particuliers">les charges</LienInterne>.</Paragraphe>
+<Paragraphe>En cas de paiement partiel du loyer, le bailleur doit vous remettre un reçu.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R20142" type="Local">
+<Titre>Organismes pouvant proposer un logement social</Titre>
+<Complement>Annuaire des organismes</Complement>
+<RessourceWeb URL="http://union-habitat.org/les-hlm-de-%C3%A0-z/annuaire-des-organismes"/>
+</OuSAdresser>
+<OuSAdresser ID="R14645" type="Local">
+<Titre>Organismes d'habitations à loyer modéré (HLM)</Titre>
+<Complement>Liste des organismes</Complement>
+<RessourceWeb URL="http://www.foph.fr/oph/Les-Offices/WebHome"/>
+<Source ID="R30685">Ministère en charge du logement</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006825415&amp;idSectionTA=LEGISCTA000006159074&amp;cidTexte=LEGITEXT000006074096" ID="R18733">
+<Titre>Code de la construction et de l'habitation : articles L442-1 à L442-12</Titre>
+</Reference>
+<ServiceEnLigne ID="R31936" URL="http://www.conso.net/content/vous-demandez-une-quittance-de-loyer-%C3%A0-votre-propri%C3%A9taire" commentaireLien="Modèle de lettre" type="Modèle de document">
+<Titre>Demander une quittance de loyer à son propriétaire</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<Definition ID="R16860">
+<Titre>Surface corrigée</Titre>
+<Texte>
+				<Paragraphe>Surface réelle du logement après application de coefficients tenant compte notamment à l'état du logement, de ses équipements et de sa situation géographique</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000495766&amp;categorieLien=cid" ID="R40997">
+<Titre>Décret n°48-1766 du 22 novembre 1948 fixant les conditions de détermination de la surface corrigée des locaux d'habitation ou à usage professionnel</Titre>
+</Reference>
+</Definition>
+<QuestionReponse ID="F31601" audience="Particuliers">Peut-on conserver son logement social malgré des hauts revenus ?</QuestionReponse>
+</Publication>

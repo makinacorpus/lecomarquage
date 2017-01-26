@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R43737" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande en ligne d'autorisation de travaux et de subvention sur monument historique (immeuble, mobilier, orgue)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Demande en ligne d'autorisation de travaux et de subvention sur monument historique (immeuble, mobilier, orgue) - Service en ligne et formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-21</dc:date>
+<dc:type>Service en ligne et formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R43737</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Service en ligne et formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13345">Urbanisme - BTP</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R43737" type="Téléservice">Demande en ligne d'autorisation de travaux et de subvention sur monument historique (immeuble, mobilier, orgue)</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>15459*01</NumeroCerfa>
+<Texte><Paragraphe>Permet de déposer une demande de subvention pour réaliser des travaux sur un monument historique classé ou inscrit, que celui-ci soit un immeuble, un objet mobilier ou un orgue, ou faire une demande de subvention au titre d'études ou de travaux sur un monument historique.</Paragraphe>
+<Paragraphe>Service gratuit après inscription préalable et création d'un compte personnel en ligne.</Paragraphe>
+
+</Texte>
+<LienWeb URL="https://mes-demarches.culturecommunication.gouv.fr/loc_fr/mcc/requests/218/">
+<Source>Ministère en charge de la culture et de la communication</Source>
+</LienWeb><ServiceEnLigneAlternatif ID="R2067" audience="Professionnels" type="Formulaire">
+<Titre>Demande d'autorisation et/ou de subvention de travaux sur un monument historique</Titre>
+</ServiceEnLigneAlternatif>
+
+<FicheLiee ID="F32380" audience="Professionnels" type="Fiche Question-réponse">
+<Titre>Comment des travaux sur un monument historique sont-ils financés ?</Titre>
+<Dossier ID="N13345">Urbanisme - BTP</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32190" audience="Professionnels" type="Fiche d'information">
+<Titre>Travaux sur un monument historique ou aux abords d'un monument historique</Titre>
+<Dossier ID="N13345">Urbanisme - BTP</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

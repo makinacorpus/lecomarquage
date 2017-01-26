@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14588" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration à la Sécurité sociale des bénévoles œuvrant pour les organismes sociaux</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Fonctionnement d'une association</dc:subject>
+<dc:description>Déclaration à la Sécurité sociale des bénévoles œuvrant pour les organismes sociaux - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-16</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14588</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Associations</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Associations">Accueil associations</Niveau>
+<Niveau ID="N31404">Fonctionnement d'une association</Niveau>
+<Niveau ID="N19590">Dirigeants et responsables d'une association</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14588" type="Formulaire">Déclaration à la Sécurité sociale des bénévoles œuvrant pour les organismes sociaux</Niveau>
+</FilDAriane>
+<Theme ID="N31404">
+<Titre>Fonctionnement d'une association</Titre>
+<Audience>Associations</Audience>
+</Theme>
+<NumeroCerfa>60-3652</NumeroCerfa>
+<AutreNumero>S1217b</AutreNumero>
+<Texte><Paragraphe>Permet d'immatriculer à la Sécurité sociale, lorsqu'ils ne bénéficient pas d'une couverture sociale à un autre titre :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les bénévoles listés à l'article D412-79 du code de la sécurité sociale ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les salariés désignés pour siéger dans une commission, un conseil ou un comité administratifs ou paritaires appelés à traiter des problèmes d'emploi et de formation ou pour participer à un jury d'examen ou de validation des acquis de l'expérience.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S1217.pdf" format="application/pdf" poids="229,27 Ko">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F1124" audience="Associations" type="Fiche d'information">
+<Titre>Assurance des associations</Titre>
+<Dossier ID="N31331">Assurance et responsabilité d'une association</Dossier>
+</FicheLiee>
+<Dossier ID="N19590">
+<Titre>Dirigeants et responsables d'une association</Titre>
+<Audience>Associations</Audience>
+</Dossier>
+</ServiceComplementaire>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F86" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Reçu pour solde de tout compte</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le solde de tout compte est établi par l'employeur et remis (contre reçu) au salarié qui quitte son emploi. Il est dû au salarié pour tout type de contrat de travail (CDI, CDD, contrat temporaire), quel que soit le motif de la rupture (démission, licenciement...).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-12-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F86</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006195629&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537554&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19611</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N19611">Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Niveau>
+<Niveau ID="F86" type="Fiche d'information">Reçu pour solde de tout compte</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19967">Quitter son emploi</SousThemePere><DossierPere ID="N19611">
+<Titre>Rupture du contrat dans le secteur privé (démission, rupture conventionnelle...)</Titre><SousDossier ID="N19611-1">
+<Titre>Démission</Titre>
+<Fiche ID="F2883">Démission d'un salarié</Fiche>
+<Fiche ID="F89">Allocations chômage</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-2">
+<Titre>Rupture conventionnelle du CDI</Titre>
+<Fiche ID="F19030">Conditions et procédure</Fiche>
+<Fiche ID="F19708">Indemnisation</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-3">
+<Titre>Documents à remettre au salarié</Titre>
+<Fiche ID="F87">Certificat de travail</Fiche>
+<Fiche ID="F2867">Attestation destinée à Pôle emploi</Fiche>
+<Fiche ID="F86">Reçu pour solde de tout compte</Fiche>
+</SousDossier>
+<SousDossier ID="N19611-4">
+<Titre>Ruptures atypiques du contrat de travail</Titre>
+<Fiche ID="F24409">Prise d'acte de la rupture du contrat de travail</Fiche>
+<Fiche ID="F24410">Résiliation judiciaire du contrat de travail</Fiche>
+<Fiche ID="F24411">Départ négocié en cas de difficultés économiques</Fiche>
+<Fiche ID="F24412">Rupture du contrat de travail pour cas de force majeure</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Documents à remettre au salarié</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le solde de tout compte est  établi par l'employeur et remis (contre reçu) au salarié qui quitte son emploi. Il est dû au salarié pour tout type de contrat de travail (<LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne>, <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne>, contrat temporaire), quel que soit le motif de la rupture (démission, licenciement...).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Mentions devant figurer dans le reçu pour solde de tout compte</Paragraphe>
+</Titre><Paragraphe>Le reçu pour solde de tout compte fait l'inventaire de l'ensemble des sommes versées au salarié (par chèque ou par virement) à l'occasion de la rupture du contrat. Les mentions devant figurer sur le document sont les suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le total des sommes dues au salarié à la date de fin du contrat (salaire, primes, indemnités de rupture du contrat...),</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>la mention selon laquelle le reçu pour solde de tout compte est établi en double exemplaire (dont l'un est remis au salarié).</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Remise du reçu pour solde de tout compte au salarié</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié effectue son préavis</Paragraphe>
+</Titre><Paragraphe>L'un des exemplaires du reçu pour solde de tout compte doit être remis au salarié. Cependant, la loi n'oblige pas le salarié à le signer.</Paragraphe>
+<Paragraphe>Le reçu pour solde de tout compte doit être remis au salarié, en main propre ou par une lettre recommandée avec accusé de réception (LRAR), à la date de fin du contrat de travail.</Paragraphe>
+<Paragraphe>Par exemple, si le contrat de travail s'achève le 30 novembre, le certificat doit être remis au salarié à cette date.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié est dispensé de préavis</Paragraphe>
+</Titre><Paragraphe>L'un des exemplaires du reçu pour solde de tout compte doit être remis au salarié. Cependant, la loi n'oblige pas le salarié à le signer.</Paragraphe>
+<Paragraphe>Le reçu pour solde de tout compte doit être remis au salarié, en main propre ou par une lettre recommandée avec accusé de réception (LRAR), à la date de la fin du contrat de travail, même si le salarié est dispensé de préavis.</Paragraphe>
+<Paragraphe>Par exemple, si le contrat de travail s'achève le 30 octobre, et que le salarié est dispensé de préavis à compter du 1er octobre, le certificat ne doit être remis qu'en date du 30 octobre.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contestation des sommes mentionnées</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié a signé le reçu pour solde de tout compte</Paragraphe>
+</Titre><Paragraphe>Si le salarié a signé le reçu pour solde de tout compte, il dispose de 6 mois suivant la date de signature pour le contester.</Paragraphe>
+<Paragraphe>La contestation doit être adressée à l'employeur par lettre recommandée avec accusé de réception (LRAR).</Paragraphe>
+<Paragraphe>Le courrier précise alors les motifs de la contestation et les sommes concernées (arriéré de salaire ou indemnités de congés payés, par exemple).</Paragraphe>
+<Paragraphe>L'employeur n'est pas obligé de mentionner le délai de contestation de 6 mois sur le solde de tout compte.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'employeur peut réclamer les sommes versées en trop pendant 3 ans.</Paragraphe>
+</Attention>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Si le salarié n'a pas signé le reçu pour solde de tout compte</Paragraphe>
+</Titre><Paragraphe>Si le salarié n'a pas signé le reçu pour solde de tout compte remis par l'employeur, il peut le contester dans les 3 ans suivant la date de sa remise.</Paragraphe>
+<Paragraphe>La contestation doit être adressée à l'employeur par lettre recommandée avec accusé de réception (LRAR).</Paragraphe>
+<Paragraphe>Le courrier précise alors les motifs de la contestation et les sommes concernées (arriéré de salaire ou indemnités de congés payés, par exemple).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>l'employeur peut réclamer les sommes versées en trop pendant 3 ans.</Paragraphe>
+</Attention>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+<OuSAdresser ID="R3040" type="Centre de contact">
+<Titre>Votre direction des ressources humaines (DRH)</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<OuSAdresser ID="R756" type="Centre de contact">
+<Titre>Vos représentants du personnel</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006195629&amp;cidTexte=LEGITEXT000006072050" ID="R32616">
+<Titre>Code du travail : article L1234-20</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018537554&amp;cidTexte=LEGITEXT000006072050" ID="R42222">
+<Titre>Code du travail : articles D1234-7 et D1234-8</Titre>
+<Complement>Procédure</Complement>
+</Reference>
+<ServiceEnLigne ID="R44596" URL="" type="Modèle de document">
+<Titre>Modèle de reçu pour solde de tout compte</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F20744" audience="Particuliers">Peut-on garder la mutuelle de l'entreprise à la fin du contrat de travail ?</QuestionReponse>
+</Publication>

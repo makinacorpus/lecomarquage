@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N13352" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Tourisme</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Le secteur du tourisme est particulièrement réglementé pour ce qui concerne les autorisations et les déclarations pour des raisons de protection du consommateur.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N13352</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13352" type="Dossier">Tourisme</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N23450">Autres secteurs</SousThemePere>
+<SousDossier ID="N13352-1">
+<Titre>Commerce touristique</Titre><Fiche ID="F23189">Agence de voyage</Fiche>
+<Fiche ID="F31678">Attribution d'une concession de plage</Fiche>
+</SousDossier>
+<SousDossier ID="N13352-2">
+<Titre>Hébergements</Titre><Fiche ID="F24149">Classement d'un hôtel</Fiche>
+<Fiche ID="F32195">Distinction Palace des hôtels</Fiche>
+<Fiche ID="F31521">Exploitation de chambre d'hôtes</Fiche>
+<Fiche ID="F24150">Exploitation et classement d'un camping</Fiche>
+</SousDossier>
+<Introduction>
+<Texte>
+<Paragraphe>
+			Le secteur du tourisme est particulièrement réglementé pour ce qui concerne les autorisations et les déclarations pour des raisons de protection du consommateur.
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Fiche ID="F743" audience="Professionnels">
+<Titre>Taxe de séjour sur les hébergements touristiques</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F31202" audience="Professionnels">
+<Titre>Taxes d'embarquement sur les passagers</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R14054" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11512.do" numerocerfa="11512*02" type="Formulaire">
+<Titre>Fiche de déclaration d'accident sur remontées mécaniques et tapis roulants - Informations générales</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+<ServiceEnLigneAnnexe type="Formulaire" numerocerfa="11511*03">
+<Titre>Fiche de déclaration d'accident sur remontée mécanique et tapis roulants - Informations relatives aux personnes accidentées</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11511.do"/>
+</ServiceEnLigneAnnexe>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R22292" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14424.do" format="application/pdf" poids="125.0 KB" numerocerfa="14424*01" type="Formulaire">
+<Titre>Demande de label "Tourisme et handicap" pour les établissements de tourisme</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F33458" audience="Professionnels">Dans quels cas la fiche d'hôtel doit être remplie par les touristes étrangers ?</QuestionReponse>
+<QuestionReponse ID="F31420" audience="Professionnels">Peut-on ne signer un bail commercial que le temps d'une saison ?</QuestionReponse>
+<QuestionReponse ID="F33286" audience="Professionnels">Comment créer un gîte rural sur une exploitation agricole ?</QuestionReponse>
+<QuestionReponse ID="F33427" audience="Professionnels">Camping : quelle est la réglementation pour installer une cabane dans un arbre ?</QuestionReponse>
+</Publication>

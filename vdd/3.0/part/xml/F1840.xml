@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1840" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mineur délinquant : jugement par le juge des enfants</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Les mineurs comparaissent devant un tribunal qu'à titre exceptionnel et pour des faits graves. Autrement, ils sont entendus et jugés en audience de cabinet, c'est-à-dire dans un bureau, par le juge des enfants, un magistrat spécialisé.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-03-25</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1840</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000025585639&amp;cidTexte=LEGITEXT000006069158</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23248</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N23248">Mineur auteur d'infraction</Niveau>
+<Niveau ID="F1840" type="Fiche d'information">Mineur délinquant : jugement par le juge des enfants</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20279">Justice des mineurs</SousThemePere><DossierPere ID="N23248">
+<Titre>Mineur auteur d'infraction</Titre><SousDossier ID="N23248-1">
+<Titre>Mise en accusation</Titre>
+<Fiche ID="F1469">Garde à vue</Fiche>
+<Fiche ID="F1820">Instruction d'une affaire</Fiche>
+<Fiche ID="F1826">Mesures de restriction de liberté</Fiche>
+</SousDossier>
+<SousDossier ID="N23248-2">
+<Titre>Jugement et condamnation</Titre>
+<Fiche ID="F1840">Procédure devant le juge des enfants</Fiche>
+<Fiche ID="F1830">Procédure devant le tribunal pour enfants</Fiche>
+<Fiche ID="F1486">Procédure devant la Cour d'assises des mineurs</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Jugement et condamnation</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Les mineurs comparaissent devant un tribunal qu'à titre exceptionnel et pour des faits graves.
+			Autrement, ils sont entendus et jugés en audience de cabinet, c'est-à-dire dans un bureau, par le juge des enfants, un magistrat spécialisé.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Affaires concernées</Paragraphe>
+</Titre><Paragraphe>Le juge des enfants sera saisi en fonction de l'âge du mineur et de la <LienInterne LienPublication="F1157" type="Fiche Question-réponse" audience="Particuliers">gravité de l'infraction</LienInterne>.</Paragraphe>
+<Tableau>
+<Titre>Tribunal compétent selon l'âge du mineur</Titre>
+<Colonne largeur="23" type="header"/>
+<Colonne largeur="23" type="normal"/>
+<Colonne largeur="23" type="normal"/>
+<Colonne largeur="22" type="normal"/>
+<Rangée type="header">
+<Cellule fusionVerticale="2">
+<Paragraphe>Infraction</Paragraphe>
+</Cellule>
+<Cellule fusionVerticale="2">
+<Paragraphe>Moins de 16 ans</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe> 16 ou 17 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Non récidiviste</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Récidiviste</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contravention de 1<Exposant>ère</Exposant>, 2<Exposant>e</Exposant>, 3<Exposant>e</Exposant> ou  4<Exposant>e</Exposant> classe</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1457" type="Fiche d'information" audience="Particuliers">Tribunal de police</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>
+<LienInterne LienPublication="F1457" type="Fiche d'information" audience="Particuliers">Tribunal de police</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contravention de 5<Exposant>ème</Exposant> classe</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>le juge des enfants si les faits sont peu graves </Paragraphe>
+<Paragraphe>le <LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">tribunal pour enfants</LienInterne> si les faits sont graves</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe>
+<LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">Tribunal pour enfants</LienInterne> pour des faits graves</Paragraphe>
+<Paragraphe>Juge des enfants pour des  faits moins  graves</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Délits punis de 3 à 7 ans de prison</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>le juge des enfants si les faits sont peu graves </Paragraphe>
+<Paragraphe>le <LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">tribunal pour enfants</LienInterne> si les faits sont graves</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">Tribunal pour enfants</LienInterne> pour des faits graves</Paragraphe>
+<Paragraphe>Juge des enfants pour des  faits moins  graves </Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1828" type="Fiche Question-réponse" audience="Particuliers">Tribunal correctionnel des mineurs</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Délits punis de 7 ans de prison et plus</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>le juge des enfants si les faits sont peu graves </Paragraphe>
+<Paragraphe>le <LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">tribunal pour enfants</LienInterne> si les faits sont graves</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1830" type="Fiche d'information" audience="Particuliers">Tribunal pour enfants</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F1828" type="Fiche Question-réponse" audience="Particuliers">Tribunal correctionnel des mineurs</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Crime</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Tribunal pour enfants</Paragraphe>
+</Cellule>
+<Cellule fusionHorizontale="2">
+<Paragraphe> <LienInterne LienPublication="F1486" type="Fiche d'information" audience="Particuliers">Cour d'assises des mineurs</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Avant l'audience</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Saisine</Paragraphe>
+</Titre><Paragraphe>Le juge des enfants est saisi :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par le procureur de la République,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou par un juge d'instruction, au terme de son enquête.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>C'est donc le juge d'instruction ou le procureur qui décide si l'affaire peut être jugée par un juge des enfants.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Enquête</Paragraphe>
+</Titre><Paragraphe>Le juge des enfants effectue les <LienInterne LienPublication="F1820" type="Fiche d'information" audience="Particuliers">investigations nécessaires</LienInterne> pour établir et éclaircir les faits, ainsi que pour connaître la personnalité du mineur.</Paragraphe>
+<Paragraphe>Si le mineur est déjà connu de la justice, il consulte et complète le  <LienIntra LienID="R14316" type="Définition de glossaire">dossier unique de personnalité</LienIntra> de ce dernier.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déroulement de l'audience</Paragraphe>
+</Titre><Paragraphe>Le juge des enfants décide seul, <LienIntra LienID="R17641" type="Définition de glossaire">en chambre du conseil</LienIntra> . C'est-à-dire que l'audience se déroule dans son bureau et non en audience publique.</Paragraphe>
+<Paragraphe>Le juge entend le mineur, ainsi que ses parents (ou représentants légaux).</Paragraphe>
+<Paragraphe>Le mineur est obligatoirement assisté d'un <LienInterne LienPublication="F2153" type="Fiche d'information" audience="Particuliers">avocat</LienInterne>. </Paragraphe>
+<Paragraphe>La victime peut être présente.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Décision</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Décision immédiate</Paragraphe>
+</Titre><Paragraphe>Le juge des enfants peut immédiatement décider de :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>relaxer le mineur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou le déclarer coupable mais ne pas prononcer de mesures ou de sanction éducatives,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou l' <LienIntra LienID="R16027" type="Définition de glossaire">admonester</LienIntra>, </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Mais il renvoie souvent sa décision à une seconde audience.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Décision différée</Paragraphe>
+</Titre><Paragraphe>Sa décision est ainsi différée notamment lorsqu'il estime que :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le mineur doit être placé sous protection judiciaire ou placé dans un centre éducatif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des investigations complémentaires sont nécessaires sur les faits ou sur la personnalité du mineur.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>L'audience de renvoi a lieu dans les semaines ou mois qui suivent  .</Paragraphe>
+<Paragraphe>Dans l'attente, le juge peut prendre des mesures à titre provisoire à l'égard du mineur, par exemple :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un placement dans un établissement éducatif,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une mesure de <LienIntra LienID="R1055" type="Définition de glossaire">liberté surveillée</LienIntra> ,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une mesure de réparation à l'égard de la victime (avec l'accord de celle-ci).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Au terme de la seconde audience, le jugement est normalement rendu. Il ne peut contenir que des mesures éducatives (pas de peine possible).</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Renvoi devant un tribunal</Paragraphe>
+</Titre><Paragraphe>Si l'affaire lui semble trop complexe ou mériter davantage que des mesures éducatives, le juge des enfants renvoie l'affaire pour qu'elle soit jugée par un des tribunaux pour mineurs. Par exemple, le tribunal pour enfants.</Paragraphe>
+<Paragraphe>Ce renvoi du mineur devant un tribunal peut avoir lieu à tout moment de la procédure (y compris avant la première audience).</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="oui">
+<Fiche ID="F1820" audience="Particuliers">
+<Titre>Mineur délinquant : enquête par le juge des enfants ou le juge d'instruction</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R17" type="Local personnalisable">
+<Titre>Barreau des avocats</Titre>
+<Complement>Pour être assisté</Complement>
+<PivotLocal>avocat_centre_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/plugin/254/?form=barreau"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000025585639&amp;cidTexte=LEGITEXT000006069158" ID="R36066">
+<Titre>Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante : articles 8 à 10</Titre>
+<Complement>Procédure devant le juge des enfants</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R41472" URL="http://www.ado.justice.gouv.fr/index.php" audience="Particuliers">
+<Titre>La justice des mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R10199" URL="http://www.justice.gouv.fr/art_pix/chainepen.pdf" audience="Particuliers" format="application/pdf" poids="17.7 KB">
+<Titre>Juridictions pour les mineurs</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R20000" URL="http://www.metiers.justice.gouv.fr/magistrat-12581/le-metier-12582/juge-des-enfants-26220.html" audience="Particuliers">
+<Titre>Juge des enfants</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R18241" URL="http://www.mediatheque.justice.gouv.fr/direct/163-bd94b4496fddc4fdf06594f5d4c3d6702c296d0c-1341320198-direct" audience="Particuliers">
+<Titre>Le travail concret du juge des enfants</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</PourEnSavoirPlus>
+<Definition ID="R16027">
+<Titre>Admonestation</Titre>
+<Texte>
+				<Paragraphe>Réprimande solennelle du juge des enfants adressée à un mineur délinquant</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R1055">
+<Titre>Liberté surveillée</Titre>
+<Texte>
+				<Paragraphe>Mesure éducative prise à l'encontre d'un mineur  ayant pour effet de le placer sous la surveillance et le contrôle d'un éducateur, sous l'autorité du juge des enfants</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R14316">
+<Titre>Dossier unique de personnalité (Dup)</Titre>
+<Texte>
+				<Paragraphe>Ensemble des informations connues par la justice sur une même personne mineure.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R17641">
+<Titre>Audience en chambre du Conseil</Titre>
+<Texte>
+				<Paragraphe>Audience qui se tient dans le bureau du juge ou dans une petite salle du tribunal. Le public n'est pas autorisé.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F21088" audience="Particuliers">Qu'est-ce qu'une QPC (question prioritaire de constitutionnalité) ?</QuestionReponse>
+<QuestionReponse ID="F1837" audience="Particuliers">Quelles mesures et sanctions pénales sont appliquées aux mineurs ?</QuestionReponse>
+</Publication>

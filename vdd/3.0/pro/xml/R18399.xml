@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R18399" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'agrément d'une agence de presse</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Permet de déposer une première demande ou une demande de renouvellement d'un numéro de CPPAP pour une inscription des agences de presse.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-23</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R18399</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N18471">Secteur du livre et de la presse</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R18399" type="Formulaire">Demande d'agrément d'une agence de presse</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>12405*03</NumeroCerfa>
+<Introduction>
+<Texte><Paragraphe>Permet de déposer une première demande ou une demande de renouvellement d'un numéro de CPPAP pour une inscription des agences de presse.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12405.do" format="application/pdf" poids="113.2 KB">
+<Source>Commission paritaire des publications et agences de presse (CPPAP)</Source>
+</LienWeb>
+<FicheLiee ID="F22767" audience="Professionnels" type="Fiche d'information">
+<Titre>Presse : inscription auprès de la CPPAP</Titre>
+<Dossier ID="N18471">Secteur du livre et de la presse</Dossier>
+</FicheLiee><OuSAdresser ID="R23001" type="Centre de contact">
+<Titre>Commission paritaire des publications et agences de presse (CPPAP)</Titre>
+<Source ID="R30824">Commission paritaire des publications et agences de presse (CPPAP)</Source><Texte>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courrier</Paragraphe>
+</Titre>
+								<Paragraphe>
+			3, rue de Valois
+		</Paragraphe>
+								<Paragraphe>
+			75033 Paris Cedex 01</Paragraphe>
+								<Paragraphe>
+			Pour les dépôts de plis par coursier, s'adresser au 3 rue Montesquieu, 75001 Paris, de 7h à 12h et de 13h à 16h.
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par courriel</Paragraphe>
+</Titre>
+								<Paragraphe>
+			cppap(at)culture.gouv.fr
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 40 15 38 03
+		</Paragraphe>
+							</Chapitre>
+						<Chapitre>
+<Titre>
+<Paragraphe>Par télécopie</Paragraphe>
+</Titre>
+								<Paragraphe>
+			+33 1 40 15 38 95
+		</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+</ServiceComplementaire>

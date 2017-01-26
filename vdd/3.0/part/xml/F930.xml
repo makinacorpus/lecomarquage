@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F930" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Mariage en France</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Pour se marier en France, il faut respecter certaines conditions notamment d'âge ou de résidence.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2017-01-04</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F930</dc:identifier>
+<dc:source>https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180961&amp;cidTexte=LEGITEXT000006070633, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006421162&amp;idSectionTA=LEGISCTA000006136104&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006421963&amp;idSectionTA=LEGISCTA000006136117&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136118&amp;cidTexte=LEGITEXT000006070721, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020672199&amp;cidTexte=JORFTEXT000020671201, http://circulaires.legifrance.gouv.fr/pdf/2013/05/cir_37052.pdf, http://questions.assemblee-nationale.fr/q14/14-52680QE.htm, http://questions.assemblee-nationale.fr/q14/14-53029QE.htm, http://circulaire.legifrance.gouv.fr/pdf/2014/07/cir_38565.pdf</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N142</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N142">Mariage</Niveau>
+<Niveau ID="F930" type="Fiche d'information">Mariage en France</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20092">Couple</SousThemePere><DossierPere ID="N142">
+<Titre>Mariage</Titre><SousDossier ID="N142-1">
+<Titre>Célébration</Titre>
+<Fiche ID="F930">Mariage en France</Fiche>
+<Fiche ID="F21614">Mariage d'un Français à l'étranger</Fiche>
+</SousDossier>
+<SousDossier ID="N142-2">
+<Titre>Régime matrimonial</Titre>
+<Fiche ID="F835">Communauté réduite aux acquêts</Fiche>
+<Fiche ID="F948">Contrat de mariage</Fiche>
+</SousDossier>
+<SousDossier ID="N142-3">
+<Titre>Obligations des époux</Titre>
+<Fiche ID="F1196">Obligation alimentaire</Fiche>
+<Fiche ID="F966">Contribution aux charges du mariage</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Célébration</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Pour se marier en France, il faut respecter certaines conditions notamment d'âge ou de résidence.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Qui peut se marier ?</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Majorité</Paragraphe>
+</Titre><Paragraphe>Il faut être majeur pour se marier.</Paragraphe>
+<Paragraphe>Une dispense d'âge peut être accordée, exceptionnellement, par le
+          procureur de la République
+ pour des motifs graves.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Monogamie</Paragraphe>
+</Titre><Paragraphe>Vous ne devez  pas être déjà marié, que ce soit au regard de la loi française ou d'une loi étrangère.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>une  personne en instance de divorce ou simplement séparée de corps est  considérée comme encore mariée.</Paragraphe>
+</Attention><Paragraphe>Par contre, il est possible d'être déjà engagé par un Pacs, conclu ou non avec le futur époux.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Absence de lien de parenté ou d'alliance</Paragraphe>
+</Titre><Paragraphe>Un <LienInterne LienPublication="F802" type="Fiche Question-réponse" audience="Particuliers">lien de parenté ou d'alliance trop proche</LienInterne> est une cause d'empêchement du mariage.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Consentement</Paragraphe>
+</Titre><Paragraphe>Chacun doit consentir au mariage, de façon libre et éclairée.</Paragraphe>
+<Paragraphe>Si l'un  des futurs époux  est  sous  <LienInterne LienPublication="F2120" type="Fiche d'information" audience="Particuliers">tutelle</LienInterne> ou sous <LienInterne LienPublication="F2094" type="Fiche d'information" audience="Particuliers">curatelle</LienInterne>, il  doit  obtenir l'accord du curateur, du juge des tutelles ou du conseil de famille.</Paragraphe>
+<Paragraphe>À défaut de consentement libre et éclairé, le mariage est déclaré nul sur demande d'un des époux ou du procureur de la République, dans un délai de 5 ans.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Où peut-on se marier ?</Paragraphe>
+</Titre><Paragraphe>Le mariage est célébré dans une commune avec laquelle au moins l'un des deux a des liens durables, de façon directe ou indirecte (via un parent).</Paragraphe>
+<Paragraphe>
+<LienIntra LienID="R31350" type="Définition de glossaire">L'officier de l'état civil</LienIntra> s'assure dans tous les cas qu'au moins l'une des personnes a  des liens durables avec la commune.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Commune du domicile</Paragraphe>
+</Titre><Paragraphe>Le mariage peut être célébré dans la commune où l'un des futurs époux a son <LienIntra LienID="R14609" type="Définition de glossaire">domicile
+</LienIntra>.</Paragraphe>
+<Paragraphe>Aucune condition d'ancienneté du domicile n'est prévue.</Paragraphe>
+<Paragraphe>Sauf opposition <LienIntra LienID="R1123" type="Définition de glossaire">du procureur de la République</LienIntra>, le maire peut célébrer le mariage au sein de tout bâtiment communal (par exemple, une salle des fêtes) à condition que le bâtiment soit situé sur le territoire de la commune.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Commune de résidence</Paragraphe>
+</Titre><Paragraphe>Le mariage peut être célébré dans la commune où l'un des futurs époux a sa <LienIntra LienID="R18579" type="Définition de glossaire">résidence</LienIntra> établie par au moins 1 mois d'habitation continue.</Paragraphe>
+<Paragraphe>Celle-ci doit se manifester par une habitation continue au minimum pendant le mois qui précède la date de la publication des bans. </Paragraphe>
+<Paragraphe>Sauf opposition <LienIntra LienID="R1123" type="Définition de glossaire">du procureur de la République</LienIntra>, le maire peut célébrer le mariage au sein de tout bâtiment communal (par exemple, une salle des fêtes) à condition que le bâtiment soit situé sur le territoire de la commune.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Commune d'un parent</Paragraphe>
+</Titre><Paragraphe>Le mariage peut également être célébré dans la commune du domicile d'un des parents (père ou mère) des futurs époux.</Paragraphe>
+<Paragraphe>Sauf opposition <LienIntra LienID="R1123" type="Définition de glossaire">du procureur de la République</LienIntra>, le maire peut célébrer le mariage au sein de tout bâtiment communal (par exemple, une salle des fêtes) à condition que le bâtiment soit situé sur le territoire de la commune.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>la mairie peut exiger la preuve de la domiciliation du ou des parent(s).</Paragraphe>
+</ANoter>
+</Cas>
+</BlocCas>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le mariage en France d'un couple étranger vivant à l'étranger obéit à des <LienInterne LienPublication="F2558" type="Fiche Question-réponse" audience="Particuliers">règles particulières de territorialité</LienInterne>.</Paragraphe>
+</ASavoir>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dépôt du dossier de mariage</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Lieu de dépôt du dossier</Paragraphe>
+</Titre><Paragraphe>Le dossier doit être déposé à la mairie de la commune choisie pour la cérémonie.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Pièces à produire</Paragraphe>
+</Titre><Paragraphe>Chacun des futurs époux doit fournir les pièces suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'original et une photocopie de la pièce d'identité,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>justificatif de domicile ou de résidence (1 ou 2),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>informations sur les  <LienInterne LienPublication="F1248" type="Fiche Question-réponse" audience="Particuliers">témoins</LienInterne> (noms, prénoms, date et lieu de naissance, profession et domicile, copie de leur titre d'identité),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe> <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">copie intégrale d'acte de naissance</LienInterne> :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de moins de 3 mois, si le service délivrant la copie se trouve  en France,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de moins de 6 mois, si le service délivrant la copie se trouve  à l'étranger.</Paragraphe>
+</Item>
+</Liste>
+</Item>
+</Liste>
+<Paragraphe>S'il est étranger, le futur époux  doit fournir des documents spécifiques à sa  nationalité (se renseigner à la mairie ou au consulat).</Paragraphe>
+<Paragraphe>Si un <LienInterne LienPublication="F948" type="Fiche d'information" audience="Particuliers">contrat de mariage</LienInterne> est conclu, il faut fournir le  certificat de notaire.</Paragraphe>
+<Paragraphe>Dans certaines situations familiales particulières (veuvage, par exemple), des pièces complémentaires peuvent être demandées.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Instruction du dossier</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Audition préalable des futurs époux</Paragraphe>
+</Titre><Paragraphe>L'officier d'état civil auditionne les futurs époux ensemble. S'il l'estime nécessaire, il  peut également demander à s'entretenir séparément avec l'un ou l'autre.</Paragraphe>
+<Paragraphe>Cette audition est obligatoire mais  peut, à titre dérogatoire, ne pas avoir lieu, en cas d'impossibilité  ou si  elle n'apparaît pas nécessaire à l'officier d'état civil.</Paragraphe>
+<Paragraphe>L’officier peut  demander la présence d'un traducteur ou d'un interprète, si l'un des futurs époux est sourd, muet ou ne comprend pas la langue française.</Paragraphe>
+<Paragraphe>Si un des futurs époux réside à l'étranger, l'audition peut être effectuée par  l'autorité diplomatique ou consulaire territorialement compétente.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Contestation du dossier de mariage</Paragraphe>
+</Titre><Paragraphe>Que ce soit avant ou après l'audition, la mairie ne peut pas d'elle-même refuser un dossier de mariage. Mais elle peut demander au procureur de la République d'interdire la célébration du mariage souhaité.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Publication des bans</Paragraphe>
+</Titre>
+<Paragraphe>L'annonce officielle du prochain mariage est réalisée par la publication   d'avis  appelés <Expression>bans</Expression>.</Paragraphe>
+<Paragraphe>Ils contiennent  les prénoms, noms, professions, domiciles ou résidences des futurs époux, ainsi que le lieu où le mariage doit être célébré.</Paragraphe>
+<Paragraphe>Ils sont  affichés à la porte de la mairie du mariage, ainsi qu'à celle des mairies où l'un ou l'autre des époux a son domicile.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Date du mariage</Paragraphe>
+</Titre><Paragraphe>Le mariage ne peut pas être célébré avant le 10<Exposant>è</Exposant> jour depuis, et non compris,  celui de la publication des bans. Par exemple, si les bans sont publiés le 4 décembre 2015, le mariage peut être célébré à partir du 14 décembre 2015. De plus, il doit être célébré dans l'année qui suit l'expiration de ce délai de 10 jours.</Paragraphe>
+<Paragraphe>Le jour de la célébration du mariage est fixé en accord avec la mairie et les futurs époux, sous réserve que le dossier de mariage soit complet et actualisé.</Paragraphe>
+<Paragraphe>Si plus de 3 mois (ou 6 mois) se sont passés entre le dépôt du dossier et le mariage, il faudra fournir de nouvelles copies d'acte de naissance.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Célébration du mariage</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Lieu</Paragraphe>
+</Titre><Paragraphe>Le mariage doit être célébré à la mairie, dans une salle ouverte au public.</Paragraphe>
+<Paragraphe>Toutefois,  en cas d'empêchement grave d'un des futurs époux, le procureur de la République peut  demander à l'officier d'état civil de se déplacer à son  domicile ou  résidence. En  cas de péril imminent de mort, l’officier de l’état civil pourra même se déplacer au domicile ou à la résidence de l’un des futurs époux sans intervention  du procureur.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Déroulement</Paragraphe>
+</Titre><Paragraphe>La célébration transforme les futurs époux en époux effectifs.</Paragraphe>
+<Paragraphe>Elle doit être <LienInterne LienPublication="F31476" type="Fiche Question-réponse" audience="Particuliers">faite par le maire</LienInterne> (ou un adjoint au maire), en présence des futurs époux et des témoins.</Paragraphe>
+<Paragraphe>Lors de la célébration, chaque futur époux confirme son engagement à respecter les obligations du mariage.</Paragraphe>
+<Paragraphe>Un traducteur-interprète peut être présent.</Paragraphe>
+<Paragraphe>Un <LienInterne LienPublication="F1345" type="Fiche d'information" audience="Particuliers">livret de famille</LienInterne> est délivré  aux époux.</Paragraphe>
+<Paragraphe>Dans les jours qui suivent, ils  peuvent demander à la mairie un <LienInterne LienPublication="F1432" type="Fiche d'information" audience="Particuliers">extrait ou une copie intégrale de l'acte de mariage</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour la constitution du dossier de mariage hors Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour la constitution du dossier de mariage à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>Pour obtenir des dérogations</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006180961&amp;cidTexte=LEGITEXT000006070633" ID="R46384">
+<Titre>Code général des collectivités territoriales : articles L2121-29 à L2121-34</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006421162&amp;idSectionTA=LEGISCTA000006136104&amp;cidTexte=LEGITEXT000006070721" ID="R15645">
+<Titre>Code civil : articles 63 à 76</Titre>
+<Complement>Actes de mariage</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006421963&amp;idSectionTA=LEGISCTA000006136117&amp;cidTexte=LEGITEXT000006070721" ID="R15405">
+<Titre>Code civil : articles 143 à 164</Titre>
+<Complement>Qualités et conditions requises pour pouvoir contracter mariage</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006136118&amp;cidTexte=LEGITEXT000006070721" ID="R31245">
+<Titre>Code civil : articles 165 à 171</Titre>
+<Complement>Formalités relatives à la célébration du mariage</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020672199&amp;cidTexte=JORFTEXT000020671201" ID="R2267">
+<Titre>Loi n°2009-594 du 27 mai 2009 pour le développement économique des outre-mer : article 58</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaires.legifrance.gouv.fr/pdf/2013/05/cir_37052.pdf" ID="R32329" format="application/pdf" poids="624.5 KB">
+<Titre>Circulaire du 29 mai 2013 de présentation de la loi ouvrant le mariage aux couples de même sexe</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://questions.assemblee-nationale.fr/q14/14-52680QE.htm" ID="R39803">
+<Titre>Réponse ministérielle du 20 janvier 2015 relative au lieu de célébration du mariage</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://questions.assemblee-nationale.fr/q14/14-53029QE.htm" ID="R41201">
+<Titre>Réponse ministérielle du 20 janvier 2015 relative aux "mariages gris"</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://circulaire.legifrance.gouv.fr/pdf/2014/07/cir_38565.pdf" ID="R38148" format="application/pdf" poids="249.4 KB">
+<Titre>Circulaire du 23 juillet 2014 relative à l'état civil</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</Reference>
+<ServiceEnLigne ID="R1406" URL="https://mdel.mon.service-public.fr/acte-etat-civil.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance en France) - Service gratuit</Titre>
+<Source ID="R30608">Direction de l'information légale et administrative (Premier ministre)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1405" URL="https://pastel.diplomatie.gouv.fr/Dali/index2.html" type="Téléservice">
+<Titre>Demande d'acte de naissance : copie intégrale ou extrait (naissance à l'étranger) - Service gratuit</Titre>
+<Source ID="R30604">Ministère en charge des affaires étrangères</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R46060" URL="https://www.courdecassation.fr/jurisprudence_2/premiere_chambre_civile_568/dite_mariage_30975.html" audience="Particuliers">
+<Titre>Décision 13-50059 sur le mariage entre un Français et un étranger de même sexe</Titre>
+<Source ID="R30633">Cour de cassation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R46141" URL="https://www.senat.fr/questions/base/1995/qSEQ950811901.html" audience="Particuliers">
+<Titre>Délégation des fonctions d'état civil du maire pour la célébration des mariages</Titre>
+<Source ID="R36872">Sénat</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R46142" URL="https://www.senat.fr/questions/base/1999/qSEQ990314810.html" audience="Particuliers">
+<Titre>Célébration des mariages par un conseiller municipal</Titre>
+<Source ID="R36872">Sénat</Source>
+</PourEnSavoirPlus>
+<Definition ID="R18579">
+<Titre>Résidence</Titre>
+<Texte>
+				<Paragraphe>Lieu où une personne habite effectivement et de façon stable mais qui n'est pas forcément son domicile </Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="http://www.senat.fr/basile/visio.do?id=qSEQ130908232" ID="R151">
+<Titre>Réponse ministérielle du 23 janvier 2014 sur la distinction entre domicile et résidence</Titre>
+</Reference>
+</Definition>
+<Definition ID="R31350">
+<Titre>Officier de l'état civil</Titre>
+<Texte>
+				<Paragraphe>Personne qui établit les actes d'état civil (naissance, mariage décès...), les conserve et en délivre  copies ou extraits.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R14609">
+<Titre>Domicile</Titre>
+<Texte>
+				<Paragraphe>Lieu d'habitation officiel et habituel</Paragraphe>
+			</Texte><Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006117683&amp;cidTexte=LEGITEXT000006070721" ID="R17100">
+<Titre>Code civil : articles 102 à 111</Titre>
+</Reference>
+</Definition>
+<Definition ID="R1123">
+<Titre>Procureur de la République</Titre>
+<Texte>
+				<Paragraphe>Magistrat à la tête du parquet (ou ministère public) au sein d'un tribunal de grande instance (TGI). Il est destinataire des plaintes et signalements. Il dirige les enquêtes, décide des poursuites et veille à l'application de la loi.</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31474" audience="Particuliers">La mairie peut-elle refuser un dossier de mariage ?</QuestionReponse>
+<QuestionReponse ID="F31476" audience="Particuliers">Un maire peut-il refuser de célébrer lui-même un mariage ?</QuestionReponse>
+<QuestionReponse ID="F802" audience="Particuliers">Peut-on se marier avec un membre de sa famille ?</QuestionReponse>
+<QuestionReponse ID="F1248" audience="Particuliers">Comment sont choisis les témoins d'un mariage ?</QuestionReponse>
+<QuestionReponse ID="F2558" audience="Particuliers">Deux étrangers vivant à l'étranger peuvent-ils se marier en France ?</QuestionReponse>
+<QuestionReponse ID="F31466" audience="Particuliers">Dans quels pays peut-on se marier entre personnes du même sexe ?</QuestionReponse>
+<CommentFaireSi ID="F14485">Je m'installe en couple</CommentFaireSi>
+
+
+
+</Publication>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R43249" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Registre des français à l'étranger - Actualisation</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe, Papiers - Citoyenneté</dc:subject>
+<dc:description>Registre des français à l'étranger - Actualisation - Téléservice</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-05-19</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R43249</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R43249" type="Téléservice">Registre des français à l'étranger - Actualisation</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<LienWeb URL="https://psl.service-public.fr/mademarche/INSRegistreFR/demarche?action=MODIFICATION">
+<Source>Ministère en charge des affaires étrangères</Source>
+</LienWeb>
+<FicheLiee ID="F33307" audience="Particuliers" type="Fiche d'information">
+<Titre>Inscription consulaire au registre des Français établis hors de France</Titre>
+<Dossier ID="N120">Vivre à l'étranger</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1372" audience="Particuliers" type="Fiche d'information">
+<Titre>Inscription sur les listes électorales : déménagement</Titre>
+<Dossier ID="N47">Élections</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

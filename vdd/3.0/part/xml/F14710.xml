@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F14710" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Casier judiciaire : présentation des trois bulletins</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le casier judiciaire contient les condamnations pénales d'une même personne. Il existe 3 types de bulletins dont le contenu varie selon la gravité des sanctions. Seul le bulletin n°3 peut être retiré par la personne concernée. Certaines condamnations peuvent être effacées.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-06-29</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F14710</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006138155&amp;cidTexte=LEGITEXT000006071154</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N275</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N275">Condamnations et peines</Niveau>
+<Niveau ID="F14710" type="Fiche d'information">Casier judiciaire : présentation des trois bulletins</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20334">Sanctions pénales</SousThemePere><DossierPere ID="N275">
+<Titre>Condamnations et peines</Titre><SousDossier ID="N275-1">
+<Titre>Peines principales et complémentaires</Titre>
+<Fiche ID="F32803">Amendes</Fiche>
+<Fiche ID="F14148">Prison ferme</Fiche>
+<Fiche ID="F1406">Infraction pénale : peines complémentaires</Fiche>
+<Fiche ID="F1407">Travail d'intérêt général (TIG)</Fiche>
+<Fiche ID="F32312">Contrainte pénale</Fiche>
+</SousDossier>
+<SousDossier ID="N275-2">
+<Titre>Exécution des condamnations</Titre>
+<Fiche ID="F1779">Exécution d'une décision du juge pénal</Fiche>
+<Fiche ID="F1531">Sursis</Fiche>
+</SousDossier>
+<SousDossier ID="N275-3">
+<Titre>Suivi des anciens détenus</Titre>
+<Fiche ID="F1278">Surveillance de sûreté pour les criminels</Fiche>
+<Fiche ID="F18535">Rétention de sûreté pour les criminels</Fiche>
+<Fiche ID="F32562">Libération conditionnelle - Libération sous contrainte</Fiche>
+</SousDossier>
+<SousDossier ID="N275-4">
+<Titre>Casier judiciaire</Titre>
+<Fiche ID="F14710">Contenu du casier</Fiche>
+<Fiche ID="F1420">Demande de bulletin numéro 3</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Casier judiciaire</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le casier judiciaire contient les condamnations pénales d'une même personne. Il existe 3 types de bulletins dont le contenu varie selon la gravité des sanctions. Seul le bulletin n°3 peut être retiré par la personne concernée. Certaines condamnations peuvent être effacées.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Bulletin numéro 1</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Condamnations contenues dans le bulletin</Paragraphe>
+</Titre><Paragraphe>Le bulletin n°1 comporte toutes condamnations et décisions de justice concernant la personne (peines de prison, amende...) y compris lorsqu'elle était mineure. C'est le casier le plus complet.</Paragraphe>
+<Paragraphe>Il comprend donc :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les condamnations prononcées par la justice pénale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>certaines décisions prononcées par les juridictions commerciales (liquidation judiciaire, faillite personnelle, interdiction de gérer),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>certaines décisions administratives et disciplinaires qui édictent ou entraînent des incapacités,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les jugements prononçant la déchéance de l'autorité parentale ou le retrait de tout ou partie des droits qui y sont attachés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les arrêtés d'expulsion pris contre les étrangers,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les compositions pénales, dont l'exécution a été constatée par le procureur de la République.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les peines ou dispenses de peines prononcées après ajournement du prononcé de la peine, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les grâces, des commutations ou réductions de peines, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les décisions de <LienInterne LienPublication="F32562" type="Fiche d'information" audience="Particuliers">libération conditionnelle</LienInterne>, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les suspensions de peine.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Effacement des condamnations</Paragraphe>
+</Titre><Paragraphe>Certains éléments du casier sont effacés après un certain délai.</Paragraphe>
+<Tableau>
+<Titre>Délai pour obtenir l'effacement</Titre>
+<Colonne largeur="48" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Décisions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Délai</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation bénéficiant de <LienInterne LienPublication="F779" type="Fiche Question-réponse" audience="Particuliers">l'amnistie</LienInterne>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immédiat</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation bénéficiant d'une réhabilitation judiciaire avec retrait du casier judiciaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immédiat</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation prononcée pour contravention</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Déclaration de culpabilité assorties d'une dispense de peine</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Sanction ou mesure éducative prononcée contre les mineurs, sauf en cas de nouvelle mesure ou condamnation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Composition pénale, sauf en cas de nouvelle composition ou condamnation pénale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jugement prononçant la liquidation judiciaire</Paragraphe>
+<Paragraphe>Faillite personnelle ou interdiction de gérer de moins de 5 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Interdiction de gérer de plus de 5 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Après la fin de la peine d'interdiction</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Les condamnations pénales prononcées depuis plus de 40 ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle sont retirées du casier judiciaire.</Paragraphe>
+<Paragraphe>Toutes les condamnations ou décisions sont retirées du casier judiciaire au décès de l'intéressé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délivrance</Paragraphe>
+</Titre><Paragraphe>Ce bulletin n'est délivré qu'aux magistrats et aux établissements pénitentiaires.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Bulletin numéro 2</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Condamnations contenues dans le bulletin</Paragraphe>
+</Titre><Paragraphe>Le bulletin n°2 comporte la plupart des condamnations et décisions de justice sauf :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>toutes les décisions à l'encontre des mineurs,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les condamnations prononcées pour contraventions,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les condamnations assorties d'une dispense de peine ou d'un ajournement du prononcé de la peine,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les décisions prononçant la déchéance de l'autorité parentale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les condamnations avec <LienInterne LienPublication="F1531" type="Fiche d'information" audience="Particuliers">sursis</LienInterne>, lorsque le délai d'épreuve a pris fin sans exécution de la totalité de la peine. Sauf si un suivi socio-judiciaire ou une interdiction d'exercer une activité avec des mineurs a été prononcé pour une durée plus longue que celle de la peine,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les arrêtés d'expulsion abrogés,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les compositions pénales,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les condamnations pour une infraction relative aux prix ou à la concurrence entre commerçants sauf décision contraire du tribunal,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les condamnations désignées  une décision spécifique du tribunal lors du jugement.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Effacement des condamnations</Paragraphe>
+</Titre><Paragraphe>Certains éléments du casier sont effacés après un certain délai.</Paragraphe>
+<Tableau>
+<Titre>Délai pour obtenir l'effacement</Titre>
+<Colonne largeur="48" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Décisions</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Délai</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation bénéficiant de l'<LienInterne LienPublication="F779" type="Fiche Question-réponse" audience="Particuliers">amnistie</LienInterne>
+</Paragraphe>
+<Paragraphe>Condamnation bénéficiant d'une réhabilitation judiciaire avec retrait du casier judiciaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Immédiat</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation à une peine de jours-amende</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Jugement prononçant la liquidation judiciaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Faillite personnelle ou interdiction de gérer de moins de 5 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation à un stage de citoyenneté</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation à un stage de citoyenneté</Paragraphe>
+<Paragraphe>Condamnation de moins de 5 ans à des travaux d'intérêt général, à une suspension ou une interdiction de permis, à une confiscation du véhicule ou d'armes, à une interdiction de gérer une entreprise ou de payer par chèques.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>5 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Condamnation de plus de 5 ans à des travaux d'intérêt général, à une suspension ou une interdiction de permis, à une confiscation du véhicule ou d'armes, à une interdiction de gérer une entreprise ou de payer par chèques.</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Après la fin de la peine</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Les condamnations pénales prononcées depuis plus de 40 ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle sont retirées du casier judiciaire.</Paragraphe>
+<Paragraphe>Toutes les condamnations ou décisions sont retirées du casier judiciaire au décès de l'intéressé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délivrance</Paragraphe>
+</Titre><Paragraphe>Ce bulletin ne peut être délivré qu'à certaines administrations des motifs précis (par exemple, pour accéder à un emploi en contact avec des mineurs). Certains employeurs privés y ont également accès pour les mêmes motifs.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Bulletin numéro 3</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Condamnations contenues dans le bulletin</Paragraphe>
+</Titre><Paragraphe>Le <LienInterne LienPublication="F1420" type="Fiche d'information" audience="Particuliers">bulletin n°3</LienInterne>  est le bulletin au contenu le plus restreint. Il comporte uniquement les condamnations les plus graves :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les condamnations pour crimes et délits supérieures à 2 ans d'emprisonnement sans sursis,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les condamnations pour crimes et délits inférieures à 2 ans d'emprisonnement sans sursis si le tribunal en a ordonné la mention,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>certaines déchéances ou incapacités en cours d'exécution,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la mesure de suivi socio-judiciaire et la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.</Paragraphe>
+</Item>
+</Liste>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>certaines condamnations peuvent ne pas être inscrites sur ce bulletin par une décision spécifique du tribunal.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Effacement des condamnations</Paragraphe>
+</Titre><Paragraphe>Certaines éléments peuvent être immédiatement effacés :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les condamnations bénéficiant de l'<LienInterne LienPublication="F779" type="Fiche Question-réponse" audience="Particuliers">amnistie</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et les condamnations bénéficiant d'une réhabilitation judiciaire avec retrait du casier judiciaire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les condamnations pénales prononcées depuis plus de 40 ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle sont retirées du casier judiciaire.</Paragraphe>
+<Paragraphe>Toutes les condamnations ou décisions sont retirées du casier judiciaire au décès de l'intéressé.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Délivrance</Paragraphe>
+</Titre><Paragraphe>Ce bulletin ne peut être délivré <LienInterne LienPublication="F1420" type="Fiche d'information" audience="Particuliers">qu'à la personne concernée</LienInterne>, ou à son représentant légal s'il s'agit d'un mineur ou d'un majeur sous tutelle. Il est délivré gratuitement.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006138155&amp;cidTexte=LEGITEXT000006071154" ID="R664">
+<Titre>Code de procédure pénale : articles 768 à 781</Titre>
+<Complement>Contenu du casier judiciaire</Complement>
+</Reference>
+<QuestionReponse ID="F779" audience="Particuliers">Qu'est-ce qu'une amnistie ?</QuestionReponse>
+<QuestionReponse ID="F780" audience="Particuliers">Qu'est-ce qu'une grâce présidentielle ?</QuestionReponse>
+</Publication>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2931" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>A-t-on droit à des congés payés pendant un CDD ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Le salarié en CDD bénéficie des mêmes droits à congés payés que le salarié en CDI.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-19</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2931</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189456&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N510</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N510">Congés dans le secteur privé</Niveau>
+<Niveau ID="F2931" type="Fiche Question-réponse">A-t-on droit à des congés payés pendant un CDD ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19964">Temps de travail et congés</SousThemePere><DossierPere ID="N510">
+<Titre>Congés dans le secteur privé</Titre><SousDossier ID="N510-1">
+<Titre>Congés annuels</Titre>
+<Fiche ID="F2258">Congés payés</Fiche>
+<Fiche ID="F2262">Maladie et congés payés annuels</Fiche>
+</SousDossier>
+<SousDossier ID="N510-2">
+<Titre>Congés liés à l'arrivée d'un enfant</Titre>
+<Fiche ID="F2265">Congé maternité</Fiche>
+<Fiche ID="F3156">Congé de paternité et d'accueil de l'enfant</Fiche>
+<Fiche ID="F2268">Congé d'adoption</Fiche>
+<Fiche ID="F2266">Congé de 3 jours pour naissance ou adoption</Fiche>
+<Fiche ID="F2280">Congé parental à temps plein</Fiche>
+</SousDossier>
+<SousDossier ID="N510-3">
+<Titre>Congés pour maladie, handicap ou dépendance d'un membre de la famille</Titre>
+<Fiche ID="F151">Congé pour enfant malade</Fiche>
+<Fiche ID="F1631">Congé de présence parentale</Fiche>
+<Fiche ID="F16920">Congé de proche aidant</Fiche>
+<Fiche ID="F1767">Congé de solidarité familiale</Fiche>
+<Fiche ID="F706">Allocation journalière d'accompagnement d'une personne en fin de vie</Fiche>
+<Fiche ID="F32112">Don de jours de repos à un salarié parent d'enfant gravement malade</Fiche>
+</SousDossier>
+<SousDossier ID="N510-4">
+<Titre>Congés et aides en cas de création ou de reprise d'entreprise</Titre>
+<Fiche ID="F2382">Congé et temps partiel</Fiche>
+<Fiche ID="F2742">Levée provisoire des clauses d'exclusivité</Fiche>
+</SousDossier>
+<SousDossier ID="N510-5">
+<Titre>Congés spécifiques</Titre>
+<Fiche ID="F2278">Congés pour événement familial</Fiche>
+<Fiche ID="F2381">Congé sabbatique</Fiche>
+<Fiche ID="F2310">Congé pour exercer un mandat local</Fiche>
+<Fiche ID="F2295">Congé d'enseignement, de recherche et d'innovation</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Oui. Le salarié en <LienInterne LienPublication="R2454" type="Sigle">CDD</LienInterne> bénéficie des <LienInterne LienPublication="F2258" type="Fiche d'information" audience="Particuliers">mêmes droits à congés payés</LienInterne> que le salarié en <LienInterne LienPublication="R24389" type="Sigle">CDI</LienInterne>. Il acquiert et prend ses congés payés dans les mêmes conditions.</Paragraphe>
+<Paragraphe>Toutefois, si le salarié ne peut pas prendre tous ses congés avant le terme de son contrat, il bénéficie d'une <LienInterne LienPublication="F24661" type="Fiche d'information" audience="Particuliers">indemnité compensatrice de congés payés</LienInterne>. </Paragraphe>
+<Paragraphe>Son montant, calculé en fonction de la durée effective du contrat, est au moins égal à <Valeur>10 %</Valeur> de la rémunération totale brute perçue par le salarié. L'indemnité est également due en cas de rupture du CDD pendant la période d'essai.</Paragraphe>
+<Paragraphe>L'indemnité est versée à la fin du contrat, sauf si le CDD se poursuit par un CDI.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189456&amp;cidTexte=LEGITEXT000006072050" ID="R32830">
+<Titre>Code du travail : article L1242-16</Titre>
+</Reference>
+<Abreviation ID="R2454" type="Sigle">
+<Titre>CDD</Titre>
+<Texte>
+<Paragraphe>Contrat à durée déterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24389" type="Sigle">
+<Titre>CDI</Titre>
+<Texte>
+<Paragraphe>Contrat de travail à durée indéterminée</Paragraphe>
+</Texte>
+</Abreviation>
+<QuestionReponse ID="F1016" audience="Particuliers">Fermeture de l'entreprise pour congés : comment le salarié est-il indemnisé ?</QuestionReponse>
+</Publication>

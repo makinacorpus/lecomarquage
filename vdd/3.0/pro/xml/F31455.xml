@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31455" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas de litige concernant un bail rural ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Que faire en cas de litige concernant un bail rural ?</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-05-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31455</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006152260&amp;cidTexte=LEGITEXT000006071367, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135925&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31140</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Agriculteur – Pêcheur</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N31140">Bail rural</Niveau>
+<Niveau ID="F31455" type="Fiche Question-réponse">Que faire en cas de litige concernant un bail rural ?</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N10675">Agriculture</SousThemePere><DossierPere ID="N31140">
+<Titre>Bail rural</Titre>
+<Fiche ID="F31643">Caractéristiques du bail rural</Fiche>
+<Fiche ID="F32147">Renouvellement ou résiliation d'un bail rural</Fiche>
+<Fiche ID="F33851">Droit de préemption sur les terres agricoles</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Si un propriétaire agricole et l'exploitant qui lui loue les terres ou bâtiments (fermier ou métayer) sont en désaccord sur un bail rural, ils doivent s'adresser au tribunal paritaire des baux ruraux (TPBR) dont dépend le domaine agricole en question.</Paragraphe>
+<Paragraphe>Ce tribunal est seul compétent pour statuer sur les litiges concernant :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>la reprise de la terre,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le montant du loyer de fermage,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la durée du louage.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Cependant, pour les conflits relatifs à l'existence et à la nature du bail, c'est le tribunal de grande instance qui est compétent.</Paragraphe>
+<Paragraphe>Et, pour un conflit concernant le paiement d'un fermage (retard de paiement par exemple), il faut s'adresser au tribunal d'instance.</Paragraphe>
+<Paragraphe>Le tribunal paritaire des baux ruraux est présidé par le président du tribunal d'instance, assisté d'assesseurs  (2 représentants des propriétaires-bailleurs et 2 représentants des exploitants agricoles).</Paragraphe>
+<Paragraphe>Pour saisir le tribunal paritaire des baux ruraux, il faut s'adresser au tribunal d'instance :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>soit par acte d'huissier (obligatoire en cas de demandes soumises à publication au fichier immobilier), </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>soit par déclaration faite, remise ou adressée au greffe. La déclaration doit être datée et signée et comporter un exposé précis, même bref, des demandes.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les parties peuvent se faire assister ou représenter par un avocat, un huissier de justice, un membre de leur famille ou une organisation professionnelle agricole.</Paragraphe>
+<Paragraphe>La présence d'un avocat n'est pas obligatoire.</Paragraphe>
+<Paragraphe>Cependant, les personnes impliquées doivent obligatoirement être présentes lors de la tentative préalable de conciliation,  sauf à se faire représenter en cas de motif légitime.</Paragraphe>
+<Paragraphe>Voir aussi <LienInterne LienPublication="F1793" type="Fiche d'information" audience="Particuliers">Déroulement d'une affaire devant le tribunal paritaire des baux ruraux</LienInterne>
+</Paragraphe>
+
+</Texte><OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<Complement>Pour saisir le tribunal paritaire des baux ruraux</Complement>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>Pour les conflits relatifs à l'existence et à la nature du bail rural</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006152260&amp;cidTexte=LEGITEXT000006071367" ID="R11424">
+<Titre>Code rural et de la pêche maritime : article L491-1</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006135925&amp;cidTexte=LEGITEXT000006070716" ID="R14841">
+<Titre>Code de procédure civile : articles 880 à 892</Titre>
+</Reference>
+</Publication>

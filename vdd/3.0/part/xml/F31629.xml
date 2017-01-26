@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31629" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Le dépôt de garantie peut-il servir à payer le dernier mois de loyer ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Non, le locataire doit payer l'intégralité de son loyer jusqu'à la fin du bail. Déduire du dernier loyer le montant du dépôt de garantie est illégal.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-12</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31629</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020466316&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020449382&amp;cidTexte=LEGITEXT000006069108, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025026106&amp;cidTexte=LEGITEXT000025024948</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N349</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N349">Location immobilière : contrat de location (bail)</Niveau>
+<Niveau ID="F31629" type="Fiche Question-réponse">Le dépôt de garantie peut-il servir à payer le dernier mois de loyer ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N289">Location immobilière</SousThemePere><DossierPere ID="N349">
+<Titre>Location immobilière : contrat de location (bail)</Titre>
+<Fiche ID="F920">Rédaction du contrat</Fiche>
+<Fiche ID="F1686">Clauses abusives</Fiche>
+<Fiche ID="F31269">Dépôt de garantie</Fiche>
+<Fiche ID="F31270">État des lieux</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Non, le locataire doit payer l'intégralité de son loyer jusqu'à la fin du bail, y compris si un dépôt de garantie a été versé en début de location. La pratique consistant à déduire du dernier loyer le montant du dépôt de garantie est illégale.</Paragraphe>
+<Paragraphe>Le locataire est obligé de payer le loyer et les charges à son propriétaire aux termes convenus.</Paragraphe>
+<Paragraphe>Le dépôt de garantie, qui permet au bailleur de couvrir les éventuels manquements de son locataire (entretien du logement notamment), ne se substitue pas au  loyer puisqu'il doit être restitué dans un <LienInterne LienPublication="F31269" type="Fiche d'information" audience="Particuliers">certain délai</LienInterne>. </Paragraphe>
+<Paragraphe>Le locataire qui  déduit du loyer le montant du dépôt de garantie,  ne peut pas prétendre à la délivrance de sa quittance (nécessaire dans le cadre d'une demande d'aide au logement).</Paragraphe>
+<Paragraphe>Par ailleurs, le bailleur peut :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>faire procéder à la <LienInterne LienPublication="F1748" type="Fiche d'information" audience="Particuliers">saisie conservatoire</LienInterne> du montant dû sur le compte bancaire du locataire sans autorisation du juge,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>faire condamner le locataire au paiement du loyer impayé et de dommages et intérêts.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006475069&amp;cidTexte=LEGITEXT000006069108" ID="R32255">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 7</Titre>
+<Complement>Obligation de paiement du loyer</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020466316&amp;cidTexte=LEGITEXT000006069108" ID="R32870">
+<Titre>Loi n°89-462 du 6 juillet 1989 : article 22</Titre>
+<Complement>Dépôt de garantie</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000020449382&amp;cidTexte=LEGITEXT000006069108" ID="R32872">
+<Titre>Loi n°89-462 du 6 juillet 1989 relative aux rapports locatifs : article 21</Titre>
+<Complement>Quittance de loyer</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025026106&amp;cidTexte=LEGITEXT000025024948" ID="R32871">
+<Titre>Code des procédures civiles d'exécution : article L511-2</Titre>
+<Complement>Saisie conservatoire</Complement>
+</Reference>
+</Publication>

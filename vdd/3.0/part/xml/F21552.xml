@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F21552" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Retraite du salarié : calcul de la pension de retraite</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>Divers éléments de calcul sont pris en compte pour calculer la pension de retraite de base. Une formule de calcul est appliqué à ces éléments.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F21552</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023035688&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173400&amp;cidTexte=LEGITEXT000006073189, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028751530&amp;cidTexte=LEGITEXT000006073189</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N381</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N381">Retraite des salariés du secteur privé</Niveau>
+<Niveau ID="F21552" type="Fiche d'information">Retraite du salarié : calcul de la pension de retraite</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N20166">Retraite</SousThemePere><DossierPere ID="N381">
+<Titre>Retraite des salariés du secteur privé</Titre><SousDossier ID="N381-1">
+<Titre>Avant la retraite</Titre>
+<Fiche ID="F24617">Droit à l'information sur la retraite</Fiche>
+<Fiche ID="F15675">Rachat de trimestres</Fiche>
+</SousDossier>
+<SousDossier ID="N381-2">
+<Titre>Âge de départ à la retraite</Titre>
+<Fiche ID="F14043">Âge minimum de départ à la retraite</Fiche>
+<Fiche ID="F12842">Retraite progressive</Fiche>
+</SousDossier>
+<SousDossier ID="N381-3">
+<Titre>Départ à la retraite anticipé</Titre>
+<Fiche ID="F13845">Carrière longue</Fiche>
+<Fiche ID="F14101">Pénibilité du travail</Fiche>
+<Fiche ID="F16337">Handicap</Fiche>
+<Fiche ID="F2110">Préretraite amiante</Fiche>
+</SousDossier>
+<SousDossier ID="N381-4">
+<Titre>Trimestres de retraite</Titre>
+<Fiche ID="F1761">Durée d'assurance</Fiche>
+<Fiche ID="F16336">Majoration pour enfant</Fiche>
+<Fiche ID="F32126">Majoration pour congé parental d'éducation</Fiche>
+<Fiche ID="F32127">Majoration pour enfant handicapé</Fiche>
+<Fiche ID="F19666">Décote</Fiche>
+<Fiche ID="F2574">Assurance vieillesse des parents au foyer (AVPF)</Fiche>
+</SousDossier>
+<SousDossier ID="N381-5">
+<Titre>Pension de retraite</Titre>
+<Fiche ID="F21552">Calcul de la pension</Fiche>
+<Fiche ID="F14044">Retraite à taux plein</Fiche>
+<Fiche ID="F19643">Majoration de la pension</Fiche>
+<Fiche ID="F15522">Montants minimum et maximum de la pension</Fiche>
+<Fiche ID="F13243">Cumul emploi-retraite</Fiche>
+<Fiche ID="F15396">Retraite complémentaire</Fiche>
+<Fiche ID="F16344">Versement de la pension</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Pension de retraite</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le montant de la pension de retraite versée par le régime général de la sécurité sociale est déterminé après application d'une formule de calcul.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Formule de calcul</Paragraphe>
+</Titre><Paragraphe>Le montant de la pension est déterminé ainsi  = salaire annuel moyen x taux de la pension x (durée d'assurance au régime général de sécurité sociale / durée de référence pour obtenir une pension à taux plein).</Paragraphe>
+<Paragraphe>Si votre durée d'assurance au régime général est au moins égale à la durée de référence, vous percevrez une pension complète. Si elle est inférieure, vous percevrez une pension réduite (ou proratisée).</Paragraphe>
+<Paragraphe>Le montant de la pension de <LienInterne LienPublication="F15396" type="Fiche d'information" audience="Particuliers">retraite complémentaire</LienInterne> est issu d'une formule différente, sur la base des règles établies par les régimes Agirc-Arrco.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le montant versé est revalorisé au 1<Exposant>er</Exposant> octobre de chaque année.</Paragraphe>
+</ANoter>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déterminer le salaire annuel moyen</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Mode de calcul</Paragraphe>
+</Titre><Paragraphe>Votre salaire annuel moyen est déterminé en calculant la moyenne des salaires ayant donné lieu à cotisation au régime général durant les <MiseEnEvidence>25 années</MiseEnEvidence> les plus avantageuses de votre carrière.</Paragraphe>
+<Paragraphe>Cependant, si vous êtes né avant 1948, le nombre d’années pris en compte est inférieur et dépend de votre année de naissance :</Paragraphe>
+<Tableau>
+<Titre>Nombre d'années pris en compte en fonction de votre année de naissance</Titre>
+<Colonne largeur="21" type="normal"/>
+<Colonne largeur="35" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Année de naissance</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Nombre d'années pris en compte</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1947</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>24</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1946</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>23</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1945</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>22</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1944</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>21</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1943</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>20</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1942</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>19</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Si vous n'avez pas travaillé suffisamment d'années, le calcul est effectué sur la base de votre carrière entière.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>les salaires retenus tout au long de votre carrière font l'objet d'une <LienExterne URL="http://www.legislation.cnav.fr/Pages/bareme.aspx?Nom=revalorisation_%20coefficient_revalorisation_salaire_cotisation/revalorisation_coefficient_revalorisation_salaire_cotisation_10_2015_bar">revalorisation</LienExterne>
+
+ annuelle pour tenir compte de l'inflation.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Revenus non pris en compte dans le calcul</Paragraphe>
+</Titre><Paragraphe>Si vos revenus annuels dépassent le plafond de la sécurité sociale de l'année considérée, la fraction de vos revenus qui dépasse cette limite n'est pas prise en compte.</Paragraphe>
+<Paragraphe>Vos revenus ne sont également pas pris en compte en-deçà d'un certain montant, qui varie en fonction des années au cours desquelles vous avez été salarié, dans les conditions suivantes :</Paragraphe>
+<Tableau>
+<Titre>Rémunération minimum en-deçà de laquelle les revenus ne sont pas pris en compte</Titre>
+<Colonne largeur="50" type="normal"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Années durant lesquels vous avez été salarié</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenus non pris en compte</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Avant 1972</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenus annuels inférieurs au montant trimestriel de l'allocation aux vieux travailleurs salariés (AVTS) déterminé au 1<Exposant>er</Exposant> janvier de chaque année au cours de laquelle vous avez travaillé</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Entre le 1<Exposant>er</Exposant> janvier 1972 et le 31 décembre 2013</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenus annuels inférieurs au montant du <LienInterne LienPublication="R31127" type="Acronyme">Smic</LienInterne> horaire prévu pour chaque année au cours de laquelle vous avez travaillé, multiplié par 200 heures</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Depuis le 1<Exposant>er</Exposant> janvier 2014</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Revenus annuels inférieurs au montant du Smic horaire prévu pour chaque année au cours de laquelle vous avez travaillé, multiplié par 150 heures (soit, pour 2017, moins de <Valeur>1 464 €</Valeur>)</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>il n'est pas tenu compte de la rémunération perçue l'année du départ à la retraite.</Paragraphe>
+</ASavoir>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Périodes non prises en compte dans le calcul</Paragraphe>
+</Titre><Paragraphe>Certains périodes ne sont pas prises en compte dans le calcul du salaire annuel moyen. Il s'agit :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des années comportant uniquement des périodes assimilées à une période d'assurance,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des années comportant uniquement des périodes validées par présomption (périodes de travail pour lesquelles les cotisations ou les salaires n'ont pas été reportés au compte de l'assuré),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des années comprenant un versement pour la retraite au titre d'un rachat d'années d'études supérieures, d'une année incomplète ou de période de travail hors de France et non comptabilisées.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déterminer le taux de la pension</Paragraphe>
+</Titre><Paragraphe>La formule de calcul de la retraite de base applique au salaire annuel moyen un certain taux, calculé en fonction des éléments suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1761" type="Fiche d'information" audience="Particuliers">durée d'assurance vieillesse</LienInterne> tous régimes de base confondus,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>d'éventuelles périodes reconnues équivalentes,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>si nécessaire, de l'âge auquel vous demandez la liquidation de votre pension.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez bénéficier du taux plein, fixé à <MiseEnEvidence>50%</MiseEnEvidence>, dans l'un des cas suivants :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous remplissez la <LienInterne LienPublication="F14044" type="Fiche d'information" audience="Particuliers">condition de durée d'assurance</LienInterne> tous régimes de base confondus permettant de bénéficier du taux plein,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vous avez atteint l'âge permettant de bénéficier du taux plein automatique.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Si votre durée d'assurance est inférieure à la durée nécessaire pour avoir droit au taux plein, votre taux est minoré (<LienInterne LienPublication="F19666" type="Fiche d'information" audience="Particuliers">décote</LienInterne>). À l'inverse, si elle est supérieure, votre taux est majoré (<LienInterne LienPublication="F19643" type="Fiche d'information" audience="Particuliers">surcote</LienInterne>).</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Percevoir une pension entière ou réduite</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Salarié né en 1948 et après</Paragraphe>
+</Titre><Paragraphe>Pour percevoir une pension entière, vous devez justifier d'une durée d'assurance au régime général de la sécurité sociale équivalente à celle exigée pour obtenir le taux plein. Ainsi, un salarié né en 1953 percevra une pension entière si sa durée d'assurance au régime général uniquement atteint 165 trimestres.</Paragraphe>
+<Paragraphe>Si votre durée d'assurance au régime général est inférieure à cette durée nécessaire pour obtenir une pension à taux plein, votre pension est réduite au prorata de votre durée d'assurance au régime général de la sécurité sociale.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Salarié né avant 1948</Paragraphe>
+</Titre><Paragraphe>Si vous êtes né avant 1948, la durée d'assurance à respecter varie en fonction de votre année de naissance, dans les conditions suivantes :</Paragraphe>
+<Tableau>
+<Titre>Durée d'assurance au régime général pour bénéficier d'une pension complète en fonction de l'année de naissance du salarié</Titre>
+<Colonne largeur="21" type="normal"/>
+<Colonne largeur="55" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Année de naissance</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Durée d'assurance au régime général (en trimestres)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1943 (et avant)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>150</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1944</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>152</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1945</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>154</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1946</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>156</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>1947</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>158</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Cotisations et contributions sociales</Paragraphe>
+</Titre><Paragraphe>La pension de retraite est soumise, sauf exonérations, aux cotisations suivantes :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F2971" type="Fiche d'information" audience="Particuliers">CSG et CRDS</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F31408" type="Fiche Question-réponse" audience="Particuliers">contribution additionnelle de solidarité pour l'autonomie (Casa)</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R198" type="Centre de contact">
+<Titre>Assurance retraite - 39 60</Titre>
+<Complement>Pour toute information complémentaire</Complement>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source><Texte>
+						
+								<Paragraphe>Pour  s'informer, poser une question sur votre dossier, accéder à des informations personnelles (suivi du dossier, derniers paiements, etc.).</Paragraphe>
+							
+						<Chapitre>
+<Titre>
+<Paragraphe>Par téléphone</Paragraphe>
+</Titre>
+								<Paragraphe>
+			<MiseEnEvidence>39 60</MiseEnEvidence>
+       (ou 
+			09 71 10 39 60 depuis un mobile, une box ou l'étranger)</Paragraphe>
+								<Paragraphe>Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant, depuis un téléphone fixe ou mobile</Paragraphe>
+								<Paragraphe>Pour connaître le tarif, écoutez le message en début d'appel</Paragraphe>
+								<Paragraphe>Du lundi au vendredi de 8h à 17h</Paragraphe>
+							</Chapitre>
+					</Texte>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023035688&amp;cidTexte=LEGITEXT000006073189" ID="R18316">
+<Titre>Code de la sécurité sociale : article L351-1</Titre>
+<Complement>Salaire annuel moyen et conditions pour obtenir une pension entière ou réduite</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006173400&amp;cidTexte=LEGITEXT000006073189" ID="R35711">
+<Titre>Code de la sécurité sociale : articles R351-25 à R351-29-1</Titre>
+<Complement>Revenus et périodes non prises en compte dans le calcul du salaire annuel moyen</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028751530&amp;cidTexte=LEGITEXT000006073189" ID="R36500">
+<Titre>Code de la sécurité sociale : article R351-9</Titre>
+<Complement>Revenus non pris en compte</Complement>
+</Reference>
+<ServiceEnLigne ID="R3038" URL="http://www.marel.fr/" type="Simulateur">
+<Titre>Estimation du montant de la pension de retraite (salarié, fonctionnaire, travailleur indépendant)</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R20786" URL="https://www.lassuranceretraite.fr/portail-services-ihm/index.html#/authentifier" type="Téléservice">
+<Titre>Consultation du relevé de situation individuelle</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41812" URL="http://www.info-retraite.fr" commentaireLien="Info retraite : site commun aux organismes de retraite obligatoire" audience="Particuliers">
+<Titre>Site info-retraite.fr</Titre>
+<Source ID="R30827">Groupement d'intérêt public Info retraite</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41813" URL="https://www.lassuranceretraite.fr/portail-info/accueil" commentaireLien="site d'information concernant la retraite de la sécurité sociale" audience="Particuliers">
+<Titre>Site de la retraite de la Sécurité sociale</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41795" URL="http://www.arrco.fr/" commentaireLien="Site de l'association qui gère la retraite complémentaire des salariés du secteur privé" audience="Particuliers">
+<Titre>Site de l'Arrco</Titre>
+<Source ID="R30615">Association pour le régime de retraite complémentaire des salariés (ARRCO)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41796" URL="http://www.agirc.fr/" commentaireLien="Site de l'association qui gère la retraite complémentaire des cadres du secteur privé" audience="Particuliers">
+<Titre>Site de l'Agirc</Titre>
+<Source ID="R30617">Association générale des institutions de retraite des cadres (Agirc)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R42652" URL="http://www.legislation.cnav.fr/Pages/bareme.aspx?Nom=revalorisation_%20coefficient_revalorisation_salaire_cotisation/revalorisation_coefficient_revalorisation_salaire_cotisation_10_2015_bar" audience="Particuliers">
+<Titre>Retraite : coefficients de revalorisation des salaires</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R43106" URL="http://www.legislation.cnav.fr/Pages/bareme.aspx?Nom=smic_smig_smic_bar" audience="Particuliers">
+<Titre>Smic : anciens montants</Titre>
+<Source ID="R30670">Caisse nationale d'assurance vieillesse (Cnav)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R31127" type="Acronyme">
+<Titre>Smic</Titre>
+<Texte>
+<Paragraphe>Salaire minimum interprofessionnel de croissance</Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

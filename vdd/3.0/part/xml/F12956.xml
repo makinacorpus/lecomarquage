@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F12956" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Où obtenir la liste des traducteurs agréés ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté, Création - Modification - Cessation</dc:subject>
+<dc:description>La liste des traducteur agrées est disponible sur le site internet de la Cour de cassation.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-21</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F12956</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N365</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N365">Certificat, copie, légalisation et conservation de documents</Niveau>
+<Niveau ID="F12956" type="Fiche Question-réponse">Où obtenir la liste des traducteurs agréés ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N365">
+<Titre>Certificat, copie, légalisation et conservation de documents</Titre>
+<Fiche ID="F1359">Autorisation de sortie du territoire (AST)</Fiche>
+<Fiche ID="F1051">Certificat de nationalité française (CNF)</Fiche>
+<Fiche ID="F1412">Copie certifiée conforme</Fiche>
+<Fiche ID="F1400">Légalisation de documents français</Fiche>
+<Fiche ID="F1402">Légalisation de documents d'origine étrangère</Fiche>
+<Fiche ID="F1411">Légalisation de signature</Fiche>
+<Fiche ID="F19134">Papiers à conserver</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Les documents étrangers, non établis en français, doivent obligatoirement être accompagnés, pour certaines démarches administratives ou la reconnaissance de certains droits, d'une  traduction en langue française par un traducteur agréé ou assermenté. </Paragraphe>
+<Paragraphe>On parle de traduction <Expression>certifiée conforme à l'original</Expression> ou <Expression>officielle.</Expression>
+</Paragraphe>
+<Paragraphe>Vous pouvez obtenir la liste des traducteurs agréés sur le site internet de la Cour de cassation. </Paragraphe>
+<ServiceEnLigne ID="R45936" URL="http://www.courdecassation.fr/informations_services_6/experts_judiciaires_8700.html#experts" type="Téléservice">
+<Titre>Traducteurs agréés inscrits auprès de la cour d'appel</Titre>
+<Source ID="R30633">Cour de cassation</Source>
+<Introduction>
+<Texte><Paragraphe>- Recherchez la Cour d'appel qui vous concerne et consultez la liste correspondante (au format pdf)</Paragraphe>
+<Paragraphe>- Consultez  la rubrique <Expression>Traduction</Expression> (et non <Expression>interprétariat</Expression>).</Paragraphe>
+<Paragraphe> Vous trouverez plusieurs traducteurs classés selon les langues pratiquées.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+
+</Texte>
+
+
+</Publication>

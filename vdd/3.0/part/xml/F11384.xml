@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F11384" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Qui peut assister aux réunions du conseil syndical d'une copropriété ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Tout copropriétaire peut assister aux réunions du conseil syndical, si ce dernier donne son accord et sous réserve de respecter certaines règles.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-14</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F11384</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006061423</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31338</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31338">Acteurs de la copropriété (organisation juridique)</Niveau>
+<Niveau ID="F11384" type="Fiche Question-réponse">Qui peut assister aux réunions du conseil syndical d'une copropriété ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31337">Copropriété</SousThemePere><DossierPere ID="N31338">
+<Titre>Acteurs de la copropriété (organisation juridique)</Titre>
+<Fiche ID="F2606">Syndicat de copropriétaires</Fiche>
+<Fiche ID="F2608">Syndic de copropriété</Fiche>
+<Fiche ID="F2610">Conseil syndical de copropriété</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Tout copropriétaire peut assister, de sa propre initiative, à une réunion du  <LienInterne LienPublication="F2610" type="Fiche d'information" audience="Particuliers">conseil syndical</LienInterne> sous réserve :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>du respect des modalités éventuellement prévues par le <LienInterne LienPublication="F2589" type="Fiche d'information" audience="Particuliers">règlement de copropriété</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>du respect des modalités d'organisation ou de fonctionnement prévues éventuellement par une décision d'assemblée générale,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de l'accord du conseil syndical.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le conseil syndical peut librement convier toute personne de son choix à ses réunions pour l'éclairer dans  l'exécution de sa mission, parmi lesquelles, par exemple :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>tout copropriétaire, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un professionnel, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un technicien, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>le  <LienInterne LienPublication="F2608" type="Fiche d'information" audience="Particuliers">syndic</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>aucun texte ne s'oppose à ce que le syndic, son époux(se) ou partenaire de Pacs, ses <LienIntra LienID="R12668" type="Définition de glossaire">ascendants</LienIntra> ou <LienIntra LienID="R12574" type="Définition de glossaire">descendants</LienIntra>, ses salariés (même s'ils sont copropriétaires, associés ou acquéreurs) assistent aux réunions du conseil syndical.</Paragraphe>
+</ASavoir>
+</Texte><VoirAussi important="non">
+<Dossier ID="N31338" audience="Particuliers">
+<Titre>Acteurs de la copropriété (organisation juridique)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+<Fiche ID="F2610" audience="Particuliers">
+<Titre>Conseil syndical de copropriété</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006061423" ID="R1785">
+<Titre>Décret n°67-223 du 17 mars 1967 fixant le statut de la copropriété des immeubles bâtis</Titre>
+<Complement>Articles 22 à 27</Complement>
+</Reference>
+<Definition ID="R12668">
+<Titre>Ascendant</Titre>
+<Texte>
+				<Paragraphe>Parents, grands-parents et arrière-grands-parents d'une personne</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12574">
+<Titre>Descendant</Titre>
+<Texte>
+				<Paragraphe>Personne qui descend directement d'une autre, soit au 1er degré (enfant), soit à un degré plus éloigné (petit-enfant, arrière-petit-enfant)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

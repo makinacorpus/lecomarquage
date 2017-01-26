@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R34455" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Fiva - demande d'indemnisation - aggravation de l'état de santé de la victime</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Fiva - demande d'indemnisation - aggravation de l'état de santé de la victime - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-14</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R34455</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N19679">Indemnisation du préjudice</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R34455" type="Formulaire">Fiva - demande d'indemnisation - aggravation de l'état de santé de la victime</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Texte><Paragraphe>Permet à toute personne déjà indemnisée par le Fonds d'indemnisation des victimes de l'amiante (Fiva), dont l'état de santé de santé s'aggrave en raison de son exposition à l'amiante, de demander un réexamen de ses droits à indemnisation.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.fiva.fr/documents/formulaire-aggravation.pdf">
+<Source>Fonds d'indemnisation des victimes de l'amiante (Fiva)</Source>
+</LienWeb>
+<FicheLiee ID="F174" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Victime de l'amiante : comment être indemnisé ?</Titre>
+<Dossier ID="N19679">Indemnisation du préjudice</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

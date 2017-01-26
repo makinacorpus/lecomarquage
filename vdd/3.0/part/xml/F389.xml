@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F389" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Que faire en cas d'augmentation anormale de sa facture d'eau ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Lorsque votre fournisseur d'eau constate une augmentation anormale de votre volume d'eau consommé, il doit vous en informer dans les meilleurs délais, par tout moyen et au plus tard lors de l'envoi de votre facture d'eau. En pratique, cette information vous est notifiée par courrier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-01-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F389</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024025788&amp;cidTexte=LEGITEXT000006070633</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23557</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N23557">Aides au paiement des factures : eau, téléphone, électricité, gaz</Niveau>
+<Niveau ID="F389" type="Fiche Question-réponse">Que faire en cas d'augmentation anormale de sa facture d'eau ?</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N305">Aides financières pour le logement</SousThemePere><DossierPere ID="N23557">
+<Titre>Aides au paiement des factures : eau, téléphone, électricité, gaz</Titre>
+<Fiche ID="F1557">Facture d'eau</Fiche>
+<Fiche ID="F1337">Facture de téléphone</Fiche>
+<Fiche ID="F10580">Facture d'électricité</Fiche>
+<Fiche ID="F19206">Facture de gaz</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Lorsque votre fournisseur d'eau constate une augmentation anormale de votre volume d'eau consommé, il doit vous en informer dans les meilleurs délais, par tout moyen et au plus tard lors de l'envoi de votre facture d'eau. En pratique, cette information vous est notifiée par courrier.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>L'augmentation est anormale dès lors que votre fournisseur d'eau constate que le volume d'eau que vous avez consommé excède le double du volume moyen consommé au cours des 3 dernières années. </Paragraphe>
+<Paragraphe>Selon les cas, vous pouvez bénéficier d'un plafonnement de votre facture.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>toute demande de dépôt de garantie réclamé à la souscription de l'abonnement ou à l'occasion d'un incident est interdit et doit faire l'objet d'un remboursement. </Paragraphe>
+</Attention><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>En cas de fuite sur la canalisation après compteur</Paragraphe>
+</Titre><Paragraphe>En cas de fuite, vous n'avez pas à payer la part de la consommation excédant le double de votre consommation moyenne si vous présentez une attestation à votre fournisseur d'eau indiquant qu'une entreprise de plomberie a réparé la fuite. Cette attestation doit préciser la localisation de la fuite et sa date de réparation.</Paragraphe>
+<Paragraphe>L'attestation doit être envoyée dans un délai d'1 mois à partir de la <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> de votre fournisseur vous informant de l'augmentation anormale de votre consommation.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>En l'absence de fuite</Paragraphe>
+</Titre><Paragraphe>Si vous n'avez pas détecté de fuite, vous pouvez demander à votre fournisseur d'eau de <LienInterne LienPublication="R33734" type="Modèle de document" audience="Particuliers"> vérifier le bon fonctionnement de votre compteur</LienInterne>.</Paragraphe>
+<Paragraphe>Cette demande doit être envoyée dans un délai d'1 mois à partir de la <LienIntra LienID="R14732" type="Définition de glossaire">notification</LienIntra> de votre fournisseur vous informant de l'augmentation anormale de votre consommation.</Paragraphe>
+<Paragraphe>Votre fournisseur d'eau doit vous notifier sa réponse dans le délai d'1 mois après réalisation d'une enquête.</Paragraphe>
+<Paragraphe>Si un dysfonctionnement du compteur est constaté, vous n'aurez pas à payer l'excédent.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Dans tous les cas (en cas de fuite ou non), vous n'aurez pas à payer la part de l'excédent si votre fournisseur d'eau ne vous a pas informé de l'augmentation anormale d'eau au plus tard lors de l'envoi de votre facture d'eau.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024025788&amp;cidTexte=LEGITEXT000006070633" ID="R17003">
+<Titre>Code général des collectivités territoriales : article L2224-12-4</Titre>
+</Reference>
+<ServiceEnLigne ID="R33731" URL="http://www.conso.net/content/suite-%C3%A0-une-fuite-d%E2%80%99eau-apr%C3%A8s-compteur-vous-demandez-le-plafonnement-de-votre-facture" type="Modèle de document">
+<Titre>Demander le plafonnement de sa facture d'eau suite à une fuite d'eau après compteur</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R33734" URL="http://www.conso.net/content/vous-souhaitez-obtenir-la-v%C3%A9rification-de-votre-compteur-d%E2%80%99eau" type="Modèle de document">
+<Titre>Demander la vérification de son compteur d'eau</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<Definition ID="R14732">
+<Titre>Notification</Titre>
+<Texte>
+				<Paragraphe>Formalité par laquelle un acte de procédure ou une décision est porté à la connaissance d’une personne</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F20762" audience="Particuliers">Médiateur de l'eau : comment y recourir ?</QuestionReponse>
+<QuestionReponse ID="F20055" audience="Particuliers">Impayés de factures (eau, électricité ou gaz) : quelles conséquences ?</QuestionReponse>
+</Publication>

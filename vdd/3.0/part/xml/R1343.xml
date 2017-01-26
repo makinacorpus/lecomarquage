@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R1343" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande du conjoint survivant en vue d'obtenir le bénéfice du complément de rente de 20%</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Demande du conjoint survivant en vue d'obtenir le bénéfice du complément de rente de 20% - Formulaire</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-06-21</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R1343</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N31163">Rentes et capitaux versés en cas de décès</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R1343" type="Formulaire">Demande du conjoint survivant en vue d'obtenir le bénéfice du complément de rente de 20%</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<NumeroCerfa>60-3555</NumeroCerfa>
+<AutreNumero>S 6108</AutreNumero>
+<Texte><Paragraphe>Permet à la personne qui <LienIntra LienID="R42442" type="Définition de glossaire">vivait en couple</LienIntra> avec un salarié, décédé à la suite d'un accident du travail ou d'une maladie professionnelle, de demander à bénéficier du complément de rente de 20%.</Paragraphe>
+
+</Texte>
+<LienWeb URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6108.pdf">
+<Source>Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</LienWeb>
+<FicheLiee ID="F14868" audience="Particuliers" type="Fiche d'information">
+<Titre>Accident du travail : indemnisation des ayants droit en cas de décès du salarié</Titre>
+<Dossier ID="N31163">Rentes et capitaux versés en cas de décès</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32172" audience="Particuliers" type="Fiche d'information">
+<Titre>Maladie professionnelle : indemnisation des ayants droit du salarié décédé</Titre>
+<Dossier ID="N31163">Rentes et capitaux versés en cas de décès</Dossier>
+</FicheLiee><Definition ID="R42442">
+<Titre>Vivre en couple</Titre>
+<Texte>
+				<Paragraphe>Mariage, Pacs ou concubinage (union libre)</Paragraphe>
+			</Texte>
+</Definition>
+</ServiceComplementaire>

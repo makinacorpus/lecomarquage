@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15984" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quels titres et diplômes sont reconnus comme étant à finalité professionnelle ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les titres et les diplômes reconnus officiellement comme étant à finalité professionnelle sont enregistrés dans le répertoire national des certifications professionnelles (RNCP).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15984</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166607&amp;cidTexte=LEGITEXT000006071191</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N175</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N175">Parcours éducatifs alternatifs</Niveau>
+<Niveau ID="F15984" type="Fiche Question-réponse">Quels titres et diplômes sont reconnus comme étant à finalité professionnelle ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N175">
+<Titre>Parcours éducatifs alternatifs</Titre>
+<Fiche ID="F2039">École de la 2e chance (E2C)</Fiche>
+<Fiche ID="F1190">Établissement public d'insertion de la Défense (EPIDE)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les titres et les diplômes reconnus officiellement comme étant à finalité professionnelle sont enregistrés dans le répertoire national des certifications professionnelles (RNCP).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>Il s'agit notamment :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des baccalauréats professionnels ou technologiques,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des brevets professionnels,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des brevets de techniciens,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des certificats d'aptitude professionnelle (CAP),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des certificats de qualification professionnelle (CQP),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des titres d'ingénieur,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>des licences et masters.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La <LienInterne LienPublication="R40438" type="Téléservice" audience="Particuliers">consultation du RNCP</LienInterne> permet aux personnes et entreprises qui le souhaitent : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de vérifier si un titre ou un diplôme précis est à finalité professionnelle,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de prendre connaissance de tous les titres ou diplômes professionnels valables dans un secteur ou dans un métier défini,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de connaître tous les titres et diplômes correspondant à un même <LienInterne LienPublication="F199" type="Fiche Question-réponse" audience="Particuliers">niveau de qualification</LienInterne> (du niveau I au niveau V).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les titres et diplômes y sont classés par domaine d'activité et par niveau. </Paragraphe>
+<Paragraphe>Le RNCP mentionne également les éventuelles conditions particulières d'obtention d'un diplôme ou d'un titre à finalité professionnelle.</Paragraphe>
+
+</Texte><OuSAdresser ID="R10400" type="National">
+<Titre>Commission nationale de la certification professionnelle (CNCP)</Titre>
+<Complement>Pour obtenir des informations complémentaires</Complement>
+<RessourceWeb URL="https://lannuaire.service-public.fr/gouvernement/conseil-comite-commission-organisme-consultatif_171921"/>
+</OuSAdresser>
+<OuSAdresser ID="R11386" type="Local personnalisé sur SP">
+<Titre>Mission locale</Titre>
+<Complement>Pour obtenir des informations complémentaires</Complement>
+<PivotLocal>mission_locale</PivotLocal>
+<RessourceWeb URL="http://www.unml.info/les-missions-locales/annuaire/"/>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006166607&amp;cidTexte=LEGITEXT000006071191" ID="R10704">
+<Titre>Code de l'éducation : articles L335-1 à L335-17</Titre>
+<Complement>Caractéristiques des diplômes et titres à finalité professionnelle</Complement>
+</Reference>
+<ServiceEnLigne ID="R40438" URL="http://www.rncp.cncp.gouv.fr/" type="Téléservice">
+<Titre>Consultation du répertoire national des certifications professionnelles (RNCP)</Titre>
+<Source ID="R30794">Commission nationale de la certification professionnelle (CNCP)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F199" audience="Particuliers">Quels sont les niveaux de qualification et à quoi correspondent-ils ?</QuestionReponse>
+</Publication>

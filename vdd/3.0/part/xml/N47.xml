@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N47" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Élections</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Pour participer aux élections politiques, il faut être inscrit sur les listes électorales : inscription automatique à 18 ans, déménagement,</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-10-21</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N47</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19810</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N47" type="Dossier">Élections</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N20070">Citoyenneté</SousThemePere>
+<SousDossier ID="N47-1">
+<Titre>Inscription sur les listes électorales</Titre><Fiche ID="F1961">Inscription d'office à 18 ans</Fiche>
+<Fiche ID="F1367">Nouvelle inscription</Fiche>
+<Fiche ID="F1372">Déménagement</Fiche>
+<Fiche ID="F1937">Citoyen européen</Fiche>
+<Fiche ID="F1962">Carte électorale</Fiche>
+</SousDossier>
+<SousDossier ID="N47-2">
+<Titre>Opérations de vote</Titre><Fiche ID="F16828">Déroulement du scrutin</Fiche>
+<Fiche ID="F16904">Vote d'un Français de l'étranger</Fiche>
+<Fiche ID="F1604">Vote par procuration</Fiche>
+</SousDossier>
+<SousDossier ID="N47-3">
+<Titre>Élections et référendums</Titre><Fiche ID="F1944">Européennes</Fiche>
+<Fiche ID="F1940">Présidentielle</Fiche>
+<Fiche ID="F1943">Législatives</Fiche>
+<Fiche ID="F1958">Départementales - Régionales</Fiche>
+<Fiche ID="F1952">Municipales</Fiche>
+<Fiche ID="F1964">Référendum</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>Pour  participer aux élections politiques, il faut être inscrit sur les listes  électorales. L'inscription est automatique pour les jeunes de 18 ans, sous certaines conditions. Si vous vous trouvez dans une autre situation (déménagement, première inscription...), vous devez prendre l'initiative de la demande. </Paragraphe>
+</Texte>
+</Introduction><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<ServiceEnLigne ID="R12675" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14952.do" numerocerfa="14952*01" type="Formulaire">
+<Titre>Procuration pour une élection politique</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R1583" URL="http://www.interieur.gouv.fr/Elections/Comment-voter/Le-vote-par-procuration/Explications-prealables-adressees-au-mandant">Comment remplir la demande de vote par procuration ?</NoticeLiee>
+<NoticeLiee ID="R10645" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51654&amp;cerfaFormulaire=14952" numerocerfa="51654#03">Notice - Vote par procuration</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16024" URL="http://www.interieur.gouv.fr/content/download/32977/245942/file/cerfa_12669_01.pdf" numerocerfa="12669*01 + notice n° 51114#01" type="Formulaire">
+<Titre>Demande d'inscription sur les listes électorales</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R16396" URL="https://www.service-public.fr/particuliers/vosdroits/R16396" type="Téléservice personnalisé sur SP">
+<Titre>Demande d'inscription sur les listes électorales</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+<PivotLocal>ILE</PivotLocal>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38133" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15218.do" format="application/force-download" poids="202.1 KB" numerocerfa="15218*01" type="Formulaire">
+<Titre>Déclaration de candidature aux élections sénatoriales (départements et collectivités élisant leurs sénateurs au scrutin majoritaire) - À remplir par chaque remplaçant</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R38134" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51904&amp;cerfaFormulaire=15218" numerocerfa="51904#01" format="application/pdf" poids="23.8 KB">Notice de la déclaration de candidature aux élections sénatoriales (départements et collectivités élisant leurs sénateurs au scrutin majoritaire)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38131" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15217.do" format="application/force-download" poids="490.8 KB" numerocerfa="15217*01" type="Formulaire">
+<Titre>Déclaration de candidature aux élections sénatoriales (départements et collectivités élisant leurs sénateurs au scrutin majoritaire) - À remplir par chaque candidat</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R38132" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51903&amp;cerfaFormulaire=15217" format="application/pdf" poids="24.8 KB">Notice de la déclaration de candidature aux élections sénatoriales (départements et collectivités élisant leurs sénateurs au scrutin majoritaire)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38129" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15216.do" format="application/force-download" poids="185.1 KB" numerocerfa="15216*01" type="Formulaire">
+<Titre>Déclaration de candidature aux élections sénatoriales (candidature d'une liste - élection au scrutin majoritaire) - À remplir par le mandataire de la liste</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R38130" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51902&amp;cerfaFormulaire=15216" numerocerfa="51902#01" format="application/pdf" poids="22.8 KB">Notice explicative de la déclaration de candidature aux élections sénatoriales (candidature d'une liste - élection au scrutin majoritaire)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R38127" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15215.do" format="application/force-download" poids="203.5 KB" numerocerfa="15215*01" type="Formulaire">
+<Titre>Déclaration de candidature aux élections sénatoriales (départements et collectivités élisant leurs sénateurs à la représentation proportionnelle) - À remplir par chaque candidat</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source><NoticeLiee ID="R38128" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51901&amp;cerfaFormulaire=15215" numerocerfa="51901#01" format="application/pdf" poids="23.7 KB">Notice explicative de la déclaration de candidature aux élections sénatoriales (départements et collectivités élisant leurs sénateurs à la représentation proportionnelle)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R45584" URL="https://declarations.hatvp.fr" type="Téléservice">
+<Titre>Déclaration de situation patrimoniale</Titre>
+<Source ID="R45587">Haute Autorité pour la transparence de la vie publique</Source><NoticeLiee ID="R45588" URL="https://declarations.hatvp.fr/pdf/hatvp-guide-du-declarant.pdf" format="application/pdf" poids="663.1 KB">Guide du déclarant</NoticeLiee>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R20763" URL="http://europa.eu/youreurope/citizens/residence/elections-abroad/index_fr.htm" audience="Particuliers">
+<Titre>Français en Europe : vote, éligibilité aux élections municipales et européennes</Titre>
+<Source ID="R30669">Commission européenne</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2646" URL="http://elections.interieur.gouv.fr" audience="Particuliers">
+<Titre>Connaître les résultats des dernières élections</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32888" audience="Particuliers">Un électeur peut-il demander sa radiation des listes électorales ?</QuestionReponse>
+<QuestionReponse ID="F15748" audience="Particuliers">Peut-on voter sans avoir signalé son déménagement ?</QuestionReponse>
+<QuestionReponse ID="F1939" audience="Particuliers">Quelles sont les dates des prochaines élections ?</QuestionReponse>
+<QuestionReponse ID="F1361" audience="Particuliers">Quelle pièce d'identité peut-on présenter pour voter ?</QuestionReponse>
+<QuestionReponse ID="F11257" audience="Particuliers">Peut-on voter par internet ?</QuestionReponse>
+<QuestionReponse ID="F1963" audience="Particuliers">Comment consulter les listes électorales ?</QuestionReponse>
+<QuestionReponse ID="F1965" audience="Particuliers">Quel justificatif de domicile doit-on produire ?</QuestionReponse>
+</Publication>

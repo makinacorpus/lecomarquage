@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R21506" type="Modèle de document" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Désolidariser un compte joint</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Argent</dc:subject>
+<dc:description>Permet, si ce n'est pas déjà le cas, de faire en sorte que toute opération sur un compte ne puisse être réalisée que sous la signature de tous les cotitulaires (et non plus sous la signature d'un seul d'entre eux). Ce courrier doit être transmis à votre banque via une lettre recommandée avec accusé de réception.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-07-02</dc:date>
+<dc:type>Modèle</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R21506</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Modèle</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19803">Argent</Niveau>
+<Niveau ID="N98">Comptes bancaires</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R21506" type="Modèle de document">Désolidariser un compte joint</Niveau>
+</FilDAriane>
+<Theme ID="N19803">
+<Titre>Argent</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Permet, si ce n'est pas déjà le cas, de faire en sorte que toute opération sur un compte ne puisse être réalisée que sous la signature de tous les cotitulaires (et non plus sous la signature d'un seul d'entre eux). </Paragraphe>
+<Paragraphe>Ce courrier doit être transmis à votre banque via une lettre recommandée avec accusé de réception.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Paragraphe>
+<Citation>Indiquez vos nom et prénom, adresse et numéro de compte.</Citation>
+</Paragraphe>
+<Paragraphe>À <Citation>lieu</Citation>, le <Citation>date</Citation> </Paragraphe>
+<Paragraphe>Objet : Désolidarisation du compte joint</Paragraphe>
+<Paragraphe>
+<Citation>Madame</Citation>/<Citation>Monsieur</Citation>, </Paragraphe>
+<Paragraphe>nous vous prions de bien vouloir procéder à la désolidarisation du compte joint n° <Citation>votre numéro de compte joint</Citation> ouverte aux noms de<Citation> nom et prénoms des cotitulaires</Citation>.</Paragraphe>
+<Paragraphe>Ce compte fonctionnera uniquement sous la signature cumulative de tous les cotitulaires cités à compter de la réception de cette lettre.</Paragraphe>
+<Paragraphe>Nous avons noté que les autorisations permanentes de prélèvement et les ordres de virement permanents qui ont été donnés par l'un d'entre nous antérieurement à cette lettre deviennent caducs par cette désolidarisation.</Paragraphe>
+<Paragraphe>Cordialement,</Paragraphe>
+
+</Texte>
+<FicheLiee ID="F10412" audience="Particuliers" type="Fiche d'information">
+<Titre>Compte bancaire joint</Titre>
+<Dossier ID="N98">Comptes bancaires</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

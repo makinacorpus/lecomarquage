@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1741" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Requête conjointe devant un tribunal civil</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Plusieurs personnes peuvent présenter ensemble une demande au juge dans une requête conjointe, pour que celui-ci tranche ou résolve leur problème (par exemple, en cas d'héritage ou de divorce).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-05-11</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1741</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006410158&amp;idSectionTA=LEGISCTA000006149644&amp;cidTexte=LEGITEXT000006070716</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N274</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N274">Mesures alternatives à un procès (civil ou pénal)</Niveau>
+<Niveau ID="F1741" type="Fiche d'information">Requête conjointe devant un tribunal civil</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N274">
+<Titre>Mesures alternatives à un procès (civil ou pénal)</Titre><SousDossier ID="N274-1">
+<Titre>Au civil</Titre>
+<Fiche ID="F1732">Justice civile : arrangement amiable (accord à l'amiable)</Fiche>
+<Fiche ID="F1741">Requête commune devant un tribunal</Fiche>
+</SousDossier>
+<SousDossier ID="N274-2">
+<Titre>Au pénal</Titre>
+<Fiche ID="F1824">Médiation pénale</Fiche>
+<Fiche ID="F1461">Composition pénale</Fiche>
+<Fiche ID="F10409">Reconnaissance préalable de culpabilité (plaider coupable)</Fiche>
+<Fiche ID="F2277">Autres mesures proposées par le procureur</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Au civil</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Plusieurs personnes peuvent présenter ensemble une demande au juge dans une requête conjointe, pour que celui-ci tranche ou résolve leur problème (par exemple, en cas d'héritage ou de divorce).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Cas concernés</Paragraphe>
+</Titre><Paragraphe>La requête conjointe peut être utilisée seulement si toutes les parties sont d'accord pour régler leur différend et trouver un accord. Les parties saisissent ensemble le tribunal pour lui demander de trancher leur litige. Ce n'est pas une partie qui poursuit l'autre.</Paragraphe>
+<Paragraphe>C'est notamment le cas pour :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>un <LienInterne LienPublication="F16194" type="Fiche d'information" audience="Particuliers">partage d'héritage</LienInterne>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>un conflit de voisinage (par exemple, si votre voisin est d'accord pour s'entendre avec vous sur la construction d'un mur mitoyen),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou un <LienInterne LienPublication="F10569" type="Fiche d'information" audience="Particuliers">divorce pour acceptation du principe de la rupture du mariage</LienInterne>.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Dépôt de la requête</Paragraphe>
+</Titre><Paragraphe>La requête est une simple lettre. <MiseEnEvidence>Une seule et unique lettre </MiseEnEvidence>doit être rédigée quel que soit le nombre de parties.</Paragraphe>
+<Paragraphe>Cette lettre doit contenir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les noms, prénoms, profession, domicile, nationalité, date et lieu de naissance des parties,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>la désignation du tribunal devant lequel est portée la demande,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>une explication et les justificatifs utiles à la démonstration de l'affaire.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>La requête est signée<MiseEnEvidence> par toutes les parties</MiseEnEvidence>. Elle doit être déposée au greffe du tribunal.</Paragraphe>
+<Paragraphe>Le type de tribunal compétent dépend  du montant et de la nature du différend : <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers"/>
+</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">le tribunal d'instance</LienInterne> pour les litiges de moins de <Valeur>10 000 €</Valeur>,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou le <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">tribunal de grande instance</LienInterne> pour les autres litiges et certains litiges spécifiques comme les partages d'héritage, quel que soit le montant en jeu. C'est également à ce tribunal qu'il faut s'adresser en cas de divorce.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le lieu du tribunal dépend du litige. Par exemple, pour un héritage, c'est le tribunal du lieu d'ouverture de la succession.</Paragraphe><OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>La demande doit être déposée dans un certain délai après les faits à l'origine du litige. Ce délai de prescription est en principe de <MiseEnEvidence>5 ans</MiseEnEvidence>. Il existe toutefois des délais de prescription particuliers, par exemple :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>2 ans en matière de crédit à la consommation,</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>10 ans si le demandeur a été victime de dommages corporels.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Procédure</Paragraphe>
+</Titre><Paragraphe>Chaque partie peut se faire assister et représenter par un <LienInterne LienPublication="F2153" type="Fiche d'information" audience="Particuliers">avocat</LienInterne>. L'avocat est par contre obligatoire devant le tribunal de grande instance.</Paragraphe><OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+
+<Paragraphe>Les parties peuvent demander au juge de trancher le litige en <Expression>amiable compositeur</Expression>. C'est-à-dire qu'il doit se baser uniquement sur les demandes des parties et non sur une règle de droit. On parle aussi de <Expression>jugement en équité</Expression>.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>La procédure en elle-même est gratuite.</Paragraphe>
+<Paragraphe>D'autres frais peuvent cependant s'ajouter : avocat, huissier... </Paragraphe>
+<Paragraphe>Vous pouvez bénéficier de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne> pour financer ces dépenses.</Paragraphe>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34" type="Local personnalisable">
+<Titre>Permanence juridique</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>permanence_juridique</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-permanences-juridiques-21770.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R14218" type="Local personnalisable">
+<Titre>Avocat</Titre>
+<Complement>Pour se faire assister</Complement>
+<PivotLocal>avocat_conseil_national</PivotLocal>
+<RessourceWeb URL="http://cnb.avocat.fr/Trouver-un-avocat-en-France_a341.html"/>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<Complement>Pour effectuer la démarche</Complement>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>Pour effectuer la démarche</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006410158&amp;idSectionTA=LEGISCTA000006149644&amp;cidTexte=LEGITEXT000006070716" ID="R592">
+<Titre>Code de procédure civile : articles 53 à 59</Titre>
+<Complement>Dépôt d'une requête conjointe</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R34111" URL="http://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Delais-de-prescription" audience="Particuliers">
+<Titre>Les délais de prescription en justice civile</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</PourEnSavoirPlus>
+</Publication>

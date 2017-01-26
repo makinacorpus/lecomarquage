@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R13567" type="Formulaire" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande de certificat d'immatriculation d'un véhicule</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté, Transports, Secteurs d'activité</dc:subject>
+<dc:description>Formulaire destiné à la préfecture ou sous-préfecture pour toute demande de mise en circulation d'un véhicule à son nom et adresse.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-01-18</dc:date>
+<dc:type>Formulaire</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R13567</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Formulaire</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N19470">Automobile-Moto</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R13567" type="Formulaire">Demande de certificat d'immatriculation d'un véhicule</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19812">
+<Titre>Transports</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<NumeroCerfa>13750*05</NumeroCerfa>
+<LienWeb URL="https://mdel.mon.service-public.fr/mademarchev5/sfjsp?interviewID=13750">
+<Source>Ministère en charge de l'intérieur</Source>
+</LienWeb><NoticeLiee ID="R13571" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=51291&amp;cerfaFormulaire=13754" numerocerfa="51291#01" format="application/pdf" poids="84.3 KB">Notice explicative pour la déclaration de cession et la demande de certificat d'immatriculation</NoticeLiee>
+
+<ServiceEnLigneAnnexe type="Formulaire">
+<Titre>À remplir de façon manuscrite</Titre>
+<LienWeb URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_13750.do" format="application/force-download" poids="241.3 KB"/>
+</ServiceEnLigneAnnexe>
+<FicheLiee ID="F10613" audience="Particuliers" type="Fiche d'information">
+<Titre>Ajouter une autre personne sur sa carte grise</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16876" audience="Particuliers" type="Fiche d'information">
+<Titre>Carte grise : changement du nom d'usage</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F32233" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Carte grise : que faire si vous rachetez le véhicule avant la fin du leasing ?</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1480" audience="Particuliers" type="Fiche d'information">
+<Titre>Carte grise (certificat d'immatriculation) : hériter d'un véhicule</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F10293" audience="Particuliers" type="Fiche d'information">
+<Titre>Carte grise (certificat d'immatriculation) - Première immatriculation</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1050" audience="Particuliers" type="Fiche d'information">
+<Titre>Carte grise (certificat d'immatriculation) - Véhicule d'occasion</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1754" audience="Particuliers" type="Fiche d'information">
+<Titre>Carte grise d'un véhicule retiré de la circulation</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F12118" audience="Particuliers" type="Fiche d'information">
+<Titre>Changer l'adresse de sa carte grise</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F20994" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment immatriculer un véhicule acheté lors d'une vente aux enchères ?</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1925" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment obtenir une carte grise "véhicule de collection" ?</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F33745" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Comment remplacer gratuitement un titre détruit pendant les intempéries ?</Titre>
+<Dossier ID="N358">Carte nationale d'identité</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1726" audience="Particuliers" type="Fiche d'information">
+<Titre>Duplicata de la carte grise : perte, vol ou détérioration</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F22675" audience="Professionnels" type="Fiche d'information">
+<Titre>Immatriculation des véhicules par un professionnel habilité</Titre>
+<Dossier ID="N19470">Automobile-Moto</Dossier>
+</FicheLiee>
+<FicheLiee ID="F16868" audience="Particuliers" type="Fiche Question-réponse">
+<Titre>Que faire si le certificat d'immatriculation (carte grise) comporte une erreur ?</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F31218" audience="Particuliers" type="Fiche d'information">
+<Titre>Retirer un nom de la carte grise (ou certificat d'immatriculation)</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<FicheLiee ID="F1478" audience="Particuliers" type="Fiche d'information">
+<Titre>Véhicule transformé et certificat d'immatriculation (ex-carte grise)</Titre>
+<Dossier ID="N367">Carte grise (certificat d'immatriculation)</Dossier>
+</FicheLiee>
+<Dossier ID="N367">
+<Titre>Carte grise (certificat d'immatriculation)</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

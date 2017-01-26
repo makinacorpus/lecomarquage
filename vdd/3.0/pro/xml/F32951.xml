@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32951" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Saisie sur salaire : les obligations de l'employeur</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>La saisie sur rémunération ou sur salaire est une procédure consistant à prélever une partie du salaire d'un salarié débiteur, quel que soit son contrat de travail, pour rembourser sa dette (impôts, pension alimentaire, etc.) auprès d'un créancier. C'est donc l'employeur qui verse directement une partie de la rémunération du salarié débiteur au créancier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-05-31</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32951</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006902877&amp;idSectionTA=LEGISCTA000006178032&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533766&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000018533720&amp;idSectionTA=LEGISCTA000018533722&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31577</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N31577">Rémunération</Niveau>
+<Niveau ID="F32951" type="Fiche d'information">Saisie sur salaire : les obligations de l'employeur</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+<SousThemePere ID="N10778">Recrutement, aides à l'emploi</SousThemePere><DossierPere ID="N31577">
+<Titre>Rémunération</Titre>
+<Fiche ID="F2300">Salaire minimum de croissance (Smic)</Fiche>
+<Fiche ID="F559">Bulletin de paie</Fiche>
+<Fiche ID="F33659">Salaire au pourboire</Fiche>
+<Fiche ID="F32951">Saisie sur salaire : les obligations de l'employeur</Fiche>
+<Fiche ID="F34016">Nouveau modèle de bulletin de paie : classement des rubriques</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>La saisie sur rémunération ou sur salaire est une procédure consistant à prélever une partie du salaire d'un salarié <LienIntra LienID="R12468" type="Définition de glossaire">débiteur</LienIntra>, quel que soit son contrat de travail, pour rembourser sa dette (impôts, pension alimentaire, etc.) auprès d'un <LienIntra LienID="R15912" type="Définition de glossaire">créancier</LienIntra>. C'est donc l'employeur qui verse directement une partie de la rémunération du salarié débiteur au créancier.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Ordonnance de saisie et responsabilité de l'employeur</Paragraphe>
+</Titre><Paragraphe>Le tribunal d'instance (TI), saisi par le créancier, rend une ordonnance de saisie sur rémunération et informe l'employeur (et le salarié) qu'il va procéder à une retenue sur la fraction saisissable du salaire de son employé.</Paragraphe>
+<Paragraphe>L'employeur doit, dans les 15 jours, informer le tribunal :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>de la situation du salarié dans l'entreprise (CDD ou CDI, par exemple) et les éventuelles autres saisies en cours,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>de tout changement pouvant suspendre ou mettre un terme à la saisie  dans un délai de 8 jours (congé maladie du salarié concerné, par exemple).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe> En aucun cas, le créancier ne peut s'adresser directement à l'employeur pour demander une saisie. Mais, s'il s'agit d'une pension alimentaire, l'acte de saisie peut être directement effectué par un huissier.</Paragraphe>
+<Paragraphe>Tous les mois, l'employeur doit verser  au greffe du tribunal la <LienInterne LienPublication="F31185" type="Fiche Question-réponse" audience="Professionnels">somme saisissable</LienInterne>, sans interruption jusqu'à la fin de saisie notifiée par le greffier.</Paragraphe>
+<Paragraphe>Dans le cas où l'employeur ne respecte pas la décision de saisie sur salaire rendue par le tribunal, il peut être considéré personnellement comme débiteur, et tenu de rembourser la dette de son salarié.</Paragraphe>
+<Paragraphe>L'employeur qui n'informe pas le greffe du tribunal des saisies existantes encourt jusqu'à <Valeur>3 000 €</Valeur> d'amende et des dommages et intérêts.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Calcul de la fraction de salaire saisissable</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Part saisissable</Paragraphe>
+</Titre><Paragraphe>Une partie seulement de la rémunération est saisissable. </Paragraphe>
+<Paragraphe>Le calcul des fractions de salaire pouvant être saisies s'effectue en fonction d'un barème qui prend en compte le niveau de la rémunération et les charges de famille du salarié. </Paragraphe>
+
+				<Tableau>
+<Titre>Barème des saisies sur rémunérations</Titre>
+<Colonne largeur="19" type="normal"/>
+<Colonne largeur="23" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Colonne largeur="20" type="normal"/>
+<Rangée type="header">
+						<Cellule>
+							<Paragraphe>Tranche</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Rémunération mensuelle</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Part saisissable</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Montant maximum mensuel saisissable (montant cumulé)</Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>Tranche 1</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Inférieure ou égale à <Valeur>310,83 €</Valeur>
+</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>1/20</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>
+<Valeur>15,54 €</Valeur>
+</Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>Tranche 2</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Entre <Valeur>310,83 €</Valeur> et <Valeur>606,67 €</Valeur> (inclus)</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>1/10</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>
+<Valeur>45,13 €</Valeur>
+</Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>Tranche 3</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Entre <Valeur>606,67 €</Valeur> et <Valeur>904,17 €</Valeur> (inclus)</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>1/5</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>
+<Valeur>104,63 €</Valeur>
+</Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>Tranche 4</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Entre  <Valeur>904,17 €</Valeur> et  <Valeur>1 200,83 €</Valeur> (inclus)</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>1/4</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>
+<Valeur>178,79 €</Valeur>
+</Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>Tranche 5</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Entre  <Valeur>1 200,83 €</Valeur> et <Valeur>1 497,50 €</Valeur> (inclus)</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>1/3</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>
+<Valeur>277,68 €</Valeur>
+</Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>Tranche 6</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Entre  <Valeur>1 497,50 €</Valeur> et  <Valeur>1 799,17 €</Valeur> (inclus)</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>2/3</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>
+<Valeur>478,79 €</Valeur>
+</Paragraphe>
+						</Cellule>
+					</Rangée>
+<Rangée type="normal">
+						<Cellule>
+							<Paragraphe>Tranche 7</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>Supérieure à <Valeur>1 799,17 €</Valeur>
+</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>100 %</Paragraphe>
+						</Cellule>
+						<Cellule>
+							<Paragraphe>
+<Valeur>478,79 €</Valeur> + la totalité des sommes au-delà de <Valeur>1 799,17 €</Valeur>
+</Paragraphe>
+						</Cellule>
+					</Rangée>
+</Tableau>
+			
+<Paragraphe>Ces seuils sont augmentés de <Valeur>1 420 €</Valeur> par an (soit <Valeur>118,33 €</Valeur> par mois) et par personne à charge, sur présentation des justificatifs.</Paragraphe>
+<Paragraphe>Les personnes à charge, qui doivent habiter avec le débiteur, sont l'époux  ou le concubin, les enfants à charge et l'ascendant dont les ressources sont inférieures à <Valeur>535,17 €</Valeur>, correspondant au montant forfaitaire du RSA.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mode de calcul</Paragraphe>
+</Titre><Paragraphe>Le calcul doit s'effectuer sur le montant total de la rémunération, de ses accessoires et, le cas échéant, de la valeur des avantages en nature, après déduction des cotisations et contributions sociales obligatoires, c'est-à-dire <MiseEnEvidence>sur le salaire net</MiseEnEvidence>.</Paragraphe>
+<Paragraphe>Les proportions saisissables sont fixées en fonction de la rémunération annuelle.</Paragraphe>
+<Paragraphe>Cependant, la retenue étant, en pratique, effectuée par l'employeur lors de chaque paie, il faut déterminer la portion à prélever en fonction de la périodicité de la paie, généralement chaque mois. L'employeur doit donc faire la moyenne des salaires nets des 12 derniers mois. </Paragraphe>
+<Paragraphe>Dans le cas où le salarié est dans l'entreprise depuis moins de 12 mois, l'employeur doit faire le calcul au prorata du nombre de mois de présence.</Paragraphe>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Somme laissée à la disposition du débiteur</Paragraphe>
+</Titre><Paragraphe>Une somme minimale doit obligatoirement être laissée au salarié : cette fraction insaisissable correspond au montant du RSA pour une personne seule (sans tenir compte du nombre de personnes à charge), soit <Valeur>535,17 €</Valeur>.</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>la nature et le montant de la somme saisie doivent être mentionnés sur le bulletin de paie, sous peine de sanctions.</Paragraphe>
+</Attention>
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En cas d'employeurs multiples</Paragraphe>
+</Titre><Paragraphe>Si le salarié concerné a plusieurs employeurs, le greffier du TI détermine les employeurs chargés de procéder aux retenues. </Paragraphe>
+<Paragraphe>Si l'un d'entre eux peut verser la totalité de la somme, il sera chargé de la saisie.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>En cas de créanciers multiples</Paragraphe>
+</Titre><Paragraphe>En présence de plusieurs créanciers, l'employeur doit respecter l'ordre décroissant des retenues (du prioritaire au moins important) :</Paragraphe>
+<Liste type="numero">
+<Item>
+<Paragraphe> pension alimentaire  </Paragraphe>
+</Item>
+<Item>
+<Paragraphe> impôts et taxes</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>condamnations pénales</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>  créances inférieures à <Valeur>500 €</Valeur>
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>autres créances par ordre croissant des sommes dues</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Les services du Trésor peuvent utiliser un avis à tiers-détenteur, pour obtenir le recouvrement de l'impôt ou de la taxe non payée. </Paragraphe>
+<Paragraphe>Les créanciers payés en priorité sont ceux dont les créances sont inférieures à <Valeur>500 €</Valeur>. La priorité de paiement est établie dans l'ordre croissant des sommes dues. </Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F115" audience="Particuliers">
+<Titre>Saisie sur salaire (ou rémunération)</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006902877&amp;idSectionTA=LEGISCTA000006178032&amp;cidTexte=LEGITEXT000006072050" ID="R33165">
+<Titre>Code du travail : articles L3252-1 à L3252-13</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533766&amp;cidTexte=LEGITEXT000006072050" ID="R13083">
+<Titre>Code du travail : articles R3252-1 à R3252-10</Titre>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000018533720&amp;idSectionTA=LEGISCTA000018533722&amp;cidTexte=LEGITEXT000006072050" ID="R33169">
+<Titre>Code du travail : articles R3252-20 à R3252-26</Titre>
+</Reference>
+<Definition ID="R12468">
+<Titre>Débiteur</Titre>
+<Texte>
+				<Paragraphe>Personne tenue envers une autre d'exécuter une obligation (qui peut être une somme d'argent)</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R15912">
+<Titre>Créancier</Titre>
+<Texte>
+				<Paragraphe>Personne à qui l'on doit de l'argent ou la fourniture d'une prestation</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F31185" audience="Professionnels">Quelles sont les sources de revenus saisissables ?</QuestionReponse>
+
+</Publication>

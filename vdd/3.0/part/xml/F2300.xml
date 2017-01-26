@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2300" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Salaire minimum de croissance (Smic)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail, Ressources humaines</dc:subject>
+<dc:description>Le salaire minimum de croissance (Smic) correspond au salaire horaire minimum légal que le salarié doit percevoir. Des abattements sont toutefois applicables, dans certains cas (apprentis et salariés de moins de 18 ans).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2300</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189663&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533888&amp;cidTexte=LEGITEXT000006072050, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533880&amp;cidTexte=LEGITEXT000006072050, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033675194</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N474</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N474">Rémunération dans le secteur privé</Niveau>
+<Niveau ID="F2300" type="Fiche d'information">Salaire minimum de croissance (Smic)</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19963">Rémunération</SousThemePere><DossierPere ID="N474">
+<Titre>Rémunération dans le secteur privé</Titre>
+<Fiche ID="F2301">Salaire, primes et avantages</Fiche>
+<Fiche ID="F2300">Salaire minimum de croissance (Smic)</Fiche>
+<Fiche ID="F2308">Paiement du salaire</Fiche>
+<Fiche ID="F559">Bulletin de paie</Fiche>
+<Fiche ID="F2302">Cotisations salariales</Fiche>
+<Fiche ID="F19846">Remboursement des frais de transport</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Le salaire minimum de croissance (<LienInterne LienPublication="R31127" type="Acronyme">Smic</LienInterne>) correspond au salaire horaire minimum légal que le salarié doit percevoir.
+		Des abattements sont toutefois applicables, dans certains cas (apprentis et salariés de moins de 18 ans).</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>De quoi s'agit-il ?</Paragraphe>
+</Titre><Paragraphe>Le Smic correspond au salaire horaire minimum légal en dessous duquel le salarié ne peut pas être rémunéré</Paragraphe>
+<Paragraphe>Il s'applique à tout salarié majeur, quelle que soit la forme de sa rémunération (au temps, au rendement, à la tâche, à la pièce, à la commission ou au pourboire). </Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>le Smic ne s'applique pas au   VRP car il n'est pas    soumis à un horaire de travail.</Paragraphe>
+</ANoter><Paragraphe>La convention collective applicable prévoit généralement un salaire minimum conventionnel.</Paragraphe>
+<Paragraphe>L'employeur doit verser le minimum conventionnel s'il est supérieur au montant du Smic.</Paragraphe>
+<Paragraphe>Si le minimum conventionnel est inférieur au Smic, l'employeur verse un complément de salaire permettant d'atteindre le montant du Smic.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>La rémunération d'un salarié majeur ne peut pas être inférieure au montant du Smic</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Pour un majeur</Paragraphe>
+</Titre><Tableau>
+<Titre>Montants du Smic </Titre>
+<Colonne largeur="13" type="header"/>
+<Colonne largeur="25" type="normal"/>
+<Colonne largeur="38" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Smic brut</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant brut</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant net </Paragraphe>
+<Paragraphe>(déduction des cotisations salariales)</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Smic horaire</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9,76 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,58 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Smic mensuel</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 480,27 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 149,07 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Smic annuel</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>17 763,20 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>13 788,86 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Pour un mineur</Paragraphe>
+</Titre><Paragraphe>Un salarié  de moins de 18 ans qui n'a pas encore  6 mois de pratique professionnelle dans sa branche d'activité, peut percevoir un Smic minoré.</Paragraphe>
+<Tableau>
+<Titre>Montants du Smic minoré d'un salarié mineur</Titre>
+<Colonne largeur="18" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Âge du salarié</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Smic  horaire brut minoré</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>17 ans</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>8,78 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>16 ans (et moins)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>7,81 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Un abattement spécifique est également prévu s'il s'agit d'un  jeune  en <LienInterne LienPublication="F15478" type="Fiche d'information" audience="Particuliers">contrat de professionnalisation</LienInterne> ou en d'un <LienInterne LienPublication="N11240" type="Dossier" audience="Particuliers">contrat d'apprentissage</LienInterne>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+<Paragraphe>Pour vérifier si le salaire versé est au moins égal au Smic, il faut inclure dans le calcul le salaire de base, les avantages en nature et les primes liées à la productivité.</Paragraphe>
+<Paragraphe>À l'inverse, certains avantages et sommes sont exclus du calcul du Smic, parmi lesquels :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>les remboursements de frais (y compris la prime de transport),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les majorations pour heures supplémentaires,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les primes de participation et d'intéressement,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les primes d'ancienneté, d'assiduité ou relatives à des conditions particulières de travail (insalubrité),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les primes de vacances, de fin d'année, sauf si elles sont versées par acomptes mensuels.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Minimum conventionnel</Paragraphe>
+</Titre><Paragraphe>La convention collective applicable prévoit généralement un salaire minimum conventionnel.</Paragraphe>
+<Paragraphe>L'employeur doit verser le minimum conventionnel s'il est supérieur au montant du Smic.</Paragraphe>
+<Paragraphe>Si le minimum conventionnel est inférieur au Smic, l'employeur verse un complément de salaire permettant d'atteindre le montant du Smic.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Comment est-il revalorisé ?</Paragraphe>
+</Titre><Paragraphe>Le Smic est revalorisé chaque année au 1<Exposant>er</Exposant> janvier. Il est indexé sur l'inflation mesurée pour les 20 % des ménages ayant les revenus les plus faibles. La revalorisation du Smic est effectuée sur la base de la moitié du gain de pouvoir d'achat du salaire horaire moyen des ouvriers et des employés.</Paragraphe>
+<Paragraphe>En cours d'année, si <LienExterne URL="http://www.insee.fr/fr/bases-de-donnees/bsweb/serie.asp?idbank=000641194">l'indice des prix à la consommation</LienExterne>
+
+ atteint une hausse d'au moins 2 % par rapport à l'indice constaté lors de l'établissement du dernier montant du Smic, il est augmenté automatiquement dans les mêmes proportions.</Paragraphe>
+<Paragraphe>En outre, à tout moment, le gouvernement peut décider d'augmenter le Smic.</Paragraphe>
+
+</Chapitre>
+</Texte><VoirAussi important="non">
+<Fiche ID="F2302" audience="Particuliers">
+<Titre>Cotisations salariales - Salarié du secteur privé</Titre>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189663&amp;cidTexte=LEGITEXT000006072050" ID="R35100">
+<Titre>Code du travail : articles L3231-2 à L3231-3</Titre>
+<Complement>Principes du Smic</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533888&amp;cidTexte=LEGITEXT000006072050" ID="R35101">
+<Titre>Code du travail : articles R3231-2 à D3231-3</Titre>
+<Complement>Minoration du Smic (jeunes salariés)</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533880&amp;cidTexte=LEGITEXT000006072050" ID="R35102">
+<Titre>Code du travail : articles R3231-4 à D3231-6</Titre>
+<Complement>Vérification du Smic</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033675194" ID="R1356">
+<Titre>Décret n° 2016-1818 du 22 décembre 2016 portant relèvement du salaire minimum de croissance</Titre>
+<Complement>Montant du Smic</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R38156" URL="https://www.insee.fr/fr/statistiques/1375188" audience="Particuliers">
+<Titre>Évolution du Smic depuis 2001</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R3111" URL="http://www.insee.fr/fr/bases-de-donnees/bsweb/serie.asp?idbank=000641194" audience="Particuliers">
+<Titre>Évolution de l'indice des prix à la consommation : ensemble des ménages</Titre>
+<Source ID="R30605">Institut national de la statistique et des études économiques (Insee)</Source>
+</PourEnSavoirPlus>
+<Abreviation ID="R31127" type="Acronyme">
+<Titre>Smic</Titre>
+<Texte>
+<Paragraphe>Salaire minimum interprofessionnel de croissance</Paragraphe>
+</Texte>
+</Abreviation>
+
+</Publication>

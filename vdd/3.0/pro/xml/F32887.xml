@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F32887" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Comment déterminer la nature de l'activité d'une entreprise ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Création - Modification - Cessation</dc:subject>
+<dc:description>Lors de la création d'une entreprise, le porteur de projet doit déterminer avec précision la nature de son activité, car celle-ci est déterminante en matière de formalités, de fiscalité, de gestion de l'entreprise, de statut social du dirigeant, etc. L'activité d'une entreprise peut être commerciale, industrielle, artisanale, agricole ou libérale.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-15</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F32887</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006219127&amp;idSectionTA=LEGISCTA000006133171&amp;cidTexte=LEGITEXT000005634379, http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000193678</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N16147</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Tout professionnel</Cible>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24264">Création - Modification - Cessation</Niveau>
+<Niveau ID="N16147">Préalables à la création d'entreprise</Niveau>
+<Niveau ID="F32887" type="Fiche Question-réponse">Comment déterminer la nature de l'activité d'une entreprise ?</Niveau>
+</FilDAriane>
+<Theme ID="N24264">
+<Titre>Création - Modification - Cessation</Titre>
+</Theme>
+<SousThemePere ID="N31375">Création d'entreprise</SousThemePere><DossierPere ID="N16147">
+<Titre>Préalables à la création d'entreprise</Titre>
+<Fiche ID="F23281">Étude de marché</Fiche>
+<Fiche ID="F23844">Choix du statut juridique de l'entreprise en création</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Lors de la création d'une entreprise, le porteur de projet doit déterminer avec précision la nature de son activité, car celle-ci est déterminante en matière de formalités, de fiscalité, de gestion de l'entreprise, de statut social du dirigeant, etc. L'activité d'une entreprise peut être commerciale, industrielle, artisanale, agricole ou libérale.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Tableau>
+<Titre>Nature de l'activité d'une entreprise</Titre>
+<Colonne largeur="18" type="normal"/>
+<Colonne largeur="99" type="normal"/>
+<Colonne largeur="27" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Nature de l'activité</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Caractéristiques</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Formalités de déclaration</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Artisanale</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Activité de production, de transformation ou de prestation de service relevant de l'artisanat, grâce à un savoir-faire particulier : <LienExterne URL="https://www.cfe-metiers.com/HTM/activites.aspx">activités relevant de l'artisanat</LienExterne>
+
+</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Personne physique ou morale</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>N'employant pas plus de 10 salariés</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Activités répertoriées par un décret</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23887" type="Fiche d'information" audience="Professionnels">Déclaration d'activité d'un artisan</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Commerciale</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Achats de biens pour leur revente en l'état (commerce en gros ou de détail)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Vente de prestations de services commerciales (location de matériel, transport, agence immobilière, hôtellerie-restauration, entreprise de spectacles, activité de sécurité privée, location, etc.)</Paragraphe>
+</Item>
+</Liste>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F22632" type="Fiche d'information" audience="Professionnels">Ouverture d'un commerce</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Industrielle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Activité de production ou de transformation grâce à l'utilisation d'outils industriels, extraction, industries minières, manutention, magasinage et stockage</Paragraphe>
+</Cellule>
+<Cellule/>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Agricole</Paragraphe>
+</Cellule>
+<Cellule>
+<Liste type="puce">
+<Item>
+<Paragraphe>Activité d'élevage ou de production végétale, y compris transformation et commercialisation de produits agricoles</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>Activités exercées par un exploitant agricole dans le prolongement de l'acte de production :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>accueil touristique ayant pour support l'exploitation agricole (fermes-auberges, gîtes ruraux, chambres d'hôtes, camping à la ferme, relais équestres)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>production et commercialisation de biogaz, d'électricité et de chaleur par la méthanisation, lorsque cette production est issue pour au moins 50 % de matières provenant d' exploitations agricoles</Paragraphe>
+</Item>
+</Liste>
+</Item>
+</Liste>
+</Cellule>
+<Cellule/>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Libérale</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe> <LienExterne URL="https://www.afecreation.fr/pid14832/liste-des-activites-liberales.html">Activités libérales réglementées ou non réglementées</LienExterne>
+
+ : prestations intellectuelles, techniques ou de soins requérant des qualifications professionnelles et  le respect d'une déontologie professionnelle</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<LienInterne LienPublication="F23458" type="Fiche d'information" audience="Professionnels">Déclaration pour les professions libérales</LienInterne>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Une activité de <MiseEnEvidence>prestation de services</MiseEnEvidence> peut être de nature :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>commerciale (agent immobilier, restaurateur, entrepreneur de spectacles...)</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>artisanale (coiffeur, taxi...) </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou libérale (médecin, consultant, formateur...).</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour une <MiseEnEvidence>activité mixte</MiseEnEvidence>, par exemple une activité  à la fois commerciale et libérale, le porteur de projet doit déterminer l'activité  principale et l'activité accessoire, exercée dans le prolongement de la première. Le CFE auquel s'adresser est celui de l'activité principale.</Paragraphe>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006219127&amp;idSectionTA=LEGISCTA000006133171&amp;cidTexte=LEGITEXT000005634379" ID="R649">
+<Titre>Code de commerce : articles L110-1 à L110-4</Titre>
+<Complement>Définition des actes de commerce</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000193678" ID="R40624">
+<Titre>Loi n°96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat</Titre>
+<Complement>Définition de l'artisanat</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R17436" URL="https://www.cfe-metiers.com/HTM/activites.aspx" audience="Professionnels">
+<Titre>Quelles sont les activités relevant de l'artisanat ?</Titre>
+<Source ID="R30750">Assemblée permanente des chambres de métiers (APCM)</Source>
+</PourEnSavoirPlus>
+</Publication>

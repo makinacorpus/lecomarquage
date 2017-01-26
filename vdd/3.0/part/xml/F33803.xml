@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F33803" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Quand faut-il mettre en place un CHSCT ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Travail</dc:subject>
+<dc:description>La mise en place d'un CHSCT est obligatoire lorsque l'entreprise atteint au moins 50 salariés pendant 12 mois au cours des 3 années précédentes.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-12</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F33803</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189742&amp;cidTexte=LEGITEXT000006072050</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N518</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19806">Travail</Niveau>
+<Niveau ID="N518">Représentation du personnel dans l'entreprise</Niveau>
+<Niveau ID="F33803" type="Fiche Question-réponse">Quand faut-il mettre en place un CHSCT ?</Niveau>
+</FilDAriane>
+<Theme ID="N19806">
+<Titre>Travail</Titre>
+</Theme>
+<SousThemePere ID="N19966">Relations individuelles et collectives de travail</SousThemePere><DossierPere ID="N518">
+<Titre>Représentation du personnel dans l'entreprise</Titre>
+<Fiche ID="F102">Délégué syndical</Fiche>
+<Fiche ID="F32078">Représentant de la section syndicale (RSS)</Fiche>
+<Fiche ID="F1972">Délégué du personnel (DP)</Fiche>
+<Fiche ID="F96">Comité d'entreprise (CE)</Fiche>
+<Fiche ID="F32085">Comité d'hygiène, de sécurité et des conditions de travail (CHSCT)</Fiche>
+<Fiche ID="F1775">Délégation unique du personnel (DUP)</Fiche>
+<Fiche ID="F33481">Instance unique</Fiche>
+</DossierPere>
+
+<Texte><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>50 salariés et plus</Paragraphe>
+</Titre><Paragraphe>La mise en place d'un comité d'hygiène, de sécurité et des conditions de travail (CHSCT) est obligatoire lorsque l'effectif de l'entreprise atteint au moins 50 salariés pendant 12 mois, consécutifs ou non, au cours des 3 années précédentes.</Paragraphe>
+<Paragraphe>Dans chaque établissement d'au moins 50 salariés, un CHSCT est mis en place. Si l'entreprise ayant 50 salariés minimum est constituée uniquement d'établissements de moins de 50 salariés, un CHSCT doit être mis en place dans au moins l'un d'entre eux.</Paragraphe>
+<Paragraphe>Plusieurs CHSCT sont constitués dans un même établissement dès lors qu'il regroupe au moins 500 salariés. Leur nombre est déterminé par accord entre l'employeur et le comité d'entreprise (CE).</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>Tout salarié d'une entreprise d'au moins 50 salariés doit être rattaché à un CHSCT, quelle que soit la taille de l'établissement dans lequel il travaille.</Paragraphe>
+</ANoter>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Moins de 50 salariés</Paragraphe>
+</Titre><Paragraphe>L'entreprise n'est pas tenue de mettre en place un CHSCT.</Paragraphe>
+<Paragraphe>Plusieurs entreprises de moins de 50 salariés peuvent se regrouper sur un plan professionnel ou interprofessionnel afin de mettre en place un CHSCT commun.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189742&amp;cidTexte=LEGITEXT000006072050" ID="R36812">
+<Titre>Code du travail : articles L4611-1 à L4611-7</Titre>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R36393" URL="http://travail-emploi.gouv.fr/sante-au-travail/acteurs/comite-d-hygiene-de-securite-et-des-conditions-de-travail/qu-est-ce-qu-un-chsct/article/danger-grave-et-imminent" audience="Particuliers">
+<Titre>Qu'est-ce qu'un danger grave et imminent au travail ?</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F32031" audience="Particuliers">Qui peut lancer une alerte sanitaire et environnementale dans l'entreprise ?</QuestionReponse>
+</Publication>

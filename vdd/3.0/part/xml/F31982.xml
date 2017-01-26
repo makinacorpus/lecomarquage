@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F31982" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Justice pénale : quels délais de prescription ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Les délais de prescription pour porter plainte varient selon le type d'infraction et de la situation de la victime au moment des faits.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-12-22</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F31982</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024496760&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024496743&amp;cidTexte=LEGITEXT000006071154, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028531549&amp;cidTexte=JORFTEXT000000877119</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N263</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N263">Procès pénal</Niveau>
+<Niveau ID="F31982" type="Fiche Question-réponse">Justice pénale : quels délais de prescription ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N263">
+<Titre>Procès pénal</Titre><SousDossier ID="N263-1">
+<Titre>Déclenchement de la procédure</Titre>
+<Fiche ID="F1435">Plainte simple</Fiche>
+<Fiche ID="F20798">Plainte avec constitution de partie civile</Fiche>
+<Fiche ID="F1455">Citation directe</Fiche>
+</SousDossier>
+<SousDossier ID="N263-2">
+<Titre>Enquête</Titre>
+<Fiche ID="F14837">Garde à vue</Fiche>
+<Fiche ID="F32326">Perquisition</Fiche>
+<Fiche ID="F1456">Information judiciaire</Fiche>
+<Fiche ID="F1470">Mise en examen</Fiche>
+</SousDossier>
+<SousDossier ID="N263-3">
+<Titre>Moyens de contrainte</Titre>
+<Fiche ID="F2902">Contrôle judiciaire</Fiche>
+<Fiche ID="F2007">Assignation à résidence avec surveillance électronique</Fiche>
+<Fiche ID="F1042">Détention provisoire</Fiche>
+</SousDossier>
+<SousDossier ID="N263-4">
+<Titre>Déroulement d'un procès</Titre>
+<Fiche ID="F1457">Devant le tribunal de police</Fiche>
+<Fiche ID="F1485">Devant le tribunal correctionnel</Fiche>
+<Fiche ID="F1487">Devant la cour d'assises</Fiche>
+<Fiche ID="F1489">Audition des témoins</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Les délais de prescription pour porter plainte varient selon le type d'infraction et de la situation de la victime au moment des faits.</Paragraphe>
+</Texte>
+</Introduction>
+<ListeSituations affichage="onglet"><Situation>
+<Titre>Majeur</Titre>
+<Texte><Paragraphe>Le délai pour porter plainte dépend de l'infraction commise.</Paragraphe>
+
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="34" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Infraction</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Délai de prescription</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contravention</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1 an</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Délit</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Crime</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Harcèlement</Paragraphe>
+</Titre><Paragraphe>Le <LienInterne LienPublication="F32247" type="Fiche Question-réponse" audience="Particuliers">harcèlement</LienInterne> (moral, sexuel, téléphonique...) est considéré comme une infraction d'habitude, c'est-à-dire commise de façon répétée sur une période plus ou moins longue.</Paragraphe>
+<Paragraphe>Dans ce cas, le délai de 3 ans commence à partir de l'acte le plus récent de harcèlement. Par exemple, le dernier appel téléphonique. La justice prendra en compte l'ensemble des actes commis précédemment même s'ils datent de plus de 3 ans.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Abus de confiance</Paragraphe>
+</Titre><Paragraphe>L'abus de confiance est considéré comme une infraction clandestine. </Paragraphe>
+<Paragraphe>Le délai de prescription (3 ans) démarre à partir du moment où les faits sont découverts. Et ce, même s'il y a un long délai entre les faits et leur découverte. Par exemple, il peut y avoir une plainte si la victime découvre 5 ans après les faits que son argent a été détourné.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. Le point de départ est celui de la découverte des faits par le procureur.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Injure ou diffamation</Paragraphe>
+</Titre><Paragraphe>En cas <LienInterne LienPublication="F32077" type="Fiche d'information" audience="Particuliers">d'injure</LienInterne>  ou de <LienInterne LienPublication="F32079" type="Fiche d'information" audience="Particuliers">diffamation</LienInterne>, des délais plus courts s'appliquent.</Paragraphe>
+<Paragraphe> La plainte doit être déposée 3 mois (cas général) ou 1 an (en cas de racisme, sexisme ou homophobie) après la publication ou le prononcé des propos.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Mineur</Titre>
+<Texte><Paragraphe>Le délai pour porter plainte dépend de l'infraction commise.</Paragraphe>
+
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="34" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Infraction</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Délai de prescription</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contravention</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1 an</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Délit</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Crime</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Agression sexuelle</Paragraphe>
+</Titre><Paragraphe>La victime peut porter plainte :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>jusqu'à ses 38 ans, si elle avait moins de 15 ans au moment des faits ou si l'auteur des faits est un parent ou une personne ayant autorité (professeur...),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>jusqu'à ses 28 ans dans les autres cas.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le procureur peut aussi  lancer des poursuites de lui-même jusqu'aux 28 ou 38 ans de la victime.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Viol</Paragraphe>
+</Titre><Paragraphe> La victime peut porter plainte jusqu'à ses 38 ans.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>le procureur peut aussi  lancer des poursuites de lui-même jusqu'aux 38 ans de la victime.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Harcèlement</Paragraphe>
+</Titre><Paragraphe>Le <LienInterne LienPublication="F32247" type="Fiche Question-réponse" audience="Particuliers">harcèlement</LienInterne> (scolaire, en ligne...) est considéré comme une infraction d'habitude, c'est-à-dire commise de façon répétée sur une période plus ou moins longue.</Paragraphe>
+<Paragraphe>Dans ce cas, le délai de 3 ans commence à partir de l'acte le plus récent de harcèlement. Par exemple, le dernier appel téléphonique. La justice prendra en compte l'ensemble des actes commis précédemment même s'ils datent de plus de 3 ans.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Abus de confiance</Paragraphe>
+</Titre><Paragraphe>L'abus de confiance est considéré comme une infraction clandestine. </Paragraphe>
+<Paragraphe>Le délai de prescription (3 ans) démarre à partir du moment où les faits sont découverts. Et ce, même s'il y a un long délai entre les faits et leur découverte. Par exemple, il peut y avoir une plainte si la victime découvre 5 ans après les faits que son argent a été détourné.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même. Le procureur peut repousser les poursuites tant que la victime n'est pas considérée comme consciente des faits.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Injure ou diffamation</Paragraphe>
+</Titre><Paragraphe>En cas <LienInterne LienPublication="F32077" type="Fiche d'information" audience="Particuliers">d'injure</LienInterne>  ou de <LienInterne LienPublication="F32079" type="Fiche d'information" audience="Particuliers">diffamation</LienInterne>, des délais plus courts s'appliquent.</Paragraphe>
+<Paragraphe> La plainte doit être déposée 3 mois (cas général) ou 1 an (en cas de racisme, sexisme ou homophobie) après la publication ou le prononcé des propos.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+<Situation>
+<Titre>Personne vulnérable</Titre>
+<Texte><Paragraphe>Le délai pour porter plainte dépend de l'infraction commise.</Paragraphe>
+
+<Chapitre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><Tableau>
+<Colonne largeur="35" type="normal"/>
+<Colonne largeur="34" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Infraction</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Délai de prescription</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Contravention</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>1 an</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Délit</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>3 ans</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Crime</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>10 ans</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Abus de faiblesse</Paragraphe>
+</Titre><Paragraphe>La victime a un délai de 3 ans pour porter plainte à partir du jour où :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>elle a pris conscience de l'infraction.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et est capable de témoigner dans la justice.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même. Le procureur peut repousser les poursuites tant que la victime n'est pas considérée comme consciente des faits.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Abus de confiance</Paragraphe>
+</Titre><Paragraphe>La victime a un délai de 3 ans pour porter plainte à partir du jour où :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>elle a pris conscience de l'infraction.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et est capable de témoigner dans la justice.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même. Le procureur peut repousser les poursuites tant que la victime n'est pas considérée comme consciente des faits.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Escroquerie</Paragraphe>
+</Titre><Paragraphe>La victime a un délai de 3 ans pour porter plainte à partir du jour où :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>elle a pris conscience de l'infraction.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et est capable de témoigner dans la justice.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même. Le procureur peut repousser les poursuites tant que la victime n'est pas considérée comme consciente des faits.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vol</Paragraphe>
+</Titre><Paragraphe>La victime a un délai de 3 ans pour porter plainte à partir du jour où :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>elle a pris conscience de l'infraction.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et est capable de témoigner dans la justice.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même. Le procureur peut repousser les poursuites tant que la victime n'est pas considérée comme consciente des faits.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Abus de faiblesse</Paragraphe>
+</Titre><Paragraphe>La victime a un délai de 3 ans pour porter plainte à partir du jour où :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>elle a pris conscience de l'infraction.</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et est capable de témoigner dans la justice.</Paragraphe>
+</Item>
+</Liste>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même. Le procureur peut repousser les poursuites tant que la victime n'est pas considérée comme consciente des faits.</Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Harcèlement</Paragraphe>
+</Titre><Paragraphe>Le <LienInterne LienPublication="F32247" type="Fiche Question-réponse" audience="Particuliers">harcèlement</LienInterne> (moral, sexuel, téléphonique...) est considéré comme une infraction d'habitude, c'est-à-dire commise de façon répétée sur une période plus ou moins longue.</Paragraphe>
+<Paragraphe>Dans ce cas, le délai de 3 ans commence à partir de l'acte le plus récent de harcèlement. Par exemple, le dernier appel téléphonique. La justice prendra en compte l'ensemble des actes commis précédemment même s'ils datent de plus de 3 ans.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Injure ou diffamation</Paragraphe>
+</Titre><Paragraphe>En cas <LienInterne LienPublication="F32077" type="Fiche d'information" audience="Particuliers">d'injure</LienInterne>  ou de <LienInterne LienPublication="F32079" type="Fiche d'information" audience="Particuliers">diffamation</LienInterne>, des délais plus courts s'appliquent.</Paragraphe>
+<Paragraphe> La plainte doit être déposée 3 mois (cas général) ou 1 an (en cas de racisme, sexisme ou homophobie) après la publication ou le prononcé des propos.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>ce délai s'applique aussi au procureur s'il veut lancer des poursuites de lui-même en l'absence de plainte. </Paragraphe>
+</ASavoir>
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte>
+</Situation>
+</ListeSituations><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024496760&amp;cidTexte=LEGITEXT000006071154" ID="R35702">
+<Titre>Code de procédure pénale : articles 7 et 8</Titre>
+<Complement>Délais pour porter plainte en cas de crimes et délits</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000024496743&amp;cidTexte=LEGITEXT000006071154" ID="R32718">
+<Titre>Code de procédure pénale : article 9</Titre>
+<Complement>Prescription en matière de contravention</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000028531549&amp;cidTexte=JORFTEXT000000877119" ID="R36036">
+<Titre>Loi du 29 juillet 1881 sur la liberté de la presse : article 65-3</Titre>
+<Complement>Prescription des délits de presse</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R35961" URL="http://www.interieur.gouv.fr/A-votre-service/Ma-securite/Aide-aux-victimes" audience="Particuliers">
+<Titre>Guide des droits des victimes</Titre>
+<Source ID="R30603">Ministère en charge de l'intérieur</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F1157" audience="Particuliers">Quelles sont les différences entre une contravention, un délit et un crime ?</QuestionReponse>
+<QuestionReponse ID="F1154" audience="Particuliers">Le procureur est-il tenu d'engager des poursuites à la suite d'une plainte ?</QuestionReponse>
+<QuestionReponse ID="F20789" audience="Particuliers">Que faire si on est victime d'une infraction ?</QuestionReponse>
+</Publication>

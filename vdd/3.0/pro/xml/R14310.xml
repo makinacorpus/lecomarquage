@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R14310" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Recherche de produits certifiés par le laboratoire national de métrologie et d'essais (LNE)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Informations gratuites sur les caractéristiques certifiées, les entreprises titulaires et les produits.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-04-30</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R14310</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N23442">Recherche</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R14310" type="Téléservice">Recherche de produits certifiés par le laboratoire national de métrologie et d'essais (LNE)</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Informations gratuites sur les caractéristiques certifiées, les entreprises titulaires et les produits.</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://www.lne.fr/fr/certification/entreprises-certifiees.asp">
+<Source>Laboratoire national de métrologie et d'essais (LNE)</Source>
+</LienWeb>
+<FicheLiee ID="F23956" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Signes et normes de qualité</Titre>
+<Dossier ID="N23442">Recherche</Dossier>
+</FicheLiee>
+</ServiceComplementaire>

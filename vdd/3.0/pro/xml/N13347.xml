@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N13347" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Spectacle vivant (théâtre, danse, spectacles)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Spectacle vivant (théâtre, danse, spectacles)</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-27</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N13347</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13347" type="Dossier">Spectacle vivant (théâtre, danse, spectacles)</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+<SousThemePere ID="N22282">Culture</SousThemePere>
+<Fiche ID="F22365">Licence d'entrepreneur de spectacles</Fiche>
+<Fiche ID="F23143">Enseignement de la danse</Fiche>
+<Fiche ID="F22235">Spectacle pyrotechnique</Fiche>
+<Fiche ID="F22631">Spectacle itinérant : conditions d'utilisation d'animaux non domestiques</Fiche>
+<Fiche ID="F33872">Aides financières au spectacle vivant</Fiche><VoirAussi important="non">
+<Fiche ID="F22388" audience="Professionnels">
+<Titre>Déclaration d'activité d'un artiste-auteur</Titre>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F20781" audience="Professionnels">
+<Titre>Taux de TVA dans le secteur culturel</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+<Fiche ID="F33651" audience="Professionnels">
+<Titre>Crédit d'impôt pour les entreprises de spectacles vivants musicaux</Titre>
+<Theme ID="N24265">
+<Titre>Fiscalité</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<ServiceEnLigne ID="R18250" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12681.do" format="application/pdf" poids="169.2 KB" numerocerfa="12681*03" type="Formulaire">
+<Titre>Demande d'agrément des organismes assurant une formation spécifique à la sécurité des spectacles</Titre>
+<Source ID="R30679">Ministère en charge de la culture et de la communication</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R10618" URL="http://fms.cnd.fr/Repertoire_des_Compagnies/findrecords.php" type="Téléservice">
+<Titre>Répertoire des compagnies chorégraphiques</Titre>
+<Source ID="R30614">Centre national de la danse (CND)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R32346" URL="http://www.culturecommunication.gouv.fr/content/download/95243/856100/file/guideweb_2.pdf" audience="Professionnels" format="application/pdf" poids="0">
+<Titre>Guide des dispositifs de soutien à la création et au développement des entreprises culturelles</Titre>
+<Source ID="R30679">Ministère en charge de la culture et de la communication</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R24504" URL="http://www.cnap.fr/140-aides-privees-et-publiques-en-faveur-des-artistes" audience="Professionnels">
+<Titre>Guide des 140 aides privées et publiques en faveur des artistes</Titre>
+<Source ID="R30740">Centre national des arts plastiques (Cnap)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2796" URL="http://www.cnd.fr/professionnels/construire-son-projet/professionnels/aide_recherche_patrimoine_danse" audience="Professionnels">
+<Titre>Dispositifs d'aide à la recherche et au patrimoine en danse</Titre>
+<Source ID="R30614">Centre national de la danse (CND)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R14682" URL="http://www.cnap.fr/navigation/soutien-anbsplanbspcreation/artistes/soutien-une-rechercheproduction-artistique-soutien-e" audience="Professionnels">
+<Titre>Soutien à la création artistique contemporaine</Titre>
+<Source ID="R30740">Centre national des arts plastiques (Cnap)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R31596" URL="http://mutualise.artishoc.com/cnd/media/5/contratcessionjanv2013.pdf" audience="Professionnels" format="application/pdf" poids="337.6 KB">
+<Titre>Contrat de cession de droits d'exploitation d'un spectacle</Titre>
+<Source ID="R30614">Centre national de la danse (CND)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F355" audience="Professionnels">Dans quelles conditions peut-on utiliser un pseudonyme ?</QuestionReponse>
+<QuestionReponse ID="F32290" audience="Professionnels">Dans quelles conditions un artiste peut-il enseigner ?</QuestionReponse>
+</Publication>

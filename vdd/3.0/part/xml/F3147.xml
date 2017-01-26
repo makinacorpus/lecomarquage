@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F3147" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Chômage : formation du demandeur d'emploi</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Si vous êtes au chômage, vous pouvez bénéficier d'une formation afin d'acquérir des compétences complémentaires ou d'apprendre un nouveau métier.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-02-08</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F3147</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31131</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N31131">Chômage : aides à la formation</Niveau>
+<Niveau ID="F3147" type="Fiche avec liens externes">Chômage : formation du demandeur d'emploi</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N461">Chômage</SousThemePere><DossierPere ID="N31131">
+<Titre>Chômage : aides à la formation</Titre>
+<Fiche ID="F3147">Formation du demandeur d'emploi</Fiche>
+<Fiche ID="F12382">Compte personnel de formation (CPF)</Fiche>
+<Fiche ID="F291">Allocation d'aide au retour à l'emploi formation (Aref)</Fiche>
+<Fiche ID="F292">Rémunération de fin de formation (RFF)</Fiche>
+<Fiche ID="F760">Régime public de rémunération (RFPE)</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous êtes au chômage, vous pouvez bénéficier d'une formation afin d'acquérir des compétences complémentaires ou d'apprendre un nouveau métier. </Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.pole-emploi.fr/candidat/identifiez-les-organismes-de-formation-@/article.jspz?id=60612">Demandeur d'emploi : une formation, pourquoi et comment ?</LienExterne>
+
+<Source ID="R30668">Pôle emploi</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.pole-emploi.fr/candidat/je-me-forme-@/index.jspz?id=77299">Formation d'un demandeur d'emploi : information, accompagnement, aide financière</LienExterne>
+
+<Source ID="R30668">Pôle emploi</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="https://www1.pole-emploi.fr/faq/faqcandidat?question=0&amp;rubrique=6&amp;soustheme=5326&amp;theme=5307">Foire aux questions : formation - orientation</LienExterne>
+
+<Source ID="R30668">Pôle emploi</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.intercariforef.org/formations/recherche-avancee-formations.html">Recherche d'une offre de formation professionnelle continue</LienExterne>
+
+<Source ID="R30761">Réseau des centres d'animation, de ressources et d'information sur la formation (Carif-Oref)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.pole-emploi.fr/candidat/je-valide-mes-acquis-@/index.jspz?id=77279">Valider ses acquis de l'expérience (VAE)</LienExterne>
+
+<Source ID="R30668">Pôle emploi</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.pole-emploi.fr/actualites/pourquoi-et-comment-faire-un-bilan-de-competences--@/article.jspz?id=60877">Faire un bilan de compétences</LienExterne>
+
+<Source ID="R30668">Pôle emploi</Source>
+</LienExterneCommente>
+</Publication>

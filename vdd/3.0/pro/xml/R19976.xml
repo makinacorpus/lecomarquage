@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R19976" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Déclaration des ventes de produits phytosanitaires</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Secteurs d'activité</dc:subject>
+<dc:description>Les distributeurs agréés de produits phytosanitaires ont l'obligation de déclarer le bilan de leurs ventes de l'année précédente, avant le 31 mars de chaque année (loi sur l'eau et les milieux aquatiques du 30 décembre 2006). La transmission peut être faite par internet et permet ainsi aux distributeurs de satisfaire à leur obligation de traçabilité des ventes. Elle sert de base à la redevance pour pollutions diffuses.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-03-10</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R19976</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24269">Secteurs d'activité</Niveau>
+<Niveau ID="N13363">Déchets et prévention de la pollution</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R19976" type="Téléservice">Déclaration des ventes de produits phytosanitaires</Niveau>
+</FilDAriane>
+<Theme ID="N24269">
+<Titre>Secteurs d'activité</Titre>
+<Audience>Professionnels</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Les distributeurs agréés de produits phytosanitaires ont l'obligation de déclarer le bilan de leurs ventes de l'année précédente, avant le 31 mars de chaque année (loi sur l'eau et les milieux aquatiques du 30 décembre 2006).
+
+La transmission peut être faite par internet et permet ainsi aux distributeurs de satisfaire à leur obligation de traçabilité des ventes. Elle sert de base à la redevance pour pollutions diffuses.
+
+</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="http://redevancephyto.developpement-durable.gouv.fr/">
+<Source>Ministère en charge de l'environnement</Source>
+</LienWeb>
+<FicheLiee ID="F23253" audience="Professionnels" type="Fiche avec liens externes">
+<Titre>Lutte contre la pollution de l'eau</Titre>
+<Dossier ID="N13363">Déchets et prévention de la pollution</Dossier>
+</FicheLiee>
+<Dossier ID="N13363">
+<Titre>Déchets et prévention de la pollution</Titre>
+<Audience>Professionnels</Audience>
+</Dossier>
+</ServiceComplementaire>

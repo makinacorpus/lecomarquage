@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15018" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Combien coûte un avocat ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le client et l'avocat peuvent établir une convention d'honoraires avant de lancer la procédure.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2015-11-30</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15018</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068396, http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000030978939&amp;cidTexte=JORFTEXT000030978561</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N279</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N279">Acteurs de la justice</Niveau>
+<Niveau ID="F15018" type="Fiche Question-réponse">Combien coûte un avocat ?</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N20260">Organisation de la justice</SousThemePere><DossierPere ID="N279">
+<Titre>Acteurs de la justice</Titre>
+<Fiche ID="F2176">Magistrats et greffiers</Fiche>
+<Fiche ID="F2158">Huissier de justice</Fiche>
+<Fiche ID="F2153">Avocat</Fiche>
+<Fiche ID="F2164">Notaire</Fiche>
+<Fiche ID="F1540">Juré d'assises</Fiche>
+<Fiche ID="F1822">Médiateur civil</Fiche>
+<Fiche ID="F1739">Médiateur pénal</Fiche>
+<Fiche ID="F1736">Conciliateur de justice</Fiche>
+<Fiche ID="F2161">Expert judiciaire</Fiche>
+</DossierPere>
+
+<Texte>
+				<Paragraphe>La rémunération d'un avocat se compose de 2 parties :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>les <MiseEnEvidence>émoluments, droits et débours</MiseEnEvidence> qui sont réglementés et dus lorsque un avocat intervient devant un tribunal où sa présence est obligatoire (par exemple, en matière de divorce, en matière criminelle, etc.),</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>les <MiseEnEvidence>honoraires</MiseEnEvidence> qui constituent la partie libre de la rémunération d'un avocat.</Paragraphe>
+					</Item>
+				</Liste>
+			
+				<Paragraphe>Le montant des honoraires  est libre. Sauf en cas d'urgence ou lorsque le justiciable bénéficie de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle totale</LienInterne>, une convention doit être fixée entre le client et son <LienInterne LienPublication="F2153" type="Fiche d'information" audience="Particuliers">avocat</LienInterne>, afin de fixer notamment les montants et modalités de sa rémunération.</Paragraphe>
+				<Paragraphe>Pour déterminer ses honoraires, plusieurs critères sont utilisés :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>la situation financière du client ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>la difficulté de l'affaire ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>les frais exposés ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>la notoriété de l'avocat ;</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>le temps et la disponibilité consacrés à l'affaire.</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Un avocat peut ainsi être rémunéré selon :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>un règlement au temps passé sur la base d'un taux horaire qui dépend notamment de la complexité de l'affaire (en moyenne, le taux horaire peut varier entre <Valeur>100 €</Valeur> et <Valeur>1 000 €</Valeur>)</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe> ou un règlement forfaitaire pour les procédures simples. Le montant du forfait est payé comme une rémunération globale et définitive.</Paragraphe>
+					</Item>
+				</Liste>
+				<Paragraphe>Les frais de fonctionnement s'y ajoutent (ouverture de dossier, téléphone, photocopies, déplacements, etc.).</Paragraphe>
+			
+				<ServiceEnLigne ID="R32704" URL="http://cnb.avocat.fr/docs/textes/CNB-FR-TXT-ACD_Conventions-honoraires-en-matiere-de-divorce%5BModele-2013-03-23-P%5D.pdf" format="application/pdf" poids="393.6 KB" type="Modèle de document">
+<Titre>Modèles de conventions d'honoraires d'avocat en matière de divorce</Titre>
+<Source ID="R30762">Conseil national des barreaux</Source>
+<Introduction>
+<Texte><Paragraphe>Permet d'établir la convention d'honoraires obligatoire en matière de divorce, entre l'avocat et son client.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+			
+				<ServiceEnLigne ID="R37879" URL="http://cnb.avocat.fr/docs/accesaudroit/CNB-FR-ACD_Convention-honoraire-complementaire-AJ-partielle%5BModele-2013-03-23-P%5D.pdf" format="application/pdf" poids="260.3 KB" type="Modèle de document">
+<Titre>Modèle de convention d'honoraire complémentaire en cas d'aide juridictionnelle partielle</Titre>
+<Source ID="R30762">Conseil national des barreaux</Source>
+<Introduction>
+<Texte><Paragraphe>Permet à l'avocat et à son client de fixer un complément d'honoraires en cas d'aide juridictionnelle partielle.</Paragraphe>
+</Texte>
+</Introduction>
+</ServiceEnLigne>
+
+			<Attention>
+<Titre>Attention</Titre>
+				<Paragraphe>les honoraires peuvent dépendre du résultat du procès mais seulement partiellement (<LienInterne LienPublication="F932" type="Fiche Question-réponse" audience="Particuliers">honoraires complémentaires</LienInterne>).</Paragraphe>
+			</Attention>
+				<Paragraphe>Pour couvrir ou réduire les frais d'avocat, le client peut bénéficier :</Paragraphe>
+				<Liste type="puce">
+					<Item>
+						<Paragraphe>de <LienInterne LienPublication="F20706" type="Fiche Question-réponse" audience="Particuliers">consultations gratuites</LienInterne>,</Paragraphe>
+					</Item>
+					<Item>
+						<Paragraphe>de <LienInterne LienPublication="F18074" type="Fiche d'information" audience="Particuliers">l'aide juridictionnelle</LienInterne>.</Paragraphe>
+					</Item>
+				</Liste>
+			
+
+</Texte><VoirAussi important="non">
+<Fiche ID="F18074" audience="Particuliers">
+<Titre>Aide juridictionnelle</Titre>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+</Fiche>
+</VoirAussi>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068396" ID="R2205">
+<Titre>Loi n°71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques</Titre>
+<Complement>Article 10</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000030978939&amp;cidTexte=JORFTEXT000030978561" ID="R42407">
+<Titre>LOI n°2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques</Titre>
+</Reference>
+<ServiceEnLigne ID="R32704" URL="http://cnb.avocat.fr/docs/textes/CNB-FR-TXT-ACD_Conventions-honoraires-en-matiere-de-divorce%5BModele-2013-03-23-P%5D.pdf" format="application/pdf" poids="393.6 KB" type="Modèle de document">
+<Titre>Modèles de conventions d'honoraires d'avocat en matière de divorce</Titre>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R37879" URL="http://cnb.avocat.fr/docs/accesaudroit/CNB-FR-ACD_Convention-honoraire-complementaire-AJ-partielle%5BModele-2013-03-23-P%5D.pdf" format="application/pdf" poids="260.3 KB" type="Modèle de document">
+<Titre>Modèle de convention d'honoraire complémentaire en cas d'aide juridictionnelle partielle</Titre>
+<Source ID="R30762">Conseil national des barreaux</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19096" URL="http://www.conso.net/content/vous-contestez-les-honoraires-de-votre-avocat-et-deposez-un-recours-devant-le-batonnier" type="Modèle de document">
+<Titre>Saisir le bâtonnier pour contester les honoraires de son avocat</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F14724" audience="Particuliers">Comment régler un litige avec un avocat ?</QuestionReponse>
+<QuestionReponse ID="F20706" audience="Particuliers">Comment consulter gratuitement un avocat ?</QuestionReponse>
+<QuestionReponse ID="F15006" audience="Particuliers">Un avocat peut-il exiger de l'argent d'un bénéficiaire d'aide juridictionnelle ?</QuestionReponse>
+<QuestionReponse ID="F932" audience="Particuliers">Un avocat peut-il prendre un pourcentage sur l'argent gagné grâce à un procès ?</QuestionReponse>
+
+</Publication>

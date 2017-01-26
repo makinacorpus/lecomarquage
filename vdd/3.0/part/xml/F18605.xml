@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F18605" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Titre d'identité d'un mineur : comment prouver l'autorité parentale ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Papiers - Citoyenneté</dc:subject>
+<dc:description>Toute demande de carte nationale d'identité ou de passeport pour un mineur, doit être déposée par une personne investie de l'autorité parentale.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-26</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F18605</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006426490&amp;idSectionTA=LEGISCTA000006165785&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N358</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19810">Papiers - Citoyenneté</Niveau>
+<Niveau ID="N358">Carte nationale d'identité</Niveau>
+<Niveau ID="F18605" type="Fiche Question-réponse">Titre d'identité d'un mineur : comment prouver l'autorité parentale ?</Niveau>
+</FilDAriane>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+</Theme>
+<SousThemePere ID="N103">État civil - Identité - Authentification</SousThemePere><DossierPere ID="N358">
+<Titre>Carte nationale d'identité</Titre><SousDossier ID="N358-1">
+<Titre>Pour un majeur</Titre>
+<Fiche ID="F1341">Première demande</Fiche>
+<Fiche ID="F21089">Renouvellement</Fiche>
+<Fiche ID="F1344">Carte perdue</Fiche>
+<Fiche ID="F1759">Carte volée</Fiche>
+</SousDossier>
+<SousDossier ID="N358-2">
+<Titre>Pour un mineur</Titre>
+<Fiche ID="F1342">Première demande</Fiche>
+<Fiche ID="F21090">Renouvellement</Fiche>
+<Fiche ID="F1153">Carte perdue</Fiche>
+<Fiche ID="F1794">Carte volée</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Toute demande de carte nationale d'identité ou de passeport pour un mineur, doit être déposée par une personne investie de l'autorité parentale. </Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Demande faite par l'un des parents</Paragraphe>
+</Titre><Paragraphe>Chaque parent est présumé exercer l'autorité parentale quelle que soit sa situation familiale.</Paragraphe>
+<Paragraphe>Pour justifier sa qualité, il suffit donc au parent de <LienInterne LienPublication="F1427" type="Fiche d'information" audience="Particuliers">fournir l'acte de naissance de moins de 3 mois</LienInterne>  (copie intégrale ou extrait avec filiation) sur lequel figure son propre nom.</Paragraphe>
+<Paragraphe>Il n'y a pas lieu de fournir le livret de famille.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>s'il n'est pas marié avec la mère, le père doit avoir reconnu l'enfant avant l'âge d'1 an pour avoir l'autorité parentale.</Paragraphe>
+</ANoter><Paragraphe>Si les parents n'habitent plus ensemble,  le  jugement de divorce ou de séparation peut être réclamé uniquement pour <LienInterne LienPublication="F32675" type="Fiche Question-réponse" audience="Particuliers">inscrire les 2 adresses dans le cas d'une résidence alternée</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Demande faite par un tiers</Paragraphe>
+</Titre><Paragraphe>Si l'autorité parentale est assurée par un tiers, il faut présenter la copie de la décision de justice prononçant la déchéance ou autorisant la délégation de l'autorité parentale.</Paragraphe>
+<Paragraphe>Si le mineur est sous tutelle, il faut présenter la copie de la décision du <LienIntra LienID="R12897" type="Définition de glossaire">conseil de famille</LienIntra> ou la copie de la décision de justice désignant le <LienIntra LienID="R38682" type="Définition de glossaire">tuteur</LienIntra>.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006426490&amp;idSectionTA=LEGISCTA000006165785&amp;cidTexte=LEGITEXT000006070721" ID="R15428">
+<Titre>Code civil : articles 372 à 373-1</Titre>
+</Reference>
+<Definition ID="R38682">
+<Titre>Tuteur</Titre>
+<Texte>
+				<Paragraphe>Personne désignée pour exercer la tutelle</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12897">
+<Titre>Conseil de famille</Titre>
+<Texte>
+				<Paragraphe>Assemblée de parents ou de toutes personnes qualifiées, chargée sous la présidence du juge des tutelles, d'autoriser certains actes importants accomplis au nom de la personne sous tutelle</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F12567" audience="Particuliers">Quels recours en cas de rejet d'un dossier de carte d'identité ou de passeport ?</QuestionReponse>
+<QuestionReponse ID="F32675" audience="Particuliers">Comment prouver le domicile d'un mineur ?</QuestionReponse>
+</Publication>

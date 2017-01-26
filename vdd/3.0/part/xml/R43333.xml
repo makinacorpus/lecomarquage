@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><ServiceComplementaire xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="R43333" type="Téléservice" xsi:noNamespaceSchemaLocation="../Schemas/3.0/ServiceComplementaire.xsd">
+<dc:title>Demande d'acte de naissance : copie intégrale ou extrait (réfugié ou apatride)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Étranger - Europe, Papiers - Citoyenneté</dc:subject>
+<dc:description>Se munir du numéro de dossier OFPRA</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-03-11</dc:date>
+<dc:type>Téléservice</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>R43333</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Téléservice</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19804">Étranger - Europe</Niveau>
+<Niveau ID="N106">Demande d'asile</Niveau>
+<Niveau ID="servicesEnLigne" type="Liste - Service en ligne">Services en ligne et formulaires</Niveau>
+<Niveau ID="R43333" type="Téléservice">Demande d'acte de naissance : copie intégrale ou extrait (réfugié ou apatride)</Niveau>
+</FilDAriane>
+<Theme ID="N19804">
+<Titre>Étranger - Europe</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Theme ID="N19810">
+<Titre>Papiers - Citoyenneté</Titre>
+<Audience>Particuliers</Audience>
+</Theme>
+<Introduction>
+<Texte><Paragraphe>Se munir du numéro de dossier OFPRA</Paragraphe>
+</Texte>
+</Introduction>
+<LienWeb URL="https://www.ofpra.gouv.fr/fr/detail/acte/acteNaissance/edit.html">
+<Source>Office français de protection des réfugiés et apatrides (Ofpra)</Source>
+</LienWeb>
+<FicheLiee ID="F1427" audience="Particuliers" type="Fiche d'information">
+<Titre>Acte de naissance : demande de copie intégrale ou d'extrait</Titre>
+<Dossier ID="N359">État civil</Dossier>
+</FicheLiee>
+<FicheLiee ID="F15401" audience="Particuliers" type="Fiche d'information">
+<Titre>Réfugié : titre de séjour, document de voyage et accompagnement</Titre>
+<Dossier ID="N106">Demande d'asile</Dossier>
+</FicheLiee>
+<Dossier ID="N106">
+<Titre>Demande d'asile</Titre>
+<Audience>Particuliers</Audience>
+</Dossier>
+</ServiceComplementaire>

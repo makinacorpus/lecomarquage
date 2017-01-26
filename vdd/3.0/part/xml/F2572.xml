@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F2572" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Allocation simple d'aide sociale pour personnes âgées</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Si vous ne percevez pas de pension de retraite, ni l'allocation de solidarité aux personnes âgées (Aspa), vous pouvez demander l'allocation simple.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-01</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F2572</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006796429&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006905621&amp;idSectionTA=LEGISCTA000006190052&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.com/affichCode.do?idSectionTA=LEGISCTA000006157594&amp;cidTexte=LEGITEXT000006074069, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006160890&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N392</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N392">Allocations et aides aux personnes âgées</Niveau>
+<Niveau ID="F2572" type="Fiche d'information">Allocation simple d'aide sociale pour personnes âgées</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20274">Aides sociales</SousThemePere><DossierPere ID="N392">
+<Titre>Allocations et aides aux personnes âgées</Titre>
+<Fiche ID="F10009">Allocation personnalisée d'autonomie (Apa)</Fiche>
+<Fiche ID="F16871">Allocation de solidarité aux personnes âgées (Aspa)</Fiche>
+<Fiche ID="F16940">Allocation supplémentaire d'invalidité (Asi)</Fiche>
+<Fiche ID="F2572">Allocation simple</Fiche>
+<Fiche ID="F245">Aide-ménagère à domicile</Fiche>
+<Fiche ID="F248">Prise en charge des repas</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>Si vous ne percevez pas de pension de retraite et que votre demande d'<LienInterne LienPublication="R41954" type="Acronyme">Aspa</LienInterne> a été rejetée,  vous pouvez demander à bénéficier de l'allocation simple d'aide à domicile aux personnes âgées, versée par l'État.</Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Conditions</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Condition d'âge</Paragraphe>
+</Titre><Paragraphe>Vous devez être âgé(e) :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'au moins 65 ans,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou d'au moins 60 ans si vous êtes reconnu(e) inapte au travail.</Paragraphe>
+</Item>
+</Liste>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Condition de ressources</Paragraphe>
+</Titre><Paragraphe>Vos ressources (hors prestations familiales, <LienIntra LienID="R12471" type="Définition de glossaire">créances alimentaires</LienIntra>, notamment) ne doivent pas dépasser :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>
+<Valeur>801 €</Valeur> par mois si vous vivez seul(e),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>
+<Valeur>1 243 €</Valeur> par mois si vous vivez en couple.</Paragraphe>
+</Item>
+</Liste>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>vous ne pouvez pas percevoir l'allocation simple d'aide à domicile si vous percevez une pension de retraite ou l'<LienInterne LienPublication="R41954" type="Acronyme">Aspa</LienInterne>.</Paragraphe>
+</Attention>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Condition de résidence</Paragraphe>
+</Titre><BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes français</Paragraphe>
+</Titre><Paragraphe>Vous devez résider en France.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous êtes étranger</Paragraphe>
+</Titre><Paragraphe>Vous devez résider en France métropolitaine de manière ininterrompue depuis au moins 15 ans avant vos 70 ans.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarches</Paragraphe>
+</Titre><Paragraphe>Vous devez faire votre demande auprès du <LienInterne LienPublication="R24608" type="Sigle">CCAS</LienInterne>de la mairie.</Paragraphe>
+<Paragraphe>Vous devrez ensuite remplir un dossier de demande.</Paragraphe>
+<Paragraphe>La décision de vous accorder ou non le bénéfice de l'allocation simple est prise par le préfet de département.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général</Paragraphe>
+</Titre><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris</Paragraphe>
+</Titre><OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Montant</Paragraphe>
+</Titre><Paragraphe>L'allocation simple est accordée soit à taux plein, soit à taux réduit, en fonction de vos ressources.</Paragraphe>
+<Paragraphe>À taux plein,  l'allocation simple d'aide à domicile est fixée à :</Paragraphe>
+<Tableau>
+<Titre>Montants de l'aide</Titre>
+<Colonne largeur="34" type="normal"/>
+<Colonne largeur="47" type="normal"/>
+<Colonne largeur="35" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Foyer</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant annuel</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Montant mensuel</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Personne seule</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>9 609,6 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>801 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Couple (mariage, concubinage ou Pacs)</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>14 918,9 €</Valeur>
+</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>
+<Valeur>1 243 €</Valeur>
+</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+<Paragraphe>Selon vos ressources, le montant de l’allocation peut être réduit afin que le cumul allocation/ressources ne dépasse pas le montant de l'allocation à taux plein.</Paragraphe>
+<ASavoir>
+<Titre>À savoir</Titre><Paragraphe>l'allocation simple constitue une avance, remboursable après décès, sur votre succession, uniquement si elle est supérieure à <Valeur>46 000 €</Valeur>. </Paragraphe>
+</ASavoir>
+</Chapitre>
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour toute information et retirer un dossier si vous ne résidez pas à Paris (s'adresser au centre communal d'action sociale)</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34275" type="Local personnalisable">
+<Titre>Paris - Centre d'action sociale (CASVP)</Titre>
+<Complement>Pour toute information et retirer un dossier si vous résidez à Paris</Complement>
+<PivotLocal>paris_casvp</PivotLocal>
+<RessourceWeb URL="http://www.paris.fr/casvp"/>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006796429&amp;cidTexte=LEGITEXT000006074069" ID="R35836">
+<Titre>Code de l'action sociale et des familles : article L113-1</Titre>
+<Complement>Condition d'âge</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006905621&amp;idSectionTA=LEGISCTA000006190052&amp;cidTexte=LEGITEXT000006074069" ID="R35067">
+<Titre>Code de l'action sociale et des familles : articles L111-1 à L111-5</Titre>
+<Complement>Condition de résidence</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.com/affichCode.do?idSectionTA=LEGISCTA000006157594&amp;cidTexte=LEGITEXT000006074069" ID="R36653">
+<Titre>Code de l'action sociale et des familles : articles L231-1 à L231-6</Titre>
+<Complement>Condition de ressources, montant de l'allocation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006160890&amp;cidTexte=LEGITEXT000006074069" ID="R730">
+<Titre>Code de l'action sociale et des familles : articles R231-1 à R231-6</Titre>
+<Complement>Montant de l'allocation</Complement>
+</Reference>
+<Definition ID="R12471">
+<Titre>Créance alimentaire</Titre>
+<Texte>
+				<Paragraphe>Somme d'argent qu'une personne peut demander à un proche parent en vue de satisfaire ses besoins vitaux (nourriture, logement, soins, ...)</Paragraphe>
+			</Texte>
+</Definition>
+<Abreviation ID="R41954" type="Acronyme">
+<Titre>Aspa</Titre>
+<Texte>
+<Paragraphe>Allocation de solidarité aux personnes âgées</Paragraphe>
+</Texte>
+</Abreviation>
+<Abreviation ID="R24608" type="Sigle">
+<Titre>CCAS</Titre>
+<Texte>
+<Paragraphe>Centre communal d'action sociale </Paragraphe>
+</Texte>
+</Abreviation>
+</Publication>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N312" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Achat d'un terrain</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Le dossier expose les principales étapes pour l'achat d'un terrain isolé ou situé dans un lotissement.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2017-01-03</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N312</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19808</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<Cible>Propriétaire</Cible>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N312" type="Dossier">Achat d'un terrain</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N20355">Achat immobilier</SousThemePere>
+<SousDossier ID="N312-1">
+<Titre>Achat d'un terrain isolé</Titre><Fiche ID="F2057">Promesse de vente</Fiche>
+<Fiche ID="F258">Acte de vente</Fiche>
+</SousDossier>
+<SousDossier ID="N312-2">
+<Titre>Achat d'un terrain situé dans un lotissement</Titre><Fiche ID="F16455">Promesse de vente</Fiche>
+<Fiche ID="F12702">Acte de vente</Fiche>
+</SousDossier>
+<Introduction>
+<Texte><Paragraphe>
+			Le dossier expose les principales étapes pour l'achat d'un terrain isolé ou situé dans un lotissement.
+		</Paragraphe>
+</Texte>
+</Introduction><VoirAussi important="non">
+<Dossier ID="N21886" audience="Particuliers">
+<Titre>Droit de préemption urbain (DPU)</Titre>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+</Dossier>
+</VoirAussi>
+<ServiceEnLigne ID="R16181" URL="https://www.immobilier.notaires.fr/fr/frais-de-notaire" type="Simulateur">
+<Titre>Calculer le montant des frais d'acquisition d'un bien immobilier</Titre>
+<Source ID="R30632">Notaires de France</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R2299" URL="http://dpsm.brgm.fr/rmel/Pages/rmel.aspx" type="Téléservice">
+<Titre>Demande de renseignement minier</Titre>
+<Source ID="R30658">Ministère en charge de l'environnement</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F2073" audience="Particuliers">Quelle différence entre un terrain isolé et un terrain dans un lotissement ?</QuestionReponse>
+<QuestionReponse ID="F33818" audience="Particuliers">Quelles précautions prendre avant l'achat d'un terrain isolé ? </QuestionReponse>
+<QuestionReponse ID="F2484" audience="Particuliers">Quelles règles s'appliquent avant la vente d'un terrain dans un lotissement ?</QuestionReponse>
+
+</Publication>

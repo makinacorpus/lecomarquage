@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F15110" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on encore toucher le complément optionnel de libre choix d'activité (Colca) ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Non, le complément optionnel de libre choix d'activité (Colca) de la Paje a été remplacé par la prestation partagée d'éducation de l'enfant (PreParE).</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-01</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F15110</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N156</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N156">Allocations destinées aux familles</Niveau>
+<Niveau ID="F15110" type="Fiche Question-réponse">Peut-on encore toucher le complément optionnel de libre choix d'activité (Colca) ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N156">
+<Titre>Allocations destinées aux familles</Titre><SousDossier ID="N156-1">
+<Titre>Allocations versées à partir du 1er enfant</Titre>
+<Fiche ID="F2550">Prime à la naissance</Fiche>
+<Fiche ID="F2552">Allocation de base (après la naissance)</Fiche>
+<Fiche ID="F13220">Prime à l'adoption</Fiche>
+<Fiche ID="F31430">Allocation de base (enfant adopté)</Fiche>
+</SousDossier>
+<SousDossier ID="N156-2">
+<Titre>Allocations versées à partir du 2e enfant</Titre>
+<Fiche ID="F13213">À partir de 2 enfants : allocations familiales</Fiche>
+<Fiche ID="F13214">À partir de 3 enfants : complément familial</Fiche>
+<Fiche ID="F2008">À partir de 3 enfants : prime de déménagement</Fiche>
+</SousDossier>
+<SousDossier ID="N156-3">
+<Titre>Enfant gardé par un tiers</Titre>
+<Fiche ID="F345">Complément de libre choix du mode de garde (Cmg) - Assistante maternelle</Fiche>
+<Fiche ID="F31101">Complément de libre choix du mode de garde (Cmg) - Garde à domicile</Fiche>
+<Fiche ID="F33648">Complément de libre choix du mode de garde (Cmg) - Micro-crèche</Fiche>
+</SousDossier>
+<SousDossier ID="N156-4">
+<Titre>Enfant gardé par un parent</Titre>
+<Fiche ID="F32485">Enfant né depuis 2015 : prestation partagée d'éducation de l'enfant (PreParE)</Fiche>
+<Fiche ID="F313">Enfant né avant 2015 : complément de libre choix d'activité (CLCA)</Fiche>
+<Fiche ID="F15132">Allocation journalière de présence parentale (AJPP)</Fiche>
+</SousDossier>
+<SousDossier ID="N156-5">
+<Titre>Allocation de soutien familial (ASF)</Titre>
+<Fiche ID="F815">Parents séparés</Fiche>
+<Fiche ID="F33645">Enfant non reconnu</Fiche>
+<Fiche ID="F33646">Enfant orphelin</Fiche>
+<Fiche ID="F33647">Enfant recueilli</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Non. Le complément optionnel de libre choix d'activité (Colca) de la Paje a été remplacé par la <LienInterne LienPublication="F32485" type="Fiche d'information" audience="Particuliers">prestation partagée d'éducation de l'enfant (PreParE)</LienInterne>.</Paragraphe>
+
+</Texte><OuSAdresser ID="R38" type="Local personnalisé sur SP">
+<Titre>Caisse d'allocations familiales (Caf)</Titre>
+<Complement>Pour effectuer les démarches</Complement>
+<PivotLocal>caf</PivotLocal>
+<RessourceWeb URL="https://www.caf.fr/ma-caf"/>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</OuSAdresser>
+<OuSAdresser ID="R39" type="Local personnalisé sur SP">
+<Titre>Mutualité sociale agricole (MSA)</Titre>
+<Complement>Si vous relevez du régime agricole : pour effectuer les démarches</Complement>
+<PivotLocal>msa</PivotLocal>
+<RessourceWeb URL="http://www.msa.fr/lfr/contacter-une-msa"/>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</OuSAdresser>
+<ServiceEnLigne ID="R1490" URL="https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/faireunedemandedeprestation/prestationpartageededucationdelenfant/!ut/p/a1/" numerocerfa="12324*05" type="Formulaire">
+<Titre>Demande de PreParE ou CLCA</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R1165" URL="https://wwwd.caf.fr" type="Téléservice">
+<Titre>Caisse d'allocations familiales (Caf) en ligne</Titre>
+<Source ID="R30610">Caisse nationale des allocations familiales (Cnaf)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R18438" URL="http://www.msa.fr/lfr/services-en-ligne/particuliers" type="Téléservice">
+<Titre>MSA Particuliers en ligne</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+<QuestionReponse ID="F13218" audience="Particuliers">Que comprend la prestation d'accueil du jeune enfant (Paje) ?</QuestionReponse>
+</Publication>

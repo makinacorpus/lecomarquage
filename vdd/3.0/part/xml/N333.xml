@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N333" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Hébergement des personnes âgées</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Social - Santé</dc:subject>
+<dc:description>Hébergement des personnes âgées</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-04-25</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N333</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N19811</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19811">Social - Santé</Niveau>
+<Niveau ID="N333" type="Dossier">Hébergement des personnes âgées</Niveau>
+</FilDAriane>
+<Theme ID="N19811">
+<Titre>Social - Santé</Titre>
+</Theme>
+<SousThemePere ID="N20271">Hébergement</SousThemePere>
+<Fiche ID="F33912">Hébergement temporaire</Fiche>
+<Fiche ID="F763">Établissement d'hébergement pour personnes âgées dépendantes (Éhpad)</Fiche>
+<Fiche ID="F2444">Aide sociale à l'hébergement (ASH)</Fiche><PourEnSavoirPlus type="Information pratique" ID="R45313" URL="http://www.pour-les-personnes-agees.gouv.fr/aider-un-proche/heberger-un-proche" audience="Particuliers">
+<Titre>Héberger un proche âgé</Titre>
+<Source ID="R40060">Caisse nationale de solidarité pour l'autonomie (CNSA)</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F255" audience="Particuliers">Quels types d'établissements hébergent des personnes âgées ?</QuestionReponse>
+<QuestionReponse ID="F261" audience="Particuliers">Personnes âgées : quelles sont les conditions d'hébergement en établissement ?</QuestionReponse>
+<QuestionReponse ID="F32748" audience="Particuliers">Santé : qu'est-ce qu'une "personne de confiance" ?</QuestionReponse>
+</Publication>

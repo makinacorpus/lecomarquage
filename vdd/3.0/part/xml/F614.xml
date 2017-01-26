@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F614" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Plantations (haies, arbres, arbustes...)</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Logement</dc:subject>
+<dc:description>Vous pouvez faire pousser des arbres et plantations librement dans votre jardin. Toutefois, certaines règles de distance sont à respecter à proximité de la propriété de votre voisin. L'entretien des plantations mitoyennes ou situées en limite de propriété ainsi que la cueillette des fruits de vos plantations répondent également à une réglementation précise.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-11-24</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F614</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150120&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N31030</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19808">Logement</Niveau>
+<Niveau ID="N31030">Vie pratique en logement individuel (maison)</Niveau>
+<Niveau ID="F614" type="Fiche d'information">Plantations (haies, arbres, arbustes...)</Niveau>
+</FilDAriane>
+<Theme ID="N19808">
+<Titre>Logement</Titre>
+</Theme>
+<SousThemePere ID="N31029">Vie pratique dans un logement</SousThemePere><DossierPere ID="N31030">
+<Titre>Vie pratique en logement individuel (maison)</Titre><SousDossier ID="N31030-1">
+<Titre>Mitoyenneté (droits des voisins)</Titre>
+<Fiche ID="F3037">Bornage de terrains</Fiche>
+<Fiche ID="F76">Ouvertures (fenêtres, balcons)</Fiche>
+<Fiche ID="F2040">Droit de passage sur la propriété d'un autre (servitude de passage)</Fiche>
+<Fiche ID="F2415">Murs</Fiche>
+<Fiche ID="F614">Plantations (haies, arbres, arbustes...)</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-2">
+<Titre>Aménagements extérieurs (jardin, cour...)</Titre>
+<Fiche ID="F31404">Piscine privative</Fiche>
+<Fiche ID="F31471">Annexes extérieures</Fiche>
+<Fiche ID="F31473">Travaux extérieurs</Fiche>
+</SousDossier>
+<SousDossier ID="N31030-3">
+<Titre>Utilisation de l'énergie renouvelable</Titre>
+<Fiche ID="F31481">Récupération de l'eau de pluie</Fiche>
+<Fiche ID="F31487">Production d'électricité solaire (toiture photovoltaïque)</Fiche>
+<Fiche ID="F31488">Production de chaleur à l'énergie solaire</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Mitoyenneté (droits des voisins)</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Vous pouvez faire pousser des arbres et plantations librement dans votre jardin. Toutefois, certaines règles de distance sont à respecter à proximité de la propriété de votre voisin. L'entretien des plantations mitoyennes ou situées en limite de propriété ainsi que la cueillette des fruits de vos plantations répondent également à une réglementation précise. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Règles de distance</Paragraphe>
+</Titre><SousChapitre>
+<Titre>
+<Paragraphe>Règles locales</Paragraphe>
+</Titre><Paragraphe>Les plantations telles que arbres, arbustes et arbrisseaux peuvent être plantées près de la limite de propriété voisine dans le respect des règles locales prescrites par :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>des règlements particuliers existants,</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou des <LienIntra LienID="R12915" type="Définition de glossaire">usages locaux</LienIntra> constants et reconnus.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Pour vous informer sur l'existence de règles locales, il convient de vous renseigner auprès de votre mairie.</Paragraphe>
+<BlocCas affichage="onglet">
+<Cas>
+<Titre>
+<Paragraphe>Cas général </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+
+											
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>À Paris </Paragraphe>
+</Titre>
+												<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+
+											
+</Cas>
+</BlocCas>
+
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Règles générales</Paragraphe>
+</Titre><Paragraphe>Si vous souhaitez planter un arbre en limite de propriété et qu'aucune règle spécifique ne s'applique localement, les distances à respecter par rapport au terrain voisin varient selon la hauteur de votre plantation.</Paragraphe>
+<Tableau>
+<Titre>Règles de distance à respecter par rapport à la limite de propriété selon la hauteur de la plantation</Titre>
+<Colonne largeur="50" type="header"/>
+<Colonne largeur="50" type="normal"/>
+<Rangée type="header">
+<Cellule>
+<Paragraphe>Hauteur de la plantation</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>Distance minimum à respecter en limite de propriété</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Inférieure ou égale à 2 mètres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>0,5 mètre</Paragraphe>
+</Cellule>
+</Rangée>
+<Rangée type="normal">
+<Cellule>
+<Paragraphe>Supérieure à 2 mètres</Paragraphe>
+</Cellule>
+<Cellule>
+<Paragraphe>2 mètres</Paragraphe>
+</Cellule>
+</Rangée>
+</Tableau>
+
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Mode de calcul</Paragraphe>
+</Titre><Paragraphe>La distance est mesurée à partir du milieu du tronc de l'arbre.</Paragraphe>
+<Paragraphe>La hauteur de la plantation est mesurée depuis le sol jusqu'à la cime de l'arbre.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>si vous ne connaissez pas les limites exactes qui séparent votre terrain de celui de votre voisin, il peut être utile de faire réaliser un <LienInterne LienPublication="F3037" type="Fiche d'information" audience="Particuliers">bornage de terrain</LienInterne>.</Paragraphe>
+</ANoter>
+</SousChapitre>
+<SousChapitre>
+<Titre>
+<Paragraphe>Sanction</Paragraphe>
+</Titre><Paragraphe>Si les plantations de votre voisin ne respectent pas les distances légales, vous pouvez exiger qu'elles soient arrachées ou réduites à la hauteur légale :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe> à moins que ces plantations, situées à moins de 0,5 mètre de la limite de propriété, existent depuis au moins 30 ans ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>à moins que ces plantations, situées entre 0,5 mètre et 2 mètres de la limite de propriété, dépassent 2 mètres de hauteur depuis au moins 30 ans. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Vous pouvez lui adresser un courrier en recommandé avec accusé de réception.</Paragraphe><ServiceEnLigne ID="R1467" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14833.do" numerocerfa="14833*01" type="Formulaire">
+<Titre>Tentative préalable de conciliation devant la juridiction de proximité</Titre>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+<Introduction>
+<Texte><Paragraphe>Permet de saisir le juge de proximité d'une demande de tentative de conciliation.</Paragraphe>
+</Texte>
+</Introduction><NoticeLiee ID="R729" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50824&amp;cerfaFormulaire=11807" numerocerfa="50824#03">Notice explicative pour une tentative préalable de conciliation</NoticeLiee>
+</ServiceEnLigne>
+
+<Paragraphe>En cas de refus, vous devez saisir le <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers"> tribunal d'instance</LienInterne>.</Paragraphe>
+
+</SousChapitre>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Règles d'entretien</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Plantations mitoyennes</Paragraphe>
+</Titre><Paragraphe>Si vous êtes copropriétaire avec votre voisin d'une plantation mitoyenne (haie ou arbre) chacun peut la détruire jusqu'à la limite de sa propriété, à charge de construire un mur sur cette limite.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Branchages</Paragraphe>
+</Titre><Paragraphe>La coupe des branches des arbres, arbustes et arbrisseaux appartenant au voisin et qui avancent sur votre propriété relève de sa responsabilité. </Paragraphe>
+<Paragraphe>Vous pouvez contraindre votre voisin à couper les branches de son arbre si elles avancent sur votre propriété, mais vous n'avez pas le droit de les couper vous-même. Pour obtenir gain de cause, il faut saisir <LienInterne LienPublication="F1783" type="Fiche d'information" audience="Particuliers">tribunal d'instance</LienInterne>.</Paragraphe>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Racines, ronces, brindilles</Paragraphe>
+</Titre><Paragraphe>Si  des racines, des ronces ou des brindilles  empiètent sur votre propriété, vous pouvez librement les couper. La taille doit se faire à la limite de votre propriété.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Règles de cueillette</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Plantation mitoyenne</Paragraphe>
+</Titre><Paragraphe>Les produits des plantations mitoyenne (fruits, fleurs...) appartiennent pour moitié à chacun des copropriétaires.</Paragraphe>
+<Paragraphe>Leur cueillette doit être faite à frais communs quelle que soit sa cause :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>naturelle (les fruits tombent tout seuls),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>chute provoquée (par secousse par exemple),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou cueillette directe.</Paragraphe>
+</Item>
+</Liste>
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Plantation appartenant au voisin</Paragraphe>
+</Titre><Paragraphe>Vous n'avez pas le droit de cueillir les fruits et les fleurs d'un arbre du voisin qui débordent sur votre propriété.</Paragraphe>
+<Paragraphe>En revanche vous pouvez ramasser librement ceux qui tombent naturellement sur votre propriété.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+</Texte><OuSAdresser ID="R1" type="Local personnalisé sur SP">
+<Titre>Mairie</Titre>
+<Complement>Pour obtenir des renseignements sur les usages locaux ou règlements particuliers en dehors de Paris</Complement>
+<PivotLocal>mairie</PivotLocal>
+<RessourceWeb URL="https://lannuaire.service-public.fr/"/>
+<Source ID="R30601">Service-public.fr</Source>
+</OuSAdresser>
+<OuSAdresser ID="R34244" type="Local personnalisé sur SP">
+<Titre>Paris - Mairie d'arrondissement</Titre>
+<Complement>Pour obtenir des renseignements sur les usages locaux ou règlements particuliers à Paris</Complement>
+<PivotLocal>paris_mairie_arrondissement</PivotLocal>
+<RessourceWeb URL="http://meslieux.paris.fr/mairies-d-arrondissement"/>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R28" type="Local personnalisé sur SP">
+<Titre>Tribunal d'instance (TI)</Titre>
+<Complement>Pour effectuer un recours et contraindre son voisin à élaguer l'arbre litigieux</Complement>
+<PivotLocal>ti</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-dinstance-21775.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006150120&amp;cidTexte=LEGITEXT000006070721" ID="R38950">
+<Titre>Code civil : articles 653 à 673</Titre>
+<Complement>Articles 668 à 673</Complement>
+</Reference>
+<ServiceEnLigne ID="R33741" URL="http://www.conso.net/content/les-arbres-plantes-chez-votre-voisin-sont-trop-hauts-et-trop-proches-de-votre-terrain" type="Modèle de document">
+<Titre>Demander à son voisin de couper ses arbres</Titre>
+<Source ID="R30643">Institut national de la consommation (INC)</Source>
+</ServiceEnLigne>
+<Definition ID="R12915">
+<Titre>Usages locaux</Titre>
+<Texte>
+				<Paragraphe>Règles non écrites fixées par l'usage des lieux : coutumes locales qui s'appliquent à tous, ou usages propres qui s'appliquent à certaines catégories de personnes (agriculteurs, particuliers...)</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F33298" audience="Particuliers">Dans quels cas le débroussaillage est-il obligatoire ?</QuestionReponse>
+
+</Publication>

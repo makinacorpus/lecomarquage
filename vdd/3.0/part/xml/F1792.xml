@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1792" type="Fiche d'information" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Déroulement d'une affaire devant le tribunal de commerce</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Justice</dc:subject>
+<dc:description>Le tribunal de commerce juge notamment les litiges entre commerçants ou entre particuliers et commerçants. Le tribunal peut être saisi par assignation au greffe ou par requête conjointe.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-06-20</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1792</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006411434&amp;idSectionTA=LEGISCTA000006149707&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022890126&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165219&amp;cidTexte=LEGITEXT000006070716, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006161575&amp;cidTexte=LEGITEXT000005634379</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N269</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19807">Justice</Niveau>
+<Niveau ID="N269">Procès civil</Niveau>
+<Niveau ID="F1792" type="Fiche d'information">Déroulement d'une affaire devant le tribunal de commerce</Niveau>
+</FilDAriane>
+<Theme ID="N19807">
+<Titre>Justice</Titre>
+</Theme>
+<SousThemePere ID="N271">Procédures judiciaires</SousThemePere><DossierPere ID="N269">
+<Titre>Procès civil</Titre><SousDossier ID="N269-1">
+<Titre>Saisine des tribunaux civils</Titre>
+<Fiche ID="F1785">Litige de moins de 4000 € - Juge de proximité</Fiche>
+<Fiche ID="F1783">Entre 4000 € et 10 000 € - Tribunal d'instance (TI)</Fiche>
+<Fiche ID="F20851">Plus de 10 000 € - Tribunal de grande instance (TGI)</Fiche>
+</SousDossier>
+<SousDossier ID="N269-2">
+<Titre>Déroulement d'une affaire</Titre>
+<Fiche ID="F20852">Devant le juge de proximité</Fiche>
+<Fiche ID="F1789">Devant le tribunal d'instance</Fiche>
+<Fiche ID="F1791">Devant le tribunal de grande instance (TGI)</Fiche>
+<Fiche ID="F1792">Devant le tribunal de commerce</Fiche>
+<Fiche ID="F1793">Devant le tribunal paritaire des baux ruraux</Fiche>
+<Fiche ID="F1538">Audition des témoins</Fiche>
+</SousDossier>
+<SousDossier ID="N269-3">
+<Titre>Mesures prononcées par le tribunal</Titre>
+<Fiche ID="F1787">Injonction de faire</Fiche>
+<Fiche ID="F1746">Injonction de payer - recouvrement de créances</Fiche>
+<Fiche ID="F1780">Exécution d'une décision du juge civil</Fiche>
+</SousDossier>
+</DossierPere>
+
+<SousDossierPere>Déroulement d'une affaire</SousDossierPere>
+<Introduction>
+<Texte><Paragraphe>Le tribunal de commerce juge notamment les litiges entre commerçants ou entre particuliers et commerçants. Le tribunal peut être saisi par assignation au greffe ou par requête conjointe. </Paragraphe>
+</Texte>
+</Introduction>
+<Texte><Chapitre>
+<Titre>
+<Paragraphe>Cas concernés</Paragraphe>
+</Titre><Paragraphe>Le tribunal de commerce juge les litiges entre commerçants ou ceux entre particuliers et commerçants.</Paragraphe>
+<Paragraphe>Il juge également tous les litiges relatifs aux actes de commerce (<LienIntra LienID="R40492" type="Définition de glossaire">lettre de change</LienIntra> par exemple).</Paragraphe>
+<Attention>
+<Titre>Attention</Titre><Paragraphe>il n'y a pas de tribunal de commerce dans le Bas-Rhin, le Haut-Rhin et en Moselle. C'est la chambre commerciale du <LienInterne LienPublication="F20851" type="Fiche d'information" audience="Particuliers">tribunal de grande instance</LienInterne> qui est compétente.</Paragraphe>
+</Attention>
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Saisine du tribunal</Paragraphe>
+</Titre><BlocCas affichage="radio">
+<Cas>
+<Titre>
+<Paragraphe>Vous souhaitez trouver un accord avec votre adversaire</Paragraphe>
+</Titre><Paragraphe>Vous et votre adversaire devez saisir ensemble le tribunal via :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>le dépôt au greffe d'une <LienInterne LienPublication="F1741" type="Fiche d'information" audience="Particuliers">requête conjointe</LienInterne> dans laquelle votre litige est exposé ;</Paragraphe>
+</Item>
+</Liste>
+<Liste type="puce">
+<Item>
+<Paragraphe>ou, lorsque les parties vont d'elles-même et ensemble au tribunal, votre présentation volontaire et conjointe des parties (demandeur et défendeur) au greffe du tribunal. </Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Le tribunal compétent est celui de votre domicile ou de celui de votre adversaire. Si le litige porte sur un contrat, le tribunal compétent est aussi celui du lieu d'exécution du contrat (par exemple, sur le lieu d'une livraison).</Paragraphe>
+<OuSAdresser ID="R29" type="Local personnalisé sur SP">
+<Titre>Greffe du tribunal de commerce</Titre>
+<PivotLocal>tribunal_commerce</PivotLocal>
+<RessourceWeb URL="https://www.infogreffe.fr/societes/recherche-greffe-tribunal/chercher-greffe-tribunal-de-commerce.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Cas>
+<Cas>
+<Titre>
+<Paragraphe>Vous ne pouvez pas ou ne voulez pas trouver un accord avec votre adversaire</Paragraphe>
+</Titre><Paragraphe>Le tribunal de commerce peut être saisi par dépôt d'une <LienIntra LienID="R12538" type="Définition de glossaire">assignation</LienIntra> au <LienIntra LienID="R12700" type="Définition de glossaire">greffe</LienIntra>. </Paragraphe>
+<Paragraphe>C'est vous qui devez en prendre l'initiative. Le tribunal compétent est celui de votre adversaire. Si le litige porte sur un contrat, le tribunal compétent est aussi celui du lieu d'exécution du contrat (par exemple, sur le lieu d'une livraison).</Paragraphe><OuSAdresser ID="R29" type="Local personnalisé sur SP">
+<Titre>Greffe du tribunal de commerce</Titre>
+<PivotLocal>tribunal_commerce</PivotLocal>
+<RessourceWeb URL="https://www.infogreffe.fr/societes/recherche-greffe-tribunal/chercher-greffe-tribunal-de-commerce.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+<Paragraphe>Le dépôt peut se faire par un huissier de justice. Il indiquera dans l'assignation la date et l'heure de l'audience. Ces dates sont généralement indiquées sur le site internet du tribunal de commerce concerné.</Paragraphe><OuSAdresser ID="R10916" type="Local personnalisable">
+<Titre>Huissier de justice</Titre>
+<PivotLocal>huissier_justice</PivotLocal>
+<RessourceWeb URL="http://www.huissier-justice.fr/annuaire.aspx"/>
+</OuSAdresser>
+
+<Paragraphe>Vous pouvez aussi déposer vous-même cette assignation au greffe. Dans ce cas, celle-ci doit obligatoirement contenir :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>l'indication du tribunal concerné ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'objet de la demande avec un exposé de vos arguments ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>l'indication des pièces sur lesquelles la demande est fondée ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>les jour et heure de l'audience à laquelle l'affaire sera appelée. Renseignez-vous au préalable sur les dates disponibles. Ces dates sont généralement indiquées sur le site internet du tribunal de commerce concerné.</Paragraphe>
+</Item>
+</Liste>
+<Paragraphe>Dans tous les cas, la remise au greffe doit avoir lieu au plus tard 8 jours avant la date de l'audience. Passé ce délai, l'assignation n'est plus valable.</Paragraphe>
+
+</Cas>
+</BlocCas>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Déroulement du procès</Paragraphe>
+</Titre><Paragraphe>Lors du procès, vous pouvez</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>vous présenter personnellement ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vous faire assister ou représenter par un avocat ;</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou vous faire assister ou représenter par une personne majeure de votre choix munie d'une procuration écrite.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Coût</Paragraphe>
+</Titre><Paragraphe>Le coût de la procédure en elle-même varie selon le mode de saisine le type de litige. Vous pouvez vous renseigner sur le site internet du tribunal concerné.</Paragraphe>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Contestation du jugement</Paragraphe>
+</Titre><Paragraphe>Le tribunal de commerce statue en premier et dernier ressort sur les litiges dont la valeur n'excède pas <Valeur>4 000 €</Valeur>. Cela veut dire qu'il n'est pas possible de faire appel. Tout recours devra s'exercer devant la <LienInterne LienPublication="F1382" type="Fiche d'information" audience="Particuliers">Cour de cassation</LienInterne>.</Paragraphe>
+<Paragraphe>Au delà de <Valeur>4 000 €</Valeur>, le tribunal statue en premier ressort. La cour d'appel est alors compétente pour examiner les recours.</Paragraphe><OuSAdresser ID="R11624" type="Local personnalisé sur SP">
+<Titre>Cour d'appel</Titre>
+<PivotLocal>cour_appel</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-cours-dappel-21767.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+
+
+</Chapitre>
+</Texte><OuSAdresser ID="R29" type="Local personnalisé sur SP">
+<Titre>Greffe du tribunal de commerce</Titre>
+<Complement>Pour saisir le tribunal</Complement>
+<PivotLocal>tribunal_commerce</PivotLocal>
+<RessourceWeb URL="https://www.infogreffe.fr/societes/recherche-greffe-tribunal/chercher-greffe-tribunal-de-commerce.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour s'informer</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006411434&amp;idSectionTA=LEGISCTA000006149707&amp;cidTexte=LEGITEXT000006070716" ID="R16159">
+<Titre>Code de procédure civile : articles 854 à 860</Titre>
+<Complement>Assignation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000022890126&amp;cidTexte=LEGITEXT000006070716" ID="R20029">
+<Titre>Code de procédure civile : articles 860-1 à 861-2</Titre>
+<Complement>Conciliation</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165219&amp;cidTexte=LEGITEXT000006070716" ID="R16688">
+<Titre>Code de procédure civile : articles 861-3 à 871</Titre>
+<Complement>Instruction</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006161575&amp;cidTexte=LEGITEXT000005634379" ID="R10112">
+<Titre>Code de commerce : articles R 721-1 à R721-4</Titre>
+<Complement>Composition du tribunal de commerce</Complement>
+</Reference>
+<Definition ID="R12538">
+<Titre>Assignation</Titre>
+<Texte>
+				<Paragraphe>Acte d'huissier de justice informant une personne qu'un procès est engagé contre elle et la convoquant devant une juridiction</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R40492">
+<Titre>Effets de commerce</Titre>
+<Texte>
+				<Paragraphe>Titre négociable constatant une créance au bénéfice du porteur : lettre de change, billet à ordre ou chèque.</Paragraphe>
+			</Texte>
+</Definition>
+<Definition ID="R12700">
+<Titre>Greffe</Titre>
+<Texte>
+				<Paragraphe>Service d'un tribunal composé de fonctionnaires  qui assistent les magistrats dans leur mission</Paragraphe>
+			</Texte>
+</Definition>
+<QuestionReponse ID="F21088" audience="Particuliers">Qu'est-ce qu'une QPC (question prioritaire de constitutionnalité) ?</QuestionReponse>
+</Publication>

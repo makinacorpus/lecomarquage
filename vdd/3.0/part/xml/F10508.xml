@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F10508" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Peut-on verser directement la pension alimentaire à son enfant devenu majeur ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Oui. La pension alimentaire due par un parent à son enfant devenu majeur peut lui être versée directement, sous certaines conditions.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre), Ministère en charge de la justice</dc:contributor>
+<dc:date>modified 2016-08-31</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F10508</dc:identifier>
+<dc:source>http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165499&amp;cidTexte=LEGITEXT000006070721</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N18775</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N18775">Séparation des parents</Niveau>
+<Niveau ID="F10508" type="Fiche Question-réponse">Peut-on verser directement la pension alimentaire à son enfant devenu majeur ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N127">Enfant</SousThemePere><DossierPere ID="N18775">
+<Titre>Séparation des parents</Titre><SousDossier ID="N18775-1">
+<Titre>Relations avec l'enfant</Titre>
+<Fiche ID="F3133">Autorité parentale</Fiche>
+<Fiche ID="F18786">Droit de visite et d'hébergement</Fiche>
+<Fiche ID="F18785">Résidence de l'enfant</Fiche>
+<Fiche ID="F1774">Opposition et interdiction de sortie du territoire de l'enfant</Fiche>
+<Fiche ID="F1223">Relations de l'enfant avec sa famille ou ses proches</Fiche>
+</SousDossier>
+<SousDossier ID="N18775-2">
+<Titre>Pension alimentaire</Titre>
+<Fiche ID="F991">Fixation et versement</Fiche>
+<Fiche ID="F2010">Réévaluation</Fiche>
+<Fiche ID="F21023">Révision</Fiche>
+</SousDossier>
+</DossierPere>
+
+<Texte><Paragraphe>Quand l'enfant vit chez son parent (père ou mère), la pension alimentaire est normalement versée au parent qui l'héberge et qui assure son entretien et son éducation. </Paragraphe>
+<Paragraphe>Cependant, lorsque l'enfant devient majeur et s'il ne vit plus chez son parent, le juge peut décider que la pension alimentaire lui soit versée directement en tout ou partie. </Paragraphe>
+<Paragraphe>Le <LienInterne LienPublication="F2176" type="Fiche avec liens externes" audience="Particuliers">juge aux affaires familiales</LienInterne> peut être saisi :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>par les parents pour homologuer leur accord sur les modalités de paiement de la pension alimentaire, c'est-à-dire lui donner la force contraignante d'un jugement ("<LienIntra LienID="R1056" type="Définition de glossaire">titre exécutoire</LienIntra>"). Dans ce cas, l'enfant majeur doit donner son accord. </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou par l'enfant majeur lui-même.</Paragraphe>
+</Item>
+</Liste>
+
+</Texte><OuSAdresser ID="R11621" type="Local personnalisé sur SP">
+<Titre>Maison de justice et du droit</Titre>
+<Complement>Pour obtenir des informations complémentaires</Complement>
+<PivotLocal>mjd</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/index.php?rubrique=10111"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<OuSAdresser ID="R30" type="Local personnalisé sur SP">
+<Titre>Tribunal de grande instance (TGI)</Titre>
+<Complement>Pour saisir le juge des affaires familiales</Complement>
+<PivotLocal>tgi</PivotLocal>
+<RessourceWeb URL="http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-grande-instance-21768.html"/>
+<Source ID="R30663">Ministère en charge de la justice</Source>
+</OuSAdresser>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165499&amp;cidTexte=LEGITEXT000006070721" ID="R18793">
+<Titre>Code civil : articles 373-2 à 373-2-5</Titre>
+<Complement>Exercice de l'autorité parentale par les parents séparés</Complement>
+</Reference>
+<Definition ID="R1056">
+<Titre>Titre exécutoire</Titre>
+<Texte>
+				<Paragraphe>Écrit permettant au créancier d'obtenir le recouvrement forcé de sa créance (saisie des biens)</Paragraphe>
+			</Texte>
+</Definition>
+</Publication>

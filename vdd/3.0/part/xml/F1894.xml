@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F1894" type="Fiche Question-réponse" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Frais de transport d'un élève handicapé : quelle prise en charge ?</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les frais de transport d'un élève handicapé scolarisé en milieu ordinaire peuvent être pris en charge par le département.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2015-11-16</dc:date>
+<dc:type>Question-réponse</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F1894</dc:identifier>
+<dc:source>http://www.legifrance.org/affichCode.do?idSectionTA=LEGISCTA000006193141&amp;cidTexte=LEGITEXT000006071191, http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174431&amp;cidTexte=LEGITEXT000006074069</dc:source>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N57</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Question-réponse</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N57">École et handicap</Niveau>
+<Niveau ID="F1894" type="Fiche Question-réponse">Frais de transport d'un élève handicapé : quelle prise en charge ?</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20265">Scolarité</SousThemePere><DossierPere ID="N57">
+<Titre>École et handicap</Titre>
+<Fiche ID="F1868">Accueil de l'enfant de moins de 3 ans</Fiche>
+<Fiche ID="F14984">Scolarisation en primaire (maternelle et élémentaire)</Fiche>
+<Fiche ID="F14953">Scolarisation au collège et au lycée</Fiche>
+</DossierPere>
+
+<Texte><Paragraphe>Les frais de transport d'un élève handicapé scolarisé en <LienIntra LienID="R19321" type="Définition de glossaire">milieu ordinaire</LienIntra> peuvent être pris en charge par le département.</Paragraphe>
+<Paragraphe>Tout élève, dont la situation de handicap empêche l'utilisation des transports en commun, peut bénéficier de ce dispositif.</Paragraphe>
+<Paragraphe>Il concerne tout élève qui remplit les conditions suivantes : </Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>être scolarisé en milieu ordinaire dans un établissement d'enseignement général, agricole ou professionnel, public ou privé (primaire et secondaire jusqu'à la terminale),</Paragraphe>
+</Item>
+<Item>
+<Paragraphe>et présenter une situation de handicap dont la gravité est médicalement reconnue (un taux d'incapacité supérieur à 50 % est généralement retenu) par la commission des droits et de l'autonomie des personnes handicapées (CDAPH).</Paragraphe>
+</Item>
+</Liste>
+
+<Chapitre>
+<Titre>
+<Paragraphe>Types de transport</Paragraphe>
+</Titre><Paragraphe>Cette prise en charge concerne l'utilisation :</Paragraphe>
+<Liste type="puce">
+<Item>
+<Paragraphe>d'un transport collectif adapté, </Paragraphe>
+</Item>
+<Item>
+<Paragraphe>ou d'un véhicule appartenant à la famille ou  exploité par un tiers.</Paragraphe>
+</Item>
+</Liste>
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Démarche</Paragraphe>
+</Titre><Paragraphe>Il convient de s'adresser au chef de l'établissement scolaire que fréquente l'enfant handicapé qui fera la demande auprès du département concerné.</Paragraphe><OuSAdresser ID="R12125" type="Local personnalisable">
+<Titre>Établissement scolaire</Titre>
+<PivotLocal>etablissement_scolaire</PivotLocal>
+<RessourceWeb URL="http://www.education.gouv.fr/pid24301/annuaire-accueil-recherche.html"/>
+</OuSAdresser>
+
+
+</Chapitre>
+<Chapitre>
+<Titre>
+<Paragraphe>Remboursement</Paragraphe>
+</Titre><Paragraphe>Pour les déplacements dans un véhicule appartenant à l'élève ou à sa famille, le remboursement des frais s'opère sur la base d'un tarif fixé par le département.</Paragraphe>
+<Paragraphe>Pour les déplacements dans un véhicule exploité par un tiers rémunéré à ce titre (taxi par exemple), le remboursement des frais s'opère sur la base des dépenses réelles, dûment justifiées.</Paragraphe>
+<Paragraphe>Les frais de transport sont remboursés directement aux familles ou aux intéressés s'ils sont majeurs, ou à l'organisme qui en a fait l'avance.</Paragraphe>
+<ANoter>
+<Titre>À noter</Titre><Paragraphe>dans la région Île-de-France, les frais de transport sont à la charge du Syndicat des transports d'Île-de-France (Stif).</Paragraphe>
+</ANoter>
+</Chapitre>
+</Texte><Reference type="Texte de référence" URL="http://www.legifrance.org/affichCode.do?idSectionTA=LEGISCTA000006193141&amp;cidTexte=LEGITEXT000006071191" ID="R21693">
+<Titre>Code de l'éducation : articles R213-13 à R213-16</Titre>
+<Complement>Prise en charge des frais de transport</Complement>
+</Reference>
+<Reference type="Texte de référence" URL="http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006174431&amp;cidTexte=LEGITEXT000006074069" ID="R32759">
+<Titre>Code de l'action sociale et des familles : articles L242-1 à L242-13</Titre>
+<Complement>Prise en charge des frais de transport</Complement>
+</Reference>
+<PourEnSavoirPlus type="Information pratique" ID="R2999" URL="http://www.onisep.fr/onisep-portail/portal/media-type/html/group/gp/page/accueil.espace.handicap" audience="Particuliers">
+<Titre>Scolarité et handicap</Titre>
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R2998" URL="http://cache.media.education.gouv.fr/file/Maternelle_baccalaureat/65/9/Guide_pour_la_scolarisation_des_enfants_et_adolescents_en_situation_de_handicap_469659.pdf" audience="Particuliers">
+<Titre>Guide pour la scolarisation des enfants et adolescents en situation de handicap</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R32057" URL="http://cache.media.education.gouv.fr/file/Handicapes/90/7/Brochure_mieux_connaitre_et_comportements_216907.pdf" audience="Particuliers" format="application/pdf" poids="571.6 KB">
+<Titre>Brochure "Mieux connaître les handicaps, adapter son comportement"</Titre>
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R41619" URL="http://www.ecolepourtous.education.fr/accueil-scolarisationdeslv.html" audience="Particuliers">
+<Titre>Site l'École pour tous</Titre>
+<Source ID="R30756">Centre national de documentation pédagogique (CNDP)</Source>
+</PourEnSavoirPlus>
+<Definition ID="R19321">
+<Titre>Milieu ordinaire</Titre>
+<Texte>
+				<Paragraphe>Non spécifiquement réservé aux personnes handicapées</Paragraphe>
+			</Texte>
+</Definition>
+
+<QuestionReponse ID="F15112" audience="Particuliers">Comment sont aménagés les examens pour un candidat en situation de handicap ?</QuestionReponse>
+<QuestionReponse ID="F21392" audience="Particuliers">Qu'est-ce qu'un projet d'accueil individualisé (PAI) ?</QuestionReponse>
+<QuestionReponse ID="F541" audience="Particuliers">Qu'est-ce que l'enseignement à distance ?</QuestionReponse>
+</Publication>

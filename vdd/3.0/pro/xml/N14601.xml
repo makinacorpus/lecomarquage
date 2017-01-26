@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="N14601" type="Dossier" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Santé et sécurité au travail</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Ressources humaines</dc:subject>
+<dc:description>Santé et sécurité au travail</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-07-01</dc:date>
+<dc:type>Dossier</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>N14601</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N24267</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Dossier</SurTitre>
+<Audience>Professionnels</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Professionnels">Accueil professionnels</Niveau>
+<Niveau ID="N24267">Ressources humaines</Niveau>
+<Niveau ID="N14601" type="Dossier">Santé et sécurité au travail</Niveau>
+</FilDAriane>
+<Theme ID="N24267">
+<Titre>Ressources humaines</Titre>
+</Theme>
+<SousThemePere ID="N10813">Réglementation du travail</SousThemePere>
+<Fiche ID="F24246">Déclaration d'accident du travail par l'employeur</Fiche>
+<Fiche ID="F24262">Invalidité ou arrêt de travail pour maladie : démarches de l'employeur</Fiche>
+<Fiche ID="F1905">Règlement intérieur d'une entreprise</Fiche>
+<Fiche ID="F33777">Compte pénibilité : les obligations de l'employeur</Fiche>
+<Fiche ID="F2344">Jeune de 15 à 18 ans en entreprise : travaux interdits et travaux réglementés</Fiche><ServiceEnLigne ID="R17931" URL="http://rdvsantemarin.application.equipement.gouv.fr/agendassgm/index.jsp" numerocerfa="12904*01" type="Téléservice">
+<Titre>Service de santé des gens de mer (SSGM)</Titre>
+<Source ID="R30611">Ministère en charge des transports</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14586" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S6210.pdf" format="text/html" poids="7.1 KB" numerocerfa="11141*01" autrenumero="S6210" type="Formulaire">
+<Titre>Rapport de l'employeur destiné au comité régional de reconnaissance des maladies professionnelles (CRRMP)</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17124" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12758.do" format="application/pdf" poids="269.1 KB" numerocerfa="12758*01" autrenumero="61-2256" type="Formulaire">
+<Titre>Enquête du CHSCT relative à un accident du travail grave</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17125" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12760.do" numerocerfa="12760*01" autrenumero="ancien 61-2257" type="Formulaire">
+<Titre>Enquête du CHSCT relative à une situation de travail relevant un risque de maladie professionnelle ou à caractère professionnel grave</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17126" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12766.do" numerocerfa="12766*01" autrenumero="61-2258" type="Formulaire">
+<Titre>Enquête du CHSCT relative à des situations de risque grave ou à des incidents répétés ayant relevé un risque grave</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14594" URL="http://www.ameli.fr/fileadmin/user_upload/formulaires/S3208.pdf" format="application/pdf" poids="456.0 KB" numerocerfa="11559*03" autrenumero="S3208b" type="Formulaire">
+<Titre>Questionnaire de maintien au régime français de sécurité sociale d'un travailleur salarié détaché</Titre>
+<Source ID="R30675">Caisse nationale d'assurance maladie des travailleurs salariés (Cnamts)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R17932" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11506.do" format="application/pdf" poids="192.6 KB" numerocerfa="11506*03" type="Formulaire">
+<Titre>Demande de reconnaissance de maladie professionnelle (Sécurité sociale des marins)</Titre>
+<Source ID="R30636">Établissement national des invalides de la marine (Enim)</Source><NoticeLiee ID="R15245" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaNotice=50708&amp;cerfaFormulaire=11506" numerocerfa="50708#02">Notice explicative pour la demande de reconnaissance de maladie professionnelle (Sécurité sociale des marins)</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R12158" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11817.do" numerocerfa="11817*01" type="Formulaire">
+<Titre>Proposition de taux d'incapacité permanente du travail</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14997" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_11619.do" format="application/pdf" poids="207.8 KB" numerocerfa="11619*01" type="Formulaire">
+<Titre>Demande de prise en charge de la cotisation accident de travail - formation complémentaire d'un salarié en contrat emploi consolidé</Titre>
+<Source ID="R30656">Ministère en charge de l'économie</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R22114" URL="https://www.impots.gouv.fr/portail/node/9043" numerocerfa="11112*07" autrenumero="2770" type="Formulaire">
+<Titre>Contribution au fonds commun des accidents du travail agricole</Titre>
+<Source ID="R30612">Ministère en charge des finances</Source>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R14596" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12578.do" format="application/pdf" poids="92.6 KB" numerocerfa="12578*04" type="Formulaire">
+<Titre>Déclaration d'accident du travail des non-salariés agricoles</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source><NoticeLiee ID="R19392" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=12578&amp;cerfaNotice=51084" numerocerfa="51084#04" format="application/pdf" poids="26.8 KB">Notice pour la déclaration d'accident du travail et de maladie professionnelle des non-salariés agricoles</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19393" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_10131.do" format="application/pdf" poids="244.5 KB" numerocerfa="10131*03" type="Formulaire">
+<Titre>Déclaration de maladie professionnelle pour les salariés agricoles</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source><NoticeLiee ID="R19394" URL="https://www.formulaires.modernisation.gouv.fr/gf/getNotice.do?cerfaFormulaire=10131&amp;cerfaNotice=50055" numerocerfa="50055#03" format="application/pdf" poids="170.6 KB">Notice pour la déclaration de maladie professionnelle des salariés agricoles</NoticeLiee>
+</ServiceEnLigne>
+<ServiceEnLigne ID="R19405" URL="https://www.formulaires.modernisation.gouv.fr/gf/cerfa_12577.do" format="application/pdf" poids="113.4 KB" numerocerfa="12577*01" type="Formulaire">
+<Titre>Feuille d'accident du travail ou maladie professionnelle pour les non-salariés agricoles</Titre>
+<Source ID="R30660">Caisse centrale de la mutualité sociale agricole (MSA)</Source>
+</ServiceEnLigne>
+<PourEnSavoirPlus type="Information pratique" ID="R41989" URL="http://groupe.afnor.org/pdf-portail/guide-carsat-sst.pdf" audience="Professionnels">
+<Titre>Guide pratique : Management de la santé et de la sécurité au travail</Titre>
+<Source ID="R30616">Association française de normalisation (Afnor)</Source>
+</PourEnSavoirPlus>
+<PourEnSavoirPlus type="Information pratique" ID="R45315" URL="http://travail-emploi.gouv.fr/grands-dossiers/tpe-pme/je-gere-mes-ressources-humaines/article/le-role-de-l-inspection-du-travail" audience="Professionnels">
+<Titre>Rôle de l'inspection du travail</Titre>
+<Source ID="R30661">Ministère en charge du travail</Source>
+</PourEnSavoirPlus>
+<QuestionReponse ID="F24249" audience="Professionnels">Que doit faire l'employeur en cas de décès d'un salarié ?</QuestionReponse>
+<QuestionReponse ID="F24505" audience="Professionnels">Quelles sont les surfaces minimales pour un espace de travail ?</QuestionReponse>
+<QuestionReponse ID="F31261" audience="Professionnels">Quelles sont les obligations de l'employeur en matière de secourisme au travail ?</QuestionReponse>
+<QuestionReponse ID="F33665" audience="Professionnels">Comment calculer les cotisations d'accidents du travail (AT) et maladies professionnelles (MP) ?</QuestionReponse>
+</Publication>

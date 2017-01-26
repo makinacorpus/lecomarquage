@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Publication xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="F23489" type="Fiche avec liens externes" xsi:noNamespaceSchemaLocation="../Schemas/3.0/Publication.xsd">
+<dc:title>Enseignement supérieur : formations et diplômes de la santé</dc:title>
+<dc:creator>Direction de l'information légale et administrative</dc:creator>
+<dc:subject>Famille</dc:subject>
+<dc:description>Les métiers de la santé sont nombreux et les formations diffèrent selon la spécialité choisie. La première année commune (Paces) concerne 4 filières : médecine, dentaire, pharmacie et maïeutique.</dc:description>
+<dc:publisher>Direction de l'information légale et administrative</dc:publisher>
+<dc:contributor>Direction de l'information légale et administrative (Premier ministre)</dc:contributor>
+<dc:date>modified 2016-09-05</dc:date>
+<dc:type>Fiche pratique</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:identifier>F23489</dc:identifier>
+<dc:language>Fr</dc:language>
+<dc:relation>isPartOf N23482</dc:relation>
+<dc:coverage>France entière</dc:coverage>
+<dc:rights>https://www.service-public.fr/a-propos/mentions-legales</dc:rights>
+<SurTitre>Fiche pratique</SurTitre>
+<Audience>Particuliers</Audience>
+<Canal>www.service-public.fr</Canal>
+<FilDAriane>
+<Niveau ID="Particuliers">Accueil particuliers</Niveau>
+<Niveau ID="N19805">Famille</Niveau>
+<Niveau ID="N23482">Formations et diplômes de l'enseignement supérieur</Niveau>
+<Niveau ID="F23489" type="Fiche avec liens externes">Enseignement supérieur : formations et diplômes de la santé</Niveau>
+</FilDAriane>
+<Theme ID="N19805">
+<Titre>Famille</Titre>
+</Theme>
+<SousThemePere ID="N20400">Études supérieures</SousThemePere><DossierPere ID="N23482">
+<Titre>Formations et diplômes de l'enseignement supérieur</Titre>
+<Fiche ID="F23483">Formations et diplômes jusqu'au niveau Bac + 2</Fiche>
+<Fiche ID="F23490">Formations et diplômes jusqu'au niveau Bac + 3 et plus</Fiche>
+<Fiche ID="F23489">Métiers de la santé</Fiche>
+<Fiche ID="F16734">Stage en milieu professionnel</Fiche>
+</DossierPere>
+
+<Introduction>
+<Texte><Paragraphe>
+			Les métiers de la santé sont nombreux et les formations diffèrent selon la spécialité choisie.
+			
+        La première année commune (Paces) concerne 4 filières : médecine, dentaire, pharmacie et maïeutique.</Paragraphe>
+</Texte>
+</Introduction>
+<LienExterneCommente><LienExterne URL="http://www.enseignementsup-recherche.gouv.fr/cid53276/les-etudes-sante.html#La%20PACES%C2%A0:%20premi%C3%A8re%20ann%C3%A9e%20commune%20des%20%C3%A9tudes%20de%20sant%C3%A9">Première année commune des études de santé (Paces)</LienExterne>
+
+<Source ID="R30638">Ministère en charge de l'éducation</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Ressources/Univers-Metier/Metiers/infirmier-infirmiere">Études d'infirmier(ière)</LienExterne>
+
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Ressources/Univers-Metier/Metiers/masseur-masseuse-kinesitherapeute">Études de masseur(euse)-kinésithérapeute</LienExterne>
+
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-etudes-medicales/Les-etudes-de-sage-femme">Études de sage-femme</LienExterne>
+
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Domaines-d-etudes/Les-etudes-medicales/Les-etudes-de-pharmacie">Études de pharmacie</LienExterne>
+
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-etudes-medicales/Les-etudes-d-odontologie">Études d'odontologie</LienExterne>
+
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</LienExterneCommente>
+<LienExterneCommente><LienExterne URL="http://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Principaux-domaines-d-etudes/Les-etudes-medicales/Les-etudes-de-medecine">Études de médecine</LienExterne>
+
+<Source ID="R30743">Office national d'information sur les enseignements et les professions (Onisep)</Source>
+</LienExterneCommente><OuSAdresser ID="R2487" type="Local personnalisable">
+<Titre>Établissement d'enseignement supérieur</Titre>
+<Complement>Pour trouver un établissement formant aux métiers de la santé</Complement>
+<PivotLocal>etablissement_enseignement_superieur</PivotLocal>
+<RessourceWeb URL="http://www.enseignementsup-recherche.gouv.fr/cid49705/etablissements-enseignement-superieur-recherche.html"/>
+</OuSAdresser>
+<QuestionReponse ID="F10492" audience="Particuliers">Comment obtenir la copie d'un diplôme ?</QuestionReponse>
+</Publication>
